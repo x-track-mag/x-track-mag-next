@@ -1,0 +1,4 @@
+# Prettier gets in conflict with Forestry on Front Matter indentation
+*.md
+# Keep path on long lines for these SVG components
+src/components/icons/Svg*.js
