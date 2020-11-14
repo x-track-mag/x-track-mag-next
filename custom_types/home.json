@@ -1,0 +1,42 @@
+{
+	"Main": {
+		"scrolling-news": {
+			"type": "Group",
+			"config": {
+				"fields": {
+					"message": {
+						"type": "Text",
+						"config": {
+							"label": "Message",
+							"placeholder": "Holy cow Batman We are on screen !"
+						}
+					}
+				},
+				"label": "Bandeau"
+			}
+		},
+		"pinned-posts": {
+			"type": "Group",
+			"config": {
+				"fields": {
+					"position": {
+						"type": "Number",
+						"config": {
+							"label": "Position",
+							"placeholder": "En quelle position épingler l'article ?"
+						}
+					},
+					"link": {
+						"type": "Link",
+						"config": {
+							"select": "media",
+							"label": "Lien Interne",
+							"placeholder": "Choisissez un article à épingler"
+						}
+					}
+				},
+				"label": "Articles épinglés"
+			}
+		}
+	}
+}

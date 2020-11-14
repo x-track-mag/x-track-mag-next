@@ -1,0 +1,252 @@
+{
+	"Main": {
+		"title": {
+			"type": "Text",
+			"config": {
+				"label": "Titre",
+				"required": true
+			}
+		},
+		"uid": {
+			"type": "UID",
+			"config": {
+				"label": "Slug"
+			}
+		},
+		"image": {
+			"type": "Image",
+			"config": {
+				"constraint": {
+					"width": 1920
+				},
+				"thumbnails": [
+					{
+						"name": "desktop",
+						"width": 1024,
+						"height": null
+					}
+				],
+				"label": "Image"
+			}
+		},
+		"subtitle": {
+			"type": "Text",
+			"config": {
+				"label": "Sous-Titre"
+			}
+		},
+		"type": {
+			"type": "Select",
+			"config": {
+				"options": ["Article", "Playlist", "Video", "Lien Interne"],
+				"default_value": "Article",
+				"label": "Type"
+			}
+		},
+		"template": {
+			"type": "Select",
+			"config": {
+				"options": [
+					"1: Image + Titre + sous-titre + infos",
+					"2: Image + Titre + infos",
+					"3: Image + Titre",
+					"4: Image + Titre sur fond blanc",
+					"5: 2 colonnes Titre + Image",
+					"6: Image + infos sans hover"
+				],
+				"default_value": "",
+				"label": "Template à utiliser sur la Home"
+			}
+		},
+		"author": {
+			"type": "Text",
+			"config": {
+				"label": "Author",
+				"placeholder": "Le nom de l'auteur de ce post"
+			}
+		}
+	},
+	"Contenu": {
+		"sections": {
+			"type": "Slices",
+			"fieldset": "Slice zone",
+			"config": {
+				"labels": {
+					"section-hero": [],
+					"section-full-text": [],
+					"section-two-columns": [],
+					"section-quote": [],
+					"section-playlist": [],
+					"section-video-launcher": []
+				},
+				"choices": {
+					"section-hero": {
+						"type": "Slice",
+						"fieldset": "Section Hero",
+						"description": "Une image full screen",
+						"icon": "aspect_ratio",
+						"display": "list",
+						"non-repeat": {
+							"hero-title": {
+								"type": "StructuredText",
+								"config": {
+									"single": "heading2",
+									"label": "Title",
+									"placeholder": "Accroche (optionnelle)"
+								}
+							},
+							"image": {
+								"type": "Image",
+								"config": {
+									"constraint": {
+										"width": 1920
+									},
+									"thumbnails": [
+										{
+											"name": "desktop",
+											"width": 1024,
+											"height": null
+										}
+									],
+									"label": "Image"
+								}
+							}
+						},
+						"repeat": {}
+					},
+					"section-full-text": {
+						"type": "Slice",
+						"fieldset": "Section Texte",
+						"description": "Une section mono-colonne de texte éditorial",
+						"icon": "format_align_center",
+						"display": "list",
+						"non-repeat": {
+							"text": {
+								"type": "StructuredText",
+								"config": {
+									"multi": "paragraph, heading2, heading3, strong, em, hyperlink",
+									"allowTargetBlank": true,
+									"label": "Texte",
+									"placeholder": "Entrez le contenu texte de cette section ici"
+								}
+							}
+						},
+						"repeat": {}
+					},
+					"section-two-columns": {
+						"type": "Slice",
+						"fieldset": "Section Deux colonnes",
+						"description": "Une section éditoriale Texte + Image",
+						"icon": "recent_actors",
+						"display": "list",
+						"non-repeat": {
+							"text": {
+								"type": "StructuredText",
+								"config": {
+									"multi": "paragraph, heading2, heading3, heading4, strong, em, hyperlink, image, embed, list-item, o-list-item",
+									"allowTargetBlank": true,
+									"label": "Texte"
+								}
+							},
+							"image": {
+								"type": "Image",
+								"config": {
+									"constraint": {
+										"width": 1024
+									},
+									"label": "Image"
+								}
+							},
+							"text-position": {
+								"type": "Select",
+								"config": {
+									"options": ["Image | Texte", "Texte | Image"],
+									"default_value": "Image | Texte",
+									"label": "Position texte"
+								}
+							}
+						},
+						"repeat": {}
+					},
+					"section-quote": {
+						"type": "Slice",
+						"fieldset": "Citation",
+						"description": "Une section citation pleine largeur de page",
+						"icon": "format_quote",
+						"display": "list",
+						"non-repeat": {
+							"text": {
+								"type": "StructuredText",
+								"config": {
+									"single": "paragraph, hyperlink",
+									"allowTargetBlank": true,
+									"label": "Texte"
+								}
+							}
+						},
+						"repeat": {}
+					},
+					"section-playlist": {
+						"type": "Slice",
+						"fieldset": "Playliste",
+						"description": "Des playlistes sur Mixcloud, Spotify, Youtube..",
+						"icon": "album",
+						"display": "list",
+						"non-repeat": {},
+						"repeat": {
+							"playlist__link": {
+								"type": "Link",
+								"config": {
+									"select": "media",
+									"label": "Lien",
+									"placeholder": "Lien à embedder"
+								}
+							}
+						}
+					},
+					"section-video-launcher": {
+						"type": "Slice",
+						"fieldset": "Vidéo",
+						"description": "Section de lancement d'une vidéo",
+						"icon": "live_tv",
+						"display": "list",
+						"non-repeat": {
+							"text": {
+								"type": "StructuredText",
+								"config": {
+									"multi": "paragraph, heading2, heading3, strong, em, hyperlink",
+									"label": "Intro",
+									"placeholder": "Le texte d'intro en regard de la vidéo"
+								}
+							},
+							"link": {
+								"type": "Embed",
+								"config": {
+									"label": "Embeddable",
+									"placeholder": "Le lien vers la vidéo à intégrer (Youtube, Vimeo..)"
+								}
+							},
+							"image": {
+								"type": "Image",
+								"config": {
+									"constraint": {
+										"width": 1920
+									},
+									"thumbnails": [
+										{
+											"name": "desktop",
+											"width": 1024,
+											"height": null
+										}
+									],
+									"label": "Image"
+								}
+							}
+						},
+						"repeat": {}
+					}
+				}
+			}
+		}
+	}
+}
