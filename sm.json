@@ -1,0 +1,4 @@
+{
+	"libraries": ["@/slices"],
+	"apiEndpoint": "https://x-track-mag.cdn.prismic.io/api/v2"
+}
