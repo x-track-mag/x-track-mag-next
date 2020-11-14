@@ -1,0 +1,16 @@
+/* SASSLINE BASE SCSS THEME */
+/* ------------------------ */
+
+// Import Sassline base SCSS files in order so variables are read correctly.
+@import "base/reset";
+@import "base/variables";
+@import "base/modular-scale";
+@import "base/mixins";
+@import "base/typography";
+@import "base/layouts";
+
+// Import your project SCSS module partials.
+@import "modules/globals";
+@import "modules/nav";
+@import "modules/header";
+@import "modules/footer";
