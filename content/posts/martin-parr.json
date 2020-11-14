@@ -1,0 +1,143 @@
+{
+	"id": "X6kbAhIAACMAxjbs",
+	"uid": "martin-parr",
+	"type": "post",
+	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=X68mqRIAAEvm4Yfk&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X6kbAhIAACMAxjbs%22%29+%5D%5D",
+	"tags": [
+		"article"
+	],
+	"first_publication_date": "2020-11-10T12:59:45+0000",
+	"last_publication_date": "2020-11-14T00:04:28+0000",
+	"slugs": [
+		"photographier-le-quotidien",
+		"martin-parr"
+	],
+	"linked_documents": [],
+	"lang": "fr-fr",
+	"alternate_languages": [],
+	"data": {
+		"title": "Martin Parr",
+		"image": {
+			"dimensions": {
+				"width": 1920,
+				"height": 1281
+			},
+			"alt": null,
+			"copyright": null,
+			"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format&rect=0,0,1280,854&w=1920&h=1281",
+			"desktop": {
+				"dimensions": {
+					"width": 1024,
+					"height": 683
+				},
+				"alt": null,
+				"copyright": null,
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format&rect=0,0,1280,854&w=1024&h=683"
+			}
+		},
+		"subtitle": "Un Monde à Parr",
+		"type": "Article",
+		"template": "1: Image + Titre + sous-titre + infos",
+		"author": "Aphelandra Siassia",
+		"sections": [
+			{
+				"slice_type": "section-full-text",
+				"slice_label": null,
+				"items": [
+					{}
+				],
+				"primary": {
+					"text": [
+						{
+							"type": "paragraph",
+							"text": "Kitsch, décalée tout en restant encline aux réalités sociales, l’oeuvre de Martin Parr trouble tant elle semble documenter notre temps. En nous confrontant à l’absurdité de la vie quotidienne, le photographe se place en témoin d’une époque où le spectacle et la consommation prévalent sur le lien social. ",
+							"spans": []
+						},
+						{
+							"type": "heading2",
+							"text": "Photographier le quotidien ",
+							"spans": []
+						},
+						{
+							"type": "paragraph",
+							"text": "Martin Parr est initié dès l’enfance à la pratique photographique, encouragé par son grand-père, lui-même grand amateur. C’est donc sans surprise que le jeune homme poursuit son apprentissage à la Manchester Polytechnic School au début des années 1970. Très vite, il s’oriente vers la photographie documentaire et innove en proposant un style et un point de vue résolument personnel. Au lieu de rendre compte des crises et des événements historiques comme la plupart des grands reporters de l’époque, Martin Parr capture des instants d’une banalité déconcertante, glaçantes par moment. Des fragments de vie, des indices d’un monde globalisé embourbé dans ses paradoxes.",
+							"spans": []
+						}
+					]
+				}
+			},
+			{
+				"slice_type": "section-quote",
+				"slice_label": null,
+				"items": [
+					{}
+				],
+				"primary": {
+					"text": [
+						{
+							"type": "paragraph",
+							"text": "\"J’apprécie la photo vernaculaire, car ses motivations sont pures. On prend la photo dans un but précis, pas juste pour faire une belle photo. C’est très difficile de dire ce qui fait une bonne photo, il doit y avoir une intention derrière, une contradiction, une ambiguïté et aussi une bonne construction dans l’image. Elle doit attirer l’œil du spectateur, lui donner matière à réfléchir ou même le bousculer. Il doit y avoir un deuxième niveau de lecture.\" \nexpliquait l’artiste au journaliste Yann Lagarde sur France Culture en 2019. ",
+							"spans": []
+						}
+					]
+				}
+			},
+			{
+				"slice_type": "section-full-text",
+				"slice_label": null,
+				"items": [
+					{}
+				],
+				"primary": {
+					"text": [
+						{
+							"type": "heading2",
+							"text": "Artiste incontournable de la photographie contemporaine",
+							"spans": []
+						},
+						{
+							"type": "paragraph",
+							"text": "Petit à petit, son travail gagne en visibilité et en reconnaissance. Au milieu des années 1990, il intègre la Magnum Photographic Cooperative, soit l’une des plus importante coopérative de photographes du monde. Dès lors, des rétrospectives de son oeuvre sont organisées au quatre coins du globe, des recueils sont édités - près de 120 aujourd’hui - et l’artiste reçoit plusieurs récompenses. En 2008, il est sacré pour son travail au Festival PhotoEspana de Madrid et en 2017, au Sony World Photography Award. Et entre 2013 et 2017, il occupera même le poste de président de la Magnum Photos.",
+							"spans": []
+						},
+						{
+							"type": "paragraph",
+							"text": "Autre spécificité de l’artiste : sa capacité à jongler d’un style à l’autre sans jamais perdre son univers et son oeil acéré. Pendant toute sa carrière, le photographe est passé par le documentaire, la publicité ou la mode, s’attirant parfois les foudres de certains spécialistes sans pour autant perdre son aura. ",
+							"spans": []
+						},
+						{
+							"type": "heading2",
+							"text": "Un style personnel ",
+							"spans": []
+						},
+						{
+							"type": "paragraph",
+							"text": "Les scènes de masse, de touristes agglutinés répétant machinalement les mêmes gestes traversent le travail de Parr depuis ses débuts. La série Small World, réalisée dans les années 90 cristallise pleinement cette approche. Sur le cliché The artificial Beach inside the ocean dome capturé à Miyazaki au Japon en 1996, on peut apercevoir une foule de personnes regroupées sur une plage artificielle. ",
+							"spans": []
+						},
+						{
+							"type": "paragraph",
+							"text": "La palette chromatique est saturée, acide ce qui ne fait qu’accentuer l’aspect factice et surréaliste de la scène. Aussi, la photographie est prise en plongée ce qui met à distance le photographe et le regardeur. Ici, Martin Parr nous place en spectateur d’une société semblant déchargée de toute constance. Un monde où les individus préfèrent s’amasser dans un espace clos, aseptisé plutôt que de se rendre sur une plage en pleine nature. Le cliché oscille entre humour et critique, un entre deux faisant le sel et la richesse de l’oeuvre du photographe. ",
+							"spans": []
+						},
+						{
+							"type": "heading2",
+							"text": "Une référence majeure pour les artistes",
+							"spans": []
+						},
+						{
+							"type": "paragraph",
+							"text": "Aujourd’hui, l’influence de Parr résonne dans l’oeuvre de nombreux artistes tant dans le monde de la photographie que dans l’ensemble des arts visuels. Chez les jeunes auteurs/trices, son influence est telle qu’elle n’a plus besoin d’être citée. Le travail du photographe américain Julian Master s’inscrit pleinement dans le sillage du maître anglais. Dans l’ensemble de ses séries photographiques, il dépeint avec humour la société américaine. ",
+							"spans": []
+						},
+						{
+							"type": "paragraph",
+							"text": "Dans le monde du cinéma, l’esthétique kitsch d’un Wes Anderson ou d’un Gregg Araki ne sont pas sans rappeler l’approche de Martin Parr tant dans l’utilisation de la palette chromatique que dans la représentation de certains personnages. Au fil du temps, l’empreinte du photographe s’est propagée dans le monde de l’art. Dans le contexte actuel, elle participe à nous éclairer davantage sur notre vision du monde.",
+							"spans": []
+						}
+					]
+				}
+			}
+		]
+	}
+}
