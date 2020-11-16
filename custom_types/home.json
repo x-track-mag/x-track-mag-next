@@ -1,6 +1,19 @@
 {
 	"Main": {
-		"scrolling-news": {
+		"title": {
+			"type": "StructuredText",
+			"config": {
+				"single": "heading1",
+				"label": "Title"
+			}
+		},
+		"uid": {
+			"type": "UID",
+			"config": {
+				"label": "UID"
+			}
+		},
+		"scrolling_news": {
 			"type": "Group",
 			"config": {
 				"fields": {
@@ -15,7 +28,7 @@
 				"label": "Bandeau"
 			}
 		},
-		"pinned-posts": {
+		"pinned_posts": {
 			"type": "Group",
 			"config": {
 				"fields": {
@@ -29,9 +42,8 @@
 					"link": {
 						"type": "Link",
 						"config": {
-							"select": "media",
 							"label": "Lien Interne",
-							"placeholder": "Choisissez un article à épingler"
+							"placeholder": "Choisissez l'article à épingler"
 						}
 					}
 				},

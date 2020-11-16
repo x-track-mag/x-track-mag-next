@@ -87,7 +87,7 @@
 						"icon": "aspect_ratio",
 						"display": "list",
 						"non-repeat": {
-							"hero-title": {
+							"title": {
 								"type": "StructuredText",
 								"config": {
 									"single": "heading2",
@@ -157,7 +157,7 @@
 									"label": "Image"
 								}
 							},
-							"text-position": {
+							"template": {
 								"type": "Select",
 								"config": {
 									"options": ["Image | Texte", "Texte | Image"],
@@ -194,7 +194,7 @@
 						"display": "list",
 						"non-repeat": {},
 						"repeat": {
-							"playlist__link": {
+							"link": {
 								"type": "Link",
 								"config": {
 									"select": "media",
