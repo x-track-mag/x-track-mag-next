@@ -8,4 +8,16 @@ export const transformPost = (postData, options) => {
 	const { uid, tags, first_publication_date, data } = postData;
 
 	// Extract the main body informations
+	const { title, subtitle, image, template, author, sections } = data;
+
+	return {
+		uid,
+		tags,
+		publication_date: first_publication_date,
+		title,
+		subtitle,
+		image,
+		template,
+		author
+	};
 };

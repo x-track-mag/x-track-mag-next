@@ -1,3 +1,4 @@
+import ServerError from "../ServerError.js";
 import Prismic from "prismic-javascript";
 
 let client = null;
@@ -67,11 +68,11 @@ export const getEntries = async ({
 		}
 		return results;
 	} catch (err) {
-		console.error(err);
-		return {
-			success: false,
-			error: err.message
-		};
+		throw new ServerError(
+			`getEntries({type:"${type}"}) call failed with error
+${err.message}`,
+			err.code
+		);
 	}
 };
 
