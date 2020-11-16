@@ -88,11 +88,17 @@
 						"display": "list",
 						"non-repeat": {
 							"title": {
-								"type": "StructuredText",
+								"type": "Text",
 								"config": {
-									"single": "heading2",
-									"label": "Title",
+									"label": "Accroche",
 									"placeholder": "Accroche (optionnelle)"
+								}
+							},
+							"subtitle": {
+								"type": "Text",
+								"config": {
+									"label": "Accroche secondaire",
+									"placeholder": "Accroche secondaire (optionnelle)"
 								}
 							},
 							"image": {
@@ -157,7 +163,7 @@
 									"label": "Image"
 								}
 							},
-							"template": {
+							"columns_order": {
 								"type": "Select",
 								"config": {
 									"options": ["Image | Texte", "Texte | Image"],
