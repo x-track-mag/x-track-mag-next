@@ -1,22 +1,38 @@
-import { getInstance } from "@lib/server/PrismicSDK";
-import SliceZone from "next-slicezone";
-import { useGetStaticProps, useGetStaticPaths } from "next-slicezone/hooks";
+import paths from "@content/paths.json";
+import { SectionResolver } from "@components/sections/index.js";
 
-import resolver from "../sm-resolver.js";
+const PostPage = ({ uid, title, subtitle, author, publication_date, sections }) => {
+	return (
+		<main>
+			{sections.map((section, i) => (
+				<SectionResolver key={`section-${i}`} section={section} />
+			))}
+		</main>
+	);
+};
 
-const Page = (props) => <SliceZone {...props} resolver={resolver} />;
+/**
+ * When in preview mode : Fetch content directly from prismic
+ * else, read the serialized JSON file that we extracted inside the @content dir
+ */
+export const getStaticProps = async ({ params, preview }) => {
+	const uid = params.uid;
+	const { ...postProps } = await import(`@content/posts/${uid}.json`);
+	return {
+		props: { ...postProps }
+	};
+};
 
-// Fetch content from prismic
-export const getStaticProps = useGetStaticProps({
-	client: getInstance(),
-	uid: ({ params }) => params.uid
-});
+/**
+ * We use the serialized data from the static JSON file @content/paths.json
+ */
+export const getStaticPaths = () => {
+	return {
+		paths: paths.map((uid) => ({
+			params: { uid }
+		})),
+		fallback: false
+	};
+};
 
-export const getStaticPaths = useGetStaticPaths({
-	client: getInstance(),
-	type: "page",
-	fallback: true, // process.env.NODE_ENV === 'development',
-	formatPath: ({ uid }) => ({ params: { uid } })
-});
-
-export default Page;
+export default PostPage;
