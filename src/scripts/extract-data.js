@@ -3,7 +3,7 @@ import path, { dirname } from "path";
 import { fileURLToPath } from "url";
 import Env from "../lib/utils/Env.js";
 import { getPosts, getEntry } from "../lib/server/PrismicSDK.js";
-import { transformPost } from "../lib/transform/PrismicDataHandler.js";
+import { transformPost, transformHome } from "../lib/transform/PrismicDataHandler.js";
 
 // REBUILD THE COMMON JS ENV VARIABLES
 const __filename = fileURLToPath(import.meta.url);
@@ -15,24 +15,33 @@ const __dirname = dirname(__filename);
 const extractData = async () => {
 	try {
 		Env.loadEnv();
-		const posts = await getPosts();
+		let posts = await getPosts();
 		const contentDir = path.join(__dirname, "../../content");
 		await fs.ensureDir(contentDir);
 		const postsDir = path.join(contentDir, "posts");
 		await fs.ensureDir(postsDir);
 
+		// Flatten the post but keep the sections
+		posts = posts.map(transformPost({ withSections: true }));
 		// Serialize each posts individually with their full content
 		posts.forEach(async (post) => {
 			const postFileName = path.join(postsDir, `${post.uid}.json`);
 			await fs.writeFile(postFileName, JSON.stringify(post, null, "\t"));
 		});
 
-		// Now serialize all the posts with only the data needed for the Home
-		const home = await getEntry({ type: "home", uid: "home" });
-		home.sections = posts.map(transformPost);
+		// Now build the home page data with the pinned posts
+		const homeData = await getEntry({ type: "home", uid: "home" });
+		const home = transformHome(homeData, posts);
 		await fs.writeFile(
 			path.join(contentDir, "home.json"),
 			JSON.stringify(home, null, "\t")
+		);
+
+		// Finish by exporting the list of paths (uid) for all posts
+		const paths = posts.map((post) => post.uid);
+		await fs.writeFile(
+			path.join(contentDir, "paths.json"),
+			JSON.stringify(paths, null, "\t")
 		);
 
 		console.log(`Files have been written to disk`);
