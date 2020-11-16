@@ -1,0 +1,103 @@
+{
+	"scrolling_news": [
+		"NOUVELLE SESSION LIVE NOLA CHERRI",
+		"AWARE AND COLOURFUL"
+	],
+	"pinned_posts": [
+		{
+			"position": 2,
+			"uid": "nola-cherri"
+		}
+	],
+	"sections": [
+		{
+			"uid": "martin-parr",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-11-10T12:59:45+0000",
+			"title": "Martin Parr",
+			"subtitle": "Un Monde à Parr",
+			"image": {
+				"dimensions": {
+					"width": 1920,
+					"height": 1281
+				},
+				"alt": null,
+				"copyright": null,
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format&rect=0,0,1280,854&w=1920&h=1281",
+				"desktop": {
+					"dimensions": {
+						"width": 1024,
+						"height": 683
+					},
+					"alt": null,
+					"copyright": null,
+					"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format&rect=0,0,1280,854&w=1024&h=683"
+				}
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia"
+		},
+		{
+			"uid": "nola-cherri",
+			"tags": [
+				"video",
+				"music",
+				"live session"
+			],
+			"publication_date": "2020-11-12T22:42:44+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"image": {
+				"dimensions": {
+					"width": 1920,
+					"height": 1083
+				},
+				"alt": null,
+				"copyright": null,
+				"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format&rect=0,0,2850,1608&w=1920&h=1083",
+				"desktop": {
+					"dimensions": {
+						"width": 1024,
+						"height": 578
+					},
+					"alt": null,
+					"copyright": null,
+					"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format&rect=0,1,2847,1607&w=1024&h=578"
+				}
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia"
+		},
+		{
+			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-11-14T23:04:41+0000",
+			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"subtitle": "",
+			"image": {
+				"dimensions": {
+					"width": 1920,
+					"height": 1920
+				},
+				"alt": "S’il est difficile de se rendre compte de l’impact de la crise sur l’avenir de la mode, les Fashion Week traditionnelles restent cependant amoindries. 81 défilés de programmés sur neuf jours certes, mais sur la totalité, 17 shows ont été digitalisés. Malgré les mesures sanitaires, la mode 3.0 sera-t-elle virtuelle ?",
+				"copyright": null,
+				"url": "https://images.prismic.io/x-track-mag/3ac90b77-49d9-43c8-b670-6ba23a2ebbfe_116494837_274747330488859_1475805579066996971_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1920&h=1920",
+				"desktop": {
+					"dimensions": {
+						"width": 1024,
+						"height": 1024
+					},
+					"alt": null,
+					"copyright": null,
+					"url": "https://images.prismic.io/x-track-mag/3ac90b77-49d9-43c8-b670-6ba23a2ebbfe_116494837_274747330488859_1475805579066996971_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024"
+				}
+			},
+			"template": "3: Image + Titre",
+			"author": null
+		}
+	]
+}
