@@ -18,15 +18,15 @@ const serializePosts = async () => {
 	const postsDir = path.join(contentDir, "posts");
 	await fs.ensureDir(postsDir);
 
-	// serialize all the posts
-	const serialized = JSON.stringify(posts, null, "\t");
-	await fs.writeFile(path.join(contentDir, "posts.json"), serialized);
-
-	// Now serialize each post individually
+	// Serialize each posts individually with their full content
 	posts.forEach(async (post) => {
 		const postFileName = path.join(postsDir, `${post.uid}.json`);
 		await fs.writeFile(postFileName, JSON.stringify(post, null, "\t"));
 	});
+
+	// Now serialize all the posts with only the data needed for the Home
+	const serialized = JSON.stringify(posts, null, "\t");
+	await fs.writeFile(path.join(contentDir, "posts.json"), serialized);
 
 	console.log(`Files have been written to disk`);
 };
