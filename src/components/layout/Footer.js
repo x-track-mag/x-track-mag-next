@@ -17,7 +17,11 @@ const Footer = () => {
 	const styles = useStyles();
 	return (
 		<footer id="page-footer" className="footer">
-			<a className="link" href="" target="_blank">
+			<a
+				className="link"
+				href="https://www.instagram.com/xtrackmag"
+				target="_blank"
+			>
 				Instagram
 			</a>
 			<a className="link" href="" target="_blank">
