@@ -1,15 +1,12 @@
-# A Next.js starter with Theme-UI and Prismic as the backend
+# X-TRACK MAG WEBSITE
 
 ## How to setup
 
-### 1. Download the sources
+### 1. Clone the repo
 
-Download the zip file from the [github repo](https://github.com/zipang/next-prismic-starter) and unzip it.
-
-Or with [degit](https://github.com/Rich-Harris/degit) : 
 ```sh
-degit zipang/parse-materia-dashboard-next my-dashboard
-cd my-dashboard
+git clone git@github.com:x-track-mag/x-track-mag-next.git
+cd x-track-mag-next
 ```
 
 Install the dependencies :
@@ -18,20 +15,22 @@ Install the dependencies :
 yarn
 ```
 
-### 2. Create your backend as a service with back4app
+### 2. Set up the environment variables
 
-[Create an application](https://youtu.be/JWMv2aEx5G0), then copy the required application key and js api key inside `env.local`
+[Get the applications keys for Prismic or Contentful](), then copy the required application key and js api key inside `env.local`
 
 ```sh
-cp .env.local.sample .env.local
+cp .env.local.prismic .env.local
 nano .env.local
 ```
 
 which should now contain something like this with the values of your backend :
 
 ```properties
-PARSE_APP_ID=xxxxx
-PARSE_JS_KEY=xxxxx
+PRISMIC_API_ENDPOINT=https://x-track-mag.cdn.prismic.io/api/v2
+PRISMIC_ACCESS_TOKEN=XXXXX
+PRISMIC_CLIENT_ID=XXXXX
+PRISMIC_CLIENT_SECRET=XXXXXXX
 ```
 
 ## Troubleshooting
