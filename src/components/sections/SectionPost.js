@@ -1,26 +1,23 @@
-import { Box } from "theme-ui";
-import Image from "next/image";
-import Link from "next/link";
+import { useRef } from "react";
+import BackgroundImage from "@components/base/BackgroundImage";
 
 /**
- * This section is used to render a Post on the home page
- * With a link to open the page
+ *
  * @param {JsXElement} props
  * @param {String} [title] Titre principal
  * @param {String} [subtitle] Titre secondaire
  * @param {Object} [image] Image background
  */
-const SectionPost = ({ uid, title, subtitle, image, template }) => {
+const SectionPost = ({ uid, title, subtitle, image, author, publication_date }) => {
+	const imageContainer = useRef();
 	return (
-		<Link href={uid} className="post-link">
-			<section className="hero-section" id={uid}>
-				<Image src={image.url} alt={image.alt} layout="fill" />
-				<Box>
-					{title && <h2>{title}</h2>}
-					{subtitle && <h3>{subtitle}</h3>}
-				</Box>
-			</section>
-		</Link>
+		<section className="hero-section" ref={imageContainer} key={uid} id={uid}>
+			<BackgroundImage image={image} parent={imageContainer} />
+			<div className="hero-text">
+				{title && <h2>{title}</h2>}
+				{subtitle && <h3>{subtitle}</h3>}
+			</div>
+		</section>
 	);
 };
 

@@ -1,5 +1,5 @@
-import Container from "@components/layout/Container";
-import Image from "next/image";
+import BackgroundImage from "@components/base/BackgroundImage";
+
 /**
  *
  * @param {JsXElement} props
@@ -8,13 +8,14 @@ import Image from "next/image";
  * @param {Object} [image] Image background
  */
 const SectionHero = ({ title, subtitle, image, author, publication_date }) => {
+	const imageContainer = useRef();
 	return (
-		<section className="section-hero">
-			<Image src={image.url} alt={image.alt} layout="fill" />
-			<Container>
+		<section className="hero-section" ref={imageContainer}>
+			<BackgroundImage className="hero-image" image={image} />
+			<div className="hero-text">
 				{title && <h2>{title}</h2>}
 				{subtitle && <h3>{subtitle}</h3>}
-			</Container>
+			</div>
 		</section>
 	);
 };
