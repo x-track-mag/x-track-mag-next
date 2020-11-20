@@ -2,8 +2,15 @@
 // ---------------------------------------
 @font-face {
 	font-family: Arachne;
-	src: url("/fonts/arachne.woff2") format("woff2"),
-		url("/fonts/arachne.woff") format("woff");
-	font-style: italic;
-	font-weight: 400;
+	src: url("/fonts/Arachne.woff2") format("woff2"),
+		url("/fonts/Arachne.woff") format("woff");
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: PressGothicPro;
+	src: url("/fonts/PressGothicPro.woff2") format("woff2"),
+		url("/fonts/PressGothicPro.woff") format("woff"),
+		url("/fonts/PressGothicPro.otf") format("otf");
+	font-weight: 700;
 }
