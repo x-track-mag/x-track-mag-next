@@ -1,14 +1,14 @@
-import global from "../styles/global.scss";
-import { ThemeProvider } from "theme-ui";
+import global from "../styles/sass/global.scss";
 import ViewportSizeProvider from "@components/ViewportSizeProvider.js";
-import theme from "../styles/theme-w-typography.js";
+import theme from "../styles/theme.js";
+import { ChakraProvider } from "@chakra-ui/react";
 
 const MyApp = ({ Component, pageProps }) => (
-	<ThemeProvider theme={theme}>
+	<ChakraProvider theme={theme}>
 		<ViewportSizeProvider>
 			<Component {...pageProps} />
 		</ViewportSizeProvider>
-	</ThemeProvider>
+	</ChakraProvider>
 );
 
 export default MyApp;

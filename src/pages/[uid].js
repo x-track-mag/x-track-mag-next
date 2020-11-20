@@ -1,9 +1,19 @@
 import paths from "@content/paths.json";
+import SectionHero from "@components/sections/SectionHero";
 import { SectionResolver } from "@components/sections/index.js";
 
-const PostPage = ({ uid, title, subtitle, author, publication_date, sections }) => {
+const PostPage = ({
+	uid,
+	image,
+	title,
+	subtitle,
+	author,
+	publication_date,
+	sections
+}) => {
 	return (
 		<main>
+			<SectionHero image={image} title={title} subtitle={subtitle} />
 			{sections.map((section, i) => (
 				<SectionResolver key={`section-${i}`} section={section} />
 			))}
