@@ -22,7 +22,7 @@ const presets = [
 module.exports = {
 	plugins: [
 		"postcss-import",
-		presets,
-		...(process.env.NODE_ENV === "production" ? [purgecss] : [])
+		presets
+		// ...(process.env.NODE_ENV === "production" ? [purgecss] : [])
 	]
 };

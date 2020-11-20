@@ -41,7 +41,7 @@ const navStyles = {
 	textColor: "white",
 	textTransform: "uppercase",
 
-	"&.active": {
+	".active": {
 		textColor: "brand.green",
 		textDecoration: "underline"
 	}

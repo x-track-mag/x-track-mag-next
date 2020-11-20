@@ -23,6 +23,38 @@ const fonts = {
 	monospace: "Menlo, monospace"
 };
 
+const styles = {
+	global: {
+		body: {
+			overflowX: "hidden"
+		},
+		section: {
+			margin: 0,
+			position: "relative",
+			overflow: "hidden"
+		},
+		".hero-section": {
+			minHeight: "100vh",
+			display: "flex",
+			alignItems: "center",
+			justifyContent: "center"
+		},
+		".hero-section.blurred": {
+			img: {
+				filter: "blur(5px)"
+			}
+		},
+
+		".background-image-container": {
+			zIndex: -1,
+			position: "absolute"
+		},
+		".hero-text": {
+			zIndex: 9999
+		}
+	}
+};
+
 const components = {
 	Container: {
 		baseStyle: {
@@ -46,6 +78,6 @@ const components = {
 	}
 };
 
-const customTheme = extendTheme({ colors, fonts, components });
+const customTheme = extendTheme({ colors, fonts, components, styles });
 
 export default customTheme;
