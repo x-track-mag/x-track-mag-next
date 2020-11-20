@@ -16,10 +16,10 @@ const calcWidth = (cssHeight) =>
  */
 const SvgHub = ({ size = "1rem", color = "#000" }) => (
 	<svg viewBox="0 0 36 20" height={size} width={calcWidth(size)}>
-		<g fill="none" stroke={color} stroke-width="1" stroke-linecap="round">
+		<g fill="none" stroke={color} strokeWidth="1" strokeLinecap="round">
 			<g id="arrow">
 				<path d="M0.5 0v10h11" />
-				<path stroke-linejoin="round" d="M5.5 15l6-5-6-5" />
+				<path strokeLinejoin="round" d="M5.5 15l6-5-6-5" />
 			</g>
 			<g id="hub">
 				<circle cx="26" cy="10" r="9.5" />

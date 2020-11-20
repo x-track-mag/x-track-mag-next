@@ -53,7 +53,10 @@ export const headerNavStyles = {
 	...navStyles,
 	fontWeight: "500",
 	textColor: "black",
-	fontSize: "1.5rem"
+	fontSize: "1.5rem",
+	_hover: {
+		textDecoration: "none"
+	}
 };
 
 const isExternalLink = (href) => /^http/.test(href);

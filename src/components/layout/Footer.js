@@ -7,19 +7,20 @@ const footerStyle = {
 	width: "100%",
 	bottom: "2em",
 	alignItems: "center",
-	justify: "space-around"
+	justify: "space-around",
+	textColor: "white"
 };
 
 const Footer = () => {
 	return (
 		<Flex as="footer" id="page-footer" {...footerStyle}>
 			<NavLink href="">
-				<SvgHub color="white" />
+				<SvgHub color="white" size="2rem" />
 			</NavLink>
 			<NavLink href="https://www.instagram.com/xtrackmag">Instagram</NavLink>
 			<NavLink href="https://www.facebook.com/xtrackmag">Facebook</NavLink>
 
-			<p>(c) X-TRACK MAG {new Date().getFullYear()}</p>
+			<div id="copyright">(c) X-TRACK MAG {new Date().getFullYear()}</div>
 		</Flex>
 	);
 };

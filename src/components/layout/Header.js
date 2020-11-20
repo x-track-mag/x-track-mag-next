@@ -7,6 +7,7 @@ import SvgLogo from "@components/icons/SvgLogo";
 
 const navigation = {
 	links: [
+		{ href: "/articles", text: "ARTICLES" },
 		{ href: "/videos", text: "VIDEOS" },
 		{ href: "/music", text: "MUSIC" },
 		{ href: "/live", text: "LIVE SESSIONS" }
