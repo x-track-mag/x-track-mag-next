@@ -43,6 +43,7 @@ const ViewportSizeProvider = ({ children }) => {
 		useLayoutEffect(() => {
 			// Listen to window resize event
 			const resizeListener = () => {
+				console.log("RESIZE EVENT");
 				window.requestAnimationFrame(() => setViewportSize(getViewportSize()));
 			};
 			window.addEventListener("resize", resizeListener);
