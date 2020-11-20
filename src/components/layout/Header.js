@@ -1,6 +1,6 @@
 import { useState } from "react";
 import MainNav from "./MainNav.js";
-import { headerNavStyles } from "@components/base/Links";
+import { navigate, headerNavStyles } from "@components/base/Links";
 
 import { Box, Heading, Flex } from "@chakra-ui/react";
 import SvgLogo from "@components/icons/SvgLogo";
@@ -15,12 +15,12 @@ const navigation = {
 };
 
 /**
- *
- * @param {*} props
+ * The main fixed Header on all the pages
+ * @param {JSXElement} props
  */
 const Header = (props) => {
 	const [showMobileMenu, setShowMobileMenu] = useState(false);
-	const toggleMobileMenu = () => setShow(!showMobileMenu);
+	const toggleMobileMenu = () => setShowMobileMenu(!showMobileMenu);
 
 	return (
 		<Flex
@@ -36,7 +36,13 @@ const Header = (props) => {
 			{...headerNavStyles}
 			{...props}
 		>
-			<Heading as="h1" margin="0" pt="1rem" display="block">
+			<Heading
+				as="h1"
+				pt="1rem"
+				display="block"
+				_hover={{ cursor: "pointer" }}
+				onClick={navigate("/")}
+			>
 				<SvgLogo />
 			</Heading>
 
@@ -44,7 +50,7 @@ const Header = (props) => {
 
 			<Box
 				as="button"
-				display={{ base: "block", lg: "none" }}
+				display={{ base: "block", lg: "none" }} // show in mobile first, hide when breakpoint is lg and over
 				onClick={toggleMobileMenu}
 			>
 				MENU

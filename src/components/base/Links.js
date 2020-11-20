@@ -21,7 +21,7 @@ const textStyles = {
 };
 
 /**
- *
+ * Centered links inside Hero sections
  */
 const heroStyles = {
 	textColor: "white",
@@ -34,7 +34,7 @@ const heroStyles = {
 };
 
 /**
- * Style used in the Navigation (header and footer)
+ * Styles used in the navigation (header and footer)
  */
 export const navStyles = {
 	...textStyles,
@@ -63,7 +63,7 @@ const isExternalLink = (href) => /^http/.test(href);
 
 const isActive = (href) => typeof window !== "undefined" && router.route === href;
 
-const navigate = (href) => (evt) => {
+export const navigate = (href) => (evt) => {
 	if (!isExternalLink(href)) {
 		evt.preventDefault();
 		router.push(href);
