@@ -5,7 +5,7 @@ import Footer from "./Footer";
 
 const layoutStyle = {
 	display: "flex",
-	flexDirection: "column",
+	flexdirection: "column",
 	height: "100%",
 	width: "100%"
 };
@@ -13,7 +13,7 @@ const layoutStyle = {
 const contentStyle = {
 	flex: 1,
 	display: "flex",
-	flexDirection: "column"
+	flexdirection: "column"
 };
 
 const Layout = ({ children }) => (

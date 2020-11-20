@@ -14,11 +14,13 @@ const footerStyle = {
 const Footer = () => {
 	return (
 		<Flex as="footer" id="page-footer" {...footerStyle}>
-			<NavLink href="">
+			<NavLink href="https://x-track.net">
 				<SvgHub color="white" size="2rem" />
 			</NavLink>
 			<NavLink href="https://www.instagram.com/xtrackmag">Instagram</NavLink>
-			<NavLink href="https://www.facebook.com/xtrackmag">Facebook</NavLink>
+			<NavLink href="https://open.spotify.com/user/x2swd5kbhnscczttswze3y9gy">
+				Spotify
+			</NavLink>
 
 			<div id="copyright">(c) X-TRACK MAG {new Date().getFullYear()}</div>
 		</Flex>
