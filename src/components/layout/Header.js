@@ -1,6 +1,5 @@
 import { useState } from "react";
-import MainNav from "./MainNav.js";
-import { navigate, headerNavStyles } from "@components/base/Links";
+import { navigate, headerNavStyles, HeaderNavLink } from "@components/base/Links";
 
 import { Box, Heading, Flex } from "@chakra-ui/react";
 import SvgLogo from "@components/icons/SvgLogo";
@@ -13,6 +12,25 @@ const navigation = {
 		{ href: "/live", text: "LIVE SESSIONS" }
 	]
 };
+
+export const MainNav = ({ links, show, ...props }) => (
+	<Flex
+		as="nav"
+		id="main-nav"
+		className="main-nav"
+		display={{ sm: show ? "block" : "none", lg: "flex" }}
+		width={{ sm: "full", md: "auto" }}
+		alignItems="center"
+		justify="space-around"
+		flexGrow={1}
+	>
+		{links.map((link, i) => (
+			<HeaderNavLink key={`nav-${i}`} href={link.href}>
+				{link.text}
+			</HeaderNavLink>
+		))}
+	</Flex>
+);
 
 /**
  * The main fixed Header on all the pages
