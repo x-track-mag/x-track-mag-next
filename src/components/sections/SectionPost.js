@@ -1,5 +1,8 @@
-import { useRef } from "react";
+import { useRef, useState } from "react";
+import clsx from "clsx";
 import BackgroundImage from "@components/base/BackgroundImage";
+import HeroText from "@components/base/HeroText";
+import { HeroLink } from "@components/base/Links";
 
 /**
  *
@@ -8,15 +11,24 @@ import BackgroundImage from "@components/base/BackgroundImage";
  * @param {String} [subtitle] Titre secondaire
  * @param {Object} [image] Image background
  */
-const SectionPost = ({ uid, title, subtitle, image, author, publication_date }) => {
+const SectionPost = ({ uid, title, subtitle, image, template }) => {
 	const imageContainer = useRef();
+	const [blurred, setBlurred] = useState(false);
 	return (
-		<section className="hero-section" ref={imageContainer} key={uid} id={uid}>
+		<section
+			className={clsx("hero-section", !blurred && "blurred")}
+			ref={imageContainer}
+			key={uid}
+			id={uid}
+		>
 			<BackgroundImage image={image} parent={imageContainer} />
-			<div className="hero-text">
-				{title && <h2>{title}</h2>}
-				{subtitle && <h3>{subtitle}</h3>}
-			</div>
+			<HeroLink
+				href={uid}
+				onMouseEnter={() => setBlurred(true)}
+				onMouseLeave={() => setBlurred(false)}
+			>
+				<HeroText title={title} subtitle={subtitle} />
+			</HeroLink>
 		</section>
 	);
 };
