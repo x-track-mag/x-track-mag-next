@@ -1,15 +1,29 @@
 import { chakra } from "@chakra-ui/react";
 
-export const Title = ({ children }) => (
+export const Title = ({ children, ...props }) => (
 	<chakra.h2
 		fontFamily="Arachne"
-		fontSize="2.8rem"
-		fontWeight="600"
-		lineHeight="4rem"
+		fontSize="3.2rem"
+		lineHeight="3.9rem"
 		textAlign="center"
+		mb="0.5rem"
+		{...props}
 	>
 		{children}
 	</chakra.h2>
+);
+
+export const Subtitle = ({ children, ...props }) => (
+	<chakra.h3
+		fontFamily="PressGothicPro"
+		fontSize="3.2rem"
+		lineHeight="3.9rem"
+		textAlign="center"
+		textTransform="uppercase"
+		{...props}
+	>
+		{children}
+	</chakra.h3>
 );
 
 export const Message = ({ children }) => (
@@ -19,19 +33,15 @@ export const Message = ({ children }) => (
 		fontWeight="600"
 		lineHeight="4rem"
 		textColor="brand.green"
+		whiteSpace="nowrap"
 		m="0"
 	>
 		{children}
 	</chakra.span>
 );
 
-export const Subtitle = ({ children }) => (
-	<chakra.h3 fontFamily="Verdana" fontSize="1.5rem">
-		{children}
-	</chakra.h3>
-);
-
 export default {
 	Title,
-	Subtitle
+	Subtitle,
+	Message
 };

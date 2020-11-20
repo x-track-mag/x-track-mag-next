@@ -4,7 +4,7 @@ import { Message } from "@components/base/Typography";
 
 const ScrollingNews = ({ messages = [], delay = 500 }) => {
 	if (!messages.length) return;
-	const message = messages.join("   -   ");
+	const message = messages.map((msg) => msg + "   -   ").join("");
 
 	return (
 		<div
