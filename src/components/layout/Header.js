@@ -1,5 +1,6 @@
 import { useState } from "react";
 import MainNav from "./MainNav.js";
+import { headerNavStyles } from "@components/base/Links";
 
 import { Box, Heading, Flex } from "@chakra-ui/react";
 import SvgLogo from "@components/icons/SvgLogo";
@@ -27,22 +28,22 @@ const Header = (props) => {
 			position="fixed"
 			width="100%"
 			align="center"
+			zIndex="9999"
 			justify="space-between"
 			wrap="wrap"
 			padding="1.5rem"
+			{...headerNavStyles}
 			{...props}
 		>
-			<Flex align="center" mr={5}>
-				<Heading as="h1" size="lg">
-					<SvgLogo />
-				</Heading>
-			</Flex>
+			<Heading as="h1" margin="0" pt="1rem" display="block">
+				<SvgLogo />
+			</Heading>
 
-			<MainNav links={navigation.links} show={showMobileMenu} />
+			<MainNav width="100%" links={navigation.links} show={showMobileMenu} />
 
 			<Box
 				as="button"
-				display={{ base: "block", md: "none" }}
+				display={{ base: "block", lg: "none" }}
 				onClick={toggleMobileMenu}
 			>
 				MENU

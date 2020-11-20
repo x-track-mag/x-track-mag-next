@@ -36,8 +36,10 @@ const heroStyles = {
 /**
  * Style used in the Navigation (header and footer)
  */
-const navStyles = {
+export const navStyles = {
 	...textStyles,
+	fontWeight: "300",
+	lineHeight: "1rem",
 	textColor: "white",
 	textTransform: "uppercase",
 
@@ -45,6 +47,13 @@ const navStyles = {
 		textColor: "brand.green",
 		textDecoration: "underline"
 	}
+};
+
+export const headerNavStyles = {
+	...navStyles,
+	fontWeight: "500",
+	textColor: "black",
+	fontSize: "1.5rem"
 };
 
 const isExternalLink = (href) => /^http/.test(href);
@@ -77,6 +86,8 @@ const makeLink = (style) => ({ children, ...props }) => (
 );
 
 export const HeroLink = makeLink(heroStyles);
+
 export const NavLink = makeLink(navStyles);
+export const HeaderNavLink = makeLink(headerNavStyles);
 
 export default Link;
