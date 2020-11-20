@@ -1,35 +1,22 @@
-import "./Footer.styles.scss";
+import { Box, Flex } from "@chakra-ui/react";
+import { NavLink } from "@components/base/Links";
 
-// import { makeStyles } from "@material-ui/core/styles";
-
-// const useStyles = makeStyles((theme) => ({
-// 	footer: {
-// 		margin: "0",
-// 		width: "100%",
-// 		"& .link": {
-// 			display: "block",
-// 			margin: "0.5rem 1rem"
-// 		}
-// 	}
-// }));
+const footerStyle = {
+	position: "fixed",
+	width: "100%",
+	bottom: "2em",
+	align: "center",
+	justify: "space-between"
+};
 
 const Footer = () => {
-	const styles = useStyles();
 	return (
-		<footer id="page-footer" className="footer">
-			<a
-				className="link"
-				href="https://www.instagram.com/xtrackmag"
-				target="_blank"
-			>
-				Instagram
-			</a>
-			<a className="link" href="" target="_blank">
-				Facebook
-			</a>
+		<Flex as="footer" id="page-footer" {...footerStyle}>
+			<NavLink href="https://www.instagram.com/xtrackmag">Instagram</NavLink>
+			<NavLink href="https://www.facebook.com/xtrackmag">Facebook</NavLink>
 
 			<p>(c) X-TRACK MAG {new Date().getFullYear()}</p>
-		</footer>
+		</Flex>
 	);
 };
 

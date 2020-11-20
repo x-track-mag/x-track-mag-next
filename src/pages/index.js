@@ -4,12 +4,12 @@ import ScrollingNews from "@components/ScrollingNews";
 
 const HomePage = ({ scrolling_news, sections }) => {
 	return (
-		<main>
+		<>
 			<ScrollingNews messages={scrolling_news} />
 			{sections.map(({ uid, ...sectionProps }) => (
 				<SectionPost key={uid} uid={uid} {...sectionProps} />
 			))}
-		</main>
+		</>
 	);
 };
 

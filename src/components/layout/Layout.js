@@ -2,7 +2,6 @@
 
 import Header from "./Header";
 import Footer from "./Footer";
-import NavBar from "./MainNav";
 
 const layoutStyle = {
 	display: "flex",
@@ -18,12 +17,11 @@ const contentStyle = {
 };
 
 const Layout = ({ children }) => (
-	<div className="layout">
+	<div className="layout" {...layoutStyle}>
 		<Header />
-		<main className="Content" style={contentStyle}>
+		<main id="main-content" {...contentStyle}>
 			{children}
 		</main>
-		<NavBar />
 		<Footer />
 	</div>
 );
