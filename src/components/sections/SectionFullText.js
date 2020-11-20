@@ -1,5 +1,5 @@
 import { RichText } from "prismic-reactjs";
-import Container from "@components/layout/Container.js";
+import { Container } from "@chakra-ui/react";
 import clsx from "clsx";
 
 /**
