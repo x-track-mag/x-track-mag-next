@@ -113,6 +113,11 @@ body {
 a img {
 	border: none;
 }
+a:focus,
+a:active {
+	outline: none;
+	outline-style: none;
+}
 blockquote {
 	quotes: none;
 }
@@ -121,17 +126,7 @@ blockquote:after {
 	content: "";
 	content: none;
 }
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-caption,
-th,
-td {
-	text-align: left;
-	font-weight: normal;
-	vertical-align: middle;
-}
+
 body {
 	overflow-x: hidden;
 }

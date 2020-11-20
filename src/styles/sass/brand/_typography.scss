@@ -1,0 +1,9 @@
+// Typography
+// ---------------------------------------
+@font-face {
+	font-family: Arachne;
+	src: url("/fonts/arachne.woff2") format("woff2"),
+		url("/fonts/arachne.woff") format("woff");
+	font-style: italic;
+	font-weight: 400;
+}
