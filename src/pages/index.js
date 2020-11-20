@@ -1,9 +1,11 @@
 import paths from "@content/paths.json";
 import SectionPost from "@components/sections/SectionPost.js";
+import ScrollingNews from "@components/ScrollingNews";
 
-const HomePage = ({ uid, title, subtitle, author, publication_date, sections }) => {
+const HomePage = ({ scrolling_news, sections }) => {
 	return (
 		<main>
+			<ScrollingNews messages={scrolling_news} />
 			{sections.map(({ uid, ...sectionProps }) => (
 				<SectionPost key={uid} uid={uid} {...sectionProps} />
 			))}
