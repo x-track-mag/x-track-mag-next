@@ -1,5 +1,6 @@
 import { RichText } from "prismic-reactjs";
-import { Box, Container } from "@chakra-ui/react";
+import { Box } from "@chakra-ui/react";
+import Container from "@components/base/Container";
 
 /**
  * A centered/responsive single column of rich text
