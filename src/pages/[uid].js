@@ -1,6 +1,30 @@
 import paths from "@content/paths.json";
+import { Box } from "@chakra-ui/react";
+import { colors } from "@styles/theme.js";
 import SectionHero from "@components/sections/SectionHero";
 import { SectionResolver } from "@components/sections/index.js";
+import SvgArrowReturn from "@components/icons/SvgArrowReturn.js";
+import IconButton from "@components/icons/IconButton.js";
+import { navigate } from "@components/base/Links";
+
+const Aside = () => (
+	<Box
+		as="a"
+		onClick={navigate("back")}
+		position="fixed"
+		zIndex="9999"
+		top="20vh"
+		right="2rem"
+		cursor="pointer"
+	>
+		<IconButton
+			size="4rem"
+			SvgIcon={SvgArrowReturn}
+			color="black"
+			colorHover={`${colors.brand.green}`}
+		/>
+	</Box>
+);
 
 const PostPage = ({
 	uid,
@@ -9,10 +33,12 @@ const PostPage = ({
 	subtitle,
 	author,
 	publication_date,
+	tags,
 	sections
 }) => {
 	return (
 		<main>
+			<Aside />
 			<SectionHero image={image} title={title} subtitle={subtitle} />
 			{sections.map((section, i) => (
 				<SectionResolver key={`section-${i}`} section={section} />
