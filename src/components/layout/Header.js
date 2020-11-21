@@ -13,6 +13,20 @@ const navigation = {
 	]
 };
 
+/**
+ * Apply these styles for small screens
+ */
+const mobileLinkStyles = {
+	display: "block",
+	width: "100%",
+	textAlign: "center",
+	padding: "0.5rem 0",
+	_hover: {
+		bgColor: "brand.green",
+		textColor: "white"
+	}
+};
+
 export const MainNav = ({ links, show, ...props }) => (
 	<Flex
 		as="nav"
