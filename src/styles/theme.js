@@ -27,7 +27,7 @@ const styles = {
 	global: {
 		body: {
 			overflowX: "hidden",
-			fontSize: ["16px", "20px", "24px", "30px"]
+			fontSize: ["16px", "20px", "24px", "28px", "30px"]
 		},
 		section: {
 			margin: 0,
@@ -56,29 +56,6 @@ const styles = {
 	}
 };
 
-const components = {
-	Container: {
-		baseStyle: {
-			width: "100%",
-			maxWidth: ["95%", "960px", "1024px"],
-			m: "0 auto",
-			p: "2rem 0"
-		},
-		variants: {
-			hero: {
-				maxWidth: ["80em"],
-				background: "black",
-				p: "2rem"
-			},
-			fluid: {
-				maxWidth: "100%",
-				p: "2rem"
-			}
-		},
-		defaultProps: {}
-	}
-};
-
-const customTheme = extendTheme({ colors, fonts, components, styles });
+const customTheme = extendTheme({ colors, fonts, styles });
 
 export default customTheme;
