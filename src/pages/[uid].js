@@ -13,7 +13,7 @@ const Aside = () => (
 		onClick={navigate("back")}
 		position="fixed"
 		zIndex="9999"
-		top="20vh"
+		top={["8Ovh", "20vh"]}
 		right="2rem"
 		cursor="pointer"
 	>
@@ -37,13 +37,13 @@ const PostPage = ({
 	sections
 }) => {
 	return (
-		<main>
+		<>
 			<Aside />
 			<SectionHero image={image} title={title} subtitle={subtitle} />
 			{sections.map((section, i) => (
 				<SectionResolver key={`section-${i}`} section={section} />
 			))}
-		</main>
+		</>
 	);
 };
 
