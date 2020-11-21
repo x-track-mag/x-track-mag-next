@@ -13,7 +13,7 @@ export const colors = {
 	lightGray: "#e6e6e6"
 };
 
-const fonts = {
+export const fonts = {
 	body: '"Helvetica Now", Helvetica, "Open Sans", sans-serif',
 	heading: "Georgia, serif",
 	variants: {
