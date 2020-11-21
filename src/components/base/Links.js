@@ -12,22 +12,17 @@ const noOutline = {
  */
 const textStyles = {
 	textColor: "brand.green",
-	textDecoration: "none",
-	_hover: {
-		textDecoration: "underline",
-		bgColor: "brand.green",
-		textColor: "white"
-	}
+	textDecoration: "none"
 };
 
 /**
  * Centered links inside Hero sections
  */
 const heroStyles = {
-	textColor: "white",
 	textDecoration: "none",
 	_hover: {
-		textDecoration: "none"
+		textDecoration: "none",
+		textColor: "white"
 	},
 	_focus: noOutline,
 	_active: noOutline
@@ -37,39 +32,56 @@ const heroStyles = {
  * Styles used in the navigation (header and footer)
  */
 export const navStyles = {
-	...textStyles,
 	fontWeight: "300",
 	lineHeight: "1rem",
 	textColor: "white",
 	textTransform: "uppercase",
+	textDecoration: "none",
 
 	".active": {
-		textColor: "brand.green",
-		textDecoration: "underline"
+		textColor: "brand.green"
+	},
+	_hover: {
+		textColor: "brand.green"
 	}
 };
 
+/**
+ * Header navigation style
+ */
 export const headerNavStyles = {
 	...navStyles,
 	fontWeight: "500",
 	textColor: "black",
-	fontSize: "1.5rem",
-	_hover: {
-		textDecoration: "none"
-	}
+	fontSize: "1.5rem"
 };
 
 const isExternalLink = (href) => /^http/.test(href);
 
 const isActive = (href) => typeof window !== "undefined" && router.route === href;
 
+/**
+ * Use Next.js router to navigate to internal pages
+ * or not..
+ * @param {String} href
+ */
 export const navigate = (href) => (evt) => {
 	if (!isExternalLink(href)) {
 		evt.preventDefault();
-		router.push(href);
+		if (href === "back") {
+			router.back();
+		} else {
+			router.push(href);
+		}
 	}
 };
 
+/**
+ * Use Chakra-UI to style the link
+ * And Next.js router to navigate...
+ * @param {JSXElement} props
+ * @param {String} props.href Absolute or relative URL to go by
+ */
 export const Link = ({ href = "#", children, ...props }) => (
 	<ChakraLink
 		href={href}
@@ -82,6 +94,11 @@ export const Link = ({ href = "#", children, ...props }) => (
 	</ChakraLink>
 );
 
+/**
+ * Build a link from specified style object
+ * @param {Object} style
+ * @return {Link}
+ */
 const makeLink = (style) => ({ children, ...props }) => (
 	<Link {...style} {...props}>
 		{children}
