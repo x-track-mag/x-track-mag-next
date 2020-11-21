@@ -2,7 +2,7 @@
 import { extendTheme } from "@chakra-ui/react";
 
 // 2. Extend the theme to include custom colors, fonts, etc
-const colors = {
+export const colors = {
 	brand: {
 		green: "#58ff00",
 		orange: "#f70",
@@ -17,7 +17,7 @@ const fonts = {
 	body: '"Helvetica Now", Helvetica, "Open Sans", sans-serif',
 	heading: "Georgia, serif",
 	variants: {
-		brand1: '"Press Gothic Pro", serif',
+		brand1: "PressGothicPro, serif",
 		brand2: "Arachne, serif"
 	},
 	monospace: "Menlo, monospace"
@@ -26,7 +26,8 @@ const fonts = {
 const styles = {
 	global: {
 		body: {
-			overflowX: "hidden"
+			overflowX: "hidden",
+			fontSize: ["16px", "20px", "24px", "30px"]
 		},
 		section: {
 			margin: 0,
@@ -50,7 +51,7 @@ const styles = {
 			position: "absolute"
 		},
 		".hero-text": {
-			zIndex: 9999
+			zIndex: 999
 		}
 	}
 };
