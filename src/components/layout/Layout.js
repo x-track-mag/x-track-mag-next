@@ -26,7 +26,7 @@ const Layout = ({ children }) => (
 				key={useRouter().route}
 				initial={{ opacity: 0 }}
 				animate={{ opacity: 1 }}
-				duration={10}
+				transition={{ duration: 0.5 }}
 				exit={{ opacity: 0 }}
 				id="main-content"
 				{...contentStyle}
