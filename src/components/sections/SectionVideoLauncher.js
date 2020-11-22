@@ -15,7 +15,7 @@ const SectionVideoLauncher = ({ title, subtitle, image, text, link, ...props }) 
 		<Container
 			as={Grid}
 			templateColumns={["100%", "100%", "30% auto"]}
-			gap={["0", null, "4rem"]}
+			gap={["0", null, "2rem", "4rem"]}
 			variant="hero"
 		>
 			<GridItem pb="2rem">
@@ -24,17 +24,18 @@ const SectionVideoLauncher = ({ title, subtitle, image, text, link, ...props }) 
 				<RichText render={text} />
 			</GridItem>
 			<GridItem
+				pb={["4rem", null, "0"]}
 				as={Flex}
 				flexDirection="column"
 				alignItems="center"
 				justifyContent="center"
+				minHeight={["66vh", null, "auto"]}
 			>
 				<ReactPlayer
 					url={link.embed_url}
 					light={image.url} // display the image as vignette
 					width="100%"
 					height="100%"
-					style={{ minHeight: link.height }}
 					playIcon={<SvgPlayerIcon size="4rem" />}
 					config={{
 						youtube: {
