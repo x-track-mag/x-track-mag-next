@@ -1,15 +1,19 @@
 import SectionHero from "./SectionHero.js";
 import SectionPost from "./SectionPost.js";
+import SectionVideoLauncher from "./SectionVideoLauncher.js";
 import SectionFullText from "./SectionFullText.js";
 
-export const SectionResolver = ({ section }) => {
+export const SectionResolver = ({ section, ...props }) => {
 	const { template, ...sectionProps } = section;
 	switch (template) {
 		case "section-hero":
-			return <SectionHero {...sectionProps} />;
+			return <SectionHero {...sectionProps} {...props} />;
 			break;
 		case "section-full-text":
-			return <SectionFullText {...sectionProps} />;
+			return <SectionFullText {...sectionProps} {...props} />;
+			break;
+		case "section-video-launcher":
+			return <SectionVideoLauncher {...sectionProps} {...props} />;
 			break;
 
 		default:
