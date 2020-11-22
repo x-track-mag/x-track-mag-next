@@ -41,7 +41,13 @@ const PostPage = ({
 			<Aside />
 			<SectionHero image={image} title={title} subtitle={subtitle} />
 			{sections.map((section, i) => (
-				<SectionResolver key={`section-${i}`} section={section} />
+				<SectionResolver
+					key={`section-${i}`}
+					section={section}
+					image={image}
+					title={title}
+					subtitle={subtitle}
+				/>
 			))}
 		</>
 	);
