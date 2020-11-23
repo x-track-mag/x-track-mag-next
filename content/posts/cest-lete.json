@@ -1,0 +1,32 @@
+{
+	"uid": "cest-lete",
+	"tags": [],
+	"publication_date": "2020-11-23T22:29:29+0000",
+	"title": "Dans les vaps",
+	"subtitle": "C'est l'été",
+	"image": {
+		"dimensions": {
+			"width": 1920,
+			"height": 1080
+		},
+		"alt": null,
+		"copyright": null,
+		"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format&rect=0,0,2000,1125&w=1920&h=1080",
+		"desktop": {
+			"dimensions": {
+				"width": 1024,
+				"height": 576
+			},
+			"alt": null,
+			"copyright": null,
+			"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format&rect=0,0,2000,1125&w=1024&h=576"
+		}
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Hunther Thompson",
+	"sections": [
+		{
+			"template": "section-playlist"
+		}
+	]
+}
