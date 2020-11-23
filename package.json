@@ -30,7 +30,7 @@
 	},
 	"scripts": {
 		"dev": "next",
-		"extract-data": "node src/scripts/extract-data.js",
+		"extract-data": "node src/scripts/extract-data.js && git add content/ && git commit content/ -m 'Updated content from CMS' && git push origin master",
 		"build": "next build",
 		"build:svg": "svgr _assets/svg/ -d _assets/svg/react/",
 		"start": "next start"
