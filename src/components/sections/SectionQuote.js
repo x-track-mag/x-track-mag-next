@@ -7,7 +7,7 @@ import Typography from "@components/base/Typography";
  * @param {JSXElement} props
  * @param {RichText} props.text
  */
-const SectionQuote = ({ text, ...props }) => (
+const SectionQuote = ({ article, text, ...props }) => (
 	<Box as="section" className="section-quote" {...props}>
 		<Container>
 			<Typography.Blockquote text={text} />

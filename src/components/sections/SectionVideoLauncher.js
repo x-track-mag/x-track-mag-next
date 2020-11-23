@@ -8,12 +8,11 @@ import SvgPlayerIcon from "@components/icons/SvgPlayerIcon.js";
 /**
  * A two columns/responsive container with a rich text column and a video media player
  * @param {JSXElement} props
- * @param {String} props.title the title of the Article
- * @param {String} props.subtitle the subtitle of the Article
+ * @param {String} props.article the main Article
  * @param {String} props.text the rich text content to describe the video
  * @param {String} props.link Youtube or Vimeo media link in the format that Prismic
  */
-const SectionVideoLauncher = ({ title, subtitle, image, text, link, ...props }) => (
+const SectionVideoLauncher = ({ article, text, link, ...props }) => (
 	<Box as="section" className="section-video-launcher" {...props}>
 		<Container
 			as={Grid}
@@ -21,8 +20,8 @@ const SectionVideoLauncher = ({ title, subtitle, image, text, link, ...props }) 
 			gap={["0", null, "2rem", "4rem"]}
 		>
 			<GridItem pb="2rem">
-				<Typography.Title>{title}</Typography.Title>
-				<Typography.Subtitle>{subtitle}</Typography.Subtitle>
+				<Typography.Title>{article.title}</Typography.Title>
+				<Typography.Subtitle>{article.subtitle}</Typography.Subtitle>
 				<RichText render={text} />
 			</GridItem>
 			<GridItem
@@ -35,7 +34,7 @@ const SectionVideoLauncher = ({ title, subtitle, image, text, link, ...props }) 
 			>
 				<ReactPlayer
 					url={link.embed_url}
-					light={image.url} // display the image as vignette
+					light={article.image.url} // display the image as vignette
 					width="100%"
 					height="100%"
 					playIcon={<SvgPlayerIcon size="4rem" />}

@@ -36,17 +36,16 @@ const PostPage = ({
 	tags,
 	sections
 }) => {
+	const article = { title, subtitle, image, author, publication_date, tags };
 	return (
 		<>
 			<Aside />
-			<SectionHero image={image} title={title} subtitle={subtitle} />
+			<SectionHero article={article} />
 			{sections.map((section, i) => (
 				<SectionResolver
 					key={`section-${i}`}
+					article={article}
 					section={section}
-					image={image}
-					title={title}
-					subtitle={subtitle}
 				/>
 			))}
 		</>

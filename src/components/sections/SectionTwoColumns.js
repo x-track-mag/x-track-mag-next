@@ -6,10 +6,11 @@ import Image from "next/image";
 /**
  * A two columns/responsive container with a rich text column and an image
  * @param {JSXElement} props
+ * @param {Object} props.article the main article
  * @param {Object} props.text rich text content
  * @param {Object} props.image
  */
-const SectionTwoColumns = ({ image, text, ...props }) => (
+const SectionTwoColumns = ({ article, image, text, ...props }) => (
 	<Box as="section" className="section-video-launcher" {...props}>
 		<Container
 			as={Grid}

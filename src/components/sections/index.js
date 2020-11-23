@@ -5,23 +5,23 @@ import SectionTwoColumns from "./SectionTwoColumns.js";
 import SectionFullText from "./SectionFullText.js";
 import SectionQuote from "./SectionQuote.js";
 
-export const SectionResolver = ({ section, ...props }) => {
+export const SectionResolver = ({ article, section, ...more }) => {
 	const { template, ...sectionProps } = section;
 	switch (template) {
 		case "section-hero":
-			return <SectionHero {...sectionProps} {...props} />;
+			return <SectionHero article={article} {...sectionProps} {...more} />;
 			break;
 		case "section-full-text":
-			return <SectionFullText {...sectionProps} {...props} />;
+			return <SectionFullText article={article} {...sectionProps} {...more} />;
 			break;
 		case "section-quote":
-			return <SectionQuote {...sectionProps} {...props} />;
+			return <SectionQuote article={article} {...sectionProps} {...more} />;
 			break;
 		case "section-video-launcher":
-			return <SectionVideoLauncher {...sectionProps} {...props} />;
+			return <SectionVideoLauncher article={article} {...sectionProps} {...more} />;
 			break;
 		case "section-two-columns":
-			return <SectionTwoColumns {...sectionProps} {...props} />;
+			return <SectionTwoColumns article={article} {...sectionProps} {...more} />;
 			break;
 
 		default:
