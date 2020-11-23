@@ -30,6 +30,7 @@
 	},
 	"scripts": {
 		"dev": "next",
+		"extract-data": "node src/scripts/extract-data.js",
 		"build": "next build",
 		"build:svg": "svgr _assets/svg/ -d _assets/svg/react/",
 		"start": "next start"
