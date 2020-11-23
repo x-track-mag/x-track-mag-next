@@ -93,7 +93,7 @@
 			]
 		},
 		{
-			"template": "section-two-columns",
+			"template": "section-full-text",
 			"text": [
 				{
 					"type": "heading2",
@@ -102,7 +102,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Plus qu’une possibilité annexe, une véritable révolution dans la fashion sphère, car la création ne serait pas réduite au catwalk et à son univers clos, un champ des possibilités vaste s’ouvre alors dans l’imaginaire et l’ADN des marques, dans le respect de l’écologie « Le rapport de la Helsinki Fashion week vient de sortir hier. Initiative 100% digitale, l'émission de C02 est passé de 137 kg à 0,67 par personne. Les chiffres parlent d’eux mêmes ». Pour ce qui est de l’aspect écologique, et éthique, ces nouvelle solutions offrent une nouvelle ligne de conduite pour un marché qui évolue. Autre studio de création phare, celui imaginé par Shakru, sous le nom de Cyber Fashion Week, qui comme son l’indique a impulsé une autre forme d'événements. C’est à la suite d’une annulation du défilé de sa marque Palestinienne, tRASHY CLOTHING, censée se produire en Mars dernier en Islande, que la marque prend conscience de nouveaux enjeux, \"après quelques jours, nous avons eu l'idée de lancer une semaine de la mode virtuelle qui pourrait également soutenir d'autres créateurs et artistes qui traversent également la même annulation\". Mais le Covid a également été un élément déclencheur nécessaire \"La pandémie nous a fait réfléchir à différentes façons de nous adapter et de créer dans une période aussi étrange. La cyber fashion week est une idée qui pourrait être utilisée par n'importe quelle marque pour essayer de présenter et de créer durablement leurs collections à un rythme intelligent et lent\"\nFace à une demande croissante et à la mise en place progressive de moyens concrets, les marques digitales ont un véritable avenir devant elles, d’autant plus que la faisabilité d’un vêtement virtuel est celui d’une demi journée , une collection de 70 pièces est donc tout à fait imaginable sur un laps de temps réduit. Pour ce qui est des aftershows, du réseau et des rencontres, beaucoup d’idées fleurissent déjà indiquent Shakru \"Par exemple, nous faisons des after-parties numériques sur zoom et les gens peuvent accéder au profil de chaque marque pour voir la présentation des différentes collections et les acheter en ligne directement. De nombreux éditeurs de médias suivent notre page Instagram afin de toujours voir ce que les nouveaux designers publient pour la presse.\" ",
+					"text": "Plus qu’une possibilité annexe, une véritable révolution dans la fashion sphère, car la création ne serait pas réduite au catwalk et à son univers clos, un champ des possibilités vaste s’ouvre alors dans l’imaginaire et l’ADN des marques, dans le respect de l’écologie « Le rapport de la Helsinki Fashion week vient de sortir hier. Initiative 100% digitale, l'émission de C02 est passé de 137 kg à 0,67 par personne. Les chiffres parlent d’eux mêmes ». Pour ce qui est de l’aspect écologique, et éthique, ces nouvelle solutions offrent une nouvelle ligne de conduite pour un marché qui évolue. Autre studio de création phare, celui imaginé par Shakru, sous le nom de Cyber Fashion Week, qui comme son l’indique a impulsé une autre forme d'événements. C’est à la suite d’une annulation du défilé de sa marque Palestinienne, tRASHY CLOTHING, censée se produire en Mars dernier en Islande, que la marque prend conscience de nouveaux enjeux, \"après quelques jours, nous avons eu l'idée de lancer une semaine de la mode virtuelle qui pourrait également soutenir d'autres créateurs et artistes qui traversent également la même annulation\". Mais le Covid a également été un élément déclencheur nécessaire \"La pandémie nous a fait réfléchir à différentes façons de nous adapter et de créer dans une période aussi étrange. La cyber fashion week est une idée qui pourrait être utilisée par n'importe quelle marque pour essayer de présenter et de créer durablement leurs collections à un rythme intelligent et lent\"",
 					"spans": [
 						{
 							"start": 269,
@@ -121,10 +121,20 @@
 						},
 						{
 							"start": 1199,
-							"end": 1505,
+							"end": 1504,
 							"type": "em"
 						}
 					]
+				}
+			]
+		},
+		{
+			"template": "section-two-columns",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Face à une demande croissante et à la mise en place progressive de moyens concrets, les marques digitales ont un véritable avenir devant elles, d’autant plus que la faisabilité d’un vêtement virtuel est celui d’une demi journée , une collection de 70 pièces est donc tout à fait imaginable sur un laps de temps réduit. Pour ce qui est des aftershows, du réseau et des rencontres, beaucoup d’idées fleurissent déjà indiquent Shakru \"Par exemple, nous faisons des after-parties numériques sur zoom et les gens peuvent accéder au profil de chaque marque pour voir la présentation des différentes collections et les acheter en ligne directement. De nombreux éditeurs de médias suivent notre page Instagram afin de toujours voir ce que les nouveaux designers publient pour la presse.\" ",
+					"spans": []
 				}
 			],
 			"image": {
