@@ -1,4 +1,4 @@
-import { chakra } from "@chakra-ui/react";
+import { chakra, Text } from "@chakra-ui/react";
 
 export const Title = ({ children, ...props }) => (
 	<chakra.h2
@@ -43,12 +43,11 @@ export const Message = ({ children }) => (
 export const Blockquote = ({ text }) => (
 	<chakra.blockquote
 		fontFamily="Arachne"
-		fontSize="2rem"
-		fontWeight="600"
-		lineHeight="3rem"
+		fontSize={["1rem", "1.5rem", "1.8rem"]}
+		lineHeight={["1.5rem", "2rem", "2.5rem"]}
 		textAlign="center"
 		width="100%"
-		padding="8rem"
+		padding="5rem 8rem"
 		border="solid black 5px"
 		borderRadius="100%"
 	>
@@ -58,9 +57,26 @@ export const Blockquote = ({ text }) => (
 	</chakra.blockquote>
 );
 
+export const Tag = ({ children }) => (
+	<Text
+		as="div"
+		fontFamily="PressGothicPro"
+		fontSize="1.5rem"
+		textAlign="center"
+		textTransform="uppercase"
+		width="100%"
+		padding="0.5rem 2rem 0.4rem"
+		border="solid black 4px"
+		borderRadius="100%"
+	>
+		{children}
+	</Text>
+);
+
 export default {
 	Title,
 	Subtitle,
 	Message,
-	Blockquote
+	Blockquote,
+	Tag
 };
