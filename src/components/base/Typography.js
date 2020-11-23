@@ -40,8 +40,27 @@ export const Message = ({ children }) => (
 	</chakra.span>
 );
 
+export const Blockquote = ({ text }) => (
+	<chakra.blockquote
+		fontFamily="Arachne"
+		fontSize="2rem"
+		fontWeight="600"
+		lineHeight="3rem"
+		textAlign="center"
+		width="100%"
+		padding="8rem"
+		border="solid black 5px"
+		borderRadius="100%"
+	>
+		{Array.isArray(text)
+			? text.map((paragraph, i) => <p key={`blocquote-p-${i}`}>{paragraph.text}</p>)
+			: { text }}
+	</chakra.blockquote>
+);
+
 export default {
 	Title,
 	Subtitle,
-	Message
+	Message,
+	Blockquote
 };
