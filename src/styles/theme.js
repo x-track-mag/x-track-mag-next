@@ -32,7 +32,7 @@ const styles = {
 			fontSize: ["16px", "20px", "24px", "28px", "30px"]
 		},
 		main: {
-			paddingBottom: "4rem"
+			padding: "5rem 0 4rem"
 		},
 		section: {
 			margin: 0,
