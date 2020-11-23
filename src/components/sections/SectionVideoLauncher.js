@@ -1,14 +1,17 @@
-import { RichText } from "prismic-reactjs";
-import { Box, Grid, GridItem, Flex, Center, AspectRatio } from "@chakra-ui/react";
+import { Box, Grid, GridItem, Flex } from "@chakra-ui/react";
 import Container from "@components/base/Container";
 import Typography from "@components/base/Typography";
+import { RichText } from "prismic-reactjs";
 import ReactPlayer from "react-player";
 import SvgPlayerIcon from "@components/icons/SvgPlayerIcon.js";
 
 /**
- * A centered/responsive single column of rich text
+ * A two columns/responsive container with a rich text column and a video media player
  * @param {JSXElement} props
- * @param {RichText} text
+ * @param {String} props.title the title of the Article
+ * @param {String} props.subtitle the subtitle of the Article
+ * @param {String} props.text the rich text content to describe the video
+ * @param {String} props.link Youtube or Vimeo media link in the format that Prismic
  */
 const SectionVideoLauncher = ({ title, subtitle, image, text, link, ...props }) => (
 	<Box as="section" className="section-video-launcher" {...props}>
@@ -16,7 +19,6 @@ const SectionVideoLauncher = ({ title, subtitle, image, text, link, ...props }) 
 			as={Grid}
 			templateColumns={["100%", "100%", "30% auto"]}
 			gap={["0", null, "2rem", "4rem"]}
-			variant="hero"
 		>
 			<GridItem pb="2rem">
 				<Typography.Title>{title}</Typography.Title>
@@ -24,12 +26,12 @@ const SectionVideoLauncher = ({ title, subtitle, image, text, link, ...props }) 
 				<RichText render={text} />
 			</GridItem>
 			<GridItem
-				pb={["4rem", null, "0"]}
 				as={Flex}
 				flexDirection="column"
 				alignItems="center"
 				justifyContent="center"
 				minHeight={["66vh", null, "auto"]}
+				pb={["4rem", null, "0"]}
 			>
 				<ReactPlayer
 					url={link.embed_url}

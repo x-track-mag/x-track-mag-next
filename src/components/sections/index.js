@@ -2,6 +2,7 @@ import SectionHero from "./SectionHero.js";
 import SectionPost from "./SectionPost.js";
 import SectionVideoLauncher from "./SectionVideoLauncher.js";
 import SectionFullText from "./SectionFullText.js";
+import SectionQuote from "./SectionQuote.js";
 
 export const SectionResolver = ({ section, ...props }) => {
 	const { template, ...sectionProps } = section;
@@ -11,6 +12,9 @@ export const SectionResolver = ({ section, ...props }) => {
 			break;
 		case "section-full-text":
 			return <SectionFullText {...sectionProps} {...props} />;
+			break;
+		case "section-quote":
+			return <SectionQuote {...sectionProps} {...props} />;
 			break;
 		case "section-video-launcher":
 			return <SectionVideoLauncher {...sectionProps} {...props} />;
