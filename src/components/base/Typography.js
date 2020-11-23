@@ -61,7 +61,10 @@ export const Tag = ({ children }) => (
 	<Text
 		as="div"
 		fontFamily="PressGothicPro"
+		textColor="black"
 		fontSize="1.5rem"
+		lineHeight="1em"
+		margin="0.25em 0"
 		textAlign="center"
 		textTransform="uppercase"
 		width="100%"

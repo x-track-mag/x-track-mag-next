@@ -35,9 +35,11 @@ const ArticleInfo = ({
 	displayBackArrow = false,
 	author = "",
 	publication_date = "",
-	tags = []
+	tags = [],
+	...overrideStyle
 }) => (
 	<Flex
+		as="aside"
 		position={position}
 		zIndex="9999"
 		top="6rem"
@@ -48,10 +50,12 @@ const ArticleInfo = ({
 		justifyContent="space-between"
 		alignContent="stretch"
 		alignItems="flex-end"
+		{...overrideStyle}
 	>
 		{displayBackArrow && <BackArrow />}
 		<Text
 			as="div"
+			textColor="black"
 			textAlign="right"
 			transform="rotate(-90deg) translateX(100%)"
 			transformOrigin="100% 100%"
@@ -60,6 +64,7 @@ const ArticleInfo = ({
 		</Text>
 		<Text
 			as="div"
+			textColor="black"
 			textTransform="uppercase"
 			transform="rotate(-90deg) translateX(50%)"
 			transformOrigin="100% 100%"
