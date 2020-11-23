@@ -1,0 +1,42 @@
+{
+	"uid": "100--positive-energy",
+	"tags": [],
+	"publication_date": "2020-11-23T22:38:12+0000",
+	"title": "FRESHLY UPDATED PLAYLIST ",
+	"subtitle": "FOR LOVERS ONLY",
+	"image": {
+		"dimensions": {
+			"width": 1920,
+			"height": 1848
+		},
+		"alt": null,
+		"copyright": null,
+		"url": "https://images.prismic.io/x-track-mag/62ab6063-cd95-4c5f-9ee9-55e66d27cfd2_WhatsApp+Image+2020-11-23+at+20.24.55.jpeg?auto=compress,format&rect=0,0,960,924&w=1920&h=1848",
+		"desktop": {
+			"dimensions": {
+				"width": 1024,
+				"height": 986
+			},
+			"alt": null,
+			"copyright": null,
+			"url": "https://images.prismic.io/x-track-mag/62ab6063-cd95-4c5f-9ee9-55e66d27cfd2_WhatsApp+Image+2020-11-23+at+20.24.55.jpeg?auto=compress,format&rect=0,0,960,924&w=1024&h=986"
+		}
+	},
+	"template": "4: Image + Titre sur fond blanc",
+	"author": null,
+	"sections": [
+		{
+			"template": "section-playlist"
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "100 % positive energy",
+					"spans": []
+				}
+			]
+		}
+	]
+}
