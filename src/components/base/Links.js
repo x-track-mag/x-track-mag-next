@@ -12,20 +12,21 @@ const noOutline = {
  */
 const textStyles = {
 	textColor: "brand.green",
-	textDecoration: "none"
+	textDecoration: "none",
+	_focus: noOutline,
+	_active: noOutline
 };
 
 /**
  * Centered links inside Hero sections
  */
 const heroStyles = {
-	textDecoration: "none",
+	...textStyles,
+	textColor: "white",
+	fontSize: "xl",
 	_hover: {
-		textDecoration: "none",
-		textColor: "white"
-	},
-	_focus: noOutline,
-	_active: noOutline
+		textDecoration: "none"
+	}
 };
 
 /**
@@ -34,7 +35,7 @@ const heroStyles = {
 export const navStyles = {
 	fontWeight: "300",
 	lineHeight: "1rem",
-	textColor: "white",
+	textColor: "inherit",
 	textTransform: "uppercase",
 	textDecoration: "none",
 
@@ -52,7 +53,6 @@ export const navStyles = {
 export const headerNavStyles = {
 	...navStyles,
 	fontWeight: "500",
-	textColor: "black",
 	fontSize: "1.5rem"
 };
 
