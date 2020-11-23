@@ -1,10 +1,18 @@
 {
 	"Main": {
 		"title": {
-			"type": "Text",
+			"type": "StructuredText",
 			"config": {
+				"single": "heading2",
 				"label": "Titre",
 				"required": true
+			}
+		},
+		"subtitle": {
+			"type": "StructuredText",
+			"config": {
+				"single": "heading3",
+				"label": "Sous-titre"
 			}
 		},
 		"uid": {
@@ -27,12 +35,6 @@
 					}
 				],
 				"label": "Image"
-			}
-		},
-		"subtitle": {
-			"type": "Text",
-			"config": {
-				"label": "Sous-Titre"
 			}
 		},
 		"type": {
@@ -201,11 +203,10 @@
 						"non-repeat": {},
 						"repeat": {
 							"link": {
-								"type": "Link",
+								"type": "Embed",
 								"config": {
-									"select": "media",
-									"label": "Lien",
-									"placeholder": "Lien à embedder"
+									"label": "Lien de la playlist",
+									"placeholder": "Un lien vers la playlist à intégrer (Spotify, Youtube Music, Mixcloud..)"
 								}
 							}
 						}

@@ -1,25 +1,35 @@
-import { Box, Flex } from "@chakra-ui/react";
+import { useRouter } from "next/router";
+import { Flex } from "@chakra-ui/react";
 import { NavLink } from "@components/base/Links";
 import SvgHub from "@components/icons/SvgHub";
 
 const footerStyle = {
 	position: "fixed",
 	width: "100%",
-	bottom: "2em",
+	bottom: "1.5em",
+	zIndex: "999",
+	padding: "0 2rem",
 	alignItems: "center",
-	justify: "space-around",
+	justify: "space-between",
 	textColor: "white"
 };
-import { useRouter } from "next/router";
 
 /**
+ * The footer with its social links
  *
  */
 const Footer = () => {
 	const router = useRouter();
 	const textColor = router.route === "/" ? "white" : "black";
+
 	return (
-		<Flex as="footer" id="page-footer" {...footerStyle} textColor={textColor}>
+		<Flex
+			as="footer"
+			id="page-footer"
+			{...footerStyle}
+			textColor={textColor}
+			bgColor="#fb0"
+		>
 			<NavLink href="https://x-track.net">
 				<SvgHub color={textColor} size="2rem" />
 			</NavLink>

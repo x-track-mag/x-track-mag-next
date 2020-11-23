@@ -1,17 +1,12 @@
-/**
- * Takes the height in CSS units and multiply it by 10
- * @param {String} cssHeight
- */
-const calcWidth = (cssHeight) => cssHeight.replace(/([\d\.]+)(\w+)/, (str, val, unit) => Number(val)*10 + unit);
 
 /**
  * X-TRACK MAG LOGO
  * @param {JSXElement} props
  * @param {String} [props.color="#000"] a valid CSS color
- * @param {String} [props.size="2.4rem"] a valid CSS size unit
+ * @param {String} [props.size="300px"] a valid CSS size unit
  */
-const SvgLogo = ({ size = "2.4rem", color = "#000" }) => (
-	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 80" height={size} width={calcWidth(size)}>
+const SvgLogo = ({ size = "15rem", color = "#000" }) => (
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 80" width={size} height="auto">
 		<g transform="translate(-21 -62)" fill={color}>
 			<g id="x-track-letters">
 				<path id="x" d="M45.35 62.26L39 76.23l-6.32-14H22.9l11.4 21.98-12.51 24.87h9L39 91.89l8.24 17.19h9L43.72 84.21l11.4-21.95z" />

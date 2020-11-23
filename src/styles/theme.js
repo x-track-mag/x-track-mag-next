@@ -31,13 +31,16 @@ const styles = {
 			overflowX: "hidden",
 			fontSize: ["16px", "20px", "24px", "28px", "30px"]
 		},
+		main: {
+			paddingBottom: "4rem"
+		},
 		section: {
 			margin: 0,
 			position: "relative",
 			overflow: "hidden"
 		},
 		".hero-section": {
-			minHeight: "100vh",
+			minHeight: "90vh",
 			display: "flex",
 			alignItems: "center",
 			justifyContent: "center"
