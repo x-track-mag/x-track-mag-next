@@ -1,26 +1,26 @@
 import { chakra, Text } from "@chakra-ui/react";
 
-export const Title = ({ children, ...props }) => (
+export const Title = ({ children, ...moreStyles }) => (
 	<chakra.h2
 		fontFamily="Arachne"
 		fontSize="3.2rem"
 		lineHeight="3.9rem"
 		textAlign="center"
 		mb="0.5rem"
-		{...props}
+		{...moreStyles}
 	>
 		{children}
 	</chakra.h2>
 );
 
-export const Subtitle = ({ children, ...props }) => (
+export const Subtitle = ({ children, ...moreStyles }) => (
 	<chakra.h3
 		fontFamily="PressGothicPro"
 		fontSize="3.2rem"
 		lineHeight="3.9rem"
 		textAlign="center"
 		textTransform="uppercase"
-		{...props}
+		{...moreStyles}
 	>
 		{children}
 	</chakra.h3>
@@ -57,11 +57,11 @@ export const Blockquote = ({ text }) => (
 	</chakra.blockquote>
 );
 
-export const Tag = ({ children }) => (
+export const Tag = ({ textColor, children }) => (
 	<Text
 		as="div"
 		fontFamily="PressGothicPro"
-		textColor="black"
+		textColor={textColor}
 		fontSize="1.5rem"
 		lineHeight="1em"
 		margin="0.25em 0"
@@ -69,7 +69,8 @@ export const Tag = ({ children }) => (
 		textTransform="uppercase"
 		width="100%"
 		padding="0.5rem 2rem 0.4rem"
-		border="solid black 4px"
+		border="solid 4px"
+		borderColor={textColor}
 		borderRadius="100%"
 	>
 		{children}
