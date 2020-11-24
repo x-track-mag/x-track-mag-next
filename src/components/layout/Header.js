@@ -65,7 +65,6 @@ const Header = (props) => {
 			justify="space-between"
 			wrap="wrap"
 			padding="1rem 2rem"
-			bgColor="brand.green"
 			{...props}
 		>
 			<Heading

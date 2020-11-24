@@ -23,13 +23,7 @@ const Footer = () => {
 	const textColor = router.route === "/" ? "white" : "black";
 
 	return (
-		<Flex
-			as="footer"
-			id="page-footer"
-			{...footerStyle}
-			textColor={textColor}
-			bgColor="#fb0"
-		>
+		<Flex as="footer" id="page-footer" {...footerStyle} textColor={textColor}>
 			<NavLink href="https://x-track.net">
 				<SvgHub color={textColor} size="2rem" />
 			</NavLink>
