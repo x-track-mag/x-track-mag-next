@@ -252,7 +252,6 @@ export const Template5 = ({ uid, title = "", image }) => {
  */
 export const Template6 = ({ uid, title = "", subtitle = "", image, ...articleInfo }) => {
 	const [blurred, setBlurred] = useState(true);
-	const viewport = useViewportSize();
 
 	return (
 		<section
@@ -260,8 +259,8 @@ export const Template6 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			key={uid}
 			id={uid}
 		>
+			<BackgroundImageContainer image={image} />
 			<ArticleInfo {...articleInfo} textColor="white" />
-			<BackgroundImageContainer image={image} viewport={viewport} />
 			<HeroLink
 				href={uid}
 				onMouseEnter={() => setBlurred(false)}
