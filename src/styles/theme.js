@@ -43,7 +43,10 @@ const styles = {
 			minHeight: "90vh",
 			display: "flex",
 			alignItems: "center",
-			justifyContent: "center"
+			justifyContent: "center",
+			img: {
+				objectFit: "cover"
+			}
 		},
 		".hero-section.template5": {
 			minHeight: "50vh"
