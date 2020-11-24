@@ -13,7 +13,7 @@ const ScrollingNews = ({ messages = [], delay = 500 }) => {
 				position: "fixed",
 				width: "100%",
 				overflow: "hidden",
-				top: "5em",
+				top: "5rem",
 				height: "4em"
 			}}
 		>

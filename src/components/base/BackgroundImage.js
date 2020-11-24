@@ -2,16 +2,28 @@ import Image from "next/image";
 import clsx from "clsx";
 import { withViewportSize } from "@components/ViewportSizeProvider";
 
-const settings = {
+/**
+ * @type Viewport
+ * @field width
+ * @field height
+ */
+
+/**
+ * Default settings for recentering image
+ */
+const _DEFAULT_SETTINGS = {
 	stretchMode: "crop",
 	centeredX: true,
 	centeredY: true
 };
 
 /**
- * Recenter image/content on screen as needed
+ * Reposition an image with given dimensions inside the viewport
+ * @param {Viewport} imageDimensions
+ * @param {Viewport} viewport dimensions of the image container
+ * @param {Object} settings crop|fit|adapt|center options
  */
-const adjustImagePos = (imageDimensions, viewport) => {
+const adjustImagePos = (imageDimensions, viewport, settings = _DEFAULT_SETTINGS) => {
 	if (!imageDimensions.ratio) {
 		// Do it once and for all
 		imageDimensions.ratio = imageDimensions.width / imageDimensions.height;
