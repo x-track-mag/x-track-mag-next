@@ -72,7 +72,6 @@ export const Template1 = ({ uid, title = "", subtitle = "", image, ...articleInf
  */
 export const Template2 = ({ uid, title = "", subtitle = "", image, ...articleInfo }) => {
 	const [blurred, setBlurred] = useState(false);
-	const viewport = useViewportSize();
 
 	return (
 		<section
@@ -80,7 +79,7 @@ export const Template2 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			key={uid}
 			id={uid}
 		>
-			<BackgroundImageContainer image={image} viewport={viewport} />
+			<BackgroundImageContainer image={image} />
 			<ArticleInfo
 				position="absolute"
 				{...articleInfo}
@@ -160,24 +159,26 @@ export const Template3 = ({ uid, title = "", image }) => {
  */
 export const Template4 = ({ uid, title = "", image }) => {
 	return (
-		<section className={clsx("hero-section", "template4")} key={uid} id={uid}>
-			<BackgroundImageContainer image={image} height="80vh" />
-			<HeroLink href={uid}>
-				<Box
-					as="footer"
-					position="absolute"
-					height="4.5rem"
-					bottom="0"
-					right="0"
-					left="0"
-					bgColor="white"
-					m="0"
-					pt="0.5rem"
-				>
+		<HeroLink href={uid}>
+			<Flex
+				as="section"
+				flexDirection="column"
+				alignContent="stretch"
+				className={clsx("hero-section", "template4")}
+				key={uid}
+				id={uid}
+			>
+				<BackgroundImageContainer
+					image={image}
+					flexGrow="1"
+					width="100%"
+					position="relative"
+				/>
+				<Box as="footer" height="4.5rem" flexGrow="0" pt="0.5rem" width="100%">
 					<Typography.Subtitle textColor="black">{title}</Typography.Subtitle>
 				</Box>
-			</HeroLink>
-		</section>
+			</Flex>
+		</HeroLink>
 	);
 };
 
