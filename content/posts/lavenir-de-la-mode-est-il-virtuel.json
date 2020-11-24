@@ -7,22 +7,11 @@
 	"title": "L’Avenir de la Mode est-il virtuel ?",
 	"subtitle": "",
 	"image": {
-		"dimensions": {
-			"width": 1920,
-			"height": 1920
-		},
-		"alt": "S’il est difficile de se rendre compte de l’impact de la crise sur l’avenir de la mode, les Fashion Week traditionnelles restent cependant amoindries. 81 défilés de programmés sur neuf jours certes, mais sur la totalité, 17 shows ont été digitalisés. Malgré les mesures sanitaires, la mode 3.0 sera-t-elle virtuelle ?",
-		"copyright": null,
-		"url": "https://images.prismic.io/x-track-mag/3ac90b77-49d9-43c8-b670-6ba23a2ebbfe_116494837_274747330488859_1475805579066996971_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1920&h=1920",
-		"desktop": {
-			"dimensions": {
-				"width": 1024,
-				"height": 1024
-			},
-			"alt": null,
-			"copyright": null,
-			"url": "https://images.prismic.io/x-track-mag/3ac90b77-49d9-43c8-b670-6ba23a2ebbfe_116494837_274747330488859_1475805579066996971_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024"
-		}
+		"url": "https://images.prismic.io/x-track-mag/6410f52c-afd2-43f7-9d30-e3b8efab6484_NeonV3%281%29.png?auto=compress,format",
+		"alt": null,
+		"width": 1920,
+		"height": 1920,
+		"ratio": 1
 	},
 	"template": "5: 2 colonnes Titre + Image",
 	"author": null,
@@ -48,22 +37,11 @@
 			"title": "L’Avenir de la Mode est-il virtuel ?",
 			"subtitle": null,
 			"image": {
-				"dimensions": {
-					"width": 1920,
-					"height": 1920
-				},
-				"alt": null,
-				"copyright": null,
 				"url": "https://images.prismic.io/x-track-mag/39ebae00-1b26-43d5-86fd-36cec166a77c_116809705_289027542401740_5578178807252956386_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1920&h=1920",
-				"desktop": {
-					"dimensions": {
-						"width": 1024,
-						"height": 1024
-					},
-					"alt": null,
-					"copyright": null,
-					"url": "https://images.prismic.io/x-track-mag/39ebae00-1b26-43d5-86fd-36cec166a77c_116809705_289027542401740_5578178807252956386_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024"
-				}
+				"alt": null,
+				"width": 1920,
+				"height": 1920,
+				"ratio": 1
 			}
 		},
 		{
@@ -138,13 +116,11 @@
 				}
 			],
 			"image": {
-				"dimensions": {
-					"width": 1024,
-					"height": 1024
-				},
+				"url": "https://images.prismic.io/x-track-mag/6410f52c-afd2-43f7-9d30-e3b8efab6484_NeonV3%281%29.png?auto=compress,format&rect=0,0,1920,1920&w=1024&h=1024",
 				"alt": null,
-				"copyright": null,
-				"url": "https://images.prismic.io/x-track-mag/6410f52c-afd2-43f7-9d30-e3b8efab6484_NeonV3%281%29.png?auto=compress,format&rect=0,0,1920,1920&w=1024&h=1024"
+				"width": 1024,
+				"height": 1024,
+				"ratio": 1
 			},
 			"columns_order": "Image | Texte"
 		}

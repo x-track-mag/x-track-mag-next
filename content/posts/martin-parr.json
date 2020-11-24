@@ -7,22 +7,11 @@
 	"title": "Martin Parr",
 	"subtitle": "Un Monde à Parr",
 	"image": {
-		"dimensions": {
-			"width": 1920,
-			"height": 1281
-		},
+		"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 		"alt": null,
-		"copyright": null,
-		"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format&rect=0,0,1280,854&w=1920&h=1281",
-		"desktop": {
-			"dimensions": {
-				"width": 1024,
-				"height": 683
-			},
-			"alt": null,
-			"copyright": null,
-			"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format&rect=0,0,1280,854&w=1024&h=683"
-		}
+		"width": 1280,
+		"height": 854,
+		"ratio": 1.4988290398126465
 	},
 	"template": "6: Image + Titre + sous-titre + infos + hover",
 	"author": "Aphelandra Siassia",

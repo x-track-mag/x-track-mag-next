@@ -9,22 +9,11 @@
 	"title": "Nola Cherri",
 	"subtitle": "Live Session",
 	"image": {
-		"dimensions": {
-			"width": 1920,
-			"height": 1083
-		},
+		"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format",
 		"alt": null,
-		"copyright": null,
-		"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format&rect=0,0,2850,1608&w=1920&h=1083",
-		"desktop": {
-			"dimensions": {
-				"width": 1024,
-				"height": 578
-			},
-			"alt": null,
-			"copyright": null,
-			"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format&rect=0,1,2847,1607&w=1024&h=578"
-		}
+		"width": 2850,
+		"height": 1608,
+		"ratio": 1.7723880597014925
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "Aphelandra Siassia",
@@ -60,9 +49,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/_zHRVVtyWGg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"image": {
-				"desktop": {}
-			}
+			"image": null
 		}
 	]
 }

@@ -24,17 +24,9 @@
 		"image": {
 			"type": "Image",
 			"config": {
-				"constraint": {
-					"width": 1920
-				},
-				"thumbnails": [
-					{
-						"name": "desktop",
-						"width": 1024,
-						"height": null
-					}
-				],
-				"label": "Image"
+				"constraint": {},
+				"thumbnails": [],
+				"label": "image"
 			}
 		},
 		"type": {
@@ -93,30 +85,22 @@
 								"type": "Text",
 								"config": {
 									"label": "Accroche",
-									"placeholder": "Accroche (optionnelle)"
+									"placeholder": "Accroche (laissez vide pour reprendre le titre de l'article)"
 								}
 							},
 							"subtitle": {
 								"type": "Text",
 								"config": {
 									"label": "Accroche secondaire",
-									"placeholder": "Accroche secondaire (optionnelle)"
+									"placeholder": "Accroche secondaire (laissez vide pour reprendre le sous-titre de l'article)"
 								}
 							},
 							"image": {
 								"type": "Image",
 								"config": {
-									"constraint": {
-										"width": 1920
-									},
-									"thumbnails": [
-										{
-											"name": "desktop",
-											"width": 1024,
-											"height": null
-										}
-									],
-									"label": "Image"
+									"constraint": {},
+									"thumbnails": [],
+									"label": "image"
 								}
 							}
 						},
@@ -236,17 +220,9 @@
 							"image": {
 								"type": "Image",
 								"config": {
-									"constraint": {
-										"width": 1920
-									},
-									"thumbnails": [
-										{
-											"name": "desktop",
-											"width": 1024,
-											"height": null
-										}
-									],
-									"label": "Image"
+									"constraint": {},
+									"thumbnails": [],
+									"label": "image"
 								}
 							}
 						},

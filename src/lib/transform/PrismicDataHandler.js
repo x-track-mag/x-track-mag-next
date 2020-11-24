@@ -1,4 +1,28 @@
 /**
+ * @typedef ImageDescr
+ * @field {String} url
+ * @field {Number} width
+ * @field {Number} height
+ * @field {Number} ratio
+ * @field {String} alt
+ */
+
+/**
+ * Prismic image format is broken 
+ * Example: 
+ *  "image": {
+		"desktop": {}
+	}
+ * @param {Object} imageProp 
+ * @return {ImageDescr}
+ */
+const fixImage = ({ dimensions, url, alt = "" }) => {
+	if (!url) return null;
+	const { width, height } = dimensions;
+	return { url, alt, width, height, ratio: width / height };
+};
+
+/**
  * Sections are Prismic Slices
  * @param {Slice} sectionData
  */
@@ -9,6 +33,10 @@ const transformSection = (sectionData) => {
 	// We don't use repeatable zone in sections so we drop the `items` except for the playlist
 	const template = sectionData.slice_type;
 	const { ...sectionFields } = sectionData.primary;
+	const { image } = sectionFields;
+	if (image) {
+		sectionFields.image = fixImage(image);
+	}
 	if (template === "section-playlist") {
 		sectionFields.playlist = sectionData.items;
 	}
@@ -50,7 +78,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 		publication_date: first_publication_date,
 		title,
 		subtitle,
-		image,
+		image: fixImage(image),
 		template,
 		author
 	};
