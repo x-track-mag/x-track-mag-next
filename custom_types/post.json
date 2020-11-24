@@ -54,7 +54,7 @@
 					"3: Image + Titre",
 					"4: Image + Titre sur fond blanc",
 					"5: 2 colonnes Titre + Image",
-					"6: Image + infos sans hover"
+					"6: Image + Titre + sous-titre + infos + hover"
 				],
 				"default_value": "",
 				"label": "Template à utiliser sur la Home"
