@@ -3,7 +3,7 @@ import Typography from "@components/base/Typography";
 
 const HeroText = ({ title = "", subtitle = "", ...moreStyles }) => {
 	return (
-		<Container variant="hero" centerContent p="2em">
+		<Container variant="hero" centerContent p="2rem">
 			<Typography.Title {...moreStyles}>{title}</Typography.Title>
 			{subtitle && (
 				<Typography.Subtitle {...moreStyles}>{subtitle}</Typography.Subtitle>
