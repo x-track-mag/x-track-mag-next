@@ -6,9 +6,6 @@ import ReactPlayer from "react-player";
 const buildPlayer = ({ link }, i) => (
 	<Container className="playlist-container" key={`playlist-${i}`}>
 		<Typography.Subtitle textColor="black">{link.title}</Typography.Subtitle>
-		<pre>
-			<code>{JSON.stringify(link, null, "\t")}</code>
-		</pre>
 
 		<ReactPlayer
 			url={link.embed_url}
