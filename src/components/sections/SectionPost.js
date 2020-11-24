@@ -11,20 +11,23 @@ const template1 = {
 	displayImage: true,
 	displayTitle: true,
 	displaySubtitle: true,
+	displayInfo: true,
 	focusOnHover: true,
 	displayFooter: false
 };
 const template2 = {
 	displayImage: true,
 	displayTitle: true,
+	displayInfo: true,
 	displaySubtitle: true,
-	focusOnHover: true,
+	focusOnHover: false,
 	displayFooter: false
 };
 const template3 = {
 	displayImage: true,
 	displayTitle: true,
 	displaySubtitle: true,
+	displayInfo: false,
 	focusOnHover: true,
 	displayFooter: false
 };
@@ -32,6 +35,7 @@ const template4 = {
 	displayImage: false,
 	displayTitle: true,
 	displaySubtitle: true,
+	displayInfo: false,
 	focusOnHover: false,
 	displayFooter: false,
 	more: {
@@ -42,6 +46,7 @@ const template5 = {
 	displayImage: true,
 	displayTitle: true,
 	displaySubtitle: true,
+	displayInfo: false,
 	focusOnHover: true,
 	displayFooter: false
 };
@@ -52,7 +57,15 @@ const template6 = {
 	focusOnHover: true,
 	displayFooter: false
 };
-const templates = [template1, template2, template3, template4, template5, template6];
+const templates = [
+	null,
+	template1,
+	template2,
+	template3,
+	template4,
+	template5,
+	template6
+];
 
 const analyzeTemplate = (templateChoice) => {
 	const templateNumber = Number(templateChoice.split(":")[0]);
@@ -83,6 +96,7 @@ const SectionPost = ({
 		displayImage,
 		displayTitle,
 		displaySubtitle,
+		displayInfo,
 		focusOnHover,
 		displayFooter,
 		more = {}
@@ -94,18 +108,34 @@ const SectionPost = ({
 			key={uid}
 			id={uid}
 		>
-			<ArticleInfo position="absolute" {...articleInfo} bottom="1rem" top="12rem" />
+			{displayInfo && (
+				<ArticleInfo
+					position="absolute"
+					{...articleInfo}
+					bottom="1rem"
+					top="12rem"
+				/>
+			)}
 			{displayImage && <BackgroundImage image={image} viewport={viewport} />}
 			<HeroLink
 				href={uid}
 				onMouseEnter={() => setBlurred(!focusOnHover)}
 				onMouseLeave={() => setBlurred(focusOnHover)}
 			>
-				<HeroText
-					title={displayTitle ? title : ""}
-					subtitle={displaySubtitle ? subtitle : ""}
-					{...more}
-				/>
+				{focusOnHover && (
+					<HeroText
+						title={displayTitle ? title : ""}
+						subtitle={displaySubtitle ? subtitle : ""}
+						{...more}
+					/>
+				)}
+				{!focusOnHover && (
+					<HeroText
+						title={displayTitle ? title : ""}
+						subtitle={displaySubtitle ? subtitle : ""}
+						{...more}
+					/>
+				)}
 			</HeroLink>
 		</section>
 	);
