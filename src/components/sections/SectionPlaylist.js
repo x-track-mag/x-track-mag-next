@@ -14,7 +14,7 @@ const buildPlayer = ({ link }, i) => (
 			config={{
 				youtube: {
 					playerVars: {
-						autoplay: 1,
+						autoplay: 0,
 						loop: 1,
 						modestbranding: 1,
 						hl: "fr"
