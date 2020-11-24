@@ -15,6 +15,7 @@ const PostPage = ({
 	sections
 }) => {
 	const article = { title, subtitle, image, author, publication_date, tags };
+	const isArticle = tags.includes("article");
 	return (
 		<>
 			<ArticleInfo
@@ -24,7 +25,7 @@ const PostPage = ({
 				publication_date={publication_date}
 				tags={tags}
 			/>
-			<SectionHero article={article} />
+			{isArticle && <SectionHero image={image} />}
 			{sections.map((section, i) => (
 				<SectionResolver
 					key={`section-${i}`}
