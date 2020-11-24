@@ -45,9 +45,12 @@ const styles = {
 			alignItems: "center",
 			justifyContent: "center"
 		},
+		".hero-section.template5": {
+			minHeight: "50vh"
+		},
 		".hero-section.blurred": {
 			img: {
-				filter: "blur(5px)"
+				filter: "blur(8px)"
 			}
 		},
 
