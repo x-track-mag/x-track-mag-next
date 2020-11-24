@@ -36,14 +36,15 @@ const ArticleInfo = ({
 	author = "",
 	publication_date = "",
 	tags = [],
+	textColor = "black",
 	...overrideStyle
 }) => (
 	<Flex
 		as="aside"
 		position={position}
 		zIndex="99"
-		top="6rem"
-		bottom="5rem"
+		top={position === "absolute" ? "12rem" : "6rem"}
+		bottom={position === "absolute" ? "1rem" : "5rem"}
 		right="2rem"
 		width="1rem"
 		flexDirection="column"
@@ -55,7 +56,7 @@ const ArticleInfo = ({
 		{displayBackArrow && <BackArrow />}
 		<Text
 			as="div"
-			textColor="black"
+			textColor={textColor}
 			textAlign="right"
 			transform="rotate(-90deg) translateX(100%)"
 			transformOrigin="100% 100%"
@@ -64,7 +65,7 @@ const ArticleInfo = ({
 		</Text>
 		<Text
 			as="div"
-			textColor="black"
+			textColor={textColor}
 			textTransform="uppercase"
 			transform="rotate(-90deg) translateX(50%)"
 			transformOrigin="100% 100%"
@@ -74,7 +75,9 @@ const ArticleInfo = ({
 		</Text>
 		<div className="tags">
 			{tags.map((tag) => (
-				<Typography.Tag key={tag}>{tag}</Typography.Tag>
+				<Typography.Tag key={tag} textColor={textColor}>
+					{tag}
+				</Typography.Tag>
 			))}
 		</div>
 	</Flex>
