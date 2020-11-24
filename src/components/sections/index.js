@@ -1,6 +1,7 @@
 import SectionHero from "./SectionHero.js";
 import SectionPost from "./SectionPost.js";
 import SectionVideoLauncher from "./SectionVideoLauncher.js";
+import SectionPlaylist from "./SectionPlaylist.js";
 import SectionTwoColumns from "./SectionTwoColumns.js";
 import SectionFullText from "./SectionFullText.js";
 import SectionQuote from "./SectionQuote.js";
@@ -22,6 +23,9 @@ export const SectionResolver = ({ article, section, ...more }) => {
 			break;
 		case "section-two-columns":
 			return <SectionTwoColumns article={article} {...sectionProps} {...more} />;
+			break;
+		case "section-playlist":
+			return <SectionPlaylist article={article} {...sectionProps} {...more} />;
 			break;
 
 		default:
