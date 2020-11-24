@@ -28,10 +28,7 @@ const SectionTwoColumns = ({ article, image, text, ...props }) => (
 				minHeight={["66vh", null, "auto"]}
 				pb={["4rem", null, "0"]}
 			>
-				<AspectRatio
-					ratio={image.dimensions.width / image.dimensions.height}
-					width="100%"
-				>
+				<AspectRatio ratio={image.ratio} width="100%">
 					<Image
 						src={image.url}
 						alt={image.alt}

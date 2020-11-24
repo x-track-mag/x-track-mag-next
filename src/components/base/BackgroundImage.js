@@ -19,22 +19,22 @@ const _DEFAULT_SETTINGS = {
 
 /**
  * Reposition an image with given dimensions inside the viewport
- * @param {Viewport} imageDimensions
+ * @param {Viewport} image
  * @param {Viewport} viewport dimensions of the image container
  * @param {Object} settings crop|fit|adapt|center options
  */
-const adjustImagePos = (imageDimensions, viewport, settings = _DEFAULT_SETTINGS) => {
-	if (!imageDimensions.ratio) {
+const adjustImagePos = (image, viewport, settings = _DEFAULT_SETTINGS) => {
+	if (!image.ratio) {
 		// Do it once and for all
-		imageDimensions.ratio = imageDimensions.width / imageDimensions.height;
+		image.ratio = image.width / image.height;
 	}
 
 	const style = {
 		position: "absolute",
 		left: 0,
 		top: 0,
-		width: imageDimensions.width,
-		height: imageDimensions.height
+		width: image.width,
+		height: image.height
 	};
 
 	if (!viewport) return style; // SSR
@@ -43,7 +43,7 @@ const adjustImagePos = (imageDimensions, viewport, settings = _DEFAULT_SETTINGS)
 		vH = viewport.height;
 
 	// try the usual stretch on $image's width
-	var imgRatio = imageDimensions.ratio,
+	var imgRatio = image.ratio,
 		imgWidth = vW,
 		imgHeight = imgWidth / imgRatio;
 
@@ -87,9 +87,10 @@ const adjustImagePos = (imageDimensions, viewport, settings = _DEFAULT_SETTINGS)
  * @param {JSXElement} props
  */
 const BackgroundImage = ({ image, className, viewport }) => {
-	const imageDimensions = image.dimensions;
+	if (!image) return null;
+
 	// Calculate the width and height and position to fill the container
-	const style = adjustImagePos(imageDimensions, viewport);
+	const style = adjustImagePos(image, viewport);
 	return (
 		<div className="background-image-container" style={{ ...style }}>
 			<Image

@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import BackgroundImage from "@components/base/BackgroundImage";
+import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
 import HeroText from "@components/base/HeroText";
 
 /**
@@ -9,12 +9,18 @@ import HeroText from "@components/base/HeroText";
  * @param {String} [subtitle] Titre secondaire
  * @param {Object} [image] Image background
  */
-const SectionHero = ({ title, subtitle, image }) => {
+const SectionHero = ({ article = {}, title, subtitle, image }) => {
 	const imageContainer = useRef();
 	return (
 		<section className="hero-section" ref={imageContainer}>
-			{image && <BackgroundImage className="hero-image" image={image} />}
-			<HeroText title={title} subtitle={subtitle} />
+			<BackgroundImageContainer
+				className="hero-image"
+				image={image || article.image}
+			/>
+			<HeroText
+				title={title || article.title}
+				subtitle={subtitle || article.subtitle}
+			/>
 		</section>
 	);
 };

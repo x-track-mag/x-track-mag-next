@@ -1,7 +1,7 @@
 import { useState } from "react";
 import clsx from "clsx";
 import { useViewportSize } from "@components/ViewportSizeProvider";
-import BackgroundImage from "@components/base/BackgroundImage";
+import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
 import HeroText from "@components/base/HeroText";
 
 import { HeroLink } from "@components/base/Links";
@@ -39,6 +39,7 @@ export const Template1 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			key={uid}
 			id={uid}
 		>
+			<BackgroundImageContainer image={image} viewport={viewport} />
 			<ArticleInfo
 				position="absolute"
 				{...articleInfo}
@@ -47,7 +48,6 @@ export const Template1 = ({ uid, title = "", subtitle = "", image, ...articleInf
 				textColor="white"
 			/>
 			<HeroLink href={uid}>
-				<BackgroundImage image={image} viewport={viewport} />
 				<HeroText title={title} subtitle={subtitle} textColor="white" />
 			</HeroLink>
 		</section>
@@ -80,6 +80,7 @@ export const Template2 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			key={uid}
 			id={uid}
 		>
+			<BackgroundImageContainer image={image} viewport={viewport} />
 			<ArticleInfo
 				position="absolute"
 				{...articleInfo}
@@ -87,7 +88,6 @@ export const Template2 = ({ uid, title = "", subtitle = "", image, ...articleInf
 				top="12rem"
 				textColor="white"
 			/>
-			<BackgroundImage image={image} viewport={viewport} />
 			<HeroLink
 				href={uid}
 				onMouseEnter={() => setBlurred(true)}
@@ -117,7 +117,6 @@ export const Template2 = ({ uid, title = "", subtitle = "", image, ...articleInf
  */
 export const Template3 = ({ uid, title = "", image }) => {
 	const [blurred, setBlurred] = useState(false);
-	const viewport = useViewportSize();
 
 	return (
 		<section
@@ -125,7 +124,7 @@ export const Template3 = ({ uid, title = "", image }) => {
 			key={uid}
 			id={uid}
 		>
-			<BackgroundImage image={image} viewport={viewport} />
+			<BackgroundImageContainer image={image} />
 			<HeroLink
 				href={uid}
 				onMouseEnter={() => setBlurred(true)}
@@ -160,16 +159,10 @@ export const Template3 = ({ uid, title = "", image }) => {
  * @param {Array<String>} [props.tags]
  */
 export const Template4 = ({ uid, title = "", image }) => {
-	const viewport = useViewportSize();
-	if (viewport !== null) {
-		// Reduce the height devoluted to the image
-		viewport.height = viewport.height * 0.8 - 100;
-	}
-
 	return (
 		<section className={clsx("hero-section", "template4")} key={uid} id={uid}>
+			<BackgroundImageContainer image={image} height="80vh" />
 			<HeroLink href={uid}>
-				<BackgroundImage image={image} viewport={viewport} />
 				<Box
 					as="footer"
 					position="absolute"
@@ -226,10 +219,7 @@ export const Template5 = ({ uid, title = "", image }) => {
 						minHeight={["66vh", null, "auto"]}
 						pb={["4rem", null, "0"]}
 					>
-						<AspectRatio
-							ratio={image.dimensions.width / image.dimensions.height}
-							width="100%"
-						>
+						<AspectRatio ratio={image.ratio} width="100%">
 							<Image
 								src={image.url}
 								alt={image.alt}
@@ -271,7 +261,7 @@ export const Template6 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			id={uid}
 		>
 			<ArticleInfo {...articleInfo} textColor="white" />
-			<BackgroundImage image={image} viewport={viewport} />
+			<BackgroundImageContainer image={image} viewport={viewport} />
 			<HeroLink
 				href={uid}
 				onMouseEnter={() => setBlurred(false)}
