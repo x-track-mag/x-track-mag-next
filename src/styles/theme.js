@@ -34,6 +34,16 @@ const styles = {
 		main: {
 			paddingBottom: "4rem"
 		},
+		"main.page": {
+			paddingTop: "4rem"
+		},
+		a: {
+			outline: "none",
+			outlineStyle: "none"
+		},
+		"a.active": {
+			textColor: "brand.green"
+		},
 		section: {
 			margin: 0,
 			position: "relative",

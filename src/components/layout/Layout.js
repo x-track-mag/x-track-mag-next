@@ -23,12 +23,12 @@ const Layout = ({ children }) => (
 		<Header />
 		<AnimatePresence>
 			<motion.main
+				id="main-content"
 				key={useRouter().route}
 				initial={{ opacity: 0 }}
 				animate={{ opacity: 1 }}
-				transition={{ duration: 0.5 }}
+				transition={{ duration: 0.2 }}
 				exit={{ opacity: 0 }}
-				id="main-content"
 				{...contentStyle}
 			>
 				{children}

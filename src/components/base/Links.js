@@ -39,8 +39,13 @@ export const navStyles = {
 	textTransform: "uppercase",
 	textDecoration: "none",
 
-	".active": {
-		textColor: "brand.green"
+	_focus: {
+		textColor: "brand.green",
+		...noOutline
+	},
+	_active: {
+		textColor: "brand.green",
+		...noOutline
 	},
 	_hover: {
 		textColor: "brand.green"
