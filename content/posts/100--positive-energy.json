@@ -26,7 +26,12 @@
 	"author": null,
 	"sections": [
 		{
-			"template": "section-playlist"
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"link": {}
+				}
+			]
 		},
 		{
 			"template": "section-full-text",
