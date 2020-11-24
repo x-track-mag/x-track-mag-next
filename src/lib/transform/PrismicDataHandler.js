@@ -6,11 +6,15 @@ const transformSection = (sectionData) => {
 	// Test if the section is already in the flat format
 	if (sectionData.slice_type === undefined) return sectionData;
 
-	// Note: at this moment in time, we don't use repeatable zone in sections so we drop the `items`
+	// We don't use repeatable zone in sections so we drop the `items` except for the playlist
+	const template = sectionData.slice_type;
 	const { ...sectionFields } = sectionData.primary;
+	if (template === "section-playlist") {
+		sectionFields.playlist = sectionData.items;
+	}
 
 	return {
-		template: sectionData.slice_type,
+		template,
 		...sectionFields
 	};
 };
