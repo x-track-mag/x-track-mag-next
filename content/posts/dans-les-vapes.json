@@ -28,6 +28,14 @@
 	"author": "Hunther Thompson",
 	"sections": [
 		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": {
+				"desktop": {}
+			}
+		},
+		{
 			"template": "section-playlist",
 			"playlist": [
 				{
