@@ -1,4 +1,4 @@
-import SectionPost from "@components/sections/SectionPost.js";
+import SectionHomePost from "@components/sections/SectionHomePost.js";
 import ScrollingNews from "@components/ScrollingNews";
 
 export const HomePage = ({ scrolling_news, sections }) => {
@@ -6,7 +6,7 @@ export const HomePage = ({ scrolling_news, sections }) => {
 		<>
 			<ScrollingNews messages={scrolling_news} />
 			{sections.map(({ uid, ...sectionProps }) => (
-				<SectionPost key={uid} uid={uid} {...sectionProps} />
+				<SectionHomePost key={uid} uid={uid} {...sectionProps} />
 			))}
 		</>
 	);
