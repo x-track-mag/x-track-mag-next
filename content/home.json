@@ -63,7 +63,7 @@
 					"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format&rect=0,0,2000,1125&w=1024&h=576"
 				}
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
+			"template": "3: Image + Titre",
 			"author": "Hunther Thompson"
 		},
 		{
@@ -92,7 +92,7 @@
 					"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format&rect=0,0,1280,854&w=1024&h=683"
 				}
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
+			"template": "6: Image + Titre + sous-titre + infos + hover",
 			"author": "Aphelandra Siassia"
 		},
 		{
@@ -123,7 +123,7 @@
 					"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format&rect=0,1,2847,1607&w=1024&h=578"
 				}
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
+			"template": "3: Image + Titre",
 			"author": "Aphelandra Siassia"
 		},
 		{
@@ -152,7 +152,7 @@
 					"url": "https://images.prismic.io/x-track-mag/3ac90b77-49d9-43c8-b670-6ba23a2ebbfe_116494837_274747330488859_1475805579066996971_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024"
 				}
 			},
-			"template": "3: Image + Titre",
+			"template": "5: 2 colonnes Titre + Image",
 			"author": null
 		}
 	]

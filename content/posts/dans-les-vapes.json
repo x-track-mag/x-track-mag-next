@@ -24,7 +24,7 @@
 			"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format&rect=0,0,2000,1125&w=1024&h=576"
 		}
 	},
-	"template": "1: Image + Titre + sous-titre + infos",
+	"template": "3: Image + Titre",
 	"author": "Hunther Thompson",
 	"sections": [
 		{

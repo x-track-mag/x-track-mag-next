@@ -24,7 +24,7 @@
 			"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format&rect=0,0,1280,854&w=1024&h=683"
 		}
 	},
-	"template": "1: Image + Titre + sous-titre + infos",
+	"template": "6: Image + Titre + sous-titre + infos + hover",
 	"author": "Aphelandra Siassia",
 	"sections": [
 		{
