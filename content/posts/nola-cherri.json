@@ -26,7 +26,7 @@
 			"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format&rect=0,1,2847,1607&w=1024&h=578"
 		}
 	},
-	"template": "3: Image + Titre",
+	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "Aphelandra Siassia",
 	"sections": [
 		{
