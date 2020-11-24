@@ -18,6 +18,7 @@ const SectionVideoLauncher = ({ article, text, link, ...props }) => (
 			as={Grid}
 			templateColumns={["100%", "100%", "30% auto"]}
 			gap={["0", null, "2rem", "4rem"]}
+			marginTop="4rem"
 		>
 			<GridItem pb="2rem">
 				<Typography.Title>{article.title}</Typography.Title>
