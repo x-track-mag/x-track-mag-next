@@ -43,11 +43,11 @@ export const Message = ({ children }) => (
 export const Blockquote = ({ text }) => (
 	<chakra.blockquote
 		fontFamily="Arachne"
-		fontSize={["1rem", "1.5rem", "1.8rem"]}
-		lineHeight={["1.5rem", "2rem", "2.5rem"]}
+		fontSize={["1rem", "1.25rem", "1.8rem"]}
+		lineHeight={["1.3rem", "1.5rem", "2rem", "2.5rem"]}
 		textAlign="center"
 		width="100%"
-		padding="5rem 8rem"
+		padding={["3rem 4.5rem", "4rem 6rem", "6rem 8rem"]}
 		border="solid black 5px"
 		borderRadius="100%"
 	>
