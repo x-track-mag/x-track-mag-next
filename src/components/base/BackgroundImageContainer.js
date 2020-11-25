@@ -1,5 +1,6 @@
-import Image from "next/image";
 import { Box } from "@chakra-ui/react";
+import Image from "next/image";
+import ReactPlayer from "react-player/file";
 
 /**
  * Use a Next.JS responsive Image component to fill and cover
@@ -9,16 +10,18 @@ import { Box } from "@chakra-ui/react";
  * (eg. : position relative)
  * @param {JSXElement} props
  * @param {ImageDescr} props.image
+ * @param {VideoDescr} props.video_loop
  * @param {CSSDimension} [props.width="100%"]
  * @param {CSSDimension} [props.height="100%"]
  */
 const BackgroundImageContainer = ({
 	image,
+	video_loop,
 	width = "100%",
 	height = "100%",
 	...moreStyle
 }) => {
-	if (!image) return null;
+	if (!image && !video_loop) return null;
 
 	// Calculate the width and height and position to fill the container
 	return (
@@ -31,13 +34,33 @@ const BackgroundImageContainer = ({
 			overflow="hidden"
 			{...moreStyle}
 		>
-			<Image
-				className="background-image"
-				src={image.url}
-				alt={image.alt}
-				objectFit="cover"
-				layout="fill"
-			/>
+			{image && (
+				<Image
+					className="background-image"
+					src={image.url}
+					alt={image.alt}
+					objectFit="cover"
+					layout="fill"
+				/>
+			)}
+			{video_loop && (
+				<ReactPlayer
+					url={video_loop.url}
+					width="100%"
+					height="100%"
+					playing={true}
+					loop={true}
+					volume="0"
+					config={{
+						file: {
+							playerVars: {
+								autoplay: true,
+								loop: true
+							}
+						}
+					}}
+				/>
+			)}
 		</Box>
 	);
 };

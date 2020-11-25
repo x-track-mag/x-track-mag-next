@@ -23,6 +23,20 @@ const fixImage = ({ dimensions, url, alt = "" }) => {
 };
 
 /**
+ * Prismic video format is also broken 
+ * Example: 
+ *  "video_loop": {
+		"type": "Media"
+	}
+ * @param {Object} videoProp 
+ * @return {ImageDescr}
+ */
+const fixVideo = ({ name, url, size }) => {
+	if (!url) return null;
+	return { name, url, size };
+};
+
+/**
  * Sections are Prismic Slices
  * @param {Slice} sectionData
  */
@@ -33,9 +47,12 @@ const transformSection = (sectionData) => {
 	// We don't use repeatable zone in sections so we drop the `items` except for the playlist
 	const template = sectionData.slice_type;
 	const { ...sectionFields } = sectionData.primary;
-	const { image } = sectionFields;
+	const { image, video_loop } = sectionFields;
 	if (image) {
 		sectionFields.image = fixImage(image);
+	}
+	if (video_loop) {
+		sectionFields.video_loop = fixVideo(video_loop);
 	}
 	if (template === "section-playlist") {
 		sectionFields.playlist = sectionData.items;
@@ -66,7 +83,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 	const { uid, tags, first_publication_date, data } = postData;
 
 	// Extract the main body informations
-	let { title, subtitle, image, template, author } = data;
+	let { title, subtitle, image, video_loop, template, author } = data;
 
 	// Flatten the title and subtitle as they are (useless) StructuredText
 	title = title[0] ? title[0].text : "";
@@ -79,6 +96,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 		title,
 		subtitle,
 		image: fixImage(image),
+		video_loop: fixVideo(video_loop),
 		template,
 		author
 	};

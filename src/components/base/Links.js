@@ -67,7 +67,7 @@ export const headerLinkStyles = {
 export const mobileLinkStyles = {
 	...headerLinkStyles,
 	display: "block",
-	width: "100%",
+	width: "75%",
 	textAlign: "center",
 	padding: "0.5rem 0",
 	margin: "1rem 0"

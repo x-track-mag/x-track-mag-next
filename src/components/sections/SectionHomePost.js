@@ -27,7 +27,14 @@ import Image from "next/image";
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template1 = ({ uid, title = "", subtitle = "", image, ...articleInfo }) => {
+export const Template1 = ({
+	uid,
+	title = "",
+	subtitle = "",
+	image,
+	video_loop,
+	...articleInfo
+}) => {
 	const [blurred, setBlurred] = useState(false);
 
 	return (
@@ -38,7 +45,7 @@ export const Template1 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			key={uid}
 			id={uid}
 		>
-			<BackgroundImageContainer image={image} />
+			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<ArticleInfo
 				position="absolute"
 				{...articleInfo}
@@ -69,7 +76,14 @@ export const Template1 = ({ uid, title = "", subtitle = "", image, ...articleInf
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template2 = ({ uid, title = "", subtitle = "", image, ...articleInfo }) => {
+export const Template2 = ({
+	uid,
+	title = "",
+	subtitle = "",
+	image,
+	video_loop,
+	...articleInfo
+}) => {
 	const [blurred, setBlurred] = useState(false);
 
 	return (
@@ -78,7 +92,7 @@ export const Template2 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			key={uid}
 			id={uid}
 		>
-			<BackgroundImageContainer image={image} />
+			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<ArticleInfo
 				position="absolute"
 				{...articleInfo}
@@ -113,7 +127,7 @@ export const Template2 = ({ uid, title = "", subtitle = "", image, ...articleInf
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template3 = ({ uid, title = "", image }) => {
+export const Template3 = ({ uid, title = "", image, video_loop }) => {
 	const [blurred, setBlurred] = useState(false);
 
 	return (
@@ -122,7 +136,7 @@ export const Template3 = ({ uid, title = "", image }) => {
 			key={uid}
 			id={uid}
 		>
-			<BackgroundImageContainer image={image} />
+			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<HeroLink
 				href={uid}
 				onMouseEnter={() => setBlurred(true)}
@@ -156,7 +170,7 @@ export const Template3 = ({ uid, title = "", image }) => {
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template4 = ({ uid, title = "", image }) => {
+export const Template4 = ({ uid, title = "", image, video_loop }) => {
 	return (
 		<HeroLink href={uid}>
 			<Flex
@@ -169,6 +183,7 @@ export const Template4 = ({ uid, title = "", image }) => {
 			>
 				<BackgroundImageContainer
 					image={image}
+					video_loop={video_loop}
 					flexGrow="1"
 					width="100%"
 					position="relative"
