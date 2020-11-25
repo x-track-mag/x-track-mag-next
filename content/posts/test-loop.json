@@ -1,0 +1,29 @@
+{
+	"uid": "test-loop",
+	"tags": [],
+	"publication_date": "2020-11-25T13:22:30+0000",
+	"title": "Test Loop",
+	"subtitle": "Yes",
+	"image": null,
+	"video_loop": {
+		"link_type": "Media",
+		"name": "Showreel www 6919.mp4",
+		"kind": "document",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/f0b6739e-a677-47f1-86b3-fcf643d0a625_Showreel+www+6919.mp4",
+		"size": "1857018"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Me",
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "les meilleures musiques de films : https://sounds.x-track.net/fr/fiction",
+					"spans": []
+				}
+			]
+		}
+	]
+}
