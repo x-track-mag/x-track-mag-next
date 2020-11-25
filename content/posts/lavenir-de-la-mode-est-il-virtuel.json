@@ -13,6 +13,9 @@
 		"height": 1920,
 		"ratio": 1
 	},
+	"video_loop": {
+		"link_type": "Media"
+	},
 	"template": "5: 2 colonnes Titre + Image",
 	"author": null,
 	"sections": [

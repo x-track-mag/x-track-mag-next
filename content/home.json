@@ -23,6 +23,13 @@
 			"title": "Funky Flashback",
 			"subtitle": "FOR LOVERS ONLY",
 			"image": null,
+			"video_loop": {
+				"link_type": "Media",
+				"name": "Vaporwave Night Ride - loop.mp4",
+				"kind": "document",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/122c7990-7a64-4dc0-83f4-b779d2587f2b_Vaporwave+Night+Ride+-+loop.mp4",
+				"size": "4845577"
+			},
 			"template": "4: Image + Titre sur fond blanc",
 			"author": null
 		},
@@ -39,6 +46,9 @@
 				"height": 1125,
 				"ratio": 1.7777777777777777
 			},
+			"video_loop": {
+				"link_type": "Media"
+			},
 			"template": "3: Image + Titre",
 			"author": null
 		},
@@ -54,6 +64,9 @@
 				"width": 2838,
 				"height": 1580,
 				"ratio": 1.7962025316455696
+			},
+			"video_loop": {
+				"link_type": "Media"
 			},
 			"template": "3: Image + Titre",
 			"author": "ELLE"
@@ -73,6 +86,9 @@
 				"height": 1603,
 				"ratio": 1.4971927635683093
 			},
+			"video_loop": {
+				"link_type": "Media"
+			},
 			"template": "2: Image + Titre + infos",
 			"author": null
 		},
@@ -91,6 +107,9 @@
 				"height": 1125,
 				"ratio": 1.7777777777777777
 			},
+			"video_loop": {
+				"link_type": "Media"
+			},
 			"template": "3: Image + Titre",
 			"author": "Hunther Thompson"
 		},
@@ -108,6 +127,9 @@
 				"width": 1280,
 				"height": 854,
 				"ratio": 1.4988290398126465
+			},
+			"video_loop": {
+				"link_type": "Media"
 			},
 			"template": "6: Image + Titre + sous-titre + infos + hover",
 			"author": "Aphelandra Siassia"
@@ -129,6 +151,9 @@
 				"height": 1608,
 				"ratio": 1.7723880597014925
 			},
+			"video_loop": {
+				"link_type": "Media"
+			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Aphelandra Siassia"
 		},
@@ -146,6 +171,9 @@
 				"width": 1920,
 				"height": 1920,
 				"ratio": 1
+			},
+			"video_loop": {
+				"link_type": "Media"
 			},
 			"template": "5: 2 colonnes Titre + Image",
 			"author": null

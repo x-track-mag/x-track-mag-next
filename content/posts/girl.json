@@ -11,6 +11,9 @@
 		"height": 1580,
 		"ratio": 1.7962025316455696
 	},
+	"video_loop": {
+		"link_type": "Media"
+	},
 	"template": "3: Image + Titre",
 	"author": "ELLE",
 	"sections": [

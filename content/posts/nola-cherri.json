@@ -15,6 +15,9 @@
 		"height": 1608,
 		"ratio": 1.7723880597014925
 	},
+	"video_loop": {
+		"link_type": "Media"
+	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "Aphelandra Siassia",
 	"sections": [
