@@ -1,0 +1,49 @@
+{
+	"uid": "test-playlist",
+	"tags": [],
+	"publication_date": "2020-11-25T09:21:56+0000",
+	"title": "TEST PLAYLIST",
+	"subtitle": "TEST TEST",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/6410f52c-afd2-43f7-9d30-e3b8efab6484_NeonV3%281%29.png?auto=compress,format",
+		"alt": null,
+		"width": 1920,
+		"height": 1920,
+		"ratio": 1
+	},
+	"template": "",
+	"author": null,
+	"sections": [
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"link": {
+						"provider_name": "Spotify",
+						"provider_url": "https://spotify.com",
+						"html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Feel Good\" src=\"https://open.spotify.com/embed/playlist/7i5AWqfgXI86G30l56Coff?si=HqtU-vjWQdOaYCGpWRF7Nw\"></iframe>",
+						"width": 300,
+						"height": 380,
+						"version": "1.0",
+						"type": "rich",
+						"title": "Feel Good",
+						"thumbnail_url": "https://i.scdn.co/image/ab67706c0000bebb1de5cc6e34785b3c7267bf22",
+						"thumbnail_width": 300,
+						"thumbnail_height": 300,
+						"embed_url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=HqtU-vjWQdOaYCGpWRF7Nw"
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "TEST TEST TEST ",
+					"spans": []
+				}
+			]
+		}
+	]
+}
