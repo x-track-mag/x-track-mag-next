@@ -1,0 +1,134 @@
+{
+	"Main": {
+		"title": {
+			"type": "StructuredText",
+			"config": {
+				"single": "heading2",
+				"label": "Titre",
+				"required": true
+			}
+		},
+		"subtitle": {
+			"type": "StructuredText",
+			"config": {
+				"single": "heading3",
+				"label": "Sous-titre"
+			}
+		},
+		"uid": {
+			"type": "UID",
+			"config": {
+				"label": "Slug"
+			}
+		},
+		"image": {
+			"type": "Image",
+			"config": {
+				"constraint": {},
+				"thumbnails": [],
+				"label": "image"
+			}
+		}
+	},
+	"Contenu": {
+		"sections": {
+			"type": "Slices",
+			"fieldset": "Slice zone",
+			"config": {
+				"labels": {
+					"section-hero": [],
+					"section-full-text": [],
+					"section-two-columns": []
+				},
+				"choices": {
+					"section-hero": {
+						"type": "Slice",
+						"fieldset": "Section Hero",
+						"description": "Une image full screen",
+						"icon": "aspect_ratio",
+						"display": "list",
+						"non-repeat": {
+							"title": {
+								"type": "Text",
+								"config": {
+									"label": "Accroche",
+									"placeholder": "Accroche (laissez vide pour reprendre le titre de l'article)"
+								}
+							},
+							"subtitle": {
+								"type": "Text",
+								"config": {
+									"label": "Accroche secondaire",
+									"placeholder": "Accroche secondaire (laissez vide pour reprendre le sous-titre de l'article)"
+								}
+							},
+							"image": {
+								"type": "Image",
+								"config": {
+									"constraint": {},
+									"thumbnails": [],
+									"label": "image"
+								}
+							}
+						},
+						"repeat": {}
+					},
+					"section-full-text": {
+						"type": "Slice",
+						"fieldset": "Section Texte",
+						"description": "Une section mono-colonne de texte éditorial",
+						"icon": "format_align_center",
+						"display": "list",
+						"non-repeat": {
+							"text": {
+								"type": "StructuredText",
+								"config": {
+									"multi": "paragraph, heading2, heading3, strong, em, hyperlink",
+									"allowTargetBlank": true,
+									"label": "Texte",
+									"placeholder": "Entrez le contenu texte de cette section ici"
+								}
+							}
+						},
+						"repeat": {}
+					},
+					"section-two-columns": {
+						"type": "Slice",
+						"fieldset": "Section Deux colonnes",
+						"description": "Une section éditoriale Texte + Image",
+						"icon": "recent_actors",
+						"display": "list",
+						"non-repeat": {
+							"text": {
+								"type": "StructuredText",
+								"config": {
+									"multi": "paragraph, heading2, heading3, heading4, strong, em, hyperlink, image, embed, list-item, o-list-item",
+									"allowTargetBlank": true,
+									"label": "Texte"
+								}
+							},
+							"image": {
+								"type": "Image",
+								"config": {
+									"constraint": {
+										"width": 1024
+									},
+									"label": "Image"
+								}
+							},
+							"columns_order": {
+								"type": "Select",
+								"config": {
+									"options": ["Image | Texte", "Texte | Image"],
+									"default_value": "Image | Texte",
+									"label": "Position texte"
+								}
+							}
+						},
+						"repeat": {}
+					}
+				}
+			}
+		}
+	}
+}
