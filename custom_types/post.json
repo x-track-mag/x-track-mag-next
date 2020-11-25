@@ -18,7 +18,8 @@
 		"uid": {
 			"type": "UID",
 			"config": {
-				"label": "Slug"
+				"label": "Chemin de la page",
+				"placeholder": "Pour renvoyer vers une page statique (about-us ..), indiquez son chemin à la place"
 			}
 		},
 		"image": {
@@ -27,14 +28,6 @@
 				"constraint": {},
 				"thumbnails": [],
 				"label": "image"
-			}
-		},
-		"type": {
-			"type": "Select",
-			"config": {
-				"options": ["Article", "Playlist", "Video", "Lien Interne"],
-				"default_value": "Article",
-				"label": "Type"
 			}
 		},
 		"template": {
@@ -48,7 +41,7 @@
 					"5: 2 colonnes Titre + Image",
 					"6: Image + Titre + sous-titre + infos + hover"
 				],
-				"default_value": "",
+				"default_value": "1: Image + Titre + sous-titre + infos",
 				"label": "Template à utiliser sur la Home"
 			}
 		},
