@@ -32,7 +32,7 @@ const heroStyles = {
 /**
  * Styles used in the navigation (header and footer)
  */
-export const navStyles = {
+export const navLinkStyles = {
 	fontWeight: "300",
 	lineHeight: "1rem",
 	textColor: "inherit",
@@ -40,7 +40,7 @@ export const navStyles = {
 	textDecoration: "none",
 
 	_focus: {
-		textColor: "brand.green",
+		bgColor: "brand.orange",
 		...noOutline
 	},
 	_active: {
@@ -55,10 +55,22 @@ export const navStyles = {
 /**
  * Header navigation style
  */
-export const headerNavStyles = {
-	...navStyles,
+export const headerLinkStyles = {
+	...navLinkStyles,
 	fontWeight: "500",
 	fontSize: "1.5rem"
+};
+
+/**
+ * Apply these styles for small screens
+ */
+export const mobileLinkStyles = {
+	...headerLinkStyles,
+	display: "block",
+	width: "100%",
+	textAlign: "center",
+	padding: "0.5rem 0",
+	margin: "1rem 0"
 };
 
 const isExternalLink = (href) => /^http/.test(href);
@@ -70,7 +82,7 @@ const isActive = (href) => typeof window !== "undefined" && router.route === hre
  * or not..
  * @param {String} href
  */
-export const navigate = (href) => (evt) => {
+export const navigate = (href, callback) => (evt) => {
 	if (!isExternalLink(href)) {
 		evt.preventDefault();
 		if (href === "back") {
@@ -79,6 +91,7 @@ export const navigate = (href) => (evt) => {
 			router.push(href);
 		}
 	}
+	if (typeof callback === "function") callback();
 };
 
 /**
@@ -87,11 +100,11 @@ export const navigate = (href) => (evt) => {
  * @param {JSXElement} props
  * @param {String} props.href Absolute or relative URL to go by
  */
-export const Link = ({ href = "#", children, ...props }) => (
+export const Link = ({ href = "#", children, onNavigate, ...props }) => (
 	<ChakraLink
 		href={href}
 		target={isExternalLink(href) ? "_blank" : ""}
-		onClick={navigate(href)}
+		onClick={navigate(href, onNavigate)}
 		className={clsx({ active: isActive(href) })}
 		{...props}
 	>
@@ -112,7 +125,8 @@ const makeLink = (style) => ({ children, ...props }) => (
 
 export const HeroLink = makeLink(heroStyles);
 
-export const NavLink = makeLink(navStyles);
-export const HeaderNavLink = makeLink(headerNavStyles);
+export const NavLink = makeLink(navLinkStyles);
+export const HeaderNavLink = makeLink(headerLinkStyles);
+export const MobileNavLink = makeLink(mobileLinkStyles);
 
 export default Link;
