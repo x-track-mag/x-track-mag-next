@@ -1,0 +1,95 @@
+{
+	"uid": "girl",
+	"tags": [],
+	"publication_date": "2020-11-25T09:53:25+0000",
+	"title": "TEST PRETTY ",
+	"subtitle": "GIRL ",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
+		"alt": null,
+		"width": 2838,
+		"height": 1580,
+		"ratio": 1.7962025316455696
+	},
+	"template": "3: Image + Titre",
+	"author": "ELLE",
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": "TEST PRETTY",
+			"subtitle": "IS SHE PRETTY ?",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
+				"alt": null,
+				"width": 2838,
+				"height": 1580,
+				"ratio": 1.7962025316455696
+			}
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "DOES SHE LIKE CHEESE ? ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-two-columns",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "I DON'T THINK WE LIKE CHEESE ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 29,
+							"type": "strong"
+						}
+					]
+				}
+			],
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/3ac90b77-49d9-43c8-b670-6ba23a2ebbfe_116494837_274747330488859_1475805579066996971_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+				"alt": null,
+				"width": 1024,
+				"height": 1024,
+				"ratio": 1
+			},
+			"columns_order": "Texte | Image"
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Working around themes of beauty, the body, and identity, each year Tétier and Coulomb set their students a theme, to which they must respond with a series of images, the result of which is then published on Novembre.global.\n\nThis year, the theme was “a special beauty”, where groups of students were assigned a global beauty brand from Chanel to Byredo to Too Faced and given 10 beauty products which they had to create a story around.\n\nCo-posted on Dazed Beauty.",
+					"spans": [
+						{
+							"start": 207,
+							"end": 223,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://novembre.global/",
+								"target": "_blank"
+							}
+						},
+						{
+							"start": 450,
+							"end": 462,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.dazeddigital.com/beauty/soul/article/45365/1/mesmerising-beauty-product-shots-created-by-ecal-s-photography-students",
+								"target": "_blank"
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

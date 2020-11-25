@@ -11,6 +11,22 @@
 	],
 	"sections": [
 		{
+			"uid": "girl",
+			"tags": [],
+			"publication_date": "2020-11-25T09:53:25+0000",
+			"title": "TEST PRETTY ",
+			"subtitle": "GIRL ",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
+				"alt": null,
+				"width": 2838,
+				"height": 1580,
+				"ratio": 1.7962025316455696
+			},
+			"template": "3: Image + Titre",
+			"author": "ELLE"
+		},
+		{
 			"uid": "test-playlist",
 			"tags": [],
 			"publication_date": "2020-11-25T09:21:56+0000",
