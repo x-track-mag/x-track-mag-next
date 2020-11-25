@@ -1,6 +1,17 @@
 import { Box } from "@chakra-ui/react";
 import Image from "next/image";
-import ReactPlayer from "react-player/file";
+import BackgroundVideo from "react-background-video-player";
+import useInView from "react-cool-inview";
+import useDimensions from "react-cool-dimensions";
+
+/**
+ * @typedef ImageDescr
+ * @field {String} url
+ * @field {Number} width
+ * @field {Number} height
+ * @field {Number} ratio
+ * @field {String} alt
+ */
 
 /**
  * Use a Next.JS responsive Image component to fill and cover
@@ -10,9 +21,9 @@ import ReactPlayer from "react-player/file";
  * (eg. : position relative)
  * @param {JSXElement} props
  * @param {ImageDescr} props.image
- * @param {VideoDescr} props.video_loop
- * @param {CSSDimension} [props.width="100%"]
- * @param {CSSDimension} [props.height="100%"]
+ * @param {VideoDescr} [props.video_loop]
+ * @param {CSSDimension} [props.width="100%"] Width of the image container
+ * @param {CSSDimension} [props.height="100%"] Height of the image container
  */
 const BackgroundImageContainer = ({
 	image,
@@ -21,12 +32,18 @@ const BackgroundImageContainer = ({
 	height = "100%",
 	...moreStyle
 }) => {
+	const { refInview, inView } = useInView({
+		threshold: 0.25
+	});
+	const { width: containerWidth, height: containerHeight } = useDimensions(refInview);
+
 	if (!image && !video_loop) return null;
 
 	// Calculate the width and height and position to fill the container
 	return (
 		<Box
 			className="background-image-container"
+			ref={refInview}
 			width={width}
 			height={height}
 			position="absolute"
@@ -44,14 +61,12 @@ const BackgroundImageContainer = ({
 				/>
 			)}
 			{video_loop && (
-				<ReactPlayer
-					url={video_loop.url}
-					width="100%"
-					height="100%"
-					playing={true}
-					loop={true}
-					volume="0"
-					style={{ objectFit: "cover" }}
+				<BackgroundVideo
+					src={video_loop.url}
+					volume={0}
+					autoPlay={inView}
+					containerWidth={containerWidth}
+					containerHeight={containerHeight}
 				/>
 			)}
 		</Box>
