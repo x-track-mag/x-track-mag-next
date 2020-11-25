@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { navigate, MobileNavLink, HeaderNavLink } from "@components/base/Links";
 
-import { Box, Heading, Flex, useBreakpointValue } from "@chakra-ui/react";
+import { Heading, Flex, useBreakpointValue } from "@chakra-ui/react";
 import SvgLogo from "@components/icons/SvgLogo";
 
 const navigation = {
@@ -13,6 +13,12 @@ const navigation = {
 	]
 };
 
+/**
+ * Mobile navigation menu covering the whole page
+ * for mobile screen sizes
+ * @param {JSXElement} props
+ * @param {Array} props.links
+ */
 const MobileNav = ({ links, onNavigate, ...moreStyle }) => (
 	<Flex
 		as="nav"
@@ -26,7 +32,7 @@ const MobileNav = ({ links, onNavigate, ...moreStyle }) => (
 		right="0"
 		left="0"
 		zIndex="9"
-		{...moreStyle}
+		{...moreStyle} // important to pass display none
 	>
 		{links.map((link, i) => (
 			<MobileNavLink key={`nav-${i}`} href={link.href} onNavigate={onNavigate}>
@@ -36,6 +42,12 @@ const MobileNav = ({ links, onNavigate, ...moreStyle }) => (
 	</Flex>
 );
 
+/**
+ * Horizontal navigation menu displayed inside the header
+ * for desktop screen sizes
+ * @param {JSXElement} props
+ * @param {Array} props.links
+ */
 export const HeaderNav = ({ links }) => (
 	<Flex
 		as="nav"
@@ -43,7 +55,7 @@ export const HeaderNav = ({ links }) => (
 		flexDirection="row"
 		alignItems="center"
 		justifyContent="space-between"
-		marginLeft="4rem"
+		marginLeft="5rem"
 		flexGrow={1}
 	>
 		{links.map((link, i) => (
