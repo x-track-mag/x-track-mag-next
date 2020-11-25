@@ -51,14 +51,7 @@ const BackgroundImageContainer = ({
 					playing={true}
 					loop={true}
 					volume="0"
-					config={{
-						file: {
-							playerVars: {
-								autoplay: true,
-								loop: true
-							}
-						}
-					}}
+					style={{ objectFit: "cover" }}
 				/>
 			)}
 		</Box>
