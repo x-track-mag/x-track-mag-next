@@ -29,7 +29,6 @@ import Image from "next/image";
  */
 export const Template1 = ({ uid, title = "", subtitle = "", image, ...articleInfo }) => {
 	const [blurred, setBlurred] = useState(false);
-	const viewport = useViewportSize();
 
 	return (
 		<section
@@ -39,7 +38,7 @@ export const Template1 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			key={uid}
 			id={uid}
 		>
-			<BackgroundImageContainer image={image} viewport={viewport} />
+			<BackgroundImageContainer image={image} />
 			<ArticleInfo
 				position="absolute"
 				{...articleInfo}
