@@ -288,8 +288,13 @@ const templates = [
  * @param {String} templateChoice `#number: description`
  */
 const analyzeTemplate = (templateChoice) => {
-	const templateNumber = Number(templateChoice.split(":")[0]);
-	return templates[templateNumber];
+	try {
+		return templates[Number(templateChoice.split(":")[0])] || Template1;
+	} catch (err) {
+		console.error(`analyzeTemplate() : Error on template ${templateChoice}`);
+		// Invalid template string or template not specified
+		return Template1;
+	}
 };
 
 /**
