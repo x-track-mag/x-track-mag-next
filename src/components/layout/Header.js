@@ -9,7 +9,8 @@ const navigation = {
 		{ href: "/articles", text: "ARTICLES" },
 		{ href: "/videos", text: "VIDEOS" },
 		{ href: "/music", text: "MUSIC" },
-		{ href: "/live", text: "LIVE SESSIONS" }
+		{ href: "/live", text: "LIVE SESSIONS" },
+		{ href: "/about-us", text: "ABOUT US" }
 	]
 };
 
@@ -31,7 +32,7 @@ const MobileNav = ({ links, onNavigate, ...moreStyle }) => (
 		bottom="0"
 		right="0"
 		left="0"
-		zIndex="9"
+		zIndex="99"
 		{...moreStyle} // important to pass display none
 	>
 		{links.map((link, i) => (
