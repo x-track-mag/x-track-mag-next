@@ -13,9 +13,7 @@
 		"height": 1603,
 		"ratio": 1.4971927635683093
 	},
-	"video_loop": {
-		"link_type": "Media"
-	},
+	"video_loop": null,
 	"template": "2: Image + Titre + infos",
 	"author": null,
 	"sections": [

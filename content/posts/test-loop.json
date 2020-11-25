@@ -6,9 +6,7 @@
 	"subtitle": "Yes",
 	"image": null,
 	"video_loop": {
-		"link_type": "Media",
 		"name": "SHOWREEL.mp4",
-		"kind": "document",
 		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/dcf8ee20-99e1-4f88-ab9d-b7272335e5a9_SHOWREEL.mp4",
 		"size": "1314224"
 	},

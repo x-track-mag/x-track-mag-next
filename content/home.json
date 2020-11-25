@@ -24,9 +24,7 @@
 			"subtitle": "FOR LOVERS ONLY",
 			"image": null,
 			"video_loop": {
-				"link_type": "Media",
 				"name": "Vaporwave Night Ride - loop.mp4",
-				"kind": "document",
 				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/122c7990-7a64-4dc0-83f4-b779d2587f2b_Vaporwave+Night+Ride+-+loop.mp4",
 				"size": "4845577"
 			},
@@ -46,9 +44,7 @@
 				"height": 1125,
 				"ratio": 1.7777777777777777
 			},
-			"video_loop": {
-				"link_type": "Media"
-			},
+			"video_loop": null,
 			"template": "3: Image + Titre",
 			"author": null
 		},
@@ -65,9 +61,7 @@
 				"height": 1580,
 				"ratio": 1.7962025316455696
 			},
-			"video_loop": {
-				"link_type": "Media"
-			},
+			"video_loop": null,
 			"template": "3: Image + Titre",
 			"author": "ELLE"
 		},
@@ -86,9 +80,7 @@
 				"height": 1603,
 				"ratio": 1.4971927635683093
 			},
-			"video_loop": {
-				"link_type": "Media"
-			},
+			"video_loop": null,
 			"template": "2: Image + Titre + infos",
 			"author": null
 		},
@@ -100,9 +92,7 @@
 			"subtitle": "Yes",
 			"image": null,
 			"video_loop": {
-				"link_type": "Media",
 				"name": "SHOWREEL.mp4",
-				"kind": "document",
 				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/dcf8ee20-99e1-4f88-ab9d-b7272335e5a9_SHOWREEL.mp4",
 				"size": "1314224"
 			},
@@ -124,9 +114,7 @@
 				"height": 1125,
 				"ratio": 1.7777777777777777
 			},
-			"video_loop": {
-				"link_type": "Media"
-			},
+			"video_loop": null,
 			"template": "3: Image + Titre",
 			"author": "Hunther Thompson"
 		},
@@ -145,9 +133,7 @@
 				"height": 854,
 				"ratio": 1.4988290398126465
 			},
-			"video_loop": {
-				"link_type": "Media"
-			},
+			"video_loop": null,
 			"template": "6: Image + Titre + sous-titre + infos + hover",
 			"author": "Aphelandra Siassia"
 		},
@@ -168,9 +154,7 @@
 				"height": 1608,
 				"ratio": 1.7723880597014925
 			},
-			"video_loop": {
-				"link_type": "Media"
-			},
+			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Aphelandra Siassia"
 		},
@@ -189,9 +173,7 @@
 				"height": 1920,
 				"ratio": 1
 			},
-			"video_loop": {
-				"link_type": "Media"
-			},
+			"video_loop": null,
 			"template": "5: 2 colonnes Titre + Image",
 			"author": null
 		}

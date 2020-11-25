@@ -13,9 +13,7 @@
 		"height": 1125,
 		"ratio": 1.7777777777777777
 	},
-	"video_loop": {
-		"link_type": "Media"
-	},
+	"video_loop": null,
 	"template": "3: Image + Titre",
 	"author": "Hunther Thompson",
 	"sections": [
