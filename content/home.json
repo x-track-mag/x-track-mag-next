@@ -22,13 +22,7 @@
 			"publication_date": "2020-11-23T22:38:12+0000",
 			"title": "Funky Flashback",
 			"subtitle": "FOR LOVERS ONLY",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/62ab6063-cd95-4c5f-9ee9-55e66d27cfd2_WhatsApp+Image+2020-11-23+at+20.24.55.jpeg?auto=compress,format&rect=0,0,960,924&w=1920&h=1848",
-				"alt": null,
-				"width": 1920,
-				"height": 1848,
-				"ratio": 1.0389610389610389
-			},
+			"image": null,
 			"template": "4: Image + Titre sur fond blanc",
 			"author": null
 		},
