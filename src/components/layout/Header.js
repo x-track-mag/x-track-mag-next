@@ -104,7 +104,7 @@ const Header = (props) => {
 
 				<HeaderNav
 					links={navigation.links}
-					display={{ base: "block", lg: "flex" }}
+					display={{ base: "none", lg: "flex" }}
 				/>
 
 				<HeaderNavLink

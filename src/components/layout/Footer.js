@@ -32,7 +32,7 @@ const Footer = () => {
 				Spotify
 			</NavLink>
 
-			<Box width={{ base: "100%", sm: "auto" }} textAlign="center" id="copyright">
+			<Box display={{ base: "none", sm: "block" }} id="copyright">
 				(c) X-TRACK MAG {new Date().getFullYear()}
 			</Box>
 		</Flex>
