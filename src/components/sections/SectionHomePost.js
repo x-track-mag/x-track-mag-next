@@ -28,6 +28,7 @@ import Image from "next/image";
  */
 export const Template1 = ({
 	uid,
+	link_to,
 	title = "",
 	subtitle = "",
 	image,
@@ -52,7 +53,7 @@ export const Template1 = ({
 				top="7rem"
 				textColor="white"
 			/>
-			<HeroLink href={`/posts/${uid}`}>
+			<HeroLink href={link_to}>
 				<HeroText title={title} subtitle={subtitle} textColor="white" />
 			</HeroLink>
 		</section>
@@ -77,6 +78,7 @@ export const Template1 = ({
  */
 export const Template2 = ({
 	uid,
+	link_to,
 	title = "",
 	subtitle = "",
 	image,
@@ -100,7 +102,7 @@ export const Template2 = ({
 				textColor="white"
 			/>
 			<HeroLink
-				href={`/posts/${uid}`}
+				href={link_to}
 				onMouseEnter={() => setBlurred(true)}
 				onMouseLeave={() => setBlurred(false)}
 			>
@@ -126,7 +128,7 @@ export const Template2 = ({
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template3 = ({ uid, title = "", image, video_loop }) => {
+export const Template3 = ({ uid, link_to, title = "", image, video_loop }) => {
 	const [blurred, setBlurred] = useState(false);
 
 	return (
@@ -137,7 +139,7 @@ export const Template3 = ({ uid, title = "", image, video_loop }) => {
 		>
 			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<HeroLink
-				href={`/posts/${uid}`}
+				href={link_to}
 				onMouseEnter={() => setBlurred(true)}
 				onMouseLeave={() => setBlurred(false)}
 			>
@@ -169,9 +171,9 @@ export const Template3 = ({ uid, title = "", image, video_loop }) => {
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template4 = ({ uid, title = "", image, video_loop }) => {
+export const Template4 = ({ uid, link_to, title = "", image, video_loop }) => {
 	return (
-		<HeroLink href={`/posts/${uid}`}>
+		<HeroLink href={link_to}>
 			<Flex
 				as="section"
 				flexDirection="column"
@@ -211,10 +213,10 @@ export const Template4 = ({ uid, title = "", image, video_loop }) => {
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template5 = ({ uid, title = "", image }) => {
+export const Template5 = ({ uid, link_to, title = "", image }) => {
 	return (
 		<section className={clsx("hero-section", "template5")} key={uid} id={uid}>
-			<HeroLink href={`/posts/${uid}`}>
+			<HeroLink href={link_to}>
 				<Container
 					as={Grid}
 					templateColumns={["100%", "100%", "50% 50%"]}
@@ -262,7 +264,14 @@ export const Template5 = ({ uid, title = "", image }) => {
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template6 = ({ uid, title = "", subtitle = "", image, ...articleInfo }) => {
+export const Template6 = ({
+	uid,
+	link_to,
+	title = "",
+	subtitle = "",
+	image,
+	...articleInfo
+}) => {
 	const [blurred, setBlurred] = useState(true);
 
 	return (
@@ -274,7 +283,7 @@ export const Template6 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			<BackgroundImageContainer image={image} />
 			<ArticleInfo {...articleInfo} textColor="white" />
 			<HeroLink
-				href={`/posts/${uid}`}
+				href={link_to}
 				onMouseEnter={() => setBlurred(false)}
 				onMouseLeave={() => setBlurred(true)}
 			>
@@ -313,10 +322,10 @@ const analyzeTemplate = (templateChoice) => {
  * @param {JsXElement} props
  * @param {String} [props.template] The name of the template to use
  */
-const SectionHomePost = ({ template, ...postData }) => {
+const SectionHomePost = ({ template, uid, internal_link, ...postData }) => {
 	const Template = analyzeTemplate(template);
-
-	return <Template {...postData} />;
+	const link_to = !internal_link ? `/posts/${uid}` : internal_link.uid;
+	return <Template link_to={link_to} {...postData} />;
 };
 
 export default SectionHomePost;

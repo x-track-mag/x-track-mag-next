@@ -23,6 +23,20 @@ export const fixImage = ({ dimensions, url, alt = "" }) => {
 };
 
 /**
+ * Prismic link format is.. broken
+ * Example of an empty link : 
+   "internal_link": {
+		"link_type": "Any"
+	},
+ * @param {Object} link 
+ * @return {ImageDescr}
+ */
+export const fixLink = (link) => {
+	if (!link || !link.uid) return null;
+	return { uid: link.uid, type: link.type };
+};
+
+/**
  * Prismic video format is also broken 
  * Example: 
  *  "video_loop": {
@@ -83,11 +97,12 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 	const { uid, tags, first_publication_date, data } = postData;
 
 	// Extract the main body informations
-	let { title, subtitle, image, video_loop, template, author } = data;
+	let { title, subtitle, image, video_loop, template, author, internal_link } = data;
 
 	// Flatten the title and subtitle as they are (useless) StructuredText
 	title = title[0] ? title[0].text : "";
 	subtitle = subtitle[0] ? subtitle[0].text : "";
+	internal_link = fixLink(internal_link);
 
 	const post = template // only posts have templates while static pages have not
 		? {
@@ -99,7 +114,8 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 				image: fixImage(image),
 				video_loop: fixVideo(video_loop),
 				template,
-				author
+				author,
+				internal_link
 		  }
 		: {
 				uid,
