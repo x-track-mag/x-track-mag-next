@@ -16,6 +16,7 @@
 	"video_loop": null,
 	"template": "3: Image + Titre",
 	"author": "Hunther Thompson",
+	"internal_link": null,
 	"sections": [
 		{
 			"template": "section-hero",

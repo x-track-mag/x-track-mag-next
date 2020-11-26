@@ -16,6 +16,7 @@
 	"video_loop": null,
 	"template": "2: Image + Titre + infos",
 	"author": null,
+	"internal_link": null,
 	"sections": [
 		{
 			"template": "section-playlist",

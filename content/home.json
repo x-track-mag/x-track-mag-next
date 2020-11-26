@@ -53,7 +53,8 @@
 				"size": "4845577"
 			},
 			"template": "4: Image + Titre sur fond blanc",
-			"author": null
+			"author": null,
+			"internal_link": null
 		},
 		{
 			"uid": "about-us",
@@ -70,11 +71,17 @@
 			},
 			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": null
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			}
 		},
 		{
 			"uid": "girl",
-			"tags": [],
+			"tags": [
+				"article"
+			],
 			"publication_date": "2020-11-25T09:53:25+0000",
 			"title": "Pretty Baby",
 			"subtitle": "It's a Girl",
@@ -87,7 +94,8 @@
 			},
 			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": "ELLE"
+			"author": "ELLE",
+			"internal_link": null
 		},
 		{
 			"uid": "test-playlist",
@@ -106,7 +114,8 @@
 			},
 			"video_loop": null,
 			"template": "2: Image + Titre + infos",
-			"author": null
+			"author": null,
+			"internal_link": null
 		},
 		{
 			"uid": "test-loop",
@@ -121,7 +130,8 @@
 				"size": "1314224"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Me"
+			"author": "Me",
+			"internal_link": null
 		},
 		{
 			"uid": "dans-les-vapes",
@@ -140,7 +150,8 @@
 			},
 			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": "Hunther Thompson"
+			"author": "Hunther Thompson",
+			"internal_link": null
 		},
 		{
 			"uid": "martin-parr",
@@ -159,7 +170,8 @@
 			},
 			"video_loop": null,
 			"template": "6: Image + Titre + sous-titre + infos + hover",
-			"author": "Aphelandra Siassia"
+			"author": "Aphelandra Siassia",
+			"internal_link": null
 		},
 		{
 			"uid": "nola-cherri",
@@ -180,7 +192,8 @@
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassia"
+			"author": "Aphelandra Siassia",
+			"internal_link": null
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
@@ -199,7 +212,8 @@
 			},
 			"video_loop": null,
 			"template": "5: 2 colonnes Titre + Image",
-			"author": null
+			"author": null,
+			"internal_link": null
 		}
 	]
 }

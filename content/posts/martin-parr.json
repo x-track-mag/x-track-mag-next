@@ -16,6 +16,7 @@
 	"video_loop": null,
 	"template": "6: Image + Titre + sous-titre + infos + hover",
 	"author": "Aphelandra Siassia",
+	"internal_link": null,
 	"sections": [
 		{
 			"template": "section-full-text",

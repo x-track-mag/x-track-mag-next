@@ -1,6 +1,8 @@
 {
 	"uid": "girl",
-	"tags": [],
+	"tags": [
+		"article"
+	],
 	"publication_date": "2020-11-25T09:53:25+0000",
 	"title": "Pretty Baby",
 	"subtitle": "It's a Girl",
@@ -14,6 +16,7 @@
 	"video_loop": null,
 	"template": "3: Image + Titre",
 	"author": "ELLE",
+	"internal_link": null,
 	"sections": [
 		{
 			"template": "section-hero",
@@ -41,12 +44,33 @@
 			"template": "section-two-columns",
 			"text": [
 				{
+					"type": "heading2",
+					"text": "I DON'T THINK SHE LIKE CHEESE",
+					"spans": []
+				},
+				{
 					"type": "paragraph",
-					"text": "I DON'T THINK WE LIKE CHEESE ",
+					"text": "It's a bold statement.\nIt's an italic sentence.",
 					"spans": [
 						{
 							"start": 0,
-							"end": 29,
+							"end": 23,
+							"type": "strong"
+						},
+						{
+							"start": 23,
+							"end": 47,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": " ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 1,
 							"type": "strong"
 						}
 					]
