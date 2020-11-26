@@ -86,6 +86,15 @@ export const getPosts = async (params = {}) => {
 };
 
 /**
+ *
+ * @param {Object} params Same object as getEntries without the type
+ */
+export const getPages = async (params = {}) => {
+	const { ...otherParams } = params;
+	return await getEntries({ type: "page", ...otherParams });
+};
+
+/**
  * Retrieve a single entry of a given type by its uid
  * @param {Object} queryParameters
  * @param {String} [queryParameters.type="post"] Type of entry to retrieve

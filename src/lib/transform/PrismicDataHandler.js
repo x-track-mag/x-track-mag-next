@@ -16,7 +16,7 @@
  * @param {Object} imageProp 
  * @return {ImageDescr}
  */
-const fixImage = ({ dimensions, url, alt = "" }) => {
+export const fixImage = ({ dimensions, url, alt = "" }) => {
 	if (!url) return null;
 	const { width, height } = dimensions;
 	return { url, alt, width, height, ratio: width / height };
@@ -31,7 +31,7 @@ const fixImage = ({ dimensions, url, alt = "" }) => {
  * @param {Object} videoProp 
  * @return {ImageDescr}
  */
-const fixVideo = ({ name, url, size }) => {
+export const fixVideo = ({ name, url, size }) => {
 	if (!url) return null;
 	return { name, url, size };
 };
@@ -66,7 +66,7 @@ const transformSection = (sectionData) => {
 
 /**
  * Build a transformer function
- * Take the Prismic format and get a straight representation of a post in short or long format
+ * Take the Prismic format and get a straight representation of a post or page in short or long format
  * @param {Object} options
  * @param {Boolean} [options.withSections=false] Include the sections
  * @return {Function}
@@ -89,17 +89,24 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 	title = title[0] ? title[0].text : "";
 	subtitle = subtitle[0] ? subtitle[0].text : "";
 
-	const post = {
-		uid,
-		tags,
-		publication_date: first_publication_date,
-		title,
-		subtitle,
-		image: fixImage(image),
-		video_loop: fixVideo(video_loop),
-		template,
-		author
-	};
+	const post = template // only posts have templates while static pages have not
+		? {
+				uid,
+				tags,
+				publication_date: first_publication_date,
+				title,
+				subtitle,
+				image: fixImage(image),
+				video_loop: fixVideo(video_loop),
+				template,
+				author
+		  }
+		: {
+				uid,
+				publication_date: first_publication_date,
+				title,
+				subtitle
+		  };
 
 	if (withSections) {
 		post.sections = data.sections.map(transformSection);
@@ -119,8 +126,9 @@ export const transformHome = (homeData, posts) => {
 	const { uid, last_publication_date, data } = homeData;
 
 	// Extract the main body informations
-	const { scrolling_news, pinned_posts } = data;
+	const { scrolling_news, pinned_posts, selected_reads } = data;
 
+	// Keep only main post data
 	const sections = posts.map(transformPost({ withSections: false }));
 
 	// Put the pinned posts in their expected position
@@ -131,6 +139,15 @@ export const transformHome = (homeData, posts) => {
 			position,
 			uid: link.uid
 		})),
+		selected_reads: selected_reads.map(({ link }) => {
+			const relatedPost = posts.find((p) => p.uid === link.uid);
+			return {
+				uid: link.uid,
+				title: relatedPost.title,
+				image: relatedPost.image,
+				video_loop: relatedPost.video_loop
+			};
+		}),
 		sections
 	};
 };

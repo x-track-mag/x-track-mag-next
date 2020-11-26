@@ -1,40 +1,10 @@
-import paths from "@content/paths.json";
-import SectionHero from "@components/sections/SectionHero";
+import paths from "@content/pages.json";
 import { SectionResolver } from "@components/sections/index.js";
 
-import ArticleInfo from "@components/ArticleInfo";
-
-const PostPage = ({
-	uid,
-	image,
-	title,
-	subtitle,
-	author,
-	publication_date,
-	tags,
-	sections
-}) => {
-	const article = { title, subtitle, image, author, publication_date, tags };
-	const isArticle = tags.includes("article");
-	return (
-		<>
-			<ArticleInfo
-				position="fixed"
-				displayBackArrow={true}
-				author={author}
-				publication_date={publication_date}
-				tags={tags}
-			/>
-			{isArticle && <SectionHero image={image} />}
-			{sections.map((section, i) => (
-				<SectionResolver
-					key={`section-${i}`}
-					article={article}
-					section={section}
-				/>
-			))}
-		</>
-	);
+const StaticPage = ({ uid, sections }) => {
+	return sections.map((section, i) => (
+		<SectionResolver key={`section-${i}`} section={section} />
+	));
 };
 
 /**
@@ -61,4 +31,4 @@ export const getStaticPaths = () => {
 	};
 };
 
-export default PostPage;
+export default StaticPage;
