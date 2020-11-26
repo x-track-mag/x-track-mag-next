@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { navigate, MobileNavLink, HeaderNavLink } from "@components/base/Links";
 
-import { Heading, Flex, useBreakpointValue } from "@chakra-ui/react";
+import { Heading, Flex } from "@chakra-ui/react";
 import SvgLogo from "@components/icons/SvgLogo";
 
 const navigation = {
@@ -49,7 +49,7 @@ const MobileNav = ({ links, onNavigate, ...moreStyle }) => (
  * @param {JSXElement} props
  * @param {Array} props.links
  */
-export const HeaderNav = ({ links }) => (
+export const HeaderNav = ({ links, ...moreProps }) => (
 	<Flex
 		as="nav"
 		id="main-nav"
@@ -58,6 +58,7 @@ export const HeaderNav = ({ links }) => (
 		justifyContent="space-between"
 		marginLeft="5rem"
 		flexGrow={1}
+		{...moreProps}
 	>
 		{links.map((link, i) => (
 			<HeaderNavLink key={`nav-${i}`} href={link.href}>
@@ -72,7 +73,7 @@ export const HeaderNav = ({ links }) => (
  * @param {JSXElement} props
  */
 const Header = (props) => {
-	const enableMobileMenu = useBreakpointValue({ base: true, lg: false });
+	// const enableMobileMenu = useBreakpointValue({ base: true, lg: false });
 	const [showMobileMenu, setShowMobileMenu] = useState(false);
 	const toggleMobileMenu = () => setShowMobileMenu(!showMobileMenu);
 	const closeMobileMenu = () => setShowMobileMenu(false);
@@ -101,7 +102,10 @@ const Header = (props) => {
 					<SvgLogo />
 				</Heading>
 
-				{!enableMobileMenu && <HeaderNav links={navigation.links} />}
+				<HeaderNav
+					links={navigation.links}
+					display={{ base: "block", lg: "flex" }}
+				/>
 
 				<HeaderNavLink
 					as="button"
@@ -111,13 +115,12 @@ const Header = (props) => {
 					MENU
 				</HeaderNavLink>
 			</Flex>
-			{enableMobileMenu && (
-				<MobileNav
-					links={navigation.links}
-					onNavigate={closeMobileMenu}
-					display={{ base: showMobileMenu ? "flex" : "none", lg: "none" }}
-				/>
-			)}
+
+			<MobileNav
+				links={navigation.links}
+				onNavigate={closeMobileMenu}
+				display={{ base: showMobileMenu ? "flex" : "none", lg: "none" }}
+			/>
 		</>
 	);
 };
