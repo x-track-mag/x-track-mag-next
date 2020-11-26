@@ -33,13 +33,14 @@ const heroStyles = {
  * Styles used in the navigation (header and footer)
  */
 export const navLinkStyles = {
-	fontWeight: "300",
-	lineHeight: "1rem",
+	fontFamily: "body",
+	fontWeight: 600,
 	textColor: "inherit",
 	textTransform: "uppercase",
 	textDecoration: "none",
 
 	_focus: {
+		lineHeight: "0.3em",
 		bgColor: "brand.orange",
 		...noOutline
 	},
@@ -57,8 +58,7 @@ export const navLinkStyles = {
  */
 export const headerLinkStyles = {
 	...navLinkStyles,
-	fontWeight: "500",
-	fontSize: "1.5rem"
+	textColor: "black"
 };
 
 /**
@@ -68,9 +68,10 @@ export const mobileLinkStyles = {
 	...headerLinkStyles,
 	display: "block",
 	width: "75%",
+	lineHeight: "1.4em",
 	textAlign: "center",
 	padding: "0.5rem 0",
-	margin: "1rem 0"
+	margin: "0.25rem 0"
 };
 
 const isExternalLink = (href) => /^http/.test(href);

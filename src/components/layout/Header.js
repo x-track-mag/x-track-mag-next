@@ -88,7 +88,7 @@ const Header = (props) => {
 				zIndex="999"
 				justify="space-between"
 				wrap="wrap"
-				padding="1rem 2rem"
+				padding="0 2rem"
 				{...props}
 			>
 				<Heading

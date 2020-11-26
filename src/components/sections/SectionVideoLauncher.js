@@ -16,22 +16,23 @@ const SectionVideoLauncher = ({ article, text, link, ...props }) => (
 	<Box as="section" className="section-video-launcher" {...props}>
 		<Container
 			as={Grid}
-			templateColumns={["100%", "100%", "30% auto"]}
-			gap={["0", null, "2rem", "4rem"]}
+			templateColumns={["100%", "100%", "40% auto"]}
+			gap={["0", "0", "2rem", "3rem"]}
 			marginTop="4rem"
 		>
 			<GridItem pb="2rem">
 				<Typography.Title>{article.title}</Typography.Title>
 				<Typography.Subtitle>{article.subtitle}</Typography.Subtitle>
-				<RichText render={text} />
+				<Box pt="2rem">
+					<RichText render={text} />
+				</Box>
 			</GridItem>
 			<GridItem
 				as={Flex}
 				flexDirection="column"
 				alignItems="center"
 				justifyContent="center"
-				minHeight={["66vh", null, "auto"]}
-				pb={["4rem", null, "0"]}
+				minHeight={["66vh", "66vh", "auto"]}
 			>
 				<ReactPlayer
 					url={link.embed_url}

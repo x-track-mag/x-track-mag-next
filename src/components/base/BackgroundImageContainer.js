@@ -50,7 +50,7 @@ const BackgroundImageContainer = ({
 					height="100%"
 					playing={true}
 					loop={true}
-					volume="0"
+					volume={0}
 					style={{ objectFit: "cover" }}
 				/>
 			)}

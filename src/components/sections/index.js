@@ -1,10 +1,10 @@
 import SectionHero from "./SectionHero.js";
-import SectionPost from "./SectionPost.js";
 import SectionVideoLauncher from "./SectionVideoLauncher.js";
 import SectionPlaylist from "./SectionPlaylist.js";
 import SectionTwoColumns from "./SectionTwoColumns.js";
 import SectionFullText from "./SectionFullText.js";
 import SectionQuote from "./SectionQuote.js";
+export { default as SectionSelectedReads } from "./SectionSelectedReads.js";
 
 export const SectionResolver = ({ article, section, ...more }) => {
 	const { template, ...sectionProps } = section;
@@ -39,12 +39,4 @@ export const SectionResolver = ({ article, section, ...more }) => {
 			);
 			break;
 	}
-};
-
-export default {
-	SectionFullText,
-	SectionHero,
-	SectionPost,
-	SectionQuote,
-	SectionVideoLauncher
 };

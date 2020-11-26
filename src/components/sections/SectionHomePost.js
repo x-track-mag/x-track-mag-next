@@ -1,6 +1,5 @@
 import { useState } from "react";
 import clsx from "clsx";
-import { useViewportSize } from "@components/ViewportSizeProvider";
 import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
 import HeroText from "@components/base/HeroText";
 
@@ -49,11 +48,11 @@ export const Template1 = ({
 			<ArticleInfo
 				position="absolute"
 				{...articleInfo}
-				bottom="1rem"
-				top="12rem"
+				bottom="0.5rem"
+				top="7rem"
 				textColor="white"
 			/>
-			<HeroLink href={uid}>
+			<HeroLink href={`/posts/${uid}`}>
 				<HeroText title={title} subtitle={subtitle} textColor="white" />
 			</HeroLink>
 		</section>
@@ -96,12 +95,12 @@ export const Template2 = ({
 			<ArticleInfo
 				position="absolute"
 				{...articleInfo}
-				bottom="1rem"
-				top="12rem"
+				bottom="0.5rem"
+				top="7rem"
 				textColor="white"
 			/>
 			<HeroLink
-				href={uid}
+				href={`/posts/${uid}`}
 				onMouseEnter={() => setBlurred(true)}
 				onMouseLeave={() => setBlurred(false)}
 			>
@@ -138,14 +137,14 @@ export const Template3 = ({ uid, title = "", image, video_loop }) => {
 		>
 			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<HeroLink
-				href={uid}
+				href={`/posts/${uid}`}
 				onMouseEnter={() => setBlurred(true)}
 				onMouseLeave={() => setBlurred(false)}
 			>
 				<HeroText
 					title={title}
 					textColor="white"
-					fontSize="5rem"
+					fontSize="4rem"
 					fontStyle="italic"
 					lineHeight="1em"
 				/>
@@ -172,7 +171,7 @@ export const Template3 = ({ uid, title = "", image, video_loop }) => {
  */
 export const Template4 = ({ uid, title = "", image, video_loop }) => {
 	return (
-		<HeroLink href={uid}>
+		<HeroLink href={`/posts/${uid}`}>
 			<Flex
 				as="section"
 				flexDirection="column"
@@ -215,11 +214,11 @@ export const Template4 = ({ uid, title = "", image, video_loop }) => {
 export const Template5 = ({ uid, title = "", image }) => {
 	return (
 		<section className={clsx("hero-section", "template5")} key={uid} id={uid}>
-			<HeroLink href={uid}>
+			<HeroLink href={`/posts/${uid}`}>
 				<Container
 					as={Grid}
 					templateColumns={["100%", "100%", "50% 50%"]}
-					gap={["0", null, "2rem", "4rem"]}
+					gap={["0", "0", "2rem", "4rem"]}
 				>
 					<GridItem pb="2rem">
 						<Typography.Subtitle textColor="brand.orange" textAlign="right">
@@ -231,8 +230,6 @@ export const Template5 = ({ uid, title = "", image }) => {
 						flexDirection="column"
 						alignItems="center"
 						justifyContent="center"
-						minHeight={["66vh", null, "auto"]}
-						pb={["4rem", null, "0"]}
 					>
 						<AspectRatio ratio={image.ratio} width="100%">
 							<Image
@@ -277,7 +274,7 @@ export const Template6 = ({ uid, title = "", subtitle = "", image, ...articleInf
 			<BackgroundImageContainer image={image} />
 			<ArticleInfo {...articleInfo} textColor="white" />
 			<HeroLink
-				href={uid}
+				href={`/posts/${uid}`}
 				onMouseEnter={() => setBlurred(false)}
 				onMouseLeave={() => setBlurred(true)}
 			>
