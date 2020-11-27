@@ -3,7 +3,7 @@ import clsx from "clsx";
 import { withViewportSize } from "@components/ViewportSizeProvider";
 
 /**
- * @type Viewport
+ * @typedef Viewport
  * @field width
  * @field height
  */
