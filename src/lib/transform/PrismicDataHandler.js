@@ -16,10 +16,10 @@
  * @param {Object} imageProp 
  * @return {ImageDescr}
  */
-export const fixImage = ({ dimensions, url, alt = "" }) => {
+export const fixImage = ({ dimensions, url, alt = "", copyright = "" }) => {
 	if (!url) return null;
 	const { width, height } = dimensions;
-	return { url, alt, width, height, ratio: width / height };
+	return { url, alt, copyright, width, height, ratio: width / height };
 };
 
 /**
