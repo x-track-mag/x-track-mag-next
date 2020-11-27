@@ -18,24 +18,29 @@ const contentStyle = {
 	flexdirection: "column"
 };
 
-const Layout = ({ children }) => (
-	<div className="layout" {...layoutStyle}>
-		<Header />
-		<AnimatePresence>
-			<motion.main
-				id="main-content"
-				key={useRouter().route}
-				initial={{ opacity: 0 }}
-				animate={{ opacity: 1 }}
-				transition={{ duration: 0.2 }}
-				exit={{ opacity: 0 }}
-				{...contentStyle}
-			>
-				{children}
-			</motion.main>
-		</AnimatePresence>
-		<Footer />
-	</div>
-);
+const Layout = ({ children }) => {
+	const route = useRouter().route;
+	const isHome = route === "/";
+	return (
+		<div className="layout" {...layoutStyle}>
+			<Header />
+			<AnimatePresence>
+				<motion.main
+					id="main-content"
+					className={`${isHome ? "home" : "page"}-content`}
+					key={useRouter().route}
+					initial={{ opacity: 0 }}
+					animate={{ opacity: 1 }}
+					transition={{ duration: 0.2 }}
+					exit={{ opacity: 0 }}
+					{...contentStyle}
+				>
+					{children}
+				</motion.main>
+			</AnimatePresence>
+			<Footer />
+		</div>
+	);
+};
 
 export default Layout;

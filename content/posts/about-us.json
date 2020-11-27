@@ -14,5 +14,9 @@
 	"video_loop": null,
 	"template": "3: Image + Titre",
 	"author": null,
+	"internal_link": {
+		"uid": "about-us",
+		"type": "page"
+	},
 	"sections": []
 }

@@ -12,6 +12,7 @@
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "Me",
+	"internal_link": null,
 	"sections": [
 		{
 			"template": "section-full-text",

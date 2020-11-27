@@ -16,6 +16,7 @@
 	"video_loop": null,
 	"template": "6: Image + Titre + sous-titre + infos + hover",
 	"author": "Aphelandra Siassia",
+	"internal_link": null,
 	"sections": [
 		{
 			"template": "section-full-text",
@@ -23,7 +24,13 @@
 				{
 					"type": "paragraph",
 					"text": "Kitsch, décalée tout en restant encline aux réalités sociales, l’oeuvre de Martin Parr trouble tant elle semble documenter notre temps. En nous confrontant à l’absurdité de la vie quotidienne, le photographe se place en témoin d’une époque où le spectacle et la consommation prévalent sur le lien social. ",
-					"spans": []
+					"spans": [
+						{
+							"start": 0,
+							"end": 305,
+							"type": "em"
+						}
+					]
 				},
 				{
 					"type": "heading2",
@@ -58,7 +65,18 @@
 				{
 					"type": "paragraph",
 					"text": "Petit à petit, son travail gagne en visibilité et en reconnaissance. Au milieu des années 1990, il intègre la Magnum Photographic Cooperative, soit l’une des plus importante coopérative de photographes du monde. Dès lors, des rétrospectives de son oeuvre sont organisées au quatre coins du globe, des recueils sont édités - près de 120 aujourd’hui - et l’artiste reçoit plusieurs récompenses. En 2008, il est sacré pour son travail au Festival PhotoEspana de Madrid et en 2017, au Sony World Photography Award. Et entre 2013 et 2017, il occupera même le poste de président de la Magnum Photos.",
-					"spans": []
+					"spans": [
+						{
+							"start": 579,
+							"end": 592,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://pro.magnumphotos.com/C.aspx?VP3=CMS3&VF=MAGO31_10_VForm&ERID=24KL5357TF",
+								"target": "_blank"
+							}
+						}
+					]
 				},
 				{
 					"type": "paragraph",
@@ -74,6 +92,16 @@
 					"type": "paragraph",
 					"text": "Les scènes de masse, de touristes agglutinés répétant machinalement les mêmes gestes traversent le travail de Parr depuis ses débuts. La série Small World, réalisée dans les années 90 cristallise pleinement cette approche. Sur le cliché The artificial Beach inside the ocean dome capturé à Miyazaki au Japon en 1996, on peut apercevoir une foule de personnes regroupées sur une plage artificielle. ",
 					"spans": []
+				},
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/0c9ecb5c-3ae1-407f-8d1a-dd873591db52_Martin+Parr+-+Mer+artificielle+sous+un+dome_+Miyazaki%2C+Japon+%281996%29.jpg?auto=compress,format",
+					"alt": "Mer artificielle sous un dome, Miyazaki, Japon (1996)",
+					"copyright": "Martin Parr - Magnum Photo",
+					"dimensions": {
+						"width": 1300,
+						"height": 1057
+					}
 				},
 				{
 					"type": "paragraph",

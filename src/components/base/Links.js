@@ -7,39 +7,48 @@ const noOutline = {
 	outlineStyle: "none"
 };
 
-/**
- * Style applied when link is inside plain text
- */
-const textStyles = {
-	textColor: "brand.green",
-	textDecoration: "none",
+const baseLinkStyles = {
 	_focus: noOutline,
-	_active: noOutline
-};
-
-/**
- * Centered links inside Hero sections
- */
-const heroStyles = {
-	...textStyles,
-	textColor: "white",
-	fontSize: "xl",
+	_active: noOutline,
+	textDecoration: "none",
 	_hover: {
 		textDecoration: "none"
 	}
 };
 
 /**
+ * Style applied when link is inside plain text
+ */
+const embeddedLinkStyles = {
+	...baseLinkStyles,
+	bgColor: "brand.green",
+	_hover: {
+		lineHeight: "0.3em",
+		fontStyle: "italic"
+	}
+};
+
+/**
+ * Centered links inside Hero sections
+ */
+const heroStyles = {
+	...baseLinkStyles,
+	textColor: "white",
+	fontSize: "xl"
+};
+
+/**
  * Styles used in the navigation (header and footer)
  */
 export const navLinkStyles = {
-	fontWeight: "300",
-	lineHeight: "1rem",
+	fontFamily: "body",
+	fontWeight: 600,
 	textColor: "inherit",
 	textTransform: "uppercase",
 	textDecoration: "none",
 
 	_focus: {
+		lineHeight: "0.3em",
 		bgColor: "brand.orange",
 		...noOutline
 	},
@@ -57,8 +66,7 @@ export const navLinkStyles = {
  */
 export const headerLinkStyles = {
 	...navLinkStyles,
-	fontWeight: "500",
-	fontSize: "1.5rem"
+	textColor: "black"
 };
 
 /**
@@ -68,9 +76,10 @@ export const mobileLinkStyles = {
 	...headerLinkStyles,
 	display: "block",
 	width: "75%",
+	lineHeight: "1.4em",
 	textAlign: "center",
 	padding: "0.5rem 0",
-	margin: "1rem 0"
+	margin: "0.25rem 0"
 };
 
 const isExternalLink = (href) => /^http/.test(href);
@@ -123,8 +132,8 @@ const makeLink = (style) => ({ children, ...props }) => (
 	</Link>
 );
 
+export const EmbeddedLink = makeLink(embeddedLinkStyles);
 export const HeroLink = makeLink(heroStyles);
-
 export const NavLink = makeLink(navLinkStyles);
 export const HeaderNavLink = makeLink(headerLinkStyles);
 export const MobileNavLink = makeLink(mobileLinkStyles);

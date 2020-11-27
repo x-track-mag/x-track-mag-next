@@ -1,7 +1,14 @@
 // 1. Import the extendTheme function
 import { extendTheme } from "@chakra-ui/react";
+import { createBreakpoints } from "@chakra-ui/theme-tools";
 
-export const breakpoints = {};
+// 2. Update the breakpoints as key-value pairs
+const breakpoints = createBreakpoints({
+	sm: "640px",
+	md: "960px",
+	lg: "1400px",
+	xl: "1800px"
+});
 
 // 2. Extend the theme to include custom colors, fonts, etc
 export const colors = {
@@ -16,7 +23,7 @@ export const colors = {
 };
 
 export const fonts = {
-	body: '"Helvetica Now", Helvetica, "Open Sans", sans-serif',
+	body: "UnbProRegular, Helvetica, 'DejaVu Sans', sans-serif",
 	heading: "Georgia, serif",
 	variants: {
 		brand1: "PressGothicPro, serif",
@@ -27,14 +34,18 @@ export const fonts = {
 
 const styles = {
 	global: {
+		html: {
+			fontSize: ["18px", "22px", "24px", "28px", "30px"]
+		},
 		body: {
 			overflowX: "hidden",
-			fontSize: ["16px", "20px", "24px", "28px", "30px"]
+			minWidth: "480px",
+			fontColor: "black"
 		},
 		main: {
 			paddingBottom: "4rem"
 		},
-		"main.page": {
+		"main.page-content": {
 			paddingTop: "4rem"
 		},
 		a: {
@@ -77,6 +88,6 @@ const styles = {
 	}
 };
 
-const customTheme = extendTheme({ colors, fonts, styles });
+const customTheme = extendTheme({ breakpoints, colors, fonts, styles });
 
 export default customTheme;

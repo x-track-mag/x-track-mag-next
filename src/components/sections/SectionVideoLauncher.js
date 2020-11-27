@@ -1,4 +1,4 @@
-import { Box, Grid, GridItem, Flex } from "@chakra-ui/react";
+import { Box, Grid, GridItem, Flex, AspectRatio } from "@chakra-ui/react";
 import Container from "@components/base/Container";
 import Typography from "@components/base/Typography";
 import { RichText } from "prismic-reactjs";
@@ -16,40 +16,41 @@ const SectionVideoLauncher = ({ article, text, link, ...props }) => (
 	<Box as="section" className="section-video-launcher" {...props}>
 		<Container
 			as={Grid}
-			templateColumns={["100%", "100%", "30% auto"]}
-			gap={["0", null, "2rem", "4rem"]}
-			marginTop="4rem"
+			templateColumns={{ base: "100%", lg: "40% auto" }}
+			gap={{ base: "0", lg: "2rem" }}
 		>
 			<GridItem pb="2rem">
 				<Typography.Title>{article.title}</Typography.Title>
 				<Typography.Subtitle>{article.subtitle}</Typography.Subtitle>
-				<RichText render={text} />
+				<Box pt="1rem">
+					<RichText render={text} />
+				</Box>
 			</GridItem>
 			<GridItem
 				as={Flex}
 				flexDirection="column"
 				alignItems="center"
 				justifyContent="center"
-				minHeight={["66vh", null, "auto"]}
-				pb={["4rem", null, "0"]}
 			>
-				<ReactPlayer
-					url={link.embed_url}
-					light={article.image.url} // display the image as vignette
-					width="100%"
-					height="100%"
-					playIcon={<SvgPlayerIcon size="4rem" />}
-					config={{
-						youtube: {
-							playerVars: {
-								autoplay: 1,
-								loop: 1,
-								modestbranding: 1,
-								hl: "fr"
+				<AspectRatio ratio={{ base: 16 / 9, lg: 4 / 3 }} width="100%">
+					<ReactPlayer
+						url={link.embed_url}
+						light={article.image.url} // display the image as vignette
+						width="100%"
+						height="100%"
+						playIcon={<SvgPlayerIcon size="4rem" />}
+						config={{
+							youtube: {
+								playerVars: {
+									autoplay: 1,
+									loop: 1,
+									modestbranding: 1,
+									hl: "fr"
+								}
 							}
-						}
-					}}
-				/>
+						}}
+					/>
+				</AspectRatio>
 			</GridItem>
 		</Container>
 	</Box>

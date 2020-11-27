@@ -49,6 +49,21 @@
 				},
 				"label": "Articles épinglés"
 			}
+		},
+		"selected_reads": {
+			"type": "Group",
+			"config": {
+				"fields": {
+					"link": {
+						"type": "Link",
+						"config": {
+							"label": "Lien Interne",
+							"placeholder": "Choisissez les articles à promouvoir"
+						}
+					}
+				},
+				"label": "A Lire aussi"
+			}
 		}
 	}
 }

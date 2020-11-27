@@ -43,8 +43,8 @@ const ArticleInfo = ({
 		as="aside"
 		position={position}
 		zIndex="99"
-		top={position === "absolute" ? "12rem" : "6rem"}
-		bottom={position === "absolute" ? "1rem" : "5rem"}
+		top={position === "absolute" ? "12rem" : "4rem"}
+		bottom={position === "absolute" ? "1rem" : "4rem"}
 		right="2rem"
 		width="1rem"
 		flexDirection="column"

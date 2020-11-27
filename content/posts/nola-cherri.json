@@ -18,6 +18,7 @@
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "Aphelandra Siassia",
+	"internal_link": null,
 	"sections": [
 		{
 			"template": "section-video-launcher",

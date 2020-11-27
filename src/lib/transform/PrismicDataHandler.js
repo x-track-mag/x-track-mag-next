@@ -16,10 +16,24 @@
  * @param {Object} imageProp 
  * @return {ImageDescr}
  */
-const fixImage = ({ dimensions, url, alt = "" }) => {
+export const fixImage = ({ dimensions, url, alt = "", copyright = "" }) => {
 	if (!url) return null;
 	const { width, height } = dimensions;
-	return { url, alt, width, height, ratio: width / height };
+	return { url, alt, copyright, width, height, ratio: width / height };
+};
+
+/**
+ * Prismic link format is.. broken
+ * Example of an empty link : 
+   "internal_link": {
+		"link_type": "Any"
+	},
+ * @param {Object} link 
+ * @return {ImageDescr}
+ */
+export const fixLink = (link) => {
+	if (!link || !link.uid) return null;
+	return { uid: link.uid, type: link.type };
 };
 
 /**
@@ -31,7 +45,7 @@ const fixImage = ({ dimensions, url, alt = "" }) => {
  * @param {Object} videoProp 
  * @return {ImageDescr}
  */
-const fixVideo = ({ name, url, size }) => {
+export const fixVideo = ({ name, url, size }) => {
 	if (!url) return null;
 	return { name, url, size };
 };
@@ -66,7 +80,7 @@ const transformSection = (sectionData) => {
 
 /**
  * Build a transformer function
- * Take the Prismic format and get a straight representation of a post in short or long format
+ * Take the Prismic format and get a straight representation of a post or page in short or long format
  * @param {Object} options
  * @param {Boolean} [options.withSections=false] Include the sections
  * @return {Function}
@@ -83,23 +97,32 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 	const { uid, tags, first_publication_date, data } = postData;
 
 	// Extract the main body informations
-	let { title, subtitle, image, video_loop, template, author } = data;
+	let { title, subtitle, image, video_loop, template, author, internal_link } = data;
 
 	// Flatten the title and subtitle as they are (useless) StructuredText
 	title = title[0] ? title[0].text : "";
 	subtitle = subtitle[0] ? subtitle[0].text : "";
+	internal_link = fixLink(internal_link);
 
-	const post = {
-		uid,
-		tags,
-		publication_date: first_publication_date,
-		title,
-		subtitle,
-		image: fixImage(image),
-		video_loop: fixVideo(video_loop),
-		template,
-		author
-	};
+	const post = template // only posts have templates while static pages have not
+		? {
+				uid,
+				tags,
+				publication_date: first_publication_date,
+				title,
+				subtitle,
+				image: fixImage(image),
+				video_loop: fixVideo(video_loop),
+				template,
+				author,
+				internal_link
+		  }
+		: {
+				uid,
+				publication_date: first_publication_date,
+				title,
+				subtitle
+		  };
 
 	if (withSections) {
 		post.sections = data.sections.map(transformSection);
@@ -119,8 +142,9 @@ export const transformHome = (homeData, posts) => {
 	const { uid, last_publication_date, data } = homeData;
 
 	// Extract the main body informations
-	const { scrolling_news, pinned_posts } = data;
+	const { scrolling_news, pinned_posts, selected_reads } = data;
 
+	// Keep only main post data
 	const sections = posts.map(transformPost({ withSections: false }));
 
 	// Put the pinned posts in their expected position
@@ -131,6 +155,15 @@ export const transformHome = (homeData, posts) => {
 			position,
 			uid: link.uid
 		})),
+		selected_reads: selected_reads.map(({ link }) => {
+			const relatedPost = posts.find((p) => p.uid === link.uid);
+			return {
+				uid: link.uid,
+				title: relatedPost.title,
+				image: relatedPost.image,
+				video_loop: relatedPost.video_loop
+			};
+		}),
 		sections
 	};
 };

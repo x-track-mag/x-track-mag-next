@@ -14,6 +14,7 @@
 	},
 	"template": "4: Image + Titre sur fond blanc",
 	"author": null,
+	"internal_link": null,
 	"sections": [
 		{
 			"template": "section-playlist",

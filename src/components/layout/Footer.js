@@ -1,12 +1,12 @@
 import { useRouter } from "next/router";
-import { Flex } from "@chakra-ui/react";
+import { Box, Flex } from "@chakra-ui/react";
 import { NavLink } from "@components/base/Links";
 import SvgHub from "@components/icons/SvgHub";
 
 const footerStyle = {
 	position: "fixed",
 	width: "100%",
-	bottom: "1.5em",
+	bottom: "1rem",
 	zIndex: "999",
 	padding: "0 2rem",
 	alignItems: "center",
@@ -32,7 +32,9 @@ const Footer = () => {
 				Spotify
 			</NavLink>
 
-			<div id="copyright">(c) X-TRACK MAG {new Date().getFullYear()}</div>
+			<Box display={{ base: "none", sm: "block" }} id="copyright">
+				(c) X-TRACK MAG {new Date().getFullYear()}
+			</Box>
 		</Flex>
 	);
 };

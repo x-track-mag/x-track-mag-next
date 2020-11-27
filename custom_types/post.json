@@ -19,7 +19,14 @@
 			"type": "UID",
 			"config": {
 				"label": "Chemin de la page",
-				"placeholder": "Pour renvoyer vers une page statique (about-us ..), indiquez son chemin à la place"
+				"placeholder": "Ne pas modifier une fois un post publié"
+			}
+		},
+		"author": {
+			"type": "Text",
+			"config": {
+				"label": "Author",
+				"placeholder": "Le nom de l'auteur de ce post"
 			}
 		},
 		"image": {
@@ -28,6 +35,13 @@
 				"constraint": {},
 				"thumbnails": [],
 				"label": "image"
+			}
+		},
+		"video_loop": {
+			"type": "Link",
+			"config": {
+				"select": "media",
+				"label": "Vidéo loop"
 			}
 		},
 		"template": {
@@ -45,11 +59,11 @@
 				"label": "Template à utiliser sur la Home"
 			}
 		},
-		"author": {
-			"type": "Text",
+		"internal_link": {
+			"type": "Link",
 			"config": {
-				"label": "Author",
-				"placeholder": "Le nom de l'auteur de ce post"
+				"label": "Lien vers page interne",
+				"placeholder": "Ce post renverra sur une page statique existante (il n'a pas de contenu propre)"
 			}
 		}
 	},
@@ -109,7 +123,7 @@
 							"text": {
 								"type": "StructuredText",
 								"config": {
-									"multi": "paragraph, heading2, heading3, strong, em, hyperlink",
+									"multi": "paragraph, heading2, heading3, strong, em, hyperlink, image, embed",
 									"allowTargetBlank": true,
 									"label": "Texte",
 									"placeholder": "Entrez le contenu texte de cette section ici"
