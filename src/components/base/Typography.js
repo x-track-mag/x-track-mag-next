@@ -2,6 +2,7 @@ import { chakra, Text } from "@chakra-ui/react";
 import { RichText as PrismicRichTextRenderer, Elements } from "prismic-reactjs";
 import { fixImage } from "@lib/transform/PrismicDataHandler";
 import EmbeddedImage from "./EmbeddedImage";
+import { EmbeddedLink } from "./Links";
 
 export const Title = ({ children, ...moreStyles }) => (
 	<chakra.h2
@@ -106,7 +107,7 @@ const htmlSerializer = (type, element, content, children, key) => {
 	switch (type) {
 		// Use Chakra UI body text style
 		case Elements.paragraph:
-			return <Text key={key}>{element.text}</Text>;
+			return <Text key={key}>{children}</Text>;
 
 		case Elements.heading2:
 			return <Title key={key}>{element.text}</Title>;
@@ -114,12 +115,13 @@ const htmlSerializer = (type, element, content, children, key) => {
 		case Elements.heading3:
 			return <Subtitle key={key}>{element.text}</Subtitle>;
 
-		// Don't wrap images in a <p> tag
+		// Wrap images inside a <figure> with <figurecaption>
 		case Elements.image:
 			return <EmbeddedImage image={fixImage(element)} key={key} />;
 
 		// Add a class to hyperlinks
 		case Elements.hyperlink:
+			return <EmbeddedLink href={element.data.url}>{children}</EmbeddedLink>;
 
 		// Return null to stick with the default behavior
 		default:

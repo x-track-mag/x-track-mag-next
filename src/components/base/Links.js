@@ -7,26 +7,34 @@ const noOutline = {
 	outlineStyle: "none"
 };
 
+const baseLinkStyles = {
+	_focus: noOutline,
+	_active: noOutline,
+	textDecoration: "none",
+	_hover: {
+		textDecoration: "none"
+	}
+};
+
 /**
  * Style applied when link is inside plain text
  */
-const textStyles = {
-	textColor: "brand.green",
-	textDecoration: "none",
-	_focus: noOutline,
-	_active: noOutline
+const embeddedLinkStyles = {
+	...baseLinkStyles,
+	bgColor: "brand.green",
+	_hover: {
+		lineHeight: "0.3em",
+		fontStyle: "italic"
+	}
 };
 
 /**
  * Centered links inside Hero sections
  */
 const heroStyles = {
-	...textStyles,
+	...baseLinkStyles,
 	textColor: "white",
-	fontSize: "xl",
-	_hover: {
-		textDecoration: "none"
-	}
+	fontSize: "xl"
 };
 
 /**
@@ -124,8 +132,8 @@ const makeLink = (style) => ({ children, ...props }) => (
 	</Link>
 );
 
+export const EmbeddedLink = makeLink(embeddedLinkStyles);
 export const HeroLink = makeLink(heroStyles);
-
 export const NavLink = makeLink(navLinkStyles);
 export const HeaderNavLink = makeLink(headerLinkStyles);
 export const MobileNavLink = makeLink(mobileLinkStyles);
