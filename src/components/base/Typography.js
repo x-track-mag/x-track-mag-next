@@ -1,4 +1,7 @@
 import { chakra, Text } from "@chakra-ui/react";
+import { RichText as PrismicRichTextRenderer, Elements } from "prismic-reactjs";
+import { fixImage } from "@lib/transform/PrismicDataHandler";
+import EmbeddedImage from "./EmbeddedImage";
 
 export const Title = ({ children, ...moreStyles }) => (
 	<chakra.h2
@@ -77,10 +80,58 @@ export const Tag = ({ textColor, children }) => (
 	</Text>
 );
 
+export const Caption = ({ children, ...moreStyles }) => (
+	<Text
+		display="block"
+		fontSize="0.8rem"
+		lineHeight="1em"
+		margin="0.25em 0"
+		textAlign="center"
+		width="100%"
+		{...moreStyles}
+	>
+		{children}
+	</Text>
+);
+
+export const RichText = ({ children }) => (
+	<PrismicRichTextRenderer render={children} htmlSerializer={htmlSerializer} />
+);
+
+const htmlSerializer = (type, element, content, children, key) => {
+	// console.log(
+	// 	`htmlSerializer received`,
+	// 	JSON.stringify({ type, element, content, key }, null, "\t")
+	// );
+	switch (type) {
+		// Use Chakra UI body text style
+		case Elements.paragraph:
+			return <Text key={key}>{element.text}</Text>;
+
+		case Elements.heading2:
+			return <Title key={key}>{element.text}</Title>;
+
+		case Elements.heading3:
+			return <Subtitle key={key}>{element.text}</Subtitle>;
+
+		// Don't wrap images in a <p> tag
+		case Elements.image:
+			return <EmbeddedImage image={fixImage(element)} key={key} />;
+
+		// Add a class to hyperlinks
+		case Elements.hyperlink:
+
+		// Return null to stick with the default behavior
+		default:
+			return null;
+	}
+};
+
 export default {
 	Title,
 	Subtitle,
 	Message,
 	Blockquote,
-	Tag
+	Tag,
+	Caption
 };
