@@ -1,6 +1,6 @@
 import { Box } from "@chakra-ui/react";
 import Image from "next/image";
-import BackgroundVideo from "react-background-video-player";
+import BackgroundVideo from "react-video-cover";
 import useInView from "react-cool-inview";
 import useDimensions from "react-cool-dimensions";
 
@@ -33,7 +33,7 @@ const BackgroundImageContainer = ({
 	...moreStyle
 }) => {
 	const { refInview, inView } = useInView({
-		threshold: 0.25
+		threshold: 1
 	});
 	const { width: containerWidth, height: containerHeight } = useDimensions(refInview);
 
@@ -62,11 +62,14 @@ const BackgroundImageContainer = ({
 			)}
 			{video_loop && (
 				<BackgroundVideo
-					src={video_loop.url}
-					volume={0}
-					autoPlay={inView}
-					containerWidth={containerWidth}
-					containerHeight={containerHeight}
+					videoOptions={{
+						src: video_loop.url,
+						autoPlay: true,
+						muted: true,
+						loop: true,
+						playsInline: true
+					}}
+					remeasureOnWindowResize
 				/>
 			)}
 		</Box>

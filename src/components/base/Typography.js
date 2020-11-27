@@ -121,7 +121,11 @@ const htmlSerializer = (type, element, content, children, key) => {
 
 		// Add a class to hyperlinks
 		case Elements.hyperlink:
-			return <EmbeddedLink href={element.data.url}>{children}</EmbeddedLink>;
+			return (
+				<EmbeddedLink href={element.data.url} key={key}>
+					{children}
+				</EmbeddedLink>
+			);
 
 		// Return null to stick with the default behavior
 		default:
