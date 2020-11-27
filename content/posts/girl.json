@@ -19,18 +19,6 @@
 	"internal_link": null,
 	"sections": [
 		{
-			"template": "section-hero",
-			"title": "TEST PRETTY",
-			"subtitle": "IS SHE PRETTY ?",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
-				"alt": null,
-				"width": 2838,
-				"height": 1580,
-				"ratio": 1.7962025316455696
-			}
-		},
-		{
 			"template": "section-quote",
 			"text": [
 				{
@@ -84,6 +72,18 @@
 				"ratio": 1
 			},
 			"columns_order": "Texte | Image"
+		},
+		{
+			"template": "section-hero",
+			"title": "TEST PRETTY",
+			"subtitle": "IS SHE PRETTY ?",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
+				"alt": null,
+				"width": 2838,
+				"height": 1580,
+				"ratio": 1.7962025316455696
+			}
 		},
 		{
 			"template": "section-full-text",
