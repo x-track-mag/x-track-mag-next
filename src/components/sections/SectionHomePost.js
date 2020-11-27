@@ -189,7 +189,7 @@ export const Template4 = ({ uid, link_to, title = "", image, video_loop }) => {
 					width="100%"
 					position="relative"
 				/>
-				<Box as="footer" height="4.5rem" flexGrow="0" pt="0.5rem" width="100%">
+				<Box as="footer" height="4rem" flexGrow="0" pt="0.5rem" width="100%">
 					<Typography.Subtitle textColor="black">{title}</Typography.Subtitle>
 				</Box>
 			</Flex>

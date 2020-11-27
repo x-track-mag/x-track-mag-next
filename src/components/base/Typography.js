@@ -17,7 +17,7 @@ export const Subtitle = ({ children, ...moreStyles }) => (
 	<chakra.h3
 		fontFamily="PressGothicPro"
 		fontSize="3.2rem"
-		lineHeight="3rem"
+		lineHeight="3.4rem"
 		textAlign="center"
 		textTransform="uppercase"
 		{...moreStyles}
