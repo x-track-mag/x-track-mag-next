@@ -17,6 +17,16 @@
 	"internal_link": null,
 	"sections": [
 		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "Groove it to me Baby",
+					"spans": []
+				}
+			]
+		},
+		{
 			"template": "section-playlist",
 			"playlist": [
 				{
