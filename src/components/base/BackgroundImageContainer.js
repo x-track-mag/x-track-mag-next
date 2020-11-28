@@ -11,6 +11,7 @@ import useDimensions from "react-cool-dimensions";
  * @field {Number} height
  * @field {Number} ratio
  * @field {String} alt
+ * @field {String} copyright
  */
 
 /**

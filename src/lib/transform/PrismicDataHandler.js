@@ -5,6 +5,7 @@
  * @field {Number} height
  * @field {Number} ratio
  * @field {String} alt
+ * @field {String} copyright
  */
 
 /**
@@ -29,7 +30,7 @@ export const fixImage = ({ dimensions, url, alt = "", copyright = "" }) => {
 		"link_type": "Any"
 	},
  * @param {Object} link 
- * @return {ImageDescr}
+ * @return {LinkDescr}
  */
 export const fixLink = (link) => {
 	if (!link || !link.uid) return null;
@@ -43,7 +44,7 @@ export const fixLink = (link) => {
 		"type": "Media"
 	}
  * @param {Object} videoProp 
- * @return {ImageDescr}
+ * @return {VideoDescr}
  */
 export const fixVideo = ({ name, url, size }) => {
 	if (!url) return null;
