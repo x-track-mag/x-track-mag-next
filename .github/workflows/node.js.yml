@@ -21,7 +21,6 @@ jobs:
                   PRISMIC_ACCESS_TOKEN: ${{ secrets.PRISMIC_ACCESS_TOKEN }}
             - run: |
                   npm install
-                  rm .env
                   touch .env
                   echo PRISMIC_API_ENDPOINT=${{ secrets.PRISMIC_API_ENDPOINT }} >> .env
                   echo PRISMIC_ACCESS_TOKEN=${{ secrets.PRISMIC_ACCESS_TOKEN }} >> .env
