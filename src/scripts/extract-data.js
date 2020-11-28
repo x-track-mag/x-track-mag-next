@@ -9,13 +9,15 @@ import { transformPost, transformHome } from "../lib/transform/PrismicDataHandle
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
+export const getContentDir = () => path.join(__dirname, "../../content");
+
 /**
  * Call the CMS API to extract data and serialize it inside the conten directory
  */
 const extractPostsData = async () => {
 	Env.loadEnv();
 	let posts = await getPosts();
-	const contentDir = path.join(__dirname, "../../content");
+	const contentDir = getContentDir();
 	await fs.ensureDir(contentDir);
 	const postsDir = path.join(contentDir, "posts");
 	await fs.ensureDir(postsDir);
@@ -77,7 +79,7 @@ const extractPagesData = async () => {
 	console.log(`Pages files have been written to disk : ${paths}`);
 };
 
-const extractData = async () => {
+export const extractData = async () => {
 	try {
 		await Promise.all([extractPostsData(), extractPagesData()]);
 		process.exit(0);
