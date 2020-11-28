@@ -9,6 +9,7 @@
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
 		"alt": null,
+		"copyright": null,
 		"width": 2838,
 		"height": 1580,
 		"ratio": 1.7962025316455696
@@ -67,6 +68,7 @@
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/3ac90b77-49d9-43c8-b670-6ba23a2ebbfe_116494837_274747330488859_1475805579066996971_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
 				"alt": null,
+				"copyright": null,
 				"width": 1024,
 				"height": 1024,
 				"ratio": 1
@@ -80,6 +82,7 @@
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
 				"alt": null,
+				"copyright": null,
 				"width": 2838,
 				"height": 1580,
 				"ratio": 1.7962025316455696
