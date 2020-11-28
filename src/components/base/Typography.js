@@ -110,7 +110,11 @@ const htmlSerializer = (type, element, content, children, key) => {
 			return <Text key={key}>{children}</Text>;
 
 		case Elements.heading2:
-			return <Title key={key}>{element.text}</Title>;
+			return (
+				<Title key={key} padding="1.4rem 0 0.3rem">
+					{element.text}
+				</Title>
+			);
 
 		case Elements.heading3:
 			return <Subtitle key={key}>{element.text}</Subtitle>;
