@@ -16,6 +16,7 @@ jobs:
               uses: actions/setup-node@v2-beta
               with:
                   node-version: "14"
+            - run: npm install
             - run: node src/scripts/extract-data.js
             - run: git add content/
             - run: git commit content/ -m 'Updated content from CMS'
