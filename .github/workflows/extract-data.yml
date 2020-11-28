@@ -1,0 +1,32 @@
+# This workflow launch a nodejs script to extract the latest data updates from Prismic API
+# serialize it inside the content/ dir and push the content to trigger a site rebuild on vercel
+# @see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Extract CMS Data
+
+on: workflow_dispatch
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v2
+            - name: Use Node.js
+              uses: actions/setup-node@v2-beta
+              with:
+                  node-version: "14"
+              env:
+                  PRISMIC_API_ENDPOINT: ${{ secrets.PRISMIC_API_ENDPOINT }}
+                  PRISMIC_ACCESS_TOKEN: ${{ secrets.PRISMIC_ACCESS_TOKEN }}
+            - run: |
+                  npm install
+                  touch .env
+                  echo PRISMIC_API_ENDPOINT=${{ secrets.PRISMIC_API_ENDPOINT }} >> .env
+                  echo PRISMIC_ACCESS_TOKEN=${{ secrets.PRISMIC_ACCESS_TOKEN }} >> .env
+                  node src/scripts/extract-data.js
+                  git config user.email "prismic-bot@x-track.net"
+                  git config user.name "prismic-bot"
+                  git add content/
+                  git commit content/ -m 'Updated content from CMS'
+                  git push origin master
