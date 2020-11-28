@@ -16,6 +16,9 @@ jobs:
               uses: actions/setup-node@v2-beta
               with:
                   node-version: "14"
+              env:
+                  PRISMIC_API_ENDPOINT: ${{ secrtes.PRISMIC_API_ENDPOINT }}
+                  PRISMIC_ACCESS_TOKEN: ${{ secrtes.PRISMIC_ACCESS_TOKEN }}
             - run: npm install
             - run: node src/scripts/extract-data.js
             - run: git add content/
