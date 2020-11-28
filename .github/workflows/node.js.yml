@@ -19,8 +19,13 @@ jobs:
               env:
                   PRISMIC_API_ENDPOINT: ${{ secrets.PRISMIC_API_ENDPOINT }}
                   PRISMIC_ACCESS_TOKEN: ${{ secrets.PRISMIC_ACCESS_TOKEN }}
-            - run: npm install
-            - run: PRISMIC_API_ENDPOINT=$PRISMIC_API_ENDPOINT PRISMIC_ACCESS_TOKEN=$PRISMIC_ACCESS_TOKEN node src/scripts/extract-data.js
-            - run: git add content/
-            - run: git commit content/ -m 'Updated content from CMS'
-            - run: git push origin master
+            - run: |
+                  npm install
+                  rm .env
+                  touch .env
+                  echo PRISMIC_API_ENDPOINT=${{ secrets.PRISMIC_API_ENDPOINT }} >> .env
+                  echo PRISMIC_ACCESS_TOKEN=${{ secrets.PRISMIC_ACCESS_TOKEN }} >> .env
+                  node src/scripts/extract-data.js
+                  git add content/
+                  git commit content/ -m 'Updated content from CMS'
+                  git push origin master
