@@ -1,0 +1,227 @@
+{
+	"scrolling_news": [
+		"NOUVELLE SESSION LIVE NOLA CHERRI",
+		"AWARE AND COLOURFUL"
+	],
+	"pinned_posts": [
+		{
+			"position": 4,
+			"uid": "nola-cherri"
+		},
+		{
+			"position": 2,
+			"uid": "about-us"
+		}
+	],
+	"selected_reads": [
+		{
+			"uid": "funky-flashback",
+			"title": "Funky Flashback",
+			"image": null,
+			"video_loop": {
+				"name": "Vaporwave Night Ride - loop.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/122c7990-7a64-4dc0-83f4-b779d2587f2b_Vaporwave+Night+Ride+-+loop.mp4",
+				"size": "4845577"
+			}
+		},
+		{
+			"uid": "martin-parr",
+			"title": "Martin Parr",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null
+		}
+	],
+	"sections": [
+		{
+			"uid": "funky-flashback",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2020-11-23T22:38:12+0000",
+			"title": "Funky Flashback",
+			"subtitle": "FOR LOVERS ONLY",
+			"image": null,
+			"video_loop": {
+				"name": "Vaporwave Night Ride - loop.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/122c7990-7a64-4dc0-83f4-b779d2587f2b_Vaporwave+Night+Ride+-+loop.mp4",
+				"size": "4845577"
+			},
+			"template": "4: Image + Titre sur fond blanc",
+			"author": null,
+			"internal_link": null
+		},
+		{
+			"uid": "about-us",
+			"tags": [],
+			"publication_date": "2020-11-25T07:48:20+0000",
+			"title": "Qui sommes nous ?",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1125,
+				"ratio": 1.7777777777777777
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			}
+		},
+		{
+			"uid": "girl",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-11-25T09:53:25+0000",
+			"title": "Pretty Baby",
+			"subtitle": "It's a Girl",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2838,
+				"height": 1580,
+				"ratio": 1.7962025316455696
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "ELLE",
+			"internal_link": null
+		},
+		{
+			"uid": "martin-parr",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-11-10T12:59:45+0000",
+			"title": "Martin Parr",
+			"subtitle": "Un Monde à Parr",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null,
+			"template": "6: Image + Titre + sous-titre + infos + hover",
+			"author": "Aphelandra Siassia",
+			"internal_link": null
+		},
+		{
+			"uid": "test-playlist",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2020-11-25T09:21:56+0000",
+			"title": "SHIBUYA NIGHTS",
+			"subtitle": "Never sleep",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/8a8535fb-6b45-40b1-a85c-c8d0547787cc_alexandre-l-x95-rxpCmkE-unsplash.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2400,
+				"height": 1603,
+				"ratio": 1.4971927635683093
+			},
+			"video_loop": null,
+			"template": "2: Image + Titre + infos",
+			"author": null,
+			"internal_link": null
+		},
+		{
+			"uid": "test-loop",
+			"tags": [],
+			"publication_date": "2020-11-25T13:22:30+0000",
+			"title": "Test Loop",
+			"subtitle": "Yes",
+			"image": null,
+			"video_loop": {
+				"name": "SHOWREEL.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/dcf8ee20-99e1-4f88-ab9d-b7272335e5a9_SHOWREEL.mp4",
+				"size": "1314224"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Me",
+			"internal_link": null
+		},
+		{
+			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-11-14T23:04:41+0000",
+			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/6410f52c-afd2-43f7-9d30-e3b8efab6484_NeonV3%281%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1920,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": null,
+			"internal_link": null
+		},
+		{
+			"uid": "dans-les-vapes",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2020-11-23T22:29:29+0000",
+			"title": "Dans les vapes",
+			"subtitle": "Psshhhhh",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1125,
+				"ratio": 1.7777777777777777
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Hunther Thompson",
+			"internal_link": null
+		},
+		{
+			"uid": "nola-cherri",
+			"tags": [
+				"video",
+				"music",
+				"live session"
+			],
+			"publication_date": "2020-11-12T22:42:44+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2850,
+				"height": 1608,
+				"ratio": 1.7723880597014925
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia",
+			"internal_link": null
+		}
+	]
+}
