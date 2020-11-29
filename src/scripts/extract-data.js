@@ -4,6 +4,7 @@ import { fileURLToPath } from "url";
 import Env from "../lib/utils/Env.js";
 import { getPosts, getPages, getEntry } from "../lib/server/PrismicSDK.js";
 import { transformPost, transformHome } from "../lib/transform/PrismicDataHandler.js";
+import { getInstance, uploadToRepo } from "../lib/client/GithubClient.js";
 
 // REBUILD THE COMMON JS ENV VARIABLES
 const __filename = fileURLToPath(import.meta.url);
@@ -52,10 +53,9 @@ const extractPostsData = async () => {
  * Call the CMS API to extract data and serialize it inside the conten directory
  */
 const extractPagesData = async () => {
-	console;
 	Env.loadEnv();
 	let pages = await getPages();
-	const pagesDir = path.join(__dirname, "../../content");
+	const pagesDir = getContentDir();
 	await fs.ensureDir(pagesDir);
 
 	// Flatten the page but keep the sections
@@ -82,6 +82,16 @@ const extractPagesData = async () => {
 export const extractData = async () => {
 	try {
 		await Promise.all([extractPostsData(), extractPagesData()]);
+
+		const gitClient = getInstance();
+		await uploadToRepo(
+			gitClient,
+			getContentDir(),
+			process.env.VERCEL_GIT_REPO_OWNER,
+			process.env.VERCEL_GIT_REPO_ID,
+			"Update latest content from CMS"
+		);
+
 		process.exit(0);
 	} catch (err) {
 		console.error(err);
