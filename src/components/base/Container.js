@@ -4,7 +4,7 @@ const Container = ({ children, ...moreStyles }) => (
 	<chakra.div
 		className="container"
 		width="100%"
-		maxWidth={["95%", "75%", "50ch", "65ch"]}
+		maxWidth={["95%", "75%", "60ch"]}
 		m="0 auto"
 		p="2rem 0"
 		{...moreStyles}
