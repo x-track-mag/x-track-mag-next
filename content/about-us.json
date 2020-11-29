@@ -3,5 +3,40 @@
 	"publication_date": "2020-11-25T07:48:20+0000",
 	"title": "About Us",
 	"subtitle": "",
-	"sections": []
+	"sections": [
+		{
+			"template": "section-two-columns",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "X-Track MAG est un webzine dédié aux artistes alternatifs.ves, à la musique indépendante et à la culture diversifiée.",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "En gros on ne s’arrête pas à la culture occidentale.\n \n Ca veut pas non plus dire qu’on est exclusif.ves à l’underground. X-Track vous promets 3 heures de playlists fraîches et exclusives chaque semaine, des évènements, des concerts, des performances, de la photo, de la peinture, tout ça sur un plateau ultra coloré.\n \n Vous l’aurez compris, on récolte le nectar à votre place et on le met gentiment à votre disposition.",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Sans pub et libre de toute influence stricte et pro-babylonienne, X-Track est connectée 24/7 avec la culture, la connaissance et ses acteurs.rices pour vous offrir des news concises et récréatives, sur une plateforme ludique et facile.",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "X-Track est naturellement pro-différences, et anti-discrimination, c’est un acte de résistance positif et fun, pour vous, pour nous.\n \n Enjoy\n \n X-Track Gang",
+					"spans": []
+				}
+			],
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/d181fd2c-a373-4c93-a07c-c93aafca2868_Cyb.jpg?auto=compress,format&rect=0,0,1500,1712&w=1024&h=1169",
+				"alt": null,
+				"copyright": null,
+				"width": 1024,
+				"height": 1169,
+				"ratio": 0.8759623609923011
+			},
+			"columns_order": "Image | Texte"
+		}
+	]
 }

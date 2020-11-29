@@ -1,0 +1,47 @@
+{
+	"uid": "shibuya-nights",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2020-11-25T09:21:56+0000",
+	"title": "SHIBUYA NIGHTS",
+	"subtitle": "We never sleep",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/8a8535fb-6b45-40b1-a85c-c8d0547787cc_alexandre-l-x95-rxpCmkE-unsplash.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 2400,
+		"height": 1603,
+		"ratio": 1.4971927635683093
+	},
+	"video_loop": null,
+	"template": "2: Image + Titre + infos",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"link": {
+						"width": 300,
+						"height": 380,
+						"embed_url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=HqtU-vjWQdOaYCGpWRF7Nw",
+						"type": "rich",
+						"version": "1.0",
+						"title": "Feel Good",
+						"author_name": null,
+						"author_url": null,
+						"provider_name": "Spotify",
+						"provider_url": "https://spotify.com",
+						"cache_age": null,
+						"thumbnail_url": "https://i.scdn.co/image/ab67706c0000bebb1de5cc6e34785b3c7267bf22",
+						"thumbnail_width": 300,
+						"thumbnail_height": 300,
+						"html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Feel Good\" src=\"https://open.spotify.com/embed/playlist/7i5AWqfgXI86G30l56Coff?si=HqtU-vjWQdOaYCGpWRF7Nw\"></iframe>"
+					}
+				}
+			]
+		}
+	]
+}
