@@ -1,9 +1,10 @@
-import { extractData } from "../../../scripts/extract-data.js";
+import { extractData } from "@lib/extract/prismic.js";
 import Cors from "cors";
-import initMiddleware from "@lib/server/init-middleware.js";
+import useMiddleware from "@api/use-middleware.js";
+import baseDir from "../../../../dirname.cjs";
 
 // Initialize the cors middleware
-const cors = initMiddleware(
+const corsCheck = useMiddleware(
 	// You can read more about the available options here: https://github.com/expressjs/cors#configuration-options
 	Cors({
 		// Only allow requests with GET, POST and OPTIONS
@@ -17,9 +18,9 @@ const cors = initMiddleware(
 const update = async (req, resp) => {
 	try {
 		console.dir(`Received Prismic update hook :`, req.body);
-		// Run cors
-		await cors(req, resp);
-		const status = await extractData();
+		// Run CORS check
+		await corsCheck(req, resp);
+		const status = await extractData(baseDir, "content", true);
 		resp.json({ success: true, message: "New content is being redeployed" });
 	} catch (error) {
 		resp.status(500).json({

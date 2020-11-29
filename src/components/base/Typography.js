@@ -1,6 +1,6 @@
 import { chakra, Text } from "@chakra-ui/react";
 import { RichText as PrismicRichTextRenderer, Elements } from "prismic-reactjs";
-import { fixImage } from "@lib/transform/PrismicDataHandler";
+import { fixImage } from "@lib/transform/PrismicDataTransformers";
 import EmbeddedImage from "./EmbeddedImage";
 import { EmbeddedLink } from "./Links";
 

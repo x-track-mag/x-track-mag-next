@@ -11,7 +11,13 @@ export const getInstance = () => {
 	});
 };
 
-const createRepo = async (octokit, org, name) => {
+/**
+ * Create a new github repo
+ * @param {Octokit} octokit
+ * @param {String} org
+ * @param {String} name
+ */
+export const createRepo = async (octokit, org, name) => {
 	await octokit.repos.createInOrg({ org, name, auto_init: true });
 };
 
@@ -194,3 +200,28 @@ const setBranchToCommit = (octokit, org, repo, branch = `master`, commitSha) =>
 		ref: `heads/${branch}`,
 		sha: commitSha
 	});
+
+/**
+ * Trigger a Github Action Hook on this repo
+ * @see https://docs.github.com/en/free-pro-team@latest/rest/reference/actions#create-a-workflow-dispatch-event
+ * @param {String} actionName
+ */
+export const triggerAction = async (owner, repo, action, branch = "master") => {
+	try {
+		const actionURL = `/repos/${owner}/${repo}/actions/workflows/${action}/dispatches`;
+
+		const resp = await fetch(actionURL, {
+			method: "POST",
+			headers: {
+				"Content-Type": "application/json",
+				Accept: "application/vnd.github.v3+json"
+			},
+			body: JSON.stringify({
+				ref: "master"
+			})
+		});
+
+		const respBody = await resp.json();
+		console.dir(`Github Action Dispatch ${actionURL} returned`, respBody);
+	} catch (error) {}
+};

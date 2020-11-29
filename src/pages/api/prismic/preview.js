@@ -1,4 +1,4 @@
-import { getInstance } from "@lib/server/PrismicSDK";
+import { getInstance } from "@lib/clients/PrismicClient";
 
 function linkResolver(doc) {
 	// Pretty URLs for known types

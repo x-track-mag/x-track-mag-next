@@ -55,7 +55,7 @@ export const fixVideo = ({ name, url, size }) => {
  * Sections are Prismic Slices
  * @param {Slice} sectionData
  */
-const transformSection = (sectionData) => {
+export const transformSection = (sectionData) => {
 	// Test if the section is already in the flat format
 	if (sectionData.slice_type === undefined) return sectionData;
 
