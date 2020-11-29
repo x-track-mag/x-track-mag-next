@@ -17,10 +17,10 @@ const corsCheck = useMiddleware(
  */
 const update = async (req, resp) => {
 	try {
-		console.dir(`Received Prismic update hook :`, req.body);
+		console.dir(`Received Prismic update hook : base dir is ${process.cwd()}`);
 		// Run CORS check
 		await corsCheck(req, resp);
-		const status = await extractData(baseDir, "content", true);
+		const status = await extractData(process.cwd(), "content", true);
 		resp.json({ success: true, message: "New content is being redeployed" });
 	} catch (error) {
 		resp.status(500).json({
