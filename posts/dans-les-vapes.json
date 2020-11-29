@@ -1,0 +1,93 @@
+{
+	"uid": "dans-les-vapes",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2020-11-23T22:29:29+0000",
+	"title": "Dans les vapes",
+	"subtitle": "Psshhhhh",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 2000,
+		"height": 1125,
+		"ratio": 1.7777777777777777
+	},
+	"video_loop": null,
+	"template": "3: Image + Titre",
+	"author": "Hunther Thompson",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": null
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"link": {
+						"height": 344,
+						"width": 459,
+						"embed_url": "https://music.youtube.com/watch?v=pQLxWoKdtRk&feature=share",
+						"type": "video",
+						"version": "1.0",
+						"title": "The Gee Cees - Buzzsaw Twist",
+						"author_name": "lightsinorbit",
+						"author_url": "https://www.youtube.com/user/lightsinorbit",
+						"provider_name": "YouTube",
+						"provider_url": "https://www.youtube.com/",
+						"cache_age": null,
+						"thumbnail_url": "https://i.ytimg.com/vi/pQLxWoKdtRk/hqdefault.jpg",
+						"thumbnail_width": 480,
+						"thumbnail_height": 360,
+						"html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/pQLxWoKdtRk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+					}
+				},
+				{
+					"link": {
+						"image": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/d/4/c/1/a608-8e19-4045-bdf6-02e17df96474",
+						"height": 120,
+						"embed": "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2FRadioXTrack%2Fgood-times-06-dj-xtrack%2F&amp;hide_cover=1\" frameborder=\"0\"></iframe>\n",
+						"url": "https://www.mixcloud.com/RadioXTrack/good-times-06-dj-xtrack/",
+						"width": "100%",
+						"embed_url": "https://www.mixcloud.com/RadioXTrack/good-times-06-dj-xtrack/",
+						"type": "rich",
+						"version": "1.0",
+						"title": "Good Times 0.6 / Dj Xtrack",
+						"author_name": "Xtrack",
+						"author_url": "https://www.mixcloud.com/RadioXTrack/",
+						"provider_name": "Mixcloud",
+						"provider_url": "https://www.mixcloud.com",
+						"cache_age": 86400,
+						"thumbnail_url": null,
+						"thumbnail_width": null,
+						"thumbnail_height": null,
+						"html": "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2FRadioXTrack%2Fgood-times-06-dj-xtrack%2F&amp;hide_cover=1\" frameborder=\"0\"></iframe>\n"
+					}
+				},
+				{
+					"link": {
+						"url": "https://music.youtube.com/channel/UC_R3nYWHZV0tGgbpuDoI0vA",
+						"embed_url": "https://music.youtube.com/channel/UC_R3nYWHZV0tGgbpuDoI0vA",
+						"type": "link",
+						"version": "1.0",
+						"title": "Billy Idol - YouTube Music",
+						"author_name": null,
+						"author_url": null,
+						"provider_name": "yt-fb-app:channel",
+						"provider_url": null,
+						"cache_age": null,
+						"thumbnail_url": "https://lh3.googleusercontent.com/QciHJ90LHtUVQTP5VrUnVcYL9xGMASR8yf9uzkMEdLuICVALW5X1A0Dq0OTp_njaGWDZzUGwAOL8zeK1=w544-h544-l90-rj",
+						"thumbnail_width": null,
+						"thumbnail_height": null,
+						"html": "<div data-type=\"yt-fb-app:channel\"><a href=\"https://music.youtube.com/channel/UC_R3nYWHZV0tGgbpuDoI0vA\"><h1>Billy Idol - YouTube Music</h1><img src=\"https://lh3.googleusercontent.com/QciHJ90LHtUVQTP5VrUnVcYL9xGMASR8yf9uzkMEdLuICVALW5X1A0Dq0OTp_njaGWDZzUGwAOL8zeK1=w544-h544-l90-rj\"><p>William Michael Albert Broad, known professionally as Billy Idol, is an English musician, singer, songwriter, and actor who holds dual British and American c...</p></a></div>"
+					}
+				}
+			]
+		}
+	]
+}
