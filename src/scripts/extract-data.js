@@ -5,16 +5,16 @@ import Env from "../lib/utils/Env.js";
 import { getPosts, getPages, getEntry } from "../lib/server/PrismicSDK.js";
 import { transformPost, transformHome } from "../lib/transform/PrismicDataHandler.js";
 import { getInstance, uploadToRepo } from "../lib/client/GithubClient.js";
+import baseDir from "../../dirname.cjs";
 
-// REBUILD THE COMMON JS ENV VARIABLES
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-
-export const getBaseDir = () => path.join(__dirname, "../..");
-export const getContentDir = () => path.join(__dirname, "../../content");
+export const getBaseDir = () => {
+	console.log(`We have the project base dir ${baseDir}`);
+	return baseDir;
+};
+export const getContentDir = () => path.join(getBaseDir(), "../../content");
 
 /**
- * Call the CMS API to extract data and serialize it inside the conten directory
+ * Call the CMS API to extract data and serialize it inside the content directory
  */
 const extractPostsData = async () => {
 	Env.loadEnv();
@@ -80,6 +80,10 @@ const extractPagesData = async () => {
 	console.log(`Pages files have been written to disk : ${paths}`);
 };
 
+/**
+ * Extract posts and pages data inside the content directory
+ * Then commit the content directory to the git repo
+ */
 export const extractData = async () => {
 	try {
 		await Promise.all([extractPostsData(), extractPagesData()]);

@@ -1,10 +1,5 @@
 import Env from "@next/env";
-import path, { dirname } from "path";
-import { fileURLToPath } from "url";
-
-// REBUILD THE COMMON JS ENV VARIABLES
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+import baseDir from "../../../dirname.cjs"; // HACK TO AVOID READING import.meta.url
 
 /**
  * Load the .env files
@@ -12,7 +7,7 @@ const __dirname = dirname(__filename);
  */
 export const loadEnv = () => {
 	// How can we know for sure the project root outside next..
-	Env.loadEnvConfig(path.join(__dirname, "../../.."));
+	Env.loadEnvConfig(baseDir);
 };
 
 export default {

@@ -6,6 +6,7 @@
 			"@styles/*": ["src/styles/*"],
 			"@forms/*": ["src/components/forms/*"],
 			"@lib/*": ["src/lib/*"],
+			"@scripts/*": ["src/scripts/*"],
 			"@api/*": ["src/pages/api/*"],
 			"@content/*": ["src/content/*"]
 		}

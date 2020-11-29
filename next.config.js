@@ -26,6 +26,7 @@ module.exports = {
 		config.resolve.alias = {
 			...config.resolve.alias,
 			"@lib": resolve(__dirname, "src/lib/"),
+			"@scripts": resolve(__dirname, "src/scripts/"),
 			"@components": resolve(__dirname, "src/components/"),
 			"@styles": resolve(__dirname, "src/styles/"),
 			"@forms": resolve(__dirname, "src/components/forms/"),

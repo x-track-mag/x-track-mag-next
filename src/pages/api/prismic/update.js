@@ -1,4 +1,4 @@
-import { extractData } from "@scripts/extract-data";
+import { extractData } from "../../../scripts/extract-data.js";
 
 /**
  * Extract latest data from Prismic and push it to the git repo to trigger a new build
