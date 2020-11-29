@@ -19,7 +19,8 @@ const update = async (req, resp) => {
 	try {
 		resp.json({
 			success: true,
-			message: `Received Prismic update hook : base dir is "${baseDir}"`
+			message: `Received Prismic update hook : base dir is "${baseDir}" and process.env id: 
+${JSON.stringify(process.env, null, "\t")}`
 		});
 		// Run CORS check
 		await corsCheck(req, resp);
