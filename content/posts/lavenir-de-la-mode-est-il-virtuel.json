@@ -1,7 +1,8 @@
 {
 	"uid": "lavenir-de-la-mode-est-il-virtuel",
 	"tags": [
-		"article"
+		"article",
+		"Fashion"
 	],
 	"publication_date": "2020-11-14T23:04:41+0000",
 	"title": "L’Avenir de la Mode est-il virtuel ?",
@@ -24,11 +25,11 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Actuellement en plein Fashion Week, il est plus l’occasion de se questionner sur l’avenir de cette institution de la mode, née à Paris en 1973. L’occasion pour les maisons de Haute Couture de présenter leur collection au professionnel du milieu, aux journalistes et aux diverses entités qui gravitent alentours. Le but est alors de faire des ces jours un festival de tenues, de défilés, et de soirées censée fêter la mode et fédérer. Hors, à l’heure où les rassemblements sont de véritables prises de risque en période de crise sanitaire mais aussi que les consciences écologiques prennent l’aval sur les intérêts économiques, de nouvelles solutions émergent. Car la mode, c’est 10% des émissions de carbone de l'humanité, un chiffre évocateur en 2020 qui provoquent chez les marques de nouvelles perspectives. De plus, si le secteur perdure sur cette trajectoire, ce chiffre pourrait passer à 26% d'ici 2050, selon un rapport de 2017 de la Fondation Ellen MacArthur. Imaginer un monde virtuel, une solution viable ? ",
+					"text": "S’il est difficile de se rendre compte de l’impact de la crise sur l’avenir de la mode, les Fashion Week traditionnelles restent cependant très touchées. Durant la Fashion Week de Septembre, 81 défilés de programmés sur neuf jours certes, mais sur la totalité, 17 shows ont été digitalisés. Malgré les mesures sanitaires, la mode 3.0 sera-t-elle virtuelle ?",
 					"spans": [
 						{
-							"start": 22,
-							"end": 34,
+							"start": 0,
+							"end": 357,
 							"type": "em"
 						}
 					]
@@ -37,9 +38,101 @@
 		},
 		{
 			"template": "section-hero",
-			"title": "Un Monde virtuel",
+			"title": "Je m'habille à Sim city",
 			"subtitle": null,
-			"image": null
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/3ac90b77-49d9-43c8-b670-6ba23a2ebbfe_116494837_274747330488859_1475805579066996971_n.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			}
+		},
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": "A l’heure où la crise sanitaire est au plus fort, le secteur de la mode est, lui aussi, en mutation profonde. L’occasion de se questionner sur l’avenir de cette institution de la mode, née à Paris en 1973. A l’origine créé pour les maisons de Haute Couture afin de présenter leur collection au professionnel du milieu, aux journalistes et aux diverses entités qui gravitent alentours, son utilité s’est transformé au fur et à mesure des décennies. Son but actuel est de faire de cette quasi-quinzaine, un festival de tenues, de défilés, et de soirées censée fêter la mode et fédérer. Hors, à l’heure où les rassemblements sont de véritables prises de risque en période de crise sanitaire mais aussi que les consciences écologiques s’éveillent, de nouvelles solutions émergent. Car la mode, c’est 10% des émissions de carbone de l'humanité, un chiffre évocateur en 2020 qui provoquent chez les marques de nouvelles perspectives. De plus, si le secteur perdure sur cette trajectoire, ce chiffre pourrait passer à 26% d'ici 2050, selon un rapport de 2017 de la Fondation Ellen MacArthur. Imaginer un monde virtuel, une solution viable ? Pour Lena Novella, créatrice du studio Infinity: « À partir du moment ou l’on peut animer du vêtement et créer de l’environnement virtuel, tout type de contenu est possible à réaliser. Les logiciels de visualisation, modélisation et simulation de vêtements 3D sont des outils extrêmement précis. Ils constituent également un vrai accélérateur dans le process de pré-production et de validation des samples. La mode est un catalyseur de création et le match avec virtuel semble évident en ce qu'il offre de nouveaux moyens d’expression, de story- telling et de narration ».",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/39ebae00-1b26-43d5-86fd-36cec166a77c_116809705_289027542401740_5578178807252956386_n.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			}
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Plus qu’une possibilité annexe, une véritable révolution dans la fashion sphère, car la création ne serait pas réduite au catwalk et à son univers clos, un champ des possibilités vaste s’ouvre alors dans l’imaginaire et l’ADN des marques, dans le respect de l’écologie « Le rapport de la Helsinki Fashion week vient de sortir hier. Initiative 100% digitale, l'émission de C02 est passé de 137 kg à 0,67 par personne. Les chiffres parlent d’eux mêmes ». Pour ce qui est de l’aspect écologique, et éthique, ces nouvelles solutions offrent une nouvelle ligne de conduite pour un marché qui évolue. Autre studio de création phare, celui imaginé par Shakru, sous le nom de Cyber Fashion Week, qui comme son l’indique a impulsé une autre forme d'événements. C’est à la suite d’une annulation du défilé de sa marque Palestinienne, tRASHY CLOTHING, censée se produire en Mars dernier en Islande, que la marque prend conscience de nouveaux enjeux.",
+					"spans": [
+						{
+							"start": 269,
+							"end": 453,
+							"type": "em"
+						},
+						{
+							"start": 668,
+							"end": 686,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Après quelques jours, nous avons eu l'idée de lancer une semaine de la mode virtuelle qui pourrait également soutenir d'autres créateurs et artistes qui traversent également la même annulation.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": " Mais le Covid a également été un élément déclencheur nécessaire “La pandémie nous a fait réfléchir à différentes façons de nous adapter et de créer dans une période aussi étrange. La cyber fashion week est une idée qui pourrait être utilisée par n'importe quelle marque pour essayer de présenter et de créer durablement leurs collections à un rythme intelligent et lent” Face à une demande croissante et à la mise en place progressive de moyens concrets, les marques digitales ont un véritable avenir devant elles, d’autant plus que la faisabilité d’un vêtement virtuel est celui d’une demi journée , une collection de 70 pièces est donc tout à fait imaginable sur un laps de temps réduit. Pour ce qui est des aftershows, du réseau et des rencontres, beaucoup d’idées fleurissent déjà indique Shakru.",
+					"spans": [
+						{
+							"start": 66,
+							"end": 372,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "“Par exemple, nous faisons des after-parties numériques sur zoom et les gens peuvent accéder au profil de chaque marque pour voir la présentation des différentes collections et les acheter en ligne directement. De nombreux éditeurs de médias suivent notre page Instagram afin de toujours voir ce que les nouveaux designers publient pour la presse.” ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Un nouveau monde déjà bien pensé et organisé à l’aube d’une ère radicalement virtuel.",
+					"spans": []
+				}
+			]
 		},
 		{
 			"template": "section-full-text",
