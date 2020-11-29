@@ -17,7 +17,10 @@ const corsCheck = useMiddleware(
  */
 const update = async (req, resp) => {
 	try {
-		console.dir(`Received Prismic update hook : base dir is ${process.cwd()}`);
+		resp.json({
+			success: true,
+			message: `Received Prismic update hook : base dir is "${baseDir}"`
+		});
 		// Run CORS check
 		await corsCheck(req, resp);
 		const status = await extractData(process.cwd(), "content", true);
