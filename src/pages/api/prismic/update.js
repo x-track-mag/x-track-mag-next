@@ -7,7 +7,7 @@ const cors = initMiddleware(
 	// You can read more about the available options here: https://github.com/expressjs/cors#configuration-options
 	Cors({
 		// Only allow requests with GET, POST and OPTIONS
-		methods: ["POST", "OPTIONS"]
+		methods: ["GET", "POST", "OPTIONS"]
 	})
 );
 
@@ -16,9 +16,9 @@ const cors = initMiddleware(
  */
 const update = async (req, resp) => {
 	try {
+		console.dir(`Received Prismic update hook :`, req.body);
 		// Run cors
 		await cors(req, resp);
-		console.dir(`Received Prismic update hook :`, req.body);
 		const status = await extractData();
 		resp.json({ success: true, message: "New content is being redeployed" });
 	} catch (error) {
