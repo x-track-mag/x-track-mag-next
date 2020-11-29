@@ -11,6 +11,10 @@
 		{
 			"position": 2,
 			"uid": "about-us"
+		},
+		{
+			"position": 3,
+			"uid": "shibuya-nights"
 		}
 	],
 	"selected_reads": [
@@ -34,6 +38,19 @@
 				"width": 1280,
 				"height": 854,
 				"ratio": 1.4988290398126465
+			},
+			"video_loop": null
+		},
+		{
+			"uid": "girl",
+			"title": "Pretty Baby",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2838,
+				"height": 1580,
+				"ratio": 1.7962025316455696
 			},
 			"video_loop": null
 		}
@@ -122,13 +139,13 @@
 			"internal_link": null
 		},
 		{
-			"uid": "test-playlist",
+			"uid": "shibuya-nights",
 			"tags": [
 				"music"
 			],
 			"publication_date": "2020-11-25T09:21:56+0000",
 			"title": "SHIBUYA NIGHTS",
-			"subtitle": "Never sleep",
+			"subtitle": "We never sleep",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/8a8535fb-6b45-40b1-a85c-c8d0547787cc_alexandre-l-x95-rxpCmkE-unsplash.jpg?auto=compress,format",
 				"alt": null,
