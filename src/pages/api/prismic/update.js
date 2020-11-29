@@ -1,11 +1,13 @@
-import { extractData, getContentDir } from "@scripts/extract-data";
+import { extractData } from "@scripts/extract-data";
 
 /**
  * Extract latest data from Prismic and push it to the git repo to trigger a new build
  */
 const update = async (req, resp) => {
 	try {
-		await extractData();
+		console.dir(`Received Prismic update hook :`, req.body);
+		const status = await extractData();
+		resp.json({ success: true, message: "New content is being redeployed" });
 	} catch (error) {
 		resp.status(500).json({
 			success: false,

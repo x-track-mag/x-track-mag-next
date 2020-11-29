@@ -2,6 +2,7 @@ import { Octokit } from "@octokit/rest";
 import glob from "globby";
 import path from "path";
 import fs from "fs-extra";
+import ServerError from "../ServerError.js";
 
 export const getInstance = () => {
 	// There are other ways to authenticate, check https://developer.github.com/v3/#authentication
@@ -17,43 +18,65 @@ const createRepo = async (octokit, org, name) => {
 /**
  * Upload changes inside a directory to the git repo
  * @param {Octokit} octokit
- * @param {String} dir diretory path
+ * @param {String} base_dir base repository path
+ * @param {String} content_dir directory to scan (relative to base_dir)
  * @param {String} org git user or organization name
  * @param {String} repo git repository name
  * @param {String} [branch="master"] name of teh branch to commit to
  */
 export const uploadToRepo = async (
 	octokit,
-	dir,
+	base_dir,
+	content_dir = "",
 	org,
 	repo,
 	commitMessage,
 	branch = `master`
 ) => {
-	// gets commit's AND its tree's SHA
-	const currentCommit = await getCurrentCommit(octokit, org, repo, branch);
-	const filesPaths = await glob(dir);
-	const filesBlobs = await Promise.all(
-		filesPaths.map(createBlobForFile(octokit, org, repo))
-	);
-	const pathsForBlobs = filesPaths.map((fullPath) => path.relative(dir, fullPath));
-	const newTree = await createNewTree(
-		octokit,
-		org,
-		repo,
-		filesBlobs,
-		pathsForBlobs,
-		currentCommit.treeSha
-	);
-	const newCommit = await createNewCommit(
-		octokit,
-		org,
-		repo,
-		commitMessage,
-		newTree.sha,
-		currentCommit.commitSha
-	);
-	await setBranchToCommit(octokit, org, repo, branch, newCommit.sha);
+	let step = "1. Scan content directory for files path";
+	try {
+		// Scan content directory for files path
+		const filesPaths = await glob(path.join(base_dir, content_dir));
+
+		// gets commit's AND its tree's SHA
+		step = "2. Scan content directory for files path";
+		const currentCommit = await getCurrentCommit(octokit, org, repo, branch);
+
+		step = "3. Create scanned files Blobs";
+		const filesBlobs = await Promise.all(
+			filesPaths.map(createBlobForFile(octokit, org, repo))
+		);
+		const pathsForBlobs = filesPaths.map((fullPath) =>
+			path.relative(base_dir, fullPath)
+		);
+
+		step = "4. Create a tree for the commit content";
+		const newTree = await createNewTree(
+			octokit,
+			org,
+			repo,
+			filesBlobs,
+			pathsForBlobs,
+			currentCommit.treeSha
+		);
+
+		step = "5. Create the commit";
+		const newCommit = await createNewCommit(
+			octokit,
+			org,
+			repo,
+			commitMessage,
+			newTree.sha,
+			currentCommit.commitSha
+		);
+
+		step = "6. Push on branch";
+		await setBranchToCommit(octokit, org, repo, branch, newCommit.sha);
+	} catch (err) {
+		console.error(err);
+		throw new ServerError(`Commit new content process failed at step : ${step}. 
+${err.message}`);
+	}
 };
 
 /**

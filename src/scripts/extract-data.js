@@ -10,6 +10,7 @@ import { getInstance, uploadToRepo } from "../lib/client/GithubClient.js";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
+export const getBaseDir = () => path.join(__dirname, "../..");
 export const getContentDir = () => path.join(__dirname, "../../content");
 
 /**
@@ -86,7 +87,8 @@ export const extractData = async () => {
 		const gitClient = getInstance();
 		await uploadToRepo(
 			gitClient,
-			getContentDir(),
+			getBaseDir(),
+			"content",
 			process.env.VERCEL_GIT_REPO_OWNER,
 			process.env.VERCEL_GIT_REPO_ID,
 			"Update latest content from CMS"
