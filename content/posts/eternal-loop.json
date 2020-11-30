@@ -1,0 +1,30 @@
+{
+	"uid": "eternal-loop",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2020-11-25T13:22:30+0000",
+	"title": "Eternal Loop",
+	"subtitle": "Yes",
+	"image": null,
+	"video_loop": {
+		"name": "SHOWREEL.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/dcf8ee20-99e1-4f88-ab9d-b7272335e5a9_SHOWREEL.mp4",
+		"size": "1314224"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Me",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "les meilleures musiques de films : https://sounds.x-track.net/fr/fiction",
+					"spans": []
+				}
+			]
+		}
+	]
+}
