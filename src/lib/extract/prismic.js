@@ -100,7 +100,7 @@ export const extractData = async (baseDir, contentDir, pushToRepo = false) => {
 			fs,
 			filesPath,
 			process.env.VERCEL_GIT_REPO_OWNER,
-			process.env.VERCEL_GIT_REPO_ID,
+			process.env.VERCEL_GIT_REPO_SLUG,
 			"Update latest published content from CMS"
 		);
 	} catch (err) {
