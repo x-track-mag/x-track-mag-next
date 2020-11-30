@@ -9,7 +9,6 @@
 		"@fullhuman/postcss-purgecss": "^3.0.0",
 		"@octokit/rest": "^18.0.9",
 		"clsx": "^1.1.1",
-		"contentful": "^7.14.8",
 		"cors": "^2.8.5",
 		"framer-motion": "^2.9.4",
 		"fs-extra": "^9.0.1",
