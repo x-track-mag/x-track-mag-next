@@ -1,7 +1,6 @@
 import { extractData } from "@lib/extract/prismic.js";
 import Cors from "cors";
 import useMiddleware from "@api/use-middleware.js";
-import baseDir from "../../../../dirname.cjs";
 
 // Initialize the cors middleware
 const corsCheck = useMiddleware(
@@ -19,11 +18,11 @@ const update = async (req, resp) => {
 	try {
 		// Run CORS check
 		await corsCheck(req, resp);
-		return resp.json({
-			success: true,
-			message: `Received Prismic update hook : base dir is "${baseDir}"`,
-			env: process.env
-		});
+		// return resp.json({
+		// 	success: true,
+		// 	message: `Received Prismic update hook : base dir is "${baseDir}"`,
+		// 	env: process.env
+		// });
 		const status = await extractData(process.cwd(), "content", true);
 		resp.json({ success: true, message: "New content is being redeployed" });
 	} catch (error) {

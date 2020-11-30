@@ -82,7 +82,7 @@ export const extractPagesData = async (contentDir, filesPath) => {
 export const extractData = async (baseDir, contentDir, pushToRepo = false) => {
 	try {
 		const contentFullPath = path.join(baseDir, contentDir);
-		if (!fs.existsSync(contentDir)) {
+		if (!fs.existsSync(contentFullPath)) {
 			fs.mkdirSync(contentFullPath);
 		}
 		const filesPath = [];
