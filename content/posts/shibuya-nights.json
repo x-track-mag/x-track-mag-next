@@ -24,6 +24,23 @@
 			"playlist": [
 				{
 					"link": {
+						"provider_name": "SoundCloud",
+						"provider_url": "https://soundcloud.com",
+						"version": 1,
+						"type": "rich",
+						"height": 400,
+						"width": "100%",
+						"title": "Dazzed_ by Dazzed_Music",
+						"description": "",
+						"thumbnail_url": "https://i1.sndcdn.com/artworks-000139984155-nptj3e-t500x500.jpg",
+						"html": "<iframe width=\"100%\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F238082993&show_artwork=true\"></iframe>",
+						"author_name": "Dazzed_Music",
+						"author_url": "https://soundcloud.com/dazzed_music",
+						"embed_url": "https://soundcloud.com/dazzed_music/dazzed"
+					}
+				},
+				{
+					"link": {
 						"width": 300,
 						"height": 380,
 						"embed_url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=HqtU-vjWQdOaYCGpWRF7Nw",
@@ -43,20 +60,21 @@
 				},
 				{
 					"link": {
+						"width": 459,
+						"height": 344,
+						"embed_url": "https://music.youtube.com/watch?v=2fL0liusHzY&feature=share",
+						"type": "video",
+						"version": "1.0",
+						"title": "I Put A Spell On You",
+						"author_name": "Nina Simone - Topic",
+						"author_url": "https://www.youtube.com/channel/UCqj1HtTq76Bo6rBXNwrF5Uw",
 						"provider_name": "YouTube",
 						"provider_url": "https://www.youtube.com/",
-						"width": 459,
-						"author_url": "https://www.youtube.com/channel/UCqj1HtTq76Bo6rBXNwrF5Uw",
-						"title": "I Put A Spell On You",
-						"version": "1.0",
-						"thumbnail_height": 360,
-						"type": "video",
-						"thumbnail_width": 480,
-						"html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/2fL0liusHzY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+						"cache_age": null,
 						"thumbnail_url": "https://i.ytimg.com/vi/2fL0liusHzY/hqdefault.jpg",
-						"height": 344,
-						"author_name": "Nina Simone - Topic",
-						"embed_url": "https://music.youtube.com/watch?v=2fL0liusHzY&feature=share"
+						"thumbnail_width": 480,
+						"thumbnail_height": 360,
+						"html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/2fL0liusHzY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 					}
 				}
 			]
