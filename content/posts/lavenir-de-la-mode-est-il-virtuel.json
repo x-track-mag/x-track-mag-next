@@ -2,7 +2,7 @@
 	"uid": "lavenir-de-la-mode-est-il-virtuel",
 	"tags": [
 		"article",
-		"Fashion"
+		"fashion"
 	],
 	"publication_date": "2020-11-14T23:04:41+0000",
 	"title": "L’Avenir de la Mode est-il virtuel ?",
@@ -33,6 +33,17 @@
 							"type": "em"
 						}
 					]
+				},
+				{
+					"type": "paragraph",
+					"text": "A l’heure où la crise sanitaire est au plus fort, le secteur de la mode est, lui aussi, en mutation profonde. C'est l’occasion de se questionner sur l’avenir de cette institution de la mode, née à Paris en 1973. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 212,
+							"type": "em"
+						}
+					]
 				}
 			]
 		},
@@ -50,17 +61,40 @@
 			}
 		},
 		{
-			"template": "section-hero",
-			"title": null,
-			"subtitle": "A l’heure où la crise sanitaire est au plus fort, le secteur de la mode est, lui aussi, en mutation profonde. L’occasion de se questionner sur l’avenir de cette institution de la mode, née à Paris en 1973. A l’origine créé pour les maisons de Haute Couture afin de présenter leur collection au professionnel du milieu, aux journalistes et aux diverses entités qui gravitent alentours, son utilité s’est transformé au fur et à mesure des décennies. Son but actuel est de faire de cette quasi-quinzaine, un festival de tenues, de défilés, et de soirées censée fêter la mode et fédérer. Hors, à l’heure où les rassemblements sont de véritables prises de risque en période de crise sanitaire mais aussi que les consciences écologiques s’éveillent, de nouvelles solutions émergent. Car la mode, c’est 10% des émissions de carbone de l'humanité, un chiffre évocateur en 2020 qui provoquent chez les marques de nouvelles perspectives. De plus, si le secteur perdure sur cette trajectoire, ce chiffre pourrait passer à 26% d'ici 2050, selon un rapport de 2017 de la Fondation Ellen MacArthur. Imaginer un monde virtuel, une solution viable ? Pour Lena Novella, créatrice du studio Infinity: « À partir du moment ou l’on peut animer du vêtement et créer de l’environnement virtuel, tout type de contenu est possible à réaliser. Les logiciels de visualisation, modélisation et simulation de vêtements 3D sont des outils extrêmement précis. Ils constituent également un vrai accélérateur dans le process de pré-production et de validation des samples. La mode est un catalyseur de création et le match avec virtuel semble évident en ce qu'il offre de nouveaux moyens d’expression, de story- telling et de narration ».",
+			"template": "section-two-columns",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "A l’origine créé pour les maisons de Haute Couture afin de présenter leur collection au professionnel du milieu, aux journalistes et aux diverses entités qui gravitent alentours, son utilité s’est transformé au fur et à mesure des décennies. Son but actuel est de faire de cette quasi-quinzaine, un festival de tenues, de défilés, et de soirées censée fêter la mode et fédérer. Hors, à l’heure où les rassemblements sont de véritables prises de risque en période de crise sanitaire mais aussi que les consciences écologiques s’éveillent, de nouvelles solutions émergent. Car la mode, c’est 10% des émissions de carbone de l'humanité, un chiffre évocateur en 2020 qui provoquent chez les marques de nouvelles perspectives. De plus, si le secteur perdure sur cette trajectoire, ce chiffre pourrait passer à 26% d'ici 2050, selon un rapport de 2017 de la Fondation Ellen MacArthur. ",
+					"spans": [
+						{
+							"start": 590,
+							"end": 632,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "heading2",
+					"text": "Imaginer un monde virtuel, une solution viable ? ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Pour Lena Novella, créatrice du studio Infinity: « À partir du moment ou l’on peut animer du vêtement et créer de l’environnement virtuel, tout type de contenu est possible à réaliser. Les logiciels de visualisation, modélisation et simulation de vêtements 3D sont des outils extrêmement précis. Ils constituent également un vrai accélérateur dans le process de pré-production et de validation des samples. La mode est un catalyseur de création et le match avec virtuel semble évident en ce qu'il offre de nouveaux moyens d’expression, de story- telling et de narration ».",
+					"spans": []
+				}
+			],
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/39ebae00-1b26-43d5-86fd-36cec166a77c_116809705_289027542401740_5578178807252956386_n.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/39ebae00-1b26-43d5-86fd-36cec166a77c_116809705_289027542401740_5578178807252956386_n.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
 				"alt": null,
 				"copyright": null,
-				"width": 1080,
-				"height": 1080,
+				"width": 1024,
+				"height": 1024,
 				"ratio": 1
-			}
+			},
+			"columns_order": "Texte | Image",
+			"full_page": true
 		},
 		{
 			"template": "section-full-text",
@@ -190,7 +224,8 @@
 				"height": 1024,
 				"ratio": 1
 			},
-			"columns_order": "Image | Texte"
+			"columns_order": "Image | Texte",
+			"full_page": false
 		},
 		{
 			"template": "section-full-text",

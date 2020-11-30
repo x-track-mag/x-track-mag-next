@@ -36,7 +36,8 @@
 				"height": 1169,
 				"ratio": 0.8759623609923011
 			},
-			"columns_order": "Image | Texte"
+			"columns_order": "Image | Texte",
+			"full_page": null
 		}
 	]
 }
