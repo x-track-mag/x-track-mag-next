@@ -70,9 +70,8 @@ export const HeaderNav = ({ links, ...moreProps }) => (
 
 /**
  * The main fixed Header on all the pages
- * @param {JSXElement} props
  */
-const Header = (props) => {
+const Header = () => {
 	// const enableMobileMenu = useBreakpointValue({ base: true, lg: false });
 	const [showMobileMenu, setShowMobileMenu] = useState(false);
 	const toggleMobileMenu = () => setShowMobileMenu(!showMobileMenu);
@@ -90,7 +89,6 @@ const Header = (props) => {
 				justify="space-between"
 				wrap="wrap"
 				padding="0 2rem"
-				{...props}
 			>
 				<Heading
 					as="h1"
