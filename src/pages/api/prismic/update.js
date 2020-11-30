@@ -21,8 +21,8 @@ const update = async (req, resp) => {
 		await corsCheck(req, resp);
 		return resp.json({
 			success: true,
-			message: `Received Prismic update hook : base dir is "${baseDir}" and process.env id: 
-		${JSON.stringify(process.env, null, "\t")}`
+			message: `Received Prismic update hook : base dir is "${baseDir}"`,
+			env: process.env
 		});
 		const status = await extractData(process.cwd(), "content", true);
 		resp.json({ success: true, message: "New content is being redeployed" });

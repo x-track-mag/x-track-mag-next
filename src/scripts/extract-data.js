@@ -8,7 +8,7 @@ import extractData from "../lib/extract/prismic.js";
 const run = async () => {
 	try {
 		loadEnv();
-		await extractData(baseDir, "content", true);
+		await extractData("/", "content", true);
 		process.exit(0);
 	} catch (err) {
 		console.error(err);

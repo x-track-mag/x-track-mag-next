@@ -1,7 +1,5 @@
 import { Octokit } from "@octokit/rest";
-import glob from "globby";
 import path from "path";
-import fs from "fs-extra";
 import ServerError from "../ServerError.js";
 
 export const getInstance = () => {
@@ -24,16 +22,16 @@ export const createRepo = async (octokit, org, name) => {
 /**
  * Upload changes inside a directory to the git repo
  * @param {Octokit} octokit
- * @param {String} base_dir base repository path
- * @param {String} content_dir directory to scan (relative to base_dir)
+ * @param {String} fs a reference to the filesystem (maybe a virtual filesystem)
+ * @param {Array<string>} filesPaths list of files to commit
  * @param {String} org git user or organization name
  * @param {String} repo git repository name
- * @param {String} [branch="master"] name of teh branch to commit to
+ * @param {String} [branch="master"] name of the branch to commit to
  */
 export const uploadToRepo = async (
 	octokit,
-	base_dir,
-	content_dir = "",
+	fs,
+	filesPaths,
 	org,
 	repo,
 	commitMessage,
@@ -41,20 +39,16 @@ export const uploadToRepo = async (
 ) => {
 	let step = "1. Scan content directory for files path";
 	try {
-		// Scan content directory for files path
-		const filesPaths = await glob(path.join(base_dir, content_dir));
-
 		// gets commit's AND its tree's SHA
-		step = "2. Scan content directory for files path";
+		step = "2. Get current commit from repo";
 		const currentCommit = await getCurrentCommit(octokit, org, repo, branch);
 
 		step = "3. Create scanned files Blobs";
 		const filesBlobs = await Promise.all(
-			filesPaths.map(createBlobForFile(octokit, org, repo))
+			filesPaths.map(createBlobForFile(octokit, fs, org, repo))
 		);
-		const pathsForBlobs = filesPaths.map((fullPath) =>
-			path.relative(base_dir, fullPath)
-		);
+		const pathsForBlobs = filesPaths.map((fullPath) => path.relative("/", fullPath));
+		console.log(`Commiting the following files path`, pathsForBlobs);
 
 		step = "4. Create a tree for the commit content";
 		const newTree = await createNewTree(
@@ -111,18 +105,13 @@ const getCurrentCommit = async (octokit, org, repo, branch = "master") => {
 };
 
 /**
- * Notice that fs.readFile's utf8 is typed differently from Github's utf-8
- *  */
-const getFileAsUTF8 = (filePath) => fs.readFile(filePath, "utf8");
-
-/**
  *
  * @param {Octokit} octokit
  * @param {String} org
  * @param {String} repo
  */
-const createBlobForFile = (octokit, org, repo) => async (filePath) => {
-	const content = await getFileAsUTF8(filePath);
+const createBlobForFile = (octokit, fs, org, repo) => async (filePath) => {
+	const content = fs.readFileSync(filePath, "utf8");
 	const blobData = await octokit.git.createBlob({
 		owner: org,
 		repo,
