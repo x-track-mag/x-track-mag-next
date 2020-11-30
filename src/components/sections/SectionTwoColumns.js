@@ -1,6 +1,6 @@
 import { Box, Grid, GridItem, Flex, AspectRatio } from "@chakra-ui/react";
 import Container from "@components/base/Container";
-import { RichText } from "prismic-reactjs";
+import { RichText } from "@components/base/Typography";
 import Image from "next/image";
 
 /**
@@ -18,7 +18,7 @@ const SectionTwoColumns = ({ article, image, text, ...props }) => (
 			gap={["0", "0", "2rem"]}
 		>
 			<GridItem pb="2rem">
-				<RichText render={text} />
+				<RichText>{text}</RichText>
 			</GridItem>
 			<GridItem
 				as={Flex}

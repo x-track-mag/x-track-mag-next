@@ -1,7 +1,6 @@
 import { Box, Grid, GridItem, Flex, AspectRatio } from "@chakra-ui/react";
 import Container from "@components/base/Container";
-import Typography from "@components/base/Typography";
-import { RichText } from "prismic-reactjs";
+import { Title, Subtitle, RichText } from "@components/base/Typography";
 import ReactPlayer from "react-player";
 import SvgPlayerIcon from "@components/icons/SvgPlayerIcon.js";
 
@@ -20,10 +19,10 @@ const SectionVideoLauncher = ({ article, text, link, ...props }) => (
 			gap={{ base: "0", lg: "2rem" }}
 		>
 			<GridItem pb="2rem">
-				<Typography.Title>{article.title}</Typography.Title>
-				<Typography.Subtitle>{article.subtitle}</Typography.Subtitle>
+				<Title>{article.title}</Title>
+				<Subtitle>{article.subtitle}</Subtitle>
 				<Box pt="1rem">
-					<RichText render={text} />
+					<RichText>{text}</RichText>
 				</Box>
 			</GridItem>
 			<GridItem
