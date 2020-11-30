@@ -37,20 +37,19 @@ export const uploadToRepo = async (
 	commitMessage,
 	branch = `master`
 ) => {
-	let step = "1. Scan content directory for files path";
 	try {
 		// gets commit's AND its tree's SHA
-		step = "2. Get current commit from repo";
+		step = `1. Get current commit from repo ${org}/${repo}`;
 		const currentCommit = await getCurrentCommit(octokit, org, repo, branch);
 
-		step = "3. Create scanned files Blobs";
+		step = "2. Create files Blobs from paths";
 		const filesBlobs = await Promise.all(
 			filesPaths.map(createBlobForFile(octokit, fs, org, repo))
 		);
 		const pathsForBlobs = filesPaths.map((fullPath) => path.relative("/", fullPath));
 		console.log(`Commiting the following files path`, pathsForBlobs);
 
-		step = "4. Create a tree for the commit content";
+		step = "3. Create a tree for the commit content";
 		const newTree = await createNewTree(
 			octokit,
 			org,
@@ -60,7 +59,7 @@ export const uploadToRepo = async (
 			currentCommit.treeSha
 		);
 
-		step = "5. Create the commit";
+		step = "4. Create the commit";
 		const newCommit = await createNewCommit(
 			octokit,
 			org,
@@ -70,7 +69,7 @@ export const uploadToRepo = async (
 			currentCommit.commitSha
 		);
 
-		step = "6. Push on branch";
+		step = "5. Push on branch";
 		await setBranchToCommit(octokit, org, repo, branch, newCommit.sha);
 	} catch (err) {
 		console.error(err);
