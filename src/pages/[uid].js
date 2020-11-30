@@ -13,7 +13,7 @@ const StaticPage = ({ uid, sections }) => {
  */
 export const getStaticProps = async ({ params, preview }) => {
 	const uid = params.uid;
-	const { ...postProps } = await import(`@content/posts/${uid}.json`);
+	const { ...postProps } = await import(`@content/${uid}.json`);
 	return {
 		props: { ...postProps }
 	};
