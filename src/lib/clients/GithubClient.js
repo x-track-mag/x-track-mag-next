@@ -37,9 +37,9 @@ export const uploadToRepo = async (
 	commitMessage,
 	branch = `master`
 ) => {
+	let step = `1. Get current commit from repo ${org}/${repo}`;
 	try {
 		// gets commit's AND its tree's SHA
-		step = `1. Get current commit from repo ${org}/${repo}`;
 		const currentCommit = await getCurrentCommit(octokit, org, repo, branch);
 
 		step = "2. Create files Blobs from paths";
