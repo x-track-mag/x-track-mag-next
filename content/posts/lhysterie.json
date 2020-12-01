@@ -20,24 +20,29 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "heading2",
-					"text": "Les femmes : hystériques depuis l’Antiquité",
+					"type": "paragraph",
+					"text": "« Folle », « radicale », « extrémiste », « too much »… tous ces mots sont utilisés pour décrire les femmes dont les idées et propos contredisent les valeurs traditionnelles de notre société. ",
 					"spans": [
 						{
 							"start": 0,
-							"end": 43,
-							"type": "strong"
+							"end": 191,
+							"type": "em"
 						}
 					]
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+				},
+				{
+					"type": "heading2",
+					"text": "Les femmes : hystériques depuis l’Antiquité",
+					"spans": []
+				},
 				{
 					"type": "paragraph",
-					"text": "« Folle », « radicale », « extrémiste », « too much »… tous ces mots sont utilisés pour décrire les femmes dont les idées et propos contredisent les valeurs traditionnelles de notre société. Si tous ces mots trouvent leur équivalent masculin, ce n’est pas le cas du terme « hystérique ». Pour comprendre pourquoi ce mot est réservé aux femmes, il faut remonter à la Grèce Antique. Hippocrate et Platon, considérés comme les pères de la médecine, ont théorisé le syndrome de « l’utérus vagabond » (ou « utérus mobile »). Selon leurs écrits, l’organe pouvait se promener dans le corps, ce qui causait bon nombre de problèmes : s’il migrait vers le torse, la femme victime de cette pathologie souffrait de fatigue ou vertiges, par exemple. Par chance, l’utérus était attiré par les bonnes odeurs : il suffisait donc de faire sentir une odeur nauséabonde à une femme pour qu’il retrouve sa place. Vous avez déjà vu un film dans lequel on fait respirer des sels à une femme évanouie ? Eh oui, ça vient de là. Si, à travers les siècles, les médecins ont fini par comprendre que l’utérus ne pouvait pas se balader à sa guise dans le corps féminin, la corrélation entre utérus et mauvaise santé féminine est restée. Elle a cependant évolué : au lieu d’affliger le corps, le dysfonctionnement utérin affligeait l’esprit. C’est donc au XVIème siècle que la notion d’hystérie a vu le jour. A l’époque, on considérait que seules les femmes pouvaient en être victimes. Au XIXème siècle, Freud estime que l’hystérie peut toucher les femmes…et les hommes. Selon le psychanalyste, elle est nécessairement liée à la fonction sexuelle, c’est tout. Aujourd’hui, selon le Centre National de Ressources Textuelles et Lexicales, le terme désignerait une « névrose aux tableaux cliniques variés, où le conflit psychique s’exprime par des manifestations fonctionnelles sans lésion organique, des crises émotionnelles avec théâtralisme, des phobies. »          ",
+					"text": "Si tous ces mots trouvent leur équivalent masculin, ce n’est pas le cas du terme « hystérique ». Pour comprendre pourquoi ce mot est réservé aux femmes, il faut remonter à la Grèce Antique. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Hippocrate et Platon, considérés comme les pères de la médecine, ont théorisé le syndrome de « l’utérus vagabond » (ou « utérus mobile »). Selon leurs écrits, l’organe pouvait se promener dans le corps, ce qui causait bon nombre de problèmes : s’il migrait vers le torse, la femme victime de cette pathologie souffrait de fatigue ou vertiges, par exemple. Par chance, l’utérus était attiré par les bonnes odeurs : il suffisait donc de faire sentir une odeur nauséabonde à une femme pour qu’il retrouve sa place. Vous avez déjà vu un film dans lequel on fait respirer des sels à une femme évanouie ? Eh oui, ça vient de là. Si, à travers les siècles, les médecins ont fini par comprendre que l’utérus ne pouvait pas se balader à sa guise dans le corps féminin, la corrélation entre utérus et mauvaise santé féminine est restée. Elle a cependant évolué : au lieu d’affliger le corps, le dysfonctionnement utérin affligeait l’esprit. C’est donc au XVIème siècle que la notion d’hystérie a vu le jour. A l’époque, on considérait que seules les femmes pouvaient en être victimes. Au XIXème siècle, Freud estime que l’hystérie peut toucher les femmes…et les hommes. Selon le psychanalyste, elle est nécessairement liée à la fonction sexuelle, c’est tout. Aujourd’hui, selon le Centre National de Ressources Textuelles et Lexicales, le terme désignerait une « névrose aux tableaux cliniques variés, où le conflit psychique s’exprime par des manifestations fonctionnelles sans lésion organique, des crises émotionnelles avec théâtralisme, des phobies. »          ",
 					"spans": []
 				},
 				{
