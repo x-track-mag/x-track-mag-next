@@ -8,7 +8,7 @@ export const Title = ({ children, ...moreStyles }) => (
 	<chakra.h2
 		fontFamily="Arachne"
 		fontSize="3.2rem"
-		lineHeight="2.8rem"
+		lineHeight="3.2rem"
 		textAlign="center"
 		mb="1rem"
 		{...moreStyles}
