@@ -17,17 +17,14 @@
 	"internal_link": null,
 	"sections": [
 		{
-			"template": "section-hero",
-			"title": null,
-			"subtitle": "Avec “Lemon Lord”, le groupe Polycool nous dresse une ode au Seigneur Citron ",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/242a78c7-00a1-4fac-8516-2798fde52fbf_Capture+d%E2%80%99e%CC%81cran+2020-12-01+a%CC%80+18.13.54.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2350,
-				"height": 1670,
-				"ratio": 1.407185628742515
-			}
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "Avec “Lemon Lord”, le groupe Polycool nous dresse une ode au Seigneur Citron",
+					"spans": []
+				}
+			]
 		},
 		{
 			"template": "section-full-text",
@@ -183,8 +180,14 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Avec “Lemon Lord”, véritable album concept, Polycool gravit un échelon dans l’exploration graphique, en proposant en parallèle des morceaux une BD loufoque retraçant le mythe du Seigneur Citron. De la formation de l’univers par un dénommé John Lemon à sa rencontre avec son pire ennemi Panic System : tous les mystères de la création nous sont dévoilés. ",
-					"spans": []
+					"text": "Avec “Lemon Lord”, véritable album concept, Polycool gravit un échelon dans l’exploration graphique, en proposant en parallèle des morceaux une BD loufoque retraçant le mythe du Seigneur Citron. De la formation de l’univers par un dénommé John Lemon à sa rencontre avec son pire ennemi Panic System : tous les mystères de la création nous sont dévoilés. “ Souvent, on fait la musique et la question de l'artwork vient après, car ça nous prend beaucoup de temps. Mais Tino va avoir tendance à proposer une idée qui va souvent faire consensus”. nous dit Solal",
+					"spans": [
+						{
+							"start": 353,
+							"end": 542,
+							"type": "em"
+						}
+					]
 				}
 			]
 		},
@@ -194,16 +197,6 @@
 				{
 					"type": "paragraph",
 					"text": "Pour cet album, la dimension iconographique découle du projet de troisième année des Beaux Arts de Tino et c'est ça qui nous a lancés dans l'esthétique de l'album et l'histoire qui est venue par la suite. On décide toujours tous ensemble, mais c'est vraiment Tino qui a travaillé sur l'artwork de l'album, qui a dessiné une partie de la BD avec Jonas- Léon, bassiste-astrophysicien du groupe. ",
-					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-quote",
-			"text": [
-				{
-					"type": "paragraph",
-					"text": "Souvent, on fait la musique et la question de l'artwork vient après, car ça nous prend beaucoup de temps. Mais Tino va avoir tendance à proposer une idée qui va souvent faire consensus - Solal",
 					"spans": []
 				}
 			]
