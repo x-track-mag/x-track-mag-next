@@ -1,7 +1,7 @@
 {
 	"uid": "polycool",
 	"tags": [
-		"Profil "
+		"article"
 	],
 	"publication_date": "2020-12-01T17:38:07+0000",
 	"title": "Polycool",
@@ -12,23 +12,10 @@
 		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
 		"size": "462073"
 	},
-	"template": "1: Image + Titre + sous-titre + infos",
+	"template": "3: Image + Titre",
 	"author": null,
 	"internal_link": null,
 	"sections": [
-		{
-			"template": "section-hero",
-			"title": null,
-			"subtitle": null,
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/242a78c7-00a1-4fac-8516-2798fde52fbf_Capture+d%E2%80%99e%CC%81cran+2020-12-01+a%CC%80+18.13.54.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2350,
-				"height": 1670,
-				"ratio": 1.407185628742515
-			}
-		},
 		{
 			"template": "section-full-text",
 			"text": [
