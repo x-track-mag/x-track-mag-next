@@ -28,9 +28,9 @@
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.youtube.com/watch?v=2fL0liusHzY&feature=share",
-					"html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/2fL0liusHzY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-					"title": "I Put A Spell On You"
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBJHn5KGmHj3hjzGOTjgKQF",
+					"html": "<div data-type=\"website\"><a href=\"http://www.youtube.com/playlist?list=PLLJkxWPTDgMBJHn5KGmHj3hjzGOTjgKQF\"><h1>Best ”XTrack“ of the Week</h1><img src=\"https://i.ytimg.com/vi/gwIAOn88Klw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLByPOJ1Hf0V6lIJG7ZWMViZvwPkHg&days_since_epoch=18597\"><p>Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week/ Les meilleurs sons de la semaine & +++</p></a></div>",
+					"title": "Best ”XTrack“ of the Week"
 				}
 			]
 		}
