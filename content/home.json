@@ -72,7 +72,7 @@
 				"ratio": 0.7159904534606205
 			},
 			"video_loop": null,
-			"template": "2: Image + Titre + infos",
+			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null
 		},

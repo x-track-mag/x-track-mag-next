@@ -15,8 +15,165 @@
 		"ratio": 0.7159904534606205
 	},
 	"video_loop": null,
-	"template": "2: Image + Titre + infos",
+	"template": "3: Image + Titre",
 	"author": null,
 	"internal_link": null,
-	"sections": []
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4617a503-2389-4e9a-bf03-cf5f5edafc43_PRETTY+PRIVILEGE.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1500,
+				"height": 2095,
+				"ratio": 0.7159904534606205
+			}
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Je suis une jolie fille, je ne paie pas mes verres au bar ! Les garçons les paient pour moi, je n’utilise pas ma carte de crédit. (…) Il m’emmène où je veux, je n’ai pas besoin de voiture !",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Ces paroles de la rappeuse américaine Yung Baby Tate dans « Pretty Girl » décrivent là le train de vie des filles considérées jolies. De manière commune et plus concise, on parle ici de « pretty privilege » (qu’on traduirait en français par « privilège de la beauté »). Ce qu’on appelle « pretty privilege » ou « beauty privilege » est le fait de bénéficier de divers et nombreux privilèges grâce à une apparence physique jugée avantageuse. Si ce cadre de vie est à première vue attrayant, on se rend compte en y regardant de plus près qu’il revêt une réalité qui l’est bien moins. Tous les genres peuvent bénéficier du pretty privilege, mais on se concentrera ici sur les femmes (et leur relation avec les hommes) car, étant donné leur place dans la société, leur pretty privilege est non seulement particulier mais aussi plus visible. Mais selon quels critères accorde-t-on ce privilège ? Selon les standards de beauté en vigueur. On a tendance à penser que la beauté est subjective or elle dépend toujours d’une époque et d’un lieu donnés : c’est ce qu’on appelle les standards de beauté. Si les « belles » femmes semblent privilégiées, c’est donc parce que leur physique correspond à ces critères. Le problème est que, quels qu’ils soient, les standards de beauté sont exclusifs. Ces dynamiques sont révélatrices des rapports de force – et donc des oppressions – qui s’opèrent dans notre société. Invisibiliser un certain nombre de femmes rend visible les oppressions dont elles souffrent. Et, à contrario, surexposer un certain nombre de femmes rend visible les oppressions dont elles souffrent aussi.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "Qui est le vrai bénéficiaire du pretty privilege ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 50,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Selon la définition du terme « privilège » (droit, avantage particulier accordé par une autorité à une personne (…) en-dehors des règles communes), les bénéficiaires du pretty privilege sont effectivement privilégiées : elles ont des droits que d’autres non pas. Cependant, une mise en perspective s’impose. Puisque nous parlons ici des femmes, il serait peut-être judicieux de regarder qui fait office d’autorité…",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": " Quand j’ai eu 16 ans, une chose extraordinaire s’est produite : j’ai réalisé que j’étais cute ! Que je plaisais aux garçons, que les garçons me calculaient ! Donc là, mon estime de moi a bondi !  ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "C'est ce que nous dit la youtubeuse Yellow Bone dans sa vidéo « Mon beauty privilege – rapport au corps – féminisme ». Une minute et trente secondes plus tard, elle expose les raisons pour lesquelles elle se sait bénéficiaire du beauty privilege. En premier lieu : « déjà les hommes sont souvent très avenants avec moi, très sympas avec moi, très séducteurs avec moi. » Peu après, elle mentionne ses copines qui, à l’adolescence, profitaient de leur apparence pour amener des garçons à leur rendre des services. Ce sont en effet les hommes qui, grâce à leur position dominante dans la société, accordent ce privilège aux femmes qu’ils jugent belles (pour accorder un privilège, il faut soi-même être privilégié). Maintenant que l’on sait ça, on peut se demander quelles sont les conséquences d’une telle hiérarchisation.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "On pourrait se dire que les hommes se comportent de la sorte avec certaines femmes pour obtenir des faveurs de ces dernières. Si c’est souvent le cas, ça ne l’est pas toujours. Il n’y a pas forcément d’intention consciente derrière la mise en valeur des « belles » femmes.  Cependant, cela n’empêche pas les effets d’exister. Lorsque les hommes hiérarchisent les femmes selon leur apparence physique et que cette hiérarchisation impacte toutes les femmes, alors on se rend compte que le regard des hommes et leur validation a un poids énorme dans la société. Dans « ‘Pretty Privilege’, Where ? », un article anonyme paru dans le Huffington Post en 2017, l’autrice explique « pourquoi les auteur.rices ont tort de supposer que le regard masculin [fait que la culture visuelle dominante imposerait au public d’adopter une perspective d’homme hétérosexuel, NDLR] garantit des privilèges aux jolies femmes ». Pour appuyer sa thèse, elle compare l’idée selon laquelle être « jolie » rime avec privilège et l’argument selon lequel être une esclave domestique était avantageux. La préférence qu’avaient les propriétaires d’esclaves pour les plus jolies d’entre elles ne garantissait à ces dernières aucun avantage : elles aussi subissaient des violences telles que le viol, en plus du traumatisme émotionnel et psychologique qu’impliquaient les tâches qui leur étaient réservées. Par exemple, elles devaient allaiter des enfants blancs tout en étant séparées des leurs ou encore élever de futurs esclavagistes qui, une fois adultes, hériteraient d’elles. Pour résumer sa pensée, elle explique que « de la même manière qu’être esclave domestique permettait une plus grande proximité avec la blanchité, être jolie permet une plus grande proximité avec le regard masculin et tout ce qui va avec. » Ce « tout » implique les désavantages. Il n’y a rien qui permet aux femmes d’être maîtresses de ce supposé privilège, elles ne peuvent pas l’« activer » tout en étant sûres qu’il n’y aura pas de contrecoup. En définitive, être jolie ne les empêchera pas d’être victimes du patriarcat (organisation sociale dans laquelle l’homme détient le pouvoir), ce même patriarcat qui, en apparence, les place sur un piédestal. L’autrice cite l’exemple de la jolie femme qui a obtenu un travail à cause de son physique et se demande « combien de temps lui a-t-il fallu pour qu’elle s’y fasse harceler sexuellement ? » Pour aller encore plus loin, tout comme les jolies esclaves domestiques subissaient des violences spécifiques à leur situation, les « jolies » femmes souffrent d’oppressions patriarcales propres à leur condition. Par exemple, en cas de mésaventure, on leur témoignera peu d’empathie car les belles femmes sont jugées prétentieuses ou hautaines. Cette comparaison entre esclaves domestiques et bénéficiaires du pretty privilege est maladroite – puisque les situations et les souffrances ne se valent pas – mais elle permet d’imager un propos sensé : le pretty privilege est un faux privilège, voire un guet apens.",
+					"spans": [
+						{
+							"start": 437,
+							"end": 443,
+							"type": "strong"
+						},
+						{
+							"start": 629,
+							"end": 644,
+							"type": "em"
+						},
+						{
+							"start": 1765,
+							"end": 1769,
+							"type": "em"
+						},
+						{
+							"start": 1793,
+							"end": 1797,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": " On voit donc que ce classement divise les femmes, crée des complexes et des injustices mais, au-delà de ça, maintient les hommes en position de pouvoir. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Par ailleurs, ce pretty privilege participe de l’objectification des femmes tout en la mettant en lumière. En effet, contrairement aux hommes, on attend des femmes qu’elles soient belles. La beauté est, pour les femmes, une forme de réussite à part entière. Le livre Le corps et la beauté (1999) de Jean Maisonneuve et Marilou Bruchon-Schweitzer mentionne une étude prouvant que « les couples mariés sont bien constitués de partenaires de désirabilité équivalente mais les atouts mis dans la balance ne sont pas forcément les mêmes : popularité, compétences sociales, intelligence, réussite (pour l’homme), beauté et qualités affectives (pour la femme). » Selon le même ouvrage, « les femmes plus belles auront tendance à épouser des hommes au statut social plus élevé que le leur (et les hommes riches et/ou célèbres, des femmes plus attrayantes qu’eux.) » Dix-huit ans après, le constat est toujours le même. Dans Aesthetic Labour – Rethinking Beauty Politics in Neoliberalism (2017), Ana Elias affirme que, la place du corps féminin occupe aujourd’hui une place prédominante. Lorsque, auparavant, on se focalisait également sur certain.es rôles ou caractéristiques pour construire la féminité (la maternité, par exemple), l’aspect très visuel de la culture populaire a fait du corps de la femme « son atout, son produit, sa marque et sa passerelle vers la liberté et l’empouvoirement dans une économie de marché néolibérale » (citation d’Alison Winch). L’autrice résume sa pensée en expliquant que le désir (hétéro)sexuel qu’une femme provoque – ou non – est la mesure de son succès : « peu importe ses autres particularités, elle doit aussi être belle. » Alors être belle va presque devenir un travail à part entière. McRobbie utilise même l’expression « lutter pour atteindre la perfection ». On le voit notamment avec les influenceuses – un travail qui n’existait pas il y a 15 ans. Les standards de beauté ont toujours existé et les femmes ont toujours essayé de les atteindre mais on constate que, dernièrement, ils ont pris le pas sur le peu de subjectivité qu’on pouvait trouver auparavant. Comme l’autrice l’explique, ce phénomène a été « facilité par les nouvelles technologies et par un capitalisme agressif tourné vers la consommation qui colonisent le corps des femmes ». En bref, toutes les femmes vont chercher à atteindre un même idéal, idéal véhiculé par les réseaux sociaux, le capitalisme et la société de consommation. Selon McRobbie toujours, le patriarcat s’est « reterritorialisé » dans l’univers de la beauté et de la mode. ",
+					"spans": [
+						{
+							"start": 267,
+							"end": 288,
+							"type": "em"
+						},
+						{
+							"start": 916,
+							"end": 978,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Or, le fait de surtout prendre en compte la beauté physique dans la valeur que l’on accorde à une femme est problématique. Premièrement, parce que celle-ci a peut-être autre chose à offrir ; deuxièmement, parce que cela participe du stéréotype selon lequel une belle femme n’est pas intelligente/ambitieuse/talentueuse etc.  ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Si le pretty privilege peut paraître avantageux pour celles qui en profitent, les coulisses méritent qu’on s’y attarde. Loin d’être un thème dérisoire, il révèle en effet les dynamiques en vigueur dans notre société. Certaines femmes sont cependant conscientes de ces rapports de force et, de ce fait, utilisent leur pretty privilege pour faire passer des messages pertinents. C’est le cas par exemple de l’actrice Jameela Jamil. Se sachant belle (selon les standards de beauté, toujours), elle utilise ses différentes plateformes pour célébrer tous les types de corps, tous les types de beauté et mettre en garde contre la « diet culture » (système qui fait de la minceur une fin en soi, un but à atteindre à tout prix). Utiliser son beauty privilege de la sorte, c’est comme faire un pied de nez au système dont il est issu – ce qui est à la fois surprenant et bénéfique. On ne choisit pas d’être privilégiée, mais on peut choisir de quelle manière utiliser son privilège.",
+					"spans": []
+				}
+			]
+		}
+	]
 }
