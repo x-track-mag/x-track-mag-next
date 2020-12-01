@@ -15,7 +15,11 @@ const isImageFirst = (columnsOrder) =>
  */
 const SectionGallery = ({ gallery }) => (
 	<Box as="section" className="section-gallery">
-		<SimpleGrid columns={{ base: 1, lg: 3 }} spacing="2rem" height="40vh">
+		<SimpleGrid
+			columns={3}
+			spacing={{ base: "0", md: "2rem" }}
+			height={{ base: "250px", md: "40vh" }}
+		>
 			{gallery.map((image) => (
 				<Box position="relative" className="column" width="100%" height="100%">
 					<BackgroundImageContainer image={image} />
