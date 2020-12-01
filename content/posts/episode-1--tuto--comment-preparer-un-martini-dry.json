@@ -20,26 +20,27 @@
 			"template": "section-video-launcher",
 			"text": [
 				{
-					"type": "heading2",
+					"type": "paragraph",
 					"text": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  ",
 					"spans": []
 				}
 			],
 			"link": {
+				"width": 480,
+				"height": 270,
+				"embed_url": "https://www.youtube.com/watch?v=cftxA8fTS_w",
+				"type": "video",
+				"version": "1.0",
+				"title": "Episode 1 : Tuto : Comment préparer un martini dry tout en larguant son amant.",
+				"author_name": "XTrack radio",
+				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
 				"provider_name": "YouTube",
 				"provider_url": "https://www.youtube.com/",
-				"title": "Episode 1 : Tuto : Comment préparer un martini dry tout en larguant son amant.",
-				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
-				"html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/cftxA8fTS_w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"width": 480,
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
-				"height": 270,
-				"author_name": "XTrack radio",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/cftxA8fTS_w/hqdefault.jpg",
-				"version": "1.0",
-				"type": "video",
-				"embed_url": "https://www.youtube.com/watch?v=cftxA8fTS_w"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/cftxA8fTS_w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"image": null
 		}
