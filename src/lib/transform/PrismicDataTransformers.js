@@ -24,8 +24,8 @@ export const fixImage = ({ dimensions, url, alt = "", copyright = "" }) => {
 };
 
 /**
- * Prismic link format is.. broken
- * Example of an empty link : 
+ * Prismic inner link format is.. broken
+ * Example of an empty link : (??!)
    "internal_link": {
 		"link_type": "Any"
 	},
@@ -35,6 +35,17 @@ export const fixImage = ({ dimensions, url, alt = "", copyright = "" }) => {
 export const fixLink = (link) => {
 	if (!link || !link.uid) return null;
 	return { uid: link.uid, type: link.type };
+};
+
+/**
+ * Prismic embeddable media link format is.. way to verbose
+ * @param {Object} link
+ * @return {LinkDescr}
+ */
+export const fixMediaLink = ({ link }) => {
+	console.log("Received media link", JSON.stringify(link));
+	if (!link || !link.embed_url) return null;
+	return { url: link.embed_url, html: link.html, title: link.title };
 };
 
 /**
@@ -70,7 +81,7 @@ export const transformSection = (sectionData) => {
 		sectionFields.video_loop = fixVideo(video_loop);
 	}
 	if (template === "section-playlist") {
-		sectionFields.playlist = sectionData.items;
+		sectionFields.playlist = sectionData.items.map(fixMediaLink);
 	}
 
 	return {
