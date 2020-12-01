@@ -20,14 +20,6 @@
 			"config": {
 				"label": "Slug"
 			}
-		},
-		"image": {
-			"type": "Image",
-			"config": {
-				"constraint": {},
-				"thumbnails": [],
-				"label": "image"
-			}
 		}
 	},
 	"Contenu": {
@@ -122,6 +114,15 @@
 									"options": ["Image | Texte", "Texte | Image"],
 									"default_value": "Image | Texte",
 									"label": "Position texte"
+								}
+							},
+							"full_page": {
+								"type": "Boolean",
+								"config": {
+									"placeholder_false": "Container",
+									"placeholder_true": "Pleine largeur",
+									"default_value": false,
+									"label": "Full Page"
 								}
 							}
 						},

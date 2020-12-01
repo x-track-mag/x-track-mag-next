@@ -1,8 +1,6 @@
 {
 	"uid": "funky-flashback",
-	"tags": [
-		"music"
-	],
+	"tags": ["music"],
 	"publication_date": "2020-11-23T22:38:12+0000",
 	"title": "Funky Flashback",
 	"subtitle": "FOR LOVERS ONLY",
@@ -30,41 +28,14 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"link": {
-						"width": 300,
-						"height": 380,
-						"embed_url": "https://open.spotify.com/playlist/37i9dQZF1DWXncK9DGeLh7",
-						"type": "rich",
-						"version": "1.0",
-						"title": "Flashback",
-						"author_name": null,
-						"author_url": null,
-						"provider_name": "Spotify",
-						"provider_url": "https://spotify.com",
-						"cache_age": null,
-						"thumbnail_url": "https://i.scdn.co/image/ab67706f00000003d57ef80dbfc625b52aa3b15f",
-						"thumbnail_width": 300,
-						"thumbnail_height": 300,
-						"html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Flashback\" src=\"https://open.spotify.com/embed/playlist/37i9dQZF1DWXncK9DGeLh7\"></iframe>"
-					}
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-xlyN3a3uvNPRE",
+					"html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Flashback\" src=\"https://open.spotify.com/embed/playlist/37i9dQZF1DWXncK9DGeLh7\"></iframe>",
+					"title": "Best XTrack of the Week"
 				},
 				{
-					"link": {
-						"provider_name": "YouTube",
-						"provider_url": "https://www.youtube.com/",
-						"type": "video",
-						"thumbnail_width": 480,
-						"html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/QH3Fx41Jpl4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-						"height": 344,
-						"author_name": "chacho mg",
-						"width": 459,
-						"author_url": "https://www.youtube.com/user/chacho989",
-						"title": "Nina Simone - Sinnerman",
-						"version": "1.0",
-						"thumbnail_height": 360,
-						"thumbnail_url": "https://i.ytimg.com/vi/QH3Fx41Jpl4/hqdefault.jpg",
-						"embed_url": "https://youtu.be/QH3Fx41Jpl4"
-					}
+					"url": "https://youtu.be/QH3Fx41Jpl4",
+					"html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/QH3Fx41Jpl4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+					"title": "Nina Simone - Sinnerman"
 				}
 			]
 		}
