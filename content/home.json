@@ -57,7 +57,9 @@
 	"sections": [
 		{
 			"uid": "lhysterie",
-			"tags": [],
+			"tags": [
+				"article"
+			],
 			"publication_date": "2020-12-01T18:49:48+0000",
 			"title": "L'hystérie ",
 			"subtitle": "",
