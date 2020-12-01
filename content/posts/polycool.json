@@ -23,7 +23,13 @@
 				{
 					"type": "heading2",
 					"text": "Avec “Lemon Lord”, le groupe Polycool nous dresse une ode au Seigneur Citron",
-					"spans": []
+					"spans": [
+						{
+							"start": 6,
+							"end": 16,
+							"type": "em"
+						}
+					]
 				}
 			]
 		},
@@ -114,8 +120,8 @@
 		},
 		{
 			"template": "section-hero",
-			"title": null,
-			"subtitle": null,
+			"title": "--blank--",
+			"subtitle": "--blank--",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/88351be4-1431-4119-93d1-1af0b5ec615b_CULTURE+MUSIQUE+POLYCOOL+WEBZINE.png?auto=compress,format",
 				"alt": null,
