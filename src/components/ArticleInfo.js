@@ -42,7 +42,7 @@ const ArticleInfo = ({
 	<Flex
 		as="aside"
 		position={position}
-		zIndex="99"
+		zIndex="9"
 		top={position === "absolute" ? "12rem" : "4rem"}
 		bottom={position === "absolute" ? "1rem" : "4rem"}
 		right="2rem"

@@ -3,6 +3,8 @@ import { Link as ChakraLink } from "@chakra-ui/react";
 import NextLink from "next/link";
 import clsx from "clsx";
 
+const nope = () => false;
+
 const noOutline = {
 	outline: "none",
 	outlineStyle: "none"
@@ -109,11 +111,12 @@ export const navigate = (href, callback) => (evt) => {
  * @param {JSXElement} props
  * @param {String} props.href Absolute or relative URL to go by
  */
-export const Link = ({ href = "#", children, onNavigate, ...props }) => (
+export const Link = ({ href = "#", children, onClick = nope, ...props }) => (
 	<NextLink href={href} scroll={true} passHref>
 		<ChakraLink
 			target={isExternalLink(href) ? "_blank" : ""}
 			className={clsx({ active: isActive(href) })}
+			onClick={onClick}
 			{...props}
 		>
 			{children}

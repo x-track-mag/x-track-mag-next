@@ -41,7 +41,7 @@ const MobileNav = ({ links, onNavigate, ...moreStyle }) => (
 		{...moreStyle} // important to pass display none
 	>
 		{links.map((link, i) => (
-			<MobileNavLink key={`nav-${i}`} href={link.href} onNavigate={onNavigate}>
+			<MobileNavLink key={`nav-${i}`} href={link.href} onClick={onNavigate}>
 				{link.text}
 			</MobileNavLink>
 		))}
