@@ -1,8 +1,6 @@
 {
 	"uid": "shibuya-nights",
-	"tags": [
-		"music"
-	],
+	"tags": ["music"],
 	"publication_date": "2020-11-25T09:21:56+0000",
 	"title": "SHIBUYA NIGHTS",
 	"subtitle": "We never sleep",
@@ -38,9 +36,9 @@
 					"title": "Indie Rock by Zipang"
 				},
 				{
-					"url": "https://sorrybanduk.bandcamp.com/album/925",
+					"url": "https://radvxz.bandcamp.com/album/patched-up",
 					"html": "<div data-type=\"album\"><a href=\"https://sorrybanduk.bandcamp.com/album/925\"><h1>925, by Sorry</h1><img src=\"https://f4.bcbits.com/img/a0766055681_5.jpg\"><p>13 track album</p></a></div>",
-					"title": "925, by Sorry"
+					"title": "Patched Up, by Beabadoobee"
 				}
 			]
 		}
