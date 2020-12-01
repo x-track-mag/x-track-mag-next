@@ -56,6 +56,22 @@
 	],
 	"sections": [
 		{
+			"uid": "lhysterie",
+			"tags": [],
+			"publication_date": "2020-12-01T18:49:48+0000",
+			"title": "L'hystérie ",
+			"subtitle": "",
+			"image": null,
+			"video_loop": {
+				"name": "dont-call-me-babe.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/e75801b2-e219-475d-8a4d-9a5646bdac3e_dont-call-me-babe.mp4",
+				"size": "1020624"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null
+		},
+		{
 			"uid": "polycool",
 			"tags": [
 				"article",
