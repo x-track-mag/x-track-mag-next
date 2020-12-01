@@ -4,8 +4,8 @@
 		"video"
 	],
 	"publication_date": "2020-12-01T16:07:24+0000",
-	"title": "Episode 1 : Tuto : Comment préparer un martini dry tout en larguant son amant.",
-	"subtitle": "",
+	"title": "Episode 1 : Tuto",
+	"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
 	"image": null,
 	"video_loop": {
 		"name": "Yayaya_Youtube_16_9 (1).mp4",
@@ -20,20 +20,9 @@
 			"template": "section-video-launcher",
 			"text": [
 				{
-					"type": "heading3",
+					"type": "paragraph",
 					"text": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  ",
-					"spans": [
-						{
-							"start": 0,
-							"end": 133,
-							"type": "em"
-						},
-						{
-							"start": 0,
-							"end": 133,
-							"type": "strong"
-						}
-					]
+					"spans": []
 				}
 			],
 			"link": {
@@ -53,7 +42,14 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/cftxA8fTS_w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"image": null
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2838,
+				"height": 1580,
+				"ratio": 1.7962025316455696
+			}
 		}
 	]
 }
