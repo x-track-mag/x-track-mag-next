@@ -1,0 +1,291 @@
+{
+	"uid": "polycool",
+	"tags": [
+		"Profil "
+	],
+	"publication_date": "2020-12-01T17:38:07+0000",
+	"title": "Polycool",
+	"subtitle": "",
+	"image": null,
+	"video_loop": {
+		"name": "Sans titre.mov",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
+		"size": "462073"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": "Avec “Lemon Lord”, le groupe Polycool nous dresse une ode au Seigneur Citron ",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/242a78c7-00a1-4fac-8516-2798fde52fbf_Capture+d%E2%80%99e%CC%81cran+2020-12-01+a%CC%80+18.13.54.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2350,
+				"height": 1670,
+				"ratio": 1.407185628742515
+			}
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 392,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/41b5ccee-d3d0-4d3e-b7d4-93f9a6c86136_ME%CC%81DIA+CULTURE+POLYCOOL+MUSIQUE.png?auto=compress,format&rect=0,0,2874,1563&w=1024&h=557",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 557,
+					"ratio": 1.8384201077199283
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "C’est dans l'étroite cave d'un immeuble parisien, non loin du Cirque d'Hiver, que se trouve le studio de répétition du groupe Polycool. Entre les vinyles éparpillés estampillés de truites sauteuses et quelques synthétiseurs tout droit sortie du film “Retour Vers le Futur, cet espace exigu semble renfermer tous les secrets de fabrication du quatuor. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Tino Gelli, chanteur barbu et chevelu du groupe nous accueille tout sourire. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": " On s'est installés ici, il y a près de 10 ans. C'est la cave des parents de Solal, le batteur du groupe ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "Du rock expérimental à la pop smooth ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 37,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Car l'histoire de Polycool ne remonte pas d'hier. Jonas, Leon, Solal et Tino se rencontrent au collège, à une période où les bébés rockers régnaient en maître sur le paysage musical parisien. Pour pallier à leur manque d'assurance dans la cour de récré et pour réaliser leur rêve de jouer collectivement, la joyeuse bande décide de se constituer en groupe.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/88351be4-1431-4119-93d1-1af0b5ec615b_CULTURE+MUSIQUE+POLYCOOL+WEBZINE.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2824,
+				"height": 1530,
+				"ratio": 1.8457516339869282
+			}
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Remontons le temps. A l’époque les gens cools font du rock. On les appelle les babyrockers et ils jouent au Gibus. Et nous, pendant un temps, ça nous a attirés parce que nous aussi, on voulait enfin être cool. Sauf qu’on n’avait pas le niveau pour les dépasser et heureusement, on n’a jamais intégré ce milieu. Aujourd'hui, ils n'existent plus et nous, on a continué à faire notre musique » Jonas- claviériste ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "A l'époque, les influences du groupe sont à la lisière entre un rock expérimental proche de Santana et l'univers vaporo-psyché de Pink Floyd. Au fil des années et la maturité venant, l'identité musicale de Polycool – anciennement Abraxas – s'est affinée, prenant aujourd'hui les contours d'une pop smooth et acidulée, enrobée de sonorités 80's et portée par la voix liquoreuse de Tino Gelli.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": " Pour ce qui est des inspirations anciennes, il y a Pink Floyd, Santana et bien d'autres mais il y a aussi plusieurs groupes qui à la fin des années 2010 nous ont inspirés. Les Late of The Pier, les premiers sons de Metronomy, ou encore les premiers albums de Connan Mockasin nous ont bercés. On a senti à ce moment-là que la pop devenait un peu notre base, que la pop prenait un virage ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "De la musique à la BD : Lemon Lord is everywhere ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 49,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Mais Polycool, c'est aussi un univers esthétique sans pareil. Cette sensibilité se retrouve  dans chacun de leurs clips, pensés et réalisés avec soin par le groupe lui-même accompagné du duo de vidéastes Clément Métayer et Léo Schrepel.  ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Avec “Lemon Lord”, véritable album concept, Polycool gravit un échelon dans l’exploration graphique, en proposant en parallèle des morceaux une BD loufoque retraçant le mythe du Seigneur Citron. De la formation de l’univers par un dénommé John Lemon à sa rencontre avec son pire ennemi Panic System : tous les mystères de la création nous sont dévoilés. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Pour cet album, la dimension iconographique découle du projet de troisième année des Beaux Arts de Tino et c'est ça qui nous a lancés dans l'esthétique de l'album et l'histoire qui est venue par la suite. On décide toujours tous ensemble, mais c'est vraiment Tino qui a travaillé sur l'artwork de l'album, qui a dessiné une partie de la BD avec Jonas- Léon, bassiste-astrophysicien du groupe. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Souvent, on fait la musique et la question de l'artwork vient après, car ça nous prend beaucoup de temps. Mais Tino va avoir tendance à proposer une idée qui va souvent faire consensus - Solal",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Quand on est artiste indépendant comme nous, on a pas d'autre choix que de travailler sur notre image, sur des supports graphiques de qualité. On a toujours fait nos artworks dans l’ensemble de nos projets, ajoute le chanteur. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "De véritables bêtes de scène ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 29,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "De véritables bêtes de scène ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 29,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Pour parfaire le tout, les Polycool sont de véritables bêtes de scène. Les membres n’hésitent pas à jouer sur l’aspect performatif de cette exercice et à inviter sur le plateau leur acolyte de toujours : la Crampe. Cet étrange personnage cagoulé, à l’identité secrète est présent dans chacune de leurs représentations, entraînant le public dans un délire collectif . ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "“ La Crampe est un personnage qui me met très à l'aise. En concert il est là, il se met derrière nous, il interagit avec le public. C'est un personnage qui nous suit depuis des années, mais qui a enfilé sa cagoule il y a de ça quatre cinq ans” confie Solal. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 258,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "“Vu que la Crampe fait partie de la Cosmogonie de notre religion, Seigneur Citron, l’inviter sur scène permet de faire rentrer le public dans notre univers” conclut Léon. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 156,
+							"type": "em"
+						},
+						{
+							"start": 157,
+							"end": 171,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Si vous aussi vous avez envie de vivre cette expérience extraordinaire, un seul conseil : aller voir Polycool en concert. ",
+					"spans": []
+				}
+			]
+		}
+	]
+}
