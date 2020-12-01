@@ -81,6 +81,21 @@ export const Tag = ({ textColor, children }) => (
 	</Text>
 );
 
+export const VerticalText = ({ children, ...moreStyles }) => (
+	<Text
+		display="block"
+		fontSize="0.8rem"
+		fontWeight="600"
+		lineHeight="1em"
+		marginBottom="8rem"
+		transform="rotate(-90deg)"
+		transformOrigin="100% 100%"
+		{...moreStyles}
+	>
+		{children}
+	</Text>
+);
+
 export const Caption = ({ children, ...moreStyles }) => (
 	<Text
 		display="block"

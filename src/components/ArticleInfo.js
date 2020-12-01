@@ -1,5 +1,5 @@
 import { Box, Text, Flex } from "@chakra-ui/react";
-import Typography from "@components/base/Typography";
+import { Tag, VerticalText } from "@components/base/Typography";
 import SvgArrowReturn from "@components/icons/SvgArrowReturn.js";
 import IconButton from "@components/icons/IconButton.js";
 import { colors } from "@styles/theme.js";
@@ -54,30 +54,15 @@ const ArticleInfo = ({
 		{...overrideStyle}
 	>
 		{displayBackArrow && <BackArrow />}
-		<Text
-			as="div"
-			textColor={textColor}
-			textAlign="right"
-			transform="rotate(-90deg) translateX(100%)"
-			transformOrigin="100% 100%"
-		>
-			{formatDate(publication_date)}
-		</Text>
-		<Text
-			as="div"
-			textColor={textColor}
-			textTransform="uppercase"
-			transform="rotate(-90deg) translateX(50%)"
-			transformOrigin="100% 100%"
-			whiteSpace="nowrap"
-		>
+		<VerticalText>{formatDate(publication_date)}</VerticalText>
+		<VerticalText textColor={textColor} textTransform="uppercase" whiteSpace="nowrap">
 			{author}
-		</Text>
+		</VerticalText>
 		<div className="tags">
 			{tags.map((tag) => (
-				<Typography.Tag key={tag} textColor={textColor}>
+				<Tag key={tag} textColor={textColor}>
 					{tag}
-				</Typography.Tag>
+				</Tag>
 			))}
 		</div>
 	</Flex>
