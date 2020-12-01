@@ -3,21 +3,36 @@ import Container from "@components/base/Container";
 import { RichText } from "@components/base/Typography";
 import Image from "next/image";
 
+const isImageFirst = (columnsOrder) =>
+	columnsOrder.toLowerCase().split(" | ")[0] === "image";
+
 /**
  * A two columns/responsive container with a rich text column and an image
  * @param {JSXElement} props
- * @param {Object} props.article the main article
  * @param {Object} props.text rich text content
  * @param {Object} props.image
+ * @param {Boolean} [props.fullPage=false] Use the full page width instead of the responsive container
+ *
  */
-const SectionTwoColumns = ({ article, image, text, ...props }) => (
-	<Box as="section" className="section-video-launcher" {...props}>
+const SectionTwoColumns = ({
+	image,
+	text,
+	full_page = false,
+	columns_order = "Texte | Image",
+	...props
+}) => (
+	<Box as="section" className="section-two-columns" {...props}>
 		<Container
 			as={Grid}
-			templateColumns={{ base: "100%", lg: "60% auto" }}
+			fluid={full_page}
+			templateColumns={
+				full_page
+					? { base: "100%", lg: "50% auto" }
+					: { base: "100%", lg: "60% auto" }
+			}
 			gap={["0", "0", "2rem"]}
 		>
-			<GridItem pb="2rem">
+			<GridItem padding={full_page ? "4rem 0 4rem 2rem" : "0 2rem"}>
 				<RichText>{text}</RichText>
 			</GridItem>
 			<GridItem

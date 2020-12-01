@@ -1,10 +1,10 @@
 import { chakra } from "@chakra-ui/react";
 
-const Container = ({ children, ...moreStyles }) => (
+const Container = ({ children, fluid = false, ...moreStyles }) => (
 	<chakra.div
 		className="container"
 		width="100%"
-		maxWidth={["95%", "75%", "60ch"]}
+		maxWidth={fluid ? ["100%"] : ["95%", "75%", "60ch"]}
 		m="0 auto"
 		p="2rem 0"
 		{...moreStyles}
