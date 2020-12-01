@@ -10,7 +10,7 @@ import { RichText } from "@components/base/Typography";
  */
 const SectionFullText = ({ article, text, ...props }) => (
 	<Box as="section" className="section-full-text" {...props}>
-		<Container padding="3rem 0">
+		<Container padding="1rem 0">
 			<RichText>{text}</RichText>
 		</Container>
 	</Box>
