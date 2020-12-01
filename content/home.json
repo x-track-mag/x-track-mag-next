@@ -178,27 +178,6 @@
 			"internal_link": null
 		},
 		{
-			"uid": "dans-les-vapes",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2020-11-23T22:29:29+0000",
-			"title": "Dans les vapes",
-			"subtitle": "Psshhhhh",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1125,
-				"ratio": 1.7777777777777777
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Hunther Thompson",
-			"internal_link": null
-		},
-		{
 			"uid": "nola-cherri",
 			"tags": [
 				"video",
