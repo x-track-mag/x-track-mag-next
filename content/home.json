@@ -18,6 +18,16 @@
 	],
 	"selected_reads": [
 		{
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"title": "Episode 1 : Tuto",
+			"image": null,
+			"video_loop": {
+				"name": "Yayaya_Youtube_16_9 (1).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d812b36-3c87-4ade-99a6-1e5757b4e2be_Yayaya_Youtube_16_9+%281%29.mp4",
+				"size": "5555894"
+			}
+		},
+		{
 			"uid": "martin-parr",
 			"title": "Martin Parr",
 			"image": {
@@ -27,6 +37,19 @@
 				"width": 1280,
 				"height": 854,
 				"ratio": 1.4988290398126465
+			},
+			"video_loop": null
+		},
+		{
+			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/6410f52c-afd2-43f7-9d30-e3b8efab6484_NeonV3%281%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1920,
+				"ratio": 1
 			},
 			"video_loop": null
 		}
