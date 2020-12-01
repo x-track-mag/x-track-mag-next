@@ -1,39 +1,23 @@
 import { Box } from "@chakra-ui/react";
 import Container from "@components/base/Container";
 import Typography from "@components/base/Typography";
-import ReactPlayer from "react-player";
-
-const buildPlayer = ({ link }, i) => (
-	<Container className="playlist-container" key={`playlist-${i}`}>
-		<Typography.Subtitle textColor="black">{link.title}</Typography.Subtitle>
-
-		<ReactPlayer
-			url={link.embed_url}
-			width="100%"
-			height={link.height}
-			config={{
-				youtube: {
-					playerVars: {
-						autoplay: 0,
-						loop: 1,
-						modestbranding: 1,
-						hl: "fr"
-					}
-				}
-			}}
-		/>
-	</Container>
-);
+import MediaPlayer from "@components/players/MediaPlayer";
 
 /**
  * A list of media players
  * @param {JSXElement} props
  * @param {String} props.article the main Article
- * @param {String} props.playlist the rich text content to describe the video
+ * @param {Array} props.playlist
  */
 const SectionPlaylist = ({ article, playlist, ...props }) => (
 	<Box as="section" className="section-playlist" {...props}>
-		{playlist.map(buildPlayer)}
+		{playlist.map((media, i) => (
+			<Container className="playlist-container" key={`playlist-${i}`}>
+				<Typography.Subtitle textColor="black">{media.title}</Typography.Subtitle>
+
+				<MediaPlayer url={media.url} />
+			</Container>
+		))}
 	</Box>
 );
 
