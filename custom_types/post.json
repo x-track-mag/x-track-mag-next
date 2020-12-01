@@ -78,6 +78,7 @@
 					"section-two-columns": [],
 					"section-quote": [],
 					"section-playlist": [],
+					"section-gallery": [],
 					"section-video-launcher": []
 				},
 				"choices": {
@@ -207,6 +208,26 @@
 								"config": {
 									"label": "Lien de la playlist",
 									"placeholder": "Un lien vers la playlist à intégrer (Spotify, Youtube Music, Mixcloud..)"
+								}
+							}
+						}
+					},
+
+					"section-gallery": {
+						"type": "Slice",
+						"fieldset": "Gallerie",
+						"description": "Une section d'images ..",
+						"icon": "album",
+						"display": "list",
+						"non-repeat": {},
+						"repeat": {
+							"image": {
+								"type": "Image",
+								"config": {
+									"constraint": {
+										"width": 1024
+									},
+									"label": "Image"
 								}
 							}
 						}

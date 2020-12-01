@@ -4,7 +4,8 @@ import {
 	SectionQuote,
 	SectionVideoLauncher,
 	SectionTwoColumns,
-	SectionPlaylist
+	SectionPlaylist,
+	SectionGallery
 } from "./index.js";
 
 /**
@@ -33,6 +34,9 @@ export const SectionResolver = ({ article, section, ...more }) => {
 			break;
 		case "section-playlist":
 			return <SectionPlaylist article={article} {...sectionProps} {...more} />;
+			break;
+		case "section-gallery":
+			return <SectionGallery article={article} {...sectionProps} {...more} />;
 			break;
 
 		default:

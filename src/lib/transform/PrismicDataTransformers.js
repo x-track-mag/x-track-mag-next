@@ -83,6 +83,9 @@ export const transformSection = (sectionData) => {
 	if (template === "section-playlist") {
 		sectionFields.playlist = sectionData.items.map(fixMediaLink);
 	}
+	if (template === "section-gallery") {
+		sectionFields.gallery = sectionData.items.map(({ image }) => fixImage(image));
+	}
 
 	return {
 		template,
@@ -167,15 +170,17 @@ export const transformHome = (homeData, posts) => {
 			position,
 			uid: link.uid
 		})),
-		selected_reads: selected_reads.map(({ link }) => {
-			const relatedPost = posts.find((p) => p.uid === link.uid);
-			return {
-				uid: link.uid,
-				title: relatedPost.title,
-				image: relatedPost.image,
-				video_loop: relatedPost.video_loop
-			};
-		}),
+		selected_reads: selected_reads
+			.filter(({ link }) => posts.find((p) => p.uid === link.uid)) // Here some selected reads may have been deleted or archived
+			.map(({ link }) => {
+				const relatedPost = posts.find((p) => p.uid === link.uid);
+				return {
+					uid: link.uid,
+					title: relatedPost.title,
+					image: relatedPost.image,
+					video_loop: relatedPost.video_loop
+				};
+			}),
 		sections
 	};
 };
