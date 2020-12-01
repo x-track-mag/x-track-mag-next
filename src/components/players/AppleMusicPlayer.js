@@ -14,19 +14,25 @@ export const getEmbedUrl = (originUrl, lang = "fr") => {
 	return `https://embed.music.apple.com/fr/${media_type}/${media_name}/${media_id}`;
 };
 
-const AppleMusicPlayer = ({ url, lang = "fr", width = "100%", height = "600px" }) =>
+/**
+ *
+ * @param {JSX.Element} props
+ * @param {String} url Shared URL
+ * @param {String} lang ISO language code of the player
+ */
+const AppleMusicPlayer = ({ url, width = "100%", height = "600px", lang = "fr" }) =>
 	url && (
 		<iframe
-			allow="autoplay *; encrypted-media *; fullscreen *"
-			frameborder="0"
+			src={getEmbedUrl(url, lang)}
+			width={width}
 			height={height}
+			allow="autoplay *; encrypted-media *; fullscreen *"
+			frameBorder="0"
 			style={{
-				width: width,
 				overflow: "hidden",
 				background: "transparent"
 			}}
 			sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-			src={getEmbedUrl(url, lang)}
 		></iframe>
 	);
 

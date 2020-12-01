@@ -1,16 +1,17 @@
 import SpotifyPlayer from "./SpotifyPlayer.js";
 import AppleMusicPlayer from "./AppleMusicPlayer.js";
+import OpenWhydPlayer from "./OpenWhydPlayer.js";
 import ReactPlayer from "react-player";
 import { AspectRatio } from "@chakra-ui/react";
 
-const MediaPlayer = ({ url, html, ...more }) => {
+const MediaPlayer = ({ url, ...more }) => {
 	if (!url) return null;
 
 	if (!url.startsWith("https")) {
 		return (
 			<div>
-				{url} is not a valid media link. Use the shareable link to the media you
-				want to share
+				<code>{url}</code> is not a valid media link. Use the shareable link to
+				the media you want to share
 			</div>
 		);
 	}
@@ -21,6 +22,10 @@ const MediaPlayer = ({ url, html, ...more }) => {
 
 	if (/apple/.test(url)) {
 		return <AppleMusicPlayer url={url} {...more} />;
+	}
+
+	if (/openwhyd/.test(url)) {
+		return <OpenWhydPlayer url={url} {...more} />;
 	}
 
 	return (

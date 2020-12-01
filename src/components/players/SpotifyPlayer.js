@@ -15,13 +15,13 @@ export const getEmbedUrl = (originUrl) => {
 const SpotifyPlayer = ({ url, title = "", width = "100%", height = "600px" }) =>
 	url && (
 		<iframe
+			src={getEmbedUrl(url)}
+			title={title}
 			width={width}
 			height={height}
 			allowtransparency="true"
-			frameborder="0"
+			frameBorder="0"
 			allow="encrypted-media"
-			title={title}
-			src={getEmbedUrl(url)}
 		></iframe>
 	);
 
