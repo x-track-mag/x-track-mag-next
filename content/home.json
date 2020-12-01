@@ -56,18 +56,39 @@
 	],
 	"sections": [
 		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-01T20:30:14+0000",
+			"title": "Les apparences trompeuses du pretty privilege",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4617a503-2389-4e9a-bf03-cf5f5edafc43_PRETTY+PRIVILEGE.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1500,
+				"height": 2095,
+				"ratio": 0.7159904534606205
+			},
+			"video_loop": null,
+			"template": "2: Image + Titre + infos",
+			"author": null,
+			"internal_link": null
+		},
+		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
 			],
 			"publication_date": "2020-12-01T18:49:48+0000",
-			"title": "L'hystérie ",
+			"title": "DON'T CALL ME BABE ",
 			"subtitle": "",
 			"image": null,
 			"video_loop": {
-				"name": "dont-call-me-babe.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/e75801b2-e219-475d-8a4d-9a5646bdac3e_dont-call-me-babe.mp4",
-				"size": "1020624"
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
 			},
 			"template": "3: Image + Titre",
 			"author": null,
