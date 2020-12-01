@@ -37,3 +37,8 @@
 		url("/fonts/PressGothicPro.otf") format("otf");
 	font-weight: 700;
 }
+
+::selection {
+	color: orange;
+	background-color: springgreen;
+}
