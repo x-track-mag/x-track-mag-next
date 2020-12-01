@@ -9,13 +9,14 @@ import HeroText from "@components/base/HeroText";
  * @param {String} [subtitle] Titre secondaire
  * @param {Object} [image] Image background
  */
-const SectionHero = ({ article = {}, title, subtitle, image }) => {
+const SectionHero = ({ article = {}, title, subtitle, image, video_loop }) => {
 	const imageContainer = useRef();
 	return (
 		<section className="hero-section" ref={imageContainer}>
 			<BackgroundImageContainer
 				className="hero-image"
 				image={image || article.image}
+				video_loop={video_loop || article.video_loop}
 			/>
 			<HeroText
 				title={title || article.title}

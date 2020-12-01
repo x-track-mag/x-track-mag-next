@@ -61,7 +61,7 @@ const BackgroundImageContainer = ({
 					layout="fill"
 				/>
 			)}
-			{video_loop && (
+			{!image && video_loop && (
 				<BackgroundVideo
 					videoOptions={{
 						src: video_loop.url,

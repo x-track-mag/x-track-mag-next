@@ -5,16 +5,25 @@ import { SectionResolver, SectionSelectedReads } from "@components/sections/inde
 
 const PostPage = ({
 	uid,
-	image,
 	title,
 	subtitle,
+	image,
+	video_loop,
 	author,
 	publication_date,
 	tags,
 	sections,
 	selected_reads
 }) => {
-	const article = { title, subtitle, image, author, publication_date, tags };
+	const article = {
+		title,
+		subtitle,
+		image,
+		video_loop,
+		author,
+		publication_date,
+		tags
+	};
 	const isArticle = tags.includes("article");
 	return (
 		<>
@@ -25,7 +34,7 @@ const PostPage = ({
 				publication_date={publication_date}
 				tags={tags}
 			/>
-			{isArticle && <SectionHero image={image} />}
+			{isArticle && <SectionHero article={article} />}
 			{sections.map((section, i) => (
 				<SectionResolver
 					key={`section-${i}`}
