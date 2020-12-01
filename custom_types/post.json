@@ -91,16 +91,18 @@
 						"non-repeat": {
 							"title": {
 								"type": "Text",
+								"default": "--blank--",
 								"config": {
 									"label": "Accroche",
-									"placeholder": "Accroche (laissez vide pour reprendre le titre de l'article)"
+									"placeholder": "Accroche (laissez vide >> titre de l'article, --blank-- >> pas de titre)"
 								}
 							},
 							"subtitle": {
 								"type": "Text",
+								"default": "--blank--",
 								"config": {
 									"label": "Accroche secondaire",
-									"placeholder": "Accroche secondaire (laissez vide pour reprendre le sous-titre de l'article)"
+									"placeholder": "Accroche secondaire (laissez vide >> sous-titre de l'article, --blank-- >> pas de sous-titre)"
 								}
 							},
 							"image": {
