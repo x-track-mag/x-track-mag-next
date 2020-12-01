@@ -1,6 +1,7 @@
 import SpotifyPlayer from "./SpotifyPlayer.js";
 import AppleMusicPlayer from "./AppleMusicPlayer.js";
 import OpenWhydPlayer from "./OpenWhydPlayer.js";
+import BandCampPlayer from "./BandCampPlayer.js";
 import ReactPlayer from "react-player";
 import { AspectRatio } from "@chakra-ui/react";
 
@@ -22,6 +23,10 @@ const MediaPlayer = ({ url, ...more }) => {
 
 	if (/apple/.test(url)) {
 		return <AppleMusicPlayer url={url} {...more} />;
+	}
+
+	if (/bandcamp/.test(url)) {
+		return <BandCampPlayer url={url} {...more} />;
 	}
 
 	if (/openwhyd/.test(url)) {
