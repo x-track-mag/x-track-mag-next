@@ -9,7 +9,7 @@
 	"image": null,
 	"video_loop": {
 		"name": "Yayaya_Youtube_16_9 (1).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/319e8a03-ae5e-4a9d-8b84-1baba27344ea_Yayaya_Youtube_16_9+%281%29.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d812b36-3c87-4ade-99a6-1e5757b4e2be_Yayaya_Youtube_16_9+%281%29.mp4",
 		"size": "5555894"
 	},
 	"template": "3: Image + Titre",
@@ -20,9 +20,20 @@
 			"template": "section-video-launcher",
 			"text": [
 				{
-					"type": "paragraph",
+					"type": "heading3",
 					"text": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  ",
-					"spans": []
+					"spans": [
+						{
+							"start": 0,
+							"end": 133,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 133,
+							"type": "strong"
+						}
+					]
 				}
 			],
 			"link": {
