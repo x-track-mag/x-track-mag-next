@@ -44,9 +44,10 @@ const heroStyles = {
 export const navLinkStyles = {
 	fontFamily: "body",
 	fontWeight: 600,
-	textColor: "inherit",
+	textColor: "black",
 	textTransform: "uppercase",
 	textDecoration: "none",
+	style: { mixBlendMode: "exclusion" },
 
 	_focus: {
 		lineHeight: "0.3em",
@@ -66,8 +67,7 @@ export const navLinkStyles = {
  * Header navigation style
  */
 export const headerLinkStyles = {
-	...navLinkStyles,
-	textColor: "black"
+	...navLinkStyles
 };
 
 /**
@@ -120,6 +120,17 @@ export const Link = ({ href = "#", children, onNavigate, ...props }) => (
 			{children}
 		</ChakraLink>
 	</NextLink>
+);
+
+/**
+ * Use Chakra-UI to style a button as a navlink
+ * @param {JSX.Element} props
+ * @param {String} props.href Absolute or relative URL to go by
+ */
+export const NavButton = ({ children, ...props }) => (
+	<ChakraLink as="button" fontSize="inherit" {...navLinkStyles} {...props}>
+		{children}
+	</ChakraLink>
 );
 
 /**

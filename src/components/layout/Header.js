@@ -1,5 +1,10 @@
 import { useState } from "react";
-import { navigate, MobileNavLink, HeaderNavLink } from "@components/base/Links";
+import {
+	navigate,
+	MobileNavLink,
+	HeaderNavLink,
+	NavButton
+} from "@components/base/Links";
 
 import { Heading, Flex } from "@chakra-ui/react";
 import SvgLogo from "@components/icons/SvgLogo";
@@ -105,13 +110,12 @@ const Header = () => {
 					display={{ base: "none", lg: "flex" }}
 				/>
 
-				<HeaderNavLink
-					as="button"
+				<NavButton
 					display={{ base: "block", lg: "none" }} // show in mobile first, hide when breakpoint is lg and over
 					onClick={toggleMobileMenu}
 				>
 					MENU
-				</HeaderNavLink>
+				</NavButton>
 			</Flex>
 
 			<MobileNav

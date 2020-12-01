@@ -29,7 +29,11 @@ export const fonts = {
 		brand1: "PressGothicPro, serif",
 		brand2: "Arachne, serif"
 	},
-	monospace: "Menlo, monospace"
+	monospace: "Menlo, monospace",
+	_selection: {
+		textColor: "brand.green",
+		bgColor: "brand.orange"
+	}
 };
 
 const styles = {
