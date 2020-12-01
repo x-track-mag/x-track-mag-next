@@ -15,10 +15,11 @@ const SectionVideoLauncher = ({ article, text, link, ...props }) => (
 	<Box as="section" className="section-video-launcher" {...props}>
 		<Container
 			as={Grid}
+			fluid={true}
 			templateColumns={{ base: "100%", lg: "40% auto" }}
 			gap={{ base: "0", lg: "2rem" }}
 		>
-			<GridItem pb="2rem">
+			<GridItem padding="2rem">
 				<Title>{article.title}</Title>
 				<Subtitle>{article.subtitle}</Subtitle>
 				<Box pt="1rem">
@@ -26,12 +27,13 @@ const SectionVideoLauncher = ({ article, text, link, ...props }) => (
 				</Box>
 			</GridItem>
 			<GridItem
+				padding="2rem"
 				as={Flex}
 				flexDirection="column"
 				alignItems="center"
 				justifyContent="center"
 			>
-				<AspectRatio ratio={{ base: 16 / 9, lg: 4 / 3 }} width="100%">
+				<AspectRatio ratio={16 / 9} width="100%">
 					<ReactPlayer
 						url={link.embed_url}
 						light={article.image ? article.image.url : false} // display the image as vignette

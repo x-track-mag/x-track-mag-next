@@ -20,8 +20,14 @@ const SectionGallery = ({ gallery }) => (
 			spacing={{ base: "0", md: "2rem" }}
 			height={{ base: "250px", md: "40vh" }}
 		>
-			{gallery.map((image) => (
-				<Box position="relative" className="column" width="100%" height="100%">
+			{gallery.map((image, i) => (
+				<Box
+					position="relative"
+					className="column"
+					width="100%"
+					height="100%"
+					key={`gallery-column-${i}`}
+				>
 					<BackgroundImageContainer image={image} />
 				</Box>
 			))}
