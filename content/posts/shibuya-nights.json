@@ -31,6 +31,16 @@
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBJHn5KGmHj3hjzGOTjgKQF",
 					"html": "<div data-type=\"website\"><a href=\"http://www.youtube.com/playlist?list=PLLJkxWPTDgMBJHn5KGmHj3hjzGOTjgKQF\"><h1>Best ”XTrack“ of the Week</h1><img src=\"https://i.ytimg.com/vi/gwIAOn88Klw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLByPOJ1Hf0V6lIJG7ZWMViZvwPkHg&days_since_epoch=18597\"><p>Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week/ Les meilleurs sons de la semaine & +++</p></a></div>",
 					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://openwhyd.org/u/520122f77e91c862b2af9625/playlist/3",
+					"html": "<div data-type=\"website\"><a href=\"https://openwhyd.org/u/520122f77e91c862b2af9625/playlist/3\"><h1>Indie Rock by Zipang</h1><img src=\"https://openwhyd.org/img/playlist/520122f77e91c862b2af9625_3\"><p>Discover and collect music gems from Youtube, Soundcloud, Deezer and more</p></a></div>",
+					"title": "Indie Rock by Zipang"
+				},
+				{
+					"url": "https://sorrybanduk.bandcamp.com/album/925",
+					"html": "<div data-type=\"album\"><a href=\"https://sorrybanduk.bandcamp.com/album/925\"><h1>925, by Sorry</h1><img src=\"https://f4.bcbits.com/img/a0766055681_5.jpg\"><p>13 track album</p></a></div>",
+					"title": "925, by Sorry"
 				}
 			]
 		}
