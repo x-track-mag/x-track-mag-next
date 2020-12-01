@@ -1,6 +1,8 @@
 {
 	"uid": "funky-flashback",
-	"tags": ["music"],
+	"tags": [
+		"music"
+	],
 	"publication_date": "2020-11-23T22:38:12+0000",
 	"title": "Funky Flashback",
 	"subtitle": "FOR LOVERS ONLY",
@@ -28,9 +30,9 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-xlyN3a3uvNPRE",
+					"url": "https://open.spotify.com/playlist/37i9dQZF1DWXncK9DGeLh7",
 					"html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Flashback\" src=\"https://open.spotify.com/embed/playlist/37i9dQZF1DWXncK9DGeLh7\"></iframe>",
-					"title": "Best XTrack of the Week"
+					"title": "Flashback"
 				},
 				{
 					"url": "https://youtu.be/QH3Fx41Jpl4",

@@ -23,11 +23,6 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://soundcloud.com/dazzed_music/dazzed",
-					"html": "<iframe width=\"100%\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F238082993&show_artwork=true\"></iframe>",
-					"title": "Dazzed_ by Dazzed_Music"
-				},
-				{
 					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=HqtU-vjWQdOaYCGpWRF7Nw",
 					"html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Feel Good\" src=\"https://open.spotify.com/embed/playlist/7i5AWqfgXI86G30l56Coff?si=HqtU-vjWQdOaYCGpWRF7Nw\"></iframe>",
 					"title": "Feel Good"
