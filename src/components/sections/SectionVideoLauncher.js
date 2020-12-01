@@ -34,7 +34,7 @@ const SectionVideoLauncher = ({ article, text, link, ...props }) => (
 				<AspectRatio ratio={{ base: 16 / 9, lg: 4 / 3 }} width="100%">
 					<ReactPlayer
 						url={link.embed_url}
-						light={article.image.url} // display the image as vignette
+						light={article.image ? article.image.url : false} // display the image as vignette
 						width="100%"
 						height="100%"
 						playIcon={<SvgPlayerIcon size="4rem" />}
