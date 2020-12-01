@@ -1,3 +1,4 @@
+import fs from "fs-extra";
 import baseDir from "../../dirname.cjs";
 import { loadEnv } from "../lib/utils/Env.js";
 import extractData from "../lib/extract/prismic.js";
@@ -8,7 +9,7 @@ import extractData from "../lib/extract/prismic.js";
 const run = async () => {
 	try {
 		loadEnv();
-		await extractData("/", "content", true);
+		await extractData({ fs, baseDir, contentDir: "content", pushToRepo: false });
 		process.exit(0);
 	} catch (err) {
 		console.error(err);

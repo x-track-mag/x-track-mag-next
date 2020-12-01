@@ -1,4 +1,4 @@
-import fs from "memfs";
+import memfs from "memfs";
 import path from "path";
 import { getPosts, getPages, getEntry } from "../../lib/clients/PrismicClient.js";
 import {
@@ -12,9 +12,15 @@ import ServerError from "../../lib/ServerError.js";
  * Call the CMS API to extract posts data
  * and serialize them inside the content/posts directory
  */
-const extractPostsData = async (contentDir, filesPath) => {
+const extractPostsData = async (fs, contentDir, filesPath) => {
+	if (!fs.existsSync(contentDir)) {
+		throw new Error(`Content dir does not exist : ${contentDir}`);
+	}
+
 	const postsDir = path.join(contentDir, "posts");
-	fs.mkdirSync(postsDir);
+	if (!fs.existsSync(postsDir)) {
+		fs.mkdirSync(postsDir);
+	}
 
 	let posts = await getPosts();
 
@@ -47,7 +53,7 @@ const extractPostsData = async (contentDir, filesPath) => {
 /**
  * Call the CMS API to extract data and serialize it inside the conten directory
  */
-export const extractPagesData = async (contentDir, filesPath) => {
+export const extractPagesData = async (fs, contentDir, filesPath) => {
 	if (!fs.existsSync(contentDir)) {
 		throw new Error(`Content dir does not exist : ${contentDir}`);
 	}
@@ -78,9 +84,16 @@ export const extractPagesData = async (contentDir, filesPath) => {
 /**
  * Extract posts and pages data inside the content directory
  * Then commit the content directory to the git repo
+ * By default, it uses a memory file system this is why baseDir is set to a virtual root ("/")
  */
-export const extractData = async (baseDir, contentDir, pushToRepo = false) => {
+export const extractData = async ({
+	fs = memfs,
+	baseDir = "/",
+	contentDir,
+	pushToRepo = false
+}) => {
 	try {
+		// Check that content dir exists and create it if needed
 		const contentFullPath = path.join(baseDir, contentDir);
 		if (!fs.existsSync(contentFullPath)) {
 			fs.mkdirSync(contentFullPath);
@@ -88,8 +101,8 @@ export const extractData = async (baseDir, contentDir, pushToRepo = false) => {
 		const filesPath = [];
 
 		await Promise.all([
-			extractPostsData(contentFullPath, filesPath),
-			extractPagesData(contentFullPath, filesPath)
+			extractPostsData(fs, contentFullPath, filesPath),
+			extractPagesData(fs, contentFullPath, filesPath)
 		]);
 
 		if (!pushToRepo) return;

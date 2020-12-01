@@ -23,7 +23,7 @@ const update = async (req, resp) => {
 		// 	message: `Received Prismic update hook : base dir is "${baseDir}"`,
 		// 	env: process.env
 		// });
-		const status = await extractData("/", "content", true);
+		const status = await extractData({ contentDir: "content", pushToRepo: true });
 		resp.json({ success: true, message: "New content is being redeployed" });
 	} catch (error) {
 		resp.status(500).json({
