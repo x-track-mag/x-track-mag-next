@@ -9,6 +9,7 @@ const noOutline = {
 };
 
 const baseLinkStyles = {
+	textColor: "black",
 	_focus: noOutline,
 	_active: noOutline,
 	textDecoration: "none",
@@ -44,10 +45,8 @@ const heroStyles = {
 export const navLinkStyles = {
 	fontFamily: "body",
 	fontWeight: 600,
-	textColor: "black",
 	textTransform: "uppercase",
 	textDecoration: "none",
-	style: { mixBlendMode: "exclusion" },
 
 	_focus: {
 		lineHeight: "0.3em",

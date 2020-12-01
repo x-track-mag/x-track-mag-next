@@ -2,6 +2,7 @@ import { useRouter } from "next/router";
 import { Box, Flex } from "@chakra-ui/react";
 import { NavLink } from "@components/base/Links";
 import SvgHub from "@components/icons/SvgHub";
+import { navLinkStyles } from "@components/base/Links";
 
 const footerStyle = {
 	position: "fixed",
@@ -11,7 +12,7 @@ const footerStyle = {
 	padding: "0 2rem",
 	alignItems: "center",
 	justify: "space-between",
-	textColor: "white"
+	textColor: "black"
 };
 
 /**
@@ -20,19 +21,23 @@ const footerStyle = {
  */
 const Footer = () => {
 	const router = useRouter();
-	const textColor = router.route === "/" ? "white" : "black";
+	// const textColor = router.route === "/" ? "white" : "black";
 
 	return (
-		<Flex as="footer" id="page-footer" {...footerStyle} textColor={textColor}>
+		<Flex as="footer" id="page-footer" {...footerStyle}>
 			<NavLink href="https://x-track.net">
-				<SvgHub color={textColor} size="2rem" />
+				<SvgHub size="2rem" />
 			</NavLink>
 			<NavLink href="https://www.instagram.com/xtrackmag">Instagram</NavLink>
 			<NavLink href="https://open.spotify.com/user/x2swd5kbhnscczttswze3y9gy">
 				Spotify
 			</NavLink>
 
-			<Box display={{ base: "none", sm: "block" }} id="copyright">
+			<Box
+				display={{ base: "none", sm: "block" }}
+				id="copyright"
+				{...navLinkStyles}
+			>
 				(c) X-TRACK MAG {new Date().getFullYear()}
 			</Box>
 		</Flex>
