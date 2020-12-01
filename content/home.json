@@ -56,6 +56,27 @@
 	],
 	"sections": [
 		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-01T20:30:14+0000",
+			"title": "Les apparences trompeuses du pretty privilege",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4617a503-2389-4e9a-bf03-cf5f5edafc43_PRETTY+PRIVILEGE.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1500,
+				"height": 2095,
+				"ratio": 0.7159904534606205
+			},
+			"video_loop": null,
+			"template": "2: Image + Titre + infos",
+			"author": null,
+			"internal_link": null
+		},
+		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
