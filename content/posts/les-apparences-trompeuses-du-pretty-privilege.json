@@ -20,19 +20,6 @@
 	"internal_link": null,
 	"sections": [
 		{
-			"template": "section-hero",
-			"title": null,
-			"subtitle": null,
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4617a503-2389-4e9a-bf03-cf5f5edafc43_PRETTY+PRIVILEGE.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1500,
-				"height": 2095,
-				"ratio": 0.7159904534606205
-			}
-		},
-		{
 			"template": "section-quote",
 			"text": [
 				{
