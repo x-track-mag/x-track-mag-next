@@ -1,11 +1,19 @@
-import { chakra, Text } from "@chakra-ui/react";
+import { Text, Box } from "@chakra-ui/react";
+import { motion } from "framer-motion";
 import { RichText as PrismicRichTextRenderer, Elements } from "prismic-reactjs";
 import { fixImage } from "@lib/transform/PrismicDataTransformers";
 import EmbeddedImage from "./EmbeddedImage";
 import { EmbeddedLink } from "./Links";
 
+/**
+ * This will allow us to animate all this typographic elements
+ * with framer-motion properties
+ */
+const MotionBox = motion.custom(Box);
+
 export const Title = ({ children, ...moreStyles }) => (
-	<chakra.h2
+	<MotionBox
+		as="h2"
 		fontFamily="Arachne"
 		fontSize="3.2rem"
 		lineHeight="3.2rem"
@@ -14,11 +22,12 @@ export const Title = ({ children, ...moreStyles }) => (
 		{...moreStyles}
 	>
 		{children}
-	</chakra.h2>
+	</MotionBox>
 );
 
 export const Subtitle = ({ children, ...moreStyles }) => (
-	<chakra.h3
+	<MotionBox
+		as="h3"
 		fontFamily="PressGothicPro"
 		fontSize="3.2rem"
 		lineHeight="3.4rem"
@@ -27,11 +36,12 @@ export const Subtitle = ({ children, ...moreStyles }) => (
 		{...moreStyles}
 	>
 		{children}
-	</chakra.h3>
+	</MotionBox>
 );
 
 export const Message = ({ children }) => (
-	<chakra.span
+	<Box
+		className="message"
 		fontFamily="Arachne"
 		fontSize="2.8rem"
 		fontWeight="600"
@@ -41,11 +51,12 @@ export const Message = ({ children }) => (
 		m="0"
 	>
 		{children}
-	</chakra.span>
+	</Box>
 );
 
-export const Blockquote = ({ text }) => (
-	<chakra.blockquote
+export const Blockquote = ({ text, ...moreStyles }) => (
+	<MotionBox
+		as="blockquote"
 		fontFamily="Arachne"
 		fontSize="1.2rem"
 		lineHeight="1.6rem"
@@ -54,16 +65,16 @@ export const Blockquote = ({ text }) => (
 		padding={["3rem 4.5rem", "3.5rem 6rem", "4rem 6.6rem"]}
 		border="solid black 5px"
 		borderRadius="100%"
+		{...moreStyles}
 	>
 		{Array.isArray(text)
 			? text.map((paragraph, i) => <p key={`blocquote-p-${i}`}>{paragraph.text}</p>)
 			: { text }}
-	</chakra.blockquote>
+	</MotionBox>
 );
 
 export const Tag = ({ textColor, children }) => (
-	<Text
-		as="div"
+	<Box
 		fontFamily="PressGothicPro"
 		textColor={textColor}
 		fontSize="1.2rem"
@@ -78,12 +89,11 @@ export const Tag = ({ textColor, children }) => (
 		borderRadius="100%"
 	>
 		{children}
-	</Text>
+	</Box>
 );
 
 export const VerticalText = ({ children, ...moreStyles }) => (
-	<Text
-		display="block"
+	<Box
 		fontSize="0.8rem"
 		fontWeight="600"
 		lineHeight="1em"
@@ -93,12 +103,11 @@ export const VerticalText = ({ children, ...moreStyles }) => (
 		{...moreStyles}
 	>
 		{children}
-	</Text>
+	</Box>
 );
 
 export const Caption = ({ children, ...moreStyles }) => (
-	<Text
-		display="block"
+	<Box
 		fontSize="0.8rem"
 		lineHeight="1em"
 		margin="0.25em 0"
@@ -107,7 +116,7 @@ export const Caption = ({ children, ...moreStyles }) => (
 		{...moreStyles}
 	>
 		{children}
-	</Text>
+	</Box>
 );
 
 export const RichText = ({ children }) => (
