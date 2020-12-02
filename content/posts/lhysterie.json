@@ -20,6 +20,16 @@
 			"template": "section-full-text",
 			"text": [
 				{
+					"type": "heading2",
+					"text": "L’expression « féministe hystérique » : un oxymore à bannir ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
 					"type": "paragraph",
 					"text": "« Folle », « radicale », « extrémiste », « too much »… tous ces mots sont utilisés pour décrire les femmes dont les idées et propos contredisent les valeurs traditionnelles de notre société. ",
 					"spans": [
@@ -49,31 +59,10 @@
 					"type": "paragraph",
 					"text": "Mot parapluie, définition large, origines misogynes… On comprend pourquoi les professionnels de santé évitent de plus en plus d’utiliser ce terme. Pourtant, il a la peau dure, et le langage courant en est témoin. Dans ce cas précis, l’hystérie est définie comme une « excitation violente, inattendue, spectaculaire et qui paraît exagérée » (source : CNRTL). Cette définition n’est pas genrée, mais, étrangement, elle s’applique peu aux hommes.",
 					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+				},
 				{
 					"type": "heading2",
 					"text": "Hystérie, synonyme de discrédit",
-					"spans": [
-						{
-							"start": 0,
-							"end": 31,
-							"type": "strong"
-						}
-					]
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
-				{
-					"type": "paragraph",
-					"text": "",
 					"spans": []
 				},
 				{
@@ -111,38 +100,18 @@
 					"type": "paragraph",
 					"text": "Que l’on en soit conscient.e ou pas, dire à une femme qu’elle est hystérique discrédite son discours. « L’idée principale pour moi c’est que ça me donne le sentiment profond que ma colère n’est pas légitime. Comme les fameux ‘t’es énervée parce que t’as tes règles ?’, tu vois ce que je veux dire ? » Cette qualification illustre le stéréotype selon lequel les femmes ne seraient pas des êtres raisonnables car poussées par leurs sentiments et/ou leurs émotions. Dans ce cas précis, l’hystérie étant considérée historiquement comme une pathologie féminine, on retrouve cette idée que, si les femmes s’emportent un tant soit peu, c’est à la fois insensé, naturel et irréversible puisqu’elles sont faites comme ça.",
 					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+				},
 				{
 					"type": "heading2",
 					"text": "Hystérique, oui et alors ?",
-					"spans": [
-						{
-							"start": 0,
-							"end": 26,
-							"type": "strong"
-						}
-					]
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+					"spans": []
+				},
 				{
 					"type": "paragraph",
-					"text": " A travers le récit de Julia, on comprend également qu’insulter une féministe d’hystérique lorsqu’elle revendique ses idées revient à dire que ces dernières la rendent violente, et ce de manière injustifiée. Mais est-ce inexplicablement violent de ne pas vouloir harcelée dans la rue, d’exiger un salaire égal à celui de son collègue, ou encore de souhaiter s’habiller comme on l’entend ? Qu’y a-t-il de si « spectaculaire » ou « exagéré » dans le combat féministe qui rappellerait l’hystérie ? Le fait que la féministe en question s’énerve ne change pas la donne : pourquoi devrait-on rester de marbre lorsqu’on est victime d’une injustice ?",
+					"text": "A travers le récit de Julia, on comprend également qu’insulter une féministe d’hystérique lorsqu’elle revendique ses idées revient à dire que ces dernières la rendent violente, et ce de manière injustifiée. Mais est-ce inexplicablement violent de ne pas vouloir harcelée dans la rue, d’exiger un salaire égal à celui de son collègue, ou encore de souhaiter s’habiller comme on l’entend ? Qu’y a-t-il de si « spectaculaire » ou « exagéré » dans le combat féministe qui rappellerait l’hystérie ? Le fait que la féministe en question s’énerve ne change pas la donne : pourquoi devrait-on rester de marbre lorsqu’on est victime d’une injustice ?",
 					"spans": []
 				}
 			]
-		},
-		{
-			"template": "section-full-text",
-			"text": []
 		}
 	]
 }
