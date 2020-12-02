@@ -14,7 +14,8 @@ const ScrollingNews = ({ messages = [], delay = 500 }) => {
 				width: "100%",
 				overflow: "hidden",
 				top: "5rem",
-				height: "4em"
+				height: "4em",
+				zIndex: 999
 			}}
 		>
 			<Ticker>{() => <Message>{message}</Message>}</Ticker>
