@@ -5,9 +5,9 @@ import HeroText from "@components/base/HeroText";
 
 import { HeroLink } from "@components/base/Links";
 import ArticleInfo from "@components/ArticleInfo";
-import Typography from "@components/base/Typography";
+import { Title, Subtitle } from "@components/base/Typography";
 import Container from "@components/base/Container";
-import { Box, Grid, GridItem, AspectRatio, Flex } from "@chakra-ui/react";
+import { Box, SimpleGrid, AspectRatio, Flex } from "@chakra-ui/react";
 import Image from "next/image";
 
 /**
@@ -156,13 +156,7 @@ export const Template3 = ({ uid, link_to, title = "", image, video_loop }) => {
 };
 
 /**
- * Use the fourth template to display the post entry
-    displayImage: true,
-    displayTitle: true,
-    displaySubtitle: false,
-    displayInfo: false,
-    focusOnHover: false,
-    displayFooter: true
+ * Use the fourth template to display an image with the title in a footer
  * @param {JsXElement} props
  * @param {String} [props.title] Titre principal
  * @param {String} [props.subtitle] Titre secondaire
@@ -190,7 +184,7 @@ export const Template4 = ({ uid, link_to, title = "", image, video_loop }) => {
 					position="relative"
 				/>
 				<Box as="footer" height="4rem" flexGrow="0" pt="0.5rem" width="100%">
-					<Typography.Subtitle textColor="black">{title}</Typography.Subtitle>
+					<Subtitle textColor="black">{title}</Subtitle>
 				</Box>
 			</Flex>
 		</HeroLink>
@@ -217,21 +211,27 @@ export const Template5 = ({ uid, link_to, title = "", image }) => {
 	return (
 		<section className={clsx("hero-section", "template5")} key={uid} id={uid}>
 			<HeroLink href={link_to}>
-				<Container
-					as={Grid}
-					templateColumns={["100%", "100%", "50% 50%"]}
-					gap={["0", "0", "2rem", "4rem"]}
-				>
-					<GridItem pb="2rem">
-						<Typography.Subtitle textColor="brand.orange" textAlign="right">
+				<Container as={SimpleGrid} columns={{ base: 1, sm: 2 }} spacing="2rem">
+					<Flex
+						flexDirection="column"
+						justifyContent="center"
+						alignContent="flex-start"
+					>
+						<Subtitle
+							textColor="brand.orange"
+							textAlign="right"
+							whileHover={{ scale: 1.4 }}
+							zIndex="99"
+						>
 							{title}
-						</Typography.Subtitle>
-					</GridItem>
-					<GridItem
-						as={Flex}
+						</Subtitle>
+					</Flex>
+					<Flex
 						flexDirection="column"
 						alignItems="center"
 						justifyContent="center"
+						padding="2rem 0"
+						display={{ base: "none", sm: "block" }}
 					>
 						<AspectRatio ratio={image.ratio} width="100%">
 							<Image
@@ -241,7 +241,7 @@ export const Template5 = ({ uid, link_to, title = "", image }) => {
 								objectFit="contain"
 							/>
 						</AspectRatio>
-					</GridItem>
+					</Flex>
 				</Container>
 			</HeroLink>
 		</section>
