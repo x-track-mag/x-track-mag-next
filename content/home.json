@@ -56,6 +56,27 @@
 	],
 	"sections": [
 		{
+			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2020-12-02T18:36:31+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week/ Les meilleurs sons de la semaine & +++",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/22f8feaf-8463-448a-be2c-94323950ecb8_img.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 980,
+				"height": 1470,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null
+		},
+		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 			"tags": [],
 			"publication_date": "2020-12-02T10:44:45+0000",
@@ -227,29 +248,6 @@
 			},
 			"template": "3: Image + Titre",
 			"author": null,
-			"internal_link": null
-		},
-		{
-			"uid": "nola-cherri",
-			"tags": [
-				"video",
-				"music",
-				"live session"
-			],
-			"publication_date": "2020-11-12T22:42:44+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2850,
-				"height": 1608,
-				"ratio": 1.7723880597014925
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassia",
 			"internal_link": null
 		}
 	]

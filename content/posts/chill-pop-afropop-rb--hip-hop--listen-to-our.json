@@ -1,0 +1,43 @@
+{
+	"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2020-12-02T18:36:31+0000",
+	"title": "Best ”XTrack“ of the Week",
+	"subtitle": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week/ Les meilleurs sons de la semaine & +++",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/22f8feaf-8463-448a-be2c-94323950ecb8_img.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 980,
+		"height": 1470,
+		"ratio": 0.6666666666666666
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week /  Les meilleurs sons de la semaine & +++",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=o-3SMLmwRb6nG7QTMenkoQ",
+					"html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Best ”XTrack“ of the Week\" src=\"https://open.spotify.com/embed/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=o-3SMLmwRb6nG7QTMenkoQ\"></iframe>",
+					"title": "Best ”XTrack“ of the Week"
+				}
+			]
+		}
+	]
+}
