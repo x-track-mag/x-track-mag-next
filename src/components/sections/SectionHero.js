@@ -1,4 +1,5 @@
 import { useRef } from "react";
+import { Box } from "@chakra-ui/react";
 import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
 import HeroText from "@components/base/HeroText";
 
@@ -11,10 +12,17 @@ import HeroText from "@components/base/HeroText";
  * @param {Object} [props.image] Image background
  * @param {Object} [props.video_loop] Loop video (if no background image)
  */
-const SectionHero = ({ article = {}, title, subtitle, image, video_loop }) => {
+const SectionHero = ({
+	article = {},
+	title = "--blank--",
+	subtitle = "--blank--",
+	image,
+	video_loop,
+	...moreStyle
+}) => {
 	const imageContainer = useRef();
 	return (
-		<section className="hero-section" ref={imageContainer}>
+		<Box as="section" className="hero-section" ref={imageContainer} {...moreStyle}>
 			<BackgroundImageContainer
 				className="hero-image"
 				image={image || article.image}
@@ -25,7 +33,7 @@ const SectionHero = ({ article = {}, title, subtitle, image, video_loop }) => {
 				title={title || article.title}
 				subtitle={subtitle || article.subtitle}
 			/>
-		</section>
+		</Box>
 	);
 };
 
