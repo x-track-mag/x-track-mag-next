@@ -6,16 +6,16 @@ import HeroText from "@components/base/HeroText";
 /**
  * A fullscreen image or loop with big hero text
  * @param {JsXElement} props
- * @param {Object} [props.article] The main article from which to derive default title, subtile or loop
- * @param {String} [props.title] Titre principal
- * @param {String} [props.subtitle] Titre secondaire
- * @param {Object} [props.image] Image background
- * @param {Object} [props.video_loop] Loop video (if no background image)
+ * @param {Object} [props.article] The main article from which to derive default title, subtile and background
+ * @param {String} [props.title] Main Hero title. Use --blank-- to not display
+ * @param {String} [props.subtitle] Sub Hero title. Use --blank-- to not display
+ * @param {Object} [props.image] Background image
+ * @param {Object} [props.video_loop] Background video loop (if no background image)
  */
 const SectionHero = ({
 	article = {},
-	title = "--blank--",
-	subtitle = "--blank--",
+	title,
+	subtitle,
 	image,
 	video_loop,
 	...moreStyle

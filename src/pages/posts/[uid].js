@@ -34,7 +34,14 @@ const PostPage = ({
 				publication_date={publication_date}
 				tags={tags}
 			/>
-			{isArticle && <SectionHero article={article} />}
+			{isArticle && (
+				<SectionHero
+					article={article}
+					title="--blank--"
+					subtitle="--blank--"
+					pb="4rem"
+				/>
+			)}
 			{sections.map((section, i) => (
 				<SectionResolver
 					key={`section-${i}`}
