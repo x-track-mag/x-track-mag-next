@@ -15,7 +15,7 @@
 		"ratio": 1.4988290398126465
 	},
 	"video_loop": null,
-	"template": "6: Image + Titre + sous-titre + infos + hover",
+	"template": "3: Image + Titre",
 	"author": "Aphelandra Siassia",
 	"internal_link": null,
 	"sections": [
