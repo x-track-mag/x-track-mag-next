@@ -7,12 +7,12 @@
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Chill, Pop, Afropop, R&B, & Hip Hop",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/22f8feaf-8463-448a-be2c-94323950ecb8_img.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/715d467b-9953-49c0-babf-300af5cab095_126104134_758331958089627_3127191953454400533_o.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 980,
-		"height": 1470,
-		"ratio": 0.6666666666666666
+		"width": 1500,
+		"height": 1500,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
