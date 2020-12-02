@@ -249,6 +249,44 @@ export const Template5 = ({ uid, link_to, title = "", image }) => {
 };
 
 /**
+ * Use the third template to display the post entry
+    displayImage: true,
+    displayTitle: true,
+    displaySubtitle: false,
+    displayInfo: false,
+    focusOnHover: true,
+    displayFooter: false
+ * @param {JsXElement} props
+ * @param {String} [props.title] Titre principal
+ * @param {String} [props.subtitle] Titre secondaire
+ * @param {Object} [props.image] Background Image
+ * @param {String} [props.author]
+ * @param {ISODate} [props.publication_date]
+ * @param {Array<String>} [props.tags]
+ */
+export const Template6 = ({ uid, link_to, title = "", subtitle }) => {
+	return (
+		<Box
+			as="section"
+			padding="4rem 2rem"
+			minHeight={{ base: "auto", md: "33vh" }}
+			key={uid}
+			id={uid}
+		>
+			<HeroLink href={link_to}>
+				<HeroText
+					title={title}
+					subtitle={subtitle}
+					textColor="black"
+					fontSize="4rem"
+					lineHeight="1em"
+				/>
+			</HeroLink>
+		</Box>
+	);
+};
+
+/**
  * Use the original template to display the post entry
     displayImage: true,
     displayTitle: true,
@@ -264,7 +302,7 @@ export const Template5 = ({ uid, link_to, title = "", image }) => {
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template6 = ({
+export const Template7 = ({
 	uid,
 	link_to,
 	title = "",
@@ -300,7 +338,8 @@ const templates = [
 	Template3,
 	Template4,
 	Template5,
-	Template6
+	Template6,
+	Template7
 ];
 
 /**
