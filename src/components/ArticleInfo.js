@@ -1,4 +1,4 @@
-import { Box, Text, Flex } from "@chakra-ui/react";
+import { Box, Flex } from "@chakra-ui/react";
 import { Tag, VerticalText } from "@components/base/Typography";
 import SvgArrowReturn from "@components/icons/SvgArrowReturn.js";
 import IconButton from "@components/icons/IconButton.js";
@@ -54,7 +54,7 @@ const ArticleInfo = ({
 		{...overrideStyle}
 	>
 		{displayBackArrow && <BackArrow />}
-		<VerticalText>{formatDate(publication_date)}</VerticalText>
+		<VerticalText textColor={textColor}>{formatDate(publication_date)}</VerticalText>
 		<VerticalText textColor={textColor} textTransform="uppercase" whiteSpace="nowrap">
 			{author}
 		</VerticalText>
