@@ -3,7 +3,7 @@ import { SectionResolver } from "@components/sections/index.js";
 
 const StaticPage = ({ uid, sections }) => {
 	return sections.map((section, i) => (
-		<SectionResolver key={`section-${i}`} section={section} />
+		<SectionResolver key={`section-${i}`} section={section} full_page={true} />
 	));
 };
 
