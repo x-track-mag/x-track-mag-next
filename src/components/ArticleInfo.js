@@ -43,8 +43,8 @@ const ArticleInfo = ({
 		as="aside"
 		position={position}
 		zIndex="9"
-		top={position === "absolute" ? "12rem" : "4rem"}
-		bottom={position === "absolute" ? "1rem" : "4rem"}
+		top="4rem"
+		bottom={position === "absolute" ? "1rem" : "4rem"} // position absolute is used inside a section
 		right="2rem"
 		width="1rem"
 		flexDirection="column"
