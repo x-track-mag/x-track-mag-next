@@ -46,13 +46,7 @@ export const Template1 = ({
 			id={uid}
 		>
 			<BackgroundImageContainer image={image} video_loop={video_loop} />
-			<ArticleInfo
-				position="absolute"
-				{...articleInfo}
-				bottom="0.5rem"
-				top="7rem"
-				textColor="white"
-			/>
+			<ArticleInfo position="absolute" {...articleInfo} textColor="white" />
 			<HeroLink href={link_to}>
 				<HeroText title={title} subtitle={subtitle} textColor="white" />
 			</HeroLink>
@@ -94,13 +88,7 @@ export const Template2 = ({
 			id={uid}
 		>
 			<BackgroundImageContainer image={image} video_loop={video_loop} />
-			<ArticleInfo
-				position="absolute"
-				{...articleInfo}
-				bottom="0.5rem"
-				top="7rem"
-				textColor="white"
-			/>
+			<ArticleInfo position="absolute" {...articleInfo} textColor="white" />
 			<HeroLink
 				href={link_to}
 				onMouseEnter={() => setBlurred(true)}
@@ -249,20 +237,10 @@ export const Template5 = ({ uid, link_to, title = "", image }) => {
 };
 
 /**
- * Use the third template to display the post entry
-    displayImage: true,
-    displayTitle: true,
-    displaySubtitle: false,
-    displayInfo: false,
-    focusOnHover: true,
-    displayFooter: false
+ * White Background, Black title and sub title
  * @param {JsXElement} props
  * @param {String} [props.title] Titre principal
  * @param {String} [props.subtitle] Titre secondaire
- * @param {Object} [props.image] Background Image
- * @param {String} [props.author]
- * @param {ISODate} [props.publication_date]
- * @param {Array<String>} [props.tags]
  */
 export const Template6 = ({ uid, link_to, title = "", subtitle }) => {
 	return (
