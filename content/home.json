@@ -18,16 +18,6 @@
 	],
 	"selected_reads": [
 		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"title": "Episode 1 : Tuto",
-			"image": null,
-			"video_loop": {
-				"name": "Yayaya_Youtube_16_9 (1).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d812b36-3c87-4ade-99a6-1e5757b4e2be_Yayaya_Youtube_16_9+%281%29.mp4",
-				"size": "5555894"
-			}
-		},
-		{
 			"uid": "martin-parr",
 			"title": "Martin Parr",
 			"image": {
@@ -171,6 +161,29 @@
 			"internal_link": null
 		},
 		{
+			"uid": "nola-cherri",
+			"tags": [
+				"video",
+				"music",
+				"live session"
+			],
+			"publication_date": "2020-11-12T22:42:44+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2850,
+				"height": 1608,
+				"ratio": 1.7723880597014925
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia",
+			"internal_link": null
+		},
+		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
@@ -229,24 +242,6 @@
 			},
 			"video_loop": null,
 			"template": "5: 2 colonnes Titre + Image",
-			"author": null,
-			"internal_link": null
-		},
-		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2020-12-01T16:07:24+0000",
-			"title": "Episode 1 : Tuto",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"image": null,
-			"video_loop": {
-				"name": "Yayaya_Youtube_16_9 (1).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d812b36-3c87-4ade-99a6-1e5757b4e2be_Yayaya_Youtube_16_9+%281%29.mp4",
-				"size": "5555894"
-			},
-			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null
 		}
