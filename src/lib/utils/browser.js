@@ -36,18 +36,27 @@ export const localScroll = (hash) => {
 };
 
 /**
- * Simple numeric hash of a string, used for non-secure usage only
+ * Scroll to the top of the page
+ */
+export const scrollTop = () => {
+	if (!document) return false; // Prevent errors during SSR rendering
+	window.scrollTo(0, 0);
+	document.body.focus();
+};
+
+/**
+ * Generate hash for a string, used for non-secure usage only
  * @param str
- * @param namespace
+ * @param {String} [namespace=""]
  * @returns {string}
  */
-export const generateStringHash = (str, namespace) => {
-	const nmspace = namespace || "";
+export const hash = (str, namespace = "") => {
 	let hash = 0;
+	if (str.length === 0) return `${namespace}__${hash}`;
+
 	let i;
 	let chr;
-	if (str.length === 0) return `${nmspace}__${hash}`;
-	const strr = `${nmspace}_${str}`;
+	const strr = `${namespace}_${str}`;
 	for (i = 0; i < strr.length; i += 1) {
 		chr = strr.charCodeAt(i);
 		// eslint-disable-next-line
@@ -55,43 +64,44 @@ export const generateStringHash = (str, namespace) => {
 		// eslint-disable-next-line
 		hash |= 0; // Convert to 32bit integer
 	}
-	return `${nmspace}__${hash}`;
+	return `${namespace}__${hash}`;
 };
 
 /**
- * Load javascript file by path
- * @param path
+ * Load javascript file by href
+ * @param href
  * @param attributes
  * @returns {Promise}
  */
-export const loadScript = (path, attributes = {}) => {
-	const pathHash = generateStringHash(path, "JS").toString();
-	if (loadPromises[pathHash]) return loadPromises[pathHash];
+export const loadScript = (href, attributes = {}) => {
+	const uid = hash(href, "SCRIPT");
 
-	loadPromises[pathHash] = new Promise((resolve, reject) => {
+	// Wait if it is pending
+	if (loadPromises[uid]) return loadPromises[uid];
+
+	loadPromises[uid] = new Promise((resolve, reject) => {
 		if (!isBrowser()) {
 			// If not a browser then do not allow loading of
 			// css file, return with success->false
 			return reject(
 				new Error(
-					"Cannot call from server. Function can be executed only from browser"
+					"SSR call not supported. loadScript() can only be executed inside the browser"
 				)
 			);
 		}
 
 		// Do not load script if already loaded
-		const previousLink = document.getElementById(pathHash);
+		const previousLink = document.getElementById(uid);
 		if (previousLink) {
 			resolve();
 			return previousLink;
 		}
 
-		let r;
-		r = false;
+		let r = false;
 		const s = document.createElement("script");
 		s.type = "text/javascript";
-		s.id = pathHash;
-		s.src = path;
+		s.id = uid;
+		s.src = href;
 		s.defer = true;
 		// eslint-disable-next-line
 		s.onload = s.onreadystatechange = function () {
@@ -108,24 +118,28 @@ export const loadScript = (path, attributes = {}) => {
 		t.parentNode.insertBefore(s, t);
 		return s;
 	});
-	return loadPromises[pathHash];
+	return loadPromises[uid];
 };
 
-export const loadStyle = (path) => {
-	_checkFile(path) && appendStyle(path);
+/**
+ * Dynamically append a stylesheet to the document head
+ * @param {String} href URL of the stylesheet
+ */
+export const loadStyle = (href) => {
+	_checkFile(href) && appendStyle(href);
 };
 
-const _checkFile = (path) => Boolean(_loadedFiles.indexOf(`[${path}]` === -1));
+const _checkFile = (href) => Boolean(_loadedFiles.indexOf(`[${href}]` === -1));
 
-const appendStyle = (path) => {
+const appendStyle = (href) => {
 	if (!isBrowser()) return false;
 
 	const fileRef = document.createElement("link");
 	fileRef.setAttribute("rel", "stylesheet");
 	fileRef.setAttribute("type", "text/css");
-	fileRef.setAttribute("href", path);
+	fileRef.setAttribute("href", href);
 
 	document.getElementsByTagName("head")[0].appendChild(fileRef);
 
-	return Boolean((_loadedFiles += `[${path}]`));
+	return Boolean((_loadedFiles += `[${href}]`));
 };
