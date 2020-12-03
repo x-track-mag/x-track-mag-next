@@ -5,7 +5,7 @@
 	],
 	"publication_date": "2020-12-02T18:36:31+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Chill, Pop, Afropop, R&B, & Hip Hop",
+	"subtitle": "",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/715d467b-9953-49c0-babf-300af5cab095_126104134_758331958089627_3127191953454400533_o.jpg?auto=compress,format",
 		"alt": null,
@@ -23,7 +23,7 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "paragraph",
+					"type": "heading3",
 					"text": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week /  Les meilleurs sons de la semaine & +++",
 					"spans": []
 				}
@@ -36,6 +36,22 @@
 					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=o-3SMLmwRb6nG7QTMenkoQ",
 					"html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Best ”XTrack“ of the Week\" src=\"https://open.spotify.com/embed/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=o-3SMLmwRb6nG7QTMenkoQ\"></iframe>",
 					"title": "Best ”XTrack“ of the Week"
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				null
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://deezer.page.link/2j1QebGYhGeegGsNA",
+					"html": "<div data-type=\"playlist\"><a href=\"https://www.deezer.com/us/playlist/4099699282\"><h1>Best ”XTrack“ of the Week | Listen on Deezer</h1><img src=\"https://cdns-images.dzcdn.net/images/playlist/59ee3200ffc97d5b485adfeffec6736c/500x500.jpg\"><p>Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week / Les meilleurs sons de la semaine & +++</p></a></div>",
+					"title": "Best ”XTrack“ of the Week | Listen on Deezer"
 				}
 			]
 		}
