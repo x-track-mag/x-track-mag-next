@@ -1,6 +1,6 @@
 import { Box, AspectRatio } from "@chakra-ui/react";
 import Image from "next/image";
-import Typography from "./Typography";
+import { Caption } from "./Typography";
 
 /**
  * Use a Next.JS responsive Image component inside an AspectRatio container
@@ -22,13 +22,9 @@ const EmbeddedImage = ({ image, width = "100%", ...more }) => {
 						layout="fill"
 					/>
 				</AspectRatio>
-				{image.alt && (
-					<Typography.Caption as="figurecaption">
-						{image.alt}
-					</Typography.Caption>
-				)}
+				{image.alt && <Caption as="figurecaption">{image.alt}</Caption>}
 				{image.copyright && (
-					<Typography.Caption as="figurecaption">{`© ${image.copyright}`}</Typography.Caption>
+					<Caption as="figurecaption">{`© ${image.copyright}`}</Caption>
 				)}
 			</Box>
 		);

@@ -108,11 +108,12 @@ export const VerticalText = ({ children, ...moreStyles }) => (
 
 export const Caption = ({ children, ...moreStyles }) => (
 	<Box
+		display="block"
+		width="100%"
+		textAlign="center"
 		fontSize="0.8rem"
 		lineHeight="1em"
 		margin="0.25em 0"
-		textAlign="center"
-		width="100%"
 		{...moreStyles}
 	>
 		{children}
