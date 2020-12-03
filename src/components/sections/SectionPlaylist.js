@@ -9,16 +9,24 @@ import MediaPlayer from "@components/players/MediaPlayer";
  * @param {String} props.article the main Article
  * @param {Array} props.playlist
  */
-const SectionPlaylist = ({ article, playlist, ...props }) => (
-	<Box as="section" className="section-playlist" {...props}>
-		{playlist.map((media, i) => (
-			<Container className="playlist-container" key={`playlist-${i}`}>
-				<Typography.Subtitle textColor="black">{media.title}</Typography.Subtitle>
+const SectionPlaylist = ({ article, playlist, ...props }) => {
+	if (!playlist || playlist.length === 0) return null;
+	return (
+		<Box as="section" className="section-playlist" {...props}>
+			{playlist.map(
+				(media, i) =>
+					media && (
+						<Container className="playlist-container" key={`playlist-${i}`}>
+							<Typography.Subtitle textColor="black">
+								{media.title}
+							</Typography.Subtitle>
 
-				<MediaPlayer url={media.url} />
-			</Container>
-		))}
-	</Box>
-);
+							<MediaPlayer url={media.url} />
+						</Container>
+					)
+			)}
+		</Box>
+	);
+};
 
 export default SectionPlaylist;
