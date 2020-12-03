@@ -67,63 +67,26 @@
 			"internal_link": null
 		},
 		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"uid": "about-us",
 			"tags": [],
-			"publication_date": "2020-12-02T10:44:45+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"publication_date": "2020-11-25T07:48:20+0000",
+			"title": "Qui sommes nous ?",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": null,
-			"internal_link": null
-		},
-		{
-			"uid": "polycool",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2020-12-01T17:38:07+0000",
-			"title": "Polycool",
-			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "Sans titre.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
-				"size": "462073"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null
-		},
-		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-01T20:30:14+0000",
-			"title": "Les apparences trompeuses du pretty privilege",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
 				"alt": null,
 				"copyright": null,
 				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
+				"height": 1125,
+				"ratio": 1.7777777777777777
 			},
 			"video_loop": null,
-			"template": "2: Image + Titre + infos",
+			"template": "3: Image + Titre",
 			"author": null,
-			"internal_link": null
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			}
 		},
 		{
 			"uid": "2020-is-the-year",
@@ -140,24 +103,22 @@
 			"internal_link": null
 		},
 		{
-			"uid": "martin-parr",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-11-10T12:59:45+0000",
-			"title": "Martin Parr",
-			"subtitle": "Un Monde à Parr",
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [],
+			"publication_date": "2020-12-02T10:44:45+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1280,
-				"height": 854,
-				"ratio": 1.4988290398126465
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
 			},
 			"video_loop": null,
-			"template": "2: Image + Titre + infos",
-			"author": "Aphelandra Siassia",
+			"template": "5: 2 colonnes Titre + Image",
+			"author": null,
 			"internal_link": null
 		},
 		{
@@ -184,6 +145,27 @@
 			"internal_link": null
 		},
 		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-01T20:30:14+0000",
+			"title": "Les apparences trompeuses du pretty privilege",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null,
+			"template": "2: Image + Titre + infos",
+			"author": null,
+			"internal_link": null
+		},
+		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
@@ -202,26 +184,23 @@
 			"internal_link": null
 		},
 		{
-			"uid": "about-us",
-			"tags": [],
-			"publication_date": "2020-11-25T07:48:20+0000",
-			"title": "Qui sommes nous ?",
+			"uid": "polycool",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2020-12-01T17:38:07+0000",
+			"title": "Polycool",
 			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1125,
-				"ratio": 1.7777777777777777
+			"image": null,
+			"video_loop": {
+				"name": "Sans titre.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
+				"size": "462073"
 			},
-			"video_loop": null,
 			"template": "3: Image + Titre",
 			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			}
+			"internal_link": null
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
@@ -243,6 +222,27 @@
 			"video_loop": null,
 			"template": "5: 2 colonnes Titre + Image",
 			"author": null,
+			"internal_link": null
+		},
+		{
+			"uid": "martin-parr",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-11-10T12:59:45+0000",
+			"title": "Martin Parr",
+			"subtitle": "Un Monde à Parr",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null,
+			"template": "2: Image + Titre + infos",
+			"author": "Aphelandra Siassia",
 			"internal_link": null
 		}
 	]
