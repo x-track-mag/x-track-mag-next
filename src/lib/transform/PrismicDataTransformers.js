@@ -40,19 +40,20 @@ export const fixLink = (link) => {
 };
 
 /**
- * Prismic embeddable media link format is.. way to verbose
+ * Prismic embeddable media link format is unreliable.. and way to verbose
  * @param {Object} link
  * @return {LinkDescr}
  */
 export const fixMediaLink = ({ link }) => {
 	console.log("Received media link", JSON.stringify(link));
 	if (!link || !link.embed_url) return null;
-	return { url: link.embed_url, html: link.html, title: link.title };
+	const url = (link.url || link.embed_url).replace("http:", "https:"); // OMG Prismic.. you provide an http URL for youtube links !?
+	return { url, title: link.title };
 };
 
 /**
  * Prismic video format is also broken 
- * Example: 
+ * Example for an empty media : 
  *  "video_loop": {
 		"type": "Media"
 	}
