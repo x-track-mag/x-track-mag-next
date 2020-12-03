@@ -62,7 +62,7 @@
 				"music",
 				"live session"
 			],
-			"publication_date": "2020-11-12T22:42:44+0000",
+			"publication_date": "2020-12-03T10:58:53+0000",
 			"title": "Nola Cherri",
 			"subtitle": "Live Session",
 			"image": {
@@ -83,7 +83,7 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2020-12-02T18:36:31+0000",
+			"publication_date": "2020-12-03T14:00:07+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "",
 			"image": {
@@ -97,6 +97,88 @@
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": null,
+			"internal_link": null
+		},
+		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-03T11:55:54+0000",
+			"title": "Les apparences trompeuses du pretty privilege",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null,
+			"template": "2: Image + Titre + infos",
+			"author": null,
+			"internal_link": null
+		},
+		{
+			"uid": "about-us",
+			"tags": [],
+			"publication_date": "2020-11-26T17:20:46+0000",
+			"title": "Qui sommes nous ?",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1125,
+				"ratio": 1.7777777777777777
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			}
+		},
+		{
+			"uid": "lhysterie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-02T23:35:49+0000",
+			"title": "DON'T CALL ME BABE ",
+			"subtitle": "",
+			"image": null,
+			"video_loop": {
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null
+		},
+		{
+			"uid": "martin-parr",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-02T18:11:48+0000",
+			"title": "Martin Parr",
+			"subtitle": "Un Monde à Parr",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null,
+			"template": "2: Image + Titre + infos",
+			"author": "Aphelandra Siassia",
 			"internal_link": null
 		},
 		{
@@ -133,73 +215,12 @@
 			"internal_link": null
 		},
 		{
-			"uid": "about-us",
-			"tags": [],
-			"publication_date": "2020-11-25T07:48:20+0000",
-			"title": "Qui sommes nous ?",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1125,
-				"ratio": 1.7777777777777777
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			}
-		},
-		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-01T20:30:14+0000",
-			"title": "Les apparences trompeuses du pretty privilege",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
-			},
-			"video_loop": null,
-			"template": "2: Image + Titre + infos",
-			"author": null,
-			"internal_link": null
-		},
-		{
-			"uid": "lhysterie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-01T18:49:48+0000",
-			"title": "DON'T CALL ME BABE ",
-			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null
-		},
-		{
 			"uid": "polycool",
 			"tags": [
 				"article",
 				"music"
 			],
-			"publication_date": "2020-12-01T17:38:07+0000",
+			"publication_date": "2020-12-01T19:28:21+0000",
 			"title": "Polycool",
 			"subtitle": "",
 			"image": null,
@@ -218,7 +239,7 @@
 				"article",
 				"fashion"
 			],
-			"publication_date": "2020-11-14T23:04:41+0000",
+			"publication_date": "2020-11-30T17:59:03+0000",
 			"title": "L’Avenir de la Mode est-il virtuel ?",
 			"subtitle": "",
 			"image": {
@@ -232,27 +253,6 @@
 			"video_loop": null,
 			"template": "5: 2 colonnes Titre + Image",
 			"author": null,
-			"internal_link": null
-		},
-		{
-			"uid": "martin-parr",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-11-10T12:59:45+0000",
-			"title": "Martin Parr",
-			"subtitle": "Un Monde à Parr",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1280,
-				"height": 854,
-				"ratio": 1.4988290398126465
-			},
-			"video_loop": null,
-			"template": "2: Image + Titre + infos",
-			"author": "Aphelandra Siassia",
 			"internal_link": null
 		}
 	]

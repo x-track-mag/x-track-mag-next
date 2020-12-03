@@ -111,7 +111,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 	}
 
 	// Extract the relevant metadata first
-	const { uid, tags, first_publication_date, data } = postData;
+	const { uid, tags, last_publication_date, data } = postData;
 
 	// Extract the main body informations
 	let { title, subtitle, image, video_loop, template, author, internal_link } = data;
@@ -125,7 +125,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 		? {
 				uid,
 				tags,
-				publication_date: first_publication_date,
+				publication_date: last_publication_date,
 				title,
 				subtitle,
 				image: fixImage(image),
@@ -136,7 +136,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 		  }
 		: {
 				uid,
-				publication_date: first_publication_date,
+				publication_date: last_publication_date,
 				title,
 				subtitle
 		  };

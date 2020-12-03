@@ -1,0 +1,129 @@
+{
+	"id": "X66vBxIAACAA34jN",
+	"uid": "home",
+	"type": "home",
+	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=X8jvZxAAACIAImFH&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X66vBxIAACAA34jN%22%29+%5D%5D",
+	"tags": [],
+	"first_publication_date": "2020-11-13T16:09:33+0000",
+	"last_publication_date": "2020-12-03T13:25:44+0000",
+	"slugs": [
+		"home",
+		"happy-haloween"
+	],
+	"linked_documents": [],
+	"lang": "fr-fr",
+	"alternate_languages": [],
+	"data": {
+		"title": [
+			{
+				"type": "heading1",
+				"text": "Home",
+				"spans": []
+			}
+		],
+		"scrolling_news": [
+			{
+				"message": "NOUVELLE SESSION LIVE NOLA CHERRI"
+			},
+			{
+				"message": "AWARE AND COLOURFUL"
+			}
+		],
+		"pinned_posts": [
+			{
+				"position": 4,
+				"link": {
+					"id": "X74MPRIAACQA1E2F",
+					"type": "post",
+					"tags": [],
+					"slug": "qui-sommes-nous-",
+					"lang": "fr-fr",
+					"uid": "about-us",
+					"link_type": "Document",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 1,
+				"link": {
+					"id": "X626VRIAACAA2uQG",
+					"type": "post",
+					"tags": [
+						"video",
+						"music",
+						"live session"
+					],
+					"slug": "nola-cherri",
+					"lang": "fr-fr",
+					"uid": "nola-cherri",
+					"link_type": "Document",
+					"isBroken": false
+				}
+			}
+		],
+		"selected_reads": [
+			{
+				"link": {
+					"id": "X8ZqGxAAACIAFwil",
+					"type": "post",
+					"tags": [
+						"video"
+					],
+					"slug": "episode-1--tuto",
+					"lang": "fr-fr",
+					"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+					"link_type": "Document",
+					"isBroken": false
+				}
+			},
+			{
+				"link": {
+					"id": "X6kbAhIAACMAxjbs",
+					"type": "post",
+					"tags": [
+						"article"
+					],
+					"slug": "martin-parr",
+					"lang": "fr-fr",
+					"uid": "martin-parr",
+					"link_type": "Document",
+					"isBroken": false
+				}
+			},
+			{
+				"link": {
+					"id": "X7BifRIAACAA5vti",
+					"type": "post",
+					"tags": [
+						"article",
+						"fashion"
+					],
+					"slug": "lavenir-de-la-mode-est-il-virtuel-",
+					"lang": "fr-fr",
+					"uid": "lavenir-de-la-mode-est-il-virtuel",
+					"link_type": "Document",
+					"isBroken": false
+				}
+			},
+			{
+				"link": {
+					"id": "X8an0xAAACEAGCVO",
+					"type": "post",
+					"tags": [
+						"article"
+					],
+					"slug": "les-apparences-trompeuses-du-pretty-privilege",
+					"lang": "fr-fr",
+					"uid": "les-apparences-trompeuses-du-pretty-privilege",
+					"link_type": "Document",
+					"isBroken": false
+				}
+			},
+			{
+				"link": {
+					"link_type": "Any"
+				}
+			}
+		]
+	}
+}
