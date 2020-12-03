@@ -42,26 +42,15 @@
 					"html": "<div data-type=\"playlist\"><a href=\"https://www.deezer.com/us/playlist/4099699282\"><h1>Best ”XTrack“ of the Week | Listen on Deezer</h1><img src=\"https://cdns-images.dzcdn.net/images/playlist/59ee3200ffc97d5b485adfeffec6736c/500x500.jpg\"><p>Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week / Les meilleurs sons de la semaine & +++</p></a></div>",
 					"title": "Best ”XTrack“ of the Week | Listen on Deezer"
 				},
-				null
-			]
-		},
-		{
-			"template": "section-playlist",
-			"playlist": [
-				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXBPj3s0j3MD",
-					"html": "<div data-type=\"music.playlist\"><a href=\"https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXBPj3s0j3MD\"><h1>Best ”XTrack“ of the Week par XTrack</h1><img src=\"https://is4-ssl.mzstatic.com/image/thumb/SG-MQ-US-001-Image000001/v4/f7/87/29/f78729b2-af67-213f-1dd8-3a067057a351/image/1200x630wp.png\"><p>Playlist · 100 morceaux</p></a></div>",
-					"title": "Best ”XTrack“ of the Week par XTrack"
-				}
-			]
-		},
-		{
-			"template": "section-playlist",
-			"playlist": [
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBJHn5KGmHj3hjzGOTjgKQF",
 					"html": "<div data-type=\"website\"><a href=\"http://www.youtube.com/playlist?list=PLLJkxWPTDgMBJHn5KGmHj3hjzGOTjgKQF\"><h1>Best ”XTrack“ of the Week</h1><img src=\"https://i.ytimg.com/vi/gwIAOn88Klw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLByPOJ1Hf0V6lIJG7ZWMViZvwPkHg&days_since_epoch=18599\"><p>Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week/ Les meilleurs sons de la semaine & +++</p></a></div>",
 					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXBPj3s0j3MD",
+					"html": "<div data-type=\"music.playlist\"><a href=\"https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXBPj3s0j3MD\"><h1>Best ”XTrack“ of the Week par XTrack</h1><img src=\"https://is4-ssl.mzstatic.com/image/thumb/SG-MQ-US-001-Image000001/v4/f7/87/29/f78729b2-af67-213f-1dd8-3a067057a351/image/1200x630wp.png\"><p>Playlist · 100 morceaux</p></a></div>",
+					"title": "Best ”XTrack“ of the Week par XTrack"
 				}
 			]
 		}
