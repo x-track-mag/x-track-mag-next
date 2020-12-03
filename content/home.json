@@ -113,15 +113,15 @@
 			"title": "Les apparences trompeuses du pretty privilege",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4617a503-2389-4e9a-bf03-cf5f5edafc43_PRETTY+PRIVILEGE.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1500,
-				"height": 2095,
-				"ratio": 0.7159904534606205
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
 			},
 			"video_loop": null,
-			"template": "3: Image + Titre",
+			"template": "2: Image + Titre + infos",
 			"author": null,
 			"internal_link": null
 		},

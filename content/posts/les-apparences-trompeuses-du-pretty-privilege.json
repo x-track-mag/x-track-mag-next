@@ -7,18 +7,28 @@
 	"title": "Les apparences trompeuses du pretty privilege",
 	"subtitle": "",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/4617a503-2389-4e9a-bf03-cf5f5edafc43_PRETTY+PRIVILEGE.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 1500,
-		"height": 2095,
-		"ratio": 0.7159904534606205
+		"width": 2000,
+		"height": 1590,
+		"ratio": 1.2578616352201257
 	},
 	"video_loop": null,
-	"template": "3: Image + Titre",
+	"template": "2: Image + Titre + infos",
 	"author": null,
 	"internal_link": null,
 	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "Les apparences trompeuses du pretty privilege",
+					"spans": []
+				}
+			]
+		},
 		{
 			"template": "section-quote",
 			"text": [
@@ -26,6 +36,19 @@
 					"type": "paragraph",
 					"text": "Je suis une jolie fille, je ne paie pas mes verres au bar ! Les garçons les paient pour moi, je n’utilise pas ma carte de crédit. (…) Il m’emmène où je veux, je n’ai pas besoin de voiture !",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/e981c0c5-6158-4d86-9c5a-f054591175d5_LILI.jpg?auto=compress,format&rect=0,0,1499,1221&w=1024&h=834",
+					"alt": "LILI © Nadia Lee Cohen",
+					"copyright": null,
+					"width": 1024,
+					"height": 834,
+					"ratio": 1.2278177458033572
 				}
 			]
 		},
@@ -58,6 +81,19 @@
 					"spans": []
 				}
 			]
+		},
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/890471eb-e0de-43d1-a27c-b05480006af2_NADIA+LEE+COHE-WEBZINE-CULTURE-X-TRACK-PHOTOGRAPHY.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2500,
+				"height": 1988,
+				"ratio": 1.2575452716297786
+			}
 		},
 		{
 			"template": "section-full-text",
