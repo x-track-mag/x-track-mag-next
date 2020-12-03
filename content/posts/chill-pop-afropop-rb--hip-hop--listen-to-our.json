@@ -51,7 +51,13 @@
 		},
 		{
 			"template": "section-playlist",
-			"playlist": []
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBJHn5KGmHj3hjzGOTjgKQF",
+					"html": "<div data-type=\"website\"><a href=\"http://www.youtube.com/playlist?list=PLLJkxWPTDgMBJHn5KGmHj3hjzGOTjgKQF\"><h1>Best ”XTrack“ of the Week</h1><img src=\"https://i.ytimg.com/vi/gwIAOn88Klw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLByPOJ1Hf0V6lIJG7ZWMViZvwPkHg&days_since_epoch=18599\"><p>Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week/ Les meilleurs sons de la semaine & +++</p></a></div>",
+					"title": "Best ”XTrack“ of the Week"
+				}
+			]
 		}
 	]
 }
