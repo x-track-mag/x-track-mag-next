@@ -6,14 +6,11 @@
 	"pinned_posts": [
 		{
 			"position": 4,
-			"uid": "nola-cherri"
-		},
-		{
-			"position": 2,
 			"uid": "about-us"
 		},
 		{
-			"position": 3
+			"position": 1,
+			"uid": "nola-cherri"
 		}
 	],
 	"selected_reads": [
@@ -42,9 +39,45 @@
 				"ratio": 1
 			},
 			"video_loop": null
+		},
+		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"title": "Les apparences trompeuses du pretty privilege",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null
 		}
 	],
 	"sections": [
+		{
+			"uid": "nola-cherri",
+			"tags": [
+				"video",
+				"music",
+				"live session"
+			],
+			"publication_date": "2020-11-12T22:42:44+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2850,
+				"height": 1608,
+				"ratio": 1.7723880597014925
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia",
+			"internal_link": null
+		},
 		{
 			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
 			"tags": [
@@ -65,28 +98,6 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": null,
 			"internal_link": null
-		},
-		{
-			"uid": "about-us",
-			"tags": [],
-			"publication_date": "2020-11-25T07:48:20+0000",
-			"title": "Qui sommes nous ?",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1125,
-				"ratio": 1.7777777777777777
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			}
 		},
 		{
 			"uid": "2020-is-the-year",
@@ -122,27 +133,26 @@
 			"internal_link": null
 		},
 		{
-			"uid": "nola-cherri",
-			"tags": [
-				"video",
-				"music",
-				"live session"
-			],
-			"publication_date": "2020-11-12T22:42:44+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
+			"uid": "about-us",
+			"tags": [],
+			"publication_date": "2020-11-25T07:48:20+0000",
+			"title": "Qui sommes nous ?",
+			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 2850,
-				"height": 1608,
-				"ratio": 1.7723880597014925
+				"width": 2000,
+				"height": 1125,
+				"ratio": 1.7777777777777777
 			},
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassia",
-			"internal_link": null
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			}
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
