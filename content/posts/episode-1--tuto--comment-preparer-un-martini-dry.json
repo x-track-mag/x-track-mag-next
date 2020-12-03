@@ -1,0 +1,55 @@
+{
+	"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+	"tags": [
+		"video"
+	],
+	"publication_date": "2020-12-03T22:28:41+0000",
+	"title": "Episode 1 : Tuto",
+	"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+	"image": null,
+	"video_loop": {
+		"name": "Yayaya_Youtube_16_9 (1).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d812b36-3c87-4ade-99a6-1e5757b4e2be_Yayaya_Youtube_16_9+%281%29.mp4",
+		"size": "5555894"
+	},
+	"template": "3: Image + Titre",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-video-launcher",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  ",
+					"spans": []
+				}
+			],
+			"link": {
+				"width": 480,
+				"height": 270,
+				"embed_url": "https://www.youtube.com/watch?v=cftxA8fTS_w",
+				"type": "video",
+				"version": "1.0",
+				"title": "Episode 1 : Tuto : Comment préparer un martini dry tout en larguant son amant.",
+				"author_name": "XTrack radio",
+				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
+				"thumbnail_url": "https://i.ytimg.com/vi/cftxA8fTS_w/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/cftxA8fTS_w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+			},
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2838,
+				"height": 1580,
+				"ratio": 1.7962025316455696
+			}
+		}
+	]
+}
