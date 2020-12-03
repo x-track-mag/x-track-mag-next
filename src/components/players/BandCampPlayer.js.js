@@ -2,11 +2,11 @@
  * BandCampPlayer URLs are super easy to embed
  * @example https://sorrybanduk.bandcamp.com/media_type/media_id
  *          https://bandcamp.com/EmbeddedPlayer/${media_type}=${media_id}
- * @param {String} originUrl
+ * @param {String} shareUrl
  * @return {String} the embed URL for the iframe
  */
-export const getEmbedUrl = (originUrl) => {
-	const parts = originUrl.split("/");
+export const getEmbedUrl = (shareUrl) => {
+	const parts = shareUrl.split("/");
 	const media_id = parts.pop();
 	const media_type = parts.pop();
 	return `https://bandcamp.com/EmbeddedPlayer/${media_type}=${media_id}/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=true/artwork=small/transparent=true/"`;

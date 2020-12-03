@@ -2,17 +2,17 @@
  * Spotify URLs specify the title of media (artist, album, song, playlist..)
  * and a media id
  * @see https://developer.spotify.com/documentation/widgets/generate/embed/
- * @param {String} originUrl
+ * @param {String} shareUrl
  * @return {String} the embed URL for the iframe
  */
-export const getEmbedUrl = (originUrl) => {
-	const parts = originUrl.split(/[\/\:]/);
+export const getEmbedUrl = (shareUrl) => {
+	const parts = shareUrl.split("?")[0].split(/[\/\:]/);
 	const media_id = parts.pop();
 	const media_type = parts.pop();
 	return `https://open.spotify.com/embed/${media_type}/${media_id}`;
 };
 
-const SpotifyPlayer = ({ url, title = "", width = "100%", height = "600px" }) =>
+const SpotifyPlayer = ({ url, title = "", width = "100%", height = "580px" }) =>
 	url && (
 		<iframe
 			src={getEmbedUrl(url)}

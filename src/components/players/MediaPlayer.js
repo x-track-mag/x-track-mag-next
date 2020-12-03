@@ -1,7 +1,9 @@
 import SpotifyPlayer from "./SpotifyPlayer.js";
 import AppleMusicPlayer from "./AppleMusicPlayer.js";
-import OpenWhydPlayer from "./OpenWhydPlayer.js";
 import BandCampPlayer from "./BandCampPlayer.js";
+import DeezerPlayer from "./DeezerPlayer.js";
+import OpenWhydPlayer from "./OpenWhydPlayer.js";
+import YoutubePlayer from "./YoutubePlayer.js";
 import ReactPlayer from "react-player";
 import { AspectRatio } from "@chakra-ui/react";
 
@@ -17,8 +19,16 @@ const MediaPlayer = ({ url, ...more }) => {
 		);
 	}
 
+	if (/youtu/.test(url)) {
+		return <YoutubePlayer url={url} {...more} />;
+	}
+
 	if (/spotify/.test(url)) {
 		return <SpotifyPlayer url={url} {...more} />;
+	}
+
+	if (/deezer/.test(url)) {
+		return <DeezerPlayer url={url} {...more} />;
 	}
 
 	if (/apple/.test(url)) {

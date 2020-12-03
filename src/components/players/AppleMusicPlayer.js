@@ -3,11 +3,11 @@
  * and a media id
  
  * @see https://developer.spotify.com/documentation/widgets/generate/embed/
- * @param {String} originUrl
+ * @param {String} shareUrl
  * @return {String} the embed URL for the iframe
  */
-export const getEmbedUrl = (originUrl, lang = "fr") => {
-	const parts = originUrl.split(/[\/\:]/);
+export const getEmbedUrl = (shareUrl, lang = "fr") => {
+	const parts = shareUrl.split(/[\/\:]/);
 	const media_id = parts.pop();
 	const media_name = parts.pop();
 	const media_type = parts.pop();
@@ -20,7 +20,7 @@ export const getEmbedUrl = (originUrl, lang = "fr") => {
  * @param {String} url Shared URL
  * @param {String} lang ISO language code of the player
  */
-const AppleMusicPlayer = ({ url, width = "100%", height = "600px", lang = "fr" }) =>
+const AppleMusicPlayer = ({ url, width = "100%", height = "580px", lang = "fr" }) =>
 	url && (
 		<iframe
 			src={getEmbedUrl(url, lang)}
