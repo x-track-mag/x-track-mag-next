@@ -1,3 +1,5 @@
+import ArrayExtensions from "../utils/Arrays.js"; // this will add the shuffle and move methods to Array prototype
+
 /**
  * @typedef ImageDescr
  * @field {String} url
@@ -119,7 +121,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 	subtitle = subtitle[0] ? subtitle[0].text : "";
 	internal_link = fixLink(internal_link);
 
-	const post = template // only posts have templates while static pages have not
+	const post = template // only posts have the `template` property while static pages have not
 		? {
 				uid,
 				tags,
@@ -157,19 +159,32 @@ export const transformHome = (homeData, posts) => {
 	const { uid, last_publication_date, data } = homeData;
 
 	// Extract the main body informations
-	const { scrolling_news, pinned_posts, selected_reads } = data;
+	let { scrolling_news, pinned_posts, selected_reads } = data;
 
-	// Keep only main post data
-	const sections = posts.map(transformPost({ withSections: false }));
+	// Keep only relevant post data
+	let sections = posts.map(transformPost({ withSections: false })).sort(
+		// Sort posts by latest publication date
+		(p1, p2) => Date.parse(p2.publication_date) - Date.parse(p1.publication_date)
+	);
 
 	// Put the pinned posts in their expected position
+	pinned_posts = pinned_posts.map(({ position, link }) => ({
+		position,
+		uid: link.uid
+	}));
+
+	pinned_posts.forEach((pin) => {
+		if (pin.uid) {
+			sections.move(
+				sections.findIndex((sec) => sec.uid === pin.uid),
+				pin.position - 1
+			);
+		}
+	});
 
 	return {
 		scrolling_news: scrolling_news.map((o) => o.message),
-		pinned_posts: pinned_posts.map(({ position, link }) => ({
-			position,
-			uid: link.uid
-		})),
+		pinned_posts,
 		selected_reads: selected_reads
 			.filter(({ link }) => posts.find((p) => p.uid === link.uid)) // Here some selected reads may have been deleted or archived
 			.map(({ link }) => {

@@ -2,18 +2,7 @@ import { Box, Flex } from "@chakra-ui/react";
 import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
 import Typography from "@components/base/Typography";
 import Link from "next/link";
-
-Array.prototype.shuffle =
-	Array.prototype.shuffle ||
-	function () {
-		let len = this.length,
-			i;
-		while (len) {
-			i = (Math.random() * len--) >>> 0;
-			[this[len], this[i]] = [this[i], this[len]];
-		}
-		return this;
-	};
+import ArrayExtensions from "@lib/utils/Arrays"; // this will add the shuffle and move methods to Array prototype
 
 /**
  * A two columns/responsive container with a rich text column and an image
