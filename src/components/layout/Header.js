@@ -94,7 +94,7 @@ const Header = () => {
 				justify="space-between"
 				wrap="wrap"
 				padding="0 2rem"
-				bgColor="rgba(255,255,255,0.15)"
+				style={{ mixBlendMode: "difference" }}
 			>
 				<Heading
 					as="h1"
@@ -103,12 +103,13 @@ const Header = () => {
 					_hover={{ cursor: "pointer" }}
 					onClick={navigate("/", closeMobileMenu)}
 				>
-					<SvgLogo />
+					<SvgLogo color="orange" />
 				</Heading>
 
 				<NavButton
 					display="block" // show in mobile first, hide when breakpoint is lg and over
 					onClick={toggleMobileMenu}
+					textColor="orange"
 				>
 					MENU
 				</NavButton>
