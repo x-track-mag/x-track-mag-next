@@ -35,16 +35,8 @@ export const Template1 = ({
 	video_loop,
 	...articleInfo
 }) => {
-	const [blurred, setBlurred] = useState(false);
-
 	return (
-		<section
-			className={clsx("hero-section", "template1", blurred && "blurred")}
-			onMouseEnter={() => setBlurred(true)}
-			onMouseLeave={() => setBlurred(false)}
-			key={uid}
-			id={uid}
-		>
+		<section className={clsx("hero-section", "template1")} key={uid} id={uid}>
 			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<ArticleInfo position="absolute" {...articleInfo} textColor="white" />
 			<HeroLink href={link_to}>
