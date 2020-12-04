@@ -71,11 +71,12 @@ export const Template2 = ({
 	video_loop,
 	...articleInfo
 }) => {
-	const [blurred, setBlurred] = useState(false);
+	const [hover, setHover] = useState(false);
 
 	return (
 		<section
-			className={clsx("hero-section", "template2", blurred && "blurred")}
+			className={clsx("hero-section", "template2")}
+			// style={{ mixBlendMode: hover ? "luminosity" : "inherit" }}
 			key={uid}
 			id={uid}
 		>
@@ -83,8 +84,8 @@ export const Template2 = ({
 			<ArticleInfo position="absolute" {...articleInfo} textColor="white" />
 			<HeroLink
 				href={link_to}
-				onMouseEnter={() => setBlurred(true)}
-				onMouseLeave={() => setBlurred(false)}
+				onMouseEnter={() => setHover(true)}
+				onMouseLeave={() => setHover(false)}
 			>
 				<HeroText title={title} textColor="white" />
 			</HeroLink>
@@ -109,19 +110,20 @@ export const Template2 = ({
  * @param {Array<String>} [props.tags]
  */
 export const Template3 = ({ uid, link_to, title = "", image, video_loop }) => {
-	const [blurred, setBlurred] = useState(false);
+	const [hover, setHover] = useState(false);
 
 	return (
 		<section
-			className={clsx("hero-section", "template3", blurred && "blurred")}
+			className={clsx("hero-section", "template3")}
+			// style={{ mixBlendMode: hover ? "luminosity" : "inherit" }}
 			key={uid}
 			id={uid}
 		>
 			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<HeroLink
 				href={link_to}
-				onMouseEnter={() => setBlurred(true)}
-				onMouseLeave={() => setBlurred(false)}
+				onMouseEnter={() => setHover(true)}
+				onMouseLeave={() => setHover(false)}
 			>
 				<HeroText
 					title={title}
