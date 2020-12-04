@@ -1,10 +1,24 @@
 import { Container } from "@chakra-ui/react";
 import { Title, Subtitle } from "@components/base/Typography";
+import { useRef } from "react";
+import { useApexPosition } from "@components/hooks/useApexPosition";
 
-const HeroText = ({ title = "--blank--", subtitle = "", ...moreStyles }) => {
+/**
+ * A centered block of text suited for Hero sections
+ */
+const HeroText = ({ title, subtitle, ...moreStyles }) => {
+	const ref = useRef();
+	const [inView, apexPosition] = useApexPosition(ref);
 	return (
-		<Container variant="hero" centerContent p="2rem">
-			{title && title !== "--blank--" && <Title {...moreStyles}>{title}</Title>}
+		<Container ref={ref} centerContent p="2rem">
+			{title && title !== "--blank--" && (
+				<Title
+					{...moreStyles}
+					animate={{ x: 100 - 100 * apexPosition, opacity: apexPosition }}
+				>
+					{title}
+				</Title>
+			)}
 			{subtitle && subtitle !== "--blank--" && (
 				<Subtitle {...moreStyles}>{subtitle}</Subtitle>
 			)}

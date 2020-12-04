@@ -25,6 +25,10 @@ export const Title = ({ children, ...moreStyles }) => (
 	</MotionBox>
 );
 
+/**
+ * Second default title style using Press Gothic Pro
+ * Accepts animation properties
+ */
 export const Subtitle = ({ children, ...moreStyles }) => (
 	<MotionBox
 		as="h3"
@@ -73,6 +77,9 @@ export const Blockquote = ({ text, ...moreStyles }) => (
 	</MotionBox>
 );
 
+/**
+ * Thick uppercase text in ovaloid shape
+ */
 export const Tag = ({ textColor, children }) => (
 	<Box
 		fontFamily="PressGothicPro"
@@ -106,6 +113,10 @@ export const VerticalText = ({ children, ...moreStyles }) => (
 	</Box>
 );
 
+/**
+ * Small centered text
+ * They are used to render images captions
+ */
 export const Caption = ({ children, ...moreStyles }) => (
 	<Box
 		display="block"
