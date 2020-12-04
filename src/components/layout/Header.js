@@ -94,6 +94,7 @@ const Header = () => {
 				justify="space-between"
 				wrap="wrap"
 				padding="0 2rem"
+				bgColor="rgba(88,255,0,0.25)"
 			>
 				<Heading
 					as="h1"
@@ -105,13 +106,8 @@ const Header = () => {
 					<SvgLogo />
 				</Heading>
 
-				<HeaderNav
-					links={navigation.links}
-					display={{ base: "none", lg: "flex" }}
-				/>
-
 				<NavButton
-					display={{ base: "block", lg: "none" }} // show in mobile first, hide when breakpoint is lg and over
+					display="block" // show in mobile first, hide when breakpoint is lg and over
 					onClick={toggleMobileMenu}
 				>
 					MENU
@@ -121,7 +117,7 @@ const Header = () => {
 			<MobileNav
 				links={navigation.links}
 				onNavigate={closeMobileMenu}
-				display={{ base: showMobileMenu ? "flex" : "none", lg: "none" }}
+				display={showMobileMenu ? "flex" : "none"}
 			/>
 		</>
 	);
