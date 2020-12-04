@@ -17,6 +17,7 @@ const HeroText = ({ title, subtitle, ...moreStyles }) => {
 				opacity: apexPosition //
 			}
 		};
+		console.log(`Animating ${title} : ${apexPosition}`);
 	}
 	return (
 		<Container ref={ref} centerContent p="2rem">
