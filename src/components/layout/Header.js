@@ -94,7 +94,7 @@ const Header = () => {
 				justify="space-between"
 				wrap="wrap"
 				padding="0 2rem"
-				bgColor="rgba(88,255,0,0.25)"
+				bgColor="rgba(255,255,255,0.15)"
 			>
 				<Heading
 					as="h1"
