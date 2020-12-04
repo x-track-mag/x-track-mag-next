@@ -94,7 +94,7 @@ const Header = () => {
 				justify="space-between"
 				wrap="wrap"
 				padding="0 2rem"
-				style={{ mixBlendMode: "difference" }}
+				style={{ mixBlendMode: showMobileMenu ? "normal" : "difference" }}
 			>
 				<Heading
 					as="h1"
@@ -109,7 +109,7 @@ const Header = () => {
 				<NavButton
 					display="block" // show in mobile first, hide when breakpoint is lg and over
 					onClick={toggleMobileMenu}
-					textColor="orange"
+					style={{ color: "orange" }}
 				>
 					MENU
 				</NavButton>
