@@ -9,15 +9,22 @@ import { useApexPosition } from "@components/hooks/useApexPosition";
 const HeroText = ({ title, subtitle, ...moreStyles }) => {
 	const ref = useRef();
 	const [inView, apexPosition] = useApexPosition(ref);
-	if (inView && typeof window !== "undefined") {
-		moreStyles = {
-			...moreStyles,
-			animate: {
-				x: 100 - 100 * apexPosition, // Starts 100px from the right
-				opacity: apexPosition //
-			}
-		};
-		console.log(`Animating ${title} : ${apexPosition}`);
+	if (typeof window !== "undefined") {
+		if (inView) {
+			moreStyles = {
+				...moreStyles,
+				animate: {
+					x: 100 - 100 * apexPosition,
+					opacity: inView ? apexPosition : 0
+				}
+			};
+		} else {
+			moreStyles = {
+				...moreStyles,
+				opacity: 0, // Starts at opacity 0
+				x: 100 // Starts 100px from the right
+			};
+		}
 	}
 	return (
 		<Container ref={ref} centerContent p="2rem">
