@@ -1,8 +1,6 @@
 import { Box } from "@chakra-ui/react";
 import Image from "next/image";
 import BackgroundVideo from "react-video-cover";
-import useInView from "react-cool-inview";
-import useDimensions from "react-cool-dimensions";
 
 /**
  * @typedef ImageDescr
@@ -33,18 +31,12 @@ const BackgroundImageContainer = ({
 	height = "100%",
 	...moreStyle
 }) => {
-	const { refInview, inView } = useInView({
-		threshold: 1
-	});
-	const { width: containerWidth, height: containerHeight } = useDimensions(refInview);
-
 	if (!image && !video_loop) return null;
 
 	// Calculate the width and height and position to fill the container
 	return (
 		<Box
 			className="background-image-container"
-			ref={refInview}
 			width={width}
 			height={height}
 			position="absolute"
