@@ -1,40 +1,26 @@
-import { useEffect } from "react";
-import { error } from "./useIntersectionObserver.json";
+import { useEffect, useState } from "react";
 
-/**
- *
- * @param {Ref} root
- * @param {Ref} target
- * @param {Function} onIntersect
- * @param {Number} threshold
- * @param {String} rootMargin
- */
-export const useIntersectionObserver = ({
-	root,
-	target,
-	onIntersect,
-	threshold = 1.0,
-	rootMargin = "0px"
-}) => {
+const useIntersectionObserver = (ref, options) => {
+	const [intersectionObserverEntry, setIntersectionObserverEntry] = useState(null);
+
 	useEffect(() => {
-		if (!target) {
-			throw new Error(error.NO_TARGET);
+		if (ref.current && typeof IntersectionObserver === "function") {
+			const handler = (entries) => {
+				setIntersectionObserverEntry(entries[0]);
+			};
+
+			const observer = new IntersectionObserver(handler, options);
+			observer.observe(ref.current);
+
+			return () => {
+				setIntersectionObserverEntry(null);
+				observer.disconnect();
+			};
 		}
-		if (!onIntersect) {
-			throw new Error(error.NO_EVENT_HANDLER);
-		}
+		return () => {};
+	}, [ref.current, options.threshold, options.root, options.rootMargin]);
 
-		const observer = new IntersectionObserver(onIntersect, {
-			root: root ? root.current : null,
-			rootMargin,
-			threshold
-		});
-
-		observer.observe(target.current);
-
-		// Let's clean up after ourselves.
-		return () => {
-			observer.unobserve(target.current);
-		};
-	});
+	return intersectionObserverEntry;
 };
+
+export default useIntersectionObserver;
