@@ -1,26 +1,21 @@
-import { useState, useLayoutEffect } from "react";
-// import { useIntersection } from "next/client/use-intersection";
+import { useState, useEffect } from "react";
+import useIntersectionObserver from "@components/hooks/useIntersectionObserver";
 
 /**
- * @typedef ApexPosition
- * @field {Boolean} inView Tell us if an element is inside the viewport
- * @field {Number[0-1]} apexPosition Tell us if the element is near its apex position (centered in the viewport)
+ * Tell us if an element is inside the viewport
+ * and at its APEX position (centered on screen)
+ * @param {DOMElement} element
+ * @return {Array} [inView, apexPosition]
  */
-
-const _IN_VIEW = {
-	inView: true,
-	apexPosition: 1
-};
-
 const measureElementPosition = (element) => {
 	if (typeof window === "undefined") return [true, 1];
 	if (!element) return [false, 0];
 	const { top, height } = element.getBoundingClientRect();
 	const viewportHeight = window.innerHeight;
-	const center = top + height / 2;
 	const inView = top < viewportHeight && top + height > 0;
+	const elementCenter = top + height / 2;
 	const viewportCenter = viewportHeight / 2;
-	const delta = center - viewportCenter;
+	const delta = elementCenter - viewportCenter;
 	const apexPosition = delta < 0 ? 1 : 1 - delta / viewportCenter;
 	// console.log(`APEX position : ${apexPosition}`);
 	return [inView, apexPosition];
@@ -32,22 +27,28 @@ const measureElementPosition = (element) => {
  * @return {Array}
  */
 export const useApexPosition = (ref, margin = "100px") => {
-	const element = ref.current;
+	const position = useIntersectionObserver(ref, { rootMargin: margin });
 	const [apexPosition, setApexPosition] = useState([true, 1]);
 
+	const element = ref.current;
+
 	const handleScroll = () => {
-		requestAnimationFrame(() => {
+		window.requestIdleCallback(() => {
 			setApexPosition(measureElementPosition(element));
 		});
 	};
 
-	if (typeof window !== "undefined") {
-		useLayoutEffect(() => {
-			window.addEventListener("scroll", handleScroll);
-			handleScroll(); // Do it once mounted
-			return () => window.removeEventListener("scroll", handleScroll);
-		}, []);
-	}
+	useEffect(() => {
+		if (!position || !element) return;
+		window.addEventListener("scroll", handleScroll);
+		handleScroll(); // Do it once mounted
+		const [inView] = apexPosition;
+		// console.log(`Element ${element.text} is ${inView ? "visible" : "hidden"}`);
+		return () => {
+			console.log(`Stop listening to scroll event for ${element.text}`);
+			window.removeEventListener("scroll", handleScroll);
+		};
+	}, [position]);
 
 	return apexPosition;
 };
