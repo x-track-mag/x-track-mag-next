@@ -7,17 +7,18 @@ import useIntersectionObserver from "@components/hooks/useIntersectionObserver";
  * @param {DOMElement} element
  * @return {Array} [inView, apexPosition]
  */
-const measureElementPosition = (element) => {
+const measureApexPosition = (element) => {
 	if (typeof window === "undefined") return [true, 1];
 	if (!element) return [false, 0];
 	const { top, height } = element.getBoundingClientRect();
 	const viewportHeight = window.innerHeight;
 	const inView = top < viewportHeight && top + height > 0;
+	if (!inView) return [false, 0]; // Avoid negative Apex positions
+	// APEX Position is when the element center coincide with the viewport center
 	const elementCenter = top + height / 2;
 	const viewportCenter = viewportHeight / 2;
 	const delta = elementCenter - viewportCenter;
 	const apexPosition = delta < 0 ? 1 : 1 - delta / viewportCenter;
-	// console.log(`APEX position : ${apexPosition}`);
 	return [inView, apexPosition];
 };
 
@@ -26,29 +27,36 @@ const measureElementPosition = (element) => {
  * Example :
  * @return {Array}
  */
-export const useApexPosition = (ref, margin = "100px") => {
-	const position = useIntersectionObserver(ref, { rootMargin: margin });
-	const [apexPosition, setApexPosition] = useState([true, 1]);
-
+export const useApexPosition = (ref, margin = "50px") => {
 	const element = ref.current;
+
+	const { isIntersecting = false, target = null } =
+		useIntersectionObserver(ref, {
+			rootMargin: margin
+		}) || {};
+	const [apexPosition, setApexPosition] = useState(element ? [true, 1] : [false, 0]);
 
 	const handleScroll = () => {
 		window.requestIdleCallback(() => {
-			setApexPosition(measureElementPosition(element));
+			setApexPosition(measureApexPosition(element));
 		});
 	};
 
 	useEffect(() => {
-		if (!position || !element) return;
-		window.addEventListener("scroll", handleScroll);
-		handleScroll(); // Do it once mounted
-		const [inView] = apexPosition;
-		// console.log(`Element ${element.text} is ${inView ? "visible" : "hidden"}`);
+		if (!element || !target) return () => {};
+
+		if (isIntersecting) {
+			window.addEventListener("scroll", handleScroll);
+			handleScroll(); // Do it once mounted
+		} else {
+			window.removeEventListener("scroll", handleScroll);
+		}
+
+		// Clean up when the element is dismounted
 		return () => {
-			console.log(`Stop listening to scroll event for ${element.text}`);
 			window.removeEventListener("scroll", handleScroll);
 		};
-	}, [position]);
+	}, [isIntersecting]);
 
 	return apexPosition;
 };
