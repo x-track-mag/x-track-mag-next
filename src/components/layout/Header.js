@@ -107,9 +107,8 @@ const Header = () => {
 				</Heading>
 
 				<NavButton
-					display="block" // show in mobile first, hide when breakpoint is lg and over
 					onClick={toggleMobileMenu}
-					style={{ color: "orange" }}
+					style={{ color: "orange" }} // hack here because Chakra doesn't propagate textColor on a button :(
 				>
 					MENU
 				</NavButton>
