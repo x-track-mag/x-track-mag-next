@@ -7,14 +7,14 @@ import theme from "../styles/theme.js";
 import Layout from "@components/layout/Layout";
 
 const MyApp = ({ Component, pageProps }) => (
-	<ErrorBoundary>
-		<MetaSEO />
-		<ChakraProvider theme={theme}>
-			<Layout>
+	<ChakraProvider theme={theme}>
+		<MetaSEO {...pageProps} />
+		<Layout>
+			<ErrorBoundary>
 				<Component {...pageProps} />
-			</Layout>
-		</ChakraProvider>
-	</ErrorBoundary>
+			</ErrorBoundary>
+		</Layout>
+	</ChakraProvider>
 );
 
 export default MyApp;
