@@ -1,20 +1,14 @@
-import Error from "next/error";
+const ErrorPage = ({ err }) => (
+	<code>
+		<h1>
+			{`{err.message} occured on the ${err.statusCode ? "server" : "client"} side`}
+		</h1>
+		<pre>{err.stack}</pre>
+	</code>
+);
 
-function Error({ err }) {
-	return (
-		<code>
-			<h1>
-				{`{err.message} occured on the ${
-					err.statusCode ? "server" : "client"
-				} side`}
-			</h1>
-			<pre>{err.message}</pre>
-		</code>
-	);
-}
-
-Error.getInitialProps = ({ err }) => {
+ErrorPage.getInitialProps = ({ err }) => {
 	return { err };
 };
 
-export default Error;
+export default ErrorPage;
