@@ -2,7 +2,6 @@ import { Container } from "@chakra-ui/react";
 import { Title, Subtitle } from "@components/base/Typography";
 import { useRef } from "react";
 import { useApexPosition } from "@components/hooks/useApexPosition";
-import useUniversalEffect from "@components/hooks/useUniversalEffect";
 
 /**
  * A centered block of text suited for Hero sections
@@ -48,12 +47,20 @@ const HeroText = ({ title, subtitle, ...moreStyles }) => {
 		);
 	} catch (err) {
 		return (
-			<pre>
+			<Container
+				bgColor="white"
+				textColor="black"
+				fontSize="16px"
+				width="95%"
+				height="100%"
+			>
 				<code>
-					{err.message}
-					{err.stack}
+					<pre>
+						{err.message}
+						{err.stack}
+					</pre>
 				</code>
-			</pre>
+			</Container>
 		);
 	}
 };
