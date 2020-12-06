@@ -2,10 +2,10 @@
 	"id": "X66vBxIAACAA34jN",
 	"uid": "home",
 	"type": "home",
-	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=X8jvZxAAACIAImFH&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X66vBxIAACAA34jN%22%29+%5D%5D",
+	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=X8u60hAAACMALvfK&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X66vBxIAACAA34jN%22%29+%5D%5D",
 	"tags": [],
 	"first_publication_date": "2020-11-13T16:09:33+0000",
-	"last_publication_date": "2020-12-03T13:25:44+0000",
+	"last_publication_date": "2020-12-05T16:52:34+0000",
 	"slugs": [
 		"home",
 		"happy-haloween"
@@ -21,6 +21,8 @@
 				"spans": []
 			}
 		],
+		"description": "X-Track MAG est un webzine dédié aux artistes alternatifs.ves, à la musique indépendante et à la culture diversifiée.\nSans pub et libre de toute influence stricte et pro-babylonienne, X-Track est connectée 24/7 avec la culture, la connaissance et ses acteurs.rices pour vous offrir des news concises et récréatives, sur une plateforme ludique et facile.",
+		"keywords": "Culture alternative, Musique indépendante, Webzine, X-TRACK",
 		"scrolling_news": [
 			{
 				"message": "NOUVELLE SESSION LIVE NOLA CHERRI"

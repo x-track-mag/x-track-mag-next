@@ -1,4 +1,13 @@
 {
+	"title": [
+		{
+			"type": "heading1",
+			"text": "Home",
+			"spans": []
+		}
+	],
+	"description": "X-Track MAG est un webzine dédié aux artistes alternatifs.ves, à la musique indépendante et à la culture diversifiée.\nSans pub et libre de toute influence stricte et pro-babylonienne, X-Track est connectée 24/7 avec la culture, la connaissance et ses acteurs.rices pour vous offrir des news concises et récréatives, sur une plateforme ludique et facile.",
+	"keywords": "Culture alternative, Musique indépendante, Webzine, X-TRACK",
 	"scrolling_news": [
 		"NOUVELLE SESSION LIVE NOLA CHERRI",
 		"AWARE AND COLOURFUL"
@@ -73,7 +82,8 @@
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Aphelandra Siassia",
-			"internal_link": null
+			"internal_link": null,
+			"description": "For our first X-Track studio session, our guest Nola Cherri honored us with a performance of her song « Omo » taken from her first EP « These Associations ». "
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
@@ -91,7 +101,8 @@
 			},
 			"template": "3: Image + Titre",
 			"author": null,
-			"internal_link": null
+			"internal_link": null,
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
@@ -112,7 +123,8 @@
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": null,
-			"internal_link": null
+			"internal_link": null,
+			"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week /  Les meilleurs sons de la semaine & +++"
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
@@ -133,7 +145,8 @@
 			"video_loop": null,
 			"template": "2: Image + Titre + infos",
 			"author": null,
-			"internal_link": null
+			"internal_link": null,
+			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
 			"uid": "about-us",
@@ -155,7 +168,8 @@
 			"internal_link": {
 				"uid": "about-us",
 				"type": "page"
-			}
+			},
+			"description": ""
 		},
 		{
 			"uid": "lhysterie",
@@ -173,7 +187,8 @@
 			},
 			"template": "3: Image + Titre",
 			"author": null,
-			"internal_link": null
+			"internal_link": null,
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "martin-parr",
@@ -194,7 +209,8 @@
 			"video_loop": null,
 			"template": "2: Image + Titre + infos",
 			"author": "Aphelandra Siassia",
-			"internal_link": null
+			"internal_link": null,
+			"description": "Kitsch, décalée tout en restant encline aux réalités sociales, l’oeuvre de Martin Parr trouble tant elle semble documenter notre temps. En nous confrontant à l’absurdité de la vie quotidienne, le photographe se place en témoin d’une époque où le spectacle et la consommation prévalent sur le lien social. "
 		},
 		{
 			"uid": "2020-is-the-year",
@@ -208,7 +224,8 @@
 			"video_loop": null,
 			"template": "6: Titre + sous-titre sur fond blanc",
 			"author": null,
-			"internal_link": null
+			"internal_link": null,
+			"description": ""
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
@@ -227,7 +244,8 @@
 			"video_loop": null,
 			"template": "5: 2 colonnes Titre + Image",
 			"author": null,
-			"internal_link": null
+			"internal_link": null,
+			"description": "A l’aube d’une mutation planétaire provoquée par la crise du Coronavirus, le secteur de la mode, plus que jamais, se retrouve poussé dans ses retranchements. Fashion Week rendue caduque, magasins ouverts aux compte-gouttes, mais aussi remise en question des mentalités quant aux enseignes de luxe :  le monde post-covid ne sera définitivement plus le même. "
 		},
 		{
 			"uid": "polycool",
@@ -246,7 +264,8 @@
 			},
 			"template": "3: Image + Titre",
 			"author": null,
-			"internal_link": null
+			"internal_link": null,
+			"description": "Avec “Lemon Lord”, le groupe Polycool nous dresse une ode au Seigneur Citron"
 		}
 	]
 }
