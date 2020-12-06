@@ -8,18 +8,26 @@ import useIntersectionObserver from "@components/hooks/useIntersectionObserver";
  * @return {Array} [inView, apexPosition]
  */
 const measureApexPosition = (element) => {
+	// Let everyone be at APEX position during SSR
 	if (typeof window === "undefined") return [true, 1];
+	// No yet mounted ?
 	if (!element) return [false, 0];
-	const { top, height } = element.getBoundingClientRect();
-	const viewportHeight = window.innerHeight;
-	const inView = top < viewportHeight && top + height > 0;
-	if (!inView) return [false, 0]; // Avoid negative Apex positions
-	// APEX Position is when the element center coincide with the viewport center
-	const elementCenter = top + height / 2;
-	const viewportCenter = viewportHeight / 2;
-	const delta = elementCenter - viewportCenter;
-	const apexPosition = delta < 0 ? 1 : 1 - delta / viewportCenter;
-	return [inView, apexPosition];
+	try {
+		// Good to go now
+		const { top, height } = element.getBoundingClientRect();
+		const viewportHeight = window.innerHeight;
+		const inView = top < viewportHeight && top + height > 0;
+		if (!inView) return [false, 0]; // Avoid negative Apex positions
+		// APEX Position is when the element center coincides with the viewport center
+		const elementCenter = top + height / 2;
+		const viewportCenter = viewportHeight / 2;
+		const delta = elementCenter - viewportCenter;
+		const apexPosition = delta < 0 ? 1 : 1 - delta / viewportCenter;
+		return [inView, apexPosition];
+	} catch (err) {
+		// It is possible that this browser doesn't support getBoundingClientRect() ?! bah!
+		return [true, 1];
+	}
 };
 
 /**
