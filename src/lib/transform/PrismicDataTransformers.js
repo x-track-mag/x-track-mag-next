@@ -45,7 +45,6 @@ export const fixLink = (link) => {
  * @return {LinkDescr}
  */
 export const fixMediaLink = ({ link }) => {
-	console.log("Received media link", JSON.stringify(link));
 	if (!link || !link.embed_url) return null;
 	const url = (link.url || link.embed_url).replace("http:", "https:"); // OMG Prismic.. you provide an http URL for youtube links !?
 	return { url, title: link.title };
@@ -115,7 +114,16 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 	const { uid, tags, last_publication_date, data } = postData;
 
 	// Extract the main body informations
-	let { title, subtitle, image, video_loop, template, author, internal_link } = data;
+	let {
+		title,
+		subtitle,
+		description = "",
+		image,
+		video_loop,
+		template,
+		author,
+		internal_link
+	} = data;
 
 	// Flatten the title and subtitle as they are (useless) StructuredText
 	title = title[0] ? title[0].text : "";
@@ -143,7 +151,17 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 		  };
 
 	if (withSections) {
-		post.sections = data.sections.map(transformSection);
+		const sections = (post.sections = data.sections.map(transformSection));
+		if (description) {
+			post.description = description;
+		} else {
+			// Try to extract the first chapter text as description
+			const firstTextChapter = sections.find(
+				(section) => section.text && section.text.length > 0
+			);
+			post.description = firstTextChapter ? firstTextChapter.text[0].text : "";
+		}
+		console.log(`Extracted the description : ${post.description} for post ${uid}`);
 	}
 
 	return post;
@@ -160,7 +178,14 @@ export const transformHome = (homeData, posts) => {
 	const { uid, last_publication_date, data } = homeData;
 
 	// Extract the main body informations
-	let { scrolling_news, pinned_posts, selected_reads } = data;
+	let {
+		title = "Home",
+		description = "",
+		keywords = "",
+		scrolling_news,
+		pinned_posts,
+		selected_reads
+	} = data;
 
 	// Keep only relevant post data
 	let sections = posts.map(transformPost({ withSections: false })).sort(
@@ -184,6 +209,9 @@ export const transformHome = (homeData, posts) => {
 	});
 
 	return {
+		title,
+		description,
+		keywords,
 		scrolling_news: scrolling_news.map((o) => o.message),
 		pinned_posts,
 		selected_reads: selected_reads
