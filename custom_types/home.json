@@ -1,10 +1,24 @@
 {
 	"Main": {
 		"title": {
-			"type": "StructuredText",
+			"type": "Text",
 			"config": {
-				"single": "heading1",
-				"label": "Title"
+				"label": "Title",
+				"placeholder": "Titre de la page"
+			}
+		},
+		"description": {
+			"type": "Text",
+			"config": {
+				"label": "Description",
+				"placeholder": "Description du contenu (pour le SEO)"
+			}
+		},
+		"keywords": {
+			"type": "Text",
+			"config": {
+				"label": "Mots clés",
+				"placeholder": "Musique, Vidéo, Production... les mots clés pour le SEO !"
 			}
 		},
 		"uid": {

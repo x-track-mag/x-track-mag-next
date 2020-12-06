@@ -9,8 +9,7 @@ const MetaSEO = ({
 	author = "X-TRACK MAG",
 	lang = "fr",
 	sections,
-	image,
-	...page
+	image
 }) => {
 	title = `X-TRACK MAG - ${title}`;
 	const router = useRouter();
@@ -33,13 +32,13 @@ const MetaSEO = ({
 			<meta name="twitter:title" content={title} />
 			<meta name="twitter:description" content={description} />
 			<meta name="twitter:site" content="X-TRACK MAG" />
-			<meta name="twitter:creator" content={author} />
+			{author && <meta name="twitter:creator" content={author} />}
 
 			<link rel="icon" type="image/png" href="/images/favicon.ico" />
 			<link rel="apple-touch-icon" href="/static/images/favicon.ico" />
 
-			{image && <meta property="og:image" content={image} />}
-			{image && <meta name="twitter:image" content={image} />}
+			{image && <meta property="og:image" content={image.url} />}
+			{image && <meta name="twitter:image" content={image.url} />}
 
 			<link rel="canonical" href={canonicalUrl} />
 		</Head>

@@ -36,6 +36,10 @@ const extractPostsData = async (fs, contentDir, filesPath) => {
 
 	// Now build the home page data with the pinned posts
 	const homeData = await getEntry({ type: "home", uid: "home" });
+	fs.writeFileSync(
+		path.join(contentDir, "home-prismic.json"),
+		JSON.stringify(homeData, null, "\t")
+	);
 	const home = transformHome(homeData, posts);
 	const homeFileName = path.join(contentDir, "home.json");
 	fs.writeFileSync(homeFileName, JSON.stringify(home, null, "\t"));

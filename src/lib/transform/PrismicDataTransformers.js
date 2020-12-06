@@ -208,23 +208,29 @@ export const transformHome = (homeData, posts) => {
 		}
 	});
 
+	selected_reads = selected_reads
+		.filter(({ link }) => posts.find((p) => p.uid === link.uid)) // Here some selected reads may have been deleted or archived
+		.map(({ link }) => {
+			const relatedPost = posts.find((p) => p.uid === link.uid);
+			return {
+				uid: link.uid,
+				title: relatedPost.title,
+				image: relatedPost.image,
+				video_loop: relatedPost.video_loop
+			};
+		});
+	// Find an image for the SEO
+	const selectedPostWithImage = selected_reads.find((read) => read.image);
+	const image = selectedPostWithImage ? selectedPostWithImage.image.url : "";
+
 	return {
 		title,
 		description,
 		keywords,
 		scrolling_news: scrolling_news.map((o) => o.message),
 		pinned_posts,
-		selected_reads: selected_reads
-			.filter(({ link }) => posts.find((p) => p.uid === link.uid)) // Here some selected reads may have been deleted or archived
-			.map(({ link }) => {
-				const relatedPost = posts.find((p) => p.uid === link.uid);
-				return {
-					uid: link.uid,
-					title: relatedPost.title,
-					image: relatedPost.image,
-					video_loop: relatedPost.video_loop
-				};
-			}),
+		selected_reads,
+		image,
 		sections
 	};
 };
