@@ -32,39 +32,51 @@ const measureApexPosition = (element) => {
 
 /**
  * ApexPosition Hook
- * Example :
- * @return {Array}
+ * The response is an array with two elelments :
+ * The first one is a boolean : is the element in view ?
+ * The second is a percentage of te position, opf the element to its Apex position
+ * @param {React.Ref} ref
+ * @param {String} [margin="50px"] CSS measurement of the margin around the view port to calculate the apex
+ * @return {Array} [inView, apexPosition]
  */
 export const useApexPosition = (ref, margin = "50px") => {
-	const element = ref.current;
+	try {
+		const element = ref.current;
 
-	const { isIntersecting = false, target = null } =
-		useIntersectionObserver(ref, {
-			rootMargin: margin
-		}) || {};
-	const [apexPosition, setApexPosition] = useState(element ? [true, 1] : [false, 0]);
+		const { isIntersecting = false, target = null } =
+			useIntersectionObserver(ref, {
+				rootMargin: margin
+			}) || {};
+		const [apexPosition, setApexPosition] = useState(
+			element ? [true, 1] : [false, 0]
+		);
 
-	const handleScroll = () => {
-		window.requestIdleCallback(() => {
-			setApexPosition(measureApexPosition(element));
-		});
-	};
-
-	useEffect(() => {
-		if (!element || !target) return () => {};
-
-		if (isIntersecting) {
-			window.addEventListener("scroll", handleScroll);
-			handleScroll(); // Do it once mounted
-		} else {
-			window.removeEventListener("scroll", handleScroll);
-		}
-
-		// Clean up when the element is dismounted
-		return () => {
-			window.removeEventListener("scroll", handleScroll);
+		const handleScroll = () => {
+			window.requestIdleCallback(() => {
+				setApexPosition(measureApexPosition(element));
+			});
 		};
-	}, [isIntersecting]);
 
-	return apexPosition;
+		useEffect(() => {
+			if (!element || !target) return () => {};
+
+			if (isIntersecting) {
+				window.addEventListener("scroll", handleScroll);
+				handleScroll(); // Do it once mounted
+			} else {
+				window.removeEventListener("scroll", handleScroll);
+			}
+
+			// Clean up when the element is dismounted
+			return () => {
+				window.removeEventListener("scroll", handleScroll);
+			};
+		}, [isIntersecting]);
+
+		return apexPosition;
+	} catch (err) {
+		// Fallback
+		console.error(err);
+		return [true, 1];
+	}
 };
