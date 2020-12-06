@@ -1,7 +1,11 @@
 import paths from "@content/pages.json";
 import { SectionResolver } from "@components/sections/index.js";
 
-const StaticPage = ({ uid, sections }) => {
+/**
+ * Render a single static pages (simplified version of a post)
+ * @param {JSX.Element} props
+ */
+const StaticPage = ({ sections }) => {
 	return sections.map((section, i) => (
 		<SectionResolver key={`section-${i}`} section={section} full_page={true} />
 	));
@@ -13,9 +17,9 @@ const StaticPage = ({ uid, sections }) => {
  */
 export const getStaticProps = async ({ params, preview }) => {
 	const uid = params.uid;
-	const { ...postProps } = await import(`@content/${uid}.json`);
+	const { ...pageProps } = await import(`@content/${uid}.json`);
 	return {
-		props: { ...postProps }
+		props: { ...pageProps }
 	};
 };
 
