@@ -1,11 +1,5 @@
 {
-	"title": [
-		{
-			"type": "heading1",
-			"text": "Home",
-			"spans": []
-		}
-	],
+	"title": "Home",
 	"description": "X-Track MAG est un webzine dédié aux artistes alternatifs.ves, à la musique indépendante et à la culture diversifiée.\nSans pub et libre de toute influence stricte et pro-babylonienne, X-Track est connectée 24/7 avec la culture, la connaissance et ses acteurs.rices pour vous offrir des news concises et récréatives, sur une plateforme ludique et facile.",
 	"keywords": "Culture alternative, Musique indépendante, Webzine, X-TRACK",
 	"scrolling_news": [
