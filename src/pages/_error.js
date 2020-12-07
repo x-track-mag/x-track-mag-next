@@ -1,14 +1,12 @@
-const ErrorPage = ({ err }) => (
+const ErrorPage = (props) => (
 	<code>
-		<h1>
-			{`{err.message} occured on the ${err.statusCode ? "server" : "client"} side`}
-		</h1>
-		<pre>{err.stack}</pre>
+		<h1>{`An unexpected error occured`}</h1>
+		<pre>{JSON.stringify(props)}</pre>
 	</code>
 );
 
-ErrorPage.getInitialProps = ({ err }) => {
-	return { err };
+ErrorPage.getInitialProps = (props) => {
+	return props;
 };
 
 export default ErrorPage;
