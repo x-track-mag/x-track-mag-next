@@ -4656,11 +4656,6 @@ react-cool-dimensions@^1.1.10:
   resolved "https://registry.yarnpkg.com/react-cool-dimensions/-/react-cool-dimensions-1.1.10.tgz#3daf1b250fa921141dc4fa3211a452d89f46abde"
   integrity sha512-tVf5sfbETeY5ZZ04WyFPt/GuBY69dlj01V2ujdk+z5vAf6HzEUje1oZ+RgrotSe7bUxMFffDG6QbqqqpIZJgeQ==
 
-react-cool-inview@^1.1.9:
-  version "1.1.9"
-  resolved "https://registry.yarnpkg.com/react-cool-inview/-/react-cool-inview-1.1.9.tgz#51191187513eb231b80db5d403e8c500fc9215a6"
-  integrity sha512-nobsTdWusDq5nrrbkItpRUiZg14m+2fQ8dg1DcgMjrSq9fCzbd5fNBMi/jS0JdVvyzZqg7tKJOTDBN0nghhMyg==
-
 react-dom@^17.0.1:
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-17.0.1.tgz#1de2560474ec9f0e334285662ede52dbc5426fc6"
