@@ -34,8 +34,7 @@ const MetaSEO = ({
 			<meta name="twitter:site" content="X-TRACK MAG" />
 			{author && <meta name="twitter:creator" content={author} />}
 
-			<link rel="icon" type="image/png" href="/images/favicon.ico" />
-			<link rel="apple-touch-icon" href="/static/images/favicon.ico" />
+			<link rel="apple-touch-icon" href="/img/x-track-mag.png" />
 
 			{image && <meta property="og:image" content={image.url} />}
 			{image && <meta name="twitter:image" content={image.url} />}
