@@ -81,6 +81,28 @@
 			"description": "For our first X-Track studio session, our guest Nola Cherri honored us with a performance of her song « Omo » taken from her first EP « These Associations ». "
 		},
 		{
+			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2020-12-07T18:08:35+0000",
+			"title": "",
+			"subtitle": "Best ”XTrack“ of the Week",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/39ed1395-2582-490b-aa89-97b4f5de7104_34035690_1212794012190546_207171007402737664_o.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week /  Les meilleurs sons de la semaine & +++"
+		},
+		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
 			"tags": [
 				"article"
@@ -101,28 +123,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Les apparences trompeuses du pretty privilege"
-		},
-		{
-			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2020-12-07T09:27:58+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/39ed1395-2582-490b-aa89-97b4f5de7104_34035690_1212794012190546_207171007402737664_o.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week /  Les meilleurs sons de la semaine & +++"
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
