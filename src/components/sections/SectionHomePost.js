@@ -1,8 +1,8 @@
 import { useState } from "react";
 import clsx from "clsx";
+import ErrorBoundary from "@components/ErrorBoundary.js";
 import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
 import HeroText from "@components/base/HeroText";
-
 import { HeroLink } from "@components/base/Links";
 import ArticleInfo from "@components/ArticleInfo";
 import { Title, Subtitle } from "@components/base/Typography";
@@ -336,7 +336,11 @@ const analyzeTemplate = (templateChoice) => {
 const SectionHomePost = ({ template, uid, internal_link, ...postData }) => {
 	const Template = analyzeTemplate(template);
 	const link_to = !internal_link ? `/posts/${uid}` : internal_link.uid;
-	return <Template link_to={link_to} {...postData} />;
+	return (
+		<ErrorBoundary>
+			<Template link_to={link_to} {...postData} />
+		</ErrorBoundary>
+	);
 };
 
 export default SectionHomePost;
