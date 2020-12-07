@@ -52,7 +52,7 @@ export const useApexPosition = (ref, margin = "50px") => {
 		);
 
 		const handleScroll = () => {
-			window.requestIdleCallback(() => {
+			window.requestAnimationFrame(() => {
 				setApexPosition(measureApexPosition(element));
 			});
 		};
