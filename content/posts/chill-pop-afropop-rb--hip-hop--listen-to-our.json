@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-07T09:25:21+0000",
+	"publication_date": "2020-12-07T09:27:58+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
@@ -19,6 +19,19 @@
 	"author": null,
 	"internal_link": null,
 	"sections": [
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/39ed1395-2582-490b-aa89-97b4f5de7104_34035690_1212794012190546_207171007402737664_o.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			}
+		},
 		{
 			"template": "section-full-text",
 			"text": [
