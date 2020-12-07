@@ -81,6 +81,28 @@
 			"description": "For our first X-Track studio session, our guest Nola Cherri honored us with a performance of her song « Omo » taken from her first EP « These Associations ». "
 		},
 		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-07T15:38:06+0000",
+			"title": "Les apparences trompeuses du pretty privilege",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null,
+			"template": "2: Image + Titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Les apparences trompeuses du pretty privilege"
+		},
+		{
 			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
 			"tags": [
 				"music"
@@ -120,28 +142,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
-		},
-		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-03T11:55:54+0000",
-			"title": "Les apparences trompeuses du pretty privilege",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
-			},
-			"video_loop": null,
-			"template": "2: Image + Titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
 			"uid": "about-us",
