@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-03T14:00:07+0000",
+	"publication_date": "2020-12-07T09:27:58+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/715d467b-9953-49c0-babf-300af5cab095_126104134_758331958089627_3127191953454400533_o.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/39ed1395-2582-490b-aa89-97b4f5de7104_34035690_1212794012190546_207171007402737664_o.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 1500,
-		"height": 1500,
+		"width": 1080,
+		"height": 1080,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -20,11 +20,54 @@
 	"internal_link": null,
 	"sections": [
 		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/39ed1395-2582-490b-aa89-97b4f5de7104_34035690_1212794012190546_207171007402737664_o.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			}
+		},
+		{
 			"template": "section-full-text",
 			"text": [
 				{
 					"type": "heading3",
 					"text": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week /  Les meilleurs sons de la semaine & +++",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "1) Lovers Rock, un sweet reggae addictif par la Londonienne afro soul Tomi Agape avec la ghanéenne Amaarae, et le nigérian BOJ (produit par c biggzz) figurera sur son EP Never Gunna Be en ligne le 10 décembre",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "2) Out the windows du trio Hip Hop R&B US Lo Village… à écouter en boucle, on adore",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "3) In My head du Français masqué S+C+A+R+R, devenu en un an un des boss de l’electro pop french touch",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
 					"spans": []
 				}
 			]
@@ -33,19 +76,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=o-3SMLmwRb6nG7QTMenkoQ",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=h_LoEAlyRN6NnGPliTxdxw",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://www.deezer.com/us/playlist/4099699282",
-					"title": "Best ”XTrack“ of the Week | Listen on Deezer"
-				},
-				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBJHn5KGmHj3hjzGOTjgKQF",
-					"title": "Best ”XTrack“ of the Week"
-				},
-				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXBPj3s0j3MD",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqR5qh2XgBo",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				}
 			]
