@@ -1,6 +1,6 @@
 import { Box, Flex } from "@chakra-ui/react";
 import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
-import Typography from "@components/base/Typography";
+import { Subtitle } from "@components/base/Typography";
 import Link from "next/link";
 import ArrayExtensions from "@lib/utils/Arrays"; // this will add the shuffle and move methods to Array prototype
 
@@ -12,7 +12,7 @@ import ArrayExtensions from "@lib/utils/Arrays"; // this will add the shuffle an
  */
 const SectionSelectedReads = ({ uid, selected_reads = [] }) => (
 	<Box as="section" className="section-selected-reads">
-		<Typography.Subtitle mb="2rem">A Lire aussi</Typography.Subtitle>
+		<Subtitle mb="2rem">A Lire aussi</Subtitle>
 		<Flex
 			flexDirection="row"
 			alignItems="center"
@@ -36,14 +36,13 @@ const SectionSelectedReads = ({ uid, selected_reads = [] }) => (
 							justifyContent="center"
 						>
 							<Link href={`/posts/${read.uid}`}>
-								<Typography.Subtitle
-									display="block"
+								<Subtitle
 									fontSize="2rem"
 									textColor="white"
 									cursor="pointer"
 								>
 									{read.title}
-								</Typography.Subtitle>
+								</Subtitle>
 							</Link>
 							<BackgroundImageContainer
 								image={read.image}

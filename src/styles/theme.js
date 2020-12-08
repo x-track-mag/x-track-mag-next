@@ -49,6 +49,20 @@ const styles = {
 		main: {
 			paddingBottom: "4rem"
 		},
+		h2: {
+			fontFamily: "Arachne",
+			fontSize: "3.2rem",
+			lineHeight: "3.2rem",
+			textAlign: "center",
+			marginBottom: "1rem"
+		},
+		h3: {
+			fontFamily: "PressGothicPro",
+			fontSize: "3.2rem",
+			lineHeight: "3.4rem",
+			textAlign: "center",
+			textTransform: "uppercase"
+		},
 		a: {
 			outline: "none",
 			outlineStyle: "none"
@@ -66,6 +80,7 @@ const styles = {
 			display: "flex",
 			alignItems: "center",
 			justifyContent: "center",
+			textColor: "white",
 			img: {
 				objectFit: "cover"
 			}

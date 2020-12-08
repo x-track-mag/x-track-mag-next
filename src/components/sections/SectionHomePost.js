@@ -40,7 +40,7 @@ export const Template1 = ({
 			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<ArticleInfo position="absolute" {...articleInfo} textColor="white" />
 			<HeroLink href={link_to}>
-				<HeroText title={title} subtitle={subtitle} textColor="white" />
+				<HeroText title={title} subtitle={subtitle} />
 			</HeroLink>
 		</section>
 	);
@@ -87,7 +87,7 @@ export const Template2 = ({
 				onMouseEnter={() => setHover(true)}
 				onMouseLeave={() => setHover(false)}
 			>
-				<HeroText title={title} textColor="white" />
+				<HeroText title={title} />
 			</HeroLink>
 		</section>
 	);
@@ -127,7 +127,6 @@ export const Template3 = ({ uid, link_to, title = "", image, video_loop }) => {
 			>
 				<HeroText
 					title={title}
-					textColor="white"
 					fontSize="4rem"
 					fontStyle="italic"
 					lineHeight="1em"
@@ -297,7 +296,7 @@ export const Template7 = ({
 				onMouseEnter={() => setBlurred(false)}
 				onMouseLeave={() => setBlurred(true)}
 			>
-				<HeroText title={title} subtitle={subtitle} textColor="white" />
+				<HeroText title={title} subtitle={subtitle} />
 			</HeroLink>
 		</section>
 	);

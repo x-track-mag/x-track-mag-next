@@ -1,6 +1,6 @@
 import { Box } from "@chakra-ui/react";
 import Container from "@components/base/Container";
-import Typography from "@components/base/Typography";
+import { Subtitle } from "@components/base/Typography";
 import MediaPlayer from "@components/players/MediaPlayer";
 
 /**
@@ -17,9 +17,7 @@ const SectionPlaylist = ({ article, playlist, ...props }) => {
 				(media, i) =>
 					media && (
 						<Container className="playlist-container" key={`playlist-${i}`}>
-							<Typography.Subtitle textColor="black">
-								{media.title}
-							</Typography.Subtitle>
+							<Subtitle>{media.title}</Subtitle>
 
 							<MediaPlayer url={media.url} />
 						</Container>

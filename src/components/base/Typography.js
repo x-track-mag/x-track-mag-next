@@ -8,11 +8,12 @@ import { EmbeddedLink } from "./Links";
 export const Title = ({ children, ...moreStyles }) => (
 	<MotionBox
 		as="h2"
-		fontFamily="Arachne"
-		fontSize="3.2rem"
-		lineHeight="3.2rem"
-		textAlign="center"
-		mb="1rem"
+		// NOTE : these styles have been moved in the global Theme
+		// fontFamily="Arachne"
+		// fontSize="3.2rem"
+		// lineHeight="3.2rem"
+		// textAlign="center"
+		// mb="1rem"
 		{...moreStyles}
 	>
 		{children}
@@ -26,11 +27,12 @@ export const Title = ({ children, ...moreStyles }) => (
 export const Subtitle = ({ children, ...moreStyles }) => (
 	<MotionBox
 		as="h3"
-		fontFamily="PressGothicPro"
-		fontSize="3.2rem"
-		lineHeight="3.4rem"
-		textAlign="center"
-		textTransform="uppercase"
+		// NOTE : these styles have been moved in the global Theme
+		// fontFamily="PressGothicPro"
+		// fontSize="3.2rem"
+		// lineHeight="3.4rem"
+		// textAlign="center"
+		// textTransform="uppercase"
 		{...moreStyles}
 	>
 		{children}

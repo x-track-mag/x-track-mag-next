@@ -29,7 +29,6 @@ const SectionHero = ({
 				video_loop={video_loop || article.video_loop}
 			/>
 			<HeroText
-				textColor="white"
 				title={title || article.title}
 				subtitle={subtitle || article.subtitle}
 			/>
