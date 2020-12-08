@@ -78,6 +78,7 @@ export const HeaderNav = ({ links, ...moreProps }) => (
  */
 const Header = () => {
 	// const enableMobileMenu = useBreakpointValue({ base: true, lg: false });
+	const enableMobileMenu = false;
 	const [showMobileMenu, setShowMobileMenu] = useState(false);
 	const toggleMobileMenu = () => setShowMobileMenu(!showMobileMenu);
 	const closeMobileMenu = () => setShowMobileMenu(false);
@@ -106,19 +107,23 @@ const Header = () => {
 					<SvgLogo color="orange" />
 				</Heading>
 
-				<NavButton
-					onClick={toggleMobileMenu}
-					style={{ color: "orange" }} // hack here because Chakra doesn't propagate textColor on a button :(
-				>
-					MENU
-				</NavButton>
+				{enableMobileMenu && (
+					<NavButton
+						onClick={toggleMobileMenu}
+						style={{ color: "orange" }} // hack here because Chakra doesn't propagate textColor on a button :(
+					>
+						MENU
+					</NavButton>
+				)}
 			</Flex>
 
-			<MobileNav
-				links={navigation.links}
-				onNavigate={closeMobileMenu}
-				display={showMobileMenu ? "flex" : "none"}
-			/>
+			{enableMobileMenu && (
+				<MobileNav
+					links={navigation.links}
+					onNavigate={closeMobileMenu}
+					display={showMobileMenu ? "flex" : "none"}
+				/>
+			)}
 		</>
 	);
 };
