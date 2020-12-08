@@ -1,3 +1,5 @@
+import {Icon} from "@chakra-ui/react"
+
 /**
  * Takes the height in CSS units and multiply it by 36/20
  * @param {String} cssHeight
@@ -29,4 +31,23 @@ const SvgHub = ({ size = "1rem", color = "#000" }) => (
 	</svg>
 );
 
-export default SvgHub;
+/**
+ * Try the same thing with Chakra-UI Icon helper
+ * @param {JSX.Element} props 
+ */
+const SvgHubIcon = ({size="1rem", ...props}) => (
+	<Icon viewBox="0 0 36 20" boxSize={size} {...props}>
+		<g fill="none" stroke="currentColor" strokeWidth="1" strokeLinecap="round">
+			<g id="arrow">
+				<path d="M0.5 0v10h11" />
+				<path strokeLinejoin="round" d="M5.5 15l6-5-6-5" />
+			</g>
+			<g id="hub">
+				<circle cx="26" cy="10" r="9.5" />
+				<path d="M16.5 10 h19 m-9.5,-9.5 v19 M19 4 a 10,11 100 0 0 14,0 M19 16 a 10,11 100 0 1 14,0 M26 0.5 a 11,10 100 0 0 0,19 M26 0.5 a 11,10 100 0 1 0,19" />
+			</g>
+		</g>
+	</Icon>
+);
+
+export default SvgHubIcon;
