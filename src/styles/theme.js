@@ -49,9 +49,6 @@ const styles = {
 		main: {
 			paddingBottom: "4rem"
 		},
-		"main.page-content": {
-			paddingTop: "4rem"
-		},
 		a: {
 			outline: "none",
 			outlineStyle: "none"
