@@ -3,7 +3,7 @@ import SectionHero from "@components/sections/SectionHero";
 import ArticleInfo from "@components/ArticleInfo";
 import { SectionResolver, SectionSelectedReads } from "@components/sections/index.js";
 
-const PostPage = ({
+export const PostPage = ({
 	uid,
 	title,
 	subtitle,
@@ -39,7 +39,7 @@ const PostPage = ({
 					article={article}
 					title="--blank--"
 					subtitle="--blank--"
-					pb="4rem"
+					display_credits={true}
 				/>
 			)}
 			{sections.map((section, i) => (
