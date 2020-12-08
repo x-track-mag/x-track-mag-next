@@ -32,7 +32,7 @@ export const getServerSideProps = async ({ params, previewData }) => {
 				previewData
 			)}`
 		);
-		const rawPostData = await getPost(uid);
+		const rawPostData = await getPost(uid, { ref: previewData.token });
 		// Transform the fuck*d up data we get from Prismic
 		const niceAndClean = preparePost(rawPostData);
 
