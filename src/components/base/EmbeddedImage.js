@@ -12,7 +12,7 @@ const EmbeddedImage = ({ image, width = "100%", ...more }) => {
 
 	try {
 		return (
-			<Box as="figure" margin="1rem auto" {...more}>
+			<Box as="figure" {...more}>
 				<AspectRatio ratio={image.ratio} width={width}>
 					<Image
 						className="embedded-image"
