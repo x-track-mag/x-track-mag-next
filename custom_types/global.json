@@ -1,0 +1,61 @@
+{
+	"Informations générales": {
+		"site_url": {
+			"type": "Text",
+			"config": {
+				"label": "Site URL",
+				"placeholder": "L'adresse du site (en production)"
+			}
+		}
+	},
+	"Header": {
+		"header_links": {
+			"type": "Group",
+			"config": {
+				"fields": {
+					"text": {
+						"type": "Text",
+						"config": {
+							"label": "Texte",
+							"placeholder": "Le texte à afficher"
+						}
+					},
+					"url": {
+						"type": "Link",
+						"config": {
+							"allowTargetBlank": true,
+							"label": "URL",
+							"placeholder": "L'URL du lien"
+						}
+					}
+				},
+				"label": "Liens footer"
+			}
+		}
+	},
+	"Footer": {
+		"footer_links": {
+			"type": "Group",
+			"config": {
+				"fields": {
+					"text": {
+						"type": "Text",
+						"config": {
+							"label": "Texte",
+							"placeholder": "Le texte à afficher"
+						}
+					},
+					"url": {
+						"type": "Link",
+						"config": {
+							"allowTargetBlank": true,
+							"label": "URL",
+							"placeholder": "L'URL du lien"
+						}
+					}
+				},
+				"label": "Liens footer"
+			}
+		}
+	}
+}

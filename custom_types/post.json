@@ -60,6 +60,14 @@
 				"label": "Template à utiliser sur la Home"
 			}
 		},
+		"effect": {
+			"type": "Select",
+			"config": {
+				"options": ["0. Aucun", "1. Lettres saccadées", "2. Glissement et fade"],
+				"default_value": "0. Aucun",
+				"label": "Animation"
+			}
+		},
 		"internal_link": {
 			"type": "Link",
 			"config": {
@@ -215,7 +223,6 @@
 							}
 						}
 					},
-
 					"section-gallery": {
 						"type": "Slice",
 						"fieldset": "Gallerie",
