@@ -3,16 +3,24 @@ import { getInstance } from "@lib/clients/PrismicClient";
 function linkResolver(doc) {
 	// Pretty URLs for known types
 	if (doc.type === "post") {
-		return `/posts/${doc.uid}`;
+		return `/preview/posts/${doc.uid}`;
 	}
 
 	// Fallback for other types, in case new custom types get created
-	return `/${doc.uid}`;
+	return `/preview/${doc.uid}`;
 }
 
-export default async function preview(req, res) {
+/**
+ * That's where the Prismic CMS will look for the real preview URL
+ * We'll set the preview mode in Next.js
+ * @param {*} req
+ * @param {*} resp
+ */
+export default async function preview(req, resp) {
 	const { token: ref, documentId } = req.query;
 	const client = getInstance();
+
+	console.log(JSON.stringify(req.query, null, "\t"));
 
 	// Check the token parameter against the Prismic SDK
 	const url = await client
@@ -20,22 +28,22 @@ export default async function preview(req, res) {
 		.resolve(linkResolver, "/");
 
 	if (!url) {
-		return res.status(401).json({ message: "Invalid token" });
+		return resp.status(401).json({ message: "Invalid token" });
 	}
 
 	// Enable Preview Mode by setting the cookies
-	res.setPreviewData({
+	resp.setPreviewData({
 		ref // pass the ref to pages so that they can fetch the draft ref
 	});
 
 	// Redirect the user to the share endpoint from same origin. This is
 	// necessary due to a Chrome bug:
 	// https://bugs.chromium.org/p/chromium/issues/detail?id=696204
-	res.write(
+	resp.write(
 		`<!DOCTYPE html><html><head><meta http-equiv="Refresh" content="0; url=${url}" />
     <script>window.location.href = '${url}'</script>
     </head>`
 	);
 
-	res.end();
+	resp.end();
 }
