@@ -18,6 +18,7 @@ const PreviewPost = (props) => (
 
 /**
  * Get props directly from Prismic
+ * The previewData contains a token to access draft version of document in Prismic
  * @param {Object} context
  * @param {Object} context.params
  * @param {Object} context.previewData
@@ -26,7 +27,11 @@ export const getServerSideProps = async ({ params, previewData }) => {
 	try {
 		// Get the UID of the Post and retrieve it with the Prismic Client
 		const uid = params.uid;
-		console.log(`Previewing the post ${uid}`);
+		console.log(
+			`Previewing the post ${uid} with preview data : ${JSON.stringify(
+				previewData
+			)}`
+		);
 		const rawPostData = await getPost(uid);
 		// Transform the fuck*d up data we get from Prismic
 		const niceAndClean = preparePost(rawPostData);

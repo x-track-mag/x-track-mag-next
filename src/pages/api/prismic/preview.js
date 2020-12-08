@@ -17,14 +17,14 @@ function linkResolver(doc) {
  * @param {*} resp
  */
 export default async function preview(req, resp) {
-	const { token: ref, documentId } = req.query;
+	const { token, documentId } = req.query;
 	const client = getInstance();
 
 	console.log(JSON.stringify(req.query, null, "\t"));
 
 	// Check the token parameter against the Prismic SDK
 	const url = await client
-		.getPreviewResolver(ref, documentId)
+		.getPreviewResolver(token, documentId)
 		.resolve(linkResolver, "/");
 
 	if (!url) {
@@ -33,7 +33,7 @@ export default async function preview(req, resp) {
 
 	// Enable Preview Mode by setting the cookies
 	resp.setPreviewData({
-		ref // pass the ref to pages so that they can fetch the draft ref
+		token // pass the token in the preview data to enable to request the draft
 	});
 
 	// Redirect the user to the share endpoint from same origin. This is
