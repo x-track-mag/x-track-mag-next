@@ -12,7 +12,9 @@ const footerStyle = {
 	padding: "0 2rem",
 	alignItems: "center",
 	justify: "space-between",
-	textColor: "black"
+	textColor: "orange",
+
+	style: { mixBlendMode: "difference", color: "orange" } // once again the textColor property is not propagated
 };
 
 /**
@@ -26,7 +28,7 @@ const Footer = () => {
 	return (
 		<Flex as="footer" id="page-footer" {...footerStyle}>
 			<NavLink href="https://x-track.net">
-				<SvgHub size="2rem" />
+				<SvgHub size="3rem" _hover={{ stroke: "brand.green" }} />
 			</NavLink>
 			<NavLink href="https://www.instagram.com/xtrackmag">Instagram</NavLink>
 			<NavLink href="https://open.spotify.com/user/x2swd5kbhnscczttswze3y9gy">
