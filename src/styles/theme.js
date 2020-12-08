@@ -1,6 +1,9 @@
 // 1. Import the extendTheme function
 import { extendTheme } from "@chakra-ui/react";
 import { createBreakpoints } from "@chakra-ui/theme-tools";
+import { TypographicStyles } from "@components/base/Typography";
+
+const components = { ...TypographicStyles };
 
 // 2. Update the breakpoints as key-value pairs
 const breakpoints = createBreakpoints({
@@ -89,6 +92,6 @@ const styles = {
 	}
 };
 
-const customTheme = extendTheme({ breakpoints, colors, fonts, styles });
+const customTheme = extendTheme({ breakpoints, colors, fonts, styles, components });
 
 export default customTheme;

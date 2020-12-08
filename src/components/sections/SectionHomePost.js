@@ -4,6 +4,7 @@ import ErrorBoundary from "@components/ErrorBoundary.js";
 import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
 import HeroText from "@components/base/HeroText";
 import { HeroLink } from "@components/base/Links";
+import StaggeringText from "@components/animations/StaggeringText";
 import ArticleInfo from "@components/ArticleInfo";
 import { Title, Subtitle } from "@components/base/Typography";
 import Container from "@components/base/Container";
@@ -166,7 +167,8 @@ export const Template4 = ({ uid, link_to, title = "", image, video_loop }) => {
 					position="relative"
 				/>
 				<Box as="footer" height="4rem" flexGrow="0" pt="0.5rem" width="100%">
-					<Subtitle textColor="black">{title}</Subtitle>
+					<StaggeringText as={Subtitle} text={title} textColor="black" />
+					{/* <Subtitle textColor="black">{title}</Subtitle> */}
 				</Box>
 			</Flex>
 		</HeroLink>

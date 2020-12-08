@@ -1,41 +1,62 @@
-import { Text, Box } from "@chakra-ui/react";
-import MotionBox from "./MotionBox.js";
+import { Text, Box, extendTheme, useStyleConfig } from "@chakra-ui/react";
+import MotionBox, { makeMotionBox } from "./MotionBox.js";
 import { RichText as PrismicRichTextRenderer, Elements } from "prismic-reactjs";
 import { fixImage } from "@lib/transform/PrismicDataTransformers";
 import EmbeddedImage from "./EmbeddedImage";
 import { EmbeddedLink } from "./Links";
 
-export const Title = ({ children, ...moreStyles }) => (
-	<MotionBox
-		as="h2"
-		fontFamily="Arachne"
-		fontSize="3.2rem"
-		lineHeight="3.2rem"
-		textAlign="center"
-		mb="1rem"
-		{...moreStyles}
-	>
-		{children}
-	</MotionBox>
-);
+// 1. Define our new component styles
+export const TypographicStyles = {
+	Title: {
+		baseStyle: {
+			as: "h2",
+			fontFamily: "Arachne",
+			fontSize: "3.2rem",
+			lineHeight: "3.2rem",
+			textAlign: "center",
+			mb: "1rem"
+		}
+	},
+	Subtitle: {
+		baseStyle: {
+			as: "h3",
+			fontFamily: "PressGothicPro",
+			fontSize: "3.2rem",
+			lineHeight: "3.4rem",
+			textAlign: "center",
+			textTransform: "uppercase"
+		}
+	}
+};
+
+// 2. Call `extendTheme` and pass our new component styles`
+// const theme = extendTheme({ components });
+
+const makeComponent = (componentName) => ({ size, variant, ...rest }) => {
+	const styles = useStyleConfig(componentName, { size, variant });
+	console.log(
+		`Found component ${componentName} with style = ${JSON.stringify(
+			styles,
+			null,
+			"\t"
+		)}`
+	);
+	return <Box sx={styles} {...rest} />;
+};
+
+// 3. Export each new components
+export const Title = makeComponent("Title");
+export const AnimatedTitle = makeMotionBox(TypographicStyles.Title.baseStyle);
 
 /**
  * Second default title style using Press Gothic Pro
  * Accepts animation properties
  */
-export const Subtitle = ({ children, ...moreStyles }) => (
-	<MotionBox
-		as="h3"
-		fontFamily="PressGothicPro"
-		fontSize="3.2rem"
-		lineHeight="3.4rem"
-		textAlign="center"
-		textTransform="uppercase"
-		{...moreStyles}
-	>
-		{children}
-	</MotionBox>
-);
+export const Subtitle = ({ size, variant, ...rest }) => {
+	const styles = useStyleConfig("Subtitle", { size, variant });
+	return <Box sx={styles} {...rest} />;
+};
+export const AnimatedSubtitle = makeMotionBox(TypographicStyles.Subtitle.baseStyle);
 
 export const Message = ({ children }) => (
 	<Box
