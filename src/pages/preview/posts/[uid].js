@@ -41,6 +41,7 @@ export const getServerSideProps = async ({ params, previewData }) => {
 		};
 	} catch (err) {
 		console.error(err);
+		return JSON.stringify(err.stack, null, "\t");
 	}
 };
 
