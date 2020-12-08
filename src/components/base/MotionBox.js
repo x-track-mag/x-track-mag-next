@@ -10,17 +10,25 @@ import { Box } from "@chakra-ui/react";
  */
 // const MotionBox = motion.custom(Box);
 const MotionBox = motion.custom(
-	forwardRef(({ whileHover, animate, transition, variants, initial, ...rest }, ref) => (
-		<Box ref={ref} {...rest} />
-	))
+	forwardRef(
+		({ whileHover, animate, transition, variants, initial, ...moreProps }, ref) => (
+			<Box ref={ref} {...moreProps} />
+		)
+	)
 );
 
+/**
+ * Build a MotionBox (ie : a mixin between a Chakra Box and a Framer motion div)
+ * That will always receive default properties (style) and allow to forward `ref` too.
+ * @param {Object} defaultProps
+ */
 export const makeMotionBox = ({ ...defaultProps }) =>
 	motion.custom(
 		forwardRef(
-			({ whileHover, animate, transition, variants, initial, ...rest }, ref) => (
-				<Box ref={ref} {...defaultProps} {...rest} />
-			)
+			(
+				{ whileHover, animate, transition, variants, initial, ...moreProps },
+				ref
+			) => <Box ref={ref} {...defaultProps} {...moreProps} />
 		)
 	);
 
