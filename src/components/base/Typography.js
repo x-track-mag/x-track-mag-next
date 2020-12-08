@@ -1,22 +1,9 @@
-import { forwardRef } from "react";
 import { Text, Box } from "@chakra-ui/react";
-import { motion } from "framer-motion";
+import MotionBox from "./MotionBox.js";
 import { RichText as PrismicRichTextRenderer, Elements } from "prismic-reactjs";
 import { fixImage } from "@lib/transform/PrismicDataTransformers";
 import EmbeddedImage from "./EmbeddedImage";
 import { EmbeddedLink } from "./Links";
-
-/**
- * This will allow us to animate all this typographic elements
- * with framer-motion properties
- * @see https://github.com/chakra-ui/chakra-ui/issues/2538 for the quirks
- */
-// const MotionBox = motion.custom(Box);
-const MotionBox = motion.custom(
-	forwardRef(({ whileHover, animate, transition, ...rest }, ref) => (
-		<Box ref={ref} {...rest} />
-	))
-);
 
 export const Title = ({ children, ...moreStyles }) => (
 	<MotionBox
