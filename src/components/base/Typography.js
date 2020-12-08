@@ -5,36 +5,26 @@ import { fixImage } from "@lib/transform/PrismicDataTransformers";
 import EmbeddedImage from "./EmbeddedImage";
 import { EmbeddedLink } from "./Links";
 
+/**
+ * The main Title to use for article posts and home sections
+ * Accepts Framer motion animation props as well as Chakra UI style props
+ * (NOTE : the base styles have been moved in the global Theme)
+ * fontFamily="Arachne", fontSize="3.2rem", lineHeight="3.2rem", textAlign="center", mb="1rem"
+ */
 export const Title = ({ children, ...moreStyles }) => (
-	<MotionBox
-		as="h2"
-		// NOTE : these styles have been moved in the global Theme
-		// fontFamily="Arachne"
-		// fontSize="3.2rem"
-		// lineHeight="3.2rem"
-		// textAlign="center"
-		// mb="1rem"
-		{...moreStyles}
-	>
+	<MotionBox as="h2" {...moreStyles}>
 		{children}
 	</MotionBox>
 );
 
 /**
  * Second default title style using Press Gothic Pro
- * Accepts animation properties
+ * Accepts Framer motion animation props as well as Chakra UI style props
+ * (NOTE : the base styles have been moved in the global Theme)
+ * fontFamily="PressGothicPro", textTransform="uppercase", fontSize="3.2rem", lineHeight="3.4rem", textAlign="center"
  */
 export const Subtitle = ({ children, ...moreStyles }) => (
-	<MotionBox
-		as="h3"
-		// NOTE : these styles have been moved in the global Theme
-		// fontFamily="PressGothicPro"
-		// fontSize="3.2rem"
-		// lineHeight="3.4rem"
-		// textAlign="center"
-		// textTransform="uppercase"
-		{...moreStyles}
-	>
+	<MotionBox as="h3" {...moreStyles}>
 		{children}
 	</MotionBox>
 );
@@ -153,7 +143,9 @@ const htmlSerializer = (type, element, content, children, key) => {
 
 		// Wrap images inside a <figure> with <figurecaption>
 		case Elements.image:
-			return <EmbeddedImage image={fixImage(element)} key={key} />;
+			return (
+				<EmbeddedImage image={fixImage(element)} key={key} margin="1rem auto" />
+			);
 
 		// Add a class to hyperlinks
 		case Elements.hyperlink:
