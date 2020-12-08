@@ -39,8 +39,10 @@ const useIntersectionObserver = (ref, options) => {
 				setIntersectionObserverEntry(null);
 				observer.disconnect();
 			};
+		} else {
+			// nope. Element is not mounted or we are on SSR
+			return () => {};
 		}
-		return () => {};
 	}, [ref.current, options.threshold, options.root, options.rootMargin]);
 
 	return intersectionObserverEntry;
