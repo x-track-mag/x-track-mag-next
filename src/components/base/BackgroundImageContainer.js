@@ -1,6 +1,7 @@
 import { Box } from "@chakra-ui/react";
 import Image from "next/image";
 import BackgroundVideo from "react-video-cover";
+import { Caption } from "./Typography";
 
 /**
  * @typedef ImageDescr
@@ -29,13 +30,14 @@ const BackgroundImageContainer = ({
 	video_loop,
 	width = "100%",
 	height = "100%",
+	display_credits = false,
 	...moreStyle
 }) => {
 	if (!image && !video_loop) return null;
 
-	// Calculate the width and height and position to fill the container
 	return (
 		<Box
+			as="figure"
 			className="background-image-container"
 			width={width}
 			height={height}
@@ -45,14 +47,24 @@ const BackgroundImageContainer = ({
 			{...moreStyle}
 		>
 			{image && (
-				<Image
-					className="background-image"
-					src={image.url}
-					alt={image.alt}
-					objectFit="cover"
-					layout="fill"
-				/>
+				<>
+					<Image
+						className="background-image"
+						src={image.url}
+						alt={image.alt}
+						objectFit="cover"
+						layout="fill"
+						mb={display_credits ? "2rem" : "0"}
+					/>
+					{display_credits && image.alt && (
+						<Caption as="figurecaption">{image.alt}</Caption>
+					)}
+					{display_credits && image.copyright && (
+						<Caption as="figurecaption">{`© ${image.copyright}`}</Caption>
+					)}
+				</>
 			)}
+
 			{!image && video_loop && (
 				<BackgroundVideo
 					videoOptions={{
