@@ -100,10 +100,10 @@ export const getPages = async (params = {}) => {
  * @param {String} [queryParameters.type="post"] Type of entry to retrieve
  * @param {String} queryParameters.uid! Required : the UID value of this entry
  */
-export const getEntry = async ({ type = "post", uid, params }) => {
+export const getEntry = async ({ type = "post", uid, params = {} }) => {
 	try {
 		const client = getInstance();
-		return await client.getByUID(type, uid, { params });
+		return await client.getByUID(type, uid, params);
 	} catch (err) {
 		console.error(err);
 		return {
@@ -113,7 +113,8 @@ export const getEntry = async ({ type = "post", uid, params }) => {
 	}
 };
 
-export const getPost = async (uid, params) => getEntry({ type: "post", uid, params });
+export const getPost = async (uid, params = {}) =>
+	getEntry({ type: "post", uid, params });
 
 // For reference : code from prismic/slicezone
 // async function fetchDocs(client, params, page = 1, routes = []) {
