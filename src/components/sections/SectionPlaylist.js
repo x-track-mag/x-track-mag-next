@@ -17,7 +17,7 @@ const SectionPlaylist = ({ article, playlist, ...props }) => {
 				(media, i) =>
 					media && (
 						<Container className="playlist-container" key={`playlist-${i}`}>
-							<Subtitle>{media.title}</Subtitle>
+							<Subtitle as="h4">{media.title}</Subtitle>
 
 							<MediaPlayer url={media.url} />
 						</Container>

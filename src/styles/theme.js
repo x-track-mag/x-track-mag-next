@@ -63,6 +63,14 @@ const styles = {
 			textAlign: "center",
 			textTransform: "uppercase"
 		},
+		h4: {
+			fontFamily: "PressGothicPro",
+			fontSize: "2.2rem",
+			lineHeight: "3.4rem",
+			textAlign: "center",
+			textTransform: "uppercase",
+			textColor: "brand.orange"
+		},
 		a: {
 			outline: "none",
 			outlineStyle: "none"
