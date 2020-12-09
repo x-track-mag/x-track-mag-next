@@ -6,7 +6,7 @@ const MetaSEO = ({
 	keywords,
 	tags = [],
 	title = "ACCUEIL",
-	baseUrl = "https://x-track-mag.fr",
+	baseUrl = "https://mag.x-track.net",
 	publication_date,
 	description = "",
 	author = "X-TRACK MAG",
