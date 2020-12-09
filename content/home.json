@@ -63,7 +63,7 @@
 				"music",
 				"live session"
 			],
-			"publication_date": "2020-12-03T10:58:53+0000",
+			"publication_date": "2020-12-09T11:10:48+0000",
 			"title": "Nola Cherri",
 			"subtitle": "Live Session",
 			"image": {
@@ -79,6 +79,26 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "For our first X-Track studio session, our guest Nola Cherri honored us with a performance of her song « Omo » taken from her first EP « These Associations ». "
+		},
+		{
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [],
+			"publication_date": "2020-12-09T10:07:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
+			},
+			"video_loop": null,
+			"template": "4: Image + Titre en footer",
+			"author": "Camille Laurence",
+			"internal_link": null,
+			"description": "A l’aube d’une mutation planétaire provoquée par la crise du Coronavirus, le secteur de la mode, plus que jamais, se retrouve poussé dans ses retranchements. Fashion Week rendue caduque, magasins ouverts aux compte-gouttes, mais aussi remise en question des mentalités quant aux enseignes de luxe :  le monde post-covid ne sera définitivement plus le même. "
 		},
 		{
 			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
@@ -101,6 +121,29 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of the Week /  Les meilleurs sons de la semaine & +++"
+		},
+		{
+			"uid": "about-us",
+			"tags": [],
+			"publication_date": "2020-11-26T17:20:46+0000",
+			"title": "Qui sommes nous ?",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1125,
+				"ratio": 1.7777777777777777
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
@@ -142,29 +185,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
-		},
-		{
-			"uid": "about-us",
-			"tags": [],
-			"publication_date": "2020-11-26T17:20:46+0000",
-			"title": "Qui sommes nous ?",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1125,
-				"ratio": 1.7777777777777777
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
 		},
 		{
 			"uid": "lhysterie",
@@ -221,26 +241,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": ""
-		},
-		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [],
-			"publication_date": "2020-12-02T10:44:45+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": null,
-			"internal_link": null,
-			"description": "A l’aube d’une mutation planétaire provoquée par la crise du Coronavirus, le secteur de la mode, plus que jamais, se retrouve poussé dans ses retranchements. Fashion Week rendue caduque, magasins ouverts aux compte-gouttes, mais aussi remise en question des mentalités quant aux enseignes de luxe :  le monde post-covid ne sera définitivement plus le même. "
 		},
 		{
 			"uid": "polycool",
