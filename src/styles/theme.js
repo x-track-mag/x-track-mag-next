@@ -53,7 +53,8 @@ const styles = {
 			fontFamily: "Arachne",
 			fontSize: "3.2rem",
 			lineHeight: "3.4rem",
-			textAlign: "center"
+			textAlign: "center",
+			padding: "1.5rem 0 0.5rem"
 		},
 		h3: {
 			fontFamily: "PressGothicPro",
@@ -68,6 +69,16 @@ const styles = {
 		},
 		"a.active": {
 			textColor: "brand.green"
+		},
+		blockquote: {
+			fontFamily: "Arachne",
+			width: "100%",
+			textAlign: "center",
+			fontSize: "1.3rem",
+			lineHeight: "1.6rem",
+			border: "solid black 5px",
+			borderRadius: "100%",
+			padding: { base: "3rem 4rem 3rem", lg: "3.5rem 5rem" }
 		},
 		section: {
 			margin: 0,

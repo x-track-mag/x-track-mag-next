@@ -44,19 +44,16 @@ export const Message = ({ children }) => (
 	</Box>
 );
 
+// fontFamily="Arachne"
+// fontSize="1.2rem"
+// lineHeight="1.6rem"
+// textAlign="center"
+// width="100%"
+// border="solid black 5px"
+// borderRadius="100%"
+// padding={{ base: "3.5rem 4rem 3rem", lg: "3.5rem 5rem" }}
 export const Blockquote = ({ text, ...moreStyles }) => (
-	<MotionBox
-		as="blockquote"
-		fontFamily="Arachne"
-		fontSize="1.2rem"
-		lineHeight="1.6rem"
-		textAlign="center"
-		width="100%"
-		padding={{ base: "3rem 4rem", lg: "3.5rem 5rem" }}
-		border="solid black 5px"
-		borderRadius="100%"
-		{...moreStyles}
-	>
+	<MotionBox as="blockquote" {...moreStyles}>
 		{Array.isArray(text)
 			? text.map((paragraph, i) => <p key={`blocquote-p-${i}`}>{paragraph.text}</p>)
 			: { text }}
@@ -132,11 +129,7 @@ const htmlSerializer = (type, element, content, children, key) => {
 			return <Text key={key}>{children}</Text>;
 
 		case Elements.heading2:
-			return (
-				<Title key={key} padding="1.5rem 0 0.5rem">
-					{element.text}
-				</Title>
-			);
+			return <Title key={key}>{element.text}</Title>;
 
 		case Elements.heading3:
 			return <Subtitle key={key}>{element.text}</Subtitle>;
