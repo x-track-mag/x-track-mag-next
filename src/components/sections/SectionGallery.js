@@ -14,7 +14,7 @@ const isImageFirst = (columnsOrder) =>
  *
  */
 const SectionGallery = ({ gallery }) => (
-	<Box as="section" className="section-gallery">
+	<Box as="section" className="section-gallery" margin="0.5rem 0">
 		<SimpleGrid
 			columns={3}
 			spacing={{ base: "0", md: "2rem" }}

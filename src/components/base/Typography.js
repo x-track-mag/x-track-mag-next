@@ -52,7 +52,7 @@ export const Blockquote = ({ text, ...moreStyles }) => (
 		lineHeight="1.6rem"
 		textAlign="center"
 		width="100%"
-		padding={["3rem 4.5rem", "3.5rem 6rem", "4rem 6.6rem"]}
+		padding={{ base: "3rem 4rem", lg: "3.5rem 5rem" }}
 		border="solid black 5px"
 		borderRadius="100%"
 		{...moreStyles}
@@ -133,7 +133,7 @@ const htmlSerializer = (type, element, content, children, key) => {
 
 		case Elements.heading2:
 			return (
-				<Title key={key} padding="1.4rem 0 0.3rem">
+				<Title key={key} padding="1.5rem 0 0.5rem">
 					{element.text}
 				</Title>
 			);

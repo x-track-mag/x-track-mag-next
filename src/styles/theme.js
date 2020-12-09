@@ -39,7 +39,7 @@ export const fonts = {
 const styles = {
 	global: {
 		html: {
-			fontSize: ["16px", "20px", "24px", "26px", "30px"]
+			fontSize: ["16px", "19px", "22px", "26px", "30px"]
 		},
 		body: {
 			overflowX: "hidden",
@@ -52,9 +52,8 @@ const styles = {
 		h2: {
 			fontFamily: "Arachne",
 			fontSize: "3.2rem",
-			lineHeight: "3.2rem",
-			textAlign: "center",
-			marginBottom: "1rem"
+			lineHeight: "3.4rem",
+			textAlign: "center"
 		},
 		h3: {
 			fontFamily: "PressGothicPro",
@@ -93,13 +92,17 @@ const styles = {
 				filter: "blur(8px)"
 			}
 		},
-
 		".background-image-container": {
 			zIndex: -1,
 			position: "absolute"
 		},
 		".hero-text": {
 			zIndex: 999
+		},
+		".container": {
+			p: {
+				margin: "1rem 0"
+			}
 		}
 	}
 };
