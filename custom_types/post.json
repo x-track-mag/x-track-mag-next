@@ -15,6 +15,13 @@
 				"label": "Sous-titre"
 			}
 		},
+		"description": {
+			"type": "Text",
+			"config": {
+				"label": "Résumé",
+				"placeholder": "Cette description est utile pour les moteurs de recherche (SEO)"
+			}
+		},
 		"uid": {
 			"type": "UID",
 			"config": {
