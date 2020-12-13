@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-13T16:17:44+0000",
+	"publication_date": "2020-12-13T16:38:49+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -16,7 +16,7 @@
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
-	"author": "François Roy",
+	"author": null,
 	"internal_link": null,
 	"sections": [
 		{
