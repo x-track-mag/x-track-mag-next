@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-13T15:55:08+0000",
+	"publication_date": "2020-12-13T15:58:05+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -92,6 +92,15 @@
 			]
 		},
 		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=NoXejgMFQGqT7zRve4Tvpg",
+					"title": "Best ”XTrack“ of 2020"
+				}
+			]
+		},
+		{
 			"template": "section-gallery",
 			"gallery": [
 				{
@@ -123,10 +132,6 @@
 		{
 			"template": "section-playlist",
 			"playlist": [
-				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=NoXejgMFQGqT7zRve4Tvpg",
-					"title": "Best ”XTrack“ of 2020"
-				},
 				{
 					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2020/pl.u-kv9l7eDCDY8qp",
 					"title": "Best ”XTrack“ of 2020 par XTrack"
