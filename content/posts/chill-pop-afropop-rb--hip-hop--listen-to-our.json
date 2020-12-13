@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-13T16:13:19+0000",
+	"publication_date": "2020-12-13T16:15:39+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -16,7 +16,7 @@
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
-	"author": "François Roy",
+	"author": "XTrack",
 	"internal_link": null,
 	"sections": [
 		{
@@ -132,28 +132,6 @@
 					"title": "Best ”XTrack“ of 2020 par XTrack"
 				}
 			]
-		},
-		{
-			"template": "section-video-launcher",
-			"text": [],
-			"link": {
-				"version": "1.0",
-				"url": "http://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-				"type": "link",
-				"title": "Best ”XTrack“ of 2020",
-				"provider_name": "website",
-				"thumbnail_url": "https://i.ytimg.com/vi/lzQrePOo_xc/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA96_MEHfYV8DLOwu7buArPbgs2ig&days_since_epoch=18609",
-				"html": "<div data-type=\"website\"><a href=\"http://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP\"><h1>Best ”XTrack“ of 2020</h1><img src=\"https://i.ytimg.com/vi/lzQrePOo_xc/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA96_MEHfYV8DLOwu7buArPbgs2ig&days_since_epoch=18609\"><p>Chill, Pop, Afropop, R&B, & Hip Hop / Best ”XTrack“ of 2020 / Les meilleurs sons de 2020 & Cover : Tierra Whack</p></a></div>",
-				"embed_url": "https://youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP"
-			},
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
-			}
 		},
 		{
 			"template": "section-playlist",
