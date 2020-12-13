@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-13T15:49:07+0000",
+	"publication_date": "2020-12-13T15:52:49+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -67,7 +67,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/86baa927-2219-4b9b-9ce9-da1c950e1ccc_Tierra+Whack+in+blue.jpg?auto=compress,format&rect=0,0,1125,1071&w=1024&h=975",
-					"alt": null,
+					"alt": "Tierra Whack",
 					"copyright": null,
 					"width": 1024,
 					"height": 975,
@@ -75,11 +75,19 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/b4cef05a-5cfa-4ced-b374-9e33430b6d79_Biig+Piig.jpg?auto=compress,format&rect=0,0,959,960&w=1024&h=1025",
-					"alt": null,
+					"alt": "Biig Piig",
 					"copyright": null,
 					"width": 1024,
 					"height": 1025,
 					"ratio": 0.9990243902439024
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a937f480-86b2-4b51-b99b-5465f4f3a016_Sault-Untitled+%28Black+Is%29+Cover+%2B.jpeg?auto=compress,format&rect=0,0,2399,2338&w=1024&h=998",
+					"alt": "Sault",
+					"copyright": null,
+					"width": 1024,
+					"height": 998,
+					"ratio": 1.0260521042084167
 				}
 			]
 		},
