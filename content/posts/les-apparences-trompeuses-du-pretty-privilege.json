@@ -3,19 +3,19 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-07T16:48:53+0000",
-	"title": "Les apparences trompeuses du pretty privilege",
+	"publication_date": "2020-12-14T16:26:18+0000",
+	"title": "Les apparences trompeuses du Pretty Privilege",
 	"subtitle": "",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-		"alt": null,
-		"copyright": null,
+		"alt": "Once a Playmate, Always a Playmate..",
+		"copyright": "Nadia Lee Cohen",
 		"width": 2000,
 		"height": 1590,
 		"ratio": 1.2578616352201257
 	},
 	"video_loop": null,
-	"template": "2: Image + Titre + infos",
+	"template": "1: Image + Titre + sous-titre + infos",
 	"author": null,
 	"internal_link": null,
 	"sections": [
@@ -25,16 +25,6 @@
 				{
 					"type": "heading2",
 					"text": "Les apparences trompeuses du pretty privilege",
-					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-quote",
-			"text": [
-				{
-					"type": "paragraph",
-					"text": "Je suis une jolie fille, je ne paie pas mes verres au bar ! Les garçons les paient pour moi, je n’utilise pas ma carte de crédit. (…) Il m’emmène où je veux, je n’ai pas besoin de voiture !",
 					"spans": []
 				}
 			]
@@ -57,6 +47,16 @@
 					"width": 1024,
 					"height": 828,
 					"ratio": 1.2367149758454106
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Je suis une jolie fille, je ne paie pas mes verres au bar ! Les garçons les paient pour moi, je n’utilise pas ma carte de crédit. (…) Il m’emmène où je veux, je n’ai pas besoin de voiture !",
+					"spans": []
 				}
 			]
 		},
@@ -89,19 +89,6 @@
 					"spans": []
 				}
 			]
-		},
-		{
-			"template": "section-hero",
-			"title": "blank",
-			"subtitle": "blank",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/890471eb-e0de-43d1-a27c-b05480006af2_NADIA+LEE+COHE-WEBZINE-CULTURE-X-TRACK-PHOTOGRAPHY.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2500,
-				"height": 1988,
-				"ratio": 1.2575452716297786
-			}
 		},
 		{
 			"template": "section-full-text",
@@ -141,7 +128,25 @@
 					"type": "paragraph",
 					"text": "On voit donc que ce classement divise les femmes, crée des complexes et des injustices mais, au-delà de ça, maintient les hommes en position de pouvoir. ",
 					"spans": []
-				},
+				}
+			]
+		},
+		{
+			"template": "section-hero",
+			"title": "--blank--",
+			"subtitle": "--blank--",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/890471eb-e0de-43d1-a27c-b05480006af2_NADIA+LEE+COHE-WEBZINE-CULTURE-X-TRACK-PHOTOGRAPHY.jpg?auto=compress,format",
+				"alt": "Once a Playmate, Always a Playmate..",
+				"copyright": "Nadia Lee Cohen",
+				"width": 2500,
+				"height": 1988,
+				"ratio": 1.2575452716297786
+			}
+		},
+		{
+			"template": "section-full-text",
+			"text": [
 				{
 					"type": "paragraph",
 					"text": "Par ailleurs, ce pretty privilege participe de l’objectification des femmes tout en la mettant en lumière. En effet, contrairement aux hommes, on attend des femmes qu’elles soient belles. La beauté est, pour les femmes, une forme de réussite à part entière. Le livre Le corps et la beauté (1999) de Jean Maisonneuve et Marilou Bruchon-Schweitzer mentionne une étude prouvant que « les couples mariés sont bien constitués de partenaires de désirabilité équivalente mais les atouts mis dans la balance ne sont pas forcément les mêmes : popularité, compétences sociales, intelligence, réussite (pour l’homme), beauté et qualités affectives (pour la femme). » Selon le même ouvrage, « les femmes plus belles auront tendance à épouser des hommes au statut social plus élevé que le leur (et les hommes riches et/ou célèbres, des femmes plus attrayantes qu’eux.) » ",

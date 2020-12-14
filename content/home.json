@@ -42,11 +42,11 @@
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"title": "Les apparences trompeuses du pretty privilege",
+			"title": "Les apparences trompeuses du Pretty Privilege",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
+				"alt": "Once a Playmate, Always a Playmate..",
+				"copyright": "Nadia Lee Cohen",
 				"width": 2000,
 				"height": 1590,
 				"ratio": 1.2578616352201257
@@ -79,6 +79,28 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "For our first X-Track studio session, our guest Nola Cherri honored us with a performance of her song « Omo » taken from her first EP « These Associations ». "
+		},
+		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-14T16:26:18+0000",
+			"title": "Les apparences trompeuses du Pretty Privilege",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": "Once a Playmate, Always a Playmate..",
+				"copyright": "Nadia Lee Cohen",
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
 			"uid": "martin-parr",
@@ -118,28 +140,6 @@
 			"description": ""
 		},
 		{
-			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2020-12-14T07:06:23+0000",
-			"title": "",
-			"subtitle": "Best ”XTrack“ of 2020",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of 2020 /  Les meilleurs sons de 2020 "
-		},
-		{
 			"uid": "about-us",
 			"tags": [],
 			"publication_date": "2020-11-26T17:20:46+0000",
@@ -163,6 +163,28 @@
 			"description": ""
 		},
 		{
+			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2020-12-14T07:06:23+0000",
+			"title": "",
+			"subtitle": "Best ”XTrack“ of 2020",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of 2020 /  Les meilleurs sons de 2020 "
+		},
+		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 			"tags": [
 				"article"
@@ -183,28 +205,6 @@
 			"author": "Camille Laurence",
 			"internal_link": null,
 			"description": "A l’aube d’une mutation planétaire provoquée par la crise du Coronavirus, le secteur de la mode, plus que jamais, se retrouve poussé dans ses retranchements. Fashion Week rendue caduque, magasins ouverts aux compte-gouttes, mais aussi remise en question des mentalités quant aux enseignes de luxe :  le monde post-covid ne sera définitivement plus le même. "
-		},
-		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-07T16:48:53+0000",
-			"title": "Les apparences trompeuses du pretty privilege",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
-			},
-			"video_loop": null,
-			"template": "2: Image + Titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
