@@ -32,8 +32,8 @@
 			"title": "Martin Parr",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
+				"alt": "Plage de Nice",
+				"copyright": "Martin Parr",
 				"width": 1280,
 				"height": 854,
 				"ratio": 1.4988290398126465
@@ -85,13 +85,13 @@
 			"tags": [
 				"article"
 			],
-			"publication_date": "2020-12-14T08:45:58+0000",
+			"publication_date": "2020-12-14T08:52:13+0000",
 			"title": "Martin Parr",
 			"subtitle": "Un Monde à Parr",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
+				"alt": "Plage de Nice",
+				"copyright": "Martin Parr",
 				"width": 1280,
 				"height": 854,
 				"ratio": 1.4988290398126465
