@@ -51,10 +51,9 @@ const BackgroundImageContainer = ({
 					<Image
 						className="background-image"
 						src={image.url}
-						alt={image.alt}
+						alt={image.alt + image.copyright ? ` - © ${image.copyright}` : ""}
 						objectFit="cover"
 						layout="fill"
-						mb={display_credits ? "2rem" : "0"}
 					/>
 					{display_credits && image.alt && (
 						<Caption
