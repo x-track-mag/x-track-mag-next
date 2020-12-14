@@ -81,6 +81,28 @@
 			"description": "For our first X-Track studio session, our guest Nola Cherri honored us with a performance of her song « Omo » taken from her first EP « These Associations ». "
 		},
 		{
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-14T18:07:45+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurence",
+			"internal_link": null,
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
+		},
+		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
 			"tags": [
 				"article"
@@ -125,21 +147,6 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-14T14:55:19+0000",
-			"title": "2020 IS THE YEAR",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": null,
-			"description": ""
-		},
-		{
 			"uid": "about-us",
 			"tags": [],
 			"publication_date": "2020-11-26T17:20:46+0000",
@@ -163,6 +170,21 @@
 			"description": ""
 		},
 		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-14T14:55:19+0000",
+			"title": "2020 IS THE YEAR",
+			"subtitle": "",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": null,
+			"description": ""
+		},
+		{
 			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
 			"tags": [
 				"music"
@@ -183,28 +205,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of 2020 /  Les meilleurs sons de 2020 "
-		},
-		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-09T11:32:53+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurence",
-			"internal_link": null,
-			"description": "A l’aube d’une mutation planétaire provoquée par la crise du Coronavirus, le secteur de la mode, plus que jamais, se retrouve poussé dans ses retranchements. Fashion Week rendue caduque, magasins ouverts aux compte-gouttes, mais aussi remise en question des mentalités quant aux enseignes de luxe :  le monde post-covid ne sera définitivement plus le même. "
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",

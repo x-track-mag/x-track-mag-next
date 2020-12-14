@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-09T11:32:53+0000",
+	"publication_date": "2020-12-14T18:07:45+0000",
 	"title": "La mode éthique, ou l’explosion de l’upcycling ",
 	"subtitle": "",
 	"image": {
@@ -23,6 +23,21 @@
 			"template": "section-full-text",
 			"text": [
 				{
+					"type": "heading2",
+					"text": "La mode éthique, ou l’explosion de l’upcycling ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
 					"type": "paragraph",
 					"text": "A l’aube d’une mutation planétaire provoquée par la crise du Coronavirus, le secteur de la mode, plus que jamais, se retrouve poussé dans ses retranchements. Fashion Week rendue caduque, magasins ouverts aux compte-gouttes, mais aussi remise en question des mentalités quant aux enseignes de luxe :  le monde post-covid ne sera définitivement plus le même. ",
 					"spans": [
@@ -36,17 +51,31 @@
 				{
 					"type": "paragraph",
 					"text": "Mais alors comment les marques envisagent l’intégration de valeurs éthiques - devenues gage de confiance- pour des clients en quête de sens ? ",
-					"spans": [
-						{
-							"start": 0,
-							"end": 142,
-							"type": "em"
-						}
-					]
-				},
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/9a45ae2a-4a3a-439c-a169-38b6c21935d4_MAISONMOURCEL.jpg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 800,
+						"height": 1200
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
 				{
 					"type": "paragraph",
-					"text": "“Si la crise a eu un effet notoire, il s’agit de notre rapport à la consommation. Mais aussi, à la vision de la crise climatique et de la nécessité de se reconnecter à des instances plus simples” assure Camille, illustratrice, la trentaine, lorsqu’elle évoque sa perception de la mode. Un avis partagé par un pan de la fashion sphère, depuis déjà plusieurs années. Et surtout par des nouveaux venus dont les considérations éthiques sont ancrées dans leur création. ",
+					"text": "“Si la crise a eu un effet notoire, il s’agit de notre rapport à la consommation. Mais aussi, à la vision de la crise climatique et de la nécessité de se reconnecter à des instances plus simples” assure Camille, illustratrice, lorsqu’elle évoque sa perception de la mode.",
 					"spans": [
 						{
 							"start": 0,
@@ -54,6 +83,11 @@
 							"type": "em"
 						}
 					]
+				},
+				{
+					"type": "paragraph",
+					"text": " Un avis partagé par un pan de la fashion sphère, depuis déjà plusieurs années. Et surtout par des nouveaux venus dont les considérations éthiques sont ancrées dans leur création. ",
+					"spans": []
 				}
 			]
 		},
@@ -77,46 +111,62 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Car la mode consciente n’a pas attendu 2020 pour réfléchir à des solutions alternatives : le recyclage, de nouvelles façons de vendre avec le virage numérique, la prise en compte de nouveaux tissus qui remplacent fourrure, cuir et autres matières plastiques, autant de solutions avérées. Marine Serre, 28 ans, nouvelle figure incontournable des catwalks, passée chez Alexander McQueen, et récompensé par le prix LVMH des jeunes créateurs en 2017, fait de cette prise de position un élément phare de son travail et de sa communication. “Elle hybride autant qu’elle confectionne” peut-on lire dans les colonnes de Libération. Mais elle est loin d’être la seule. Stella Mccartney, Rick Owens, Andrea Crews, autant de créateurs ultra-bankables qui s’engagent. Car si l’upcycling est désormais répandue, “la dynamique des fashion week, de la surproduction, et des mécaniques de collections sont antinomiques avec la démarche de consommer mieux. La mode doit suivre un nouveau modèle si elle veut être labellisée éthique” nous explique Lucie, créatrice de Maison Mourcel. Si les grands noms changent progressivement de politique, des marques indépendantes émergent et se font une place au soleil, en marge du système traditionnel pressurisé. ",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Car la mode consciente n’a pas attendu 2020 pour réfléchir à des solutions alternatives : le recyclage, de nouvelles façons de vendre avec le virage numérique, la prise en compte de nouveaux tissus qui remplacent fourrure, cuir et autres matières plastiques, autant de solutions avérées. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Marine Serre, 28 ans, nouvelle figure incontournable des catwalks, passée chez Alexander McQueen, et récompensé par le prix LVMH des jeunes créateurs en 2017, fait de cette prise de position un élément phare de son travail et de sa communication. “Elle hybride autant qu’elle confectionne” peut-on lire dans les colonnes de Libération. Mais elle est loin d’être la seule. Stella Mccartney, Rick Owens, Andrea Crews, autant de créateurs ultra-bankables qui s’engagent. ",
 					"spans": [
 						{
-							"start": 367,
-							"end": 389,
+							"start": 79,
+							"end": 101,
 							"type": "em"
 						},
 						{
-							"start": 412,
-							"end": 416,
+							"start": 124,
+							"end": 128,
 							"type": "em"
 						},
 						{
-							"start": 535,
-							"end": 577,
+							"start": 247,
+							"end": 289,
 							"type": "em"
 						},
 						{
-							"start": 612,
-							"end": 622,
+							"start": 324,
+							"end": 334,
 							"type": "em"
 						},
 						{
-							"start": 660,
-							"end": 702,
+							"start": 372,
+							"end": 414,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Car si l’upcycling est désormais répandue, “la dynamique des fashion week, de la surproduction, et des mécaniques de collections sont antinomiques avec la démarche de consommer mieux. La mode doit suivre un nouveau modèle si elle veut être labellisée éthique” nous explique Lucie, créatrice de Maison Mourcel. Si les grands noms changent progressivement de politique, des marques indépendantes émergent et se font une place au soleil, en marge du système traditionnel pressurisé. ",
+					"spans": [
+						{
+							"start": 9,
+							"end": 18,
 							"type": "em"
 						},
 						{
-							"start": 765,
-							"end": 774,
+							"start": 43,
+							"end": 259,
 							"type": "em"
 						},
 						{
-							"start": 799,
-							"end": 1015,
-							"type": "em"
-						},
-						{
-							"start": 1050,
-							"end": 1064,
+							"start": 294,
+							"end": 308,
 							"type": "em"
 						}
 					]
@@ -128,7 +178,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/7c80a2d2-503b-4386-b4ec-7d0651172bd7_UPCYCLING-FASHION-WEBZINE-CULTURE-XTRACK..jpg?auto=compress,format&rect=0,0,1080,1620&w=1024&h=1536",
-					"alt": null,
+					"alt": "© Maison Mourcel",
 					"copyright": null,
 					"width": 1024,
 					"height": 1536,
@@ -143,10 +193,15 @@
 					"type": "heading2",
 					"text": "Recycle moi si tu peux, le nouveau credo des marques",
 					"spans": []
-				},
+				}
+			]
+		},
+		{
+			"template": "section-two-columns",
+			"text": [
 				{
 					"type": "paragraph",
-					"text": "Les récupérables, Maison Mourcel, sont autant de créateurs qui mettent les exigences écologiques au centre de leur démarche artistique. Si les personnalités sont regardantes quant aux marques - Angèle, Léa Vlamos, Zahia, Marion Cotillard-  l’offre est importante. “ Aujourd'hui, il est primordial d’intégrer cet aspect à son travail. Mettre du Made In China, c’est se griller. Le surcyclage est un moyen de rendre ma marque 100% éthique. Je n’utilise que des tissus récupérés pour créer des pièces uniques. Aucun gâchis, de la réutilisation, et de l’imagination. Pour Maison Mourcel, je voulais surtout proposer des pièces originales et montrer que le surcyclage peut-être original, fun”. Corset piqué à partir d’écharpe de foot, casquette-foulards, une chose est sûre, Lucie innove. ",
+					"text": "Les récupérables, Maison Mourcel, sont autant de créateurs qui mettent les exigences écologiques au centre de leur démarche artistique. Si les personnalités sont regardantes quant aux marques - Angèle, Léa Vlamos, Zahia, Marion Cotillard-  l’offre est importante. “ Aujourd'hui, il est primordial d’intégrer cet aspect à son travail. Mettre du Made In China, c’est se griller. Le surcyclage est un moyen de rendre ma marque 100% éthique. Je n’utilise que des tissus récupérés pour créer des pièces uniques. Aucun gâchis, de la réutilisation, et de l’imagination. Pour Maison Mourcel, je voulais surtout proposer des pièces originales et montrer que le surcyclage peut-être original, fun”. Corset piqué à partir d’écharpe de foot, casquette-foulards, une chose est sûre, Lucie innove",
 					"spans": [
 						{
 							"start": 0,
@@ -164,29 +219,49 @@
 							"type": "em"
 						}
 					]
+				}
+			],
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/adfe693c-87f2-4659-af19-d65d01ef3f5e_UPCYCLING-FASHION-WEBZINE-CULTURE.jpg?auto=compress,format&rect=0,0,744,1080&w=1024&h=1486",
+				"alt": "© Maison Mourcel",
+				"copyright": null,
+				"width": 1024,
+				"height": 1486,
+				"ratio": 0.6890982503364738
+			},
+			"columns_order": "Image | Texte",
+			"full_page": true
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "",
+					"spans": []
 				},
 				{
-					"type": "image",
-					"url": "https://images.prismic.io/x-track-mag/adfe693c-87f2-4659-af19-d65d01ef3f5e_UPCYCLING-FASHION-WEBZINE-CULTURE.jpg?auto=compress,format",
-					"alt": null,
-					"copyright": null,
-					"dimensions": {
-						"width": 744,
-						"height": 1080
-					}
+					"type": "heading2",
+					"text": "De nouveaux modèles de création mais aussi de vente ?",
+					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "De nouveaux modèles de création mais aussi de vente ? Mélange, a créé un collectif de créateurs sans but lucratif : “les vêtements sont créés uniquement à base de polyester recyclé, de nylon écologique, de coton 100% bio. Mais surtout la réutilisation de pièces phares. Les nouvelles générations- les millenials - sont très engagés, militants, les marques doivent leur ressembler et s’adapter” décrit Yann, fondateur de la marque. Plus qu’un besoin, c’est une nécessité : la mode doit faire peau neuve. ",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Mélange, a créé un collectif de créateurs sans but lucratif : “les vêtements sont créés uniquement à base de polyester recyclé, de nylon écologique, de coton 100% bio. Mais surtout la réutilisation de pièces phares. Les nouvelles générations- les millenials - sont très engagés, militants, les marques doivent leur ressembler et s’adapter” décrit Yann, fondateur de la marque. Plus qu’un besoin, c’est une nécessité : la mode doit faire peau neuve. ",
 					"spans": [
 						{
-							"start": 54,
-							"end": 63,
+							"start": 0,
+							"end": 9,
 							"type": "em"
 						},
 						{
-							"start": 116,
-							"end": 393,
+							"start": 62,
+							"end": 339,
 							"type": "em"
 						}
 					]
@@ -194,25 +269,28 @@
 			]
 		},
 		{
-			"template": "section-two-columns",
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5c5489ee-f7f6-4175-9683-cf373b9efb8a_UPCYCLING-FASHION-WEBZINE-MODE-X-TRACK.jpg?auto=compress,format",
+				"alt": "© Maison Mourcel",
+				"copyright": null,
+				"width": 787,
+				"height": 1181,
+				"ratio": 0.6663844199830652
+			}
+		},
+		{
+			"template": "section-full-text",
 			"text": [
 				{
 					"type": "paragraph",
 					"text": "Si la mode éthique est en pleine expansion, elle s’adapte aux codes et exigences d’une société en mutation. Moins consumériste, plus consciente, engagée, la mode de demain semble refléter- on l’espère- l’engagement des générations à venir. ",
 					"spans": []
 				}
-			],
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5c5489ee-f7f6-4175-9683-cf373b9efb8a_UPCYCLING-FASHION-WEBZINE-MODE-X-TRACK.jpg?auto=compress,format&rect=0,0,787,1181&w=1024&h=1537",
-				"alt": null,
-				"copyright": null,
-				"width": 1024,
-				"height": 1537,
-				"ratio": 0.6662329212752115
-			},
-			"columns_order": "Image | Texte",
-			"full_page": true
+			]
 		}
 	],
-	"description": "A l’aube d’une mutation planétaire provoquée par la crise du Coronavirus, le secteur de la mode, plus que jamais, se retrouve poussé dans ses retranchements. Fashion Week rendue caduque, magasins ouverts aux compte-gouttes, mais aussi remise en question des mentalités quant aux enseignes de luxe :  le monde post-covid ne sera définitivement plus le même. "
+	"description": "La mode éthique, ou l’explosion de l’upcycling "
 }
