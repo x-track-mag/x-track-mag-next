@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-14T18:28:32+0000",
+	"publication_date": "2020-12-14T19:00:02+0000",
 	"title": "La mode éthique, ou l’explosion de l’upcycling ",
 	"subtitle": "",
 	"image": {
@@ -59,14 +59,9 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "image",
-					"url": "https://images.prismic.io/x-track-mag/9a45ae2a-4a3a-439c-a169-38b6c21935d4_MAISONMOURCEL.jpg?auto=compress,format",
-					"alt": null,
-					"copyright": null,
-					"dimensions": {
-						"width": 800,
-						"height": 1200
-					}
+					"type": "paragraph",
+					"text": "© Maison Mourcel",
+					"spans": []
 				}
 			]
 		},
