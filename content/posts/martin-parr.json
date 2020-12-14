@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-14T10:54:10+0000",
+	"publication_date": "2020-12-14T16:09:10+0000",
 	"title": "Martin Parr",
 	"subtitle": "Un Monde à Parr",
 	"image": {
@@ -23,15 +23,41 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "paragraph",
-					"text": "Kitsch, décalée tout en restant encline aux réalités sociales, l’oeuvre de Martin Parr trouble tant elle semble documenter notre temps. En nous confrontant à l’absurdité de la vie quotidienne, le photographe se place en témoin d’une époque où le spectacle et la consommation prévalent sur le lien social. ",
+					"type": "heading2",
+					"text": "Un monde à Parr",
 					"spans": [
 						{
 							"start": 0,
-							"end": 305,
+							"end": 15,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Compliqué de s’intéresser à la photographie contemporaine sans mettre le nez dans le travail du génie britannique Martin Parr. Figure emblématique de la création post-moderne et du courant de la Street Photography, l’artiste a su renouveler le style documentaire, en éclairant le spectateur sur une société du spectacle dont on peine à se défaire. Portrait d’un artiste “visionnaire”. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 385,
 							"type": "em"
 						}
 					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
 				},
 				{
 					"type": "heading2",
@@ -166,5 +192,5 @@
 			]
 		}
 	],
-	"description": "Kitsch, décalée tout en restant encline aux réalités sociales, l’oeuvre de Martin Parr trouble tant elle semble documenter notre temps. En nous confrontant à l’absurdité de la vie quotidienne, le photographe se place en témoin d’une époque où le spectacle et la consommation prévalent sur le lien social. "
+	"description": "Un monde à Parr"
 }
