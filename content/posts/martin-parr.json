@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-14T16:09:10+0000",
+	"publication_date": "2020-12-14T16:24:20+0000",
 	"title": "Martin Parr",
 	"subtitle": "Un Monde à Parr",
 	"image": {
@@ -48,12 +48,7 @@
 							"type": "em"
 						}
 					]
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+				},
 				{
 					"type": "paragraph",
 					"text": "",
@@ -67,7 +62,7 @@
 				{
 					"type": "image",
 					"url": "https://images.prismic.io/x-track-mag/9d3bad7e-ee29-46be-b676-557c10aa6276_martin-parr-pisa.jpg?auto=compress,format",
-					"alt": "The leaning Tower of Pisa, Italy",
+					"alt": "The leaning Tower of Pisa, Martin Parr/Magnum",
 					"copyright": "Martin Parr - Magnum Photo",
 					"dimensions": {
 						"width": 1600,
@@ -86,7 +81,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/e807cd33-3b9c-4b7b-8f9d-76f5b5e66b15_martin-parr-old-couple.jpg?auto=compress,format&rect=0,0,1315,1080&w=1024&h=841",
-					"alt": "Old couple eating",
+					"alt": "New Brighton, from ‘The Last Resort’, 1983-85  Martin Parr",
 					"copyright": "Martin Parr - Magnum Photo",
 					"width": 1024,
 					"height": 841,
@@ -94,7 +89,7 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/408e6a4f-c021-44bf-ac1d-b46fbb0fd28a_marin-parr-loneliness.webp?auto=compress,format&rect=0,0,865,704&w=1024&h=833",
-					"alt": "Loneliness",
+					"alt": "Untitled (New Brighton), 1983-85  Martin Parr",
 					"copyright": "Martin Parr - Magnum Photo",
 					"width": 1024,
 					"height": 833,
@@ -102,7 +97,7 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/170ca300-79f6-4cc4-83d0-ef3472b46d88_martin-parr-this-isnt-hapinness.jpg?auto=compress,format&rect=0,0,1206,941&w=1024&h=799",
-					"alt": "The Last Resort",
+					"alt": "Untitled (New Brighton), 1983-85  Martin Parr",
 					"copyright": "Martin Parr - Magnum Photo",
 					"width": 1024,
 					"height": 799,
@@ -130,6 +125,11 @@
 				},
 				{
 					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
 					"text": "Petit à petit, son travail gagne en visibilité et en reconnaissance. Au milieu des années 1990, il intègre la Magnum Photographic Cooperative, soit l’une des plus importante coopérative de photographes du monde. Dès lors, des rétrospectives de son oeuvre sont organisées au quatre coins du globe, des recueils sont édités - près de 120 aujourd’hui - et l’artiste reçoit plusieurs récompenses. En 2008, il est sacré pour son travail au Festival PhotoEspana de Madrid et en 2017, au Sony World Photography Award. Et entre 2013 et 2017, il occupera même le poste de président de la Magnum Photos.",
 					"spans": [
 						{
@@ -152,6 +152,11 @@
 				{
 					"type": "heading2",
 					"text": "Un style personnel ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
 					"spans": []
 				},
 				{
