@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-14T17:19:31+0000",
+	"publication_date": "2020-12-14T17:21:04+0000",
 	"title": "Les apparences trompeuses du Pretty Privilege",
 	"subtitle": "",
 	"image": {
@@ -34,7 +34,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/e981c0c5-6158-4d86-9c5a-f054591175d5_LILI.jpg?auto=compress,format&rect=0,0,1499,1221&w=1024&h=834",
-					"alt": "© Nadia Lee Cohen",
+					"alt": null,
 					"copyright": "Nadia Lee Cohen",
 					"width": 1024,
 					"height": 834,
@@ -90,6 +90,11 @@
 					"spans": []
 				},
 				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
 					"type": "heading2",
 					"text": "Qui est le vrai bénéficiaire du pretty privilege ?",
 					"spans": []
@@ -121,7 +126,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/5e96f043-fa2f-4675-8fe8-04e490890c87_NADIA+LEE+COHEN+BEAUTY+WEBZINE+CULTRE+.jpg?auto=compress,format&rect=0,0,2500,1990&w=1024&h=815",
-					"alt": "© Nadia Lee Cohen",
+					"alt": null,
 					"copyright": "Nadia Lee Cohen",
 					"width": 1024,
 					"height": 815,
@@ -155,16 +160,22 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "On pourrait se dire que les hommes se comportent de la sorte avec certaines femmes pour obtenir des faveurs de ces dernières. Si c’est souvent le cas, ça ne l’est pas toujours. Il n’y a pas forcément d’intention consciente derrière la mise en valeur des « belles » femmes.  Cependant, cela n’empêche pas les effets d’exister. Lorsque les hommes hiérarchisent les femmes selon leur apparence physique et que cette hiérarchisation impacte toutes les femmes, alors on se rend compte que le regard des hommes et leur validation a un poids énorme dans la société. Dans « ‘Pretty Privilege’, Where ? », un article anonyme paru dans le Huffington Post en 2017, l’autrice explique « pourquoi les auteur.rices ont tort de supposer que le regard masculin [fait que la culture visuelle dominante imposerait au public d’adopter une perspective d’homme hétérosexuel, NDLR] garantit des privilèges aux jolies femmes ». Pour appuyer sa thèse, elle compare l’idée selon laquelle être « jolie » rime avec privilège et l’argument selon lequel être une esclave domestique était avantageux. La préférence qu’avaient les propriétaires d’esclaves pour les plus jolies d’entre elles ne garantissait à ces dernières aucun avantage : elles aussi subissaient des violences telles que le viol, en plus du traumatisme émotionnel et psychologique qu’impliquaient les tâches qui leur étaient réservées. Par exemple, elles devaient allaiter des enfants blancs tout en étant séparées des leurs ou encore élever de futurs esclavagistes qui, une fois adultes, hériteraient d’elles.",
+					"text": "On pourrait se dire que les hommes se comportent de la sorte avec certaines femmes pour obtenir des faveurs de ces dernières. Si c’est souvent le cas, ça ne l’est pas toujours. Il n’y a pas forcément d’intention consciente derrière la mise en valeur des « belles » femmes.  Cependant, cela n’empêche pas les effets d’exister. Lorsque les hommes hiérarchisent les femmes selon leur apparence physique et que cette hiérarchisation impacte toutes les femmes, alors on se rend compte que le regard des hommes et leur validation a un poids énorme dans la société. ",
 					"spans": [
 						{
 							"start": 437,
 							"end": 443,
 							"type": "strong"
-						},
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Dans « ‘Pretty Privilege’, Where ? », un article anonyme paru dans le Huffington Post en 2017, l’autrice explique « pourquoi les auteur.rices ont tort de supposer que le regard masculin [fait que la culture visuelle dominante imposerait au public d’adopter une perspective d’homme hétérosexuel, NDLR] garantit des privilèges aux jolies femmes ». Pour appuyer sa thèse, elle compare l’idée selon laquelle être « jolie » rime avec privilège et l’argument selon lequel être une esclave domestique était avantageux. La préférence qu’avaient les propriétaires d’esclaves pour les plus jolies d’entre elles ne garantissait à ces dernières aucun avantage : elles aussi subissaient des violences telles que le viol, en plus du traumatisme émotionnel et psychologique qu’impliquaient les tâches qui leur étaient réservées. Par exemple, elles devaient allaiter des enfants blancs tout en étant séparées des leurs ou encore élever de futurs esclavagistes qui, une fois adultes, hériteraient d’elles.",
+					"spans": [
 						{
-							"start": 629,
-							"end": 644,
+							"start": 70,
+							"end": 85,
 							"type": "em"
 						}
 					]
@@ -259,7 +270,13 @@
 				{
 					"type": "paragraph",
 					"text": "Si le pretty privilege peut paraître avantageux pour celles qui en profitent, les coulisses méritent qu’on s’y attarde. Loin d’être un thème dérisoire, il révèle en effet les dynamiques en vigueur dans notre société. Certaines femmes sont cependant conscientes de ces rapports de force et, de ce fait, utilisent leur pretty privilege pour faire passer des messages pertinents. C’est le cas par exemple de l’actrice Jameela Jamil. Se sachant belle (selon les standards de beauté, toujours), elle utilise ses différentes plateformes pour célébrer tous les types de corps, tous les types de beauté et mettre en garde contre la « diet culture » (système qui fait de la minceur une fin en soi, un but à atteindre à tout prix). Utiliser son beauty privilege de la sorte, c’est comme faire un pied de nez au système dont il est issu – ce qui est à la fois surprenant et bénéfique. On ne choisit pas d’être privilégiée, mais on peut choisir de quelle manière utiliser son privilège.",
-					"spans": []
+					"spans": [
+						{
+							"start": 0,
+							"end": 974,
+							"type": "em"
+						}
+					]
 				}
 			]
 		}
