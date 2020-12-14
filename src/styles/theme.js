@@ -39,7 +39,7 @@ export const fonts = {
 const styles = {
 	global: {
 		html: {
-			fontSize: ["16px", "19px", "22px", "25px", "28px"]
+			fontSize: ["16px", "19px", "22px", "24px", "26px"]
 		},
 		body: {
 			overflowX: "hidden",
