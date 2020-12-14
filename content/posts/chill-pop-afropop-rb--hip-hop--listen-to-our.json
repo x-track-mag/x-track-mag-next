@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-13T18:40:27+0000",
+	"publication_date": "2020-12-14T06:54:05+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -25,7 +25,7 @@
 			"subtitle": null,
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
-				"alt": null,
+				"alt": "Tierra Whack",
 				"copyright": null,
 				"width": 2000,
 				"height": 2000,
@@ -96,7 +96,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/bae036f3-379b-4f68-ab8f-8ed70b3fa3c2_Wizkid-Made+In+Lagos+-+Cover+Recto.jpg?auto=compress,format&rect=0,0,1875,1875&w=1024&h=1024",
-					"alt": null,
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -104,7 +104,7 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/5385dc29-126e-4a63-9bfa-2e837534f95f_Emotionnal+Orange+%26+Channel+Tres.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
-					"alt": null,
+					"alt": "Emotionnal Oranges & Channel Tres",
 					"copyright": null,
 					"width": 1024,
 					"height": 650,
@@ -112,7 +112,7 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f6dc7bff-a81d-4cf3-8520-cb65e9c330d5_Loski-+Music_+Trial+%26+Trauma.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": null,
+					"alt": "Losky",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
