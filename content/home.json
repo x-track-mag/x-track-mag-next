@@ -81,6 +81,28 @@
 			"description": "For our first X-Track studio session, our guest Nola Cherri honored us with a performance of her song « Omo » taken from her first EP « These Associations ». "
 		},
 		{
+			"uid": "bestxtrackof2020",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2020-12-14T18:52:43+0000",
+			"title": "",
+			"subtitle": "Best ”XTrack“ of 2020",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of 2020 /  Les meilleurs sons de 2020 "
+		},
+		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 			"tags": [
 				"article"
@@ -125,28 +147,6 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
-			"uid": "martin-parr",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-14T16:24:20+0000",
-			"title": "Martin Parr",
-			"subtitle": "Un Monde à Parr",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": "Plage de Nice",
-				"copyright": "Martin Parr",
-				"width": 1280,
-				"height": 854,
-				"ratio": 1.4988290398126465
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "Un monde à Parr"
-		},
-		{
 			"uid": "about-us",
 			"tags": [],
 			"publication_date": "2020-11-26T17:20:46+0000",
@@ -170,6 +170,28 @@
 			"description": ""
 		},
 		{
+			"uid": "martin-parr",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-14T16:24:20+0000",
+			"title": "Martin Parr",
+			"subtitle": "Un Monde à Parr",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": "Plage de Nice",
+				"copyright": "Martin Parr",
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia",
+			"internal_link": null,
+			"description": "Un monde à Parr"
+		},
+		{
 			"uid": "2020-is-the-year",
 			"tags": [
 				"article"
@@ -183,28 +205,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": ""
-		},
-		{
-			"uid": "chill-pop-afropop-rb--hip-hop--listen-to-our",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2020-12-14T07:06:23+0000",
-			"title": "",
-			"subtitle": "Best ”XTrack“ of 2020",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of 2020 /  Les meilleurs sons de 2020 "
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",

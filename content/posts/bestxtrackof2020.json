@@ -1,0 +1,146 @@
+{
+	"uid": "bestxtrackof2020",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2020-12-14T18:52:43+0000",
+	"title": "",
+	"subtitle": "Best ”XTrack“ of 2020",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 2000,
+		"height": 2000,
+		"ratio": 1
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
+				"alt": "Tierra Whack",
+				"copyright": null,
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
+			}
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of 2020 /  Les meilleurs sons de 2020 ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Tierra Whack, Loski & Stormzy, Sault, WizKid & H.E.R., Emotional Oranges & Channel Tres, Biig Pig, Muzi, Juls x Twitch 4 Eva & Quamina MP, Tiwa Savage, Yemi Alade & +++👆👆🏽🎼🎧",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/86baa927-2219-4b9b-9ce9-da1c950e1ccc_Tierra+Whack+in+blue.jpg?auto=compress,format&rect=0,0,1125,1071&w=1024&h=975",
+					"alt": "Tierra Whack",
+					"copyright": null,
+					"width": 1024,
+					"height": 975,
+					"ratio": 1.0502564102564103
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/b4cef05a-5cfa-4ced-b374-9e33430b6d79_Biig+Piig.jpg?auto=compress,format&rect=0,0,959,960&w=1024&h=1025",
+					"alt": "Biig Piig",
+					"copyright": null,
+					"width": 1024,
+					"height": 1025,
+					"ratio": 0.9990243902439024
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a937f480-86b2-4b51-b99b-5465f4f3a016_Sault-Untitled+%28Black+Is%29+Cover+%2B.jpeg?auto=compress,format&rect=0,0,2399,2338&w=1024&h=998",
+					"alt": "Sault",
+					"copyright": null,
+					"width": 1024,
+					"height": 998,
+					"ratio": 1.0260521042084167
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/bae036f3-379b-4f68-ab8f-8ed70b3fa3c2_Wizkid-Made+In+Lagos+-+Cover+Recto.jpg?auto=compress,format&rect=0,0,1875,1875&w=1024&h=1024",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5385dc29-126e-4a63-9bfa-2e837534f95f_Emotionnal+Orange+%26+Channel+Tres.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
+					"alt": "Emotionnal Oranges & Channel Tres",
+					"copyright": null,
+					"width": 1024,
+					"height": 650,
+					"ratio": 1.5753846153846154
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f6dc7bff-a81d-4cf3-8520-cb65e9c330d5_Loski-+Music_+Trial+%26+Trauma.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Losky",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=NoXejgMFQGqT7zRve4Tvpg",
+					"title": "Best ”XTrack“ of 2020"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2020/pl.u-kv9l7eDCDY8qp",
+					"title": "Best ”XTrack“ of 2020 par XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/4099699282",
+					"title": "Best ”XTrack“ of 2020 playlist | Listen on Deezer"
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": []
+		}
+	],
+	"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of 2020 /  Les meilleurs sons de 2020 "
+}
