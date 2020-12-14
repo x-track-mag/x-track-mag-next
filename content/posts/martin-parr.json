@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-14T09:56:04+0000",
+	"publication_date": "2020-12-14T10:54:10+0000",
 	"title": "Martin Parr",
 	"subtitle": "Un Monde à Parr",
 	"image": {
@@ -34,19 +34,19 @@
 					]
 				},
 				{
+					"type": "heading2",
+					"text": "Photographier le quotidien ",
+					"spans": []
+				},
+				{
 					"type": "image",
 					"url": "https://images.prismic.io/x-track-mag/9d3bad7e-ee29-46be-b676-557c10aa6276_martin-parr-pisa.jpg?auto=compress,format",
-					"alt": "Martin Parr - Pisa",
+					"alt": "The leaning Tower of Pisa, Italy",
 					"copyright": "Martin Parr - Magnum Photo",
 					"dimensions": {
 						"width": 1600,
 						"height": 1299
 					}
-				},
-				{
-					"type": "heading2",
-					"text": "Photographier le quotidien ",
-					"spans": []
 				},
 				{
 					"type": "paragraph",
@@ -76,7 +76,7 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/170ca300-79f6-4cc4-83d0-ef3472b46d88_martin-parr-this-isnt-hapinness.jpg?auto=compress,format&rect=0,0,1206,941&w=1024&h=799",
-					"alt": "This isn't hapiness",
+					"alt": "The Last Resort",
 					"copyright": "Martin Parr - Magnum Photo",
 					"width": 1024,
 					"height": 799,
