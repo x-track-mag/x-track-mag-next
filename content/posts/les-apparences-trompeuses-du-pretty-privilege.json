@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-14T17:21:04+0000",
+	"publication_date": "2020-12-14T18:59:06+0000",
 	"title": "Les apparences trompeuses du Pretty Privilege",
 	"subtitle": "",
 	"image": {
@@ -16,7 +16,7 @@
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
-	"author": null,
+	"author": "Sylsphée Bertili",
 	"internal_link": null,
 	"sections": [
 		{
@@ -126,7 +126,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/5e96f043-fa2f-4675-8fe8-04e490890c87_NADIA+LEE+COHEN+BEAUTY+WEBZINE+CULTRE+.jpg?auto=compress,format&rect=0,0,2500,1990&w=1024&h=815",
-					"alt": null,
+					"alt": "© Nadia Lee Cohen",
 					"copyright": "Nadia Lee Cohen",
 					"width": 1024,
 					"height": 815,
@@ -171,14 +171,24 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Dans « ‘Pretty Privilege’, Where ? », un article anonyme paru dans le Huffington Post en 2017, l’autrice explique « pourquoi les auteur.rices ont tort de supposer que le regard masculin [fait que la culture visuelle dominante imposerait au public d’adopter une perspective d’homme hétérosexuel, NDLR] garantit des privilèges aux jolies femmes ». Pour appuyer sa thèse, elle compare l’idée selon laquelle être « jolie » rime avec privilège et l’argument selon lequel être une esclave domestique était avantageux. La préférence qu’avaient les propriétaires d’esclaves pour les plus jolies d’entre elles ne garantissait à ces dernières aucun avantage : elles aussi subissaient des violences telles que le viol, en plus du traumatisme émotionnel et psychologique qu’impliquaient les tâches qui leur étaient réservées. Par exemple, elles devaient allaiter des enfants blancs tout en étant séparées des leurs ou encore élever de futurs esclavagistes qui, une fois adultes, hériteraient d’elles.",
+					"text": "Dans Pretty Privilege,Where ? , un article anonyme paru dans le Huffington Post en 2017, l’autrice explique « pourquoi les auteur.rices ont tort de supposer que le regard masculin [fait que la culture visuelle dominante imposerait au public d’adopter une perspective d’homme hétérosexuel, NDLR] garantit des privilèges aux jolies femmes ». ",
 					"spans": [
 						{
-							"start": 70,
-							"end": 85,
+							"start": 4,
+							"end": 30,
+							"type": "em"
+						},
+						{
+							"start": 64,
+							"end": 79,
 							"type": "em"
 						}
 					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Pour appuyer sa thèse, elle compare l’idée selon laquelle être « jolie » rime avec privilège et l’argument selon lequel être une esclave domestique était avantageux. La préférence qu’avaient les propriétaires d’esclaves pour les plus jolies d’entre elles ne garantissait à ces dernières aucun avantage : elles aussi subissaient des violences telles que le viol, en plus du traumatisme émotionnel et psychologique qu’impliquaient les tâches qui leur étaient réservées. Par exemple, elles devaient allaiter des enfants blancs tout en étant séparées des leurs ou encore élever de futurs esclavagistes qui, une fois adultes, hériteraient d’elles.",
+					"spans": []
 				},
 				{
 					"type": "paragraph",

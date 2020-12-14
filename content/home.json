@@ -81,6 +81,28 @@
 			"description": "For our first X-Track studio session, our guest Nola Cherri honored us with a performance of her song « Omo » taken from her first EP « These Associations ». "
 		},
 		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-14T18:59:06+0000",
+			"title": "Les apparences trompeuses du Pretty Privilege",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": "© Nadia Lee Cohen",
+				"copyright": "Nadia Lee Cohen",
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "Les apparences trompeuses du pretty privilege"
+		},
+		{
 			"uid": "bestxtrackof2020",
 			"tags": [
 				"music"
@@ -123,28 +145,6 @@
 			"author": "Camille Laurence",
 			"internal_link": null,
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
-		},
-		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-14T17:21:04+0000",
-			"title": "Les apparences trompeuses du Pretty Privilege",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": "© Nadia Lee Cohen",
-				"copyright": "Nadia Lee Cohen",
-				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
 			"uid": "about-us",
