@@ -28,7 +28,7 @@ const SectionGallery = ({ gallery }) => (
 					height="100%"
 					key={`gallery-column-${i}`}
 				>
-					<BackgroundImageContainer image={image} />
+					<BackgroundImageContainer image={image} display_credits={true} />
 				</Box>
 			))}
 		</SimpleGrid>

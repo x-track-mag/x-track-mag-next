@@ -57,10 +57,16 @@ const BackgroundImageContainer = ({
 						mb={display_credits ? "2rem" : "0"}
 					/>
 					{display_credits && image.alt && (
-						<Caption as="figurecaption">{image.alt}</Caption>
-					)}
-					{display_credits && image.copyright && (
-						<Caption as="figurecaption">{`© ${image.copyright}`}</Caption>
+						<Caption
+							as="figurecaption"
+							position="absolute"
+							zIndex="9"
+							bottom="0"
+							textColor="white"
+						>
+							{image.alt}
+							{image.copyright && ` - © ${image.copyright}`}
+						</Caption>
 					)}
 				</>
 			)}
