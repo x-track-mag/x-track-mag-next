@@ -5,9 +5,9 @@ import { createBreakpoints } from "@chakra-ui/theme-tools";
 // 2. Update the breakpoints as key-value pairs
 const breakpoints = createBreakpoints({
 	sm: "640px",
-	md: "960px",
+	md: "1024px",
 	lg: "1400px",
-	xl: "1800px"
+	xl: "1900px"
 });
 
 // 2. Extend the theme to include custom colors, fonts, etc
