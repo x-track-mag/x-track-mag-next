@@ -1,6 +1,6 @@
 {
 	"uid": "about-us",
-	"publication_date": "2020-12-15T20:07:42+0000",
+	"publication_date": "2020-12-15T20:14:19+0000",
 	"title": "About Us",
 	"subtitle": "",
 	"sections": [
@@ -8,7 +8,7 @@
 			"template": "section-two-columns",
 			"text": [
 				{
-					"type": "heading3",
+					"type": "heading2",
 					"text": "X-TRACK EST UNE PLATEFORME CRÉATIVE, QUI MET EN VALEUR LA SINGULARITÉ & L’INCLUSIVITÉ  À TRAVERS DIFFÉRENTS MEDIUMS.",
 					"spans": []
 				},
@@ -18,7 +18,7 @@
 					"spans": []
 				},
 				{
-					"type": "heading3",
+					"type": "paragraph",
 					"text": "UNE CURATION, DU DÉCRYPTAGE, DES LIVE SESSIONS & VIDÉOS, LE TOUT SOIGNEUSEMENT CONFECTIONNÉS PAR NOS SOINS.",
 					"spans": []
 				},
