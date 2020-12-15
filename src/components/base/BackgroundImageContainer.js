@@ -39,11 +39,10 @@ const BackgroundImageContainer = ({
 	let credits = "";
 	if (image && !video_loop) {
 		credits = image.alt || "";
-		if (!credits && image.copyright) {
-			credits = `© ${image.copyright}`;
-		}
-		if (credits && image.copyright) {
-			credits += ` - © ${image.copyright}`;
+		if (image.copyright) {
+			credits = !credits
+				? `© ${image.copyright}`
+				: `${credits} - © ${image.copyright}`;
 		}
 	}
 
@@ -67,7 +66,7 @@ const BackgroundImageContainer = ({
 						objectFit="cover"
 						layout="fill"
 					/>
-					{display_credits && image.alt && (
+					{display_credits && (
 						<Caption
 							as="figurecaption"
 							position="absolute"
