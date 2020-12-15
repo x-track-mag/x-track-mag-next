@@ -35,6 +35,18 @@ const BackgroundImageContainer = ({
 }) => {
 	if (!image && !video_loop) return null;
 
+	// See what we can print for the credits (parts can be missing)
+	let credits = "";
+	if (image && !video_loop) {
+		credits = image.alt || "";
+		if (!credits && image.copyright) {
+			credits = `© ${image.copyright}`;
+		}
+		if (credits && image.copyright) {
+			credits += ` - © ${image.copyright}`;
+		}
+	}
+
 	return (
 		<Box
 			as="figure"
@@ -51,7 +63,7 @@ const BackgroundImageContainer = ({
 					<Image
 						className="background-image"
 						src={image.url}
-						alt={image.alt + image.copyright ? ` - © ${image.copyright}` : ""}
+						alt={credits}
 						objectFit="cover"
 						layout="fill"
 					/>
@@ -63,8 +75,7 @@ const BackgroundImageContainer = ({
 							bottom="0"
 							textColor="white"
 						>
-							{image.alt}
-							{image.copyright && ` - © ${image.copyright}`}
+							{credits}
 						</Caption>
 					)}
 				</>
