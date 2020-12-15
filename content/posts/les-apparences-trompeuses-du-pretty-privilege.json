@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-15T07:13:09+0000",
+	"publication_date": "2020-12-15T12:20:45+0000",
 	"title": "Les apparences trompeuses du Pretty Privilege",
 	"subtitle": "",
 	"image": {
@@ -108,6 +108,16 @@
 					"type": "paragraph",
 					"text": "Selon la définition du terme « privilège » (droit, avantage particulier accordé par une autorité à une personne (…) en-dehors des règles communes), les bénéficiaires du pretty privilege sont effectivement privilégiées : elles ont des droits que d’autres non pas. Cependant, une mise en perspective s’impose. Puisque nous parlons ici des femmes, il serait peut-être judicieux de regarder qui fait office d’autorité…",
 					"spans": []
+				},
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/5e96f043-fa2f-4675-8fe8-04e490890c87_NADIA+LEE+COHEN+BEAUTY+WEBZINE+CULTRE+.jpg?auto=compress,format",
+					"alt": "Twins",
+					"copyright": "Nadia Lee Cohen",
+					"dimensions": {
+						"width": 2500,
+						"height": 1990
+					}
 				}
 			]
 		},
@@ -118,19 +128,6 @@
 					"type": "paragraph",
 					"text": " Quand j’ai eu 16 ans, une chose extraordinaire s’est produite : j’ai réalisé que j’étais cute ! Que je plaisais aux garçons, que les garçons me calculaient ! Donc là, mon estime de moi a bondi !  ",
 					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/5e96f043-fa2f-4675-8fe8-04e490890c87_NADIA+LEE+COHEN+BEAUTY+WEBZINE+CULTRE+.jpg?auto=compress,format&rect=0,0,2500,1990&w=1024&h=815",
-					"alt": "Twins",
-					"copyright": "Nadia Lee Cohen",
-					"width": 1024,
-					"height": 815,
-					"ratio": 1.2564417177914111
 				}
 			]
 		},
