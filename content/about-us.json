@@ -1,6 +1,6 @@
 {
 	"uid": "about-us",
-	"publication_date": "2020-11-29T14:29:08+0000",
+	"publication_date": "2020-12-15T20:07:42+0000",
 	"title": "About Us",
 	"subtitle": "",
 	"sections": [
@@ -8,23 +8,28 @@
 			"template": "section-two-columns",
 			"text": [
 				{
-					"type": "paragraph",
-					"text": "X-Track MAG est un webzine dédié aux artistes alternatifs.ves, à la musique indépendante et à la culture diversifiée.",
+					"type": "heading3",
+					"text": "X-TRACK EST UNE PLATEFORME CRÉATIVE, QUI MET EN VALEUR LA SINGULARITÉ & L’INCLUSIVITÉ  À TRAVERS DIFFÉRENTS MEDIUMS.",
+					"spans": []
+				},
+				{
+					"type": "heading3",
+					"text": " ",
+					"spans": []
+				},
+				{
+					"type": "heading3",
+					"text": "UNE CURATION, DU DÉCRYPTAGE, DES LIVE SESSIONS & VIDÉOS, LE TOUT SOIGNEUSEMENT CONFECTIONNÉS PAR NOS SOINS.",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "En gros on ne s’arrête pas à la culture occidentale.\n \n Ca veut pas non plus dire qu’on est exclusif.ves à l’underground. X-Track vous promets 3 heures de playlists fraîches et exclusives chaque semaine, des évènements, des concerts, des performances, de la photo, de la peinture, tout ça sur un plateau ultra coloré.\n \n Vous l’aurez compris, on récolte le nectar à votre place et on le met gentiment à votre disposition.",
+					"text": "",
 					"spans": []
 				},
 				{
-					"type": "paragraph",
-					"text": "Sans pub et libre de toute influence stricte et pro-babylonienne, X-Track est connectée 24/7 avec la culture, la connaissance et ses acteurs.rices pour vous offrir des news concises et récréatives, sur une plateforme ludique et facile.",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "X-Track est naturellement pro-différences, et anti-discrimination, c’est un acte de résistance positif et fun, pour vous, pour nous.\n \n Enjoy\n \n X-Track Gang",
+					"type": "heading4",
+					"text": "X-TRACK C'EST UNE SENSIBILITÉ PARTICULIÈRE ACCORDÉE AUX DIFFÉRENTES DYNAMIQUES DIGITALES. X-TRACK EST UN HYMNE À LA NOUVELLE GÉNÉRATION, ACTIVE QUI DÉCONSTRUIT ET RECONSTRUIT ALL OVER THE WORLD.",
 					"spans": []
 				}
 			],
@@ -37,8 +42,8 @@
 				"ratio": 0.8759623609923011
 			},
 			"columns_order": "Image | Texte",
-			"full_page": null
+			"full_page": false
 		}
 	],
-	"description": "X-Track MAG est un webzine dédié aux artistes alternatifs.ves, à la musique indépendante et à la culture diversifiée."
+	"description": "X-TRACK EST UNE PLATEFORME CRÉATIVE, QUI MET EN VALEUR LA SINGULARITÉ & L’INCLUSIVITÉ  À TRAVERS DIFFÉRENTS MEDIUMS."
 }
