@@ -1,6 +1,6 @@
 {
 	"uid": "about-us",
-	"publication_date": "2020-12-15T20:14:19+0000",
+	"publication_date": "2020-12-15T20:16:01+0000",
 	"title": "About Us",
 	"subtitle": "",
 	"sections": [
@@ -18,7 +18,7 @@
 					"spans": []
 				},
 				{
-					"type": "paragraph",
+					"type": "heading2",
 					"text": "UNE CURATION, DU DÉCRYPTAGE, DES LIVE SESSIONS & VIDÉOS, LE TOUT SOIGNEUSEMENT CONFECTIONNÉS PAR NOS SOINS.",
 					"spans": []
 				},
@@ -28,7 +28,7 @@
 					"spans": []
 				},
 				{
-					"type": "heading4",
+					"type": "heading2",
 					"text": "X-TRACK C'EST UNE SENSIBILITÉ PARTICULIÈRE ACCORDÉE AUX DIFFÉRENTES DYNAMIQUES DIGITALES. X-TRACK EST UN HYMNE À LA NOUVELLE GÉNÉRATION, ACTIVE QUI DÉCONSTRUIT ET RECONSTRUIT ALL OVER THE WORLD.",
 					"spans": []
 				}
