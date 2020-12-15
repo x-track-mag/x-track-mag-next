@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-14T19:00:02+0000",
+	"publication_date": "2020-12-15T19:49:05+0000",
 	"title": "La mode éthique, ou l’explosion de l’upcycling ",
 	"subtitle": "",
 	"image": {
@@ -56,12 +56,23 @@
 			]
 		},
 		{
-			"template": "section-full-text",
-			"text": [
+			"template": "section-gallery",
+			"gallery": [
 				{
-					"type": "paragraph",
-					"text": "© Maison Mourcel",
-					"spans": []
+					"url": "https://images.prismic.io/x-track-mag/977340dd-a5c7-44ac-a4ec-269904d72ae6_unnamed+%283%29.jpg?auto=compress,format&rect=0,0,1037,1565&w=1024&h=1545",
+					"alt": "© Maison Mourcel",
+					"copyright": null,
+					"width": 1024,
+					"height": 1545,
+					"ratio": 0.6627831715210356
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/0f8f4ce4-ef76-40d3-b579-15e84510b528_MAISON+MOURCEL.jpg?auto=compress,format&rect=0,0,600,900&w=1024&h=1536",
+					"alt": "© Maison Mourcel",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -265,7 +276,7 @@
 		},
 		{
 			"template": "section-hero",
-			"title": null,
+			"title": "--blank--",
 			"subtitle": null,
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/5c5489ee-f7f6-4175-9683-cf373b9efb8a_UPCYCLING-FASHION-WEBZINE-MODE-X-TRACK.jpg?auto=compress,format",
@@ -280,7 +291,7 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "paragraph",
+					"type": "heading2",
 					"text": "Si la mode éthique est en pleine expansion, elle s’adapte aux codes et exigences d’une société en mutation. Moins consumériste, plus consciente, engagée, la mode de demain semble refléter- on l’espère- l’engagement des générations à venir. ",
 					"spans": []
 				}
