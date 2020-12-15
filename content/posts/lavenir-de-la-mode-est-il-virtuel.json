@@ -4,7 +4,7 @@
 		"article",
 		"fashion"
 	],
-	"publication_date": "2020-12-15T14:29:36+0000",
+	"publication_date": "2020-12-15T15:29:08+0000",
 	"title": "L’Avenir de la Mode est-il virtuel ?",
 	"subtitle": "",
 	"image": {
@@ -16,7 +16,7 @@
 		"ratio": 1
 	},
 	"video_loop": null,
-	"template": "6: Titre + sous-titre sur fond blanc",
+	"template": "5: 2 colonnes Titre + Image",
 	"author": null,
 	"internal_link": null,
 	"sections": [
