@@ -70,6 +70,48 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "nola-cherri",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2020-12-15T14:16:58+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a0ced4af-da25-4612-a359-87eed13dc95b_LIVE+SESSION-X-TRACK+MAG.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2800,
+				"height": 1610,
+				"ratio": 1.7391304347826086
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Live session - Nola Cherri- French music"
+		},
+		{
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2020-12-14T21:57:11+0000",
+			"title": "Episode 1 : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"image": null,
+			"video_loop": {
+				"name": "Yayaya_Youtube_16_9 (1).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d812b36-3c87-4ade-99a6-1e5757b4e2be_Yayaya_Youtube_16_9+%281%29.mp4",
+				"size": "5555894"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+		},
+		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
 			"tags": [
 				"article"
@@ -90,25 +132,6 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "Les apparences trompeuses du pretty privilege"
-		},
-		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2020-12-14T21:57:11+0000",
-			"title": "Episode 1 : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"image": null,
-			"video_loop": {
-				"name": "Yayaya_Youtube_16_9 (1).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d812b36-3c87-4ade-99a6-1e5757b4e2be_Yayaya_Youtube_16_9+%281%29.mp4",
-				"size": "5555894"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "bestxtrackof2020",
@@ -133,6 +156,24 @@
 			"description": "playlist des meilleurs sons 2020"
 		},
 		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T06:22:54+0000",
+			"title": "2020 IS THE YEAR",
+			"subtitle": "",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
+		},
+		{
 			"uid": "martin-parr",
 			"tags": [
 				"article"
@@ -153,24 +194,6 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "Un monde à Parr"
-		},
-		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T06:22:54+0000",
-			"title": "2020 IS THE YEAR",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
@@ -216,30 +239,6 @@
 			"author": "Camille Laurence",
 			"internal_link": null,
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
-		},
-		{
-			"uid": "nola-cherri",
-			"tags": [
-				"video",
-				"music",
-				"live session"
-			],
-			"publication_date": "2020-12-09T11:10:48+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2ce21e04-ebfa-491e-ab97-97c123a37b03_Nola+Cherri+Live+Session.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2850,
-				"height": 1608,
-				"ratio": 1.7723880597014925
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "For our first X-Track studio session, our guest Nola Cherri honored us with a performance of her song « Omo » taken from her first EP « These Associations ». "
 		},
 		{
 			"uid": "lhysterie",
