@@ -3,12 +3,12 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-15T06:27:49+0000",
+	"publication_date": "2020-12-15T07:13:09+0000",
 	"title": "Les apparences trompeuses du Pretty Privilege",
 	"subtitle": "",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-		"alt": "© Nadia Lee Cohen",
+		"alt": null,
 		"copyright": "Nadia Lee Cohen",
 		"width": 2000,
 		"height": 1590,
@@ -34,7 +34,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/e981c0c5-6158-4d86-9c5a-f054591175d5_LILI.jpg?auto=compress,format&rect=0,0,1499,1221&w=1024&h=834",
-					"alt": null,
+					"alt": "Lili",
 					"copyright": "Nadia Lee Cohen",
 					"width": 1024,
 					"height": 834,
@@ -42,8 +42,8 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/dcaa635c-e10f-4b2a-b1d6-af2954f01442_BODYBUILDER.jpg?auto=compress,format&rect=0,0,2500,2021&w=1024&h=828",
-					"alt": null,
-					"copyright": null,
+					"alt": "Future Beach",
+					"copyright": "Nadia Lee Cohen",
 					"width": 1024,
 					"height": 828,
 					"ratio": 1.2367149758454106
@@ -126,7 +126,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/5e96f043-fa2f-4675-8fe8-04e490890c87_NADIA+LEE+COHEN+BEAUTY+WEBZINE+CULTRE+.jpg?auto=compress,format&rect=0,0,2500,1990&w=1024&h=815",
-					"alt": null,
+					"alt": "Twins",
 					"copyright": "Nadia Lee Cohen",
 					"width": 1024,
 					"height": 815,
