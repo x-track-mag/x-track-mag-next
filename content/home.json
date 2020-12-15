@@ -22,9 +22,9 @@
 			"title": "Episode 1 : Samantha Deep ",
 			"image": null,
 			"video_loop": {
-				"name": "Yayaya_Youtube_16_9 (1).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d812b36-3c87-4ade-99a6-1e5757b4e2be_Yayaya_Youtube_16_9+%281%29.mp4",
-				"size": "5555894"
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
 			}
 		},
 		{
@@ -97,14 +97,14 @@
 			"tags": [
 				"video"
 			],
-			"publication_date": "2020-12-14T21:57:11+0000",
+			"publication_date": "2020-12-15T14:28:51+0000",
 			"title": "Episode 1 : Samantha Deep ",
 			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
 			"image": null,
 			"video_loop": {
-				"name": "Yayaya_Youtube_16_9 (1).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d812b36-3c87-4ade-99a6-1e5757b4e2be_Yayaya_Youtube_16_9+%281%29.mp4",
-				"size": "5555894"
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
 			},
 			"template": "3: Image + Titre",
 			"author": null,
@@ -134,6 +134,24 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T06:22:54+0000",
+			"title": "2020 IS THE YEAR",
+			"subtitle": "",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
+		},
+		{
 			"uid": "bestxtrackof2020",
 			"tags": [
 				"music"
@@ -154,24 +172,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "playlist des meilleurs sons 2020"
-		},
-		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T06:22:54+0000",
-			"title": "2020 IS THE YEAR",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
 		},
 		{
 			"uid": "martin-parr",
