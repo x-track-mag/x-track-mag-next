@@ -70,6 +70,47 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "bestxtrackof2020",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2020-12-15T19:19:17+0000",
+			"title": "",
+			"subtitle": "Best ”XTrack“ of 2020",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "playlist des meilleurs sons 2020"
+		},
+		{
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2020-12-15T14:28:51+0000",
+			"title": "Episode 1 : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+		},
+		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -93,23 +134,22 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"uid": "2020-is-the-year",
 			"tags": [
-				"video"
+				"article"
 			],
-			"publication_date": "2020-12-15T14:28:51+0000",
-			"title": "Episode 1 : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"publication_date": "2020-12-15T17:24:08+0000",
+			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
 			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
-			},
-			"template": "3: Image + Titre",
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
 			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
 		},
 		{
 			"uid": "nola-cherri",
@@ -135,24 +175,6 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T17:24:08+0000",
-			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
-		},
-		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
 			"tags": [
 				"article"
@@ -173,28 +195,6 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "Les apparences trompeuses du pretty privilege"
-		},
-		{
-			"uid": "bestxtrackof2020",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2020-12-15T06:21:54+0000",
-			"title": "",
-			"subtitle": "Best ”XTrack“ of 2020",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "playlist des meilleurs sons 2020"
 		},
 		{
 			"uid": "martin-parr",
