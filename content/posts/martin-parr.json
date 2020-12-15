@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-14T16:24:20+0000",
+	"publication_date": "2020-12-15T06:20:52+0000",
 	"title": "Martin Parr",
 	"subtitle": "Un Monde à Parr",
 	"image": {
@@ -62,7 +62,7 @@
 				{
 					"type": "image",
 					"url": "https://images.prismic.io/x-track-mag/9d3bad7e-ee29-46be-b676-557c10aa6276_martin-parr-pisa.jpg?auto=compress,format",
-					"alt": "The leaning Tower of Pisa, Martin Parr/Magnum",
+					"alt": "The leaning Tower of Pisa",
 					"copyright": "Martin Parr - Magnum Photo",
 					"dimensions": {
 						"width": 1600,
@@ -81,7 +81,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/e807cd33-3b9c-4b7b-8f9d-76f5b5e66b15_martin-parr-old-couple.jpg?auto=compress,format&rect=0,0,1315,1080&w=1024&h=841",
-					"alt": "New Brighton, from ‘The Last Resort’, 1983-85  Martin Parr",
+					"alt": "New Brighton, from ‘The Last Resort’, 1983-85",
 					"copyright": "Martin Parr - Magnum Photo",
 					"width": 1024,
 					"height": 841,
@@ -89,7 +89,7 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/408e6a4f-c021-44bf-ac1d-b46fbb0fd28a_marin-parr-loneliness.webp?auto=compress,format&rect=0,0,865,704&w=1024&h=833",
-					"alt": "Untitled (New Brighton), 1983-85  Martin Parr",
+					"alt": "Untitled (New Brighton), 1983-85",
 					"copyright": "Martin Parr - Magnum Photo",
 					"width": 1024,
 					"height": 833,
@@ -97,7 +97,7 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/170ca300-79f6-4cc4-83d0-ef3472b46d88_martin-parr-this-isnt-hapinness.jpg?auto=compress,format&rect=0,0,1206,941&w=1024&h=799",
-					"alt": "Untitled (New Brighton), 1983-85  Martin Parr",
+					"alt": "Untitled (New Brighton), 1983-85",
 					"copyright": "Martin Parr - Magnum Photo",
 					"width": 1024,
 					"height": 799,
@@ -193,6 +193,19 @@
 					"type": "paragraph",
 					"text": "Dans le monde du cinéma, l’esthétique kitsch d’un Wes Anderson ou d’un Gregg Araki ne sont pas sans rappeler l’approche de Martin Parr tant dans l’utilisation de la palette chromatique que dans la représentation de certains personnages. Au fil du temps, l’empreinte du photographe s’est propagée dans le monde de l’art. Dans le contexte actuel, elle participe à nous éclairer davantage sur notre vision du monde.",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/9001a6fe-09f1-4218-9cbe-9bd2f04965b0_Martin-Parr-Plage-de-Nice.jpg?auto=compress,format&rect=0,0,1280,853&w=1024&h=682",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 682,
+					"ratio": 1.501466275659824
 				}
 			]
 		}

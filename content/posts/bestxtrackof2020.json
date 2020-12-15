@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-14T18:52:43+0000",
+	"publication_date": "2020-12-15T06:21:54+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -21,8 +21,8 @@
 	"sections": [
 		{
 			"template": "section-hero",
-			"title": null,
-			"subtitle": null,
+			"title": "Chill, Pop, Afropop, R&B, & Hip Hop",
+			"subtitle": "Best ”XTrack“ of 2020",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
 				"alt": "Tierra Whack",
@@ -37,7 +37,7 @@
 			"text": [
 				{
 					"type": "heading3",
-					"text": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of 2020 /  Les meilleurs sons de 2020 ",
+					"text": "Les meilleurs sons de 2020 ",
 					"spans": []
 				},
 				{
@@ -142,5 +142,5 @@
 			"playlist": []
 		}
 	],
-	"description": "Chill, Pop, Afropop, R&B, & Hip Hop / Listen to our freshly updated Best ”XTrack“ of 2020 /  Les meilleurs sons de 2020 "
+	"description": "playlist des meilleurs sons 2020"
 }
