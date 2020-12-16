@@ -3,7 +3,7 @@
 	"tags": [
 		"video"
 	],
-	"publication_date": "2020-12-16T11:35:31+0000",
+	"publication_date": "2020-12-16T11:38:09+0000",
 	"title": "Episode 1 : Samantha Deep ",
 	"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
 	"image": null,
@@ -26,8 +26,18 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Suivez Samantha Deep sur Instagram : https://www.instagram.com/yayayayayayayayayou/",
-					"spans": []
+					"text": "Suivez Samantha Deep sur Instagram",
+					"spans": [
+						{
+							"start": 0,
+							"end": 34,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/yayayayayayayayayou/"
+							}
+						}
+					]
 				}
 			],
 			"link": {
