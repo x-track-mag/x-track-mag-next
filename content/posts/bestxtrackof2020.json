@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-15T19:19:17+0000",
+	"publication_date": "2020-12-16T18:16:44+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/dec58531-b9e7-4ddf-9f5d-56f3e761f8c1_Tekno-Old+Romance+cover.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 2000,
-		"height": 2000,
+		"width": 1500,
+		"height": 1500,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -24,11 +24,11 @@
 			"title": "Chill, Pop, Afropop, R&B, & Hip Hop",
 			"subtitle": "Best ”XTrack“ of 2020",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e56b3e80-f87a-4ae9-b804-9f4c0c326e2c_Tierra+Whack+-Pepper%2Band%2BOnion.jpg?auto=compress,format",
-				"alt": "Tierra Whack",
+				"url": "https://images.prismic.io/x-track-mag/dec58531-b9e7-4ddf-9f5d-56f3e761f8c1_Tekno-Old+Romance+cover.jpg?auto=compress,format",
+				"alt": "Tekno",
 				"copyright": null,
-				"width": 2000,
-				"height": 2000,
+				"width": 1500,
+				"height": 1500,
 				"ratio": 1
 			}
 		},
