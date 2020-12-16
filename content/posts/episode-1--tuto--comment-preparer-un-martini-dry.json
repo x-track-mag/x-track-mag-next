@@ -3,7 +3,7 @@
 	"tags": [
 		"video"
 	],
-	"publication_date": "2020-12-15T14:28:51+0000",
+	"publication_date": "2020-12-16T10:07:05+0000",
 	"title": "Episode 1 : Samantha Deep ",
 	"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
 	"image": null,
@@ -26,21 +26,20 @@
 				}
 			],
 			"link": {
-				"width": 480,
-				"height": 270,
-				"embed_url": "https://www.youtube.com/watch?v=cftxA8fTS_w",
-				"type": "video",
-				"version": "1.0",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
 				"title": "Episode 1 : Tuto : Comment préparer un martini dry tout en larguant son amant.",
 				"author_name": "XTrack radio",
 				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
-				"cache_age": null,
-				"thumbnail_url": "https://i.ytimg.com/vi/cftxA8fTS_w/hqdefault.jpg",
-				"thumbnail_width": 480,
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
 				"thumbnail_height": 360,
-				"html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/cftxA8fTS_w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/MV_Z2Oa8c14/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MV_Z2Oa8c14?start=2&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=MV_Z2Oa8c14&t=2s"
 			},
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",

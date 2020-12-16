@@ -94,7 +94,7 @@
 			"tags": [
 				"video"
 			],
-			"publication_date": "2020-12-15T14:28:51+0000",
+			"publication_date": "2020-12-16T10:07:05+0000",
 			"title": "Episode 1 : Samantha Deep ",
 			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
 			"image": null,
@@ -131,6 +131,24 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T17:24:08+0000",
+			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
+		},
+		{
 			"uid": "bestxtrackof2020",
 			"tags": [
 				"music"
@@ -151,24 +169,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "playlist des meilleurs sons 2020"
-		},
-		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T17:24:08+0000",
-			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
