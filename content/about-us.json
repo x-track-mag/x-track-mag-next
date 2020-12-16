@@ -1,6 +1,6 @@
 {
 	"uid": "about-us",
-	"publication_date": "2020-12-16T02:16:10+0000",
+	"publication_date": "2020-12-16T14:46:50+0000",
 	"title": "About Us",
 	"subtitle": "",
 	"sections": [
@@ -9,17 +9,7 @@
 			"text": [
 				{
 					"type": "heading2",
-					"text": "X-TRACK EST UNE PLATEFORME CRÉATIVE, QUI MET EN VALEUR LA SINGULARITÉ & L’INCLUSIVITÉ  À TRAVERS DIFFÉRENTS MEDIUMS.",
-					"spans": []
-				},
-				{
-					"type": "heading3",
-					"text": " ",
-					"spans": []
-				},
-				{
-					"type": "heading2",
-					"text": "UNE CURATION, DU DÉCRYPTAGE, DES LIVE SESSIONS, VIDÉOS & PLAYLISTS, LE TOUT SOIGNEUSEMENT CONFECTIONNÉS PAR NOS SOINS.",
+					"text": "X-TRACK MAG EST UNE PLATEFORME CRÉATIVE DONT LE DÉSIR EST LA MISE EN VALEUR DE LA SINGULARITÉ ARTISTIQUE À TRAVERS DIFFÉRENTS MEDIUMS.",
 					"spans": []
 				},
 				{
@@ -28,9 +18,55 @@
 					"spans": []
 				},
 				{
-					"type": "heading2",
-					"text": "X-TRACK C'EST UNE SENSIBILITÉ PARTICULIÈRE ACCORDÉE AUX DIFFÉRENTES DYNAMIQUES DIGITALES. X-TRACK EST UN HYMNE À LA NOUVELLE GÉNÉRATION, ACTIVE QUI DÉCONSTRUIT ET RECONSTRUIT ALL OVER THE WORLD.",
+					"type": "paragraph",
+					"text": "DU DÉCRYPTAGE, DES LIVE SESSIONS, DES CAPSULES VIDÉOS & DES PLAYLISTS  EXCLUSIVES, LE TOUT SOIGNEUSEMENT CONFECTIONNÉS PAR NOS SOINS.",
 					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "X-TRACK MAG EST LE FRUIT D’UNE VISION SENSIBLE AUX DIFFÉRENTES DYNAMIQUES DIGITALES.",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "CÉLÉBRONS  ENSEMBLE CETTE NOUVELLE ÈRE QUI INVITE À DÉCONSTRUIRE ET RECONSTRUIRE. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "ALL OVER THE WORLD.",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "AWARE AND COLORFUL ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 19,
+							"type": "strong"
+						}
+					]
 				}
 			],
 			"image": {
@@ -45,5 +81,5 @@
 			"full_page": false
 		}
 	],
-	"description": "X-TRACK EST UNE PLATEFORME CRÉATIVE, QUI MET EN VALEUR LA SINGULARITÉ & L’INCLUSIVITÉ  À TRAVERS DIFFÉRENTS MEDIUMS."
+	"description": "X-TRACK MAG EST UNE PLATEFORME CRÉATIVE DONT LE DÉSIR EST LA MISE EN VALEUR DE LA SINGULARITÉ ARTISTIQUE À TRAVERS DIFFÉRENTS MEDIUMS."
 }
