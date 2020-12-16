@@ -4,7 +4,7 @@
 		"article",
 		"music"
 	],
-	"publication_date": "2020-12-16T09:57:24+0000",
+	"publication_date": "2020-12-16T09:59:58+0000",
 	"title": "Polycool",
 	"subtitle": "",
 	"image": null,
@@ -30,6 +30,29 @@
 							"type": "em"
 						}
 					]
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/41b5ccee-d3d0-4d3e-b7d4-93f9a6c86136_ME%CC%81DIA+CULTURE+POLYCOOL+MUSIQUE.png?auto=compress,format&rect=0,0,2874,1563&w=1024&h=557",
+					"alt": "© Polycool",
+					"copyright": "Polycool",
+					"width": 1024,
+					"height": 557,
+					"ratio": 1.8384201077199283
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
 				},
 				{
 					"type": "heading2",
@@ -43,14 +66,9 @@
 					]
 				},
 				{
-					"type": "image",
-					"url": "https://images.prismic.io/x-track-mag/41b5ccee-d3d0-4d3e-b7d4-93f9a6c86136_ME%CC%81DIA+CULTURE+POLYCOOL+MUSIQUE.png?auto=compress,format",
-					"alt": "Lemon Lord",
-					"copyright": "Polycool",
-					"dimensions": {
-						"width": 2874,
-						"height": 1564
-					}
+					"type": "paragraph",
+					"text": "",
+					"spans": []
 				},
 				{
 					"type": "paragraph",
@@ -95,7 +113,7 @@
 			"subtitle": "--blank--",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/88351be4-1431-4119-93d1-1af0b5ec615b_CULTURE+MUSIQUE+POLYCOOL+WEBZINE.png?auto=compress,format",
-				"alt": "Polycool",
+				"alt": "© Polycool",
 				"copyright": null,
 				"width": 2824,
 				"height": 1530,
