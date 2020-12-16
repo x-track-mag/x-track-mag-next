@@ -45,7 +45,7 @@
 			"title": "L’Avenir de la Mode est-il virtuel ?",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
-				"alt": null,
+				"alt": "©",
 				"copyright": null,
 				"width": 1080,
 				"height": 1080,
@@ -70,6 +70,48 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"tags": [
+				"article",
+				"fashion"
+			],
+			"publication_date": "2020-12-16T10:13:31+0000",
+			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
+				"alt": "©",
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurence",
+			"internal_link": null,
+			"description": "L’Avenir de la Mode est-il virtuel ?"
+		},
+		{
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2020-12-16T10:07:05+0000",
+			"title": "Episode 1 : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+		},
+		{
 			"uid": "polycool",
 			"tags": [
 				"article",
@@ -90,23 +132,22 @@
 			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
 		},
 		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"uid": "2020-is-the-year",
 			"tags": [
-				"video"
+				"article"
 			],
-			"publication_date": "2020-12-16T10:07:05+0000",
-			"title": "Episode 1 : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"publication_date": "2020-12-15T17:24:08+0000",
+			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
 			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
-			},
-			"template": "3: Image + Titre",
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
 			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
@@ -131,24 +172,6 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T17:24:08+0000",
-			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
-		},
-		{
 			"uid": "bestxtrackof2020",
 			"tags": [
 				"music"
@@ -169,29 +192,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "playlist des meilleurs sons 2020"
-		},
-		{
-			"uid": "lavenir-de-la-mode-est-il-virtuel",
-			"tags": [
-				"article",
-				"fashion"
-			],
-			"publication_date": "2020-12-15T15:29:08+0000",
-			"title": "L’Avenir de la Mode est-il virtuel ?",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": null,
-			"internal_link": null,
-			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
 			"uid": "nola-cherri",

@@ -4,12 +4,12 @@
 		"article",
 		"fashion"
 	],
-	"publication_date": "2020-12-15T15:29:08+0000",
+	"publication_date": "2020-12-16T10:13:31+0000",
 	"title": "L’Avenir de la Mode est-il virtuel ?",
 	"subtitle": "",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
-		"alt": null,
+		"alt": "©",
 		"copyright": null,
 		"width": 1080,
 		"height": 1080,
@@ -17,7 +17,7 @@
 	},
 	"video_loop": null,
 	"template": "5: 2 colonnes Titre + Image",
-	"author": null,
+	"author": "Camille Laurence",
 	"internal_link": null,
 	"sections": [
 		{
@@ -51,7 +51,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "A l’heure où la crise sanitaire est au plus fort, le secteur de la mode est, lui aussi, en mutation profonde. ",
+					"text": "À l’heure où la crise sanitaire est au plus fort, le secteur de la mode est, lui aussi, en mutation profonde. ",
 					"spans": []
 				},
 				{
@@ -99,7 +99,7 @@
 				{
 					"type": "image",
 					"url": "https://images.prismic.io/x-track-mag/97a5cd6d-49ba-4fb6-a9b9-33e11be887d9_CYBER-FASHION-XTRACK-.jpg?auto=compress,format",
-					"alt": null,
+					"alt": " ",
 					"copyright": null,
 					"dimensions": {
 						"width": 1080,
