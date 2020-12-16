@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2020-12-02T23:35:49+0000",
+	"publication_date": "2020-12-16T10:21:52+0000",
 	"title": "DON'T CALL ME BABE ",
 	"subtitle": "",
 	"image": null,
@@ -13,7 +13,7 @@
 		"size": "2231626"
 	},
 	"template": "3: Image + Titre",
-	"author": null,
+	"author": "Sylsphée Bertili",
 	"internal_link": null,
 	"sections": [
 		{
@@ -108,8 +108,65 @@
 				},
 				{
 					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
 					"text": "A travers le récit de Julia, on comprend également qu’insulter une féministe d’hystérique lorsqu’elle revendique ses idées revient à dire que ces dernières la rendent violente, et ce de manière injustifiée. Mais est-ce inexplicablement violent de ne pas vouloir harcelée dans la rue, d’exiger un salaire égal à celui de son collègue, ou encore de souhaiter s’habiller comme on l’entend ? Qu’y a-t-il de si « spectaculaire » ou « exagéré » dans le combat féministe qui rappellerait l’hystérie ? Le fait que la féministe en question s’énerve ne change pas la donne : pourquoi devrait-on rester de marbre lorsqu’on est victime d’une injustice ?",
 					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Ce qu’on appelle « hystérie » lorsque les féministes haussent le ton n’est en fait que de la colère. Et la colère, utilisée à bon escient, peut servir d’impulsion. Anne-Charlotte Husson, doctorante en sciences du langage, expliquait à Slate en 2018 que « Sans colère, [il n’y a] pas de féminisme, pas de transformation sociale. D’ailleurs, les grands mouvements militants partent d’une colère personnelle dont on finit par comprendre qu’elle est politique. » C’est-à-dire que la colère en question s’élève contre l’ordre établi et le pouvoir en place, mais aussi qu’elle revêt elle-même une dimension collective et constitue une forme de contre-pouvoir. Être en colère lorsqu’on est une femme féministe est légitime et utile, en plus d’être compréhensible. L’injonction à être polie et douce est contreproductive lorsqu’il s’agit de renverser une société qui opprime les femmes. Alors, si être hystérique revient à être une féministe convaincue, ainsi soit-il !",
+					"spans": [
+						{
+							"start": 233,
+							"end": 248,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "http://www.slate.fr/story/161245/bon-usage-colere-femmes"
+							}
+						},
+						{
+							"start": 235,
+							"end": 240,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "De nombreuses femmes ont choisi de se réapproprier des mots originellement dégradants tels que « salope » (comme Adeline Anfray dans son livre Toutes des salopes) ou encore « beurette » (comme Lisa Bouteldja notamment sur Instagram), alors pourquoi pas « hystérique » ? ",
+					"spans": [
+						{
+							"start": 143,
+							"end": 161,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": " ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Dans tous les cas, qu’on s’y oppose ou qu’on se l’approprie, tout l’enjeu est de rejeter son sens actuel. L’objectif est de donner aux mouvements féministes une légitimité qu’ils acquièrent encore trop lentement. Les femmes et féministes décrites comme hystériques ont des raisons fondées – les sciences sociales en sont témoins – de protester, de militer et d’être énervées, et ce même quand elles ne le savent pas elles-mêmes. Comme dirait Geneviève Fraisse, « derrière l’opinion, il y a de la pensée. » ; derrière l’émotion, également.",
+					"spans": [
+						{
+							"start": 0,
+							"end": 538,
+							"type": "em"
+						}
+					]
 				}
 			]
 		}
