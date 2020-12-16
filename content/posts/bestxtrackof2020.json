@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-16T18:17:08+0000",
+	"publication_date": "2020-12-16T20:22:48+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -82,12 +82,12 @@
 					"ratio": 0.9990243902439024
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a937f480-86b2-4b51-b99b-5465f4f3a016_Sault-Untitled+%28Black+Is%29+Cover+%2B.jpeg?auto=compress,format&rect=0,0,2399,2338&w=1024&h=998",
-					"alt": "Sault",
+					"url": "https://images.prismic.io/x-track-mag/dec58531-b9e7-4ddf-9f5d-56f3e761f8c1_Tekno-Old+Romance+cover.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
+					"alt": "Tekno",
 					"copyright": null,
 					"width": 1024,
-					"height": 998,
-					"ratio": 1.0260521042084167
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
