@@ -4,7 +4,7 @@
 		"article",
 		"music"
 	],
-	"publication_date": "2020-12-01T19:28:21+0000",
+	"publication_date": "2020-12-16T09:57:24+0000",
 	"title": "Polycool",
 	"subtitle": "",
 	"image": null,
@@ -14,25 +14,9 @@
 		"size": "462073"
 	},
 	"template": "3: Image + Titre",
-	"author": null,
+	"author": "Aphelandra Siassia",
 	"internal_link": null,
 	"sections": [
-		{
-			"template": "section-full-text",
-			"text": [
-				{
-					"type": "heading2",
-					"text": "Avec “Lemon Lord”, le groupe Polycool nous dresse une ode au Seigneur Citron",
-					"spans": [
-						{
-							"start": 6,
-							"end": 16,
-							"type": "em"
-						}
-					]
-				}
-			]
-		},
 		{
 			"template": "section-full-text",
 			"text": [
@@ -46,25 +30,28 @@
 							"type": "em"
 						}
 					]
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
+				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/41b5ccee-d3d0-4d3e-b7d4-93f9a6c86136_ME%CC%81DIA+CULTURE+POLYCOOL+MUSIQUE.png?auto=compress,format&rect=0,0,2874,1563&w=1024&h=557",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 557,
-					"ratio": 1.8384201077199283
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+					"type": "heading2",
+					"text": "Avec “Lemon Lord”, le groupe Polycool dresse une ode au Seigneur Citron",
+					"spans": [
+						{
+							"start": 6,
+							"end": 16,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/41b5ccee-d3d0-4d3e-b7d4-93f9a6c86136_ME%CC%81DIA+CULTURE+POLYCOOL+MUSIQUE.png?auto=compress,format",
+					"alt": "Lemon Lord",
+					"copyright": "Polycool",
+					"dimensions": {
+						"width": 2874,
+						"height": 1564
+					}
+				},
 				{
 					"type": "paragraph",
 					"text": "C’est dans l'étroite cave d'un immeuble parisien, non loin du Cirque d'Hiver, que se trouve le studio de répétition du groupe Polycool. Entre les vinyles éparpillés estampillés de truites sauteuses et quelques synthétiseurs tout droit sortie du film “Retour Vers le Futur, cet espace exigu semble renfermer tous les secrets de fabrication du quatuor. ",
@@ -73,11 +60,6 @@
 				{
 					"type": "paragraph",
 					"text": "Tino Gelli, chanteur barbu et chevelu du groupe nous accueille tout sourire. ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
 					"spans": []
 				}
 			]
@@ -98,19 +80,8 @@
 				{
 					"type": "heading2",
 					"text": "Du rock expérimental à la pop smooth ",
-					"spans": [
-						{
-							"start": 0,
-							"end": 37,
-							"type": "strong"
-						}
-					]
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+					"spans": []
+				},
 				{
 					"type": "paragraph",
 					"text": "Car l'histoire de Polycool ne remonte pas d'hier. Jonas, Leon, Solal et Tino se rencontrent au collège, à une période où les bébés rockers régnaient en maître sur le paysage musical parisien. Pour pallier à leur manque d'assurance dans la cour de récré et pour réaliser leur rêve de jouer collectivement, la joyeuse bande décide de se constituer en groupe.",
@@ -124,7 +95,7 @@
 			"subtitle": "--blank--",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/88351be4-1431-4119-93d1-1af0b5ec615b_CULTURE+MUSIQUE+POLYCOOL+WEBZINE.png?auto=compress,format",
-				"alt": null,
+				"alt": "Polycool",
 				"copyright": null,
 				"width": 2824,
 				"height": 1530,
@@ -166,20 +137,9 @@
 			"text": [
 				{
 					"type": "heading2",
-					"text": "De la musique à la BD : Lemon Lord is everywhere ",
-					"spans": [
-						{
-							"start": 0,
-							"end": 49,
-							"type": "strong"
-						}
-					]
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+					"text": "De la musique à la BD : Lemon Lord is everywhere",
+					"spans": []
+				},
 				{
 					"type": "paragraph",
 					"text": "Mais Polycool, c'est aussi un univers esthétique sans pareil. Cette sensibilité se retrouve  dans chacun de leurs clips, pensés et réalisés avec soin par le groupe lui-même accompagné du duo de vidéastes Clément Métayer et Léo Schrepel.  ",
@@ -213,7 +173,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Quand on est artiste indépendant comme nous, on a pas d'autre choix que de travailler sur notre image, sur des supports graphiques de qualité. On a toujours fait nos artworks dans l’ensemble de nos projets, ajoute le chanteur. ",
+					"text": "Quand on est artiste indépendant comme nous, on a pas d'autre choix que de travailler sur notre image, sur des supports graphiques de qualité. On a toujours fait nos artworks dans l’ensemble de nos projets.",
 					"spans": []
 				}
 			]
@@ -223,30 +183,8 @@
 			"text": [
 				{
 					"type": "heading2",
-					"text": "De véritables bêtes de scène ",
-					"spans": [
-						{
-							"start": 0,
-							"end": 29,
-							"type": "strong"
-						}
-					]
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
-				{
-					"type": "paragraph",
-					"text": "De véritables bêtes de scène ",
-					"spans": [
-						{
-							"start": 0,
-							"end": 29,
-							"type": "strong"
-						}
-					]
+					"text": "De véritables bêtes de scène",
+					"spans": []
 				},
 				{
 					"type": "paragraph",
@@ -255,11 +193,11 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "“ La Crampe est un personnage qui me met très à l'aise. En concert il est là, il se met derrière nous, il interagit avec le public. C'est un personnage qui nous suit depuis des années, mais qui a enfilé sa cagoule il y a de ça quatre cinq ans” confie Solal. ",
+					"text": "“La Crampe est un personnage qui me met très à l'aise. En concert il est là, il se met derrière nous, il interagit avec le public. C'est un personnage qui nous suit depuis des années, mais qui a enfilé sa cagoule il y a de ça quatre cinq ans” confie Solal. ",
 					"spans": [
 						{
 							"start": 0,
-							"end": 258,
+							"end": 257,
 							"type": "em"
 						}
 					]
@@ -288,5 +226,5 @@
 			]
 		}
 	],
-	"description": "Avec “Lemon Lord”, le groupe Polycool nous dresse une ode au Seigneur Citron"
+	"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
 }
