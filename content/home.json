@@ -70,6 +70,47 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
+		},
+		{
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2020-12-16T11:38:09+0000",
+			"title": "Episode 1 : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+		},
+		{
 			"uid": "bestxtrackof2020",
 			"tags": [
 				"music"
@@ -90,25 +131,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "playlist des meilleurs sons 2020"
-		},
-		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2020-12-16T11:38:09+0000",
-			"title": "Episode 1 : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
@@ -189,28 +211,6 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
-		},
-		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T19:53:03+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurence",
-			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
 			"uid": "nola-cherri",
