@@ -4,7 +4,7 @@
 		"article",
 		"music"
 	],
-	"publication_date": "2020-12-16T09:59:58+0000",
+	"publication_date": "2020-12-16T10:04:17+0000",
 	"title": "Polycool",
 	"subtitle": "",
 	"image": null,
@@ -37,9 +37,9 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/41b5ccee-d3d0-4d3e-b7d4-93f9a6c86136_ME%CC%81DIA+CULTURE+POLYCOOL+MUSIQUE.png?auto=compress,format&rect=0,0,2874,1563&w=1024&h=557",
+					"url": "https://images.prismic.io/x-track-mag/97a76f3d-b4a1-47fe-9c02-cb8e58bc0527_ME%CC%81DIA+CULTURE+POLYCOOL+MUSIQUE.png?auto=compress,format&rect=0,0,2874,1563&w=1024&h=557",
 					"alt": "© Polycool",
-					"copyright": "Polycool",
+					"copyright": null,
 					"width": 1024,
 					"height": 557,
 					"ratio": 1.8384201077199283
@@ -112,7 +112,7 @@
 			"title": "--blank--",
 			"subtitle": "--blank--",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/88351be4-1431-4119-93d1-1af0b5ec615b_CULTURE+MUSIQUE+POLYCOOL+WEBZINE.png?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/360d5793-85eb-4dff-a375-09f219757fb2_CULTURE+MUSIQUE+POLYCOOL+WEBZINE.png?auto=compress,format",
 				"alt": "© Polycool",
 				"copyright": null,
 				"width": 2824,
@@ -202,6 +202,11 @@
 				{
 					"type": "heading2",
 					"text": "De véritables bêtes de scène",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
 					"spans": []
 				},
 				{
