@@ -70,23 +70,27 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "lhysterie",
+			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
-				"article"
+				"article",
+				"fashion"
 			],
-			"publication_date": "2020-12-16T10:23:55+0000",
-			"title": "DON'T CALL ME BABE ",
+			"publication_date": "2020-12-16T14:47:24+0000",
+			"title": "L’Avenir de la Mode est-il virtuel ?",
 			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
+				"alt": "©",
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
 			},
-			"template": "3: Image + Titre",
-			"author": "Sylsphée Bertili",
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
@@ -108,27 +112,23 @@
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
-			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"uid": "lhysterie",
 			"tags": [
-				"article",
-				"fashion"
+				"article"
 			],
-			"publication_date": "2020-12-16T10:13:31+0000",
-			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"publication_date": "2020-12-16T10:23:55+0000",
+			"title": "DON'T CALL ME BABE ",
 			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
-				"alt": "©",
-				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
+			"image": null,
+			"video_loop": {
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
 			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurence",
+			"template": "3: Image + Titre",
+			"author": "Sylsphée Bertili",
 			"internal_link": null,
-			"description": "L’Avenir de la Mode est-il virtuel ?"
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "2020-is-the-year",
