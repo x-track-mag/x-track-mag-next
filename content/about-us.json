@@ -1,6 +1,6 @@
 {
 	"uid": "about-us",
-	"publication_date": "2020-12-16T14:46:50+0000",
+	"publication_date": "2020-12-16T14:48:54+0000",
 	"title": "About Us",
 	"subtitle": "",
 	"sections": [
@@ -18,7 +18,7 @@
 					"spans": []
 				},
 				{
-					"type": "paragraph",
+					"type": "heading2",
 					"text": "DU DÉCRYPTAGE, DES LIVE SESSIONS, DES CAPSULES VIDÉOS & DES PLAYLISTS  EXCLUSIVES, LE TOUT SOIGNEUSEMENT CONFECTIONNÉS PAR NOS SOINS.",
 					"spans": []
 				},
@@ -28,7 +28,7 @@
 					"spans": []
 				},
 				{
-					"type": "paragraph",
+					"type": "heading2",
 					"text": "X-TRACK MAG EST LE FRUIT D’UNE VISION SENSIBLE AUX DIFFÉRENTES DYNAMIQUES DIGITALES.",
 					"spans": []
 				},
@@ -38,7 +38,7 @@
 					"spans": []
 				},
 				{
-					"type": "paragraph",
+					"type": "heading2",
 					"text": "CÉLÉBRONS  ENSEMBLE CETTE NOUVELLE ÈRE QUI INVITE À DÉCONSTRUIRE ET RECONSTRUIRE. ",
 					"spans": []
 				},
@@ -48,7 +48,7 @@
 					"spans": []
 				},
 				{
-					"type": "paragraph",
+					"type": "heading2",
 					"text": "ALL OVER THE WORLD.",
 					"spans": []
 				},
@@ -58,7 +58,7 @@
 					"spans": []
 				},
 				{
-					"type": "paragraph",
+					"type": "heading2",
 					"text": "AWARE AND COLORFUL ",
 					"spans": [
 						{
