@@ -20,8 +20,12 @@
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
-			"position": 2,
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+			"position": 3,
+			"uid": "bestxtrackof2020"
+		},
+		{
+			"position": 5,
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		}
 	],
 	"selected_reads": [
@@ -141,6 +145,24 @@
 			"description": "playlist des meilleurs sons 2020"
 		},
 		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T17:24:08+0000",
+			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
+		},
+		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -162,24 +184,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "L’Avenir de la Mode est-il virtuel ?"
-		},
-		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T17:24:08+0000",
-			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
 		},
 		{
 			"uid": "lhysterie",
