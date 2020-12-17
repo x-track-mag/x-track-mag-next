@@ -29,8 +29,7 @@ const update = async (req, resp) => {
 		resp.status(500).json({
 			success: false,
 			message: error.message,
-			stacktrace: error.stack,
-			env: process.env
+			stacktrace: error.stack
 		});
 	}
 };

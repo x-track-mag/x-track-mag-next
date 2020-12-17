@@ -17,6 +17,8 @@ const MetaSEO = ({
 	const router = useRouter();
 	const canonicalUrl = path.join(baseUrl, router.asPath);
 	const isArticle = tags.find((t) => t === "article");
+	// Note : Google Analytiocs Tag is only available in production
+	const gtag = process.env.GTAG;
 	return (
 		<Head>
 			<title>{title}</title>
@@ -69,6 +71,22 @@ const MetaSEO = ({
 			<meta name="msapplication-TileColor" content="#ffc40d" />
 			<meta name="msapplication-config" content="/img/browserconfig.xml" />
 			<meta name="theme-color" content="#ffffff" />
+
+			{gtag && (
+				<script
+					async
+					src={`https://www.googletagmanager.com/gtag/js?id=${gtag}`}
+				/>
+			)}
+			{gtag && (
+				<script
+					dangerouslySetInnerHTML={{
+						__html: `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date()); gtag('config', '${gtag}', {page_path: window.location.pathname});`
+					}}
+				/>
+			)}
 		</Head>
 	);
 };
