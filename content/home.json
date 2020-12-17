@@ -70,26 +70,26 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"uid": "bestxtrackof2020",
 			"tags": [
-				"article"
+				"music"
 			],
-			"publication_date": "2020-12-16T22:52:14+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
-			"subtitle": "",
+			"publication_date": "2020-12-17T10:34:30+0000",
+			"title": "",
+			"subtitle": "Best ”XTrack“ of 2020",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/dec58531-b9e7-4ddf-9f5d-56f3e761f8c1_Tekno-Old+Romance+cover.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
+				"width": 1500,
+				"height": 1500,
+				"ratio": 1
 			},
 			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
+			"description": "playlist des meilleurs sons 2020"
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
@@ -111,26 +111,26 @@
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
-			"uid": "bestxtrackof2020",
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 			"tags": [
-				"music"
+				"article"
 			],
-			"publication_date": "2020-12-16T20:36:14+0000",
-			"title": "",
-			"subtitle": "Best ”XTrack“ of 2020",
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/dec58531-b9e7-4ddf-9f5d-56f3e761f8c1_Tekno-Old+Romance+cover.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1500,
-				"height": 1500,
-				"ratio": 1
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
 			},
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "playlist des meilleurs sons 2020"
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
