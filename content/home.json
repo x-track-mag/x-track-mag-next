@@ -127,12 +127,12 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2020-12-18T11:07:32+0000",
+			"publication_date": "2020-12-18T15:23:53+0000",
 			"title": "",
 			"subtitle": "Best ”XTrack“ of 2020",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/dec58531-b9e7-4ddf-9f5d-56f3e761f8c1_Tekno-Old+Romance+cover.jpg?auto=compress,format",
-				"alt": null,
+				"alt": "Tekno",
 				"copyright": null,
 				"width": 1500,
 				"height": 1500,
@@ -142,7 +142,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "playlist des meilleurs sons 2020"
+			"description": "Playliste des meilleurs sons 2020"
 		},
 		{
 			"uid": "2020-is-the-year",

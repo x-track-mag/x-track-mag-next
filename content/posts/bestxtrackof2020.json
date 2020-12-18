@@ -3,12 +3,12 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-18T11:07:32+0000",
+	"publication_date": "2020-12-18T15:23:53+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/dec58531-b9e7-4ddf-9f5d-56f3e761f8c1_Tekno-Old+Romance+cover.jpg?auto=compress,format",
-		"alt": null,
+		"alt": "Tekno",
 		"copyright": null,
 		"width": 1500,
 		"height": 1500,
@@ -23,14 +23,7 @@
 			"template": "section-hero",
 			"title": "Chill, Pop, Afropop, R&B, & Hip Hop",
 			"subtitle": "Best ”XTrack“ of 2020",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/dec58531-b9e7-4ddf-9f5d-56f3e761f8c1_Tekno-Old+Romance+cover.jpg?auto=compress,format",
-				"alt": "Tekno",
-				"copyright": null,
-				"width": 1500,
-				"height": 1500,
-				"ratio": 1
-			}
+			"image": null
 		},
 		{
 			"template": "section-full-text",
@@ -136,11 +129,7 @@
 					"title": "Best ”XTrack“ of 2020"
 				}
 			]
-		},
-		{
-			"template": "section-playlist",
-			"playlist": []
 		}
 	],
-	"description": "playlist des meilleurs sons 2020"
+	"description": "Playliste des meilleurs sons 2020"
 }
