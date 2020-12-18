@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-18T15:23:53+0000",
+	"publication_date": "2020-12-18T20:09:16+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -127,6 +127,10 @@
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
 					"title": "Best ”XTrack“ of 2020"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2020/pl.u-KVXB5RWu0j3MD",
+					"title": "Best ”XTrack“ of 2020 par XTrack"
 				}
 			]
 		}
