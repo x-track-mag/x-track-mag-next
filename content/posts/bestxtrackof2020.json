@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-18T10:26:13+0000",
+	"publication_date": "2020-12-18T10:44:46+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -127,10 +127,13 @@
 					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=CP8Kk4uXQJCdXRmTFaylvg",
 					"title": "Best ”XTrack“ of 2020"
 				},
-				null,
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
 					"title": "Best ”XTrack“ of 2020 playlist | Listen on Deezer"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of 2020"
 				}
 			]
 		},
