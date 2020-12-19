@@ -20,12 +20,12 @@
 			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
-			"position": 3,
-			"uid": "bestxtrackof2020"
-		},
-		{
 			"position": 2,
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+		},
+		{
+			"position": 3,
+			"uid": "bestxtrackof2020"
 		}
 	],
 	"selected_reads": [
@@ -124,24 +124,6 @@
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T17:24:08+0000",
-			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
-		},
-		{
 			"uid": "bestxtrackof2020",
 			"tags": [
 				"music"
@@ -162,6 +144,24 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Playliste des meilleurs sons 2020"
+		},
+		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T17:24:08+0000",
+			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
