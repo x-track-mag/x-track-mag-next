@@ -1,20 +1,12 @@
 {
 	"title": "Home",
-	"description": "AWARE AND COLOURFUL- SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS",
-	"keywords": "Culture alternative, Musique indépendante, Webzine, X-TRACK",
+	"description": "AWARE AND COLOURFUL - SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS",
+	"keywords": "Culture alternative, Musique indépendante, Articles, Webzine, X-TRACK",
 	"scrolling_news": [
-		"AWARE AND COLOURFUL- SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS",
-		"AWARE AND COLOURFUL- SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS"
+		"AWARE AND COLOURFUL",
+		"SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS"
 	],
 	"pinned_posts": [
-		{
-			"position": 4,
-			"uid": "2020-is-the-year"
-		},
-		{
-			"position": 5,
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
-		},
 		{
 			"position": 1,
 			"uid": "lavenir-de-la-mode-est-il-virtuel"
@@ -26,6 +18,14 @@
 		{
 			"position": 3,
 			"uid": "bestxtrackof2020"
+		},
+		{
+			"position": 4,
+			"uid": "2020-is-the-year"
+		},
+		{
+			"position": 5,
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		}
 	],
 	"selected_reads": [
