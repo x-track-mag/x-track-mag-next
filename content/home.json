@@ -8,7 +8,7 @@
 	],
 	"pinned_posts": [
 		{
-			"position": 1,
+			"position": 5,
 			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
@@ -24,7 +24,7 @@
 			"uid": "2020-is-the-year"
 		},
 		{
-			"position": 5,
+			"position": 1,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		}
 	],
@@ -82,27 +82,26 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 			"tags": [
-				"article",
-				"fashion"
+				"article"
 			],
-			"publication_date": "2020-12-16T14:47:24+0000",
-			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
-				"alt": "©",
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1080,
+				"width": 744,
 				"height": 1080,
-				"ratio": 1
+				"ratio": 0.6888888888888889
 			},
 			"video_loop": null,
 			"template": "5: 2 colonnes Titre + Image",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "L’Avenir de la Mode est-il virtuel ?"
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
@@ -164,28 +163,6 @@
 			"description": ""
 		},
 		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T22:52:14+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
-		},
-		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
@@ -203,6 +180,29 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+		},
+		{
+			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"tags": [
+				"article",
+				"fashion"
+			],
+			"publication_date": "2020-12-16T14:47:24+0000",
+			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
+				"alt": "©",
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
 			"uid": "polycool",
