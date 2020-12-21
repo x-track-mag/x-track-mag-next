@@ -1,6 +1,6 @@
 {
 	"uid": "about-us",
-	"publication_date": "2020-12-16T14:48:54+0000",
+	"publication_date": "2020-12-21T20:59:36+0000",
 	"title": "About Us",
 	"subtitle": "",
 	"sections": [
@@ -64,6 +64,75 @@
 						{
 							"start": 0,
 							"end": 19,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Directeur de création : François Roy",
+					"spans": [
+						{
+							"start": 0,
+							"end": 36,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 36,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Directrice artistique : Khedija Dhaoui",
+					"spans": [
+						{
+							"start": 0,
+							"end": 38,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 38,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Production X-Track : Emile Roy / Valérie Carré / Arthur Monnet / Jean-Jacques hertz ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 84,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 84,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Développement Web : Zipang ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 26,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 26,
 							"type": "strong"
 						}
 					]
