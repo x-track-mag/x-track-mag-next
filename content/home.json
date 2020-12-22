@@ -104,6 +104,26 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
+			"uid": "santa-claus-is-a-black-man",
+			"tags": [],
+			"publication_date": "2020-12-22T21:42:46+0000",
+			"title": "Santa Claus Is a Black Man",
+			"subtitle": "R&B Hip Hop Santa Claus",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a05ff426-3cf4-4181-af78-f096d0f00501_Kanye-West-Santa-ClausSlide02.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1500,
+				"height": 1500,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": ""
+		},
+		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
 			"tags": [
 				"video"
@@ -163,25 +183,6 @@
 			"description": ""
 		},
 		{
-			"uid": "lhysterie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T10:23:55+0000",
-			"title": "DON'T CALL ME BABE ",
-			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
-			},
-			"template": "3: Image + Titre",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
-		},
-		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -205,6 +206,25 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
+			"uid": "lhysterie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T10:23:55+0000",
+			"title": "DON'T CALL ME BABE ",
+			"subtitle": "",
+			"image": null,
+			"video_loop": {
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
+			},
+			"template": "3: Image + Titre",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+		},
+		{
 			"uid": "polycool",
 			"tags": [
 				"article",
@@ -223,29 +243,6 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
-		},
-		{
-			"uid": "nola-cherri",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2020-12-15T14:16:58+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a0ced4af-da25-4612-a359-87eed13dc95b_LIVE+SESSION-X-TRACK+MAG.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2800,
-				"height": 1610,
-				"ratio": 1.7391304347826086
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Live session - Nola Cherri- French music"
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",

@@ -1,15 +1,15 @@
 {
 	"uid": "santa-claus-is-a-black-man",
 	"tags": [],
-	"publication_date": "2020-12-22T21:35:36+0000",
+	"publication_date": "2020-12-22T21:42:46+0000",
 	"title": "Santa Claus Is a Black Man",
-	"subtitle": "",
+	"subtitle": "R&B Hip Hop Santa Claus",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/d8ef5332-9587-43ec-bf51-7440b0881531_Kanye+West+Santa+Claus.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/a05ff426-3cf4-4181-af78-f096d0f00501_Kanye-West-Santa-ClausSlide02.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 500,
-		"height": 500,
+		"width": 1500,
+		"height": 1500,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -19,14 +19,14 @@
 	"sections": [
 		{
 			"template": "section-hero",
-			"title": null,
-			"subtitle": "R&B Hip Hop Santa Claus",
+			"title": "Santa Claus Is a Black Man",
+			"subtitle": null,
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/d8ef5332-9587-43ec-bf51-7440b0881531_Kanye+West+Santa+Claus.jpg?auto=compress,format",
-				"alt": "Enjoy R&B Hip Hop Christmas",
+				"url": "https://images.prismic.io/x-track-mag/a05ff426-3cf4-4181-af78-f096d0f00501_Kanye-West-Santa-ClausSlide02.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 500,
-				"height": 500,
+				"width": 1500,
+				"height": 1500,
 				"ratio": 1
 			}
 		},
@@ -34,7 +34,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/36wLfHJCs61Godz0ULhNwa?si=qREhzEeMTKKJ9jJl8t8XDA",
+					"url": "https://open.spotify.com/playlist/36wLfHJCs61Godz0ULhNwa?si=TdqHvJ4KQoWS4GVzeZEoJw",
 					"title": "Santa Claus Is a Black Man"
 				},
 				{
