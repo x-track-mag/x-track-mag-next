@@ -1,0 +1,52 @@
+{
+	"uid": "santa-claus-is-a-black-man",
+	"tags": [],
+	"publication_date": "2020-12-22T21:35:36+0000",
+	"title": "Santa Claus Is a Black Man",
+	"subtitle": "",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/d8ef5332-9587-43ec-bf51-7440b0881531_Kanye+West+Santa+Claus.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 500,
+		"height": 500,
+		"ratio": 1
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": "R&B Hip Hop Santa Claus",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/d8ef5332-9587-43ec-bf51-7440b0881531_Kanye+West+Santa+Claus.jpg?auto=compress,format",
+				"alt": "Enjoy R&B Hip Hop Christmas",
+				"copyright": null,
+				"width": 500,
+				"height": 500,
+				"ratio": 1
+			}
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/36wLfHJCs61Godz0ULhNwa?si=qREhzEeMTKKJ9jJl8t8XDA",
+					"title": "Santa Claus Is a Black Man"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/santa-claus-is-a-black-man/pl.u-WabZE97TN0D35",
+					"title": "Santa Claus Is a Black Man par XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/7037232224",
+					"title": "Playlist Santa Claus Is a Black Man | À écouter sur Deezer"
+				}
+			]
+		}
+	],
+	"description": ""
+}
