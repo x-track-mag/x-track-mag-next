@@ -1,16 +1,16 @@
 {
 	"uid": "santa-claus-is-a-black-man",
 	"tags": [],
-	"publication_date": "2020-12-22T21:51:47+0000",
+	"publication_date": "2020-12-23T12:26:37+0000",
 	"title": "Santa Claus Is a Black Man",
 	"subtitle": "R&B Hip Hop Christmath",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/a05ff426-3cf4-4181-af78-f096d0f00501_Kanye-West-Santa-ClausSlide02.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/31efa12a-72f9-4f75-b300-146c8af4c945_hollis1b.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 1500,
-		"height": 1500,
-		"ratio": 1
+		"width": 2000,
+		"height": 1333,
+		"ratio": 1.5003750937734435
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -21,14 +21,7 @@
 			"template": "section-hero",
 			"title": "Santa Claus Is a Black Man",
 			"subtitle": null,
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a05ff426-3cf4-4181-af78-f096d0f00501_Kanye-West-Santa-ClausSlide02.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1500,
-				"height": 1500,
-				"ratio": 1
-			}
+			"image": null
 		},
 		{
 			"template": "section-playlist",
