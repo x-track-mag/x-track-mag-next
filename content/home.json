@@ -147,16 +147,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2020-12-26T10:38:10+0000",
+			"publication_date": "2020-12-26T10:42:21+0000",
 			"title": "",
 			"subtitle": "Best ”XTrack“ of 2020",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ccd3f47c-69d2-4cd7-b59a-bdd1ae863e29_Tierra+Whack.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/0b5795fb-aa89-4b6e-aa89-430de980b564_Tierra-WhackREsize01.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1080,
-				"height": 1349,
-				"ratio": 0.8005930318754633
+				"width": 1090,
+				"height": 1193,
+				"ratio": 0.9136630343671417
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
