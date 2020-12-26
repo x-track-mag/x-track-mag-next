@@ -16,7 +16,7 @@
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
-			"position": 2,
+			"position": 1,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
@@ -26,9 +26,6 @@
 		{
 			"position": 5,
 			"uid": "bestxtrackof2020"
-		},
-		{
-			"position": null
 		}
 	],
 	"selected_reads": [
