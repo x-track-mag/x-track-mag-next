@@ -16,16 +16,19 @@
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
-			"position": 5,
-			"uid": "bestxtrackof2020"
-		},
-		{
 			"position": 2,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
 			"position": 4,
 			"uid": "2020-is-the-year"
+		},
+		{
+			"position": 5,
+			"uid": "bestxtrackof2020"
+		},
+		{
+			"position": null
 		}
 	],
 	"selected_reads": [
@@ -82,26 +85,6 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "santa-claus-is-a-black-man",
-			"tags": [],
-			"publication_date": "2020-12-23T12:28:06+0000",
-			"title": "Santa Claus Is a Black Man",
-			"subtitle": "R&B Hip Hop Christmas ",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/31efa12a-72f9-4f75-b300-146c8af4c945_hollis1b.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1333,
-				"ratio": 1.5003750937734435
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": ""
-		},
-		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 			"tags": [
 				"article"
@@ -124,23 +107,24 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2020-12-16T11:38:09+0000",
-			"title": "Episode 1 : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
+			"uid": "santa-claus-is-a-black-man",
+			"tags": [],
+			"publication_date": "2020-12-23T12:28:06+0000",
+			"title": "Santa Claus Is a Black Man",
+			"subtitle": "R&B Hip Hop Christmas ",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/31efa12a-72f9-4f75-b300-146c8af4c945_hollis1b.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1333,
+				"ratio": 1.5003750937734435
 			},
-			"template": "3: Image + Titre",
-			"author": null,
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+			"description": ""
 		},
 		{
 			"uid": "2020-is-the-year",
@@ -161,23 +145,23 @@
 			"description": ""
 		},
 		{
-			"uid": "lhysterie",
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
 			"tags": [
-				"article"
+				"video"
 			],
-			"publication_date": "2020-12-16T10:23:55+0000",
-			"title": "DON'T CALL ME BABE ",
-			"subtitle": "",
+			"publication_date": "2020-12-16T11:38:09+0000",
+			"title": "Episode 1 : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
 			"image": null,
 			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
 			},
 			"template": "3: Image + Titre",
-			"author": "Sylsphée Bertili",
+			"author": null,
 			"internal_link": null,
-			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "bestxtrackof2020",
@@ -200,6 +184,25 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Playliste des meilleurs sons 2020"
+		},
+		{
+			"uid": "lhysterie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T10:23:55+0000",
+			"title": "DON'T CALL ME BABE ",
+			"subtitle": "",
+			"image": null,
+			"video_loop": {
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
+			},
+			"template": "3: Image + Titre",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
