@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-27T17:45:29+0000",
+	"publication_date": "2020-12-27T17:59:39+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
@@ -23,7 +23,14 @@
 			"template": "section-hero",
 			"title": "Chill, Pop, Afropop, R&B, & Hip Hop",
 			"subtitle": "Best ”XTrack“ of 2020",
-			"image": null
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/e11d02d0-91e6-46f6-802c-a74f651981cc_Sabrina-Claudio-Ft.-The-Weeknd-Christmas-Blues.jpg?auto=compress,format",
+				"alt": "Sabrina Claudio",
+				"copyright": null,
+				"width": 1400,
+				"height": 1400,
+				"ratio": 1
+			}
 		},
 		{
 			"template": "section-full-text",
@@ -117,11 +124,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=CP8Kk4uXQJCdXRmTFaylvg",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=orT_FouUQk-3eoHlbuisDg",
 					"title": "Best ”XTrack“ of 2020"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2020/pl.u-KVXB5B1u0j3MD",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2020/pl.u-8aAVRo1FJMKRZ",
 					"title": "Best ”XTrack“ of 2020 par XTrack"
 				},
 				{
