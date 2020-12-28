@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-28T09:49:43+0000",
+	"publication_date": "2020-12-28T09:54:06+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/e11d02d0-91e6-46f6-802c-a74f651981cc_Sabrina-Claudio-Ft.-The-Weeknd-Christmas-Blues.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/510ee86e-48c3-4a30-87c1-f3e2739abf66_Sabrina+Claudio+Christmas+Blues.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 1400,
-		"height": 1400,
-		"ratio": 1
+		"width": 1828,
+		"height": 2560,
+		"ratio": 0.7140625
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Chill, Pop, Afropop, R&B, & Hip Hop",
 			"subtitle": "Best ”XTrack“ of 2020",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e11d02d0-91e6-46f6-802c-a74f651981cc_Sabrina-Claudio-Ft.-The-Weeknd-Christmas-Blues.jpg?auto=compress,format",
-				"alt": "Sabrina Claudio",
+				"url": "https://images.prismic.io/x-track-mag/510ee86e-48c3-4a30-87c1-f3e2739abf66_Sabrina+Claudio+Christmas+Blues.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1400,
-				"height": 1400,
-				"ratio": 1
+				"width": 1828,
+				"height": 2560,
+				"ratio": 0.7140625
 			}
 		},
 		{
