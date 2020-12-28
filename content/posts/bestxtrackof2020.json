@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-28T09:54:06+0000",
+	"publication_date": "2020-12-28T10:18:35+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/510ee86e-48c3-4a30-87c1-f3e2739abf66_Sabrina+Claudio+Christmas+Blues.jpg?auto=compress,format",
-		"alt": null,
+		"url": "https://images.prismic.io/x-track-mag/fc1c22ec-0478-48a0-be6c-d356542451ad_Sabrina-Claudio-Christmas-Blues+Resized.jpg?auto=compress,format",
+		"alt": "Sabrina Claudio - Christmas Blues",
 		"copyright": null,
-		"width": 1828,
-		"height": 2560,
-		"ratio": 0.7140625
+		"width": 1200,
+		"height": 1177,
+		"ratio": 1.0195412064570943
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Chill, Pop, Afropop, R&B, & Hip Hop",
 			"subtitle": "Best ”XTrack“ of 2020",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/510ee86e-48c3-4a30-87c1-f3e2739abf66_Sabrina+Claudio+Christmas+Blues.jpg?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/fc1c22ec-0478-48a0-be6c-d356542451ad_Sabrina-Claudio-Christmas-Blues+Resized.jpg?auto=compress,format",
+				"alt": "Sabrina Claudio - Christmas Blues",
 				"copyright": null,
-				"width": 1828,
-				"height": 2560,
-				"ratio": 0.7140625
+				"width": 1200,
+				"height": 1177,
+				"ratio": 1.0195412064570943
 			}
 		},
 		{
@@ -103,12 +103,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e11d02d0-91e6-46f6-802c-a74f651981cc_Sabrina-Claudio-Ft.-The-Weeknd-Christmas-Blues.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/fc1c22ec-0478-48a0-be6c-d356542451ad_Sabrina-Claudio-Christmas-Blues+Resized.jpg?auto=compress,format&rect=0,0,1200,1177&w=1024&h=1004",
 					"alt": "Sabrina Claudio",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1004,
+					"ratio": 1.0199203187250996
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f6dc7bff-a81d-4cf3-8520-cb65e9c330d5_Loski-+Music_+Trial+%26+Trauma.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
