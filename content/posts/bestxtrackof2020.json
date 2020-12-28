@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-28T15:36:01+0000",
+	"publication_date": "2020-12-28T18:04:06+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f923d077-52df-46aa-8455-fc23957c891f_050e32ce2172da45c4c748c431adf361.1000x1000x1.jpg?auto=compress,format",
-		"alt": null,
+		"url": "https://images.prismic.io/x-track-mag/fc1c22ec-0478-48a0-be6c-d356542451ad_Sabrina-Claudio-Christmas-Blues+Resized.jpg?auto=compress,format",
+		"alt": "Sabrina Claudio - Christmas Blues",
 		"copyright": null,
-		"width": 1000,
-		"height": 1000,
-		"ratio": 1
+		"width": 1200,
+		"height": 1177,
+		"ratio": 1.0195412064570943
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
