@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-28T15:13:04+0000",
+	"publication_date": "2020-12-28T15:32:34+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/518f7bf7-05a3-46e6-83b6-07990cfe2926_SABRINA+CLAUDIO+PLAYLIST+BEST+OF.png?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/6cf2f152-9554-4fd7-95d2-f0bb36ac8ea1_sabrina-claudio-1606617782-731x536.png?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 900,
-		"height": 508,
-		"ratio": 1.7716535433070866
+		"width": 731,
+		"height": 536,
+		"ratio": 1.3638059701492538
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
