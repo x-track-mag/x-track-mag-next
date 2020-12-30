@@ -26,6 +26,10 @@
 		{
 			"position": 5,
 			"uid": "bestxtrackof2020"
+		},
+		{
+			"position": 7,
+			"uid": "santa-claus-is-a-black-man"
 		}
 	],
 	"selected_reads": [
@@ -170,26 +174,6 @@
 			"description": "Playliste des meilleurs sons 2020"
 		},
 		{
-			"uid": "santa-claus-is-a-black-man",
-			"tags": [],
-			"publication_date": "2020-12-23T12:28:06+0000",
-			"title": "Santa Claus Is a Black Man",
-			"subtitle": "R&B Hip Hop Christmas ",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/31efa12a-72f9-4f75-b300-146c8af4c945_hollis1b.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1333,
-				"ratio": 1.5003750937734435
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": ""
-		},
-		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -211,6 +195,26 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "L’Avenir de la Mode est-il virtuel ?"
+		},
+		{
+			"uid": "santa-claus-is-a-black-man",
+			"tags": [],
+			"publication_date": "2020-12-23T12:28:06+0000",
+			"title": "Santa Claus Is a Black Man",
+			"subtitle": "R&B Hip Hop Christmas ",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/31efa12a-72f9-4f75-b300-146c8af4c945_hollis1b.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1333,
+				"ratio": 1.5003750937734435
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": ""
 		},
 		{
 			"uid": "lhysterie",
