@@ -1,7 +1,7 @@
 {
 	"uid": "in-love",
 	"tags": [],
-	"publication_date": "2020-12-30T15:16:19+0000",
+	"publication_date": "2020-12-30T15:30:58+0000",
 	"title": "In Love",
 	"subtitle": "",
 	"image": {
@@ -39,20 +39,20 @@
 					"ratio": 1.501466275659824
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a6d90e28-c126-4675-92c0-827b680ceedb_Jenevieve.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
-					"alt": "Jenevieve",
+					"url": "https://images.prismic.io/x-track-mag/97acd622-9582-4005-9b33-471b03179874_Ilham.jpg?auto=compress,format&rect=0,0,960,946&w=1024&h=1009",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1009,
+					"ratio": 1.0148662041625371
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/607f8ec6-79c2-40a7-8d31-8c6277bac250_CHIIILD_Back-to-Life_Cover.jpg?auto=compress,format&rect=0,0,1289,986&w=1024&h=783",
-					"alt": "Chiiild",
+					"url": "https://images.prismic.io/x-track-mag/3970263b-3334-4614-b4bb-855dbb614993_Chi-Virgo-.jpg?auto=compress,format&rect=0,0,1499,896&w=1024&h=612",
+					"alt": "Chi Virgo",
 					"copyright": null,
 					"width": 1024,
-					"height": 783,
-					"ratio": 1.3077905491698596
+					"height": 612,
+					"ratio": 1.673202614379085
 				}
 			]
 		},
