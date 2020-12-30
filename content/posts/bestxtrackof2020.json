@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2020-12-28T18:04:06+0000",
+	"publication_date": "2020-12-30T15:00:03+0000",
 	"title": "",
 	"subtitle": "Best ”XTrack“ of 2020",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/fc1c22ec-0478-48a0-be6c-d356542451ad_Sabrina-Claudio-Christmas-Blues+Resized.jpg?auto=compress,format",
-		"alt": "Sabrina Claudio - Christmas Blues",
+		"url": "https://images.prismic.io/x-track-mag/9a7f74d4-9f02-43d3-89a6-117d00260efe_Emotional+Oranges-Video.jpg?auto=compress,format",
+		"alt": null,
 		"copyright": null,
-		"width": 1200,
-		"height": 1177,
-		"ratio": 1.0195412064570943
+		"width": 1600,
+		"height": 945,
+		"ratio": 1.693121693121693
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Chill, Pop, Afropop, R&B, & Hip Hop",
 			"subtitle": "Best ”XTrack“ of 2020",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/fc1c22ec-0478-48a0-be6c-d356542451ad_Sabrina-Claudio-Christmas-Blues+Resized.jpg?auto=compress,format",
-				"alt": "Sabrina Claudio - Christmas Blues",
+				"url": "https://images.prismic.io/x-track-mag/9a7f74d4-9f02-43d3-89a6-117d00260efe_Emotional+Oranges-Video.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1200,
-				"height": 1177,
-				"ratio": 1.0195412064570943
+				"width": 1600,
+				"height": 945,
+				"ratio": 1.693121693121693
 			}
 		},
 		{
@@ -103,12 +103,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/fc1c22ec-0478-48a0-be6c-d356542451ad_Sabrina-Claudio-Christmas-Blues+Resized.jpg?auto=compress,format&rect=0,0,1200,1177&w=1024&h=1004",
-					"alt": "Sabrina Claudio",
+					"url": "https://images.prismic.io/x-track-mag/5385dc29-126e-4a63-9bfa-2e837534f95f_Emotionnal+Orange+%26+Channel+Tres.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
+					"alt": "Emotionnal Oranges & Channel Tres",
 					"copyright": null,
 					"width": 1024,
-					"height": 1004,
-					"ratio": 1.0199203187250996
+					"height": 650,
+					"ratio": 1.5753846153846154
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f6dc7bff-a81d-4cf3-8520-cb65e9c330d5_Loski-+Music_+Trial+%26+Trauma.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
