@@ -1,7 +1,7 @@
 {
 	"uid": "in-love",
 	"tags": [],
-	"publication_date": "2020-12-30T20:46:00+0000",
+	"publication_date": "2020-12-30T20:51:37+0000",
 	"title": "In Love",
 	"subtitle": "",
 	"image": {
@@ -77,7 +77,7 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/b9291825-982f-4858-a4ef-2bc680e9bdd2_khruangbin-Band.jpg?auto=compress,format&rect=0,0,1200,795&w=1024&h=678",
-					"alt": null,
+					"alt": "Khruanbin",
 					"copyright": null,
 					"width": 1024,
 					"height": 678,
