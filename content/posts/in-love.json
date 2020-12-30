@@ -1,0 +1,107 @@
+{
+	"uid": "in-love",
+	"tags": [],
+	"publication_date": "2020-12-30T14:52:10+0000",
+	"title": "In Love",
+	"subtitle": "",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/a619240b-6c9f-45ec-84e0-d2dbc11c65af_Swamp-Dogg.jpg?auto=compress,format",
+		"alt": "Swamp Dogg",
+		"copyright": null,
+		"width": 1200,
+		"height": 1200,
+		"ratio": 1
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Best of XTrack Mag - Our favorite new music : 100% Love & Cool — Enjoy",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/9ec73dde-e12f-4f93-8342-f09b86249681_Swamp+Dogg+-+Photo+David+Mcmurry.jpg?auto=compress,format&rect=0,0,1136,757&w=1024&h=682",
+					"alt": "Swamp Dogg",
+					"copyright": "Photo David Mcmurry",
+					"width": 1024,
+					"height": 682,
+					"ratio": 1.501466275659824
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a6d90e28-c126-4675-92c0-827b680ceedb_Jenevieve.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
+					"alt": "Jenevieve",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/607f8ec6-79c2-40a7-8d31-8c6277bac250_CHIIILD_Back-to-Life_Cover.jpg?auto=compress,format&rect=0,0,1289,986&w=1024&h=783",
+					"alt": "Chiiild",
+					"copyright": null,
+					"width": 1024,
+					"height": 783,
+					"ratio": 1.3077905491698596
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/1f2ad52e-3445-4d79-8e6c-9aadee408ba1_Oklou+-+Galore.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Oklou",
+					"copyright": "Cover Galore",
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5373e4a8-d5b8-4d16-a4bd-8beb32da0ef0_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "Arlo Parks",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4751afbe-c846-428f-bf8f-82e2ad1ce737_Slenderbodies.jpg?auto=compress,format&rect=0,0,1500,995&w=1024&h=679",
+					"alt": "Slenderbodies",
+					"copyright": null,
+					"width": 1024,
+					"height": 679,
+					"ratio": 1.508100147275405
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=-8hg--lKQA6Wc7z2HM2WLA",
+					"title": "In Love"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-WabZElRsN0D35",
+					"title": "In Love par XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/5015008604",
+					"title": "In Love playlist | Listen on Deezer"
+				}
+			]
+		}
+	],
+	"description": "Best of XTrack Mag - Our favorite new music : 100% Love & Cool — Enjoy"
+}
