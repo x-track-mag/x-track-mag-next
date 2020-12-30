@@ -1,7 +1,7 @@
 {
 	"uid": "in-love",
 	"tags": [],
-	"publication_date": "2020-12-30T15:03:35+0000",
+	"publication_date": "2020-12-30T15:16:19+0000",
 	"title": "In Love",
 	"subtitle": "",
 	"image": {
@@ -76,12 +76,12 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4751afbe-c846-428f-bf8f-82e2ad1ce737_Slenderbodies.jpg?auto=compress,format&rect=0,0,1500,995&w=1024&h=679",
-					"alt": "Slenderbodies",
+					"url": "https://images.prismic.io/x-track-mag/b9291825-982f-4858-a4ef-2bc680e9bdd2_khruangbin-Band.jpg?auto=compress,format&rect=0,0,1200,795&w=1024&h=678",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 679,
-					"ratio": 1.508100147275405
+					"height": 678,
+					"ratio": 1.5103244837758112
 				}
 			]
 		},
