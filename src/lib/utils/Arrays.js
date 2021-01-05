@@ -25,7 +25,11 @@ const ArrayExtensions = {
 		const arr = this,
 			len = arr.length;
 
-		console.log(`Move ${arr[from].uid} to position ${to + 1}`);
+		if (!arr[from]) {
+			// index not existing
+			return;
+		}
+
 		const startIndex = from < 0 ? len + from : from;
 
 		if (startIndex >= 0 && startIndex < len) {
