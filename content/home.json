@@ -24,7 +24,7 @@
 			"uid": "2020-is-the-year"
 		},
 		{
-			"position": 5,
+			"position": 2,
 			"uid": "bestxtrackof2020"
 		},
 		{
@@ -99,6 +99,28 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
+			"uid": "bestxtrackof2020",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-01-02T10:13:01+0000",
+			"title": "",
+			"subtitle": "Best ”XTrack“ of 2020",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9a7f74d4-9f02-43d3-89a6-117d00260efe_Emotional+Oranges-Video.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1600,
+				"height": 945,
+				"ratio": 1.693121693121693
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playliste des meilleurs sons 2020"
+		},
+		{
 			"uid": "2020-is-the-year",
 			"tags": [
 				"article"
@@ -134,28 +156,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
-		},
-		{
-			"uid": "bestxtrackof2020",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-01-02T10:13:01+0000",
-			"title": "",
-			"subtitle": "Best ”XTrack“ of 2020",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9a7f74d4-9f02-43d3-89a6-117d00260efe_Emotional+Oranges-Video.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1600,
-				"height": 945,
-				"ratio": 1.693121693121693
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playliste des meilleurs sons 2020"
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
