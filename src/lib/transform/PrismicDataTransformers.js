@@ -192,12 +192,20 @@ export const transformHome = (homeData, posts) => {
 		// Sort posts by latest publication date
 		(p1, p2) => Date.parse(p2.publication_date) - Date.parse(p1.publication_date)
 	);
+	console.log(`Home sections before pin : ${sections.map((s) => s.uid)}`);
 
 	// Put the pinned posts in their expected position
-	pinned_posts = pinned_posts.map(({ position, link }) => ({
-		position,
-		uid: link.uid
-	}));
+	pinned_posts = pinned_posts
+		.map(({ position, link }) => ({
+			position,
+			uid: link.uid
+		}))
+		.sort((a, b) => a.position - b.position);
+	console.log(
+		`Pin these sections : ${pinned_posts.map(
+			(post) => `#${post.position} : ${post.uid}`
+		)}`
+	);
 
 	pinned_posts.forEach((pin) => {
 		if (pin.uid) {
