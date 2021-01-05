@@ -1,6 +1,6 @@
 {
 	"uid": "about-us",
-	"publication_date": "2020-12-21T20:59:36+0000",
+	"publication_date": "2021-01-05T18:39:15+0000",
 	"title": "About Us",
 	"subtitle": "",
 	"sections": [
@@ -13,18 +13,8 @@
 					"spans": []
 				},
 				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
 					"type": "heading2",
 					"text": "DU DÉCRYPTAGE, DES LIVE SESSIONS, DES CAPSULES VIDÉOS & DES PLAYLISTS  EXCLUSIVES, LE TOUT SOIGNEUSEMENT CONFECTIONNÉS PAR NOS SOINS.",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
 					"spans": []
 				},
 				{
@@ -33,28 +23,13 @@
 					"spans": []
 				},
 				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
 					"type": "heading2",
 					"text": "CÉLÉBRONS  ENSEMBLE CETTE NOUVELLE ÈRE QUI INVITE À DÉCONSTRUIRE ET RECONSTRUIRE. ",
 					"spans": []
 				},
 				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
 					"type": "heading2",
 					"text": "ALL OVER THE WORLD.",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
 					"spans": []
 				},
 				{
@@ -67,11 +42,6 @@
 							"type": "strong"
 						}
 					]
-				},
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
 				},
 				{
 					"type": "paragraph",

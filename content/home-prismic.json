@@ -2,10 +2,10 @@
 	"id": "X66vBxIAACAA34jN",
 	"uid": "home",
 	"type": "home",
-	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=X80KHxAAACIANLAe&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X66vBxIAACAA34jN%22%29+%5D%5D",
+	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=X_SyUxUAACgA8KBU&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X66vBxIAACAA34jN%22%29+%5D%5D",
 	"tags": [],
 	"first_publication_date": "2020-11-13T16:09:33+0000",
-	"last_publication_date": "2020-12-06T16:43:11+0000",
+	"last_publication_date": "2021-01-05T18:35:03+0000",
 	"slugs": [
 		"home",
 		"happy-haloween"
@@ -15,43 +15,89 @@
 	"alternate_languages": [],
 	"data": {
 		"title": "Home",
-		"description": "X-Track MAG est un webzine dédié aux artistes alternatifs.ves, à la musique indépendante et à la culture diversifiée.\nSans pub et libre de toute influence stricte et pro-babylonienne, X-Track est connectée 24/7 avec la culture, la connaissance et ses acteurs.rices pour vous offrir des news concises et récréatives, sur une plateforme ludique et facile.",
-		"keywords": "Culture alternative, Musique indépendante, Webzine, X-TRACK",
+		"description": "AWARE AND COLOURFUL - SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS",
+		"keywords": "Culture alternative, Musique indépendante, Articles, Webzine, X-TRACK",
 		"scrolling_news": [
 			{
-				"message": "NOUVELLE SESSION LIVE NOLA CHERRI"
+				"message": "AWARE AND COLOURFUL"
 			},
 			{
-				"message": "AWARE AND COLOURFUL"
+				"message": "SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS"
 			}
 		],
 		"pinned_posts": [
 			{
-				"position": 4,
+				"position": 1,
 				"link": {
-					"id": "X74MPRIAACQA1E2F",
+					"id": "X8dvrBAAACQAG5o2",
 					"type": "post",
-					"tags": [],
-					"slug": "qui-sommes-nous-",
+					"tags": [
+						"article"
+					],
+					"slug": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 					"lang": "fr-fr",
-					"uid": "about-us",
+					"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 					"link_type": "Document",
 					"isBroken": false
 				}
 			},
 			{
-				"position": 1,
+				"position": 2,
 				"link": {
 					"id": "X626VRIAACAA2uQG",
 					"type": "post",
 					"tags": [
-						"video",
 						"music",
 						"live session"
 					],
 					"slug": "nola-cherri",
 					"lang": "fr-fr",
 					"uid": "nola-cherri",
+					"link_type": "Document",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 3,
+				"link": {
+					"id": "X8ZqGxAAACIAFwil",
+					"type": "post",
+					"tags": [
+						"video"
+					],
+					"slug": "episode-1--samantha-deep",
+					"lang": "fr-fr",
+					"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+					"link_type": "Document",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 4,
+				"link": {
+					"id": "X8dzhhAAACMAG6vq",
+					"type": "post",
+					"tags": [
+						"article"
+					],
+					"slug": "2021-is-the-year.-the-world-is-about-to-change",
+					"lang": "fr-fr",
+					"uid": "2020-is-the-year",
+					"link_type": "Document",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 5,
+				"link": {
+					"id": "X8fdvxAAACIAHZYU",
+					"type": "post",
+					"tags": [
+						"music"
+					],
+					"slug": "best-xtrack-of-2020",
+					"lang": "fr-fr",
+					"uid": "bestxtrackof2020",
 					"link_type": "Document",
 					"isBroken": false
 				}
@@ -65,7 +111,7 @@
 					"tags": [
 						"video"
 					],
-					"slug": "episode-1--tuto",
+					"slug": "episode-1--samantha-deep",
 					"lang": "fr-fr",
 					"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
 					"link_type": "Document",
@@ -113,11 +159,6 @@
 					"uid": "les-apparences-trompeuses-du-pretty-privilege",
 					"link_type": "Document",
 					"isBroken": false
-				}
-			},
-			{
-				"link": {
-					"link_type": "Any"
 				}
 			}
 		]

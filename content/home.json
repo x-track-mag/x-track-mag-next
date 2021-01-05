@@ -8,32 +8,24 @@
 	],
 	"pinned_posts": [
 		{
-			"position": 6,
-			"uid": "lavenir-de-la-mode-est-il-virtuel"
+			"position": 1,
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+		},
+		{
+			"position": 2,
+			"uid": "nola-cherri"
 		},
 		{
 			"position": 3,
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
-			"position": 1,
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
-		},
-		{
 			"position": 4,
 			"uid": "2020-is-the-year"
 		},
 		{
-			"position": 2,
+			"position": 5,
 			"uid": "bestxtrackof2020"
-		},
-		{
-			"position": 10,
-			"uid": "santa-claus-is-a-black-man"
-		},
-		{
-			"position": 11,
-			"uid": "in-love"
 		}
 	],
 	"selected_reads": [
@@ -46,6 +38,19 @@
 				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
 				"size": "5514615"
 			}
+		},
+		{
+			"uid": "martin-parr",
+			"title": "Martin Parr",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": "Plage de Nice",
+				"copyright": "Martin Parr",
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
@@ -74,7 +79,7 @@
 			"video_loop": null
 		}
 	],
-	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
+	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
@@ -99,6 +104,66 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
+			"uid": "nola-cherri",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2021-01-05T17:48:24+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a0ced4af-da25-4612-a359-87eed13dc95b_LIVE+SESSION-X-TRACK+MAG.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2800,
+				"height": 1610,
+				"ratio": 1.7391304347826086
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Live session - Nola Cherri- French music"
+		},
+		{
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2020-12-16T11:38:09+0000",
+			"title": "Episode 1 : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+		},
+		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T17:24:08+0000",
+			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
+		},
+		{
 			"uid": "bestxtrackof2020",
 			"tags": [
 				"music"
@@ -121,41 +186,44 @@
 			"description": "Playliste des meilleurs sons 2020"
 		},
 		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T17:24:08+0000",
-			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"uid": "in-love",
+			"tags": [],
+			"publication_date": "2021-01-01T13:36:56+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a619240b-6c9f-45ec-84e0-d2dbc11c65af_Swamp-Dogg.jpg?auto=compress,format",
+				"alt": "Swamp Dogg",
+				"copyright": null,
+				"width": 1200,
+				"height": 1200,
+				"ratio": 1
 			},
-			"description": ""
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs… Enjoy"
 		},
 		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2020-12-16T11:38:09+0000",
-			"title": "Episode 1 : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
+			"uid": "santa-claus-is-a-black-man",
+			"tags": [],
+			"publication_date": "2020-12-23T12:28:06+0000",
+			"title": "Santa Claus Is a Black Man",
+			"subtitle": "R&B Hip Hop Christmas ",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/31efa12a-72f9-4f75-b300-146c8af4c945_hollis1b.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1333,
+				"ratio": 1.5003750937734435
 			},
-			"template": "3: Image + Titre",
-			"author": null,
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+			"description": ""
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
@@ -242,44 +310,49 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
-			"uid": "santa-claus-is-a-black-man",
-			"tags": [],
-			"publication_date": "2020-12-23T12:28:06+0000",
-			"title": "Santa Claus Is a Black Man",
-			"subtitle": "R&B Hip Hop Christmas ",
+			"uid": "martin-parr",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T06:20:52+0000",
+			"title": "Martin Parr",
+			"subtitle": "Un Monde à Parr",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/31efa12a-72f9-4f75-b300-146c8af4c945_hollis1b.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": "Plage de Nice",
+				"copyright": "Martin Parr",
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia",
+			"internal_link": null,
+			"description": "Un monde à Parr"
+		},
+		{
+			"uid": "about-us",
+			"tags": [],
+			"publication_date": "2020-11-26T17:20:46+0000",
+			"title": "Qui sommes nous ?",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/270dfd38-b9fc-4744-8839-f57101e82391_Pot+Addicts.webp?auto=compress,format",
 				"alt": null,
 				"copyright": null,
 				"width": 2000,
-				"height": 1333,
-				"ratio": 1.5003750937734435
+				"height": 1125,
+				"ratio": 1.7777777777777777
 			},
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
 			"description": ""
-		},
-		{
-			"uid": "in-love",
-			"tags": [],
-			"publication_date": "2021-01-01T13:36:56+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a619240b-6c9f-45ec-84e0-d2dbc11c65af_Swamp-Dogg.jpg?auto=compress,format",
-				"alt": "Swamp Dogg",
-				"copyright": null,
-				"width": 1200,
-				"height": 1200,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs… Enjoy"
 		}
 	]
 }
