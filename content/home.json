@@ -188,15 +188,15 @@
 		{
 			"uid": "in-love",
 			"tags": [],
-			"publication_date": "2021-01-01T13:36:56+0000",
+			"publication_date": "2021-01-05T19:07:59+0000",
 			"title": "In Love",
 			"subtitle": "Our favorite Love & Cool Songs",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a619240b-6c9f-45ec-84e0-d2dbc11c65af_Swamp-Dogg.jpg?auto=compress,format",
-				"alt": "Swamp Dogg",
+				"url": "https://images.prismic.io/x-track-mag/216eb0f4-894d-4dd9-9d56-7efd3b515e85_Swanp+Dogg+%2B.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1200,
-				"height": 1200,
+				"width": 2000,
+				"height": 2000,
 				"ratio": 1
 			},
 			"video_loop": null,
