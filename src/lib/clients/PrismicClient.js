@@ -63,7 +63,7 @@ export const getEntries = async ({
 		);
 		// response.results holds the fetched entries
 		results.push(...response.results);
-		if (!paginate && results.length < response.total_results_size) {
+		if (paginate && results.length < response.total_results_size) {
 			return getEntries({ paginate, page: page + 1, results });
 		}
 		return results;
