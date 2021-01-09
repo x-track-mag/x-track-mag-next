@@ -28,7 +28,11 @@
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
-			"position": 10,
+			"position": 9,
+			"uid": "in-love"
+		},
+		{
+			"position": 13,
 			"uid": "santa-claus-is-a-black-man"
 		}
 	],
@@ -190,26 +194,6 @@
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
-			"uid": "in-love",
-			"tags": [],
-			"publication_date": "2021-01-05T19:07:59+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/216eb0f4-894d-4dd9-9d56-7efd3b515e85_Swanp+Dogg+%2B.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs… Enjoy"
-		},
-		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -252,6 +236,26 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
+			"uid": "in-love",
+			"tags": [],
+			"publication_date": "2021-01-05T19:07:59+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/216eb0f4-894d-4dd9-9d56-7efd3b515e85_Swanp+Dogg+%2B.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs… Enjoy"
+		},
+		{
 			"uid": "polycool",
 			"tags": [
 				"article",
@@ -270,26 +274,6 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
-		},
-		{
-			"uid": "santa-claus-is-a-black-man",
-			"tags": [],
-			"publication_date": "2020-12-23T12:28:06+0000",
-			"title": "Santa Claus Is a Black Man",
-			"subtitle": "R&B Hip Hop Christmas ",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/31efa12a-72f9-4f75-b300-146c8af4c945_hollis1b.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2000,
-				"height": 1333,
-				"ratio": 1.5003750937734435
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": ""
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
@@ -334,6 +318,26 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "Un monde à Parr"
+		},
+		{
+			"uid": "santa-claus-is-a-black-man",
+			"tags": [],
+			"publication_date": "2020-12-23T12:28:06+0000",
+			"title": "Santa Claus Is a Black Man",
+			"subtitle": "R&B Hip Hop Christmas ",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/31efa12a-72f9-4f75-b300-146c8af4c945_hollis1b.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 1333,
+				"ratio": 1.5003750937734435
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": ""
 		}
 	]
 }
