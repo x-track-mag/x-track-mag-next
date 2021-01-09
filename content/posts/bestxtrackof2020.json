@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-02T10:13:01+0000",
+	"publication_date": "2021-01-09T10:05:45+0000",
 	"title": "",
-	"subtitle": "Best ”XTrack“ of 2020",
+	"subtitle": "Best ”XTrack“ of the Week",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/9a7f74d4-9f02-43d3-89a6-117d00260efe_Emotional+Oranges-Video.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/8e230b6c-58ad-46d9-8d1f-95cffba39426_SZA-Good-Days-2020%2B.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 1600,
-		"height": 945,
-		"ratio": 1.693121693121693
+		"width": 1548,
+		"height": 1024,
+		"ratio": 1.51171875
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Chill, Pop, Afropop, R&B, & Hip Hop",
 			"subtitle": "Best ”XTrack“ of 2020",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9a7f74d4-9f02-43d3-89a6-117d00260efe_Emotional+Oranges-Video.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/8e230b6c-58ad-46d9-8d1f-95cffba39426_SZA-Good-Days-2020%2B.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1600,
-				"height": 945,
-				"ratio": 1.693121693121693
+				"width": 1548,
+				"height": 1024,
+				"ratio": 1.51171875
 			}
 		},
 		{
@@ -66,28 +66,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/86baa927-2219-4b9b-9ce9-da1c950e1ccc_Tierra+Whack+in+blue.jpg?auto=compress,format&rect=0,0,1125,1071&w=1024&h=975",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/998eb396-da2b-4207-9cfd-98726a948dc3_iamddb01.jpg?auto=compress,format&rect=0,0,960,959&w=1024&h=1023",
+					"alt": "Iamddb",
 					"copyright": null,
 					"width": 1024,
-					"height": 975,
-					"ratio": 1.0502564102564103
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b4cef05a-5cfa-4ced-b374-9e33430b6d79_Biig+Piig.jpg?auto=compress,format&rect=0,0,959,960&w=1024&h=1025",
-					"alt": "Biig Piig",
+					"url": "https://images.prismic.io/x-track-mag/ff79addc-4ff3-415e-9510-ef12f2018291_la+felix+tommy+be+with+you+tonight.jpg?auto=compress,format&rect=0,0,3646,2268&w=1024&h=637",
+					"alt": "La Felix x Tommy - Be with you Tonight",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 637,
+					"ratio": 1.6075353218210362
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/dec58531-b9e7-4ddf-9f5d-56f3e761f8c1_Tekno-Old+Romance+cover.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
-					"alt": "Tekno",
+					"url": "https://images.prismic.io/x-track-mag/5d278506-393f-48fe-8262-bd62bf8e4c74_L%27imperatrice+-Peur+des+Filles+2.jpg?auto=compress,format&rect=0,0,3364,1245&w=1024&h=379",
+					"alt": "L'imperatrice - Peur des Filles",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 379,
+					"ratio": 2.7018469656992083
 				}
 			]
 		},
@@ -95,24 +95,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/bae036f3-379b-4f68-ab8f-8ed70b3fa3c2_Wizkid-Made+In+Lagos+-+Cover+Recto.jpg?auto=compress,format&rect=0,0,1875,1875&w=1024&h=1024",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/a25f39ea-1211-4ad6-af17-3d836bd82147_Krizbeatz+-+Coco+ft+Tekno_+Harmonize+%26+DJ+Tira.jpg?auto=compress,format&rect=0,0,1958,1958&w=1024&h=1024",
+					"alt": "Krizbeatz - Coco ft Tekno, Harmonize & DJ Tira",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5385dc29-126e-4a63-9bfa-2e837534f95f_Emotionnal+Orange+%26+Channel+Tres.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
-					"alt": "Emotionnal Oranges & Channel Tres",
+					"url": "https://images.prismic.io/x-track-mag/e37760b5-5171-4b94-9e76-7d1872f5f277_four+tet+parallel.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Four Tet - Parallel",
 					"copyright": null,
 					"width": 1024,
-					"height": 650,
-					"ratio": 1.5753846153846154
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f6dc7bff-a81d-4cf3-8520-cb65e9c330d5_Loski-+Music_+Trial+%26+Trauma.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Losky",
+					"url": "https://images.prismic.io/x-track-mag/9b121d5a-d50a-4d39-9759-974577f8c95a_L%27imperatrice+-Peur+des+Filles+.jpg?auto=compress,format&rect=0,0,1439,1439&w=1024&h=1024",
+					"alt": "L'imperatrice - Peur des Filles",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -124,16 +124,16 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=dXwykBJpTum7jc6uHenpig",
-					"title": "Best ”XTrack“ of 2020"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=WJ_AInDkR9GdDG3qNkhXUA",
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2020/pl.u-8aAVRPyUJMKRZ",
-					"title": "Best ”XTrack“ of 2020 par XTrack"
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA540as2GKqr",
+					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
-					"title": "Best ”XTrack“ of 2020 playlist | Listen on Deezer"
+					"title": "Best ”XTrack“ of The Week playlist | Listen on Deezer"
 				}
 			]
 		}

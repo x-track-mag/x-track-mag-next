@@ -172,16 +172,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-01-02T10:13:01+0000",
+			"publication_date": "2021-01-09T10:05:45+0000",
 			"title": "",
-			"subtitle": "Best ”XTrack“ of 2020",
+			"subtitle": "Best ”XTrack“ of the Week",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9a7f74d4-9f02-43d3-89a6-117d00260efe_Emotional+Oranges-Video.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/8e230b6c-58ad-46d9-8d1f-95cffba39426_SZA-Good-Days-2020%2B.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1600,
-				"height": 945,
-				"ratio": 1.693121693121693
+				"width": 1548,
+				"height": 1024,
+				"ratio": 1.51171875
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
