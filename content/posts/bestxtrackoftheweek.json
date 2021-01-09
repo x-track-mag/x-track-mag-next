@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-09T20:03:23+0000",
+	"publication_date": "2021-01-09T20:08:14+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
@@ -82,12 +82,12 @@
 					"ratio": 1.6075353218210362
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5d278506-393f-48fe-8262-bd62bf8e4c74_L%27imperatrice+-Peur+des+Filles+2.jpg?auto=compress,format&rect=0,0,3364,1245&w=1024&h=379",
-					"alt": "L'imperatrice - Peur des Filles",
+					"url": "https://images.prismic.io/x-track-mag/c1ffc340-b64e-4e49-a974-61416ca1676e_Rhye-Home-Cover.jpg?auto=compress,format&rect=0,0,2500,2500&w=1024&h=1024",
+					"alt": "Rhye",
 					"copyright": null,
 					"width": 1024,
-					"height": 379,
-					"ratio": 2.7018469656992083
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
