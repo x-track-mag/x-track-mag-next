@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-09T18:48:31+0000",
+	"publication_date": "2021-01-09T19:00:05+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
@@ -95,12 +95,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a25f39ea-1211-4ad6-af17-3d836bd82147_Krizbeatz+-+Coco+ft+Tekno_+Harmonize+%26+DJ+Tira.jpg?auto=compress,format&rect=0,0,1958,1958&w=1024&h=1024",
-					"alt": "Krizbeatz - Coco ft Tekno, Harmonize & DJ Tira",
+					"url": "https://images.prismic.io/x-track-mag/362044d1-1137-42ee-9750-2edd48a22424_Wizkid+%26+Burna+Boy.jpg?auto=compress,format&rect=0,0,740,733&w=1024&h=1014",
+					"alt": "Wizkid & Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1014,
+					"ratio": 1.009861932938856
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/e37760b5-5171-4b94-9e76-7d1872f5f277_four+tet+parallel.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
