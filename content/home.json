@@ -25,7 +25,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "bestxtrackof2020"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 10,
@@ -168,11 +168,11 @@
 			"description": ""
 		},
 		{
-			"uid": "bestxtrackof2020",
+			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-01-09T10:17:57+0000",
+			"publication_date": "2021-01-09T10:19:34+0000",
 			"title": "",
 			"subtitle": "Best ”XTrack“ of the Week",
 			"image": {
@@ -187,7 +187,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playliste des meilleurs sons 2020"
+			"description": "Playliste des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "in-love",
