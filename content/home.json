@@ -28,6 +28,10 @@
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
+			"position": 6,
+			"uid": "les-apparences-trompeuses-du-pretty-privilege"
+		},
+		{
 			"position": 9,
 			"uid": "in-love"
 		},
@@ -194,6 +198,28 @@
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T12:20:45+0000",
+			"title": "Les apparences trompeuses du Pretty Privilege",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": "Nadia Lee Cohen",
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "Les apparences trompeuses du pretty privilege"
+		},
+		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -217,25 +243,6 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "lhysterie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T10:23:55+0000",
-			"title": "DON'T CALL ME BABE ",
-			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
-			},
-			"template": "3: Image + Titre",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
-		},
-		{
 			"uid": "in-love",
 			"tags": [],
 			"publication_date": "2021-01-05T19:07:59+0000",
@@ -256,6 +263,25 @@
 			"description": "Our favorite Love & Cool Songs… Enjoy"
 		},
 		{
+			"uid": "lhysterie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T10:23:55+0000",
+			"title": "DON'T CALL ME BABE ",
+			"subtitle": "",
+			"image": null,
+			"video_loop": {
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
+			},
+			"template": "3: Image + Titre",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+		},
+		{
 			"uid": "polycool",
 			"tags": [
 				"article",
@@ -274,28 +300,6 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
-		},
-		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T12:20:45+0000",
-			"title": "Les apparences trompeuses du Pretty Privilege",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": null,
-				"copyright": "Nadia Lee Cohen",
-				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
 			"uid": "martin-parr",
