@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-09T20:08:14+0000",
+	"publication_date": "2021-01-10T10:29:35+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
@@ -66,12 +66,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/998eb396-da2b-4207-9cfd-98726a948dc3_iamddb01.jpg?auto=compress,format&rect=0,0,960,959&w=1024&h=1023",
+					"url": "https://images.prismic.io/x-track-mag/2edd701a-7036-47c9-ab2c-871227115be8_iamddb.jpg?auto=compress,format&rect=0,0,1500,2264&w=1024&h=1546",
 					"alt": "IAMDDB",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1546,
+					"ratio": 0.6623544631306598
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ff79addc-4ff3-415e-9510-ef12f2018291_la+felix+tommy+be+with+you+tonight.jpg?auto=compress,format&rect=0,0,3646,2268&w=1024&h=637",
