@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-10T10:34:05+0000",
+	"publication_date": "2021-01-16T20:07:09+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/8e230b6c-58ad-46d9-8d1f-95cffba39426_SZA-Good-Days-2020%2B.jpg?auto=compress,format",
-		"alt": null,
+		"url": "https://images.prismic.io/x-track-mag/bf865d3c-f9fc-43a0-a232-9986f4ce4aed_Emotionnal+Oranges.jpg?auto=compress,format",
+		"alt": "Emotionnal Oranges",
 		"copyright": null,
-		"width": 1548,
-		"height": 1024,
-		"ratio": 1.51171875
+		"width": 2000,
+		"height": 2000,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/8e230b6c-58ad-46d9-8d1f-95cffba39426_SZA-Good-Days-2020%2B.jpg?auto=compress,format",
-				"alt": "SZA",
+				"url": "https://images.prismic.io/x-track-mag/bf865d3c-f9fc-43a0-a232-9986f4ce4aed_Emotionnal+Oranges.jpg?auto=compress,format",
+				"alt": "Emotionnal Oranges",
 				"copyright": null,
-				"width": 1548,
-				"height": 1024,
-				"ratio": 1.51171875
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "SZA, Krizbeatz x Tekno x harmonize & DJ Tira, La Felix & Tommy, IAMDDB, Four Tet, DJ Spinall & Fireboy DML, Wizkid & Burna Boy, S+C+A+R+R, Popcaan, Kranium x Rytikal, L'imperatrice, Rhye, Blundetto, BwoiiDaas x Amaarae & +++👆🏽👆🎼🎧",
+					"text": "808vic x Cozy Kiyo, Emotionnal Oranges x Chiiild, Lous and the Yakuza  x Joey Bada$$, Reekado Banks x Tiwa Savage, IceBeatChillz x Terri, Wizmajestic x Wizkid x Burna Boy,  P.Priime x Teni, Rilès x Younès x Leone, Lilly Carron, Amaria,  Sadboy Hour, Blundetto x Leonardo Marques & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -66,28 +66,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2edd701a-7036-47c9-ab2c-871227115be8_iamddb.jpg?auto=compress,format&rect=0,0,1500,2264&w=1024&h=1546",
-					"alt": "IAMDDB",
+					"url": "https://images.prismic.io/x-track-mag/594bcb6b-d67b-4a64-953f-a31037928013_Lous+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1000,1250&w=1024&h=1280",
+					"alt": "Lous and the Yakuza",
 					"copyright": null,
 					"width": 1024,
-					"height": 1546,
-					"ratio": 0.6623544631306598
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/64c31fcf-d4b0-440c-836c-9b20eab59eac_IAMDDBcoverWA%27HUM.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "IAMDDB WA 'HUM COVER",
+					"url": "https://images.prismic.io/x-track-mag/b71dacc4-eda0-473b-839b-b28abeb76800_808vicCozyKiyo-OverStayed2.jpg?auto=compress,format&rect=0,0,2000,1098&w=1024&h=562",
+					"alt": "808vic x Cozy Kiyo Overstayed ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 562,
+					"ratio": 1.8220640569395017
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c1ffc340-b64e-4e49-a974-61416ca1676e_Rhye-Home-Cover.jpg?auto=compress,format&rect=0,0,2500,2500&w=1024&h=1024",
-					"alt": "Rhye",
+					"url": "https://images.prismic.io/x-track-mag/2e8499dc-1de6-4da9-8063-b527fd7ca5a7_Emotionnal+Oranges+Chiiild+Bonafide.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
+					"alt": "Emotionnal Oranges Chiiild Bonafide",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -95,24 +95,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/362044d1-1137-42ee-9750-2edd48a22424_Wizkid+%26+Burna+Boy.jpg?auto=compress,format&rect=0,0,740,733&w=1024&h=1014",
-					"alt": "Wizkid & Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/12de3b0c-7d4b-4d93-b987-185d163304b2_P.Priime%26Teni-ComeAndSee.jpg?auto=compress,format&rect=0,0,1935,1920&w=1024&h=1016",
+					"alt": "P.Priime & Teni - Come And See",
 					"copyright": null,
 					"width": 1024,
-					"height": 1014,
-					"ratio": 1.009861932938856
+					"height": 1016,
+					"ratio": 1.0078740157480315
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e37760b5-5171-4b94-9e76-7d1872f5f277_four+tet+parallel.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Four Tet - Parallel",
+					"url": "https://images.prismic.io/x-track-mag/ac67acba-2d8f-482d-abb9-613152ca68ec_Amaria-Roses.jpeg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Amaria Roses",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9b121d5a-d50a-4d39-9759-974577f8c95a_L%27imperatrice+-Peur+des+Filles+.jpg?auto=compress,format&rect=0,0,1439,1439&w=1024&h=1024",
-					"alt": "L'imperatrice - Peur des Filles",
+					"url": "https://images.prismic.io/x-track-mag/e9d52321-9d4c-4a2e-bf01-ca7ad8441313_O2WorldwideWHATS-THE-MOVE.jpg?auto=compress,format&rect=0,0,3500,3500&w=1024&h=1024",
+					"alt": "O2Worldwide WHATS-THE-MOVE",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -124,11 +124,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=myaSj6XaRn6Y5i_IKQmmEQ",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=nlKr-dU8SpCDb2tpdFne2A",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA540as2GKqr",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZEjjSN0D35",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
