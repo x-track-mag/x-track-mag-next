@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-16T20:07:09+0000",
+	"publication_date": "2021-01-16T20:11:25+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
@@ -74,20 +74,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b71dacc4-eda0-473b-839b-b28abeb76800_808vicCozyKiyo-OverStayed2.jpg?auto=compress,format&rect=0,0,2000,1098&w=1024&h=562",
+					"url": "https://images.prismic.io/x-track-mag/dcb5d0ee-f986-414a-9436-8cc432cf6f62_808vicCozyKiyo-OverStayed.jpg?auto=compress,format&rect=0,0,2100,1854&w=1024&h=904",
 					"alt": "808vic x Cozy Kiyo Overstayed ",
 					"copyright": null,
 					"width": 1024,
-					"height": 562,
-					"ratio": 1.8220640569395017
+					"height": 904,
+					"ratio": 1.1327433628318584
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2e8499dc-1de6-4da9-8063-b527fd7ca5a7_Emotionnal+Oranges+Chiiild+Bonafide.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
-					"alt": "Emotionnal Oranges Chiiild Bonafide",
+					"url": "https://images.prismic.io/x-track-mag/0152d302-1e28-49eb-8076-312e3d7cd714_Emotionnal+Oranges2.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Emmotional Oranges",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -103,12 +103,12 @@
 					"ratio": 1.0078740157480315
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ac67acba-2d8f-482d-abb9-613152ca68ec_Amaria-Roses.jpeg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Amaria Roses",
+					"url": "https://images.prismic.io/x-track-mag/a268291f-8cf7-4c8d-b73e-a661cc0f7776_Chiiild.jpg?auto=compress,format&rect=0,0,1049,700&w=1024&h=683",
+					"alt": "Chiiild",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/e9d52321-9d4c-4a2e-bf01-ca7ad8441313_O2WorldwideWHATS-THE-MOVE.jpg?auto=compress,format&rect=0,0,3500,3500&w=1024&h=1024",
