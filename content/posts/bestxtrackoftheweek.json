@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-16T20:13:02+0000",
+	"publication_date": "2021-01-16T20:14:35+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/158ba50b-3a33-4bc0-a9b4-3e5441d917bb_Lous%26-the-YakuzaJoeyBadassAmigoRemix.jpg?auto=compress,format",
-		"alt": "Lous & the Yakuza x Joey Bada$$ Amigo Remix",
+		"url": "https://images.prismic.io/x-track-mag/bf865d3c-f9fc-43a0-a232-9986f4ce4aed_Emotionnal+Oranges.jpg?auto=compress,format",
+		"alt": "Emotionnal Oranges",
 		"copyright": null,
-		"width": 1000,
-		"height": 1000,
+		"width": 2000,
+		"height": 2000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -24,11 +24,11 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/158ba50b-3a33-4bc0-a9b4-3e5441d917bb_Lous%26-the-YakuzaJoeyBadassAmigoRemix.jpg?auto=compress,format",
-				"alt": "Lous & the Yakuza x Joey Bada$$ Amigo Remix",
+				"url": "https://images.prismic.io/x-track-mag/bf865d3c-f9fc-43a0-a232-9986f4ce4aed_Emotionnal+Oranges.jpg?auto=compress,format",
+				"alt": "Emotionnal Oranges",
 				"copyright": null,
-				"width": 1000,
-				"height": 1000,
+				"width": 2000,
+				"height": 2000,
 				"ratio": 1
 			}
 		},
