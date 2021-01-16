@@ -162,16 +162,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-01-16T20:14:35+0000",
+			"publication_date": "2021-01-16T20:20:26+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/bf865d3c-f9fc-43a0-a232-9986f4ce4aed_Emotionnal+Oranges.jpg?auto=compress,format",
-				"alt": "Emotionnal Oranges",
+				"url": "https://images.prismic.io/x-track-mag/905b3132-e9c7-4045-9ed5-f58387089552_lous-and-the-yakuza%2B.jpg?auto=compress,format",
+				"alt": "Lous and the Yakuza",
 				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
+				"width": 1600,
+				"height": 840,
+				"ratio": 1.9047619047619047
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
