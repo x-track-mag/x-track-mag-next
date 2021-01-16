@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-16T20:20:26+0000",
+	"publication_date": "2021-01-16T20:25:11+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/905b3132-e9c7-4045-9ed5-f58387089552_lous-and-the-yakuza%2B.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/f4d3f4d5-1f71-4a94-89e9-0d8cc56450f5_Lous+and+the+Yakuza%2B%2B.jpg?auto=compress,format",
 		"alt": "Lous and the Yakuza",
 		"copyright": null,
-		"width": 1600,
-		"height": 840,
-		"ratio": 1.9047619047619047
+		"width": 1280,
+		"height": 720,
+		"ratio": 1.7777777777777777
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/905b3132-e9c7-4045-9ed5-f58387089552_lous-and-the-yakuza%2B.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/f4d3f4d5-1f71-4a94-89e9-0d8cc56450f5_Lous+and+the+Yakuza%2B%2B.jpg?auto=compress,format",
 				"alt": "Lous and the Yakuza",
 				"copyright": null,
-				"width": 1600,
-				"height": 840,
-				"ratio": 1.9047619047619047
+				"width": 1280,
+				"height": 720,
+				"ratio": 1.7777777777777777
 			}
 		},
 		{
