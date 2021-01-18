@@ -28,7 +28,7 @@
 			"uid": "les-apparences-trompeuses-du-pretty-privilege"
 		},
 		{
-			"position": 8,
+			"position": 9,
 			"uid": "nola-cherri"
 		},
 		{
@@ -197,26 +197,6 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
-			"uid": "nola-cherri",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2021-01-18T16:19:00+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
-			"image": null,
-			"video_loop": {
-				"name": "LOOPFIN.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
-				"size": "8315849"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Live session - Nola Cherri- French music"
-		},
-		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -238,6 +218,26 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "L’Avenir de la Mode est-il virtuel ?"
+		},
+		{
+			"uid": "nola-cherri",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2021-01-18T16:19:00+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"image": null,
+			"video_loop": {
+				"name": "LOOPFIN.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
+				"size": "8315849"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Live session - Nola Cherri- French music"
 		},
 		{
 			"uid": "in-love",
