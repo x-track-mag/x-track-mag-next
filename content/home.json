@@ -121,11 +121,15 @@
 				"music",
 				"live session"
 			],
-			"publication_date": "2021-01-18T16:14:01+0000",
+			"publication_date": "2021-01-18T16:14:17+0000",
 			"title": "Nola Cherri",
 			"subtitle": "Live Session",
 			"image": null,
-			"video_loop": null,
+			"video_loop": {
+				"name": "LOOP LIVE SESS_2.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cdf1edad-1556-4a56-9563-e32ef505fa94_LOOP+LIVE+SESS_2.mp4",
+				"size": "741409"
+			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": null,
 			"internal_link": null,
