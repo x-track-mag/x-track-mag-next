@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-01-19T16:14:50+0000",
+	"publication_date": "2021-01-19T16:15:44+0000",
 	"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
 	"subtitle": "",
 	"image": {
@@ -63,7 +63,22 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "En 2020, l’incertitude s’est invitée dans nos têtes. Soyons honnêtes, même s’il reste d’incorrigibles optimistes qui t’expliquent que « les gens vont prendre conscience qu’on est entrain de détruire la planète, que ce chaos laissera place à plus de solidarité, de tolérance et de gentillesse », c’est franchement la cata. Et c’est là qu’entre en scène l’astrologie. Si ça nous parle autant, c’est grâce à ce que le psychologue Paul Meehl appelle « l’effet Barnum ». Il fait ici référence au cirque Barnum, qui avait pour habitude de dire qu’il en fallait pour tout le monde dans ses spectacles. C’est à dire que, lorsqu’on lit un horoscope on a tendance à accepter comme personnelle une description vague générale et ambiguë de la personnalité. En gros, que tu sois taureau, scorpion ou libellule à paillette, ton horoscope est écrit pour que tu t’y reconnaisses. On parle là des horoscopes classiques que tu peux lire dans ton exemplaire gratoss de 20min quand t’as chopé dans le métro ce matin. Carl-Gustav Jung, lui aussi psychologue offre une analyse de l’astrologie qui me parle bien plus (j’ai pas envie de penser que je me fais avoir) : pour lui, « l’astrologie consiste en configurations symboliques comme l’inconscient collectif dont la psychologie s’occupe: les planètes sont les dieux, symboles des puissances de l’inconscient ». Il induit un rapport d’autorité, toujours le même, quelqu’un te dicte la marche à suivre. Si on compare les horoscopes qui sortaient dans les journaux des années 50 à ceux que tu peux trouver aujourd’hui (petit coeur sur Rob Brezny du Courrier International), les prédictions se faisaient sur le thème de la famille, du mariage. Désormais, elles se concentrent sur les préoccupations individuelles de notre société: l’amour, les rencontres et les projets professionnels. En gros, l’astrologie, c’est ta religion que tu peux pratiquer à la cool. Personne à honorer, juste un petit flippe quand Mercure rétrograde, mais tout compte fait, y croire, ce n’est pas si engageant. Je vois plus ça comme une aide que je me donne à moi même: cet horoscope est un point d’appui qui me permets de retrouver de l’énergie et de l’espoir quand je me sens toute chiffon. Ça m’a aussi servi maintes et maintes fois à me prouver que ce mec qui venait de me jeter était tout pourris et que c’était tant mieux pour moi parce qu’il était cancer (sorry les cancer).",
+					"text": "En 2020, l’incertitude s’est invitée dans nos têtes. Soyons honnêtes, même s’il reste d’incorrigibles optimistes qui t’expliquent que « les gens vont prendre conscience qu’on est entrain de détruire la planète, que ce chaos laissera place à plus de solidarité, de tolérance et de gentillesse », c’est franchement la cata. Et c’est là qu’entre en scène l’astrologie. Si ça nous parle autant, c’est grâce à ce que le psychologue Paul Meehl appelle « l’effet Barnum ». Il fait ici référence au cirque Barnum, qui avait pour habitude de dire qu’il en fallait pour tout le monde dans ses spectacles. C’est à dire que, lorsqu’on lit un horoscope on a tendance à accepter comme personnelle une description vague générale et ambiguë de la personnalité. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "En gros, que tu sois taureau, scorpion ou libellule à paillette, ton horoscope est écrit pour que tu t’y reconnaisses. On parle là des horoscopes classiques que tu peux lire dans ton exemplaire gratoss de 20min quand t’as chopé dans le métro ce matin. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Carl-Gustav Jung, lui aussi psychologue offre une analyse de l’astrologie qui me parle bien plus (j’ai pas envie de penser que je me fais avoir) : pour lui, « l’astrologie consiste en configurations symboliques comme l’inconscient collectif dont la psychologie s’occupe: les planètes sont les dieux, symboles des puissances de l’inconscient ». Il induit un rapport d’autorité, toujours le même, quelqu’un te dicte la marche à suivre. Si on compare les horoscopes qui sortaient dans les journaux des années 50 à ceux que tu peux trouver aujourd’hui (petit coeur sur Rob Brezny du Courrier International), les prédictions se faisaient sur le thème de la famille, du mariage. Désormais, elles se concentrent sur les préoccupations individuelles de notre société: l’amour, les rencontres et les projets professionnels. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "En gros, l’astrologie, c’est ta religion que tu peux pratiquer à la cool. Personne à honorer, juste un petit flippe quand Mercure rétrograde, mais tout compte fait, y croire, ce n’est pas si engageant. Je vois plus ça comme une aide que je me donne à moi même: cet horoscope est un point d’appui qui me permets de retrouver de l’énergie et de l’espoir quand je me sens toute chiffon. Ça m’a aussi servi maintes et maintes fois à me prouver que ce mec qui venait de me jeter était tout pourris et que c’était tant mieux pour moi parce qu’il était cancer (sorry les cancer).",
 					"spans": []
 				}
 			]
