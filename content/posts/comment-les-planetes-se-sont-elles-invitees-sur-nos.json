@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-01-19T16:09:36+0000",
+	"publication_date": "2021-01-19T16:14:50+0000",
 	"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
 	"subtitle": "",
 	"image": {
@@ -25,7 +25,26 @@
 				{
 					"type": "paragraph",
 					"text": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? ",
-					"spans": []
+					"spans": [
+						{
+							"start": 0,
+							"end": 324,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/91efa271-a708-4409-87ce-0caf30803cdc_HAND.png?auto=compress,format&rect=0,0,2999,1687&w=1024&h=576",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -54,12 +73,12 @@
 			"title": "--blank--",
 			"subtitle": null,
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/24f79b52-e466-4915-a7a0-e67d85d19887_dithering+%283%29.png?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1920,
+				"width": 1080,
 				"height": 1080,
-				"ratio": 1.7777777777777777
+				"ratio": 1
 			}
 		},
 		{
