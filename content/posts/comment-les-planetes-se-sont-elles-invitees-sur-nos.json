@@ -1,0 +1,184 @@
+{
+	"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
+	"tags": [
+		"article"
+	],
+	"publication_date": "2021-01-19T16:09:36+0000",
+	"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
+	"subtitle": "",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 1920,
+		"height": 1080,
+		"ratio": 1.7777777777777777
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Manon Pelinq",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "J’ai grandi dans une famille athée, d’une mère juive et d’un père plutôt punk qui avait reçu une éducation catholique. J’ai toujours entendu mon père me dire « je ne crois pas au père noël ni à la petite souris, pourquoi est-ce que je croirais en dieu? ». On peut dire très honnêtement que je n’ai jamais cru en rien jusqu’à ce que je découvre l’astrologie, religion comme une autre où les dieux seraient des planètes. J’ai commencé à m’y intéresser sérieusement quand je suis arrivée à cette période de la vie où tout est incertain. Bref, j’avais besoin que quelqu’un me dise que tout allait bien se passer, et c’est pas ma mère juive qui allait me détendre. J’ai commencé à m’intéresser au tarot, à l’astrologie et à la voyance. Et ça m’a fait du bien. Enfin on me donnait les lignes directives d’un chemin que quelqu’un avait tracé pour moi. On me promettait un avenir, un mec, plein de tunes et du bonheur. J’ai adoré, puis adhéré, comme 80% de mes congénères les millenials. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "En 2020, l’incertitude s’est invitée dans nos têtes. Soyons honnêtes, même s’il reste d’incorrigibles optimistes qui t’expliquent que « les gens vont prendre conscience qu’on est entrain de détruire la planète, que ce chaos laissera place à plus de solidarité, de tolérance et de gentillesse », c’est franchement la cata. Et c’est là qu’entre en scène l’astrologie. Si ça nous parle autant, c’est grâce à ce que le psychologue Paul Meehl appelle « l’effet Barnum ». Il fait ici référence au cirque Barnum, qui avait pour habitude de dire qu’il en fallait pour tout le monde dans ses spectacles. C’est à dire que, lorsqu’on lit un horoscope on a tendance à accepter comme personnelle une description vague générale et ambiguë de la personnalité. En gros, que tu sois taureau, scorpion ou libellule à paillette, ton horoscope est écrit pour que tu t’y reconnaisses. On parle là des horoscopes classiques que tu peux lire dans ton exemplaire gratoss de 20min quand t’as chopé dans le métro ce matin. Carl-Gustav Jung, lui aussi psychologue offre une analyse de l’astrologie qui me parle bien plus (j’ai pas envie de penser que je me fais avoir) : pour lui, « l’astrologie consiste en configurations symboliques comme l’inconscient collectif dont la psychologie s’occupe: les planètes sont les dieux, symboles des puissances de l’inconscient ». Il induit un rapport d’autorité, toujours le même, quelqu’un te dicte la marche à suivre. Si on compare les horoscopes qui sortaient dans les journaux des années 50 à ceux que tu peux trouver aujourd’hui (petit coeur sur Rob Brezny du Courrier International), les prédictions se faisaient sur le thème de la famille, du mariage. Désormais, elles se concentrent sur les préoccupations individuelles de notre société: l’amour, les rencontres et les projets professionnels. En gros, l’astrologie, c’est ta religion que tu peux pratiquer à la cool. Personne à honorer, juste un petit flippe quand Mercure rétrograde, mais tout compte fait, y croire, ce n’est pas si engageant. Je vois plus ça comme une aide que je me donne à moi même: cet horoscope est un point d’appui qui me permets de retrouver de l’énergie et de l’espoir quand je me sens toute chiffon. Ça m’a aussi servi maintes et maintes fois à me prouver que ce mec qui venait de me jeter était tout pourris et que c’était tant mieux pour moi parce qu’il était cancer (sorry les cancer).",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-hero",
+			"title": "--blank--",
+			"subtitle": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1080,
+				"ratio": 1.7777777777777777
+			}
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Et j’ai de la veine, parce qu’un horoscope, c’est franchement plus très difficile à trouver. Une fois que tu as visionné une ou deux vidéos de Youtubeurs astros, ça pullule même sur ta page d’accueil. Parce que oui, l’astrologie, comme le make-up ou les jeux vidéos s’est imposée comme un sujet très en vogue ces derniers temps dans le monde de l’influence. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Et qui mieux placé que moi pour en parler? J’ai passé mon premier confinement à m’envoyer tout ce qui se rapprochait de près ou de loin à l’astrologie sur cet endroit virtuel mais non moins chaleureux que l’on appelle YouTube. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Quand j’ai envie qu’on me parle comme si on me connaissait, je vais sur la chaîne d’Amber Khan. Classique, elle sort un horoscope mensuel pour chaque signe en tirant le tarot. Elle déchire mais des fois elle se la pète un peu et ça m’énerve, et comme le visionnage de ces vidéos a pour but de me détendre, quand je sens qu’elle m’irrite je zappe sur mon petit chouchou: Jean-Yves Espié. Lui il a toujours une sacrée banane, ses cadres sont souvent affreux et il a de graves problèmes de lumières, mais… Il t’irrigue de sa bienveillance à travers l’écran. Il procède différemment d’Amber: il a son vieux bouquins d’éphémérides, et fait hebdomadairement le point sur où se trouveront les planètes cette semaine, et quelle influence ça aura sur quel signe. Là, je me sens en sécurité, c’est des calculs, c’est de la science. Je crois Jean-Yves. Jean-Yves qui, n’ayons pas peur de le dire, est devenu un peu une star des astres puisqu’il est très souvent invité sur les plateaux télé et que les prix de ses consultations ont grimpé depuis sa canonisation (si t’as vraiment rien à faire n’hésite pas à aller checker son site internet). Mais franchement, il le mérite.",
+					"spans": [
+						{
+							"start": 84,
+							"end": 94,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.youtube.com/channel/UCVtsJWkFGIiMruaL9ZMV-5w"
+							}
+						},
+						{
+							"start": 370,
+							"end": 385,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.youtube.com/channel/UCw2AW1_eg-kEmgIozJRVDBw"
+							}
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "C’est les deux façons de procéder que tu retrouves sur YouTube: ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Le tirage qu’on peut aussi appeler « guidances »: ça, c’est fait pour quand t’as le bourdon mais que tu sais pas très bien pourquoi. Tu trouveras toujours un petit élément du tirage que tu pourras t’approprier et interpréter à ta guise. Certain.e.s le font par quinzaines, d’autres par éléments de signes. Il n’y a pas de règles.  ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Les seconds sont ceux qui se basent sur la trajectoire des planètes, comme Jean-Yves Espié donc, ou Roland Legrand. Là, le jugement est sans appel, si c’est la loose pour les scorpions, ça restera la loose pour les scorpions. ",
+					"spans": [
+						{
+							"start": 100,
+							"end": 115,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.youtube.com/channel/UC4v8qPYA0wJBWdHK59YQVRg"
+							}
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/6d388237-cba0-4e75-86f6-bb24aed432ef_IMG_3306.jpg?auto=compress,format&rect=0,0,828,551&w=1024&h=681",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 681,
+					"ratio": 1.5036710719530102
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Évidemment, il n’y a pas que YouTube pour influencer les millenials. On est aussi vissés à Instagram toute la journée. Et c’est sur cette délicieuse plateforme qu’on retrouve des comptes comme Glossy-zodiac, par exemple, qui regroupe 4.2 millions de followers. Quoi de mieux pour nous séduire, nous-autres que des MEMES qui parlent de nous? Tu te reconnais, tu rigoles, tu l’envoies à ta pote, tu t’auto-justifies un de tes comportements pas ouf. Franchement, on prend. ",
+					"spans": [
+						{
+							"start": 193,
+							"end": 206,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/glossy_zodiac/"
+							}
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Mais ceux qui ont poussé le plus loin le game astral, c’est les mecs de Co-star et autres applications qui, via un algorithme calcule ton thème et t’envoies des notifications chaque jour à 11h11 pour te dire à quelle sauce va te manger la vie aujourd’hui. C’est un peu le mantra de ceux qui ont eu la flemme de se renseigner sur Bouddha.  ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Je connais des gens incapables de commencer leur journée sans leur push cosmique. Mais ce n’est pas non plus le but de l’astrologie. Ça doit nous aider, pas nous paralyser. Et en ces temps troubles et incertains, si toi aussi ça t’aide, fais toi plaisir et trouves toi ton YouTuber astro préféré. Tu verras, ça soulage. ",
+					"spans": []
+				}
+			]
+		}
+	],
+	"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
+}
