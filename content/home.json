@@ -120,16 +120,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-01-16T20:25:11+0000",
+			"publication_date": "2021-01-23T19:13:12+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f4d3f4d5-1f71-4a94-89e9-0d8cc56450f5_Lous+and+the+Yakuza%2B%2B.jpg?auto=compress,format",
-				"alt": "Lous and the Yakuza",
+				"url": "https://images.prismic.io/x-track-mag/28388131-d4f4-4a0c-ac5b-f3333b438e80_Kali+Uchis-+La+Luz.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1280,
-				"height": 720,
-				"ratio": 1.7777777777777777
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

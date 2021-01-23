@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-16T20:25:11+0000",
+	"publication_date": "2021-01-23T19:13:12+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f4d3f4d5-1f71-4a94-89e9-0d8cc56450f5_Lous+and+the+Yakuza%2B%2B.jpg?auto=compress,format",
-		"alt": "Lous and the Yakuza",
+		"url": "https://images.prismic.io/x-track-mag/28388131-d4f4-4a0c-ac5b-f3333b438e80_Kali+Uchis-+La+Luz.jpg?auto=compress,format",
+		"alt": null,
 		"copyright": null,
-		"width": 1280,
-		"height": 720,
-		"ratio": 1.7777777777777777
+		"width": 3000,
+		"height": 3000,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f4d3f4d5-1f71-4a94-89e9-0d8cc56450f5_Lous+and+the+Yakuza%2B%2B.jpg?auto=compress,format",
-				"alt": "Lous and the Yakuza",
+				"url": "https://images.prismic.io/x-track-mag/28388131-d4f4-4a0c-ac5b-f3333b438e80_Kali+Uchis-+La+Luz.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1280,
-				"height": 720,
-				"ratio": 1.7777777777777777
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "808vic x Cozy Kiyo, Emotionnal Oranges x Chiiild, Lous and the Yakuza  x Joey Bada$$, Reekado Banks x Tiwa Savage, IceBeatChillz x Terri, Wizmajestic x Wizkid x Burna Boy,  P.Priime x Teni, Rilès x Younès x Leone, Lilly Carron, Amaria,  Sadboy Hour, Blundetto x Leonardo Marques & +++👆🏽👆🎼🎧",
+					"text": "DVSN x Ty Dollma $ign x Buju Banton, Kali Uchis x Buscabulla, Real Warri Pikin x Teni, Kanibeatz x Bella Alubo x Psycho Yp x  Lava Lava,  Benny Sings x Tom Misch, Curtis Water, Slenderbodies x Crooked Coulours, Glass Animals, Yung L, Young Saab x Torii Wolf, Hether, Rhye, Lo Village,  Mereba x 6Lack, Toledo, Ami Faku x Emtee, Kartell x Quendresa x Coops, YG Pablo, Enny x Jorja Smith, Loony, Sofia Valdes, Deb Never,  Billie Eilish x Rosalia, & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -66,57 +66,57 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/594bcb6b-d67b-4a64-953f-a31037928013_Lous+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1000,1250&w=1024&h=1280",
-					"alt": "Lous and the Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/ebb82f9c-65f7-422f-a4f7-6877552db9fa_dvsn-amusing-her-feelings.jpeg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "DVSN x Tuy Dolla $ign, Buju Banton",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/78483124-be46-40b3-9807-162f878a936a_YG+Pablo.jpg?auto=compress,format&rect=0,0,1575,963&w=1024&h=626",
+					"alt": "YG Pablo",
+					"copyright": null,
+					"width": 1024,
+					"height": 626,
+					"ratio": 1.6357827476038338
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/64e180b4-0a60-45cd-9d9e-3787e79bf139_billie-eilish-e-rosalia.jpg?auto=compress,format&rect=0,0,4498,3000&w=1024&h=683",
+					"alt": "Billie Eilish & Rosalia",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/7cbacdae-f9b9-404c-a3aa-096f104f6840_Real+Warri+Pikin+.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
+					"alt": "Real Warri Pickin",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/dcb5d0ee-f986-414a-9436-8cc432cf6f62_808vicCozyKiyo-OverStayed.jpg?auto=compress,format&rect=0,0,2100,1854&w=1024&h=904",
-					"alt": "808vic x Cozy Kiyo Overstayed ",
+					"url": "https://images.prismic.io/x-track-mag/98f39373-8357-418f-9af8-889685b06f8f_jorja-smith-enny-peng-black-girls-remix.jpg?auto=compress,format&rect=0,0,1073,864&w=1024&h=825",
+					"alt": "Enny &Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 904,
-					"ratio": 1.1327433628318584
+					"height": 825,
+					"ratio": 1.2412121212121212
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0152d302-1e28-49eb-8076-312e3d7cd714_Emotionnal+Oranges2.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Emmotional Oranges",
+					"url": "https://images.prismic.io/x-track-mag/d68aa0ec-8e81-4269-ac0d-4a92d050072f_Ami+Faku.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
+					"alt": "Ami Faku",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/12de3b0c-7d4b-4d93-b987-185d163304b2_P.Priime%26Teni-ComeAndSee.jpg?auto=compress,format&rect=0,0,1935,1920&w=1024&h=1016",
-					"alt": "P.Priime & Teni - Come And See",
-					"copyright": null,
-					"width": 1024,
-					"height": 1016,
-					"ratio": 1.0078740157480315
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a268291f-8cf7-4c8d-b73e-a661cc0f7776_Chiiild.jpg?auto=compress,format&rect=0,0,1049,700&w=1024&h=683",
-					"alt": "Chiiild",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e9d52321-9d4c-4a2e-bf01-ca7ad8441313_O2WorldwideWHATS-THE-MOVE.jpg?auto=compress,format&rect=0,0,3500,3500&w=1024&h=1024",
-					"alt": "O2Worldwide WHATS-THE-MOVE",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				}
 			]
 		},
@@ -124,11 +124,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=nlKr-dU8SpCDb2tpdFne2A",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=iZRw-RxCQeq13EL0ZrFayQ",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZEjjSN0D35",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA54bRh2GKqr",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
