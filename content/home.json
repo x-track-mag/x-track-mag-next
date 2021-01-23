@@ -120,16 +120,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-01-23T19:16:02+0000",
+			"publication_date": "2021-01-23T19:18:18+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/d906e676-ebb9-4476-b1d3-7a63896cea64_Kali+Uchis+La+Luz+Remix.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/28388131-d4f4-4a0c-ac5b-f3333b438e80_Kali+Uchis-+La+Luz.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1702,
-				"height": 630,
-				"ratio": 2.7015873015873018
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
