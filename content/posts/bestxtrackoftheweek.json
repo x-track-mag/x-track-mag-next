@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-23T19:21:03+0000",
+	"publication_date": "2021-01-23T19:23:55+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
@@ -74,27 +74,6 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/78483124-be46-40b3-9807-162f878a936a_YG+Pablo.jpg?auto=compress,format&rect=0,0,1575,963&w=1024&h=626",
-					"alt": "YG Pablo",
-					"copyright": null,
-					"width": 1024,
-					"height": 626,
-					"ratio": 1.6357827476038338
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/64e180b4-0a60-45cd-9d9e-3787e79bf139_billie-eilish-e-rosalia.jpg?auto=compress,format&rect=0,0,4498,3000&w=1024&h=683",
-					"alt": "Billie Eilish & Rosalia",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
 					"url": "https://images.prismic.io/x-track-mag/7ea4ad41-3ec3-4882-9d11-cf9fef467fd1_Toledo+Dog+Has+Its+Day.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
 					"alt": "Toledo",
 					"copyright": null,
@@ -103,20 +82,41 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/98f39373-8357-418f-9af8-889685b06f8f_jorja-smith-enny-peng-black-girls-remix.jpg?auto=compress,format&rect=0,0,1073,864&w=1024&h=825",
-					"alt": "Enny &Jorja Smith",
-					"copyright": null,
-					"width": 1024,
-					"height": 825,
-					"ratio": 1.2412121212121212
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/d68aa0ec-8e81-4269-ac0d-4a92d050072f_Ami+Faku.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
 					"alt": "Ami Faku",
 					"copyright": null,
 					"width": 1024,
 					"height": 1023,
 					"ratio": 1.0009775171065494
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/64e180b4-0a60-45cd-9d9e-3787e79bf139_billie-eilish-e-rosalia.jpg?auto=compress,format&rect=0,0,4498,3000&w=1024&h=683",
+					"alt": "Billie Eilish x Rosaria",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/78483124-be46-40b3-9807-162f878a936a_YG+Pablo.jpg?auto=compress,format&rect=0,0,1575,963&w=1024&h=626",
+					"alt": "YG Pablo",
+					"copyright": null,
+					"width": 1024,
+					"height": 626,
+					"ratio": 1.6357827476038338
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/98f39373-8357-418f-9af8-889685b06f8f_jorja-smith-enny-peng-black-girls-remix.jpg?auto=compress,format&rect=0,0,1073,864&w=1024&h=825",
+					"alt": "Enny & Jorja Smith",
+					"copyright": null,
+					"width": 1024,
+					"height": 825,
+					"ratio": 1.2412121212121212
 				}
 			]
 		},
