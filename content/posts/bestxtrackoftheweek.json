@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-23T19:13:12+0000",
+	"publication_date": "2021-01-23T19:16:02+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/28388131-d4f4-4a0c-ac5b-f3333b438e80_Kali+Uchis-+La+Luz.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/d906e676-ebb9-4476-b1d3-7a63896cea64_Kali+Uchis+La+Luz+Remix.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
-		"ratio": 1
+		"width": 1702,
+		"height": 630,
+		"ratio": 2.7015873015873018
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/28388131-d4f4-4a0c-ac5b-f3333b438e80_Kali+Uchis-+La+Luz.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/d906e676-ebb9-4476-b1d3-7a63896cea64_Kali+Uchis+La+Luz+Remix.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 1702,
+				"height": 630,
+				"ratio": 2.7015873015873018
 			}
 		},
 		{
@@ -95,12 +95,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/7cbacdae-f9b9-404c-a3aa-096f104f6840_Real+Warri+Pikin+.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
-					"alt": "Real Warri Pickin",
+					"url": "https://images.prismic.io/x-track-mag/d906e676-ebb9-4476-b1d3-7a63896cea64_Kali+Uchis+La+Luz+Remix.jpg?auto=compress,format&rect=0,0,1702,630&w=1024&h=379",
+					"alt": "Kali Uchis La luz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 379,
+					"ratio": 2.7018469656992083
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/98f39373-8357-418f-9af8-889685b06f8f_jorja-smith-enny-peng-black-girls-remix.jpg?auto=compress,format&rect=0,0,1073,864&w=1024&h=825",
