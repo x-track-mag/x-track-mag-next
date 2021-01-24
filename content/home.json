@@ -120,9 +120,9 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-01-23T19:32:37+0000",
+			"publication_date": "2021-01-24T10:13:09+0000",
 			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "",
+			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/28388131-d4f4-4a0c-ac5b-f3333b438e80_Kali+Uchis-+La+Luz.jpg?auto=compress,format",
 				"alt": null,
@@ -135,7 +135,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playliste des meilleurs sons de la semaine"
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
