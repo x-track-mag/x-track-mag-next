@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-30T21:39:17+0000",
+	"publication_date": "2021-01-30T21:39:57+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -95,12 +95,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/33d6fce1-50a6-446c-ba82-cee1740f5e8e_Rile%CC%80s.jpg?auto=compress,format&rect=0,0,1506,2009&w=1024&h=1366",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/e038fe84-0181-4fa8-8dfd-be76909e54ed_FKA+Twigs.jpg?auto=compress,format&rect=0,0,753,1136&w=1024&h=1545",
+					"alt": "FKA Twigs",
 					"copyright": null,
 					"width": 1024,
-					"height": 1366,
-					"ratio": 0.7496339677891655
+					"height": 1545,
+					"ratio": 0.6627831715210356
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f184607a-2274-4fbb-b661-766901c54043_Arlo-Parks-.jpg?auto=compress,format&rect=0,0,1500,875&w=1024&h=597",
