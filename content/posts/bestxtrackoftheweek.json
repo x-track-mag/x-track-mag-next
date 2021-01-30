@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-30T21:26:37+0000",
+	"publication_date": "2021-01-30T21:33:23+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -74,12 +74,12 @@
 					"ratio": 1.5125553914327918
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/431a3b58-ba1f-44ce-89e3-0bf86ff6525d_Michelle.++.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Michelle",
+					"url": "https://images.prismic.io/x-track-mag/03f78fa0-1097-4190-b1d8-b4579501446a_Rile%CC%80s++.jpg?auto=compress,format&rect=0,0,1297,1957&w=1024&h=1545",
+					"alt": "Rilès",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1545,
+					"ratio": 0.6627831715210356
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/dd5bdf8f-a04e-4699-8004-73e42fb44069_Jade+Romance+COVER.jpg?auto=compress,format&rect=0,0,2500,2500&w=1024&h=1024",
@@ -103,20 +103,20 @@
 					"ratio": 0.6627831715210356
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/33d6fce1-50a6-446c-ba82-cee1740f5e8e_Rile%CC%80s.jpg?auto=compress,format&rect=0,0,1506,2009&w=1024&h=1366",
-					"alt": "Rilès",
+					"url": "https://images.prismic.io/x-track-mag/63f141be-f0d2-4918-9ad3-12f8c481723c_Khruangbin.jpg?auto=compress,format&rect=0,0,960,1200&w=1024&h=1280",
+					"alt": "Khruangbin",
 					"copyright": null,
 					"width": 1024,
-					"height": 1366,
-					"ratio": 0.7496339677891655
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e10449c7-b6c2-452f-bd77-28cce7120743_Yung+L+Yaadman+cover.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Yung L",
+					"url": "https://images.prismic.io/x-track-mag/f184607a-2274-4fbb-b661-766901c54043_Arlo-Parks-.jpg?auto=compress,format&rect=0,0,1500,875&w=1024&h=597",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 597,
+					"ratio": 1.7152428810720268
 				}
 			]
 		},
