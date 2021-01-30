@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-24T10:13:09+0000",
+	"publication_date": "2021-01-30T21:16:20+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/28388131-d4f4-4a0c-ac5b-f3333b438e80_Kali+Uchis-+La+Luz.jpg?auto=compress,format",
-		"alt": null,
+		"url": "https://images.prismic.io/x-track-mag/29f20a0c-1366-4603-a506-88a81cdf3416_Rad-Cartier-VT-Zoom.jpg?auto=compress,format",
+		"alt": "Rad Cartier VT Zoom",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
+		"width": 1600,
+		"height": 1600,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -24,11 +24,11 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/28388131-d4f4-4a0c-ac5b-f3333b438e80_Kali+Uchis-+La+Luz.jpg?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/29f20a0c-1366-4603-a506-88a81cdf3416_Rad-Cartier-VT-Zoom.jpg?auto=compress,format",
+				"alt": "Rad Cartier VT Zoom",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
+				"width": 1600,
+				"height": 1600,
 				"ratio": 1
 			}
 		},
@@ -47,7 +47,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "DVSN x Ty Dolla $ign x Buju Banton, Kali Uchis x Buscabulla, Real Warri Pikin x Teni, Kanibeatz x Bella Alubo x Psycho Yp x  Lava Lava,  Benny Sings x Tom Misch, Curtis Water, Slenderbodies x Crooked Coulours, Glass Animals, Yung L, Young Saab x Torii Wolf, Hether, Rhye, Lo Village,  Mereba x 6Lack, Toledo, Ami Faku x Emtee, Kartell x Quendresa x Coops, YG Pablo, Enny x Jorja Smith, Loony, Sofia Valdes, Deb Never,  Billie Eilish x Rosalia, & +++👆🏽👆🎼🎧",
+					"text": "DWY, Rad Cartier x Jäde, Rilès x Leone x Younès x Terry, Nelson Freitas x Mr Eazi, Blaq Diamond, Arlo Parks, Michael Brun x Shay Lia, DijahSB, MKSTN, Michelle, Jäde, Yung L x Shank, FKA Twigs x Headie One x Fred Again, dvsn x Popcaan, Mr Eazi, Khruangbin x Knxwlege, Blundetto x Hindi Zahra & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -66,28 +66,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ebb82f9c-65f7-422f-a4f7-6877552db9fa_dvsn-amusing-her-feelings.jpeg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "DVSN x Ty Dolla $ign x Buju Banton",
+					"url": "https://images.prismic.io/x-track-mag/63f141be-f0d2-4918-9ad3-12f8c481723c_Khruangbin.jpg?auto=compress,format&rect=0,0,960,1200&w=1024&h=1280",
+					"alt": "Khruangbin",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e038fe84-0181-4fa8-8dfd-be76909e54ed_FKA+Twigs.jpg?auto=compress,format&rect=0,0,753,1136&w=1024&h=1545",
+					"alt": "FKA Twigs",
+					"copyright": null,
+					"width": 1024,
+					"height": 1545,
+					"ratio": 0.6627831715210356
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/dd5bdf8f-a04e-4699-8004-73e42fb44069_Jade+Romance+COVER.jpg?auto=compress,format&rect=0,0,2500,2500&w=1024&h=1024",
+					"alt": "Jäde",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/7ea4ad41-3ec3-4882-9d11-cf9fef467fd1_Toledo+Dog+Has+Its+Day.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Toledo",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d68aa0ec-8e81-4269-ac0d-4a92d050072f_Ami+Faku.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
-					"alt": "Ami Faku",
-					"copyright": null,
-					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
 				}
 			]
 		},
@@ -95,28 +95,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/64e180b4-0a60-45cd-9d9e-3787e79bf139_billie-eilish-e-rosalia.jpg?auto=compress,format&rect=0,0,4498,3000&w=1024&h=683",
-					"alt": "Billie Eilish x Rosaria",
+					"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Rilès Leone Younès Terry ",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/78483124-be46-40b3-9807-162f878a936a_YG+Pablo.jpg?auto=compress,format&rect=0,0,1575,963&w=1024&h=626",
-					"alt": "YG Pablo",
+					"url": "https://images.prismic.io/x-track-mag/21020703-ec0f-48f8-b744-4f50735921fb_Michelle.jpg?auto=compress,format&rect=0,0,2048,1536&w=1024&h=768",
+					"alt": "Michelle",
 					"copyright": null,
 					"width": 1024,
-					"height": 626,
-					"ratio": 1.6357827476038338
+					"height": 768,
+					"ratio": 1.3333333333333333
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/98f39373-8357-418f-9af8-889685b06f8f_jorja-smith-enny-peng-black-girls-remix.jpg?auto=compress,format&rect=0,0,1073,864&w=1024&h=825",
-					"alt": "Enny x Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/71c2f15f-4474-4010-ad6c-ad39861c4708_Arlo-Parks.jpg?auto=compress,format&rect=0,0,1500,877&w=1024&h=599",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 825,
-					"ratio": 1.2412121212121212
+					"height": 599,
+					"ratio": 1.7095158597662772
 				}
 			]
 		},
@@ -124,16 +124,20 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=iZRw-RxCQeq13EL0ZrFayQ",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=DjWkajR5QdWn9Pqn2pMgAA",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA54bRh2GKqr",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-jV89GMDCBAyYV",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
 					"title": "Best ”XTrack“ of The Week playlist | Listen on Deezer"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of the Week"
 				}
 			]
 		}
