@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-02-06T18:18:13+0000",
+	"publication_date": "2021-02-06T18:33:37+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -74,12 +74,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a5eb7f69-aa59-4bdd-aba2-fbb972d24a35_Llusion.jpg?auto=compress,format&rect=0,0,1200,1184&w=1024&h=1010",
-					"alt": "Llusion",
+					"url": "https://images.prismic.io/x-track-mag/01a4be9e-4210-46bf-9e91-ea1400897e25_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 1010,
-					"ratio": 1.0138613861386139
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/4328f335-573e-4583-a49f-d259d2265d15_Jujuboy+Star.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
@@ -103,20 +103,20 @@
 					"ratio": 0.8569037656903765
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f6cf48e3-fa1b-46ba-8634-1d3ca2f2a7bb_Yung+L.jpg?auto=compress,format&rect=0,0,2500,2500&w=1024&h=1024",
-					"alt": "Yung L",
+					"url": "https://images.prismic.io/x-track-mag/cf2a2cb7-953f-4dd5-b2dd-4c4f534a8ef0_Akacia%2B.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Akacia",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/01a4be9e-4210-46bf-9e91-ea1400897e25_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/a5eb7f69-aa59-4bdd-aba2-fbb972d24a35_Llusion.jpg?auto=compress,format&rect=0,0,1200,1184&w=1024&h=1010",
+					"alt": "Llusion",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1010,
+					"ratio": 1.0138613861386139
 				}
 			]
 		},
