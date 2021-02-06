@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-01-31T08:54:50+0000",
+	"publication_date": "2021-02-06T18:18:13+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/29f20a0c-1366-4603-a506-88a81cdf3416_Rad-Cartier-VT-Zoom.jpg?auto=compress,format",
-		"alt": "Rad Cartier VT Zoom",
+		"url": "https://images.prismic.io/x-track-mag/45038464-2684-46c7-8ccd-4d769fff65e0_Vanjess.jpg?auto=compress,format",
+		"alt": "Vanjess",
 		"copyright": null,
-		"width": 1600,
-		"height": 1600,
-		"ratio": 1
+		"width": 3000,
+		"height": 2176,
+		"ratio": 1.3786764705882353
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/29f20a0c-1366-4603-a506-88a81cdf3416_Rad-Cartier-VT-Zoom.jpg?auto=compress,format",
-				"alt": "Rad Cartier VT Zoom",
+				"url": "https://images.prismic.io/x-track-mag/45038464-2684-46c7-8ccd-4d769fff65e0_Vanjess.jpg?auto=compress,format",
+				"alt": "Vanjess",
 				"copyright": null,
-				"width": 1600,
-				"height": 1600,
-				"ratio": 1
+				"width": 3000,
+				"height": 2176,
+				"ratio": 1.3786764705882353
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "DWY, Rad Cartier x Jäde, Rilès x Leone x Younès x Terry, Nelson Freitas x Mr Eazi, Blaq Diamond, Arlo Parks, Michael Brun x Shay Lia, DijahSB, MKSTN, Michelle, Jäde, Yung L x Shank, FKA Twigs x Headie One x Fred Again, dvsn x Popcaan, Mr Eazi, Khruangbin x Knxwlege, Blundetto x Hindi Zahra & +++👆🏽👆🎼🎧",
+					"text": "Jujuboy Star, Vanjess x Phony Ppl, Kito x Vanjess x Channel Tres, Kislaw x Akacia, Terri, Alex Lustig x Akacia, Joeboy, Rhye, Arlo Parks, Llusion x Loveleo, Unusual Demont, Yung L x Tiggs Da Author, Blundetto, Chaton, Connor & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -66,24 +66,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b43a0f1a-a2c2-49f9-9531-c6ae92987b8d_DWY.jpg?auto=compress,format&rect=0,0,2048,1354&w=1024&h=677",
-					"alt": "DWY",
-					"copyright": null,
-					"width": 1024,
-					"height": 677,
-					"ratio": 1.5125553914327918
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/dd5bdf8f-a04e-4699-8004-73e42fb44069_Jade+Romance+COVER.jpg?auto=compress,format&rect=0,0,2500,2500&w=1024&h=1024",
-					"alt": "Jäde Romance",
+					"url": "https://images.prismic.io/x-track-mag/42666378-f3b5-45ee-a29f-102cd05c8637_Phony+PPl.jpg?auto=compress,format&rect=0,0,1365,1365&w=1024&h=1024",
+					"alt": "Phony Ppl",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/071c08b0-a613-47a0-a647-8f558b650db4_Mr+Eazi.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Mr Eazi",
+					"url": "https://images.prismic.io/x-track-mag/a5eb7f69-aa59-4bdd-aba2-fbb972d24a35_Llusion.jpg?auto=compress,format&rect=0,0,1200,1184&w=1024&h=1010",
+					"alt": "Llusion",
+					"copyright": null,
+					"width": 1024,
+					"height": 1010,
+					"ratio": 1.0138613861386139
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4328f335-573e-4583-a49f-d259d2265d15_Jujuboy+Star.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
+					"alt": "Jujuboy Star",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -95,28 +95,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e038fe84-0181-4fa8-8dfd-be76909e54ed_FKA+Twigs.jpg?auto=compress,format&rect=0,0,753,1136&w=1024&h=1545",
-					"alt": "FKA Twigs",
+					"url": "https://images.prismic.io/x-track-mag/35e583e5-45e0-4ead-824f-ef0c063c3441_Loveleo.jpg?auto=compress,format&rect=0,0,1028,1200&w=1024&h=1195",
+					"alt": "Loveloe",
 					"copyright": null,
 					"width": 1024,
-					"height": 1545,
-					"ratio": 0.6627831715210356
+					"height": 1195,
+					"ratio": 0.8569037656903765
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/492bd6c3-1987-44bc-ad43-4637ad7aacb5_Michelle.+.jpg?auto=compress,format&rect=0,0,1439,960&w=1024&h=683",
-					"alt": "Michelle",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e10449c7-b6c2-452f-bd77-28cce7120743_Yung+L+Yaadman+cover.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/f6cf48e3-fa1b-46ba-8634-1d3ca2f2a7bb_Yung+L.jpg?auto=compress,format&rect=0,0,2500,2500&w=1024&h=1024",
 					"alt": "Yung L",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/01a4be9e-4210-46bf-9e91-ea1400897e25_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "Arlo Parks",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -124,16 +124,16 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=DjWkajR5QdWn9Pqn2pMgAA",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=joRSUxjnTt21OFBuMCIvlg",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-jV89GMDCBAyYV",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9l7kaFDY8qp",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
-					"title": "Best ”XTrack“ of The Week playlist | Listen on Deezer"
+					"title": "Best ”XTrack“ of The Week"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
