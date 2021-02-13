@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-02-06T18:33:37+0000",
+	"publication_date": "2021-02-13T21:53:29+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/45038464-2684-46c7-8ccd-4d769fff65e0_Vanjess.jpg?auto=compress,format",
-		"alt": "Vanjess",
+		"url": "https://images.prismic.io/x-track-mag/11db2889-ade2-4df1-ba18-50424e4af850_Raveena.+.jpg?auto=compress,format",
+		"alt": "Raveena\n",
 		"copyright": null,
-		"width": 3000,
-		"height": 2176,
-		"ratio": 1.3786764705882353
+		"width": 1200,
+		"height": 1072,
+		"ratio": 1.1194029850746268
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/45038464-2684-46c7-8ccd-4d769fff65e0_Vanjess.jpg?auto=compress,format",
-				"alt": "Vanjess",
+				"url": "https://images.prismic.io/x-track-mag/11db2889-ade2-4df1-ba18-50424e4af850_Raveena.+.jpg?auto=compress,format",
+				"alt": "Raveena\n",
 				"copyright": null,
-				"width": 3000,
-				"height": 2176,
-				"ratio": 1.3786764705882353
+				"width": 1200,
+				"height": 1072,
+				"ratio": 1.1194029850746268
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Jujuboy Star, Vanjess x Phony Ppl, Kito x Vanjess x Channel Tres, Kislaw x Akacia, Terri, Alex Lustig x Akacia, Joeboy, Rhye, Arlo Parks, Llusion x Loveleo, Unusual Demont, Yung L x Tiggs Da Author, Blundetto, Chaton, Connor & +++👆🏽👆🎼🎧",
+					"text": "Raveena, Vanjess x  Devin Morrison, Yung L, Bankulli x Not3s, Rae Khalil, Joanna, Jesse10s x Jekasole, Arlo Parks, Billy Idol x Poolside, Kali Uchis, Rhye, Luna Li, Maye, Black Pumas x Hypnotic Brass Ensemble, Thee Sacred Souls, Biig Piig, Lion Babe, Syd, Buscabulla & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -66,28 +66,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/42666378-f3b5-45ee-a29f-102cd05c8637_Phony+PPl.jpg?auto=compress,format&rect=0,0,1365,1365&w=1024&h=1024",
-					"alt": "Phony Ppl",
+					"url": "https://images.prismic.io/x-track-mag/ef8115be-cad3-4544-a5a1-54006fea58ea_Kali+Uchis.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
+					"alt": "Kali Uchis",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/98a77cba-cefb-4a5d-bec7-4d0928d80abc_Joanna.jpg?auto=compress,format&rect=0,0,1629,1629&w=1024&h=1024",
+					"alt": "Joanna",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/01a4be9e-4210-46bf-9e91-ea1400897e25_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/67507446-1796-4319-a494-a02926a6bff0_Buscabulla.jpg?auto=compress,format&rect=0,0,2250,1470&w=1024&h=669",
+					"alt": "Buscabulla",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/4328f335-573e-4583-a49f-d259d2265d15_Jujuboy+Star.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
-					"alt": "Jujuboy Star",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 669,
+					"ratio": 1.5306427503736921
 				}
 			]
 		},
@@ -95,28 +95,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/35e583e5-45e0-4ead-824f-ef0c063c3441_Loveleo.jpg?auto=compress,format&rect=0,0,1028,1200&w=1024&h=1195",
-					"alt": "Loveloe",
-					"copyright": null,
-					"width": 1024,
-					"height": 1195,
-					"ratio": 0.8569037656903765
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/cf2a2cb7-953f-4dd5-b2dd-4c4f534a8ef0_Akacia%2B.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Akacia",
+					"url": "https://images.prismic.io/x-track-mag/a4a0456b-0fab-4e23-b85d-d5facda1d92f_Lion+Babe.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Lion Babe",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a5eb7f69-aa59-4bdd-aba2-fbb972d24a35_Llusion.jpg?auto=compress,format&rect=0,0,1200,1184&w=1024&h=1010",
-					"alt": "Llusion",
+					"url": "https://images.prismic.io/x-track-mag/4e78c562-77b6-4c68-97b5-69665447508f_maye.jpg?auto=compress,format&rect=0,0,2399,1600&w=1024&h=683",
+					"alt": "Maye",
 					"copyright": null,
 					"width": 1024,
-					"height": 1010,
-					"ratio": 1.0138613861386139
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/bbc56568-c99c-468b-a5d1-252065a4c68a_Luna+Li.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Luna Li",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -124,11 +124,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=joRSUxjnTt21OFBuMCIvlg",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=1zIX5EeUScqrSVffwpYZdw",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9l7kaFDY8qp",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA546mI2GKqr",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

@@ -120,16 +120,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-02-06T18:33:37+0000",
+			"publication_date": "2021-02-13T21:53:29+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/45038464-2684-46c7-8ccd-4d769fff65e0_Vanjess.jpg?auto=compress,format",
-				"alt": "Vanjess",
+				"url": "https://images.prismic.io/x-track-mag/11db2889-ade2-4df1-ba18-50424e4af850_Raveena.+.jpg?auto=compress,format",
+				"alt": "Raveena\n",
 				"copyright": null,
-				"width": 3000,
-				"height": 2176,
-				"ratio": 1.3786764705882353
+				"width": 1200,
+				"height": 1072,
+				"ratio": 1.1194029850746268
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
