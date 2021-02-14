@@ -8,8 +8,7 @@
 	],
 	"pinned_posts": [
 		{
-			"position": 1,
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+			"position": 1
 		},
 		{
 			"position": 2,
@@ -22,6 +21,10 @@
 		{
 			"position": 4,
 			"uid": "2020-is-the-year"
+		},
+		{
+			"position": 5,
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
 			"position": 6,
@@ -94,26 +97,24 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T22:52:14+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2021-02-14T15:36:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
 			},
 			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
+			"template": "3: Image + Titre",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "bestxtrackoftheweek",
@@ -175,24 +176,26 @@
 			"description": ""
 		},
 		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2021-02-14T15:36:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
 			},
 			"video_loop": null,
-			"template": "3: Image + Titre",
+			"template": "5: 2 colonnes Titre + Image",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
