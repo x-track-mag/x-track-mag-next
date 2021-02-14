@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-02-13T22:22:43+0000",
+	"publication_date": "2021-02-14T09:08:00+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -82,12 +82,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/67507446-1796-4319-a494-a02926a6bff0_Buscabulla.jpg?auto=compress,format&rect=0,0,2250,1470&w=1024&h=669",
-					"alt": "Buscabulla",
+					"url": "https://images.prismic.io/x-track-mag/4e78c562-77b6-4c68-97b5-69665447508f_maye.jpg?auto=compress,format&rect=0,0,2399,1600&w=1024&h=683",
+					"alt": "Maye",
 					"copyright": null,
 					"width": 1024,
-					"height": 669,
-					"ratio": 1.5306427503736921
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
@@ -103,12 +103,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4e78c562-77b6-4c68-97b5-69665447508f_maye.jpg?auto=compress,format&rect=0,0,2399,1600&w=1024&h=683",
-					"alt": "Maye",
+					"url": "https://images.prismic.io/x-track-mag/67507446-1796-4319-a494-a02926a6bff0_Buscabulla.jpg?auto=compress,format&rect=0,0,2250,1470&w=1024&h=669",
+					"alt": "Buscabulla",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 669,
+					"ratio": 1.5306427503736921
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/97b23824-7d52-48df-8cbd-e7dc326ca445_Raveena.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
