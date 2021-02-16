@@ -1,0 +1,114 @@
+{
+	"uid": "new-romance",
+	"tags": [],
+	"publication_date": "2021-02-16T19:10:37+0000",
+	"title": "New Romance",
+	"subtitle": "100% Chill, Cool, Love",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 1200,
+		"height": 1200,
+		"ratio": 1
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": "New Romance",
+			"subtitle": "100% Chill, Cool, Love",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
+				"alt": "Biig Piig, Lous & the Yakuza, Slenderbodies x Crooked Colors,  Unusual Demont, Arlo Parks, Jäde, Honne, Sault, Rilès x Leon x Younès x Terry, Chiiilld x Shunguzdo, Blackstarkids, Fred Again, Miles from Kinshasa, Hope Tala, Maye & +++ enjoy",
+				"copyright": null,
+				"width": 1200,
+				"height": 1200,
+				"ratio": 1
+			}
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/bb531882-4c13-4afb-a43f-53094c3fcf66_Lou+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1200,1348&w=1024&h=1150",
+					"alt": "Lous & the Yakuza",
+					"copyright": null,
+					"width": 1024,
+					"height": 1150,
+					"ratio": 0.8904347826086957
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aa5df79f-b293-4833-b7ba-47647584f0dd_Clairo.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Clairo",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4288735d-a444-477c-a142-ce1bea8f03ff_Oklou+.jpg?auto=compress,format&rect=0,0,1900,907&w=1024&h=489",
+					"alt": "Oklou",
+					"copyright": null,
+					"width": 1024,
+					"height": 489,
+					"ratio": 2.094069529652352
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/a4a67c66-cd1b-469a-99af-ce4295a26be4_Arlo+Parks.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "Arlo Parks",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e677b093-e99d-4ad3-ae82-3a993f737b7a_Chlobocop+.jpg?auto=compress,format&rect=0,0,548,548&w=1024&h=1024",
+					"alt": "Chlobocop",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/7b5be50f-562e-4f25-bf7c-bec8580b83e6_Chi+Virgo.jpg?auto=compress,format&rect=0,0,1200,700&w=1024&h=597",
+					"alt": "Chi Virgo",
+					"copyright": null,
+					"width": 1024,
+					"height": 597,
+					"ratio": 1.7152428810720268
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=Xez80dzUSfuRT2G_DKzAHQ",
+					"title": "New romance"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-jV89GWNtBAyYV",
+					"title": "New romance par XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/5281964882",
+					"title": "New romance"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDMUA9bisL8vy_ZtGzDX7Dd",
+					"title": "New romance"
+				}
+			]
+		}
+	],
+	"description": "Playlist Chill, Cool, Love"
+}
