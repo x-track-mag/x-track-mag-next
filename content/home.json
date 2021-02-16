@@ -11,10 +11,6 @@
 			"position": 1
 		},
 		{
-			"position": 2,
-			"uid": "bestxtrackoftheweek"
-		},
-		{
 			"position": 3,
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
@@ -24,10 +20,14 @@
 		},
 		{
 			"position": 5,
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 6,
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+		},
+		{
+			"position": 7,
 			"uid": "les-apparences-trompeuses-du-pretty-privilege"
 		},
 		{
@@ -37,9 +37,6 @@
 		{
 			"position": 10,
 			"uid": "nola-cherri"
-		},
-		{
-			"position": 13
 		}
 	],
 	"selected_reads": [
@@ -116,26 +113,24 @@
 			"description": "Playlist Chill, Cool, Love"
 		},
 		{
-			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-02-14T09:08:00+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2021-02-14T15:36:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
+			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/11db2889-ade2-4df1-ba18-50424e4af850_Raveena.+.jpg?auto=compress,format",
-				"alt": "Raveena\n",
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1200,
-				"height": 1072,
-				"ratio": 1.1194029850746268
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
 			},
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
@@ -173,6 +168,28 @@
 				"type": "page"
 			},
 			"description": ""
+		},
+		{
+			"uid": "bestxtrackoftheweek",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-02-14T09:08:00+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/11db2889-ade2-4df1-ba18-50424e4af850_Raveena.+.jpg?auto=compress,format",
+				"alt": "Raveena\n",
+				"copyright": null,
+				"width": 1200,
+				"height": 1072,
+				"ratio": 1.1194029850746268
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
@@ -217,26 +234,6 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "Les apparences trompeuses du pretty privilege"
-		},
-		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2021-02-14T15:36:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "in-love",
