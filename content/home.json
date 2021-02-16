@@ -11,6 +11,10 @@
 			"position": 1
 		},
 		{
+			"position": 2,
+			"uid": "page"
+		},
+		{
 			"position": 3,
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
