@@ -11,7 +11,7 @@
 			"position": 1
 		},
 		{
-			"position": 2,
+			"position": 1,
 			"uid": "page"
 		},
 		{
@@ -97,26 +97,6 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "new-romance",
-			"tags": [],
-			"publication_date": "2021-02-16T19:10:37+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill, Cool, Love",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 1200,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
-		},
-		{
 			"uid": "page",
 			"tags": [],
 			"publication_date": "2021-02-14T15:36:30+0000",
@@ -135,6 +115,26 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "La mode éthique : classe ou classiste ?                              "
+		},
+		{
+			"uid": "new-romance",
+			"tags": [],
+			"publication_date": "2021-02-16T19:10:37+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill, Cool, Love",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 1200,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
