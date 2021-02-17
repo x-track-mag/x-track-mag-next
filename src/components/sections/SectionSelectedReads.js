@@ -29,7 +29,6 @@ const SectionSelectedReads = ({ uid, selected_reads = [] }) => (
 							key={`read-${i}`}
 							width="100%"
 							height="100%"
-							bgColor="gray"
 							position="relative"
 							flexDirection="column"
 							alignItems="center"
