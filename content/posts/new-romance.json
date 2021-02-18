@@ -1,7 +1,7 @@
 {
 	"uid": "new-romance",
 	"tags": [],
-	"publication_date": "2021-02-17T08:16:29+0000",
+	"publication_date": "2021-02-18T07:35:45+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill, Cool, Love",
 	"image": {
@@ -44,16 +44,16 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/bb531882-4c13-4afb-a43f-53094c3fcf66_Lou+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1200,1348&w=1024&h=1150",
-					"alt": "Lous & the Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/73ec703a-6bbf-42aa-87f6-db1e4c2e6a60_LOUS-THE-YAKUZA.jpg?auto=compress,format&rect=0,0,1314,1314&w=1024&h=1024",
+					"alt": "Lous & the Yakouza",
 					"copyright": null,
 					"width": 1024,
-					"height": 1150,
-					"ratio": 0.8904347826086957
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aa5df79f-b293-4833-b7ba-47647584f0dd_Clairo.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Clairo",
+					"url": "https://images.prismic.io/x-track-mag/e677b093-e99d-4ad3-ae82-3a993f737b7a_Chlobocop+.jpg?auto=compress,format&rect=0,0,548,548&w=1024&h=1024",
+					"alt": "Chlobocop",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -81,8 +81,8 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e677b093-e99d-4ad3-ae82-3a993f737b7a_Chlobocop+.jpg?auto=compress,format&rect=0,0,548,548&w=1024&h=1024",
-					"alt": "Chlobocop",
+					"url": "https://images.prismic.io/x-track-mag/aa5df79f-b293-4833-b7ba-47647584f0dd_Clairo.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Clairo",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
