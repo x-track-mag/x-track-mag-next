@@ -117,26 +117,6 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "new-romance",
-			"tags": [],
-			"publication_date": "2021-02-18T07:43:39+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill, Cool, Love",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 1200,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
-		},
-		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
 			"tags": [
 				"video"
@@ -174,20 +154,40 @@
 			"description": ""
 		},
 		{
+			"uid": "new-romance",
+			"tags": [],
+			"publication_date": "2021-02-18T07:43:39+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill, Cool, Love",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 1200,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Playlist Chill, Cool, Love"
+		},
+		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-02-14T09:08:00+0000",
+			"publication_date": "2021-02-20T18:50:42+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/11db2889-ade2-4df1-ba18-50424e4af850_Raveena.+.jpg?auto=compress,format",
-				"alt": "Raveena\n",
+				"url": "https://images.prismic.io/x-track-mag/4555b56b-b214-466e-8fee-019eaaaea133_Lava+La+Rue.jpg?auto=compress,format",
+				"alt": "Lava La Rue",
 				"copyright": null,
-				"width": 1200,
-				"height": 1072,
-				"ratio": 1.1194029850746268
+				"width": 1945,
+				"height": 1945,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

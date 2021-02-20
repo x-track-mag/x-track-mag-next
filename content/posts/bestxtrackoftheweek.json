@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-02-14T09:08:00+0000",
+	"publication_date": "2021-02-20T18:50:42+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/11db2889-ade2-4df1-ba18-50424e4af850_Raveena.+.jpg?auto=compress,format",
-		"alt": "Raveena\n",
+		"url": "https://images.prismic.io/x-track-mag/4555b56b-b214-466e-8fee-019eaaaea133_Lava+La+Rue.jpg?auto=compress,format",
+		"alt": "Lava La Rue",
 		"copyright": null,
-		"width": 1200,
-		"height": 1072,
-		"ratio": 1.1194029850746268
+		"width": 1945,
+		"height": 1945,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +24,12 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/11db2889-ade2-4df1-ba18-50424e4af850_Raveena.+.jpg?auto=compress,format",
-				"alt": "Raveena\n",
+				"url": "https://images.prismic.io/x-track-mag/4555b56b-b214-466e-8fee-019eaaaea133_Lava+La+Rue.jpg?auto=compress,format",
+				"alt": "Lava La Rue",
 				"copyright": null,
-				"width": 1200,
-				"height": 1072,
-				"ratio": 1.1194029850746268
+				"width": 1945,
+				"height": 1945,
+				"ratio": 1
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Raveena, Vanjess x  Devin Morrison, Yung L, Bankulli x Not3s, Rae Khalil, Joanna, Jesse10s x Jekasole, Arlo Parks, Billy Idol x Poolside, Kali Uchis, Rhye, Luna Li, Maye, Black Pumas x Hypnotic Brass Ensemble, Thee Sacred Souls, Biig Piig, Lion Babe, Syd, Buscabulla & +++👆🏽👆🎼🎧",
+					"text": "Mr Eazi, Still Woozy, Lava La Rue x Deb Never,  Lauren Faith, Zula x glue70, L'imperatrice x Montmartre, Moods x Nic Hanson, Kaytranada, Philkeyz x Yemi Alade, Arlo Parks, Lala &ce, Fredfades x Ivan Ave, PsychoYP x  Tomi Agape x Jaylon, Enny x Baker Aaron, Shura x Rosie Lowe, Mahalia x Rico Nasty, Genesis Owusu, dijahSB x Harrison, Lucky Daye x Mahalia, Donzer, amaria & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -66,28 +66,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ef8115be-cad3-4544-a5a1-54006fea58ea_Kali+Uchis.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
-					"alt": "Kali Uchis",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/98a77cba-cefb-4a5d-bec7-4d0928d80abc_Joanna.jpg?auto=compress,format&rect=0,0,1629,1629&w=1024&h=1024",
-					"alt": "Joanna",
+					"url": "https://images.prismic.io/x-track-mag/fe897645-7b0b-4209-87c8-017f2c77c43c_Mahalia+x+Rico+Nasty.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Mahalia x Rico Nasty",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4e78c562-77b6-4c68-97b5-69665447508f_maye.jpg?auto=compress,format&rect=0,0,2399,1600&w=1024&h=683",
-					"alt": "Maye",
+					"url": "https://images.prismic.io/x-track-mag/38ea03da-afbe-4897-a616-6d521281e6cd_Lala+%26ce.jpg?auto=compress,format&rect=0,0,1200,898&w=1024&h=766",
+					"alt": "Lala &ce",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 766,
+					"ratio": 1.3368146214099217
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/60f32a6e-741b-47b8-ba25-55fe07d9ecc8_Genesis+Owusu.jpg?auto=compress,format&rect=0,0,1999,1353&w=1024&h=693",
+					"alt": "Genesis Owusu",
+					"copyright": null,
+					"width": 1024,
+					"height": 693,
+					"ratio": 1.4776334776334776
 				}
 			]
 		},
@@ -95,28 +95,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a4a0456b-0fab-4e23-b85d-d5facda1d92f_Lion+Babe.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Lion Babe",
+					"url": "https://images.prismic.io/x-track-mag/9d960c4a-4e78-4eb6-b12b-b3620f2b2e2e_Tommy+Agape.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Tommy Agape",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/67507446-1796-4319-a494-a02926a6bff0_Buscabulla.jpg?auto=compress,format&rect=0,0,2250,1470&w=1024&h=669",
-					"alt": "Buscabulla",
+					"url": "https://images.prismic.io/x-track-mag/b2a9cde4-f53a-4f1e-9b43-38aca1cd688d_mr-eazi.jpg?auto=compress,format&rect=0,0,1820,1024&w=1024&h=576",
+					"alt": "Mr. Eazi",
 					"copyright": null,
 					"width": 1024,
-					"height": 669,
-					"ratio": 1.5306427503736921
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/97b23824-7d52-48df-8cbd-e7dc326ca445_Raveena.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Raveena",
+					"url": "https://images.prismic.io/x-track-mag/f277a141-c0b5-4406-b3c9-206a087fc33f_Lauren+Faith.jpg?auto=compress,format&rect=0,0,1875,1875&w=1024&h=1024",
+					"alt": "Lauren Faith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
