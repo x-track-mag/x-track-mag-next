@@ -15,6 +15,10 @@
 			"uid": "page"
 		},
 		{
+			"position": 2,
+			"uid": "bestxtrackoftheweek"
+		},
+		{
 			"position": 3,
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
@@ -24,7 +28,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "bestxtrackoftheweek"
+			"uid": "new-romance"
 		},
 		{
 			"position": 6,
@@ -117,6 +121,28 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
+			"uid": "bestxtrackoftheweek",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-02-20T18:52:24+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4555b56b-b214-466e-8fee-019eaaaea133_Lava+La+Rue.jpg?auto=compress,format",
+				"alt": "Lava La Rue",
+				"copyright": null,
+				"width": 1945,
+				"height": 1945,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist des meilleurs sons de la semaine"
+		},
+		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
 			"tags": [
 				"video"
@@ -172,28 +198,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Playlist Chill, Cool, Love"
-		},
-		{
-			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-02-20T18:52:24+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4555b56b-b214-466e-8fee-019eaaaea133_Lava+La+Rue.jpg?auto=compress,format",
-				"alt": "Lava La Rue",
-				"copyright": null,
-				"width": 1945,
-				"height": 1945,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
