@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-02-21T09:17:57+0000",
+	"publication_date": "2021-02-27T20:36:54+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/4555b56b-b214-466e-8fee-019eaaaea133_Lava+La+Rue.jpg?auto=compress,format",
-		"alt": "Lava La Rue",
+		"url": "https://images.prismic.io/x-track-mag/87f73d2a-5d2e-4a91-aa05-fdd05b25628c_Serpentwithfeet.jpg?auto=compress,format",
+		"alt": "Serpentwithfeet",
 		"copyright": null,
-		"width": 1945,
-		"height": 1945,
+		"width": 3000,
+		"height": 3000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -24,11 +24,11 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4555b56b-b214-466e-8fee-019eaaaea133_Lava+La+Rue.jpg?auto=compress,format",
-				"alt": "Lava La Rue",
+				"url": "https://images.prismic.io/x-track-mag/87f73d2a-5d2e-4a91-aa05-fdd05b25628c_Serpentwithfeet.jpg?auto=compress,format",
+				"alt": "Serpentwithfeet",
 				"copyright": null,
-				"width": 1945,
-				"height": 1945,
+				"width": 3000,
+				"height": 3000,
 				"ratio": 1
 			}
 		},
@@ -47,7 +47,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Lava La Rue, Mr Eazi, Still Woozy, Lauren Faith, Zula x glue70, L'imperatrice x Montmartre, Moods x Nic Hanson, Kaytranada, Philkeyz x Yemi Alade, Arlo Parks, Lala &ce, Fredfades x Ivan Ave, PsychoYP x  Tomi Agape x Jaylon, Enny x Baker Aaron, Shura x Rosie Lowe, Mahalia x Rico Nasty, Genesis Owusu, dijahSB x Harrison, Lucky Daye x Mahalia, Donzer, amaria & +++👆🏽👆🎼🎧",
+					"text": "Biga Ranx, Mr Eazi, Lava La Rue x Deb Never,  SG Lewis x Lucky Day, Brijean, Zinoleesky x Mayorkum x Busiswa, Noname, Nova x Fasina, Jorja Smith x Oboy, Popcaan, Chwezimadeit x Rickman Manrick x Pasha Amaro, Syra, Soft, Kamauu x Adeline x Masego, Lous & the Yakuza, Iamalex, Zubi x Anatu x Esti, DWY, Mr Hong x Michele, Feu Chatterton, Serpentwithfeet & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -66,28 +66,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/fe897645-7b0b-4209-87c8-017f2c77c43c_Mahalia+x+Rico+Nasty.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": "Mahalia x Rico Nasty",
+					"url": "https://images.prismic.io/x-track-mag/6fd48c13-30eb-4190-b46b-13f7c387b1d8_Syra.jpg?auto=compress,format&rect=0,0,798,1000&w=1024&h=1283",
+					"alt": "Syra",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1283,
+					"ratio": 0.7981293842556508
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/38ea03da-afbe-4897-a616-6d521281e6cd_Lala+%26ce.jpg?auto=compress,format&rect=0,0,1200,898&w=1024&h=766",
-					"alt": "Lala &ce",
+					"url": "https://images.prismic.io/x-track-mag/64053587-a95c-4344-bfae-c0c8ff5ab43d_Feu+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
+					"alt": "Feu Chatterton",
 					"copyright": null,
 					"width": 1024,
-					"height": 766,
-					"ratio": 1.3368146214099217
+					"height": 819,
+					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/60f32a6e-741b-47b8-ba25-55fe07d9ecc8_Genesis+Owusu.jpg?auto=compress,format&rect=0,0,1999,1353&w=1024&h=693",
-					"alt": "Genesis Owusu",
+					"url": "https://images.prismic.io/x-track-mag/75b2a005-921b-4f58-8537-115ea15fbeb2_lava-la-rue.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Lava La Rue",
 					"copyright": null,
 					"width": 1024,
-					"height": 693,
-					"ratio": 1.4776334776334776
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				}
 			]
 		},
@@ -95,24 +95,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9d960c4a-4e78-4eb6-b12b-b3620f2b2e2e_Tommy+Agape.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Tommy Agape",
+					"url": "https://images.prismic.io/x-track-mag/f9d17c33-134b-4585-b5dd-8faa9b284982_Noname.jpg?auto=compress,format&rect=0,0,960,957&w=1024&h=1021",
+					"alt": "Noname",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1021,
+					"ratio": 1.0029382957884427
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b2a9cde4-f53a-4f1e-9b43-38aca1cd688d_mr-eazi.jpg?auto=compress,format&rect=0,0,1820,1024&w=1024&h=576",
-					"alt": "Mr. Eazi",
+					"url": "https://images.prismic.io/x-track-mag/a559ba63-26c7-48c0-a8bf-f089e2d8719e_Lous+%26+The+Yakuza.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Lous & the Yakuza",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f277a141-c0b5-4406-b3c9-206a087fc33f_Lauren+Faith.jpg?auto=compress,format&rect=0,0,1875,1875&w=1024&h=1024",
-					"alt": "Lauren Faith",
+					"url": "https://images.prismic.io/x-track-mag/0ecdaaeb-3a6a-4896-bb92-5c01ef65ca9e_SG+Lewis+x+Lucky+Day.jpg?auto=compress,format&rect=0,0,800,800&w=1024&h=1024",
+					"alt": "SG Lewis x Lucky Day",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -124,11 +124,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=T2xpvqgARrKXVnl0Y-bwQg",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=xT7xbKeCSQOfLK0HL7vddw",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqRYLc2XgBo",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqR1Dh2XgBo",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
