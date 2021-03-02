@@ -1,0 +1,56 @@
+{
+	"uid": "yayayayoutube-ep-2--fatima-antoinette",
+	"tags": [],
+	"publication_date": "2021-03-02T17:03:19+0000",
+	"title": "Yayayayoutube EP 2 : Fatima Antoinette ",
+	"subtitle": "Sexion Gaming",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/ce193ab8-2573-4fd9-9153-875fabdc0e19_j.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 2860,
+		"height": 1614,
+		"ratio": 1.771995043370508
+	},
+	"video_loop": null,
+	"template": "3: Image + Titre",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-video-launcher",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride. ",
+					"spans": []
+				}
+			],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "Yayayayoutube EP 2 : Fatima Antoinette / Sexion Gaming",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/jvxHq6uJpVI/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/jvxHq6uJpVI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=jvxHq6uJpVI&feature=youtu.be"
+			},
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ce193ab8-2573-4fd9-9153-875fabdc0e19_j.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2860,
+				"height": 1614,
+				"ratio": 1.771995043370508
+			}
+		}
+	],
+	"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+}
