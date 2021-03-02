@@ -12,7 +12,7 @@
 		},
 		{
 			"position": 1,
-			"uid": "page"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 2,
@@ -20,7 +20,7 @@
 		},
 		{
 			"position": 3,
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+			"uid": "page"
 		},
 		{
 			"position": 4,
@@ -41,6 +41,10 @@
 		{
 			"position": 8,
 			"uid": "in-love"
+		},
+		{
+			"position": 9,
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
 			"position": 10,
@@ -101,24 +105,24 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "page",
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
 			"tags": [],
-			"publication_date": "2021-02-14T15:36:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
-			"subtitle": "",
+			"publication_date": "2021-03-02T17:05:10+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/ce193ab8-2573-4fd9-9153-875fabdc0e19_j.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
+				"width": 2860,
+				"height": 1614,
+				"ratio": 1.771995043370508
 			},
 			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
+			"author": null,
 			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
 			"uid": "bestxtrackoftheweek",
@@ -143,23 +147,24 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2020-12-16T11:38:09+0000",
-			"title": "Episode 1 : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2021-02-14T15:36:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
 			},
+			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": null,
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "2020-is-the-year",
@@ -264,24 +269,23 @@
 			"description": "Our favorite Love & Cool Songs… Enjoy"
 		},
 		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
-			"tags": [],
-			"publication_date": "2021-03-02T17:05:10+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ce193ab8-2573-4fd9-9153-875fabdc0e19_j.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2860,
-				"height": 1614,
-				"ratio": 1.771995043370508
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2020-12-16T11:38:09+0000",
+			"title": "Episode 1 : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
 			},
-			"video_loop": null,
 			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "nola-cherri",
