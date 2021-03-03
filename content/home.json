@@ -107,18 +107,15 @@
 		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
 			"tags": [],
-			"publication_date": "2021-03-02T17:05:10+0000",
+			"publication_date": "2021-03-03T11:30:19+0000",
 			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
 			"subtitle": "Sexion Gaming",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ce193ab8-2573-4fd9-9153-875fabdc0e19_j.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2860,
-				"height": 1614,
-				"ratio": 1.771995043370508
+			"image": null,
+			"video_loop": {
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
 			},
-			"video_loop": null,
 			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
