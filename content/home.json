@@ -16,11 +16,11 @@
 		},
 		{
 			"position": 2,
-			"uid": "bestxtrackoftheweek"
+			"uid": "page"
 		},
 		{
 			"position": 3,
-			"uid": "page"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 4,
@@ -39,16 +39,16 @@
 			"uid": "les-apparences-trompeuses-du-pretty-privilege"
 		},
 		{
-			"position": 8,
-			"uid": "in-love"
-		},
-		{
 			"position": 9,
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
 			"position": 10,
 			"uid": "nola-cherri"
+		},
+		{
+			"position": 11,
+			"uid": "in-love"
 		}
 	],
 	"selected_reads": [
@@ -122,6 +122,26 @@
 			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2021-02-14T15:36:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique : classe ou classiste ?                              "
+		},
+		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
@@ -142,26 +162,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Playlist des meilleurs sons de la semaine"
-		},
-		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2021-02-14T15:36:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "2020-is-the-year",
@@ -246,24 +246,27 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
-			"uid": "in-love",
-			"tags": [],
-			"publication_date": "2021-01-09T20:14:03+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs",
+			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"tags": [
+				"article",
+				"fashion"
+			],
+			"publication_date": "2021-02-02T18:09:17+0000",
+			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/216eb0f4-894d-4dd9-9d56-7efd3b515e85_Swanp+Dogg+%2B.jpg?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
+				"alt": "©",
 				"copyright": null,
-				"width": 2000,
-				"height": 2000,
+				"width": 1080,
+				"height": 1080,
 				"ratio": 1
 			},
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs… Enjoy"
+			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
@@ -305,27 +308,24 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "lavenir-de-la-mode-est-il-virtuel",
-			"tags": [
-				"article",
-				"fashion"
-			],
-			"publication_date": "2021-02-02T18:09:17+0000",
-			"title": "L’Avenir de la Mode est-il virtuel ?",
-			"subtitle": "",
+			"uid": "in-love",
+			"tags": [],
+			"publication_date": "2021-01-09T20:14:03+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
-				"alt": "©",
+				"url": "https://images.prismic.io/x-track-mag/216eb0f4-894d-4dd9-9d56-7efd3b515e85_Swanp+Dogg+%2B.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1080,
-				"height": 1080,
+				"width": 2000,
+				"height": 2000,
 				"ratio": 1
 			},
 			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "L’Avenir de la Mode est-il virtuel ?"
+			"description": "Our favorite Love & Cool Songs… Enjoy"
 		},
 		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
