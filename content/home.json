@@ -147,19 +147,17 @@
 		},
 		{
 			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-02-28T12:50:27+0000",
+			"tags": [],
+			"publication_date": "2021-03-06T18:58:43+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/87f73d2a-5d2e-4a91-aa05-fdd05b25628c_Serpentwithfeet.jpg?auto=compress,format",
-				"alt": "Serpentwithfeet",
+				"url": "https://images.prismic.io/x-track-mag/f486fe77-1573-4de7-a761-6442411f75db_Blu-DeTiger-.jpg?auto=compress,format",
+				"alt": "Blu DeTiger",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 1505,
+				"height": 1133,
+				"ratio": 1.328331862312445
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

@@ -1,18 +1,16 @@
 {
 	"uid": "bestxtrackoftheweek",
-	"tags": [
-		"music"
-	],
-	"publication_date": "2021-02-28T12:50:27+0000",
+	"tags": [],
+	"publication_date": "2021-03-06T18:58:43+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/87f73d2a-5d2e-4a91-aa05-fdd05b25628c_Serpentwithfeet.jpg?auto=compress,format",
-		"alt": "Serpentwithfeet",
+		"url": "https://images.prismic.io/x-track-mag/f486fe77-1573-4de7-a761-6442411f75db_Blu-DeTiger-.jpg?auto=compress,format",
+		"alt": "Blu DeTiger",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
-		"ratio": 1
+		"width": 1505,
+		"height": 1133,
+		"ratio": 1.328331862312445
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,12 +22,12 @@
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Chill Pop Afropop R&B Hip Hop",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/87f73d2a-5d2e-4a91-aa05-fdd05b25628c_Serpentwithfeet.jpg?auto=compress,format",
-				"alt": "Serpentwithfeet",
+				"url": "https://images.prismic.io/x-track-mag/f486fe77-1573-4de7-a761-6442411f75db_Blu-DeTiger-.jpg?auto=compress,format",
+				"alt": "Blu DeTiger",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 1505,
+				"height": 1133,
+				"ratio": 1.328331862312445
 			}
 		},
 		{
@@ -47,7 +45,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Biga Ranx, Mr Eazi, Lava La Rue x Deb Never,  SG Lewis x Lucky Daye, Brijean, Zinoleesky x Mayorkum x Busiswa, Noname, Nova x Fasina, Jorja Smith x Oboy, Popcaan, Chwezimadeit x Rickman Manrick x Pasha Amaro, Syra, Soft, Kamauu x Adeline x Masego, Lous & the Yakuza x Sfera Ebbasta x Shablo, Iamalex, Zubi x Anatu x Esti, DWY, Mr Hong x Michele, Feu Chatterton, Serpentwithfeet & +++👆🏽👆🎼🎧",
+					"text": "Blu DeTiger, Bush Tea, K.Zia, Brijean, Worlasi, Rayvanny x Diamond Platnumz, Emotional Oranges x Biig Piig, PawPaw Rod, Liam Bailey x Lee Scratch Perry, Altin Gün, Lavaud, x Reekado Banks, Alicia Keys x Tierra Whacks,  Saweetie x Stefflon Don x Doja Cats, Wau Wau Collectif, Zubi x Anatu x Gabriel, Niniola & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -66,53 +64,53 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/6fd48c13-30eb-4190-b46b-13f7c387b1d8_Syra.jpg?auto=compress,format&rect=0,0,798,1000&w=1024&h=1283",
-					"alt": "Syra",
+					"url": "https://images.prismic.io/x-track-mag/77686ab8-3635-4210-8810-684b03cc94db_Bush+Tea.jpg?auto=compress,format&rect=0,0,1792,2048&w=1024&h=1170",
+					"alt": "Bush Tea",
 					"copyright": null,
 					"width": 1024,
-					"height": 1283,
-					"ratio": 0.7981293842556508
+					"height": 1170,
+					"ratio": 0.8752136752136752
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/64053587-a95c-4344-bfae-c0c8ff5ab43d_Feu+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
-					"alt": "Feu Chatterton",
+					"url": "https://images.prismic.io/x-track-mag/c4b94f34-1728-47b7-8a17-7367379398a9_Alicia+Keys.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Alicia Keys",
 					"copyright": null,
 					"width": 1024,
-					"height": 819,
-					"ratio": 1.2503052503052503
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/75b2a005-921b-4f58-8537-115ea15fbeb2_lava-la-rue.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Lava La Rue",
-					"copyright": null,
-					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/f9d17c33-134b-4585-b5dd-8faa9b284982_Noname.jpg?auto=compress,format&rect=0,0,960,957&w=1024&h=1021",
-					"alt": "Noname",
-					"copyright": null,
-					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a559ba63-26c7-48c0-a8bf-f089e2d8719e_Lous+%26+The+Yakuza.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Lous & the Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/09e7541a-c9e9-4af4-8c9a-f8be97e64af8_K.ZIA.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "K.Zia",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/55d47520-aeca-4d6f-b3e1-9771db8a241b_Brijean_.jpg?auto=compress,format&rect=0,0,1599,1865&w=1024&h=1194",
+					"alt": "Brijean",
+					"copyright": null,
+					"width": 1024,
+					"height": 1194,
+					"ratio": 0.8576214405360134
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0ecdaaeb-3a6a-4896-bb92-5c01ef65ca9e_SG+Lewis+x+Lucky+Day.jpg?auto=compress,format&rect=0,0,800,800&w=1024&h=1024",
-					"alt": "SG Lewis x Lucky Daye",
+					"url": "https://images.prismic.io/x-track-mag/f111ef9e-ec59-40f1-b3e4-a9007364ce26_Emotional+Oranges+x+Biig+Piig.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Emotional Oranges x Biig Piig",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/614bfaa8-8184-4803-b218-2420fdac7d8d_Alt%C4%B1n-Gu%CC%88n.jpg?auto=compress,format&rect=0,0,1772,1772&w=1024&h=1024",
+					"alt": "Altin Gün",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -128,7 +126,7 @@
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqR1Dh2XgBo",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9l78vFDY8qp",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
