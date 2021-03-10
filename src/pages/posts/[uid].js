@@ -24,7 +24,11 @@ export const PostPage = ({
 		publication_date,
 		tags
 	};
+	// Automatically redisplay Hero section as first section
+
+	const isMusic = tags.includes("music");
 	const isArticle = tags.includes("article");
+	const displayHero = isMusic || isArticle;
 	return (
 		<>
 			<ArticleInfo
@@ -34,11 +38,11 @@ export const PostPage = ({
 				publication_date={publication_date}
 				tags={tags}
 			/>
-			{isArticle && (
+			{displayHero && (
 				<SectionHero
 					article={article}
-					title="--blank--"
-					subtitle="--blank--"
+					title={isArticle ? "--blank--" : title}
+					subtitle={isArticle ? "--blank--" : subtitle}
 					display_credits={true}
 				/>
 			)}
