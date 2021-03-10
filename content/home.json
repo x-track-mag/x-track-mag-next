@@ -27,16 +27,20 @@
 			"uid": "2020-is-the-year"
 		},
 		{
-			"position": 5,
-			"uid": "new-romance"
-		},
-		{
 			"position": 6,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
 			"position": 7,
 			"uid": "les-apparences-trompeuses-du-pretty-privilege"
+		},
+		{
+			"position": 8,
+			"uid": "new-romance"
+		},
+		{
+			"position": 8,
+			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
 			"position": 9,
@@ -186,26 +190,6 @@
 			"description": ""
 		},
 		{
-			"uid": "new-romance",
-			"tags": [],
-			"publication_date": "2021-02-18T07:43:39+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill, Cool, Love",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 1200,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
-		},
-		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 			"tags": [
 				"article"
@@ -248,6 +232,26 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "Les apparences trompeuses du pretty privilege"
+		},
+		{
+			"uid": "new-romance",
+			"tags": [],
+			"publication_date": "2021-02-18T07:43:39+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill, Cool, Love",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 1200,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
