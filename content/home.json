@@ -36,7 +36,7 @@
 		},
 		{
 			"position": 8,
-			"uid": "new-romance"
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
 			"position": 8,
@@ -44,7 +44,7 @@
 		},
 		{
 			"position": 9,
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+			"uid": "new-romance"
 		},
 		{
 			"position": 10,
@@ -234,24 +234,23 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
-			"uid": "new-romance",
-			"tags": [],
-			"publication_date": "2021-02-18T07:43:39+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill, Cool, Love",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 1200,
-				"ratio": 1
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2020-12-16T11:38:09+0000",
+			"title": "Episode 1 : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
 			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
+			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
@@ -276,23 +275,24 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2020-12-16T11:38:09+0000",
-			"title": "Episode 1 : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
+			"uid": "new-romance",
+			"tags": [],
+			"publication_date": "2021-02-18T07:43:39+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill, Cool, Love",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 1200,
+				"ratio": 1
 			},
-			"template": "3: Image + Titre",
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
 			"author": null,
 			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "nola-cherri",
