@@ -1,0 +1,231 @@
+{
+	"uid": "la-muse--une-icone-feministe-",
+	"tags": [
+		"article"
+	],
+	"publication_date": "2021-03-10T16:52:04+0000",
+	"title": "La muse : une icône féministe ? ",
+	"subtitle": "",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 4480,
+		"height": 6720,
+		"ratio": 0.6666666666666666
+	},
+	"video_loop": null,
+	"template": "3: Image + Titre",
+	"author": "Aphelandra Siassa",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": "--blank--",
+			"subtitle": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy, from her series « Virtual Muses »",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			}
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 576,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format&rect=0,0,4480,6720&w=1024&h=1536",
+					"alt": "Photo ©Rebecca Dorothy, from her series « Virtual Muses »",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "“Ô Muse, conte-moi l’aventure de l’inventif.” - L'Odyssée d'Homère ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Cet incipit historique place d’emblée le génie de ce texte au main de la muse, figure fantasmagorique, mystérieuse, vénérée qui a su traverser le temps et l’espace. Source d’inspiration majeure des poètes antiques comme pour  l'aède Homère, puis des artistes de tout temps, la muse a toujours eu une place importante dans le monde créatif.“Elle est à la fois active et passive, elle souffle l’idée au créateur et en même temps, elle peut être admirée et être son inspiration première.” expliquait Olivier Gabet, historien de l’art et directeur du Musée des Arts Décoratifs lors de la conférence “Muses, ces créatures qui inspirent” en octobre dernier. ",
+					"spans": [
+						{
+							"start": 339,
+							"end": 486,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Une position qui s’est renouvelée au fil des siècles, de l’évolution des moeurs et du statut de la femme au sein de la société, et qui la place aujourd’hui en véritable héroïne des temps modernes. Mais un peu d’histoire s’impose. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "heading2",
+					"text": "Du mythe des 9 muses...",
+					"spans": [
+						{
+							"start": 0,
+							"end": 23,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "L'histoire des neuf muses remonte à l’Antiquité. Héroïnes mythologiques, elles sont les filles de Zeus, roi des Dieu dans la mythologie grecque et Mnémosyne, déesse de la mémoire. Toutes ont une particularité, un attribut et une spécialité qui les placent en protectrices d’une discipline artistique ou scientifique. Il y a Calliope, muse de la Poésie Épique, qui porte son stylet et sa tablette de cire. Clio qui est la déesse de l’Histoire. Elle est coiffée d’une couronne de laurier, tient la trompette de renommée et un rouleau de papyrus. Erato, muse de la Poésie Lyrique ayant pour attribut la lyre et le plectre, Euterpe, muse de la Musique, Melpomène celle de la Tragédie. vêtue d’un masque tragique. Polymnie, déesse du chant sacré et de la rhétorique, Terpsichore muse de la danse, Thalie, celle de la comédie et enfin Uranie, la muse de l’astronomie et de l’astrologie qui porte des instruments mathématiques comme le compas. Toutes entourent le dieu Apollon - dieu des arts, de la lumière et de la beauté masculine -, sur le Mont Parnasse et insufflent le génie créateur aux artistes selon la légende. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "heading2",
+					"text": "Aux modèles qui s’incarnent dans l’atelier ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 43,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Bien ancré dans les mœurs et dans les pratiques, ce mythe a traversé les courants et les mouvements artistiques. On retrouve cette figure dans de nombreux écrits antiques, du moyen-âge et de la Renaissance. Mais également dans les ateliers d’artistes, où elles s’incarnent progressivement en modèle posant pour les peintres et les sculpteurs. Parmi les muses célèbres, Simonetta Vespucci, tient une position importante dans l'histoire de l'art. Fille de grands notables génois, elle deviendra l’une des muses les plus remarquées de Sandro Botticelli. Avec sa chevelure couleur or et son port de tête altier, elle inspirera au maître de la Renaissance Italienne la Vénus du tableau la Naissance de Venus. “Simonetta Vespucci incarne la muse, le modèle et le destin. Elle est morte à 23 ans. Botticelli a même demandé d’être enterré au pied de sa tombe pour témoigner de son admiration pour cette femme.” poursuit l’historien de l’art. En Hollande, le peintre Rembrandt au XVIIeme siecle prendra pour modèle sa femme Saskia, figure présente dans de nombreux portraits féminins de l’artiste.  En France, au XIXème siècle, Victorine Meurent, modèle du peintre réaliste Edouard Manet, traverse l'œuvre de l'artiste. A chacune de ses représentations, une forme de sensualité et d’érotisme émane de la toile. Cette muse s’incarne sous un autre visage dans toutes les compositions, tel un caméléon, tantôt courtisane comme dans le célèbre tableau l’Olympia tantôt en toréador dans Mlle V. en costume d’Espada faisant d’elle un personnage multifacette. ",
+					"spans": [
+						{
+							"start": 684,
+							"end": 702,
+							"type": "em"
+						},
+						{
+							"start": 704,
+							"end": 903,
+							"type": "em"
+						},
+						{
+							"start": 1439,
+							"end": 1448,
+							"type": "em"
+						},
+						{
+							"start": 1473,
+							"end": 1500,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "heading2",
+					"text": "Une évolution conjointe de celle des moeurs ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 44,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Avec les peintres préraphaélites, la muse prend une toute autre stature. Elle incarne dorénavant la femme libre, indépendante qui fascine son auditoire. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "“Elisabeth Siddal va incarner avec Jane Morris entre 1840 et 1860 ce qu’est la muse préraphaélite. Le terme ici prend tout son sens. Il y a une fascination pour l’attitude de ces personnages qui sont des femmes extrêmement libres (...) c’est une forme de révolution sociale et du genre. Elle va subjuguer l’ensemble de ces peintres. (...) Elle est rousse, elle est sensuelle, elle est très éloignée des canons de beauté de l’époque.” -Directeur du Musée des Arts Décoratifs.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Une évolution qui rend compte d’un changement progressif du statut la femme au sein de la société. Sur un plan artistique, la muse a davantage le statut d’élèves de maîtres ou d’artistes. Elle n’est plus seulement cantonnée à la posture d’un modèle passif. Elle reprend son rôle actif et va même pour certaines d’entre elles détrôner leurs maîtres. Camille Claudel est peut-être l'un des exemples les plus représentatifs de cette évolution. Élève du sculpteur Auguste Rodin et sculptrice émérite, elle va devenir une source d'inspiration évidente pour le maître français. Maîtresse de l'artiste pendant plusieurs années, plusieurs de ses œuvres et de ses esquisses seront attribués aux sculpteurs sans que son nom ne soit pleinement cité. Après leur séparation, la jeune femme de 24 ans sa cadette, va tenter d’exister par elle-même mais elle ne parviendra jamais à avoir l’aura du sculpteur et ce jusqu’à sa mort dans l’asile Ville-Evrard en 1943 touchée par la famine. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Avec le temps, les muses vont progressivement devenir les héroïnes d’un monde qui change, un monde où les femmes s’affirment et combattent pour leur pleine émancipation.",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Elles vont parvenir à se défaire du male gaze et imposer de nouveaux codes de représentation des corps féminins",
+					"spans": []
+				}
+			]
+		}
+	],
+	"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
+}

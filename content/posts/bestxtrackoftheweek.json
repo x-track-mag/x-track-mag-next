@@ -1,6 +1,8 @@
 {
 	"uid": "bestxtrackoftheweek",
-	"tags": ["music"],
+	"tags": [
+		"music"
+	],
 	"publication_date": "2021-03-10T16:05:50+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
@@ -17,6 +19,19 @@
 	"author": "XTrack Team",
 	"internal_link": null,
 	"sections": [
+		{
+			"template": "section-hero",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Chill Pop Afropop R&B Hip Hop",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/f486fe77-1573-4de7-a761-6442411f75db_Blu-DeTiger-.jpg?auto=compress,format",
+				"alt": "Blu DeTiger",
+				"copyright": null,
+				"width": 1505,
+				"height": 1133,
+				"ratio": 1.328331862312445
+			}
+		},
 		{
 			"template": "section-full-text",
 			"text": [
