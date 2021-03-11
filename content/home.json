@@ -15,15 +15,15 @@
 			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
-			"position": 1
-		},
-		{
-			"position": 2,
-			"uid": "la-muse--une-icone-feministe-"
+			"position": 2
 		},
 		{
 			"position": 3,
 			"uid": "page"
+		},
+		{
+			"position": 3,
+			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
 			"position": 4,
@@ -133,6 +133,26 @@
 			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
+			"uid": "x-track-studio---biaziouka",
+			"tags": [],
+			"publication_date": "2021-03-11T19:02:45+0000",
+			"title": "X-Track Studio - Biaziouka ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/47def2a1-f679-4986-bc5d-26ea38e27fd5_Capture+d%E2%80%99e%CC%81cran+2021-03-11+a%CC%80+20.01.22.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2802,
+				"height": 1508,
+				"ratio": 1.8580901856763925
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".\n\nFollow us on Instagram : \nhttps://www.instagram.com/xtrackmag/​​\n\nFollow Biaziouka on her socials :\nhttps://www.instagram.com/biaziouka/​​\n\nAWARE AND COLORFUL"
+		},
+		{
 			"uid": "la-muse--une-icone-feministe-",
 			"tags": [
 				"article"
@@ -153,26 +173,6 @@
 			"author": "Aphelandra Siassa",
 			"internal_link": null,
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
-		},
-		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2021-02-14T15:36:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "bestxtrackoftheweek",
@@ -357,24 +357,24 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
-			"uid": "x-track-studio---biaziouka",
+			"uid": "page",
 			"tags": [],
-			"publication_date": "2021-03-11T19:02:45+0000",
-			"title": "X-Track Studio - Biaziouka ",
+			"publication_date": "2021-02-14T15:36:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/47def2a1-f679-4986-bc5d-26ea38e27fd5_Capture+d%E2%80%99e%CC%81cran+2021-03-11+a%CC%80+20.01.22.png?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 2802,
-				"height": 1508,
-				"ratio": 1.8580901856763925
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
 			},
 			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": null,
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".\n\nFollow us on Instagram : \nhttps://www.instagram.com/xtrackmag/​​\n\nFollow Biaziouka on her socials :\nhttps://www.instagram.com/biaziouka/​​\n\nAWARE AND COLORFUL"
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
