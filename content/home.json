@@ -116,23 +116,6 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "x-track-studio---biaziouka",
-			"tags": [],
-			"publication_date": "2021-03-11T19:19:51+0000",
-			"title": "X-Track Studio - Biaziouka ",
-			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".\n\nFollow us on Instagram : \nhttps://www.instagram.com/xtrackmag/​​\n\nFollow Biaziouka on her socials :\nhttps://www.instagram.com/biaziouka/​​\n\nAWARE AND COLORFUL"
-		},
-		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
 			"tags": [],
 			"publication_date": "2021-03-03T11:30:19+0000",
@@ -210,11 +193,28 @@
 			"description": ""
 		},
 		{
+			"uid": "x-track-studio---biaziouka",
+			"tags": [],
+			"publication_date": "2021-03-11T19:19:51+0000",
+			"title": "X-Track Studio - Biaziouka ",
+			"subtitle": "",
+			"image": null,
+			"video_loop": {
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".\n\nFollow us on Instagram : \nhttps://www.instagram.com/xtrackmag/​​\n\nFollow Biaziouka on her socials :\nhttps://www.instagram.com/biaziouka/​​\n\nAWARE AND COLORFUL"
+		},
+		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-03-10T16:05:50+0000",
+			"publication_date": "2021-03-11T19:21:21+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
