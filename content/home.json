@@ -16,22 +16,19 @@
 		},
 		{
 			"position": 2,
-			"uid": "page"
-		},
-		{
-			"position": 2
+			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
 			"position": 3,
-			"uid": "bestxtrackoftheweek"
+			"uid": "page"
 		},
 		{
 			"position": 4,
 			"uid": "2020-is-the-year"
 		},
 		{
-			"position": 5,
-			"uid": "la-muse--une-icone-feministe-"
+			"position": 4,
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 6,
@@ -133,6 +130,28 @@
 			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
+			"uid": "la-muse--une-icone-feministe-",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-03-10T16:56:02+0000",
+			"title": "La muse : une icône féministe ? ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassa",
+			"internal_link": null,
+			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
+		},
+		{
 			"uid": "page",
 			"tags": [],
 			"publication_date": "2021-02-14T15:36:30+0000",
@@ -191,28 +210,6 @@
 				"type": "page"
 			},
 			"description": ""
-		},
-		{
-			"uid": "la-muse--une-icone-feministe-",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-03-10T16:56:02+0000",
-			"title": "La muse : une icône féministe ? ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassa",
-			"internal_link": null,
-			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
