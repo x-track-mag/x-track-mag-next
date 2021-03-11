@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-03-11T19:21:21+0000",
+	"publication_date": "2021-03-11T19:28:31+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -19,12 +19,6 @@
 	"author": "XTrack Team",
 	"internal_link": null,
 	"sections": [
-		{
-			"template": "section-hero",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Chill Pop Afropop R&B Hip Hop",
-			"image": null
-		},
 		{
 			"template": "section-full-text",
 			"text": [
