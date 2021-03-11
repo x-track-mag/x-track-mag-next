@@ -1,19 +1,19 @@
 {
 	"uid": "x-track-studio---biaziouka",
 	"tags": [],
-	"publication_date": "2021-03-11T18:57:37+0000",
+	"publication_date": "2021-03-11T19:02:45+0000",
 	"title": "X-Track Studio - Biaziouka ",
 	"subtitle": "",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/d658c8d2-48db-4f56-82be-d1d279f84f97_Capture+d%E2%80%99e%CC%81cran+2021-03-11+a%CC%80+19.51.54.png?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/47def2a1-f679-4986-bc5d-26ea38e27fd5_Capture+d%E2%80%99e%CC%81cran+2021-03-11+a%CC%80+20.01.22.png?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 2816,
-		"height": 1570,
-		"ratio": 1.7936305732484077
+		"width": 2802,
+		"height": 1508,
+		"ratio": 1.8580901856763925
 	},
 	"video_loop": null,
-	"template": "1: Image + Titre + sous-titre + infos",
+	"template": "3: Image + Titre",
 	"author": null,
 	"internal_link": null,
 	"sections": [
