@@ -11,47 +11,47 @@
 			"position": 1
 		},
 		{
-			"position": 1,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+			"position": 1
 		},
 		{
-			"position": 2
+			"position": 2,
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 3,
 			"uid": "page"
 		},
 		{
-			"position": 3,
+			"position": 4,
 			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
-			"position": 4,
+			"position": 5,
 			"uid": "2020-is-the-year"
 		},
 		{
-			"position": 4,
+			"position": 6,
 			"uid": "bestxtrackoftheweek"
 		},
 		{
-			"position": 6,
+			"position": 7,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
-			"position": 7,
+			"position": 8,
 			"uid": "les-apparences-trompeuses-du-pretty-privilege"
 		},
 		{
-			"position": 8,
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
-		},
-		{
 			"position": 9,
-			"uid": "new-romance"
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
 			"position": 10,
 			"uid": "nola-cherri"
+		},
+		{
+			"position": 10,
+			"uid": "new-romance"
 		},
 		{
 			"position": 11,
@@ -116,23 +116,6 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
-			"tags": [],
-			"publication_date": "2021-03-03T11:30:19+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
-			"image": null,
-			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
-		},
-		{
 			"uid": "x-track-studio---biaziouka",
 			"tags": [],
 			"publication_date": "2021-03-11T19:02:45+0000",
@@ -151,6 +134,43 @@
 			"author": null,
 			"internal_link": null,
 			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".\n\nFollow us on Instagram : \nhttps://www.instagram.com/xtrackmag/​​\n\nFollow Biaziouka on her socials :\nhttps://www.instagram.com/biaziouka/​​\n\nAWARE AND COLORFUL"
+		},
+		{
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
+			"tags": [],
+			"publication_date": "2021-03-03T11:30:19+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
+			"image": null,
+			"video_loop": {
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+		},
+		{
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2021-02-14T15:36:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
@@ -175,6 +195,24 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T17:24:08+0000",
+			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
+		},
+		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
@@ -195,24 +233,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Playlist des meilleurs sons de la semaine"
-		},
-		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T17:24:08+0000",
-			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
@@ -298,26 +318,6 @@
 			"description": "Playlist Chill, Cool, Love"
 		},
 		{
-			"uid": "nola-cherri",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2021-01-18T16:19:00+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
-			"image": null,
-			"video_loop": {
-				"name": "LOOPFIN.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
-				"size": "8315849"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Live session - Nola Cherri- French music"
-		},
-		{
 			"uid": "in-love",
 			"tags": [],
 			"publication_date": "2021-01-09T20:14:03+0000",
@@ -357,24 +357,24 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2021-02-14T15:36:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
+			"uid": "nola-cherri",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2021-01-18T16:19:00+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"image": null,
+			"video_loop": {
+				"name": "LOOPFIN.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
+				"size": "8315849"
 			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
 			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
+			"description": "Live session - Nola Cherri- French music"
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
