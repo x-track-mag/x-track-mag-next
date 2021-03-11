@@ -1,7 +1,7 @@
 {
 	"uid": "x-track-studio---biaziouka",
 	"tags": [],
-	"publication_date": "2021-03-11T18:53:57+0000",
+	"publication_date": "2021-03-11T18:57:37+0000",
 	"title": "X-Track Studio - Biaziouka ",
 	"subtitle": "",
 	"image": {
@@ -22,29 +22,70 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "X-Track Studio - Biaziouka ",
+					"text": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".  ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Follow us on Instagram ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 23,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/xtrackmag/"
+							}
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Follow Biaziouka on her socials  ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 32,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/biaziouka/https://"
+							}
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": " AWARE AND COLORFUL",
 					"spans": []
 				}
 			],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=EzFsb9sqwzk",
+				"type": "video",
+				"version": "1.0",
 				"title": "Biaziouka - X-Track Studio",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/EzFsb9sqwzk/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/EzFsb9sqwzk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=EzFsb9sqwzk"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/EzFsb9sqwzk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/d658c8d2-48db-4f56-82be-d1d279f84f97_Capture+d%E2%80%99e%CC%81cran+2021-03-11+a%CC%80+19.51.54.png?auto=compress,format",
-				"alt": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".  Follow us on Instagram :  https://www.instagram.com/xtrackmag/​​  Follow Biaziouka on her socials : https://www.instagram.com/biaziouka/​​  AWARE AND COLORFUL",
+				"alt": null,
 				"copyright": null,
 				"width": 2816,
 				"height": 1570,
