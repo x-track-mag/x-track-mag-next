@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-03-11T19:28:31+0000",
+	"publication_date": "2021-03-14T08:47:17+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f486fe77-1573-4de7-a761-6442411f75db_Blu-DeTiger-.jpg?auto=compress,format",
-		"alt": "Blu DeTiger",
+		"url": "https://images.prismic.io/x-track-mag/f845826d-979e-446c-b4de-48c082f4608c_Jorja+Smith.jpg?auto=compress,format",
+		"alt": "Jorja Smith",
 		"copyright": null,
-		"width": 1505,
-		"height": 1133,
-		"ratio": 1.328331862312445
+		"width": 2000,
+		"height": 1123,
+		"ratio": 1.7809439002671417
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Blu DeTiger, Bush Tea, K.Zia, Brijean, Worlasi, Rayvanny x Diamond Platnumz, Emotional Oranges x Biig Piig, PawPaw Rod, Liam Bailey x Lee Scratch Perry, Altin Gün, Lavaud, x Reekado Banks, Alicia Keys x Tierra Whacks,  Saweetie x Stefflon Don x Doja Cats, Wau Wau Collectif, Zubi x Anatu x Gabriel, Niniola & +++👆🏽👆🎼🎧",
+					"text": "Bruno Mars & Anderson Paak, H.E.R., Ice Prince & Oxlade, Jorja Smith, Brijean, Yemisi Fancy & Niniola, The Kount & Noam, Blaq Jerzee x Harmonize & Mr Eazi, Feu! Chatterton,  Slenderbodies & Tim Atlas, Gemini Major & Anatil, Adam Brian Paul, Charlie Houston, Natalie Bergman, Protoje x Lila Iké & IzyBeats, L'imperatrice, Andrea Laszlo DE Simone & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -53,28 +53,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/77686ab8-3635-4210-8810-684b03cc94db_Bush+Tea.jpg?auto=compress,format&rect=0,0,1792,2048&w=1024&h=1170",
-					"alt": "Bush Tea",
+					"url": "https://images.prismic.io/x-track-mag/3c86d45a-7e01-4d20-98d1-0d355e14645a_Bruno+Mars+%26+Anderson+Paak.jpg?auto=compress,format&rect=0,0,1499,1000&w=1024&h=683",
+					"alt": "Anderson .Paak & Bruno Mars",
 					"copyright": null,
 					"width": 1024,
-					"height": 1170,
-					"ratio": 0.8752136752136752
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c4b94f34-1728-47b7-8a17-7367379398a9_Alicia+Keys.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Alicia Keys",
+					"url": "https://images.prismic.io/x-track-mag/0d568c7a-3d6e-4faf-aab2-1d43ab6dfba6_H.E.R..jpg?auto=compress,format&rect=0,0,750,600&w=1024&h=819",
+					"alt": "H.E.R.",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 819,
+					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/09e7541a-c9e9-4af4-8c9a-f8be97e64af8_K.ZIA.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "K.Zia",
+					"url": "https://images.prismic.io/x-track-mag/4c539005-7306-4d5f-9959-2fc14e217224_Feu%21+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1822&w=1024&h=911",
+					"alt": "Feu! Chatterton",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 911,
+					"ratio": 1.12403951701427
 				}
 			]
 		},
@@ -82,28 +82,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/55d47520-aeca-4d6f-b3e1-9771db8a241b_Brijean_.jpg?auto=compress,format&rect=0,0,1599,1865&w=1024&h=1194",
-					"alt": "Brijean",
-					"copyright": null,
-					"width": 1024,
-					"height": 1194,
-					"ratio": 0.8576214405360134
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f111ef9e-ec59-40f1-b3e4-a9007364ce26_Emotional+Oranges+x+Biig+Piig.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Emotional Oranges x Biig Piig",
+					"url": "https://images.prismic.io/x-track-mag/5d4762b7-f04f-452b-9488-c37fd369fddb_Blu+DeTiger.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Blu DeTiger",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/614bfaa8-8184-4803-b218-2420fdac7d8d_Alt%C4%B1n-Gu%CC%88n.jpg?auto=compress,format&rect=0,0,1772,1772&w=1024&h=1024",
-					"alt": "Altin Gün",
+					"url": "https://images.prismic.io/x-track-mag/66bc0e1f-4c25-414d-a11e-8aadc9de294b_Zyah+Belle.jpg?auto=compress,format&rect=0,0,540,960&w=1024&h=1820",
+					"alt": "Zyah Belle",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1820,
+					"ratio": 0.5626373626373626
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/40c79b7d-1906-44ae-9edc-d516b206e640_LILA+IKE.jpg?auto=compress,format&rect=0,0,2323,2559&w=1024&h=1128",
+					"alt": "Lila Iké",
+					"copyright": null,
+					"width": 1024,
+					"height": 1128,
+					"ratio": 0.9078014184397163
 				}
 			]
 		},
@@ -111,11 +111,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=xT7xbKeCSQOfLK0HL7vddw",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=q051LxjZSW2vPLHc9C-dKQ",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9l78vFDY8qp",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-xlyNvMktvNPRE",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

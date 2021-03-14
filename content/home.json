@@ -214,16 +214,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-03-11T19:28:31+0000",
+			"publication_date": "2021-03-14T08:47:17+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f486fe77-1573-4de7-a761-6442411f75db_Blu-DeTiger-.jpg?auto=compress,format",
-				"alt": "Blu DeTiger",
+				"url": "https://images.prismic.io/x-track-mag/f845826d-979e-446c-b4de-48c082f4608c_Jorja+Smith.jpg?auto=compress,format",
+				"alt": "Jorja Smith",
 				"copyright": null,
-				"width": 1505,
-				"height": 1133,
-				"ratio": 1.328331862312445
+				"width": 2000,
+				"height": 1123,
+				"ratio": 1.7809439002671417
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
