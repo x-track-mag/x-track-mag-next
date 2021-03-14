@@ -46,8 +46,8 @@
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
-			"position": 11,
-			"uid": "lhysterie"
+			"position": 10,
+			"uid": "new-romance"
 		},
 		{
 			"position": 11,
@@ -55,11 +55,11 @@
 		},
 		{
 			"position": 12,
-			"uid": "nola-cherri"
+			"uid": "lhysterie"
 		},
 		{
 			"position": 13,
-			"uid": "new-romance"
+			"uid": "nola-cherri"
 		},
 		{
 			"position": 15,
@@ -299,6 +299,26 @@
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
+			"uid": "new-romance",
+			"tags": [],
+			"publication_date": "2021-02-18T07:43:39+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill, Cool, Love",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 1200,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Playlist Chill, Cool, Love"
+		},
+		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -322,26 +342,6 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "nola-cherri",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2021-01-18T16:19:00+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
-			"image": null,
-			"video_loop": {
-				"name": "LOOPFIN.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
-				"size": "8315849"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Live session - Nola Cherri- French music"
-		},
-		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
@@ -361,24 +361,24 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
-			"uid": "new-romance",
-			"tags": [],
-			"publication_date": "2021-02-18T07:43:39+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill, Cool, Love",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 1200,
-				"ratio": 1
+			"uid": "nola-cherri",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2021-01-18T16:19:00+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"image": null,
+			"video_loop": {
+				"name": "LOOPFIN.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
+				"size": "8315849"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": null,
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "Live session - Nola Cherri- French music"
 		},
 		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
