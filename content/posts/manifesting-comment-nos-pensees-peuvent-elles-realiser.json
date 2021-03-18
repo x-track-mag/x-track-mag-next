@@ -1,7 +1,7 @@
 {
 	"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 	"tags": [],
-	"publication_date": "2021-03-18T13:11:11+0000",
+	"publication_date": "2021-03-18T13:22:09+0000",
 	"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
 	"subtitle": "",
 	"image": {
@@ -161,20 +161,21 @@
 				}
 			],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=OlV26ouCn5w",
+				"type": "video",
+				"version": "1.0",
 				"title": "963HZ 》FREQUENCY OF GODS 》Ask Universe What You Want 》Manifest Anything Law of Attraction",
 				"author_name": "Meditative Mind",
 				"author_url": "https://www.youtube.com/c/TheMeditativeMind",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/OlV26ouCn5w/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/OlV26ouCn5w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=OlV26ouCn5w"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/OlV26ouCn5w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/fd79e566-3c52-477e-b945-3dab5e102e75_Capture+d%E2%80%99e%CC%81cran+2021-03-18+a%CC%80+14.06.08.png?auto=compress,format",
@@ -184,10 +185,6 @@
 				"height": 1026,
 				"ratio": 1.8167641325536061
 			}
-		},
-		{
-			"template": "section-gallery",
-			"gallery": []
 		},
 		{
 			"template": "section-gallery",
