@@ -1,7 +1,7 @@
 {
 	"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 	"tags": [],
-	"publication_date": "2021-03-18T12:59:44+0000",
+	"publication_date": "2021-03-18T13:11:11+0000",
 	"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
 	"subtitle": "",
 	"image": {
@@ -98,17 +98,18 @@
 			]
 		},
 		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/3cc8a9e8-0110-490e-83d5-6e84b5b76be6_IMG_5474.jpg?auto=compress,format&rect=0,0,828,1502&w=1024&h=1858",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 1858,
-					"ratio": 0.5511302475780409
-				}
-			]
+			"template": "section-two-columns",
+			"text": [],
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/3cc8a9e8-0110-490e-83d5-6e84b5b76be6_IMG_5474.jpg?auto=compress,format&rect=0,0,828,1502&w=1024&h=1858",
+				"alt": null,
+				"copyright": null,
+				"width": 1024,
+				"height": 1858,
+				"ratio": 0.5511302475780409
+			},
+			"columns_order": "Image | Texte",
+			"full_page": false
 		},
 		{
 			"template": "section-full-text",
@@ -151,15 +152,53 @@
 			]
 		},
 		{
+			"template": "section-video-launcher",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "963HZ 》Demander n'importe quoi de l'univers 》Obtenez ce que vous voulez | FRÉQUENCE DES DIEUX",
+					"spans": []
+				}
+			],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "963HZ 》FREQUENCY OF GODS 》Ask Universe What You Want 》Manifest Anything Law of Attraction",
+				"author_name": "Meditative Mind",
+				"author_url": "https://www.youtube.com/c/TheMeditativeMind",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/OlV26ouCn5w/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/OlV26ouCn5w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=OlV26ouCn5w"
+			},
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/fd79e566-3c52-477e-b945-3dab5e102e75_Capture+d%E2%80%99e%CC%81cran+2021-03-18+a%CC%80+14.06.08.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1864,
+				"height": 1026,
+				"ratio": 1.8167641325536061
+			}
+		},
+		{
+			"template": "section-gallery",
+			"gallery": []
+		},
+		{
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/8f3f4e95-59ef-48f2-960f-b15bc8ab1e9a_a8331440f288d1e180e0b04309df4b3d.gif?auto=compress,format&rect=0,0,520,520&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/0ce70f6e-5ce8-4a4c-946e-4716e0a95ff0_7408c55427dc042c5c69fec4d31fef13.gif?auto=compress,format&rect=0,0,240,320&w=1024&h=1365",
 					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				}
 			]
 		},
@@ -188,7 +227,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Ilios Kotsou, chercheur en psychologie l’explique dans son livre Éloge de la lucidité de déconstruire la théorie de la pensée positive et le mythe de la loi de l’attraction. Spoiler alert: il soutient que pouvoir se débarrasser de ses pensées négatives et les remplacer par des pensées positives n’est pas aussi évident que cela. Pour Joanne Wood, chercheuse canadienne ayant mené une étude sur les auto-affirmations positives, « c’est déjà dur de contrôler ses pensées, mais ça l’est encore plus pour quelqu’un qui ne va pas bien. J’ai essayé de faire répéter à un groupe de personne ayant une faible estime d’eux mêmes des auto-affirmations positive, et ces gens-là se sentaient encore plus mal après avoir répété la phrase. » L’idéologie de la pensée positive peut avoir comme effet “pervers” possible de faire reposer toute la responsabilité d’une situation sur l’individu au détriment des déterminants sociaux et du contexte, écrit Kotsou.",
+					"text": "Ilios Kotsou, chercheur en psychologie l’explique dans son livre Éloge de la lucidité de déconstruire la théorie de la pensée positive et le mythe de la loi de l’attraction. Spoiler alert: il soutient que pouvoir se débarrasser de ses pensées négatives et les remplacer par des pensées positives n’est pas aussi évident que cela. Pour Joanne Wood, chercheuse canadienne ayant mené une étude sur les auto-affirmations positives fait le constat suivant : ",
 					"spans": [
 						{
 							"start": 65,
@@ -201,6 +240,31 @@
 							"type": "strong"
 						}
 					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "C’est déjà dur de contrôler ses pensées, mais ça l’est encore plus pour quelqu’un qui ne va pas bien. J’ai essayé de faire répéter à un groupe de personne ayant une faible estime d’eux mêmes des auto-affirmations positive, et ces gens-là se sentaient encore plus mal après avoir répété la phrase. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "L’idéologie de la pensée positive peut avoir comme effet “pervers” possible de faire reposer toute la responsabilité d’une situation sur l’individu au détriment des déterminants sociaux et du contexte, écrit Kotsou.",
+					"spans": []
 				},
 				{
 					"type": "paragraph",
