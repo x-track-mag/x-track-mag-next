@@ -120,6 +120,26 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
+			"tags": [],
+			"publication_date": "2021-03-18T12:49:32+0000",
+			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
+		},
+		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
 			"tags": [],
 			"publication_date": "2021-03-03T11:30:19+0000",
@@ -195,23 +215,6 @@
 				"type": "page"
 			},
 			"description": ""
-		},
-		{
-			"uid": "x-track-studio---biaziouka",
-			"tags": [],
-			"publication_date": "2021-03-11T19:19:51+0000",
-			"title": "X-Track Studio - Biaziouka ",
-			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".\n\nFollow us on Instagram : \nhttps://www.instagram.com/xtrackmag/​​\n\nFollow Biaziouka on her socials :\nhttps://www.instagram.com/biaziouka/​​\n\nAWARE AND COLORFUL"
 		},
 		{
 			"uid": "bestxtrackoftheweek",
@@ -381,26 +384,21 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-01-19T16:15:44+0000",
-			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
+			"uid": "x-track-studio---biaziouka",
+			"tags": [],
+			"publication_date": "2021-03-11T19:19:51+0000",
+			"title": "X-Track Studio - Biaziouka ",
 			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1080,
-				"ratio": 1.7777777777777777
+			"image": null,
+			"video_loop": {
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
 			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Manon Pelinq",
+			"template": "3: Image + Titre",
+			"author": null,
 			"internal_link": null,
-			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
+			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".\n\nFollow us on Instagram : \nhttps://www.instagram.com/xtrackmag/​​\n\nFollow Biaziouka on her socials :\nhttps://www.instagram.com/biaziouka/​​\n\nAWARE AND COLORFUL"
 		},
 		{
 			"uid": "in-love",
@@ -421,6 +419,28 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Our favorite Love & Cool Songs… Enjoy"
+		},
+		{
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-01-19T16:15:44+0000",
+			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1080,
+				"ratio": 1.7777777777777777
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Manon Pelinq",
+			"internal_link": null,
+			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
 			"uid": "polycool",
