@@ -16,54 +16,62 @@
 		},
 		{
 			"position": 2,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
 		},
 		{
 			"position": 3,
-			"uid": "page"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 4,
-			"uid": "la-muse--une-icone-feministe-"
+			"uid": "page"
 		},
 		{
 			"position": 5,
-			"uid": "2020-is-the-year"
+			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
 			"position": 6,
-			"uid": "bestxtrackoftheweek"
+			"uid": "2020-is-the-year"
 		},
 		{
 			"position": 7,
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 8,
-			"uid": "les-apparences-trompeuses-du-pretty-privilege"
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
 			"position": 9,
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+			"uid": "les-apparences-trompeuses-du-pretty-privilege"
 		},
 		{
 			"position": 10,
-			"uid": "new-romance"
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
 			"position": 11,
-			"uid": "lavenir-de-la-mode-est-il-virtuel"
+			"uid": "new-romance"
 		},
 		{
 			"position": 12,
-			"uid": "lhysterie"
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
 			"position": 13,
-			"uid": "nola-cherri"
+			"uid": "lhysterie"
+		},
+		{
+			"position": 14,
+			"uid": "martin-parr"
 		},
 		{
 			"position": 15,
+			"uid": "nola-cherri"
+		},
+		{
+			"position": 16,
 			"uid": "in-love"
 		}
 	],
@@ -136,6 +144,26 @@
 			"author": null,
 			"internal_link": null,
 			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".\n\nFollow us on Instagram : \nhttps://www.instagram.com/xtrackmag/​​\n\nFollow Biaziouka on her socials :\nhttps://www.instagram.com/biaziouka/​​\n\nAWARE AND COLORFUL"
+		},
+		{
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
+			"tags": [],
+			"publication_date": "2021-03-18T18:01:34+0000",
+			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "MANON PELINQ",
+			"internal_link": null,
+			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
 		},
 		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
@@ -362,6 +390,28 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
+			"uid": "martin-parr",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T06:20:52+0000",
+			"title": "Martin Parr",
+			"subtitle": "Un Monde à Parr",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": "Plage de Nice",
+				"copyright": "Martin Parr",
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia",
+			"internal_link": null,
+			"description": "Un monde à Parr"
+		},
+		{
 			"uid": "nola-cherri",
 			"tags": [
 				"music",
@@ -380,26 +430,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Live session - Nola Cherri- French music"
-		},
-		{
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
-			"tags": [],
-			"publication_date": "2021-03-18T18:01:34+0000",
-			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "MANON PELINQ",
-			"internal_link": null,
-			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
 		},
 		{
 			"uid": "in-love",
@@ -462,28 +492,6 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
-		},
-		{
-			"uid": "martin-parr",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T06:20:52+0000",
-			"title": "Martin Parr",
-			"subtitle": "Un Monde à Parr",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": "Plage de Nice",
-				"copyright": "Martin Parr",
-				"width": 1280,
-				"height": 854,
-				"ratio": 1.4988290398126465
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "Un monde à Parr"
 		}
 	]
 }
