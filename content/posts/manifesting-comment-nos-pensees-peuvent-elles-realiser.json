@@ -1,7 +1,7 @@
 {
 	"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 	"tags": [],
-	"publication_date": "2021-03-18T12:49:32+0000",
+	"publication_date": "2021-03-18T12:59:44+0000",
 	"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
 	"subtitle": "",
 	"image": {
@@ -94,6 +94,29 @@
 					"type": "paragraph",
 					"text": "",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/3cc8a9e8-0110-490e-83d5-6e84b5b76be6_IMG_5474.jpg?auto=compress,format&rect=0,0,828,1502&w=1024&h=1858",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1858,
+					"ratio": 0.5511302475780409
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
 				},
 				{
 					"type": "paragraph",
@@ -124,7 +147,25 @@
 					"type": "paragraph",
 					"text": "",
 					"spans": []
-				},
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/8f3f4e95-59ef-48f2-960f-b15bc8ab1e9a_a8331440f288d1e180e0b04309df4b3d.gif?auto=compress,format&rect=0,0,520,520&w=1024&h=1024",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
 				{
 					"type": "paragraph",
 					"text": "",
