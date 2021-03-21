@@ -247,16 +247,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-03-14T08:47:17+0000",
+			"publication_date": "2021-03-21T08:55:01+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f845826d-979e-446c-b4de-48c082f4608c_Jorja+Smith.jpg?auto=compress,format",
-				"alt": "Jorja Smith",
+				"url": "https://images.prismic.io/x-track-mag/3b06c6a0-d04e-4534-b0f5-d24c1a204b17_Guapdad4000+%26+%21llmind.jpeg?auto=compress,format",
+				"alt": "Guapdad 4000 x Buddy",
 				"copyright": null,
-				"width": 2000,
-				"height": 1123,
-				"ratio": 1.7809439002671417
+				"width": 2048,
+				"height": 2048,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

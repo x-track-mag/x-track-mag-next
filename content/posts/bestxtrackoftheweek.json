@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-03-14T08:47:17+0000",
+	"publication_date": "2021-03-21T08:55:01+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f845826d-979e-446c-b4de-48c082f4608c_Jorja+Smith.jpg?auto=compress,format",
-		"alt": "Jorja Smith",
+		"url": "https://images.prismic.io/x-track-mag/3b06c6a0-d04e-4534-b0f5-d24c1a204b17_Guapdad4000+%26+%21llmind.jpeg?auto=compress,format",
+		"alt": "Guapdad 4000 x Buddy",
 		"copyright": null,
-		"width": 2000,
-		"height": 1123,
-		"ratio": 1.7809439002671417
+		"width": 2048,
+		"height": 2048,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Bruno Mars & Anderson Paak, H.E.R., Ice Prince & Oxlade, Jorja Smith, Brijean, Yemisi Fancy & Niniola, The Kount & Noam, Blaq Jerzee x Harmonize & Mr Eazi, Feu! Chatterton,  Slenderbodies & Tim Atlas, Gemini Major & Anatil, Adam Brian Paul, Charlie Houston, Natalie Bergman, Protoje x Lila Iké & IzyBeats, L'imperatrice, Andrea Laszlo DE Simone & +++👆🏽👆🎼🎧",
+					"text": "Lana Del Rey, Th&o,  Teni, DjjahSB x Chris Castello, Biwom x Skales, Skillz 8figure x Oxlade, Arlo Parks, Gabriel Garzon x Jamila Woods x Armando Young, Derrick Cross, Gyakie x Omah Lay, Caribou x Toro Y Moi, Enny, Guapdad 4000 x !llmind x Buddy, Feu! Chatterton, Lucky Daye x Masego x Alex Isley x Jack Dine, & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -53,28 +53,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3c86d45a-7e01-4d20-98d1-0d355e14645a_Bruno+Mars+%26+Anderson+Paak.jpg?auto=compress,format&rect=0,0,1499,1000&w=1024&h=683",
-					"alt": "Anderson .Paak & Bruno Mars",
+					"url": "https://images.prismic.io/x-track-mag/4973d107-2c92-4029-bd50-1a4106bde3f3_Lana+Del+Rey.jpg?auto=compress,format&rect=0,0,1200,1496&w=1024&h=1277",
+					"alt": "Lana Del Rey",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1277,
+					"ratio": 0.8018794048551292
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0d568c7a-3d6e-4faf-aab2-1d43ab6dfba6_H.E.R..jpg?auto=compress,format&rect=0,0,750,600&w=1024&h=819",
-					"alt": "H.E.R.",
+					"url": "https://images.prismic.io/x-track-mag/a107dda6-c166-4c8a-847c-996a278a89a4_Feu%21%21+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
+					"alt": "Feu! Chatterton",
 					"copyright": null,
 					"width": 1024,
 					"height": 819,
 					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4c539005-7306-4d5f-9959-2fc14e217224_Feu%21+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1822&w=1024&h=911",
-					"alt": "Feu! Chatterton",
+					"url": "https://images.prismic.io/x-track-mag/6b610d28-3944-4c3c-bb5c-a2898caf4b4a_Ayra+Starr+.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 911,
-					"ratio": 1.12403951701427
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -82,28 +82,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5d4762b7-f04f-452b-9488-c37fd369fddb_Blu+DeTiger.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Blu DeTiger",
+					"url": "https://images.prismic.io/x-track-mag/cc2187dc-5195-4f7c-bbd0-6aadd580ee67_Linda+Diaz+.jpg?auto=compress,format&rect=0,0,1440,1799&w=1024&h=1279",
+					"alt": "Linda Diaz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/66bc0e1f-4c25-414d-a11e-8aadc9de294b_Zyah+Belle.jpg?auto=compress,format&rect=0,0,540,960&w=1024&h=1820",
-					"alt": "Zyah Belle",
+					"url": "https://images.prismic.io/x-track-mag/a9349ccf-a788-4890-8031-f6390b699c3e_Gyakie.jpg?auto=compress,format&rect=0,0,960,840&w=1024&h=896",
+					"alt": "Gyakie",
 					"copyright": null,
 					"width": 1024,
-					"height": 1820,
-					"ratio": 0.5626373626373626
+					"height": 896,
+					"ratio": 1.1428571428571428
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/40c79b7d-1906-44ae-9edc-d516b206e640_LILA+IKE.jpg?auto=compress,format&rect=0,0,2323,2559&w=1024&h=1128",
-					"alt": "Lila Iké",
+					"url": "https://images.prismic.io/x-track-mag/2f1ec47b-b3c9-46ca-aa21-63ea0b25f6ea_Enny.jpg?auto=compress,format&rect=0,0,1509,1127&w=1024&h=765",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1128,
-					"ratio": 0.9078014184397163
+					"height": 765,
+					"ratio": 1.3385620915032679
 				}
 			]
 		},
@@ -111,11 +111,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=q051LxjZSW2vPLHc9C-dKQ",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=XRg6_oEZQEGyFEyGma4kXQ",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-xlyNvMktvNPRE",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqBNzF2XgBo",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
