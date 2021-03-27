@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-03-21T09:22:20+0000",
+	"publication_date": "2021-03-27T14:17:42+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/3b06c6a0-d04e-4534-b0f5-d24c1a204b17_Guapdad4000+%26+%21llmind.jpeg?auto=compress,format",
-		"alt": "Guapdad 4000 x !llmind x Buddy",
+		"url": "https://images.prismic.io/x-track-mag/3f461707-31bc-4765-91cc-e8ed3ab27e59_Rejjie+Snow_+Cam+O%27Bi+grouptherapy.jpg?auto=compress,format",
+		"alt": "Rejjie Snow x Cam O'bi x grouptherapy",
 		"copyright": null,
-		"width": 2048,
-		"height": 2048,
+		"width": 2000,
+		"height": 2000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Lana Del Rey, Th&o,  Teni, DijahSB x Chris Castello, Biwom x Skales, Skillz 8figure x Oxlade, Arlo Parks, Gabriel Garzon x Jamila Woods x Armando Young, Derrick Cross, Gyakie x Omah Lay, Caribou x Toro Y Moi, Enny, Guapdad 4000 x !llmind x Buddy, Feu! Chatterton, Lucky Daye x Masego x Alex Isley x Jack Dine, & +++👆🏽👆🎼🎧",
+					"text": "DJ Tunez x J. Anthoni, July 7, Jungle, Doja Cat x Disclosure, Chiiild, Teni, Rema x Vitgil Abloh x Fela Kuti, Frenna x Yemi Alade, Major lazer x Aya Nakamura x Swae Lee, Lawrenzo x Zinoleesky,  Nas x Anderson Paak, Jay Prince, Junia-T x Miloh Smith, Alexander Mack, Moglii, 6xSlatt x Burna Boy, Rejjie Snow x Cam O'bi x grouptherapy, Mahalia x Rico Nasty, Dom La Nena, Yaya Bey, Holy Hive, Emtee x Lolli Native x Flash Lkumkani, url x Inadelle, Christian Kuria, Babe Rainbow x Jaden & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -44,7 +44,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "",
+					"text": " ",
 					"spans": []
 				}
 			]
@@ -53,24 +53,53 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4973d107-2c92-4029-bd50-1a4106bde3f3_Lana+Del+Rey.jpg?auto=compress,format&rect=0,0,1200,1496&w=1024&h=1277",
-					"alt": "Lana Del Rey",
+					"url": "https://images.prismic.io/x-track-mag/5bcd97e0-37e3-4969-bdd4-3af2fe9d8904_Dom+La+Nena.jpg?auto=compress,format&rect=0,0,1099,1099&w=1024&h=1024",
+					"alt": "Dom La Nena",
 					"copyright": null,
 					"width": 1024,
-					"height": 1277,
-					"ratio": 0.8018794048551292
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a107dda6-c166-4c8a-847c-996a278a89a4_Feu%21%21+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
-					"alt": "Feu! Chatterton",
+					"url": "https://images.prismic.io/x-track-mag/4ea6be00-1e1e-46f2-9478-f1c0b833f051_Rainbow+Babe.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Babe Rainbow",
 					"copyright": null,
 					"width": 1024,
-					"height": 819,
-					"ratio": 1.2503052503052503
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6b610d28-3944-4c3c-bb5c-a2898caf4b4a_Ayra+Starr+.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/8c6fbe24-7a05-42ff-9b93-e7534dbd41f4_Aya+Nakamura.jpg?auto=compress,format&rect=0,0,1511,1008&w=1024&h=683",
+					"alt": "Aya Nakamura",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/2e39f9f4-aca7-4c8d-9cb8-a62eb9cf985f_Moglii.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Moglii",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f6916f71-fbd6-4f28-8e66-9d397a64cade_Miloh+Smith.jpg?auto=compress,format&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Miloh Smith",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/2c9ae9e3-e4b3-463f-b410-9bbf4c729904_Swae+Lee.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Swae Lee",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -79,43 +108,14 @@
 			]
 		},
 		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/cc2187dc-5195-4f7c-bbd0-6aadd580ee67_Linda+Diaz+.jpg?auto=compress,format&rect=0,0,1440,1799&w=1024&h=1279",
-					"alt": "Linda Diaz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a9349ccf-a788-4890-8031-f6390b699c3e_Gyakie.jpg?auto=compress,format&rect=0,0,960,840&w=1024&h=896",
-					"alt": "Gyakie",
-					"copyright": null,
-					"width": 1024,
-					"height": 896,
-					"ratio": 1.1428571428571428
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2f1ec47b-b3c9-46ca-aa21-63ea0b25f6ea_Enny.jpg?auto=compress,format&rect=0,0,1509,1127&w=1024&h=765",
-					"alt": "Enny",
-					"copyright": null,
-					"width": 1024,
-					"height": 765,
-					"ratio": 1.3385620915032679
-				}
-			]
-		},
-		{
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=XRg6_oEZQEGyFEyGma4kXQ",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=9CvmbOebR9K-SypsIiiTHQ",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqBNzF2XgBo",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lkWmIDY8qp",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
