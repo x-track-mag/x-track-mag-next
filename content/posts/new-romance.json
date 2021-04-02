@@ -1,15 +1,15 @@
 {
 	"uid": "new-romance",
 	"tags": [],
-	"publication_date": "2021-02-18T07:43:39+0000",
+	"publication_date": "2021-04-02T09:37:20+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill, Cool, Love",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
-		"alt": null,
+		"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format",
+		"alt": "Rilès Leone Younès Terry Family Business",
 		"copyright": null,
-		"width": 1200,
-		"height": 1200,
+		"width": 2000,
+		"height": 2000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -18,24 +18,11 @@
 	"internal_link": null,
 	"sections": [
 		{
-			"template": "section-hero",
-			"title": "New Romance",
-			"subtitle": "100% Chill, Cool, Love",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
-				"alt": "Maye",
-				"copyright": null,
-				"width": 1200,
-				"height": 1200,
-				"ratio": 1
-			}
-		},
-		{
 			"template": "section-full-text",
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Biig Piig, Lous & the Yakuza, Slenderbodies x Crooked Colors,  Maye, Unusual Demont, Arlo Parks, Jäde, Honne, Sault, Rilès x Leon x Younès x Terry, Chiiilld x Shunguzdo, Blackstarkids, Fred Again, Miles from Kinshasa, Hope Tala & +++ enjoy",
+					"text": "H.E.R., Nova x Fasina, Emotional Oranges x Biig Piig, Arlo Parks, July 7, Honne, Aaron London, Feu! chatterton,  Fred again x Jessie Reyez, Caius x Neigh, Noname, Hope Tala, Chiiild, Babeheaven, Rilès x Leone x Younès x Terry, Slenderbodies, Sault, Nas x Anderson paak, Blackstarkids, Zyah Belle x Romderful x Mat/Matix, Billy Vena, Rae Khalil, jay Prince, Nayana Iz, Moglii Juniah-T x Miloh Smith, Los Retros & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -44,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/594bcb6b-d67b-4a64-953f-a31037928013_Lous+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1000,1250&w=1024&h=1280",
-					"alt": "Lous and the Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/4d14fc08-6b79-45e2-97b3-75fed13d87ca_H.E.R..jpg?auto=compress,format&rect=0,0,2048,1366&w=1024&h=683",
+					"alt": "H.E.R.",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4288735d-a444-477c-a142-ce1bea8f03ff_Oklou+.jpg?auto=compress,format&rect=0,0,1900,907&w=1024&h=489",
-					"alt": "Oklou",
+					"url": "https://images.prismic.io/x-track-mag/bbebdf50-6669-4f4c-be65-874535ff27aa_Noname.jpg?auto=compress,format&rect=0,0,1800,1800&w=1024&h=1024",
+					"alt": "Noname",
 					"copyright": null,
 					"width": 1024,
-					"height": 489,
-					"ratio": 2.094069529652352
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b4cef05a-5cfa-4ced-b374-9e33430b6d79_Biig+Piig.jpg?auto=compress,format&rect=0,0,959,960&w=1024&h=1025",
-					"alt": "Biig Piig\n",
+					"url": "https://images.prismic.io/x-track-mag/e0032892-7cd0-45c5-8b2b-34819c7af127_July+7.jpg?auto=compress,format&rect=0,0,1269,1269&w=1024&h=1024",
+					"alt": "July 7",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -81,20 +68,20 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aa5df79f-b293-4833-b7ba-47647584f0dd_Clairo.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Clairo",
+					"url": "https://images.prismic.io/x-track-mag/64053587-a95c-4344-bfae-c0c8ff5ab43d_Feu+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
+					"alt": "Feu! Chatterton",
+					"copyright": null,
+					"width": 1024,
+					"height": 819,
+					"ratio": 1.2503052503052503
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ba6d0027-3772-4102-a1a8-8c3b6917ba1c_Hope+Tala.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Hope Tala",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/7b5be50f-562e-4f25-bf7c-bec8580b83e6_Chi+Virgo.jpg?auto=compress,format&rect=0,0,1200,700&w=1024&h=597",
-					"alt": "Chi Virgo",
-					"copyright": null,
-					"width": 1024,
-					"height": 597,
-					"ratio": 1.7152428810720268
 				}
 			]
 		},
@@ -102,11 +89,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=Xez80dzUSfuRT2G_DKzAHQ",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=FaJuSB0BRJu-wCRPO2OVaw",
 					"title": "New romance"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-jV89GWNtBAyYV",
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-xlyNbKdIvNPRE",
 					"title": "New romance par XTrack"
 				},
 				{

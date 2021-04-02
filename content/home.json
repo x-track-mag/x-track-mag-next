@@ -330,15 +330,15 @@
 		{
 			"uid": "new-romance",
 			"tags": [],
-			"publication_date": "2021-02-18T07:43:39+0000",
+			"publication_date": "2021-04-02T09:37:20+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill, Cool, Love",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e6c8bb-8bd8-4fe4-8586-cd474c982a84_Maye.jpg?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format",
+				"alt": "Rilès Leone Younès Terry Family Business",
 				"copyright": null,
-				"width": 1200,
-				"height": 1200,
+				"width": 2000,
+				"height": 2000,
 				"ratio": 1
 			},
 			"video_loop": null,
