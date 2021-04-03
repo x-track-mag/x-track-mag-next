@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-03-28T06:45:24+0000",
+	"publication_date": "2021-04-03T19:25:00+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/3f461707-31bc-4765-91cc-e8ed3ab27e59_Rejjie+Snow_+Cam+O%27Bi+grouptherapy.jpg?auto=compress,format",
-		"alt": "Rejjie Snow x Cam O'bi x grouptherapy",
+		"url": "https://images.prismic.io/x-track-mag/aea2f749-1cc0-4ea9-ab9d-a136ee520eaf_La+Femme.jpg?auto=compress,format",
+		"alt": "La Femme",
 		"copyright": null,
-		"width": 2000,
-		"height": 2000,
+		"width": 3000,
+		"height": 3000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "DJ Tunez x J. Anthoni, July 7, Jungle, Doja Cat x Disclosure, Chiiild, Teni, Rema x Vitgil Abloh x Fela Kuti, Frenna x Yemi Alade, Major lazer x Aya Nakamura x Swae Lee, Lawrenzo x Zinoleesky,  Nas x Anderson Paak, Jay Prince, Junia-T x Miloh Smith, Alexander Mack, Moglii, 6xSlatt x Burna Boy, Rejjie Snow x Cam O'bi x grouptherapy, Mahalia x Rico Nasty, Dom La Nena, Yaya Bey, Holy Hive, Emtee x Lolli Native x Flash Lkumkani, url x Inadelle, Christian Kuria, Babe Rainbow x Jaden & +++👆🏽👆🎼🎧",
+					"text": "Chiiild x Mahalia, Thutmose x Bankulli, Dj Tunez x J. Anthoni, DLNY, La Femme, Madam3empress, Awon x Phoniks, Otis Kane, Big Sean x Anderson Paak x Earlly Mac x Wale, Junia-T x Taji Love, Mustafa, Foushée x Lil Wayne, Blundetto & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -53,28 +53,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5bcd97e0-37e3-4969-bdd4-3af2fe9d8904_Dom+La+Nena.jpg?auto=compress,format&rect=0,0,1099,1099&w=1024&h=1024",
-					"alt": "Dom La Nena",
+					"url": "https://images.prismic.io/x-track-mag/df60828d-fb5e-4437-bb54-123aceb58324_Chiiild.jpg?auto=compress,format&rect=0,0,2214,2768&w=1024&h=1280",
+					"alt": "Chiiild",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/7262f41f-0c51-4323-bee5-22c9edc36d1b_Mahalia.jpg?auto=compress,format&rect=0,0,2560,1705&w=1024&h=682",
+					"alt": "Mahalia",
+					"copyright": null,
+					"width": 1024,
+					"height": 682,
+					"ratio": 1.501466275659824
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/992970d3-a602-4161-a3d8-08fabc91dcd5_Foushe%CC%81e+.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Foushée",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/4ea6be00-1e1e-46f2-9478-f1c0b833f051_Rainbow+Babe.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Babe Rainbow",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/8c6fbe24-7a05-42ff-9b93-e7534dbd41f4_Aya+Nakamura.jpg?auto=compress,format&rect=0,0,1511,1008&w=1024&h=683",
-					"alt": "Aya Nakamura",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
 				}
 			]
 		},
@@ -82,24 +82,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2e39f9f4-aca7-4c8d-9cb8-a62eb9cf985f_Moglii.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Moglii",
+					"url": "https://images.prismic.io/x-track-mag/1c82d5e2-820b-4848-b660-2288557de37d_Big+Sean+x+Anderson+Paak+x+Earlly+Mac+x+Wale.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Big Sean x Anderson Paak x Earlly Mac x Wale",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f6916f71-fbd6-4f28-8e66-9d397a64cade_Miloh+Smith.jpg?auto=compress,format&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Miloh Smith",
+					"url": "https://images.prismic.io/x-track-mag/6d399259-3831-4939-a661-fccaf206be3e_Junia-T+x+Taji+Love.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Junia-T x Taji Love",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2c9ae9e3-e4b3-463f-b410-9bbf4c729904_Swae+Lee.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Swae Lee",
+					"url": "https://images.prismic.io/x-track-mag/ba0713be-3a19-4a7f-8d8e-044ee2bf4523_Gang+Stories.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Blundetto",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -111,11 +111,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=451rbtrZRCqkCkMMRrPfQA",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=RDwEjCRFQCyHN_yzQLIWFA",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lkWmIDY8qp",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqBkbh2XgBo",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
