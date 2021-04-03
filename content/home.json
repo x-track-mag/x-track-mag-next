@@ -12,7 +12,7 @@
 		},
 		{
 			"position": 1,
-			"uid": "x-track-studio---biaziouka"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 2,
@@ -20,7 +20,7 @@
 		},
 		{
 			"position": 3,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+			"uid": "x-track-studio---biaziouka"
 		},
 		{
 			"position": 4,
@@ -129,21 +129,21 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "x-track-studio---biaziouka",
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
 			"tags": [],
-			"publication_date": "2021-04-02T12:18:48+0000",
-			"title": "X-Track Studio - Biaziouka ",
-			"subtitle": "",
+			"publication_date": "2021-03-03T11:30:19+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
 			"image": null,
 			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
 			},
 			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
@@ -166,21 +166,21 @@
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
 		},
 		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
+			"uid": "x-track-studio---biaziouka",
 			"tags": [],
-			"publication_date": "2021-03-03T11:30:19+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
+			"publication_date": "2021-04-02T12:18:48+0000",
+			"title": "X-Track Studio - Biaziouka ",
+			"subtitle": "",
 			"image": null,
 			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
 			},
 			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
 		},
 		{
 			"uid": "page",
