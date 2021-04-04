@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-03T21:43:11+0000",
+	"publication_date": "2021-04-04T07:51:55+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Chiiild x Mahalia, AG Club x Sam Truth, Thutmose x Bankulli, Dj Tunez x J. Anthoni, DLNY, La Femme, Madam3empress, Awon x Phoniks, Otis Kane, Big Sean x Anderson Paak x Earlly Mac x Wale, Junia-T x Taji Love, Mustafa, Foushée x Lil Wayne, Blundetto & +++👆🏽👆🎼🎧",
+					"text": "Chiiild x Mahalia, Thutmose x Bankulli, Dj Tunez x J. Anthoni, DLNY, La Femme, Madam3empress, Awon x Phoniks, Otis Kane, Big Sean x Anderson Paak x Earlly Mac x Wale, Junia-T x Taji Love, Mustafa, Foushée x Lil Wayne, Blundetto & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -61,20 +61,20 @@
 					"ratio": 0.8
 				},
 				{
+					"url": "https://images.prismic.io/x-track-mag/6d399259-3831-4939-a661-fccaf206be3e_Junia-T+x+Taji+Love.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Junia-T x Taji Love",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
 					"url": "https://images.prismic.io/x-track-mag/7262f41f-0c51-4323-bee5-22c9edc36d1b_Mahalia.jpg?auto=compress,format&rect=0,0,2560,1705&w=1024&h=682",
 					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
 					"height": 682,
 					"ratio": 1.501466275659824
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/4ec340f6-f378-4a1f-a997-cc83b5569612_AG+Club.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "AG Club x Sam Truth",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -90,12 +90,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6d399259-3831-4939-a661-fccaf206be3e_Junia-T+x+Taji+Love.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Junia-T x Taji Love",
+					"url": "https://images.prismic.io/x-track-mag/5c9fe5aa-a095-482a-b46a-2f5e4a405f5d_Foushe%CC%81e.+.jpg?auto=compress,format&rect=0,0,820,536&w=1024&h=669",
+					"alt": "Foushée",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 669,
+					"ratio": 1.5306427503736921
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ba0713be-3a19-4a7f-8d8e-044ee2bf4523_Gang+Stories.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
