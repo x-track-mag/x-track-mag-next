@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-04-08T16:43:39+0000",
+	"publication_date": "2021-04-08T16:49:56+0000",
 	"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
 	"subtitle": "",
 	"image": {
@@ -122,7 +122,7 @@
 					]
 				},
 				{
-					"type": "heading2",
+					"type": "heading3",
 					"text": "Cloud Strife de Final fantasy 7",
 					"spans": [
 						{
@@ -148,7 +148,7 @@
 					"spans": []
 				},
 				{
-					"type": "heading2",
+					"type": "heading3",
 					"text": "Ellie de Last of us",
 					"spans": [
 						{
@@ -189,7 +189,7 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "heading3",
+					"type": "heading2",
 					"text": "Quand la mode s’invite ! ",
 					"spans": [
 						{
@@ -297,7 +297,7 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "heading3",
+					"type": "heading2",
 					"text": "Confinement & Fashion Week : Immersion en terrain connu",
 					"spans": [
 						{
@@ -330,11 +330,6 @@
 				},
 				{
 					"type": "paragraph",
-					"text": " ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
 					"text": "D’autant que cette fan base solide et dépensière est surtout implantée en Asie, point névralgique du marché de la mode. Il ajoute « Là-bas, les jeunes ne savent même pas ce qu’est la télévision … Ils ne lisent pas de magazines mais vivent scotchés à leurs smartphones. Et ils sont nombreux à jouer. En Indonésie, par exemple, un pays très jeune dont la moyenne d’âge est en dessous de 30 ans, 50 millions de personnes jouent tous les jours et les “hard gamers” jouent de cinq à six heures quotidiennement » On peut encore citer Burberry, qui lance B Bounce, un jeu de plateforme mettant en scène les doudounes de la marque. ",
 					"spans": [
 						{
@@ -353,11 +348,6 @@
 							"type": "em"
 						}
 					]
-				},
-				{
-					"type": "paragraph",
-					"text": " ",
-					"spans": []
 				},
 				{
 					"type": "paragraph",
@@ -415,11 +405,6 @@
 							"type": "em"
 						}
 					]
-				},
-				{
-					"type": "paragraph",
-					"text": " ",
-					"spans": []
 				},
 				{
 					"type": "paragraph",
@@ -490,11 +475,6 @@
 				},
 				{
 					"type": "paragraph",
-					"text": " ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
 					"text": "Les avatars de JV ont le vent en poupe, autant chez les grands créateurs qu'auprès de nouvelles sociétés qui sentent la côte de la 3D. De plus en plus de sociétés s'imposent dans la conception de mannequins virtuels, COVID oblige. Car les Fashions Weeks et la montée des consciences écologiques font évoluer les modes de fonctionnement. Si le phygital explose, les raisons sont aussi dans l’offre offerte par cette solution.",
 					"spans": []
 				},
@@ -508,11 +488,6 @@
 							"type": "em"
 						}
 					]
-				},
-				{
-					"type": "paragraph",
-					"text": " ",
-					"spans": []
 				},
 				{
 					"type": "paragraph",
