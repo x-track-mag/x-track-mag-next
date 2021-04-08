@@ -12,15 +12,19 @@
 		},
 		{
 			"position": 1,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
 		},
 		{
 			"position": 2,
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 3,
 			"uid": "x-track-studio---biaziouka"
+		},
+		{
+			"position": 3,
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
 		},
 		{
 			"position": 4,
@@ -129,6 +133,28 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-04-08T17:09:11+0000",
+			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
+		},
+		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
 			"tags": [],
 			"publication_date": "2021-03-03T11:30:19+0000",
@@ -164,23 +190,6 @@
 			"author": "MANON PELINQ",
 			"internal_link": null,
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
-		},
-		{
-			"uid": "x-track-studio---biaziouka",
-			"tags": [],
-			"publication_date": "2021-04-02T12:18:48+0000",
-			"title": "X-Track Studio - Biaziouka ",
-			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
 		},
 		{
 			"uid": "page",
@@ -454,26 +463,21 @@
 			"description": "Our favorite Love & Cool Songs… Enjoy"
 		},
 		{
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-04-08T17:09:11+0000",
-			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
+			"uid": "x-track-studio---biaziouka",
+			"tags": [],
+			"publication_date": "2021-04-02T12:18:48+0000",
+			"title": "X-Track Studio - Biaziouka ",
 			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
+			"image": null,
+			"video_loop": {
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
 			},
-			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
+			"author": null,
 			"internal_link": null,
-			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
+			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
 		},
 		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
