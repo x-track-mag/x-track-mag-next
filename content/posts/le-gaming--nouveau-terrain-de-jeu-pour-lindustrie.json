@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-04-08T17:00:54+0000",
+	"publication_date": "2021-04-08T17:09:11+0000",
 	"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
 	"subtitle": "",
 	"image": {
@@ -82,7 +82,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Depuis Zelda jusque Mario Kart, l’attention apportée aux costumes est primordiale pour capter l’attention des joueurs. Il faut marquer les esprits pour devenir un incontournable : acquérir le statut d’objet de mode, c’est incarner le désir. Le désir fait vendre. Entre un Dante dans Devil May, mi-humain mi-démon, une Chun-Li, première femme combattante de la série Street Fighter ou encore un Ezio, chevalier futuriste dans Assassin's creed, les personnalités des héros sont fignolées comme des objets marketing : Des cheveux aux chaussures, tout y passe. Les fighters sapés de Tekken, corrélés des dessins ultra-réalistes de Final Fantasy ont révolutionné les codes du genre avec des “fashionist-héros”. Les jeux vidéo sont devenus des terrains d’expérimentations pour les créateurs/ joueurs. Par exemple, ",
+					"text": "Depuis Zelda jusque Mario Kart, l’attention apportée aux costumes est primordiale pour capter l’attention des joueurs. Il faut marquer les esprits pour devenir un incontournable : acquérir le statut d’objet de mode, c’est incarner le désir. Le désir fait vendre. Entre un Dante dans Devil May, mi-humain mi-démon, une Chun-Li, première femme combattante de la série Street Fighter ou encore un Ezio, chevalier futuriste dans Assassin's creed, les personnalités des héros sont fignolées comme des objets marketing : Des cheveux aux chaussures, tout y passe. Les fighters sapés de Tekken, corrélés des dessins ultra-réalistes de Final Fantasy ont révolutionné les codes du genre avec des “fashionist-héros”. Les jeux vidéo sont devenus des terrains d’expérimentations pour les créateurs/ joueurs. Par exemple :",
 					"spans": [
 						{
 							"start": 7,
@@ -130,6 +130,11 @@
 							"type": "em"
 						}
 					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
 				},
 				{
 					"type": "heading3",
@@ -300,6 +305,14 @@
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/3f0c3d2e-d06b-49a3-8db1-2c88be3cd38e_b28c1f29d877d3acbfd6575c930cd8b9.png?auto=compress,format&rect=0,0,1000,562&w=1024&h=575",
+					"alt": "Animal crossing, Louis Vuitton",
+					"copyright": null,
+					"width": 1024,
+					"height": 575,
+					"ratio": 1.7808695652173914
 				}
 			]
 		},
@@ -453,6 +466,22 @@
 					"width": 1024,
 					"height": 1167,
 					"ratio": 0.8774635818337618
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/59a25991-6140-49f1-a25d-f4227fc5a38b_shudu-gram-3-1024x1024.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e1bde3a2-79fc-4365-a30e-370667f09b5b_Capture+d%E2%80%99e%CC%81cran+2021-04-08+a%CC%80+19.06.08.png?auto=compress,format&rect=0,0,1184,1130&w=1024&h=977",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 977,
+					"ratio": 1.0481064483111566
 				}
 			]
 		}
