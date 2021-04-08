@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-04-08T16:50:33+0000",
+	"publication_date": "2021-04-08T17:00:54+0000",
 	"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
 	"subtitle": "",
 	"image": {
@@ -295,7 +295,7 @@
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/5d5e8432-11b1-4ce8-91c5-6cfd524bff56_Qiyana_Splash_3.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": null,
+					"alt": "Qiyana édition prestige Louis Vuitton",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -418,12 +418,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Les avatars de JV ont le vent en poupe, autant chez les grands créateurs qu'auprès de nouvelles sociétés qui sentent la côte de la 3D. De plus en plus, de studio de création s'imposent dans la conception de mannequins virtuels, COVID oblige. Car les Fashions Weeks et la montée des consciences écologiques font évoluer les modes de fonctionnement. Le studio Infinity, situé dans les bureaux de la station F et dirigé par Lena Novello, est explicite.",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
+					"text": " Les avatars de JV ont le vent en poupe, autant chez les grands créateurs qu'auprès de nouvelles sociétés qui sentent la côte de la 3D. De plus en plus, de studio de création s'imposent dans la conception de mannequins virtuels, COVID oblige. Car les Fashions Weeks et la montée des consciences écologiques font évoluer les modes de fonctionnement. Le studio Infinity, situé dans les bureaux de la station F et dirigé par Lena Novello, est explicite : ",
 					"spans": []
 				}
 			]
@@ -449,74 +444,11 @@
 			]
 		},
 		{
-			"template": "section-full-text",
-			"text": [
-				{
-					"type": "heading2",
-					"text": "LES AVATARS, FUTURS MANNEQUINS ? ",
-					"spans": [
-						{
-							"start": 0,
-							"end": 33,
-							"type": "strong"
-						}
-					]
-				},
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "Oui car aujourd’hui, la tendance phare ce sont les mannequins 3D. Les marques font appel à ces influenceurs virtuels qui sont suivis par des millions d’adeptes. Prenons par exemple Shudu Gram. Suivie par près de 218 000 abonnés, elle est certifiée, et fait partie des nouvelles égéries virtuelles de Balmain. C’est la chanteuse barbadienne Rihanna qui a partagé une photo du mannequin, lèvres maquillées en Fenty Beauty. Il suffisait de cela pour faire de Shudu une icône mode. Également, la   grande prêtresse virtuelle n’est autre que Lil Miquela, presque 3 millions de followers, et une page wikipédia détaillée à son nom. Elle rapporte quasi 125 millions de dollars à Brud Inc. et a une histoire digne d’une people, normale pour l’égérie de la makeup artist Pat McGrath, qui emboîte ainsi le pas à Naomi Campbell, Slick Woods et Hailey Baldwin.",
-					"spans": [
-						{
-							"start": 181,
-							"end": 191,
-							"type": "em"
-						},
-						{
-							"start": 537,
-							"end": 550,
-							"type": "em"
-						}
-					]
-				},
-				{
-					"type": "paragraph",
-					"text": "Les avatars de JV ont le vent en poupe, autant chez les grands créateurs qu'auprès de nouvelles sociétés qui sentent la côte de la 3D. De plus en plus de sociétés s'imposent dans la conception de mannequins virtuels, COVID oblige. Car les Fashions Weeks et la montée des consciences écologiques font évoluer les modes de fonctionnement. Si le phygital explose, les raisons sont aussi dans l’offre offerte par cette solution.",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "Le studio Infinity, localisé dans les bureaux de la station F et dirigé par Lena Novello, est explicite: \"Le rapport de la Helsinki Fashion week l’assure, avec une Initiative 100% digitale, l'émission de C02 est passée de 137 kg à 0,67 par personne. Mais plus encore, il y a la liberté apportée par la 3D. La mode est un catalyseur de création et le match avec virtuel semble évident en ce qu'il offre de nouveaux moyens d’expression, de story telling et de narration qui dépasse les limites physiques et qui permet de s’approcher au plus proche de l’ADN des marques. » ",
-					"spans": [
-						{
-							"start": 108,
-							"end": 306,
-							"type": "em"
-						}
-					]
-				},
-				{
-					"type": "paragraph",
-					"text": "Véritable objet de fantasme, mais aussi puit de possibilités nouvelles et source d’inspiration quasi inépuisable, les liens entre JV et mode sont quasi infinis. L’un comme l’autre répondent à un besoin de fuite, de consommation et offrent à leur héroïne un statut d'icône. Ce n'est pas “juste” un avatar. Elle possède une vraie personnalité. C'est une personne digitale mais avec une âme. Elle peut incarner des valeurs, une éthique: vegan, anti-fourrure, LGBTQ, trans, activiste. Un autre vous, idéalisé, et dont vous êtes aux manettes. A l’heure ou la société est en quête de sens, ces avatars deviennent plus réels que jamais. Chacun les façonne et projette sur eux des envies. Se rassurer et offrir sa confiance à des êtres qui ne nous trahiront pas … ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": " ",
-					"spans": []
-				}
-			]
-		},
-		{
 			"template": "section-gallery",
 			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/7ee3eb80-a34e-40e7-abea-bc3f75f32822_sub_shudu_1643.png?auto=compress,format&rect=0,0,522,595&w=1024&h=1167",
-					"alt": null,
+					"alt": "Shudu Gram.",
 					"copyright": null,
 					"width": 1024,
 					"height": 1167,
