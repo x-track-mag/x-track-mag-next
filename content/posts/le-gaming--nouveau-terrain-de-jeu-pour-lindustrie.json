@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-04-08T16:35:50+0000",
+	"publication_date": "2021-04-08T16:43:39+0000",
 	"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
 	"subtitle": "",
 	"image": {
@@ -281,18 +281,17 @@
 			]
 		},
 		{
-			"template": "section-two-columns",
-			"text": [],
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5d5e8432-11b1-4ce8-91c5-6cfd524bff56_Qiyana_Splash_3.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-				"alt": null,
-				"copyright": null,
-				"width": 1024,
-				"height": 1024,
-				"ratio": 1
-			},
-			"columns_order": null,
-			"full_page": false
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/5d5e8432-11b1-4ce8-91c5-6cfd524bff56_Qiyana_Splash_3.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
 		},
 		{
 			"template": "section-full-text",
@@ -336,7 +335,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "D’autant que cette fan base solide et dépensière est surtout implantée en Asie, point névralgique du marché de la mode. Il ajoute « Là-bas, les jeunes ne savent même pas ce qu’est la télévision … Ils ne lisent pas de magazines mais vivent scotchés à leurs smartphones. Et ils sont nombreux à jouer. En Indonésie, par exemple, un pays très jeune dont la moyenne d’âge est en dessous de 30 ans, 50 millions de personnes jouent tous les jours et les “hard gamers” jouent de cinq à six heures quotidiennement »On peut encore citer Burberry, qui lance B Bounce, un jeu de plateforme mettant en scène les doudounes de la marque. ",
+					"text": "D’autant que cette fan base solide et dépensière est surtout implantée en Asie, point névralgique du marché de la mode. Il ajoute « Là-bas, les jeunes ne savent même pas ce qu’est la télévision … Ils ne lisent pas de magazines mais vivent scotchés à leurs smartphones. Et ils sont nombreux à jouer. En Indonésie, par exemple, un pays très jeune dont la moyenne d’âge est en dessous de 30 ans, 50 millions de personnes jouent tous les jours et les “hard gamers” jouent de cinq à six heures quotidiennement » On peut encore citer Burberry, qui lance B Bounce, un jeu de plateforme mettant en scène les doudounes de la marque. ",
 					"spans": [
 						{
 							"start": 130,
@@ -345,12 +344,12 @@
 						},
 						{
 							"start": 132,
-							"end": 506,
+							"end": 507,
 							"type": "em"
 						},
 						{
-							"start": 547,
-							"end": 555,
+							"start": 548,
+							"end": 556,
 							"type": "em"
 						}
 					]
@@ -362,23 +361,22 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Les avatars deviennent donc des \"autres soi” dont l'apparence est gage de réussite. Pour Andy Picci, artiste conceptuel et créateur de filtres l’assure “La mode doit s’inspirer de la société. Or les jeux vidéo en sont une partie intégrante. Les JV sont un univers que l’on rêve tel qu’il soit, de ce fait la mode est un spectre de ce monde virtuel. Faire de son soi digital, un alter ego hyper stylisé est logique. Les deux secteurs doivent travailler main dans la main” ",
-					"spans": [
-						{
-							"start": 153,
-							"end": 471,
-							"type": "em"
-						}
-					]
+					"text": "Les avatars deviennent donc des \"autres soi” dont l'apparence est gage de réussite. Pour Andy Picci, artiste conceptuel et créateur de filtres l’assure ",
+					"spans": []
 				},
 				{
 					"type": "paragraph",
 					"text": " ",
 					"spans": []
-				},
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
 				{
 					"type": "paragraph",
-					"text": "Car si la mode s’invite sur les plateformes de jeux vidéos, elle est aussi présente sur les podiums. En 2015, Jeremy Scott, créateur ultra trendy de chez Moschino lance une collection célébrant Mario, le plombier de Nintendo. Des pulls, des sacs, des tee-shirts aux couleurs du plombier ! Avant lui, Raf Simons avait fait de Lara Croft, l'héroïne de \"Tomb Raider\", sa muse pour une collection chez Jil Sander. Du noir, des regards qui tuent, bref la femme fatale à l’honneur mais inspi pixel, décidément les deux sont complémentaires. Tellement que les mannequins du futur sont des héroïnes 3D. ",
+					"text": "La mode doit s’inspirer de la société. Or les jeux vidéo en sont une partie intégrante. Les JV sont un univers que l’on rêve tel qu’il soit, de ce fait la mode est un spectre de ce monde virtuel. Faire de son soi digital, un alter ego hyper stylisé est logique. Les deux secteurs doivent travailler main dans la main",
 					"spans": []
 				}
 			]
@@ -425,20 +423,29 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Les avatars de JV ont le vent en poupe, autant chez les grands créateurs qu'auprès de nouvelles sociétés qui sentent la côte de la 3D. De plus en plus, de studio de création s'imposent dans la conception de mannequins virtuels, COVID oblige. Car les Fashions Weeks et la montée des consciences écologiques font évoluer les modes de fonctionnement. Le studio Infinity, situé dans les bureaux de la station F et dirigé par Lena Novello, est explicite: \"Le rapport de la Helsinki Fashion week l’assure, avec une Initiative 100% digitale, l'émission de C02 est passée de 137 kg à 0,67 par personne. Mais plus encore, il y a la liberté apportée par la 3D. Les logiciels de visualisation, modélisation et simulation de vêtements 3D sont des outils extrêmement précis qui apportent une véritable valeur ajoutée à la visualisation du produit.’",
-					"spans": [
-						{
-							"start": 453,
-							"end": 835,
-							"type": "em"
-						}
-					]
+					"text": "Les avatars de JV ont le vent en poupe, autant chez les grands créateurs qu'auprès de nouvelles sociétés qui sentent la côte de la 3D. De plus en plus, de studio de création s'imposent dans la conception de mannequins virtuels, COVID oblige. Car les Fashions Weeks et la montée des consciences écologiques font évoluer les modes de fonctionnement. Le studio Infinity, situé dans les bureaux de la station F et dirigé par Lena Novello, est explicite.",
+					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": " ",
+					"text": "",
 					"spans": []
-				},
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Le rapport de la Helsinki Fashion week l’assure, avec une Initiative 100% digitale, l'émission de C02 est passée de 137 kg à 0,67 par personne. Mais plus encore, il y a la liberté apportée par la 3D. Les logiciels de visualisation, modélisation et simulation de vêtements 3D sont des outils extrêmement précis qui apportent une véritable valeur ajoutée à la visualisation du produit.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
 				{
 					"type": "paragraph",
 					"text": "Véritable objet de fantasme, mais aussi nébuleuse à possibilités, les liens entre JV et mode sont quasi infinis. L’un comme l’autre répondent à un besoin de fuite, de consommation et offrent à leur héroïne un statut d'icône. Ce n'est pas “juste” un avatar. Elle possède une vraie personnalité. C'est une personne digitale mais avec une âme très humaine. Elle peut avoir des valeurs, une éthique: vegan, anti-fourrure, LGBTQ, trans, activiste. Un autre vous, idéalisé, et dont vous êtes aux manettes. Votre avatar fait partie de votre quotidien et devient un proche. A l’heure ou la société est en quête de sens, ces avatars deviennent plus réels que jamais. Chacun les façonne et projette sur eux des envies. Se rassurer et offrir sa confiance à des êtres qui ne nous décevront pas … ",
@@ -447,24 +454,10 @@
 			]
 		},
 		{
-			"template": "section-two-columns",
-			"text": [],
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/7ee3eb80-a34e-40e7-abea-bc3f75f32822_sub_shudu_1643.png?auto=compress,format&rect=0,0,522,595&w=1024&h=1167",
-				"alt": null,
-				"copyright": null,
-				"width": 1024,
-				"height": 1167,
-				"ratio": 0.8774635818337618
-			},
-			"columns_order": null,
-			"full_page": false
-		},
-		{
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "heading3",
+					"type": "heading2",
 					"text": "LES AVATARS, FUTURS MANNEQUINS ? ",
 					"spans": [
 						{
@@ -530,6 +523,19 @@
 					"type": "paragraph",
 					"text": " ",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/7ee3eb80-a34e-40e7-abea-bc3f75f32822_sub_shudu_1643.png?auto=compress,format&rect=0,0,522,595&w=1024&h=1167",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1167,
+					"ratio": 0.8774635818337618
 				}
 			]
 		}
