@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-04T07:54:49+0000",
+	"publication_date": "2021-04-10T18:41:50+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/aea2f749-1cc0-4ea9-ab9d-a136ee520eaf_La+Femme.jpg?auto=compress,format",
-		"alt": "La Femme",
+		"url": "https://images.prismic.io/x-track-mag/b6e7da8c-a151-4197-a431-11807665fc03_HBee.jpg?auto=compress,format",
+		"alt": "HBee",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
+		"width": 1200,
+		"height": 1200,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Chiiild x Mahalia, Thutmose x Bankulli, Dj Tunez x J. Anthoni, DLNY, La Femme, Madam3empress, Awon x Phoniks, Otis Kane, Big Sean x Anderson Paak x Earlly Mac x Wale, Junia-T x Taji Love, Mustafa, Foushée x Lil Wayne, Blundetto & +++👆🏽👆🎼🎧",
+					"text": "Tierra Whack,  DJ Tunez x J. Anthoni, Matt Martians, Blu DeTiger x Flight-Facilities,  Junia-T x jessie Reyez, HBee, Peruzzi x Patoranking, Blaqbonez x Amaarae, Biga Ranx x Benken, Darkside, Col3trane, Yaya Bey, Sunni Colon, Loony x Mick Jenkins, Protoje, Gabriel Garzon-Montano x Sampa The Great x Amber Mark, Twit One x Reginald-Omas-Mamode-IV & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -53,28 +53,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/df60828d-fb5e-4437-bb54-123aceb58324_Chiiild.jpg?auto=compress,format&rect=0,0,2214,2768&w=1024&h=1280",
-					"alt": "Chiiild",
+					"url": "https://images.prismic.io/x-track-mag/944099ef-72e1-4431-b820-fed739de9fdd_Blu+DeTiger.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Blu DeTiger",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5c9fe5aa-a095-482a-b46a-2f5e4a405f5d_Foushe%CC%81e.+.jpg?auto=compress,format&rect=0,0,820,536&w=1024&h=669",
-					"alt": "Foushée",
+					"url": "https://images.prismic.io/x-track-mag/75634983-d611-478f-a163-3522f7b4d8a1_flight-facilities.jpg?auto=compress,format&rect=0,0,960,532&w=1024&h=567",
+					"alt": "Flight-Facilities",
 					"copyright": null,
 					"width": 1024,
-					"height": 669,
-					"ratio": 1.5306427503736921
+					"height": 567,
+					"ratio": 1.8059964726631392
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7262f41f-0c51-4323-bee5-22c9edc36d1b_Mahalia.jpg?auto=compress,format&rect=0,0,2560,1705&w=1024&h=682",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/f7b83246-b217-45ea-9976-1ec3615f9574_Tierra-Whack-.jpg?auto=compress,format&rect=0,0,1440,720&w=1024&h=512",
+					"alt": "Tierra Whack",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
+					"height": 512,
+					"ratio": 2
 				}
 			]
 		},
@@ -82,28 +82,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/6d399259-3831-4939-a661-fccaf206be3e_Junia-T+x+Taji+Love.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Junia-T x Taji Love",
+					"url": "https://images.prismic.io/x-track-mag/36441f53-66eb-48fc-b8d8-e0d439ad8bde_Jessie+Reyez.jpg?auto=compress,format&rect=0,0,2560,1740&w=1024&h=696",
+					"alt": "Jessie Reyez",
+					"copyright": null,
+					"width": 1024,
+					"height": 696,
+					"ratio": 1.471264367816092
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5f464dc2-62a3-4432-b916-96d1efe14ea9_Col3trane.jpg?auto=compress,format&rect=0,0,779,779&w=1024&h=1024",
+					"alt": "Col3trane",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1c82d5e2-820b-4848-b660-2288557de37d_Big+Sean+x+Anderson+Paak+x+Earlly+Mac+x+Wale.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Big Sean x Anderson Paak x Earlly Mac x Wale",
+					"url": "https://images.prismic.io/x-track-mag/e18083b7-1095-4e7e-9f85-fd303b327ee4_Amaarae+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Amaarae ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ba0713be-3a19-4a7f-8d8e-044ee2bf4523_Gang+Stories.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": "Blundetto",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},

@@ -196,15 +196,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-04-04T07:54:49+0000",
+			"publication_date": "2021-04-10T18:41:50+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/aea2f749-1cc0-4ea9-ab9d-a136ee520eaf_La+Femme.jpg?auto=compress,format",
-				"alt": "La Femme",
+				"url": "https://images.prismic.io/x-track-mag/b6e7da8c-a151-4197-a431-11807665fc03_HBee.jpg?auto=compress,format",
+				"alt": "HBee",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
+				"width": 1200,
+				"height": 1200,
 				"ratio": 1
 			},
 			"video_loop": null,
