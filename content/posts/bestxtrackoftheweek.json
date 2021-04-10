@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-10T18:41:50+0000",
+	"publication_date": "2021-04-10T18:47:29+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -82,20 +82,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/36441f53-66eb-48fc-b8d8-e0d439ad8bde_Jessie+Reyez.jpg?auto=compress,format&rect=0,0,2560,1740&w=1024&h=696",
-					"alt": "Jessie Reyez",
+					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=compress,format&rect=0,0,1612,2015&w=1024&h=1280",
+					"alt": "Protoje",
 					"copyright": null,
 					"width": 1024,
-					"height": 696,
-					"ratio": 1.471264367816092
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5f464dc2-62a3-4432-b916-96d1efe14ea9_Col3trane.jpg?auto=compress,format&rect=0,0,779,779&w=1024&h=1024",
-					"alt": "Col3trane",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/e18083b7-1095-4e7e-9f85-fd303b327ee4_Amaarae+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -104,6 +96,14 @@
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5f464dc2-62a3-4432-b916-96d1efe14ea9_Col3trane.jpg?auto=compress,format&rect=0,0,779,779&w=1024&h=1024",
+					"alt": "Col3trane",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
