@@ -3,9 +3,9 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-12T10:24:45+0000",
+	"publication_date": "2021-04-12T10:32:04+0000",
 	"title": "Feel Good",
-	"subtitle": "Hip Hop x Soul x Afropop x Pop           100% Positive Energy",
+	"subtitle": "Hip Hop x Soul x Afropop x Pop 100% Positive Energy",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/b1bf1d5a-7665-4ab6-977d-caf3b8b92185_Tierra+Whack.jpg?auto=compress,format",
 		"alt": "Tierra Whack",
@@ -23,7 +23,7 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "heading3",
+					"type": "paragraph",
 					"text": "Dj Tunez x J.Anthoni, Tierra Whack, Jungle, Brijean, DYLN, Doja Catx x Disclosure, SG Lewis x Lucky Daye, K. Zia, Worlasi, Sault, Muzi x Tiro, Tekno, Juls x Tiwch 4eva x Quamina Mp, Emotional Oranges x Channel Tres, Buju Banton x Pharrell Williams & +++ Enjoy",
 					"spans": []
 				}
