@@ -13,19 +13,27 @@
 		},
 		{
 			"position": 2,
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 3,
-			"uid": "x-track-studio---biaziouka"
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
 		},
 		{
 			"position": 4,
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+			"uid": "x-track-studio---biaziouka"
 		},
 		{
 			"position": 5,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+			"uid": "bestxtrackoftheweek"
+		},
+		{
+			"position": 6,
+			"uid": "lhysterie"
+		},
+		{
+			"position": 7,
+			"uid": "about-us"
 		}
 	],
 	"selected_reads": [
@@ -104,6 +112,23 @@
 			"description": "Playlist Hip Hop x Soul x Afropop x Pop"
 		},
 		{
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
+			"tags": [],
+			"publication_date": "2021-03-03T11:30:19+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
+			"image": null,
+			"video_loop": {
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+		},
+		{
 			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
 			"tags": [
 				"article"
@@ -143,41 +168,45 @@
 			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
 		},
 		{
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
-			"tags": [],
-			"publication_date": "2021-03-18T18:01:34+0000",
-			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
-			"subtitle": "",
+			"uid": "bestxtrackoftheweek",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-04-10T18:55:29+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/b6e7da8c-a151-4197-a431-11807665fc03_HBee.jpg?auto=compress,format",
+				"alt": "HBee",
 				"copyright": null,
-				"width": 1080,
-				"height": 1080,
+				"width": 1200,
+				"height": 1200,
 				"ratio": 1
 			},
 			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "MANON PELINQ",
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
-			"tags": [],
-			"publication_date": "2021-03-03T11:30:19+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
+			"uid": "lhysterie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T10:23:55+0000",
+			"title": "DON'T CALL ME BABE ",
+			"subtitle": "",
 			"image": null,
 			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
 			},
 			"template": "3: Image + Titre",
-			"author": null,
+			"author": "Sylsphée Bertili",
 			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "new-romance",
@@ -202,28 +231,6 @@
 			"description": "Playlist Chill, Cool, Love"
 		},
 		{
-			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-04-10T18:55:29+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b6e7da8c-a151-4197-a431-11807665fc03_HBee.jpg?auto=compress,format",
-				"alt": "HBee",
-				"copyright": null,
-				"width": 1200,
-				"height": 1200,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
-		},
-		{
 			"uid": "page",
 			"tags": [],
 			"publication_date": "2021-03-24T18:28:30+0000",
@@ -242,6 +249,26 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "La mode éthique : classe ou classiste ?                              "
+		},
+		{
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
+			"tags": [],
+			"publication_date": "2021-03-18T18:01:34+0000",
+			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "MANON PELINQ",
+			"internal_link": null,
+			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
@@ -390,25 +417,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
-		},
-		{
-			"uid": "lhysterie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T10:23:55+0000",
-			"title": "DON'T CALL ME BABE ",
-			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
-			},
-			"template": "3: Image + Titre",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "polycool",
