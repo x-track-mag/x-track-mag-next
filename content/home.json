@@ -29,7 +29,7 @@
 		},
 		{
 			"position": 6,
-			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
+			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
 			"position": 7,
@@ -66,6 +66,10 @@
 		{
 			"position": 15,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+		},
+		{
+			"position": 16,
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
 		}
 	],
 	"selected_reads": [
@@ -218,26 +222,26 @@
 			"description": ""
 		},
 		{
-			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
+			"uid": "la-muse--une-icone-feministe-",
 			"tags": [
 				"article"
 			],
-			"publication_date": "2021-01-19T16:15:44+0000",
-			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
+			"publication_date": "2021-03-10T16:56:02+0000",
+			"title": "La muse : une icône féministe ? ",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
 				"copyright": null,
-				"width": 1920,
-				"height": 1080,
-				"ratio": 1.7777777777777777
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
 			},
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Manon Pelinq",
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassa",
 			"internal_link": null,
-			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
+			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
 			"uid": "bestxtrackoftheweek",
@@ -427,26 +431,26 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
-			"uid": "la-muse--une-icone-feministe-",
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
 				"article"
 			],
-			"publication_date": "2021-03-10T16:56:02+0000",
-			"title": "La muse : une icône féministe ? ",
+			"publication_date": "2021-01-19T16:15:44+0000",
+			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
+				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
+				"width": 1920,
+				"height": 1080,
+				"ratio": 1.7777777777777777
 			},
 			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassa",
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Manon Pelinq",
 			"internal_link": null,
-			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
+			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
 			"uid": "in-love",
