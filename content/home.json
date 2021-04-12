@@ -37,7 +37,7 @@
 		},
 		{
 			"position": 8,
-			"uid": "page"
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
 			"position": 9,
@@ -50,10 +50,6 @@
 		{
 			"position": 10,
 			"uid": "nola-cherri"
-		},
-		{
-			"position": 12,
-			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		}
 	],
 	"selected_reads": [
@@ -250,24 +246,27 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2021-03-24T18:28:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
+			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"tags": [
+				"article",
+				"fashion"
+			],
+			"publication_date": "2021-02-02T18:09:17+0000",
+			"title": "L’Avenir de la Mode est-il virtuel ?",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
+				"alt": "©",
 				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
 			},
 			"video_loop": null,
-			"template": "3: Image + Titre",
+			"template": "5: 2 colonnes Titre + Image",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
+			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
 			"uid": "lhysterie",
@@ -331,27 +330,24 @@
 			"description": "Playlist Chill, Cool, Love"
 		},
 		{
-			"uid": "lavenir-de-la-mode-est-il-virtuel",
-			"tags": [
-				"article",
-				"fashion"
-			],
-			"publication_date": "2021-02-02T18:09:17+0000",
-			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2021-03-24T18:28:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
-				"alt": "©",
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
 			},
 			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
+			"template": "3: Image + Titre",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "L’Avenir de la Mode est-il virtuel ?"
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
