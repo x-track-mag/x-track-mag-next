@@ -41,15 +41,31 @@
 		},
 		{
 			"position": 9,
-			"uid": "new-romance"
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
 			"position": 10,
-			"uid": "lavenir-de-la-mode-est-il-virtuel"
+			"uid": "new-romance"
 		},
 		{
 			"position": 11,
 			"uid": "lhysterie"
+		},
+		{
+			"position": 12,
+			"uid": "page"
+		},
+		{
+			"position": 13,
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+		},
+		{
+			"position": 14,
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+		},
+		{
+			"position": 15,
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		}
 	],
 	"selected_reads": [
@@ -266,28 +282,6 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "new-romance",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-04-12T09:38:32+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill, Cool, Love",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format",
-				"alt": "Rilès Leone Younès Terry Family Business",
-				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTraxk Team",
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
-		},
-		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -309,6 +303,28 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "L’Avenir de la Mode est-il virtuel ?"
+		},
+		{
+			"uid": "new-romance",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-04-12T09:38:32+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill, Cool, Love",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format",
+				"alt": "Rilès Leone Younès Terry Family Business",
+				"copyright": null,
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTraxk Team",
+			"internal_link": null,
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "lhysterie",
@@ -350,6 +366,25 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2020-12-16T11:38:09+0000",
+			"title": "Episode 1 : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
+		},
+		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 			"tags": [],
 			"publication_date": "2021-03-18T18:01:34+0000",
@@ -368,6 +403,28 @@
 			"author": "MANON PELINQ",
 			"internal_link": null,
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
+		},
+		{
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
@@ -410,47 +467,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Our favorite Love & Cool Songs… Enjoy"
-		},
-		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T22:52:14+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
-		},
-		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2020-12-16T11:38:09+0000",
-			"title": "Episode 1 : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "polycool",
