@@ -41,15 +41,15 @@
 		},
 		{
 			"position": 9,
-			"uid": "lhysterie"
-		},
-		{
-			"position": 10,
 			"uid": "new-romance"
 		},
 		{
 			"position": 10,
 			"uid": "lavenir-de-la-mode-est-il-virtuel"
+		},
+		{
+			"position": 11,
+			"uid": "lhysterie"
 		}
 	],
 	"selected_reads": [
@@ -266,23 +266,26 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "lhysterie",
+			"uid": "new-romance",
 			"tags": [
-				"article"
+				"music"
 			],
-			"publication_date": "2020-12-16T10:23:55+0000",
-			"title": "DON'T CALL ME BABE ",
-			"subtitle": "",
-			"image": null,
-			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
+			"publication_date": "2021-04-12T09:38:32+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill, Cool, Love",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format",
+				"alt": "Rilès Leone Younès Terry Family Business",
+				"copyright": null,
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
 			},
-			"template": "3: Image + Titre",
-			"author": "Sylsphée Bertili",
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTraxk Team",
 			"internal_link": null,
-			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
@@ -308,26 +311,23 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "new-romance",
+			"uid": "lhysterie",
 			"tags": [
-				"music"
+				"article"
 			],
-			"publication_date": "2021-04-12T09:38:32+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill, Cool, Love",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format",
-				"alt": "Rilès Leone Younès Terry Family Business",
-				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
+			"publication_date": "2020-12-16T10:23:55+0000",
+			"title": "DON'T CALL ME BABE ",
+			"subtitle": "",
+			"image": null,
+			"video_loop": {
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
 			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTraxk Team",
+			"template": "3: Image + Titre",
+			"author": "Sylsphée Bertili",
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "page",
