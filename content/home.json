@@ -25,15 +25,15 @@
 		},
 		{
 			"position": 5,
-			"uid": "bestxtrackoftheweek"
+			"uid": "2020-is-the-year"
 		},
 		{
 			"position": 6,
-			"uid": "lhysterie"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 7,
-			"uid": "2020-is-the-year"
+			"uid": "lhysterie"
 		},
 		{
 			"position": 8,
@@ -46,6 +46,14 @@
 		{
 			"position": 10,
 			"uid": "nola-cherri"
+		},
+		{
+			"position": 11,
+			"uid": "page"
+		},
+		{
+			"position": 12,
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		}
 	],
 	"selected_reads": [
@@ -180,6 +188,24 @@
 			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T17:24:08+0000",
+			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
+		},
+		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
@@ -219,24 +245,6 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
-		},
-		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T17:24:08+0000",
-			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
 		},
 		{
 			"uid": "new-romance",
@@ -323,6 +331,29 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
+			"uid": "lavenir-de-la-mode-est-il-virtuel",
+			"tags": [
+				"article",
+				"fashion"
+			],
+			"publication_date": "2021-02-02T18:09:17+0000",
+			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
+				"alt": "©",
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "L’Avenir de la Mode est-il virtuel ?"
+		},
+		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 			"tags": [],
 			"publication_date": "2021-03-18T18:01:34+0000",
@@ -363,29 +394,6 @@
 			"author": "Aphelandra Siassa",
 			"internal_link": null,
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
-		},
-		{
-			"uid": "lavenir-de-la-mode-est-il-virtuel",
-			"tags": [
-				"article",
-				"fashion"
-			],
-			"publication_date": "2021-02-02T18:09:17+0000",
-			"title": "L’Avenir de la Mode est-il virtuel ?",
-			"subtitle": "",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
-				"alt": "©",
-				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
 			"uid": "in-love",
