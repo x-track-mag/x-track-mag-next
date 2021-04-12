@@ -37,19 +37,19 @@
 		},
 		{
 			"position": 8,
-			"uid": "lhysterie"
+			"uid": "page"
 		},
 		{
 			"position": 9,
+			"uid": "lhysterie"
+		},
+		{
+			"position": 10,
 			"uid": "new-romance"
 		},
 		{
 			"position": 10,
 			"uid": "nola-cherri"
-		},
-		{
-			"position": 11,
-			"uid": "page"
 		},
 		{
 			"position": 12,
@@ -250,6 +250,26 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2021-03-24T18:28:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique : classe ou classiste ?                              "
+		},
+		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
@@ -267,28 +287,6 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
-		},
-		{
-			"uid": "new-romance",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-04-12T09:38:32+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill, Cool, Love",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format",
-				"alt": "Rilès Leone Younès Terry Family Business",
-				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTraxk Team",
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "nola-cherri",
@@ -311,24 +309,26 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2021-03-24T18:28:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
-			"subtitle": "",
+			"uid": "new-romance",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-04-12T09:38:32+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill, Cool, Love",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format",
+				"alt": "Rilès Leone Younès Terry Family Business",
 				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
 			},
 			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTraxk Team",
 			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
