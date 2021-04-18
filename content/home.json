@@ -248,16 +248,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-04-10T18:55:29+0000",
+			"publication_date": "2021-04-18T09:56:57+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b6e7da8c-a151-4197-a431-11807665fc03_HBee.jpg?auto=compress,format",
-				"alt": "HBee",
+				"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format",
+				"alt": "Greentea Peng ",
 				"copyright": null,
-				"width": 1200,
-				"height": 1200,
-				"ratio": 1
+				"width": 957,
+				"height": 956,
+				"ratio": 1.0010460251046025
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

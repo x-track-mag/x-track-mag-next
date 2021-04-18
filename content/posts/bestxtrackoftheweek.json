@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-10T18:55:29+0000",
+	"publication_date": "2021-04-18T09:56:57+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/b6e7da8c-a151-4197-a431-11807665fc03_HBee.jpg?auto=compress,format",
-		"alt": "HBee",
+		"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format",
+		"alt": "Greentea Peng ",
 		"copyright": null,
-		"width": 1200,
-		"height": 1200,
-		"ratio": 1
+		"width": 957,
+		"height": 956,
+		"ratio": 1.0010460251046025
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Tierra Whack,  DJ Tunez x J. Anthoni, Matt Martians, Blu DeTiger x Flight-Facilities,  Junia-T x jessie Reyez, HBee, Peruzzi x Patoranking, Wizkid x Tems, Blaqbonez x Amaarae, Biga Ranx x Benken, Darkside, Col3trane, Yaya Bey, Sunni Colon, Loony x Mick Jenkins, Protoje, Gabriel Garzon-Montano x Sampa The Great x Amber Mark, Twit One x Reginald-Omas-Mamode-IV & +++👆🏽👆🎼🎧",
+					"text": "Greentea Peng, Biig Piig, Matt Martians, Fred Again x Angie McMahon, Silly Boy Blue x Totally Enormous Extinct Dinosaurs, Peruzzi x Fireboy DML, DRB Lasgidi x Teezee, Tems, Popcaan,  Hbee x Trendz, Dangbana Republik x Bella Shmurda, Murilo Chester, Chaton, Amaru & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -53,28 +53,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/944099ef-72e1-4431-b820-fed739de9fdd_Blu+DeTiger.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Blu DeTiger",
+					"url": "https://images.prismic.io/x-track-mag/5f17e7b3-d3c7-4d46-a6b5-9d4d81d7ca7f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Biig Piig ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/75634983-d611-478f-a163-3522f7b4d8a1_flight-facilities.jpg?auto=compress,format&rect=0,0,960,532&w=1024&h=567",
-					"alt": "Flight-Facilities",
+					"url": "https://images.prismic.io/x-track-mag/717dd8cd-a4ed-4142-b45e-7c55c4206b44_Popcaan.jpg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
+					"alt": "Popcaan",
 					"copyright": null,
 					"width": 1024,
-					"height": 567,
-					"ratio": 1.8059964726631392
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f7b83246-b217-45ea-9976-1ec3615f9574_Tierra-Whack-.jpg?auto=compress,format&rect=0,0,1440,720&w=1024&h=512",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/0645a374-390e-44c9-a4db-dabe256876ce_Tems.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 512,
-					"ratio": 2
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -82,28 +82,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=compress,format&rect=0,0,1612,2015&w=1024&h=1280",
-					"alt": "Protoje",
+					"url": "https://images.prismic.io/x-track-mag/5d24bb93-993f-47a7-b360-0419d41a208b_Silly+Boy+Blue.jpg?auto=compress,format&rect=0,0,829,1024&w=1024&h=1265",
+					"alt": "Silly Boy Blue",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1265,
+					"ratio": 0.8094861660079051
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e18083b7-1095-4e7e-9f85-fd303b327ee4_Amaarae+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Amaarae ",
+					"url": "https://images.prismic.io/x-track-mag/c844ed90-15bf-4723-9563-f33797c7e5c3_Murilo+Chester.jpg?auto=compress,format&rect=0,0,683,1024&w=1024&h=1535",
+					"alt": "Murilo Chester",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1535,
+					"ratio": 0.6671009771986971
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5f464dc2-62a3-4432-b916-96d1efe14ea9_Col3trane.jpg?auto=compress,format&rect=0,0,779,779&w=1024&h=1024",
-					"alt": "Col3trane",
+					"url": "https://images.prismic.io/x-track-mag/4cf64218-937f-4210-b7b8-c63ace411552_Amaru.+.jpg?auto=compress,format&rect=0,0,633,820&w=1024&h=1327",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1327,
+					"ratio": 0.771665410700829
 				}
 			]
 		},
@@ -111,11 +111,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=PAezRzitRYaSeu5-hHeJkQ",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=cjb-M7E0SxOlfRGagBBcdA",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-xlyNb7VtvNPRE",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-8aAVNrbhJMKRZ",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
