@@ -9,7 +9,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "feel-good"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 2,
@@ -33,7 +33,7 @@
 		},
 		{
 			"position": 7,
-			"uid": "bestxtrackoftheweek"
+			"uid": "feel-good"
 		},
 		{
 			"position": 8,
@@ -126,26 +126,26 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "feel-good",
+			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-04-13T21:41:05+0000",
-			"title": "Feel Good",
-			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"publication_date": "2021-04-18T09:58:51+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b1bf1d5a-7665-4ab6-977d-caf3b8b92185_Tierra+Whack.jpg?auto=compress,format",
-				"alt": "Tierra Whack",
+				"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format",
+				"alt": "Greentea Peng ",
 				"copyright": null,
-				"width": 1760,
-				"height": 1292,
-				"ratio": 1.3622291021671826
+				"width": 957,
+				"height": 956,
+				"ratio": 1.0010460251046025
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "x-track-studio---biaziouka",
@@ -244,26 +244,26 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
-			"uid": "bestxtrackoftheweek",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-04-18T09:58:51+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
+			"publication_date": "2021-04-13T21:41:05+0000",
+			"title": "Feel Good",
+			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format",
-				"alt": "Greentea Peng ",
+				"url": "https://images.prismic.io/x-track-mag/b1bf1d5a-7665-4ab6-977d-caf3b8b92185_Tierra+Whack.jpg?auto=compress,format",
+				"alt": "Tierra Whack",
 				"copyright": null,
-				"width": 957,
-				"height": 956,
-				"ratio": 1.0010460251046025
+				"width": 1760,
+				"height": 1292,
+				"ratio": 1.3622291021671826
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		},
 		{
 			"uid": "nola-cherri",
