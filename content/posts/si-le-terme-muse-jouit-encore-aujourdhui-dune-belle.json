@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-04-21T13:18:12+0000",
+	"publication_date": "2021-04-21T13:20:00+0000",
 	"title": "La Muse, une icône féministe ? ",
 	"subtitle": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
 	"image": {
@@ -22,6 +22,21 @@
 		{
 			"template": "section-full-text",
 			"text": [
+				{
+					"type": "heading2",
+					"text": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
 				{
 					"type": "paragraph",
 					"text": "Si le terme muse jouit encore aujourd’hui d’une belle popularité, il a au fil du temps, et plus particulièrement au XXème siècle était marqué par de nombreuses évolutions. De l’entrée des femmes artistes à l’Ecole Nationale des Beaux-Arts au “tout muse” à l’orée du XXIème siècle, cette figure mythique s’est éloignée sans jamais s’en défaire de son dessein primaire, à savoir celui d’inspirer. Décryptage. ",
@@ -44,7 +59,7 @@
 					"spans": []
 				},
 				{
-					"type": "heading2",
+					"type": "heading3",
 					"text": "Des femmes en lutte pour accéder au rang d’artistes",
 					"spans": [
 						{
@@ -122,7 +137,7 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "heading2",
+					"type": "heading3",
 					"text": "L’heure du grand retournement ",
 					"spans": [
 						{
@@ -241,5 +256,5 @@
 			]
 		}
 	],
-	"description": "Si le terme muse jouit encore aujourd’hui d’une belle popularité, il a au fil du temps, et plus particulièrement au XXème siècle était marqué par de nombreuses évolutions. De l’entrée des femmes artistes à l’Ecole Nationale des Beaux-Arts au “tout muse” à l’orée du XXIème siècle, cette figure mythique s’est éloignée sans jamais s’en défaire de son dessein primaire, à savoir celui d’inspirer. Décryptage. "
+	"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 }
