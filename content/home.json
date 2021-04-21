@@ -9,66 +9,70 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestxtrackoftheweek"
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		},
 		{
 			"position": 2,
-			"uid": "x-track-studio---biaziouka"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 3,
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
+			"uid": "x-track-studio---biaziouka"
 		},
 		{
 			"position": 4,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
 		},
 		{
 			"position": 5,
-			"uid": "2020-is-the-year"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 6,
-			"uid": "la-muse--une-icone-feministe-"
+			"uid": "2020-is-the-year"
 		},
 		{
 			"position": 7,
-			"uid": "feel-good"
+			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
 			"position": 8,
-			"uid": "nola-cherri"
+			"uid": "feel-good"
 		},
 		{
 			"position": 9,
-			"uid": "lavenir-de-la-mode-est-il-virtuel"
+			"uid": "nola-cherri"
 		},
 		{
 			"position": 10,
-			"uid": "new-romance"
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
 			"position": 11,
-			"uid": "lhysterie"
+			"uid": "new-romance"
 		},
 		{
 			"position": 12,
-			"uid": "page"
+			"uid": "lhysterie"
 		},
 		{
 			"position": 13,
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+			"uid": "page"
 		},
 		{
 			"position": 14,
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
 			"position": 15,
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
 		},
 		{
 			"position": 16,
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+		},
+		{
+			"position": 17,
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
 		}
 	],
@@ -125,6 +129,28 @@
 	],
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
+		{
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-04-21T13:20:00+0000",
+			"title": "La Muse, une icône féministe ? ",
+			"subtitle": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassa",
+			"internal_link": null,
+			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
+		},
 		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
@@ -451,28 +477,6 @@
 			"author": "Manon Pelinq",
 			"internal_link": null,
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
-		},
-		{
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-04-21T13:20:00+0000",
-			"title": "La Muse, une icône féministe ? ",
-			"subtitle": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassa",
-			"internal_link": null,
-			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
 			"uid": "in-love",
