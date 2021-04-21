@@ -454,9 +454,24 @@
 		},
 		{
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
-			"publication_date": "2021-04-21T12:52:41+0000",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-04-21T12:54:16+0000",
 			"title": "La Muse, une icône féministe ? ",
 			"subtitle": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassa",
+			"internal_link": null,
 			"description": "Si le terme muse jouit encore aujourd’hui d’une belle popularité, il a au fil du temps, et plus particulièrement au XXème siècle était marqué par de nombreuses évolutions. De l’entrée des femmes artistes à l’Ecole Nationale des Beaux-Arts au “tout muse” à l’orée du XXIème siècle, cette figure mythique s’est éloignée sans jamais s’en défaire de son dessein primaire, à savoir celui d’inspirer. Décryptage. "
 		},
 		{
