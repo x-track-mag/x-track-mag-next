@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-04-21T12:54:16+0000",
+	"publication_date": "2021-04-21T12:57:41+0000",
 	"title": "La Muse, une icône féministe ? ",
 	"subtitle": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
 	"image": {
@@ -22,7 +22,7 @@
 		{
 			"template": "section-hero",
 			"title": "--blank--",
-			"subtitle": null,
+			"subtitle": "--blank--",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
 				"alt": null,
@@ -45,12 +45,7 @@
 							"type": "strong"
 						}
 					]
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+				},
 				{
 					"type": "paragraph",
 					"text": "Fin du XIXème siècle. Le monde des arts en France doit se confronter à l’évolution des moeurs. Depuis quelque temps, les femmes revendiquent leur droit d’embrasser officiellement la carrière d’artiste. En 1880, l’Académie Julian - école d’art privée parisienne -, ouvre ses portes aux femmes. Et en 1881, l’artiste Hélène Bertaux fonde l’union des femmes peintres et sculpteurs. Leur but : faire pression pour qu’elles puissent accéder à la formation de l’Ecole Nationale des Beaux-Arts. ",
