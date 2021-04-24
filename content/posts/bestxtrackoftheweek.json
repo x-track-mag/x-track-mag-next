@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-24T20:55:47+0000",
+	"publication_date": "2021-04-24T21:00:01+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -53,24 +53,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/371bb10e-fcdc-4342-a88f-5c8454d84f71_Mali+Ama.jpg?auto=compress,format&rect=0,0,1475,1474&w=1024&h=1023",
-					"alt": "Mali Ama",
+					"url": "https://images.prismic.io/x-track-mag/f0431357-2cdf-4e98-b81a-4b409cbcdfae_Amber+Mark+.jpg?auto=compress,format&rect=0,0,1080,1269&w=1024&h=1203",
+					"alt": "Amber Mark",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1203,
+					"ratio": 0.8512053200332502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b9fcde9d-088e-44b1-9dfa-9dfe91a58187_Runtown.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Runtown",
+					"url": "https://images.prismic.io/x-track-mag/cfa434b4-647c-4f05-896d-6b88f6ef9887_Shay+Lia.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Shay Lia",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/71fe2dde-9d68-4728-a84a-4f6f19959424_Bellah.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
-					"alt": "Bellah",
+					"url": "https://images.prismic.io/x-track-mag/371bb10e-fcdc-4342-a88f-5c8454d84f71_Mali+Ama.jpg?auto=compress,format&rect=0,0,1475,1474&w=1024&h=1023",
+					"alt": "Mali Ama",
 					"copyright": null,
 					"width": 1024,
 					"height": 1023,
@@ -90,20 +90,20 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/cfa434b4-647c-4f05-896d-6b88f6ef9887_Shay+Lia.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": "Shay Lia",
+					"url": "https://images.prismic.io/x-track-mag/f89307f2-2ccd-4bf2-98d7-b3850964f247_Loony.jpg?auto=compress,format&rect=0,0,720,720&w=1024&h=1024",
+					"alt": "Loony",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f0431357-2cdf-4e98-b81a-4b409cbcdfae_Amber+Mark+.jpg?auto=compress,format&rect=0,0,1080,1269&w=1024&h=1203",
-					"alt": "Amber Mark",
+					"url": "https://images.prismic.io/x-track-mag/71fe2dde-9d68-4728-a84a-4f6f19959424_Bellah.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
+					"alt": "Bellah",
 					"copyright": null,
 					"width": 1024,
-					"height": 1203,
-					"ratio": 0.8512053200332502
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				}
 			]
 		},
