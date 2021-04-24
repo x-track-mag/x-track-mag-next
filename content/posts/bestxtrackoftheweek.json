@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-18T09:58:51+0000",
+	"publication_date": "2021-04-24T20:55:47+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format",
-		"alt": "Greentea Peng ",
+		"url": "https://images.prismic.io/x-track-mag/ec6d3986-13a1-49a0-afb2-2a39a4ae53a6_Jorja-Smith%2B.jpg?auto=compress,format",
+		"alt": "Jorja Smith",
 		"copyright": null,
-		"width": 957,
-		"height": 956,
-		"ratio": 1.0010460251046025
+		"width": 1294,
+		"height": 893,
+		"ratio": 1.4490481522956327
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -34,12 +34,12 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Greentea Peng, Biig Piig, Matt Martians, Fred Again x Angie McMahon, Silly Boy Blue x Totally Enormous Extinct Dinosaurs, Peruzzi x Fireboy DML, DRB Lasgidi x Teezee, Tems, Popcaan,  Hbee x Trendz, Dangbana Republik x Bella Shmurda, Murilo Chester, Chaton, Amaru & +++👆🏽👆🎼🎧",
+					"text": "",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "",
+					"text": "Bellah, Shay Lia x Adekunle Gold, Runtown x Rowlene, Crayon x Bella Shmurda, Fred Again, L.A.X., Amber Mark, Joeboy x Kwesi Arthur, DijahSB, Nayana IZ, Quendresa, Loony, Mndsgn, Jorja Smith, Jana, Mali Ama &  & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -53,28 +53,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5f17e7b3-d3c7-4d46-a6b5-9d4d81d7ca7f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Biig Piig ",
+					"url": "https://images.prismic.io/x-track-mag/371bb10e-fcdc-4342-a88f-5c8454d84f71_Mali+Ama.jpg?auto=compress,format&rect=0,0,1475,1474&w=1024&h=1023",
+					"alt": "Mali Ama",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/b9fcde9d-088e-44b1-9dfa-9dfe91a58187_Runtown.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Runtown",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/717dd8cd-a4ed-4142-b45e-7c55c4206b44_Popcaan.jpg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
-					"alt": "Popcaan",
+					"url": "https://images.prismic.io/x-track-mag/71fe2dde-9d68-4728-a84a-4f6f19959424_Bellah.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
+					"alt": "Bellah",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/0645a374-390e-44c9-a4db-dabe256876ce_Tems.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
-					"alt": "Tems",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				}
 			]
 		},
@@ -82,28 +82,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5d24bb93-993f-47a7-b360-0419d41a208b_Silly+Boy+Blue.jpg?auto=compress,format&rect=0,0,829,1024&w=1024&h=1265",
-					"alt": "Silly Boy Blue",
+					"url": "https://images.prismic.io/x-track-mag/a8767e86-a47b-4c8d-97ea-96fc01a33a81_Nayana+Iz.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Nayana IZ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1265,
-					"ratio": 0.8094861660079051
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c844ed90-15bf-4723-9563-f33797c7e5c3_Murilo+Chester.jpg?auto=compress,format&rect=0,0,683,1024&w=1024&h=1535",
-					"alt": "Murilo Chester",
+					"url": "https://images.prismic.io/x-track-mag/cfa434b4-647c-4f05-896d-6b88f6ef9887_Shay+Lia.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Shay Lia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4cf64218-937f-4210-b7b8-c63ace411552_Amaru.+.jpg?auto=compress,format&rect=0,0,633,820&w=1024&h=1327",
-					"alt": "Amaru",
+					"url": "https://images.prismic.io/x-track-mag/f0431357-2cdf-4e98-b81a-4b409cbcdfae_Amber+Mark+.jpg?auto=compress,format&rect=0,0,1080,1269&w=1024&h=1203",
+					"alt": "Amber Mark",
 					"copyright": null,
 					"width": 1024,
-					"height": 1327,
-					"ratio": 0.771665410700829
+					"height": 1203,
+					"ratio": 0.8512053200332502
 				}
 			]
 		},
@@ -111,11 +111,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=cjb-M7E0SxOlfRGagBBcdA",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=4ULMscBvTNmd0oQJTtq4zg",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-8aAVNrbhJMKRZ",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-NpXmA63uyr3M0",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

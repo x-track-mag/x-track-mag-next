@@ -156,16 +156,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-04-18T09:58:51+0000",
+			"publication_date": "2021-04-24T20:55:47+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format",
-				"alt": "Greentea Peng ",
+				"url": "https://images.prismic.io/x-track-mag/ec6d3986-13a1-49a0-afb2-2a39a4ae53a6_Jorja-Smith%2B.jpg?auto=compress,format",
+				"alt": "Jorja Smith",
 				"copyright": null,
-				"width": 957,
-				"height": 956,
-				"ratio": 1.0010460251046025
+				"width": 1294,
+				"height": 893,
+				"ratio": 1.4490481522956327
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
