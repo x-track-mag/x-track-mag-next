@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-25T09:17:27+0000",
+	"publication_date": "2021-04-25T11:34:39+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/0d5d0e3b-2ccd-4393-8794-bccfb3e35532_Jorja-Smith%2B%2B.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/1aa4b449-150b-411e-9c10-588b269f1324_Jorja-Smith%2B%2B%2B.jpg?auto=compress,format",
 		"alt": "Jorja Smith",
 		"copyright": null,
-		"width": 1260,
-		"height": 1301,
-		"ratio": 0.9684857801691007
+		"width": 1181,
+		"height": 1033,
+		"ratio": 1.1432720232333011
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
