@@ -9,7 +9,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "feel-good"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 2,
@@ -37,7 +37,7 @@
 		},
 		{
 			"position": 8,
-			"uid": "bestxtrackoftheweek"
+			"uid": "feel-good"
 		},
 		{
 			"position": 9,
@@ -130,26 +130,26 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "feel-good",
+			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-04-13T21:41:05+0000",
-			"title": "Feel Good",
-			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"publication_date": "2021-04-26T05:18:52+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b1bf1d5a-7665-4ab6-977d-caf3b8b92185_Tierra+Whack.jpg?auto=compress,format",
-				"alt": "Tierra Whack",
+				"url": "https://images.prismic.io/x-track-mag/5445f1fa-a9d0-4184-8e4f-2cb50911be40_Jorja-Smithx.jpg?auto=compress,format",
+				"alt": "Jorja Smith",
 				"copyright": null,
-				"width": 1760,
-				"height": 1292,
-				"ratio": 1.3622291021671826
+				"width": 1530,
+				"height": 1250,
+				"ratio": 1.224
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
@@ -270,26 +270,26 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
-			"uid": "bestxtrackoftheweek",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-04-26T05:18:52+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
+			"publication_date": "2021-04-13T21:41:05+0000",
+			"title": "Feel Good",
+			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5445f1fa-a9d0-4184-8e4f-2cb50911be40_Jorja-Smithx.jpg?auto=compress,format",
-				"alt": "Jorja Smith",
+				"url": "https://images.prismic.io/x-track-mag/b1bf1d5a-7665-4ab6-977d-caf3b8b92185_Tierra+Whack.jpg?auto=compress,format",
+				"alt": "Tierra Whack",
 				"copyright": null,
-				"width": 1530,
-				"height": 1250,
-				"ratio": 1.224
+				"width": 1760,
+				"height": 1292,
+				"ratio": 1.3622291021671826
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		},
 		{
 			"uid": "nola-cherri",
