@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-05-02T07:32:32+0000",
+	"publication_date": "2021-05-02T07:37:19+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -114,7 +114,10 @@
 					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=hNAPGGC_SzOk49uLrt29ZQ",
 					"title": "Best ”XTrack“ of the Week"
 				},
-				null,
+				{
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-oZylxAlFaN9EX",
+					"title": "Best ”XTrack“ of the Week par XTrack"
+				},
 				{
 					"url": "https://www.deezer.com/fr/playlist/4099699282",
 					"title": "Best ”XTrack“ of The Week"
