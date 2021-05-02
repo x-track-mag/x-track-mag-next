@@ -134,16 +134,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-04-26T05:18:52+0000",
+			"publication_date": "2021-05-02T07:32:32+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5445f1fa-a9d0-4184-8e4f-2cb50911be40_Jorja-Smithx.jpg?auto=compress,format",
-				"alt": "Jorja Smith",
+				"url": "https://images.prismic.io/x-track-mag/c738668b-1590-420f-9547-af0505fd6693_Billie+Eilish.jpg?auto=compress,format",
+				"alt": "Billie Eilish",
 				"copyright": null,
-				"width": 1530,
-				"height": 1250,
-				"ratio": 1.224
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
