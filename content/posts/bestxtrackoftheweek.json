@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-05-09T07:38:41+0000",
+	"publication_date": "2021-05-09T07:43:14+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -98,12 +98,12 @@
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5b31596e-838a-46df-ad21-898aca2d95b3_Iliona.++.jpg?auto=compress,format&rect=0,0,1521,1196&w=1024&h=805",
+					"url": "https://images.prismic.io/x-track-mag/282ef924-35fd-4f7b-a0a8-5d4fa6e5b11a_Ilona+.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
 					"alt": "Iliona",
 					"copyright": null,
 					"width": 1024,
-					"height": 805,
-					"ratio": 1.2720496894409938
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
