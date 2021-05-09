@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-05-02T08:32:29+0000",
+	"publication_date": "2021-05-09T07:38:41+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c738668b-1590-420f-9547-af0505fd6693_Billie+Eilish.jpg?auto=compress,format",
-		"alt": "Billie Eilish",
+		"url": "https://images.prismic.io/x-track-mag/e03fc758-f599-4adf-afa5-3384397e3ece_Joanna+.jpg?auto=compress,format",
+		"alt": "Joanna",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
+		"width": 1875,
+		"height": 1875,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -39,7 +39,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "  Yuki Dreams Again, Stevedreez, Burna Boy, Adekunkle Gold, M.anifest x Juls, Lil Roy89 x Teni, Nao X Adekunle gold, Justine Skye x Rema, Chwezimadeit x DJ Chris x Kenny toolz, King Perryy x Timaya, Jaz Karis, Soul Sugar x Blundetto x Booker Gee, DijahSB x Harrison, Flying Lotus x Thundercat, Nappy x Bella Shmurda, Runtown x Minz, Yehra, Still Woozy, Billie Eilish & +++👆🏽👆🎼🎧",
+					"text": "Joanna, Runtown x Darko vibes x Bella Shmurda, Tekno x Mafikizolo, Dj Khaled x H.E.R x Migos, Tirzah, Muzi, Spinall x Fireboy DML x 6lack, Molly Burman, Amber Mark x Jarreau Vandal, Mysie, Juls x Projexx x Tay Iwar,  Fox Phaser, Dexta Daps x Davido, Nakkia Gold x Wiz Khalifa x Bob Marley, Little Simz x Cleo Sol, Jaz Elise x Govana, Blaqbonez, Iliona, Yehra, Cuco, aboynamedblu & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -53,28 +53,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/03a0ed65-eb0f-4a1f-aae3-0b3fa62cf7d2_Justine+Sky.+.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Justine Skye",
+					"url": "https://images.prismic.io/x-track-mag/04b69712-6add-414e-a592-02bfbfea9f5a_Cleo+Sol+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Cleo Sol",
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/575b36ec-2551-47bb-9e6e-4e1cbdb3df2e_Yuki+Dream+Again.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Yuki Dream Again",
+					"url": "https://images.prismic.io/x-track-mag/62a8482a-6607-4258-b040-b154b210e335_H.E.R+.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
+					"alt": "H.E.R",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/6a0d4a55-37f5-4f4a-91d0-fd6d4ea1ab29_Amber+mark.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Amber Mark",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aa1a348d-3ba6-4e97-9f00-453e514b5918_Jaz+Karis++.jpg?auto=compress,format&rect=0,0,799,941&w=1024&h=1206",
-					"alt": "Jaz Karis",
-					"copyright": null,
-					"width": 1024,
-					"height": 1206,
-					"ratio": 0.8490878938640133
 				}
 			]
 		},
@@ -82,28 +82,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2fd94e20-895f-43a0-aa4e-b66cda5f3ae6_Burna+Boy.jpg?auto=compress,format&rect=0,0,1092,1092&w=1024&h=1024",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/f6c09ed3-a3e4-4657-bb31-71d6af7ce40a_Little-Simz.jpg?auto=compress,format&rect=0,0,1000,948&w=1024&h=971",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 971,
+					"ratio": 1.054582904222451
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/22d5cfbb-b617-41da-836d-f2ffd267709e_Yehra.jpg?auto=compress,format&rect=0,0,940,940&w=1024&h=1024",
-					"alt": "Yehra",
+					"url": "https://images.prismic.io/x-track-mag/eda73526-3eee-4219-9411-479acf390012_Mysie.jpg?auto=compress,format&rect=0,0,1289,860&w=1024&h=683",
+					"alt": "Mysie",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ac396f63-988c-408b-b227-5f508718cb51_Thundercat+X+Flying+Lotus.jpg?auto=compress,format&rect=0,0,1080,611&w=1024&h=579",
-					"alt": "Thundercat X Flying Lotus ",
+					"url": "https://images.prismic.io/x-track-mag/5b31596e-838a-46df-ad21-898aca2d95b3_Iliona.++.jpg?auto=compress,format&rect=0,0,1521,1196&w=1024&h=805",
+					"alt": "Iliona",
 					"copyright": null,
 					"width": 1024,
-					"height": 579,
-					"ratio": 1.768566493955095
+					"height": 805,
+					"ratio": 1.2720496894409938
 				}
 			]
 		},
@@ -111,15 +111,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=hNAPGGC_SzOk49uLrt29ZQ",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=c6f0ef46e60f4b32",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-oZylxAlFaN9EX",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-8aAVN7jFJMKRZ",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"url": "https://www.deezer.com/us/playlist/4099699282",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
