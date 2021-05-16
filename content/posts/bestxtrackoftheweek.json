@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-05-09T08:40:32+0000",
+	"publication_date": "2021-05-16T08:12:20+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/e03fc758-f599-4adf-afa5-3384397e3ece_Joanna+.jpg?auto=compress,format",
-		"alt": "Joanna",
+		"url": "https://images.prismic.io/x-track-mag/1198e098-7e30-4ef1-8135-c601cffa6448_Shaybo.jpg?auto=compress,format",
+		"alt": "Shaybo",
 		"copyright": null,
-		"width": 1875,
-		"height": 1875,
-		"ratio": 1
+		"width": 1800,
+		"height": 1200,
+		"ratio": 1.5
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -34,12 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "Joanna, Runtown x Darkovibes x Bella Shmurda, Tekno x Mafikizolo, Dj Khaled x H.E.R x Migos, Tirzah, Muzi, Spinall x Fireboy DML x 6lack, Molly Burman, Amber Mark x Jarreau Vandal, Mysie, Juls x Projexx x Tay Iwar,  Fox Phaser, Dexta Daps x Davido, Nakkia Gold x Wiz Khalifa x Bob Marley, Little Simz x Cleo Sol, Jaz Elise x Govana, Blaqbonez, Iliona, Yehra, Cuco, aboynamedblu & +++👆🏽👆🎼🎧",
+					"text": "Jaz elise, Blaqbonez, Nimino x Tori Romo, La Blue x Astronne, Protoje, Falana x  Oxlade x Spax, Pricie x Genesis Owusu, Jorja Smith x Shaybo, Greentea Peng, Shaybo, Joanna, Blessed Boy x Adekunle Gold x Simi, Buntrit Imeri, Victor Solf, Maye, Kamal, Cautious Clay, November Ultra & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -53,24 +48,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/04b69712-6add-414e-a592-02bfbfea9f5a_Cleo+Sol+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Cleo Sol",
+					"url": "https://images.prismic.io/x-track-mag/d5e04e56-5e2c-4737-a610-3291ac3679d4_november-ultra.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
+					"alt": "November Ultra",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/62a8482a-6607-4258-b040-b154b210e335_H.E.R+.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
-					"alt": "H.E.R",
+					"url": "https://images.prismic.io/x-track-mag/53d5d58d-4537-46ba-99c8-211b088accc9_Astronne.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Astronne",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6a0d4a55-37f5-4f4a-91d0-fd6d4ea1ab29_Amber+mark.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Amber Mark",
+					"url": "https://images.prismic.io/x-track-mag/4be7a363-0c31-4b97-9bf1-8e70dec821ad_Jorja+Smith.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -82,28 +77,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f6c09ed3-a3e4-4657-bb31-71d6af7ce40a_Little-Simz.jpg?auto=compress,format&rect=0,0,1000,948&w=1024&h=971",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/99541a31-6f39-4a05-b685-151cbbfd947c_Pricie+.jpg?auto=compress,format&rect=0,0,1440,1799&w=1024&h=1279",
+					"alt": "Pricie",
 					"copyright": null,
 					"width": 1024,
-					"height": 971,
-					"ratio": 1.054582904222451
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/eda73526-3eee-4219-9411-479acf390012_Mysie.jpg?auto=compress,format&rect=0,0,1289,860&w=1024&h=683",
-					"alt": "Mysie",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/282ef924-35fd-4f7b-a0a8-5d4fa6e5b11a_Ilona+.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Iliona",
+					"url": "https://images.prismic.io/x-track-mag/71c683a8-5ccc-4eca-a631-2fedc6259be2_Joanna.jpg?auto=compress,format&rect=0,0,1629,1629&w=1024&h=1024",
+					"alt": "Joanna",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format&rect=0,0,957,956&w=1024&h=1023",
+					"alt": "Greentea Peng ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				}
 			]
 		},
@@ -111,11 +106,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=c6f0ef46e60f4b32",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=f9e20e15f8b84a88",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-8aAVN7jFJMKRZ",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZNyPsN0D35",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
