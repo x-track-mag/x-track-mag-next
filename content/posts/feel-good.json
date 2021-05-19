@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-13T21:41:05+0000",
+	"publication_date": "2021-05-19T12:40:52+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"image": {
@@ -24,7 +24,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Dj Tunez x J.Anthoni, Tierra Whack, Jungle, Brijean, DYLN, Doja Cat x Disclosure, SG Lewis x Lucky Daye, K. Zia, Worlasi, Sault, Muzi x Tiro, Tekno, Juls x Tiwch 4eva x Quamina Mp, Emotional Oranges x Channel Tres, Buju Banton x Pharrell Williams & +++ Enjoy",
+					"text": "Pricie x Genesis Owusu, M.anifest x Juls, Burna Boy, Matt Martians, Shay Lia x Adekunle Gold, Falana x Oxlade x Spax, Crayon x Bella Shmurda, Jungle, Stevedreez, DJ Khaled x H.E.R x Migos, Brijean, Fred Again x Angie McMahon, Doja Cats x Disclosure,  SG Lewis x Lucky Daye, K.Zia, Worlasi, Sault, Tekno & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -33,28 +33,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/7e1974d5-01dc-4a79-9033-5a11192ad22b_Greentea+Peng.jpg?auto=compress,format&rect=0,0,957,956&w=1024&h=1023",
-					"alt": "Greentea Peng",
+					"url": "https://images.prismic.io/x-track-mag/71bcd039-c162-48c5-ade7-4aac51fe43f4_Falana.jpg?auto=compress,format&rect=0,0,918,1042&w=1024&h=1162",
+					"alt": "Falana",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1162,
+					"ratio": 0.8812392426850258
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/58546967-23a4-408e-83ec-8e1ac2e8f170_Bush+Tea.jpg?auto=compress,format&rect=0,0,1792,2048&w=1024&h=1170",
-					"alt": "Bush Tea",
-					"copyright": null,
-					"width": 1024,
-					"height": 1170,
-					"ratio": 0.8752136752136752
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/4724211d-1e8d-46ab-abf7-d3eb9b29b34d_Doja+Cats.jpg?auto=compress,format&rect=0,0,770,770&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/d813b79b-4fef-4308-b4e7-0bde4380cc9b_Doja+Cats+.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
 					"alt": "Doja Cats",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/99541a31-6f39-4a05-b685-151cbbfd947c_Pricie+.jpg?auto=compress,format&rect=0,0,1440,1799&w=1024&h=1279",
+					"alt": "Pricie",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -70,20 +70,20 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/289feb3f-e214-49e8-ab90-0844c6887cb0_Tekno.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
-					"alt": "Tekno",
+					"url": "https://images.prismic.io/x-track-mag/62a8482a-6607-4258-b040-b154b210e335_H.E.R+.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
+					"alt": "H.E.R",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/75993be1-108f-435a-8419-03e5c2d404c5_IAMDDB.jpg?auto=compress,format&rect=0,0,960,959&w=1024&h=1023",
-					"alt": "IAMDDB",
+					"url": "https://images.prismic.io/x-track-mag/5db9dd78-9526-464e-8430-1d960aa1fb7d_K.ZIA.jpg?auto=compress,format&rect=0,0,1280,640&w=1024&h=512",
+					"alt": "K.Zia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 512,
+					"ratio": 2
 				}
 			]
 		},
