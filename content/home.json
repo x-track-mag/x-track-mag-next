@@ -13,7 +13,7 @@
 		},
 		{
 			"position": 2,
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
+			"uid": "page"
 		},
 		{
 			"position": 3,
@@ -57,7 +57,7 @@
 		},
 		{
 			"position": 13,
-			"uid": "page"
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
 		},
 		{
 			"position": 14,
@@ -152,15 +152,13 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-04-09T11:31:17+0000",
-			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2021-03-24T18:28:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
 				"alt": null,
 				"copyright": null,
 				"width": 1920,
@@ -171,7 +169,7 @@
 			"template": "3: Image + Titre",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "x-track-studio---biaziouka",
@@ -376,13 +374,15 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2021-03-24T18:28:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-04-09T11:31:17+0000",
+			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
 			"subtitle": "",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
 				"alt": null,
 				"copyright": null,
 				"width": 1920,
@@ -393,7 +393,7 @@
 			"template": "3: Image + Titre",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
+			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
