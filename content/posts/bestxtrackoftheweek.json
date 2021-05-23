@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-05-23T08:13:02+0000",
+	"publication_date": "2021-05-23T08:31:55+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Blaqbonez x 1da Banton x Bad Boy Timz, Otile Brown x Kizz Daniel, Porji, Jorja Smith, Biig Piig, Stevedreez, Know White x Diamond Cafe, R.I. Pablo, Audrey Nuna x Saba, Mereba, Olamide, Buju, Mike Kayihura, Joanna, Biazouka, Maeta x Beam,  Sabrina Claudio, Charlotte Cardin & +++👆🏽👆🎼🎧",
+					"text": "Blaqbonez x 1da Banton x Bad Boy Timz, Otile Brown x Kizz Daniel, Porji, Jorja Smith, Biig Piig, Stevedreez, Know White x Diamond Cafe, R.I. Pablo, Audrey Nuna x Saba, Mereba, Olamide, Buju, Mike Kayihura, Joanna, Biazouka, Maeta x Beam & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -47,6 +47,14 @@
 		{
 			"template": "section-gallery",
 			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/326965b4-9454-4b00-9a00-dbc5c5cbb2cc_Maeta+.jpg?auto=compress,format&rect=0,0,1945,1945&w=1024&h=1024",
+					"alt": "Maeta",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/fe04ec09-aed3-431e-910c-bf7c22c8d28c_Mereba+++.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
 					"alt": "Mereba",
@@ -62,14 +70,6 @@
 					"width": 1024,
 					"height": 1434,
 					"ratio": 0.7140864714086471
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e61aab00-ea71-413f-af46-5ad103a26b66_Sabrina+Claudio+.jpg?auto=compress,format&rect=0,0,1111,1111&w=1024&h=1024",
-					"alt": "Sabrina Claudio",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -77,8 +77,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/326965b4-9454-4b00-9a00-dbc5c5cbb2cc_Maeta+.jpg?auto=compress,format&rect=0,0,1945,1945&w=1024&h=1024",
-					"alt": "Maeta",
+					"url": "https://images.prismic.io/x-track-mag/5dd5c202-83f7-4ab6-ad08-5aae7a83141c_Joanna.jpg?auto=compress,format&rect=0,0,1629,1629&w=1024&h=1024",
+					"alt": "Joanna",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
