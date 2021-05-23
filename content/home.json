@@ -134,16 +134,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-05-16T08:12:20+0000",
+			"publication_date": "2021-05-23T08:13:02+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1198e098-7e30-4ef1-8135-c601cffa6448_Shaybo.jpg?auto=compress,format",
-				"alt": "Shaybo",
+				"url": "https://images.prismic.io/x-track-mag/03709a3c-2bac-4fca-86b6-cdb0af622ba6_Audrey+Nuna.jpg?auto=compress,format",
+				"alt": "Audrey Nuna",
 				"copyright": null,
-				"width": 1800,
-				"height": 1200,
-				"ratio": 1.5
+				"width": 1440,
+				"height": 1440,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
