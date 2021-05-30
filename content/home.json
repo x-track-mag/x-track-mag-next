@@ -134,16 +134,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-05-23T09:57:13+0000",
+			"publication_date": "2021-05-30T06:31:59+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/03709a3c-2bac-4fca-86b6-cdb0af622ba6_Audrey+Nuna.jpg?auto=compress,format",
-				"alt": "Audrey Nuna",
+				"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
+				"alt": "Kali Uchis",
 				"copyright": null,
-				"width": 1440,
-				"height": 1440,
-				"ratio": 1
+				"width": 4000,
+				"height": 2667,
+				"ratio": 1.4998125234345707
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

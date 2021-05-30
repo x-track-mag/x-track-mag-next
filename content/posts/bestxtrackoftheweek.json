@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-05-23T09:57:13+0000",
+	"publication_date": "2021-05-30T06:31:59+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/03709a3c-2bac-4fca-86b6-cdb0af622ba6_Audrey+Nuna.jpg?auto=compress,format",
-		"alt": "Audrey Nuna",
+		"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
+		"alt": "Kali Uchis",
 		"copyright": null,
-		"width": 1440,
-		"height": 1440,
-		"ratio": 1
+		"width": 4000,
+		"height": 2667,
+		"ratio": 1.4998125234345707
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Blaqbonez x 1da Banton x Bad Boy Timz, Otile Brown x Kizz Daniel, Porij, Jorja Smith, Biig Piig, Stevedreez, Knox White x Diamond Cafe, R.I. Pablo, Audrey Nuna x Saba, Mereba, Olamide, Buju, Mike Kayihura, Joanna, Biaziouka, Maeta x Beam & +++👆🏽👆🎼🎧",
+					"text": "Kali Uchis, Mustafa, DJ Paak x Reefer Tym, Stevedreez, Leisure, Mysie, Kendickson, Roiii x Focalistic, Emawk x Zach Ezzy, Biig Piig, Nayan IZ, Remy, Royce Wood Junior x Ross Hutchinson, Jerome Thomas & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -48,28 +48,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/326965b4-9454-4b00-9a00-dbc5c5cbb2cc_Maeta+.jpg?auto=compress,format&rect=0,0,1945,1945&w=1024&h=1024",
-					"alt": "Maeta",
+					"url": "https://images.prismic.io/x-track-mag/9b634196-9704-41e2-ac1c-9462dc35a6d1_Kali+Uchis+.jpg?auto=compress,format&rect=0,0,2789,4183&w=1024&h=1536",
+					"alt": "Kali Uchis",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/fa32ef4f-aa81-4f4e-b8a7-4cda1f9529dc_Leisure.jpg?auto=compress,format&rect=0,0,1797,1327&w=1024&h=756",
+					"alt": "Leisure",
+					"copyright": null,
+					"width": 1024,
+					"height": 756,
+					"ratio": 1.3544973544973544
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/3a96f124-3fba-42ec-b845-9d0475fc05c7_Nayana+Iz+.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Nayana IZ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/fe04ec09-aed3-431e-910c-bf7c22c8d28c_Mereba+++.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Mereba",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/1f6063e2-909b-4dc6-9362-6aa7b2d2de59_Jorja+Smith.++.jpg?auto=compress,format&rect=0,0,1250,1750&w=1024&h=1434",
-					"alt": "Jorja Smith",
-					"copyright": null,
-					"width": 1024,
-					"height": 1434,
-					"ratio": 0.7140864714086471
 				}
 			]
 		},
@@ -77,28 +77,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5dd5c202-83f7-4ab6-ad08-5aae7a83141c_Joanna.jpg?auto=compress,format&rect=0,0,1629,1629&w=1024&h=1024",
-					"alt": "Joanna",
+					"url": "https://images.prismic.io/x-track-mag/8276bb7f-e8eb-4f7b-bf30-071a4097102e_Jerome+Thomas.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Jerome Thomas",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1759f457-fe91-403d-a7a2-67322c85e90b_Biazouka.jpg?auto=compress,format&rect=0,0,719,899&w=1024&h=1280",
-					"alt": "Biaziouka",
+					"url": "https://images.prismic.io/x-track-mag/13fb35a5-1400-4e02-8210-13b1f1afea01_Biig+Piig.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Biig Piig",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b3832838-d439-48ee-a9b5-5fde6fde1ddb_Biig+Piig+.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
-					"alt": "Biig Piig ",
+					"url": "https://images.prismic.io/x-track-mag/8aa65bf8-9f3b-4f04-9264-8ea8ba1a293e_Mysie.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Mysie",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -106,11 +106,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=f9e20e15f8b84a88",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=d6a3da9f723a47d1",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZNmacN0D35",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA5EKVS2GKqr",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
