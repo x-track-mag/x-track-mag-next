@@ -134,16 +134,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-05-30T06:51:08+0000",
+			"publication_date": "2021-06-06T07:44:53+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
-				"alt": "Kali Uchis",
+				"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format",
+				"alt": "Greentea Peng",
 				"copyright": null,
-				"width": 4000,
-				"height": 2667,
-				"ratio": 1.4998125234345707
+				"width": 2048,
+				"height": 1229,
+				"ratio": 1.6663954434499593
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
