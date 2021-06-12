@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-06-12T08:28:02+0000",
+	"publication_date": "2021-06-12T08:29:57+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"image": {
@@ -62,12 +62,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/cfb87864-2aa9-46e5-aad6-ec031b43769f_Emotional_Oranges.jpg?auto=compress,format&rect=0,0,1289,1127&w=1024&h=895",
-					"alt": "Emotional Oranges",
+					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format&rect=0,0,2046,1229&w=1024&h=615",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 895,
-					"ratio": 1.1441340782122904
+					"height": 615,
+					"ratio": 1.665040650406504
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/62a8482a-6607-4258-b040-b154b210e335_H.E.R+.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
