@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-06-12T19:15:16+0000",
+	"publication_date": "2021-06-12T19:19:01+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
@@ -56,12 +56,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a7daa74b-c482-4b5e-9be0-db3b757a9d71_Pryme.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Pryme",
+					"url": "https://images.prismic.io/x-track-mag/912e206d-773b-4d8a-ada5-388e2ebf22a9_Chet+Faker.jpg?auto=compress,format&rect=0,0,960,663&w=1024&h=707",
+					"alt": "Chet Faker",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 707,
+					"ratio": 1.4483734087694484
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/af61f5bd-9d6d-40b1-930d-095778ba88d5_NAYANA+IZ.jpg?auto=compress,format&rect=0,0,2000,1301&w=1024&h=666",
