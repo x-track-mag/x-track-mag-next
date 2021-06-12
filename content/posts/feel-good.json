@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-06-12T08:17:02+0000",
+	"publication_date": "2021-06-12T08:28:02+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"image": {
@@ -62,12 +62,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/cee917e9-c1d1-43a8-bbee-1b932d3fd22f_Shay+Lia.jpg?auto=compress,format&rect=0,0,820,1024&w=1024&h=1279",
-					"alt": "Shay Lia",
+					"url": "https://images.prismic.io/x-track-mag/cfb87864-2aa9-46e5-aad6-ec031b43769f_Emotional_Oranges.jpg?auto=compress,format&rect=0,0,1289,1127&w=1024&h=895",
+					"alt": "Emotional Oranges",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 895,
+					"ratio": 1.1441340782122904
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/62a8482a-6607-4258-b040-b154b210e335_H.E.R+.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
