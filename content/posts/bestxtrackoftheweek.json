@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-06-06T08:28:04+0000",
+	"publication_date": "2021-06-12T19:15:16+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format",
-		"alt": "Greentea Peng",
+		"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
+		"alt": "Lorde",
 		"copyright": null,
-		"width": 2048,
-		"height": 1229,
-		"ratio": 1.6663954434499593
+		"width": 3600,
+		"height": 3600,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stckman x Silier x Stevedreez, Genesis Owusu, Muzi x The Temple, Reefer Tym, Lucky Daye, Jungle, Enny, Greentea Peng x Simmy x Kid Cruise, Lakizo Entertainment x Joeboy, Brainee, Studio Magic x Nizzy, Soul Sugar x Leo Carmichael x Sly & Robbie, Chiiild, Oklou x A. G. Cook, Billie Eilish, Mustafa +++👆🏽👆🎼🎧",
+					"text": "Lorde, Pryme, Stevedreez, Reefer Tym x EL, ¿Teo?, Yung D3mz, Chet Faker, H.E.R, Lojay x Sarz x Wizkid, Boybreed, Juls x Projexx x Tay Iwar, Rema, 53 Thieves, Nayana IZ, JMSM, Donzer, Soul Sugar x Booker G, X Blundetto, Clairo, Serpentwithfeet, Kali Uchis & +++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -48,24 +48,53 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9ac82a5c-838c-47ac-8203-4ffad9f8ca72_Jungle.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
-					"alt": "Jungle",
+					"url": "https://images.prismic.io/x-track-mag/3b75e4bf-af29-4f62-bfdd-3d6e45d1674e_Clairo.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Clairo",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format&rect=0,0,2257,1715&w=1024&h=778",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/a7daa74b-c482-4b5e-9be0-db3b757a9d71_Pryme.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Pryme",
 					"copyright": null,
 					"width": 1024,
-					"height": 778,
-					"ratio": 1.3161953727506426
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0eab6121-2286-4e2b-a3a0-168e28f7412f_Oklou+.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Oklou",
+					"url": "https://images.prismic.io/x-track-mag/af61f5bd-9d6d-40b1-930d-095778ba88d5_NAYANA+IZ.jpg?auto=compress,format&rect=0,0,2000,1301&w=1024&h=666",
+					"alt": "Nayana IZ",
+					"copyright": null,
+					"width": 1024,
+					"height": 666,
+					"ratio": 1.5375375375375375
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/26a2d363-65e4-4981-8181-79491ee817c4_Wizkid.jpg?auto=compress,format&rect=0,0,1326,1768&w=1024&h=1365",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/9577c250-5b18-4e5e-92ff-0635f4d543c1_H.E.R.jpg?auto=compress,format&rect=0,0,1365,2047&w=1024&h=1536",
+					"alt": "H.E.R",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d707f174-d211-42b1-b524-cfddcd0b4f01_Rema.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Rema",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -74,43 +103,14 @@
 			]
 		},
 		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/e27166e9-c8dc-4e1e-808e-bfafb33c7581_Genesis-Owusu.jpg?auto=compress,format&rect=0,0,1876,1343&w=1024&h=733",
-					"alt": "Genesis Owusu",
-					"copyright": null,
-					"width": 1024,
-					"height": 733,
-					"ratio": 1.3969986357435198
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5259fa36-a6e8-41cd-bb8c-7876650a2b0c_Billie+Eilish.jpg?auto=compress,format&rect=0,0,1199,937&w=1024&h=800",
-					"alt": "Billie Eilish",
-					"copyright": null,
-					"width": 1024,
-					"height": 800,
-					"ratio": 1.28
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e7193118-e18a-4110-b26a-8cf97a1c192b_Chiiild.jpg?auto=compress,format&rect=0,0,838,519&w=1024&h=634",
-					"alt": "Chiiild",
-					"copyright": null,
-					"width": 1024,
-					"height": 634,
-					"ratio": 1.615141955835962
-				}
-			]
-		},
-		{
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=b5a0ca67ee07427c",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=aa7253379f1f498f",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-jV89M29sBAyYV",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZNVYSN0D35",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
