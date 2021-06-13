@@ -65,7 +65,7 @@
 		},
 		{
 			"position": 15,
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+			"uid": "in-love"
 		},
 		{
 			"position": 16,
@@ -74,6 +74,10 @@
 		{
 			"position": 17,
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
+		},
+		{
+			"position": 17,
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
 		}
 	],
 	"selected_reads": [
@@ -415,24 +419,26 @@
 			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
-			"tags": [],
-			"publication_date": "2021-03-18T18:01:34+0000",
-			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
-			"subtitle": "",
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-06-13T09:52:49+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
+				"width": 4000,
+				"height": 2667,
+				"ratio": 1.4998125234345707
 			},
 			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "MANON PELINQ",
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
+			"description": "Our favorite Love & Cool Songs… Enjoy"
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
@@ -457,6 +463,26 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
+			"tags": [],
+			"publication_date": "2021-03-18T18:01:34+0000",
+			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
+			"subtitle": "",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "MANON PELINQ",
+			"internal_link": null,
+			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
+		},
+		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
 				"article"
@@ -477,28 +503,6 @@
 			"author": "Manon Pelinq",
 			"internal_link": null,
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
-		},
-		{
-			"uid": "in-love",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-06-13T09:52:49+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 4000,
-				"height": 2667,
-				"ratio": 1.4998125234345707
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs… Enjoy"
 		},
 		{
 			"uid": "polycool",
