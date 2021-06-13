@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-21T19:40:42+0000",
+	"publication_date": "2021-06-13T09:52:49+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/afe07909-c86d-40c9-9057-8b9f9faf6fa2_Swamp+Dogg.jpg?auto=compress,format",
-		"alt": "Swamp Dog",
+		"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
+		"alt": null,
 		"copyright": null,
-		"width": 3000,
-		"height": 2000,
-		"ratio": 1.5
+		"width": 4000,
+		"height": 2667,
+		"ratio": 1.4998125234345707
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -34,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "DWY, Silk Sonic Bruno Mars x Anderson Paak, Swamp Dog, Jenevieve, Amaria, Oklou, Chiiild,  Arlo Parks, Slenderbodies, Akurei, Khruangbin, Common Saints, Ilham, Finley Quaye, Sault, Cigarettes After Sex, Odie, Galimatias, Hether, Cody chesnutt, Helmut, Syra, Dom La Nena, Antoine Pesle, Natalie Bergman, Twit One x Reginald Omas Mamode IV, Holy Hive, rum.gold, Mustafa, Andrea Laszlo de Simone, Angelo de Augustine & +++ 👆🏽👆🎼🎧",
+					"text": "Kali Uchis, DWY, Quendresa,  Amaria, Jenevieve, Yehra, Nayana IZ, Oklou, Chiiild,  Arlo Parks, Slenderbodies, Akurei, Khruangbin, Common Saints, Ilham, Finley Quaye, Sault, Cigarettes After Sex, Odie, Galimatias, Hether, Cody chesnutt, Helmut, Syra, Dom La Nena, Antoine Pesle, Natalie Bergman, Swamp Dog, Bruno Mars x Anderson paak, Twit One x Reginald Omas Mamode IV, Holy Hive, rum.gold, Mustafa, Andrea Laszlo de Simone, Angelo de Augustine & +++ 👆🏽👆🎼🎧",
 					"spans": []
 				}
 			]
@@ -101,11 +101,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=QCGZwMSFSp-VcCazMq_Pdg",
+					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=0d9d72c5753d43a0",
 					"title": "In Love"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-WabZNpAiN0D35",
+					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-NpXmA3kuyr3M0",
 					"title": "In Love par XTrack"
 				},
 				{

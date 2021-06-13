@@ -483,16 +483,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-04-21T19:40:42+0000",
+			"publication_date": "2021-06-13T09:52:49+0000",
 			"title": "In Love",
 			"subtitle": "Our favorite Love & Cool Songs",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/afe07909-c86d-40c9-9057-8b9f9faf6fa2_Swamp+Dogg.jpg?auto=compress,format",
-				"alt": "Swamp Dog",
+				"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 3000,
-				"height": 2000,
-				"ratio": 1.5
+				"width": 4000,
+				"height": 2667,
+				"ratio": 1.4998125234345707
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
