@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-06-14T08:40:42+0000",
+	"publication_date": "2021-06-14T08:43:21+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill, Cool, Love",
 	"image": {
@@ -91,10 +91,13 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=8BeM4jJLSFaPL50xnJMisA",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=7de31e4184bb444f",
 					"title": "New romance"
 				},
-				null,
+				{
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=7de31e4184bb444f",
+					"title": "New romance"
+				},
 				{
 					"url": "https://www.deezer.com/us/playlist/5281964882",
 					"title": "New romance"
