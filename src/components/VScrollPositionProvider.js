@@ -47,7 +47,7 @@ export const useVScrollPosition = () => {
 	const vscrollPosition = useContext(VScrollPositionContext);
 	if (vscrollPosition === undefined) {
 		throw new Error(
-			`useVScrollPosition() hook can only be used from inside a <EventBusProvider/> parent`
+			`useVScrollPosition() hook can only be used from inside a <VScrollPositionProvider/> parent`
 		);
 	}
 	return vscrollPosition;
