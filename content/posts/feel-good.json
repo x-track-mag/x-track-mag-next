@@ -1,0 +1,113 @@
+{
+	"uid": "feel-good",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2021-06-12T08:34:24+0000",
+	"title": "Feel Good",
+	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format",
+		"alt": "Enny",
+		"copyright": null,
+		"width": 2258,
+		"height": 1715,
+		"ratio": 1.3166180758017492
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Pricie x Genesis Owusu, M.anifest x Juls, Crayon x Bella Shmurda, Stevedreez, Muzi x The Temple, Lucky Daye, Jungle,  Fred Again x Angie McMahon, Brijean, Doja Cats x Disclosure, SG Lewis x Lucky Daye, DJ Khaled x H.E.R x Migos,  K.Zia,  Worlasi, Burna Boy, Sault, Tekno, Shay Lia x Adekunle Gold  & +++ Enjoy",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format&rect=0,0,2046,1229&w=1024&h=615",
+					"alt": "Greentea Peng",
+					"copyright": null,
+					"width": 1024,
+					"height": 615,
+					"ratio": 1.665040650406504
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/62a8482a-6607-4258-b040-b154b210e335_H.E.R+.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
+					"alt": "H.E.R",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5db9dd78-9526-464e-8430-1d960aa1fb7d_K.ZIA.jpg?auto=compress,format&rect=0,0,1280,640&w=1024&h=512",
+					"alt": "K. Zia",
+					"copyright": null,
+					"width": 1024,
+					"height": 512,
+					"ratio": 2
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/71bcd039-c162-48c5-ade7-4aac51fe43f4_Falana.jpg?auto=compress,format&rect=0,0,918,1042&w=1024&h=1162",
+					"alt": "Falana",
+					"copyright": null,
+					"width": 1024,
+					"height": 1162,
+					"ratio": 0.8812392426850258
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d813b79b-4fef-4308-b4e7-0bde4380cc9b_Doja+Cats+.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
+					"alt": "Doja Cats",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/99541a31-6f39-4a05-b685-151cbbfd947c_Pricie+.jpg?auto=compress,format&rect=0,0,1440,1799&w=1024&h=1279",
+					"alt": "Pricie",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=3df8862a91ae4f99",
+					"title": "Feel Good"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxbl2aDFlAoV4",
+					"title": "Feel Good par XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/5068447124",
+					"title": "Feel Good"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBSdUIznSTPX50N0fcgQpEb",
+					"title": "Feel Good"
+				}
+			]
+		}
+	],
+	"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+}

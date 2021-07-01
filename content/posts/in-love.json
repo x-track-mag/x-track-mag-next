@@ -1,16 +1,18 @@
 {
 	"uid": "in-love",
-	"tags": [],
-	"publication_date": "2021-01-09T20:14:03+0000",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2021-06-13T10:01:14+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/216eb0f4-894d-4dd9-9d56-7efd3b515e85_Swanp+Dogg+%2B.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 2000,
-		"height": 2000,
-		"ratio": 1
+		"width": 4000,
+		"height": 2667,
+		"ratio": 1.4998125234345707
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -32,7 +34,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Swamp Dog, Jenevieve, Chiiild, Oklou, Arlo Parks, Slenderbodies, Akurei, Khruangbin, Common Saints, Ilham, Finley Quaye, Sault, Cigarettes After Sex, Gallant & 6Lack, Odie, Galimatias, Swing & Angèle, Chi Virgo, Hether, Cody Chesnutt, rum.gold, Mustafa, Angelo de Augustine & +++ 👆🏽👆🎼🎧",
+					"text": "Kali Uchis, DWY, Quendresa,  Amaria, Jenevieve, Yehra, Nayana IZ, Oklou, Chiiild,  Arlo Parks, Slenderbodies, Akurei, Khruangbin, Common Saints, Ilham, Finley Quaye, Sault, Cigarettes After Sex, Odie, Galimatias, Hether, Cody chesnutt, Helmut, Syra, Dom La Nena, Antoine Pesle, Natalie Bergman, Swamp Dog, Bruno Mars x Anderson paak, Twit One x Reginald Omas Mamode IV, Holy Hive, rum.gold, Mustafa, Andrea Laszlo de Simone, Angelo de Augustine & +++ 👆🏽👆🎼🎧",
 					"spans": []
 				}
 			]
@@ -41,28 +43,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9ec73dde-e12f-4f93-8342-f09b86249681_Swamp+Dogg+-+Photo+David+Mcmurry.jpg?auto=compress,format&rect=0,0,1136,757&w=1024&h=682",
-					"alt": "Swamp Dogg",
-					"copyright": "Photo David Mcmurry",
-					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/97acd622-9582-4005-9b33-471b03179874_Ilham.jpg?auto=compress,format&rect=0,0,960,946&w=1024&h=1009",
-					"alt": "Ilham",
+					"url": "https://images.prismic.io/x-track-mag/ee943815-990d-4098-bce4-52d0e3c6137d_Jenevieve.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
+					"alt": "Jenevieve",
 					"copyright": null,
 					"width": 1024,
-					"height": 1009,
-					"ratio": 1.0148662041625371
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3970263b-3334-4614-b4bb-855dbb614993_Chi-Virgo-.jpg?auto=compress,format&rect=0,0,1499,896&w=1024&h=612",
-					"alt": "Chi Virgo",
+					"url": "https://images.prismic.io/x-track-mag/9b634196-9704-41e2-ac1c-9462dc35a6d1_Kali+Uchis+.jpg?auto=compress,format&rect=0,0,2789,4183&w=1024&h=1536",
+					"alt": "Kali Uchis",
 					"copyright": null,
 					"width": 1024,
-					"height": 612,
-					"ratio": 1.673202614379085
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/815ff4da-eba6-47e3-a6c2-dae9a61a9770_Oklou.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
+					"alt": "Oklou",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -70,28 +72,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/1f2ad52e-3445-4d79-8e6c-9aadee408ba1_Oklou+-+Galore.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Oklou",
-					"copyright": "Cover Galore",
+					"url": "https://images.prismic.io/x-track-mag/02d7b427-ff0f-4d1d-adf9-2d55b2feb9da_Amaria.jpg?auto=compress,format&rect=0,0,716,716&w=1024&h=1024",
+					"alt": "Amaria",
+					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5373e4a8-d5b8-4d16-a4bd-8beb32da0ef0_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/a13ebd9f-21a8-4fd2-80c9-8c4763275147_DWY+.jpg?auto=compress,format&rect=0,0,1290,797&w=1024&h=633",
+					"alt": "DWY",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 633,
+					"ratio": 1.617693522906793
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b9291825-982f-4858-a4ef-2bc680e9bdd2_khruangbin-Band.jpg?auto=compress,format&rect=0,0,1200,795&w=1024&h=678",
-					"alt": "Khruanbin",
+					"url": "https://images.prismic.io/x-track-mag/ba60f6f4-c2b8-473a-a732-2320aa367933_Khruanbin.jpg?auto=compress,format&rect=0,0,723,410&w=1024&h=581",
+					"alt": "Khruangbin",
 					"copyright": null,
 					"width": 1024,
-					"height": 678,
-					"ratio": 1.5103244837758112
+					"height": 581,
+					"ratio": 1.7624784853700517
 				}
 			]
 		},
@@ -99,16 +101,20 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=-8hg--lKQA6Wc7z2HM2WLA",
+					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=0d9d72c5753d43a0",
 					"title": "In Love"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-WabZElRsN0D35",
+					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-NpXmA3kuyr3M0",
 					"title": "In Love par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/5015008604",
-					"title": "In Love playlist | Listen on Deezer"
+					"title": "In Love"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMD4p9lh3ocTQ2CX7vLe9GlN",
+					"title": "In Love"
 				}
 			]
 		}

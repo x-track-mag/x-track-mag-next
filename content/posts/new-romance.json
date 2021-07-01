@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-04-02T12:40:41+0000",
+	"publication_date": "2021-06-14T08:43:21+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill, Cool, Love",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/5dc131b0-e6f1-4cb2-968b-8577006ef804_Rile%CC%80s+Leone+Youne%CC%80s+Terry+Family+Business.jpg?auto=compress,format",
-		"alt": "Rilès Leone Younès Terry Family Business",
+		"url": "https://images.prismic.io/x-track-mag/5445f1fa-a9d0-4184-8e4f-2cb50911be40_Jorja-Smithx.jpg?auto=compress,format",
+		"alt": "Jorja Smith",
 		"copyright": null,
-		"width": 2000,
-		"height": 2000,
-		"ratio": 1
+		"width": 1530,
+		"height": 1250,
+		"ratio": 1.224
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,7 +24,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "H.E.R., Nova x Fasina, Emotional Oranges x Biig Piig, Arlo Parks, July 7, Honne, Aaron London, Feu! chatterton,  Fred again x Jessie Reyez, Caius x Neigh, Noname, Hope Tala, Chiiild, Babeheaven, Rilès x Leone x Younès x Terry, Slenderbodies, Sault, Nas x Anderson paak, Blackstarkids, Zyah Belle x Romderful x Mat/Matix, Billy Vena, Rae Khalil, jay Prince, Nayana Iz, Moglii Juniah-T x Miloh Smith, Los Retros & +++ enjoy",
+					"text": "Jorja Smith., Enny, Yuki Dreams Again, Arlo Parks, Lorde, Nova x Fasina, Amber mark, Emotional Oranges x Biig Piig, Tirzh, Michael Brun x Shay Lia, Honne, Sault, Feu! chatterton,  Babeheaven, Slenderbodies, electric Guest, Chiiild, Biig Piig, Vanjess, Aaron London,  & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -49,8 +49,8 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e0032892-7cd0-45c5-8b2b-34819c7af127_July+7.jpg?auto=compress,format&rect=0,0,1269,1269&w=1024&h=1024",
-					"alt": "July 7",
+					"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format&rect=0,0,3600,3600&w=1024&h=1024",
+					"alt": "Lorde",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -78,12 +78,12 @@
 					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bfd8a19f-4e89-4b35-b8b4-f44b5d2656b2_Hope+Tala.jpg?auto=compress,format&rect=0,0,850,1066&w=1024&h=1284",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/87ad30d1-5c0d-4ce7-9c0c-de35b8bf0935_Enny.+.jpg?auto=compress,format&rect=0,0,1509,1127&w=1024&h=765",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1284,
-					"ratio": 0.7975077881619937
+					"height": 765,
+					"ratio": 1.3385620915032679
 				}
 			]
 		},
@@ -91,12 +91,12 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=FaJuSB0BRJu-wCRPO2OVaw",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=7de31e4184bb444f",
 					"title": "New romance"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-xlyNbKdIvNPRE",
-					"title": "New romance par XTrack"
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=7de31e4184bb444f",
+					"title": "New romance"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/5281964882",

@@ -1,0 +1,260 @@
+{
+	"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
+	"tags": [
+		"article"
+	],
+	"publication_date": "2021-04-21T13:20:00+0000",
+	"title": "La Muse, une icône féministe ? ",
+	"subtitle": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 4480,
+		"height": 6720,
+		"ratio": 0.6666666666666666
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Aphelandra Siassa",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Si le terme muse jouit encore aujourd’hui d’une belle popularité, il a au fil du temps, et plus particulièrement au XXème siècle était marqué par de nombreuses évolutions. De l’entrée des femmes artistes à l’Ecole Nationale des Beaux-Arts au “tout muse” à l’orée du XXIème siècle, cette figure mythique s’est éloignée sans jamais s’en défaire de son dessein primaire, à savoir celui d’inspirer. Décryptage. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 407,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Fin du XIXème siècle. Le monde des arts en France doit se confronter à l’évolution des moeurs. Depuis quelque temps, les femmes revendiquent leur droit d’embrasser officiellement la carrière d’artiste. En 1880, l’Académie Julian - école d’art privée parisienne -, ouvre ses portes aux femmes. Et en 1881, l’artiste Hélène Bertaux fonde l’union des femmes peintres et sculpteurs. Leur but : faire pression pour qu’elles puissent accéder à la formation de l’Ecole Nationale des Beaux-Arts. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "heading3",
+					"text": "Des femmes en lutte pour accéder au rang d’artistes",
+					"spans": [
+						{
+							"start": 0,
+							"end": 51,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Pendant plusieurs années, elles vont lutter pour qu’on leur donne raison, mais le véritable frein auquel elles se heurtent est le suivant : le grand artiste dans le sens commun à cette période est un homme et non une femme. L’institution a alors peur d’un déclassement en les intégrant en son sein. En 1897, elles gagnent enfin leur bataille. Dorénavant, la femme n’est plus cantonnée au seul rang d’inspiratrice. Elle est maintenant dépositaire d’une forme d’autorité. Celle d’étudier, de créer et d’aspirer au titre d’artiste par l’obtention du diplôme délivré par les Beaux-Arts. Une évolution qui a certes eu un impact sur un plan socio-historique, mais tout autant sur un plan symbolique. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "heading2",
+					"text": "De femme objet à sujet créateur : quand la muse n’est plus ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 59,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Car en accédant au rang de maître, ou plutôt de maîtresse, une bascule s’opère. La femme passe d’objet à sujet créateur. Elle n’est plus enrôlée au simple statut de muse-modèle qui pose dans l’atelier de l’artiste masculin. Elle se prête maintenant aux rêves, s’ouvre à de nouveaux champs des possibles et tend “à enfanter des monstres” pour reprendre la réflexion développée par la philosophe, directrice de recherche au CNRS Geneviève Fraisse dans son texte “Le sommeil des muses” : “Le sommeil des muses, c’est une extrapolation entre la sculpture de Brancusi ‘La muse endormie’ de 1910 et une association d’idées que j’ai faite avec l’artiste Francisco de Goya et sa fameuse gravure ‘Le sommeil de la raison engendre des monstres.’ Dans ce texte, je me suis alors demandée ce que la muse endormie pouvait engendrer comme enfantement possible.” introduit la chercheuse.   ",
+					"spans": [
+						{
+							"start": 311,
+							"end": 337,
+							"type": "em"
+						},
+						{
+							"start": 485,
+							"end": 847,
+							"type": "em"
+						},
+						{
+							"start": 873,
+							"end": 875,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Si la muse est endormie au XXème siècle, c’est que ce n’est pas seulement le modèle qui se repose entre deux pauses. Dès lors, qu’est-ce qu’elle enfante comme monstre, contenu que toute œuvre artistique est un monstre ? C’est le passage de l’objet au sujet qu’enfante le sommeil de la muse. Ca, c’est le XXème siècle ! Elle devient sujet créateur",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "L’heure du grand retournement ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 30,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Une bascule qui aura des conséquences considérables. Au fil des années, les artistes femmes s’affirment, s’imposent dans une histoire de l’art qui les a jusqu’alors invisibilisées. Elles ne sont plus muses au sens passif du terme, elles s’incarnent, se laissent porter et inspirer par une Histoire des femmes qui tendent à leur pleine émancipation dans la société. Bientôt, le tournant des années 1970 voit l’essor des pratiques performatives et l’arrivée sur la scène internationale d’artistes femmes telles que Orlan, Marina Abramović, Ana Mendieta ou encore Valie Export, toutes intégrant à leurs réflexions artistiques les nouveaux idéaux féministes. Dans leurs travaux respectifs, le corps féminin est au centre du discours, du processus créatif. Il est au cœur de la subversion. Le corps féminin redevient objet de représentation, mais par l’action de l’artiste créatrice elle-même. Il est à la fois, objet et sujet créateur. C’est le grand retournement. L’artiste est alors sa propre muse. Cela se traduit dans le travail d’Orlan par une mise en scène constante de son corps, qui tend au fil du temps vers son hybridation par l’acte chirurgical ( “Corps Sculptures” - 1964-1967, “Le Baiser de l'artiste\" - 1977, “Self Hybridations” - 1998-2002). Chez Marina Abramovic, c’est une réflexion autour des limites corporelles et de sa vulnérabilité en tant que femme qui est menée (“Rhythm 0” - 1974). Pour Ana Mendieta, c’est le dialogue entre corps féminin et nature qui est exploré mais aussi l’altérité femme homme et les diverses violences faites aux femmes ( “Las Siluetas” - 1973-1980). Quant à Valie Export, c’est le corps féminin en alerte, transgressif, radical que l’artiste a tenté de mettre en lumière dans ses nombreuses performances (“Action Pants / Genital Panic ” - 1969). ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": " “Il y a aussi cette idée qui traverse mes textes, la subversion de se prendre soi-même pour objet . D’objet, je deviens sujet et je me prends pour objet comme on le voit au XXème siècle. Il y a des retournements plutôt que des renversements - d’objet à sujet et de sujet qui se prend pour objet.” Geneviève Fraisse. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "La muse inusable et inoxydable",
+					"spans": [
+						{
+							"start": 0,
+							"end": 30,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Pour autant, la muse n’a pas totalement disparu. Le terme persiste, se popularise et se galvaude de la même manière. Il maintient en son sein sa signification primaire à savoir d’inspirer la société, mais se charge d’une dimension disqualifiante selon Geneviève Fraisse. “Prenons le tournant des années 2000, quelque soit la subversion, on s’aperçoit que le terme muse existe toujours mais qu’il est utilisé de manière totalement folle. La muse continue d’exister du sens le plus éculé qui soit, comme celle qui inspire la société, le monde, les hommes, mais de manière caricaturale. Utiliser ce terme, c’est souvent disqualifier ce que la personne a fait d’autre.” souligne la philosophe. “C’est pour persister à dire qu’elle inspire et non qu’elle crée. Je parle donc de muse inoxydable, car vous avez remarqué que l’on opposait la muse au génie, sauf que le mot génie lui a plutôt disparu. On va peu utiliser ce terme il a été dénométisé. C’est plus devenu un adjectif alors que muse a une place fondamentale dans le langage, donc la muse inoxydable et inusable.” Mais si le terme persiste encore aujourd’hui, alors qui sont-elles ? Comment s’incarnent-elles ? Quels messages délivrent-elles dans une société nouvelle qui questionne ces anciens modèles ? La réponse dans notre dernier volet. ",
+					"spans": [
+						{
+							"start": 271,
+							"end": 665,
+							"type": "em"
+						},
+						{
+							"start": 691,
+							"end": 1067,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Notes bibliographiques : ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 25,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "FRAISSE Geneviève, Muse de la raison. Démocratie et exclusion des femmes en France, 1989",
+					"spans": [
+						{
+							"start": 0,
+							"end": 88,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "FRAISSE Geneviève, La Sexuation du monde, Réflexions sur l’émancipation, Presses de  Sciences Po, 2016 ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 103,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "FRAISSE Geneviève, La Suite de l’Histoire, Actrices, créatrices, 2019 ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 70,
+							"type": "em"
+						}
+					]
+				}
+			]
+		}
+	],
+	"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
+}
