@@ -9,7 +9,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestxtrackoftheweek"
+			"uid": "feel-good"
 		},
 		{
 			"position": 2,
@@ -37,7 +37,7 @@
 		},
 		{
 			"position": 8,
-			"uid": "feel-good"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 9,
@@ -134,26 +134,26 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "bestxtrackoftheweek",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-06-27T08:57:04+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
+			"publication_date": "2021-07-02T10:10:18+0000",
+			"title": "Feel Good",
+			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5853d5a5-bdd9-4147-8602-ee85953b7df1_Tkay+Maidza.jpg?auto=compress,format",
-				"alt": "Tkay Maidza",
+				"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format",
+				"alt": "Enny",
 				"copyright": null,
-				"width": 1600,
-				"height": 1600,
-				"ratio": 1
+				"width": 2258,
+				"height": 1715,
+				"ratio": 1.3166180758017492
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		},
 		{
 			"uid": "page",
@@ -274,26 +274,26 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
-			"uid": "feel-good",
+			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-07-02T10:10:18+0000",
-			"title": "Feel Good",
-			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"publication_date": "2021-06-27T08:57:04+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format",
-				"alt": "Enny",
+				"url": "https://images.prismic.io/x-track-mag/5853d5a5-bdd9-4147-8602-ee85953b7df1_Tkay+Maidza.jpg?auto=compress,format",
+				"alt": "Tkay Maidza",
 				"copyright": null,
-				"width": 2258,
-				"height": 1715,
-				"ratio": 1.3166180758017492
+				"width": 1600,
+				"height": 1600,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "nola-cherri",
