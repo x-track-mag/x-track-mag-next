@@ -3,9 +3,10 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-03-10T16:56:02+0000",
+	"publication_date": "2021-07-02T11:29:03+0000",
 	"title": "La muse : une icône féministe ? ",
 	"subtitle": "",
+	"text_color": "white",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
 		"alt": "Photo ©Rebecca Dorothy",
@@ -53,7 +54,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "“Ô Muse, conte-moi l’aventure de l’inventif.” - L'Odyssée d'Homère ",
+					"text": "”Ô Muse, conte-moi l’aventure de l’inventif.”\n- Homère (l'Odyssé)",
 					"spans": []
 				}
 			]
@@ -126,26 +127,37 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Bien ancré dans les mœurs et dans les pratiques, ce mythe a traversé les courants et les mouvements artistiques. On retrouve cette figure dans de nombreux écrits antiques, du moyen-âge et de la Renaissance. Mais également dans les ateliers d’artistes, où elles s’incarnent progressivement en modèle posant pour les peintres et les sculpteurs. Parmi les muses célèbres, Simonetta Vespucci, tient une position importante dans l'histoire de l'art. Fille de grands notables génois, elle deviendra l’une des muses les plus remarquées de Sandro Botticelli. Avec sa chevelure couleur or et son port de tête altier, elle inspirera au maître de la Renaissance Italienne la Vénus du tableau la Naissance de Venus. “Simonetta Vespucci incarne la muse, le modèle et le destin. Elle est morte à 23 ans. Botticelli a même demandé d’être enterré au pied de sa tombe pour témoigner de son admiration pour cette femme.” poursuit l’historien de l’art. En Hollande, le peintre Rembrandt au XVIIeme siecle prendra pour modèle sa femme Saskia, figure présente dans de nombreux portraits féminins de l’artiste.  En France, au XIXème siècle, Victorine Meurent, modèle du peintre réaliste Edouard Manet, traverse l'œuvre de l'artiste. A chacune de ses représentations, une forme de sensualité et d’érotisme émane de la toile. Cette muse s’incarne sous un autre visage dans toutes les compositions, tel un caméléon, tantôt courtisane comme dans le célèbre tableau l’Olympia tantôt en toréador dans Mlle V. en costume d’Espada faisant d’elle un personnage multifacette. ",
+					"text": "Bien ancré dans les mœurs et dans les pratiques, ce mythe a traversé les courants et les mouvements artistiques. On retrouve cette figure dans de nombreux écrits antiques, du moyen-âge et de la Renaissance. Mais également dans les ateliers d’artistes, où elles s’incarnent progressivement en modèle posant pour les peintres et les sculpteurs. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Parmi les muses célèbres, Simonetta Vespucci, tient une position importante dans l'histoire de l'art. Fille de grands notables génois, elle deviendra l’une des muses les plus remarquées de Sandro Botticelli. Avec sa chevelure couleur or et son port de tête altier, elle inspirera au maître de la Renaissance Italienne la Vénus du tableau la Naissance de Venus. “Simonetta Vespucci incarne la muse, le modèle et le destin. Elle est morte à 23 ans. Botticelli a même demandé d’être enterré au pied de sa tombe pour témoigner de son admiration pour cette femme.” poursuit l’historien de l’art. En Hollande, le peintre Rembrandt au XVIIeme siecle prendra pour modèle sa femme Saskia, figure présente dans de nombreux portraits féminins de l’artiste.  ",
 					"spans": [
 						{
-							"start": 684,
-							"end": 702,
+							"start": 341,
+							"end": 359,
 							"type": "em"
 						},
 						{
-							"start": 704,
-							"end": 903,
+							"start": 361,
+							"end": 560,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "En France, au XIXème siècle, Victorine Meurent, modèle du peintre réaliste Edouard Manet, traverse l'œuvre de l'artiste. A chacune de ses représentations, une forme de sensualité et d’érotisme émane de la toile. Cette muse s’incarne sous un autre visage dans toutes les compositions, tel un caméléon, tantôt courtisane comme dans le célèbre tableau l’Olympia tantôt en toréador dans Mlle V. en costume d’Espada faisant d’elle un personnage multifacette. ",
+					"spans": [
+						{
+							"start": 349,
+							"end": 358,
 							"type": "em"
 						},
 						{
-							"start": 1439,
-							"end": 1448,
-							"type": "em"
-						},
-						{
-							"start": 1473,
-							"end": 1500,
+							"start": 383,
+							"end": 410,
 							"type": "em"
 						}
 					]
@@ -175,6 +187,35 @@
 					"type": "paragraph",
 					"text": "Avec les peintres préraphaélites, la muse prend une toute autre stature. Elle incarne dorénavant la femme libre, indépendante qui fascine son auditoire. ",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/23d68764-4a8e-4a13-9201-ec38cdc31738_Simonetta+Vespuci+-+Sandro+Botticelli.jpg?auto=compress,format&rect=0,0,794,894&w=1024&h=1153",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1153,
+					"ratio": 0.8881179531656548
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/674f5799-7867-480f-be7d-d23127434b18_Edouard_Manet-Olympia.jpg?auto=compress,format&rect=0,0,1279,867&w=1024&h=694",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 694,
+					"ratio": 1.4755043227665705
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/22c9ec4f-06f2-4a17-862f-fd2340a736d8_rossetti-bruna-brunelleschi.jpg?auto=compress,format&rect=0,0,681,760&w=1024&h=1143",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1143,
+					"ratio": 0.8958880139982502
 				}
 			]
 		},

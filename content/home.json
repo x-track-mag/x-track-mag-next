@@ -141,6 +141,7 @@
 			"publication_date": "2021-07-02T10:10:18+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"text_color": "green",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format",
 				"alt": "Enny",
@@ -161,6 +162,7 @@
 			"publication_date": "2021-03-24T18:28:30+0000",
 			"title": "Mode éthique : classe ou classiste ?                              ",
 			"subtitle": "",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
 				"alt": null,
@@ -183,6 +185,7 @@
 			"publication_date": "2021-07-02T10:03:17+0000",
 			"title": "X-Track Studio - Biaziouka ",
 			"subtitle": "",
+			"text_color": "black",
 			"image": null,
 			"video_loop": {
 				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
@@ -202,6 +205,7 @@
 			"publication_date": "2021-07-01T16:45:38+0000",
 			"title": "La Muse, une icône féministe ? ",
 			"subtitle": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
+			"text_color": "orange",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
 				"alt": null,
@@ -222,6 +226,7 @@
 			"publication_date": "2021-03-03T11:30:19+0000",
 			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
 			"subtitle": "Sexion Gaming",
+			"text_color": "white",
 			"image": null,
 			"video_loop": {
 				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
@@ -241,6 +246,7 @@
 			"publication_date": "2020-12-15T17:24:08+0000",
 			"title": "2021 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
 			"subtitle": "",
+			"text_color": "white",
 			"image": null,
 			"video_loop": null,
 			"template": "6: Titre + sous-titre sur fond blanc",
@@ -256,9 +262,10 @@
 			"tags": [
 				"article"
 			],
-			"publication_date": "2021-03-10T16:56:02+0000",
+			"publication_date": "2021-07-02T11:29:03+0000",
 			"title": "La muse : une icône féministe ? ",
 			"subtitle": "",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
 				"alt": "Photo ©Rebecca Dorothy",
@@ -281,6 +288,7 @@
 			"publication_date": "2021-06-27T08:57:04+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/5853d5a5-bdd9-4147-8602-ee85953b7df1_Tkay+Maidza.jpg?auto=compress,format",
 				"alt": "Tkay Maidza",
@@ -304,6 +312,7 @@
 			"publication_date": "2021-01-18T16:19:00+0000",
 			"title": "Nola Cherri",
 			"subtitle": "Live Session",
+			"text_color": "white",
 			"image": null,
 			"video_loop": {
 				"name": "LOOPFIN.mp4",
@@ -324,6 +333,7 @@
 			"publication_date": "2021-02-02T18:09:17+0000",
 			"title": "L’Avenir de la Mode est-il virtuel ?",
 			"subtitle": "",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 				"alt": "©",
@@ -346,6 +356,7 @@
 			"publication_date": "2021-06-14T08:43:21+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill, Cool, Love",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/5445f1fa-a9d0-4184-8e4f-2cb50911be40_Jorja-Smithx.jpg?auto=compress,format",
 				"alt": "Jorja Smith",
@@ -368,6 +379,7 @@
 			"publication_date": "2020-12-16T10:23:55+0000",
 			"title": "DON'T CALL ME BABE ",
 			"subtitle": "",
+			"text_color": "white",
 			"image": null,
 			"video_loop": {
 				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
@@ -387,6 +399,7 @@
 			"publication_date": "2021-04-09T11:31:17+0000",
 			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
 			"subtitle": "",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
 				"alt": null,
@@ -409,6 +422,7 @@
 			"publication_date": "2020-12-16T11:38:09+0000",
 			"title": "Episode 1 : Samantha Deep ",
 			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"text_color": "white",
 			"image": null,
 			"video_loop": {
 				"name": "LOOOP YAYA.mp4",
@@ -428,6 +442,7 @@
 			"publication_date": "2021-06-13T10:01:14+0000",
 			"title": "In Love",
 			"subtitle": "Our favorite Love & Cool Songs",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
 				"alt": null,
@@ -450,6 +465,7 @@
 			"publication_date": "2020-12-16T22:52:14+0000",
 			"title": "La mode éthique, ou l’explosion de l’upcycling ",
 			"subtitle": "",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
 				"alt": null,
@@ -470,6 +486,7 @@
 			"publication_date": "2021-03-18T18:01:34+0000",
 			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
 			"subtitle": "",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
 				"alt": null,
@@ -492,6 +509,7 @@
 			"publication_date": "2021-01-19T16:15:44+0000",
 			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
 			"subtitle": "",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
 				"alt": null,
@@ -515,6 +533,7 @@
 			"publication_date": "2020-12-16T10:06:08+0000",
 			"title": "Polycool",
 			"subtitle": "",
+			"text_color": "white",
 			"image": null,
 			"video_loop": {
 				"name": "Sans titre.mov",
@@ -534,6 +553,7 @@
 			"publication_date": "2020-12-15T12:20:45+0000",
 			"title": "Les apparences trompeuses du Pretty Privilege",
 			"subtitle": "",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
 				"alt": null,
@@ -556,6 +576,7 @@
 			"publication_date": "2020-12-15T06:20:52+0000",
 			"title": "Martin Parr",
 			"subtitle": "Un Monde à Parr",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 				"alt": "Plage de Nice",
