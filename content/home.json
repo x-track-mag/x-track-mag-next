@@ -177,8 +177,10 @@
 		},
 		{
 			"uid": "x-track-studio---biaziouka",
-			"tags": [],
-			"publication_date": "2021-04-02T12:18:48+0000",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-07-02T10:03:17+0000",
 			"title": "X-Track Studio - Biaziouka ",
 			"subtitle": "",
 			"image": null,
