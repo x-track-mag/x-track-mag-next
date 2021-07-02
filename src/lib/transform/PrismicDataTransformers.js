@@ -64,6 +64,19 @@ export const fixVideo = ({ name, url, size }) => {
 	return { name, url, size };
 };
 
+const textColors = [
+	null, // 0
+	"white", // 1
+	"black", // 2
+	"orange", // 3
+	"green", // 4
+	"inverted" // 5
+];
+
+export const decodeTextColor = (choice) => {
+	textColors[Number(choice.split(".")[0])] || "white";
+};
+
 /**
  * Sections are Prismic Slices
  * @param {Slice} sectionData
@@ -117,6 +130,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 	let {
 		title,
 		subtitle,
+		text_color,
 		description = "",
 		image,
 		video_loop,
@@ -137,6 +151,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 				publication_date: last_publication_date,
 				title,
 				subtitle,
+				text_color: decodeTextColor(text_color),
 				image: fixImage(image),
 				video_loop: fixVideo(video_loop),
 				template,

@@ -15,6 +15,14 @@
 				"label": "Sous-titre"
 			}
 		},
+		"text_color": {
+			"type": "Select",
+			"config": {
+				"options": ["1. Blanc", "2. Noir", "3. Vert", "4. Orange", "5. Inversé"],
+				"default_value": "1. Blanc",
+				"label": "Couleur Texte"
+			}
+		},
 		"description": {
 			"type": "Text",
 			"config": {

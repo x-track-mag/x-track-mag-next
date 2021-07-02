@@ -10,12 +10,16 @@ const breakpoints = createBreakpoints({
 	xl: "1920px"
 });
 
+const brandGreen = "#58ff00";
+const brandOrange = "#f70";
+const brandMauve = "#b2abff";
+
 // 2. Extend the theme to include custom colors, fonts, etc
 export const colors = {
 	brand: {
-		green: "#58ff00",
-		orange: "#f70",
-		mauve: "#b2abff"
+		green: brandGreen,
+		orange: brandOrange,
+		mauve: brandMauve
 	},
 	darkGray: "#222",
 	shadow: "#878787",
@@ -117,6 +121,22 @@ const styles = {
 		},
 		".hero-text": {
 			zIndex: 999
+		},
+		".hero-text.white": {
+			textColor: "white"
+		},
+		".hero-text.black": {
+			textColor: "black"
+		},
+		".hero-text.orange": {
+			textColor: brandOrange
+		},
+		".hero-text.green": {
+			textColor: brandGreen
+		},
+		".hero-text.inverted": {
+			textColor: "brandOrange",
+			mixBlendMode: "difference"
 		},
 		".container": {
 			p: {

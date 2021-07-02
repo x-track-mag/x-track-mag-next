@@ -118,13 +118,21 @@ export const RichText = ({ children }) => (
 	<PrismicRichTextRenderer render={children} htmlSerializer={htmlSerializer} />
 );
 
+/**
+ * @see https://prismic.io/docs/technologies/html-serializer-javascript#adding-the-html-serializer-function
+ * @param {*} type
+ * @param {*} element
+ * @param {*} content
+ * @param {*} children
+ * @param {*} key
+ * @returns
+ */
 const htmlSerializer = (type, element, content, children, key) => {
 	// console.log(
 	// 	`htmlSerializer received`,
 	// 	JSON.stringify({ type, element, content, key }, null, "\t")
 	// );
 	switch (type) {
-		// Use Chakra UI body text style
 		case Elements.paragraph:
 			return <Text key={key}>{children}</Text>;
 
