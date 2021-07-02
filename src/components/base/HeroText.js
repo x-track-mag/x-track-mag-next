@@ -2,11 +2,12 @@ import { Container } from "@chakra-ui/react";
 import { Title, Subtitle } from "@components/base/Typography";
 import { useRef } from "react";
 import { useApexPosition } from "@components/hooks/useApexPosition";
+import clsx from "clsx";
 
 /**
  * A centered block of text suited for Hero sections
  */
-const HeroText = ({ title, subtitle, ...moreStyles }) => {
+const HeroText = ({ title, subtitle, text_color, ...moreStyles }) => {
 	try {
 		const ref = useRef();
 		const [inView, apexPosition] = useApexPosition(ref);
@@ -38,7 +39,12 @@ const HeroText = ({ title, subtitle, ...moreStyles }) => {
 		}
 
 		return (
-			<Container ref={ref} centerContent p="2rem">
+			<Container
+				ref={ref}
+				className={clsx("hero-text", text_color)}
+				centerContent
+				p="2rem"
+			>
 				{title && title !== "--blank--" && <Title {...moreStyles}>{title}</Title>}
 				{subtitle && subtitle !== "--blank--" && (
 					<Subtitle {...moreStyles}>{subtitle}</Subtitle>

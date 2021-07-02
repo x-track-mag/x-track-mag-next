@@ -65,6 +65,21 @@ export const fixVideo = ({ name, url, size }) => {
 };
 
 /**
+ * Map the text color labels to their keys (position in the array)
+ */
+const textColors = [
+	null, // 0
+	"white", // 1. Blanc
+	"black", // 2. Noir
+	"green", // 3. Vert
+	"orange", // 4. Orange
+	"inverted" // 5. Inversé
+];
+
+export const decodeTextColor = (choice) =>
+	(choice && textColors[Number(choice.split(".")[0])]) || "white";
+
+/**
  * Sections are Prismic Slices
  * @param {Slice} sectionData
  */
@@ -117,6 +132,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 	let {
 		title,
 		subtitle,
+		text_color,
 		description = "",
 		image,
 		video_loop,
@@ -137,6 +153,7 @@ export const transformPost = ({ withSections = false }) => (postData) => {
 				publication_date: last_publication_date,
 				title,
 				subtitle,
+				text_color: decodeTextColor(text_color),
 				image: fixImage(image),
 				video_loop: fixVideo(video_loop),
 				template,

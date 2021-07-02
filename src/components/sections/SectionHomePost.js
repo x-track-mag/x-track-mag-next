@@ -31,6 +31,7 @@ export const Template1 = ({
 	link_to,
 	title = "",
 	subtitle = "",
+	text_color,
 	image,
 	video_loop,
 	...articleInfo
@@ -40,7 +41,7 @@ export const Template1 = ({
 			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<ArticleInfo position="absolute" {...articleInfo} textColor="white" />
 			<HeroLink href={link_to}>
-				<HeroText title={title} subtitle={subtitle} />
+				<HeroText title={title} subtitle={subtitle} text_color={text_color} />
 			</HeroLink>
 		</section>
 	);
@@ -67,6 +68,7 @@ export const Template2 = ({
 	link_to,
 	title = "",
 	subtitle = "",
+	text_color,
 	image,
 	video_loop,
 	...articleInfo
@@ -87,7 +89,7 @@ export const Template2 = ({
 				onMouseEnter={() => setHover(true)}
 				onMouseLeave={() => setHover(false)}
 			>
-				<HeroText title={title} />
+				<HeroText title={title} text_color={text_color} />
 			</HeroLink>
 		</section>
 	);
@@ -109,7 +111,14 @@ export const Template2 = ({
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template3 = ({ uid, link_to, title = "", image, video_loop }) => {
+export const Template3 = ({
+	uid,
+	link_to,
+	title = "",
+	text_color,
+	image,
+	video_loop
+}) => {
 	const [hover, setHover] = useState(false);
 
 	return (
@@ -127,6 +136,7 @@ export const Template3 = ({ uid, link_to, title = "", image, video_loop }) => {
 			>
 				<HeroText
 					title={title}
+					text_color={text_color}
 					fontSize="4rem"
 					fontStyle="italic"
 					lineHeight="1em"
