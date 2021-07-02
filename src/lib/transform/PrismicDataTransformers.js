@@ -64,18 +64,20 @@ export const fixVideo = ({ name, url, size }) => {
 	return { name, url, size };
 };
 
+/**
+ * Map the text color labels to their keys (position in the array)
+ */
 const textColors = [
 	null, // 0
-	"white", // 1
-	"black", // 2
-	"orange", // 3
-	"green", // 4
-	"inverted" // 5
+	"white", // 1. Blanc
+	"black", // 2. Noir
+	"orange", // 3. Orange
+	"green", // 4. Vert
+	"inverted" // 5. Inversé
 ];
 
-export const decodeTextColor = (choice) => {
-	textColors[Number(choice.split(".")[0])] || "white";
-};
+export const decodeTextColor = (choice) =>
+	(choice && textColors[Number(choice.split(".")[0])]) || "white";
 
 /**
  * Sections are Prismic Slices
