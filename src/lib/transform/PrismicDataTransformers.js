@@ -71,8 +71,8 @@ const textColors = [
 	null, // 0
 	"white", // 1. Blanc
 	"black", // 2. Noir
-	"orange", // 3. Orange
-	"green", // 4. Vert
+	"green", // 3. Vert
+	"orange", // 4. Orange
 	"inverted" // 5. Inversé
 ];
 
