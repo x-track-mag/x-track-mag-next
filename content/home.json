@@ -138,16 +138,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-07-03T07:44:06+0000",
+			"publication_date": "2021-07-04T08:44:39+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5853d5a5-bdd9-4147-8602-ee85953b7df1_Tkay+Maidza.jpg?auto=compress,format",
-				"alt": "Tkay Maidza",
+				"url": "https://images.prismic.io/x-track-mag/679d437f-78b3-45b9-a210-44099f5916f0_Rico+Nasty.jpg?auto=compress,format",
+				"alt": "Rico Nasty",
 				"copyright": null,
-				"width": 1600,
-				"height": 1600,
+				"width": 3000,
+				"height": 3000,
 				"ratio": 1
 			},
 			"video_loop": null,
