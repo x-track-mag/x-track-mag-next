@@ -1,11 +1,12 @@
-import { createContext, useContext, useState, useLayoutEffect } from "react";
-
-/**
- * @return {Number}
- */
-const getVScrollPosition = () => (typeof window === "undefined" ? 0 : window.scrollY);
+import { createContext, useContext, useState, useEffect, useRef } from "react";
+import useIsomorphicLayoutEffect from "../../hooks/useIsomorphicLayoutEffect.js";
 
 const VScrollPositionContext = createContext();
+
+const INITIAL_POSITION = {
+	scrollY: 0,
+	direction: "none"
+};
 
 /**
  * NOTE : Don't forget the {children} when writing a context provider !
@@ -14,23 +15,38 @@ const VScrollPositionContext = createContext();
  */
 const VScrollPositionProvider = ({ children }) => {
 	// Save current viewport size in the state object
-	let [vscrollPosition, setVScrollPosition] = useState(getVScrollPosition());
+	let [vscrollPosition, setVScrollPosition] = useState(INITIAL_POSITION);
+	const previous = useRef();
 
-	// in this case useLayoutEffect will execute only once because
+	/**
+	 * Store the previous vscroll position value
+	 * @see https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/
+	 */
+	useEffect(() => {
+		previous.current = vscrollPosition;
+	});
+
+	// This useLayoutEffect will execute only once because
 	// it does not have any dependencies.
-	if (typeof window !== "undefined")
-		useLayoutEffect(() => {
-			// Listen to window scroll event
-			const measureVScrollPosition = () => {
-				requestAnimationFrame(() => setVScrollPosition(window.scrollY));
-			};
-			window.addEventListener("scroll", measureVScrollPosition);
+	useIsomorphicLayoutEffect(() => {
+		// Listen to window scroll event
+		const measureVScrollPosition = () => {
+			requestAnimationFrame(() => {
+				const updated = {
+					scrollY: window.scrollY,
+					direction: window.scrollY >= previous.current.scrollY ? "down" : "up"
+				};
 
-			// return the clean up function
-			return () => {
-				window.removeEventListener("scroll", measureVScrollPosition);
-			};
-		}, []);
+				setVScrollPosition(updated);
+			});
+		};
+		window.addEventListener("scroll", measureVScrollPosition);
+
+		// return the clean up function
+		return () => {
+			window.removeEventListener("scroll", measureVScrollPosition);
+		};
+	}, []);
 
 	return (
 		<VScrollPositionContext.Provider value={vscrollPosition}>
@@ -55,12 +71,15 @@ export const useVScrollPosition = () => {
 
 /**
  * Build a Higher Order Component that will allways receive
- * an updated `viewport` prop with the width, height and landscape|portrait mode
+ * an updated `vscrollPosition` prop with the position and direction of the scroll
  * @param {JSX.Element} Component
  */
 export const withVScrollPosition = (Component) => (props) => {
-	const vscrollPosition = useVScrollPosition();
-	return Component({ vscrollPosition, ...props });
+	return (
+		<VScrollPositionProvider>
+			<Component {...props} />
+		</VScrollPositionProvider>
+	);
 };
 
 export default VScrollPositionProvider;
