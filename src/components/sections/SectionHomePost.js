@@ -7,7 +7,7 @@ import { HeroLink } from "@components/base/Links";
 import ArticleInfo from "@components/ArticleInfo";
 import { Title, Subtitle } from "@components/base/Typography";
 import Container from "@components/base/Container";
-import { Box, SimpleGrid, AspectRatio, Flex } from "@chakra-ui/react";
+import { Box, SimpleGrid, AspectRatio, Flex, AbsoluteCenter } from "@chakra-ui/react";
 import Image from "next/image";
 
 /**
@@ -34,10 +34,16 @@ export const Template1 = ({
 	text_color,
 	image,
 	video_loop,
+	style,
 	...articleInfo
 }) => {
 	return (
-		<section className={clsx("hero-section", "template1")} key={uid} id={uid}>
+		<section
+			className={clsx("hero-section", "template1")}
+			key={uid}
+			id={uid}
+			style={style}
+		>
 			<BackgroundImageContainer image={image} video_loop={video_loop} />
 			<ArticleInfo position="absolute" {...articleInfo} textColor="white" />
 			<HeroLink href={link_to}>
@@ -71,6 +77,7 @@ export const Template2 = ({
 	text_color,
 	image,
 	video_loop,
+	style,
 	...articleInfo
 }) => {
 	const [hover, setHover] = useState(false);
@@ -78,7 +85,7 @@ export const Template2 = ({
 	return (
 		<section
 			className={clsx("hero-section", "template2")}
-			// style={{ mixBlendMode: hover ? "luminosity" : "inherit" }}
+			style={style}
 			key={uid}
 			id={uid}
 		>
@@ -117,14 +124,15 @@ export const Template3 = ({
 	title = "",
 	text_color,
 	image,
-	video_loop
+	video_loop,
+	style
 }) => {
 	const [hover, setHover] = useState(false);
 
 	return (
 		<section
 			className={clsx("hero-section", "template3")}
-			// style={{ mixBlendMode: hover ? "luminosity" : "inherit" }}
+			style={style}
 			key={uid}
 			id={uid}
 		>
@@ -156,7 +164,7 @@ export const Template3 = ({
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template4 = ({ uid, link_to, title = "", image, video_loop }) => {
+export const Template4 = ({ uid, link_to, title = "", image, video_loop, style }) => {
 	return (
 		<HeroLink href={link_to}>
 			<Flex
@@ -164,6 +172,7 @@ export const Template4 = ({ uid, link_to, title = "", image, video_loop }) => {
 				flexDirection="column"
 				alignContent="stretch"
 				className={clsx("hero-section", "template4")}
+				style={style}
 				key={uid}
 				id={uid}
 			>
@@ -198,9 +207,14 @@ export const Template4 = ({ uid, link_to, title = "", image, video_loop }) => {
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template5 = ({ uid, link_to, title = "", image }) => {
+export const Template5 = ({ uid, link_to, title = "", image, style }) => {
 	return (
-		<section className={clsx("hero-section", "template5")} key={uid} id={uid}>
+		<section
+			className={clsx("hero-section", "template5")}
+			key={uid}
+			id={uid}
+			style={style}
+		>
 			<HeroLink href={link_to}>
 				<Container as={SimpleGrid} columns={{ base: 1, sm: 2 }} spacing="2rem">
 					<Flex
@@ -245,12 +259,14 @@ export const Template5 = ({ uid, link_to, title = "", image }) => {
  * @param {String} [props.title] Titre principal
  * @param {String} [props.subtitle] Titre secondaire
  */
-export const Template6 = ({ uid, link_to, title = "", subtitle }) => {
+export const Template6 = ({ uid, link_to, title = "", subtitle, style }) => {
 	return (
 		<Box
 			as="section"
+			className="template6"
 			padding="4rem 2rem"
 			minHeight={{ base: "auto", md: "33vh" }}
+			style={style}
 			key={uid}
 			id={uid}
 		>
@@ -295,7 +311,7 @@ export const Template7 = ({
 
 	return (
 		<section
-			className={clsx("hero-section", "template6", blurred && "blurred")}
+			className={clsx("hero-section", "template7", blurred && "blurred")}
 			key={uid}
 			id={uid}
 		>
