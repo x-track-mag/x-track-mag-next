@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-06T06:12:56+0000",
+	"publication_date": "2021-07-06T06:20:28+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "orange",
@@ -50,12 +50,12 @@
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d1472585-2702-4a96-9bad-d019c7deaabf_Tiwa+Savage.jpg?auto=compress,format&rect=0,0,1322,1920&w=1024&h=1487",
-					"alt": "Tiwa Savage",
+					"url": "https://images.prismic.io/x-track-mag/043c6a61-e7b9-4696-aa25-a6d4ad68b90e_Shay+Lia+.jpg?auto=compress,format&rect=0,0,1280,1600&w=1024&h=1280",
+					"alt": "Shay Lia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1487,
-					"ratio": 0.6886348352387357
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=3df8862a91ae4f99",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=57775029620b4c17",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxbl2aDFlAoV4",
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxbl2z1TlAoV4",
 					"title": "Feel Good par XTrack"
 				},
 				{
