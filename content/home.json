@@ -138,10 +138,10 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-07-04T10:04:04+0000",
+			"publication_date": "2021-07-09T13:44:48+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "orange",
+			"text_color": "inverted",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/679d437f-78b3-45b9-a210-44099f5916f0_Rico+Nasty.jpg?auto=compress,format",
 				"alt": "Rico Nasty",
