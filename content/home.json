@@ -138,17 +138,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-07-09T18:00:28+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
+			"publication_date": "2021-07-11T08:03:01+0000",
+			"title": "Best ”XTrack“ of Summer",
+			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/679d437f-78b3-45b9-a210-44099f5916f0_Rico+Nasty.jpg?auto=compress,format",
-				"alt": "Rico Nasty",
+				"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format",
+				"alt": "Billie Eilish",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 2048,
+				"height": 1478,
+				"ratio": 1.3856562922868743
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
