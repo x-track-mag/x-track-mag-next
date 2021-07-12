@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-03T07:45:45+0000",
+	"publication_date": "2021-07-06T06:20:28+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "orange",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Pricie x Genesis Owusu, M.anifest x Juls, Crayon x Bella Shmurda, Stevedreez, Muzi x The Temple, Lucky Daye, Jungle,  Fred Again x Angie McMahon, Brijean, Doja Cats x Disclosure, SG Lewis x Lucky Daye, DJ Khaled x H.E.R x Migos,  K.Zia,  Worlasi, Burna Boy, Sault, Tekno, Shay Lia x Adekunle Gold, Enny  & +++ Enjoy",
+					"text": "Enny, Juls x Tay Iwar x P-Rallel, Rejjie Snow x Tinashe x Grouptherapy, Stevedreez, Busy P, Haich Ber Na x Shay Lia, Diplo x Damian Lazarus x Jungle, SG Lewis x Lucky Daye x Kapote, Jungle,  Doja Cats x Disclosure, Lucky Daye, DJ Khaled x H.E.R x Migos,  Burna Boy, Konshens Davido, Sault, Tekno, Greentea Peng,  Pricie x Genesis Owusu & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -50,12 +50,12 @@
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5db9dd78-9526-464e-8430-1d960aa1fb7d_K.ZIA.jpg?auto=compress,format&rect=0,0,1280,640&w=1024&h=512",
-					"alt": "K. Zia",
+					"url": "https://images.prismic.io/x-track-mag/043c6a61-e7b9-4696-aa25-a6d4ad68b90e_Shay+Lia+.jpg?auto=compress,format&rect=0,0,1280,1600&w=1024&h=1280",
+					"alt": "Shay Lia",
 					"copyright": null,
 					"width": 1024,
-					"height": 512,
-					"ratio": 2
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=3df8862a91ae4f99",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=57775029620b4c17",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxbl2aDFlAoV4",
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxbl2z1TlAoV4",
 					"title": "Feel Good par XTrack"
 				},
 				{

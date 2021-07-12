@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-04T14:51:17+0000",
+	"publication_date": "2021-07-07T06:14:19+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill, Cool, Love",
 	"text_color": "white",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jorja Smith., Enny, Yuki Dreams Again, Arlo Parks, Lorde, Nova x Fasina, Amber mark, Emotional Oranges x Biig Piig, Tirzh, Michael Brun x Shay Lia, Honne, Sault, Feu! chatterton,  Babeheaven, Slenderbodies, electric Guest, Chiiild, Biig Piig, Vanjess, Aaron London,  & +++ enjoy",
+					"text": "Yuki Dreams Again, Jorja Smith, Lorde, Nova x Fasina, Amber mark, Arlo Parks, Emotional Oranges x Biig Piig, Tirzah, Michael Brun x Shay Lia, Honne, Sault, Feu! chatterton,  Babeheaven, Chiiild, Biig Piig, Vanjess, Aaron London,  H.E.R, Khruangbin, Dom La Nena, & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -42,12 +42,12 @@
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bbebdf50-6669-4f4c-be65-874535ff27aa_Noname.jpg?auto=compress,format&rect=0,0,1800,1800&w=1024&h=1024",
-					"alt": "Noname",
+					"url": "https://images.prismic.io/x-track-mag/a745936b-f93d-4b5d-88dd-547bbb12157e_khruangbin_.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
+					"alt": "khruangbin",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format&rect=0,0,3600,3600&w=1024&h=1024",
@@ -79,12 +79,12 @@
 					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/87ad30d1-5c0d-4ce7-9c0c-de35b8bf0935_Enny.+.jpg?auto=compress,format&rect=0,0,1509,1127&w=1024&h=765",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/8269fdc4-6b79-464f-8000-3ca317b2be11_dom+la+nena.jpg?auto=compress,format&rect=0,0,1099,1099&w=1024&h=1024",
+					"alt": "Dom la Nena",
 					"copyright": null,
 					"width": 1024,
-					"height": 765,
-					"ratio": 1.3385620915032679
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -92,12 +92,12 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=7de31e4184bb444f",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=a671a905ea664ab9",
 					"title": "New romance"
 				},
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=7de31e4184bb444f",
-					"title": "New romance"
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-2aoqB3YI2XgBo",
+					"title": "New romance par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/5281964882",

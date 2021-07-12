@@ -138,17 +138,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-07-04T10:04:04+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
+			"publication_date": "2021-07-11T08:03:01+0000",
+			"title": "Best ”XTrack“ of Summer",
+			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/679d437f-78b3-45b9-a210-44099f5916f0_Rico+Nasty.jpg?auto=compress,format",
-				"alt": "Rico Nasty",
+				"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format",
+				"alt": "Billie Eilish",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 2048,
+				"height": 1478,
+				"ratio": 1.3856562922868743
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
@@ -202,10 +202,10 @@
 			"tags": [
 				"article"
 			],
-			"publication_date": "2021-07-01T16:45:38+0000",
-			"title": "La Muse, une icône féministe ? ",
+			"publication_date": "2021-07-09T13:51:49+0000",
+			"title": "La Muse, une icône féministe ? 2 ",
 			"subtitle": "Volet 2 - La femme artiste, d’objet à sujet créateur ",
-			"text_color": "green",
+			"text_color": "inverted",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
 				"alt": null,
@@ -262,10 +262,10 @@
 			"tags": [
 				"article"
 			],
-			"publication_date": "2021-07-03T14:25:50+0000",
+			"publication_date": "2021-07-09T13:42:35+0000",
 			"title": "La muse : une icône féministe ? ",
 			"subtitle": "",
-			"text_color": "white",
+			"text_color": "inverted",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
 				"alt": "Photo ©Rebecca Dorothy",
@@ -285,7 +285,7 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-07-03T07:45:45+0000",
+			"publication_date": "2021-07-06T06:20:28+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 			"text_color": "orange",
@@ -353,7 +353,7 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-07-04T14:51:17+0000",
+			"publication_date": "2021-07-07T06:14:19+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill, Cool, Love",
 			"text_color": "white",
