@@ -42,6 +42,7 @@ const HeroText = ({ title, subtitle, text_color, ...moreStyles }) => {
 			<Container
 				ref={ref}
 				className={clsx("hero-text", text_color)}
+				willChange="transform"
 				centerContent
 				p="2rem"
 			>

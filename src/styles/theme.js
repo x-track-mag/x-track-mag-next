@@ -135,7 +135,7 @@ const styles = {
 			textColor: brandGreen
 		},
 		".hero-text.inverted": {
-			textColor: "brandOrange",
+			textColor: "orange",
 			mixBlendMode: "difference"
 		},
 		".container": {
