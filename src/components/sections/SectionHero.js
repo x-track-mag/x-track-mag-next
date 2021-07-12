@@ -8,6 +8,7 @@ import HeroText from "@components/base/HeroText";
  * @param {Object} [props.article] The main article from which to derive default title, subtile and background
  * @param {String} [props.title] Main Hero title. Use --blank-- to not display
  * @param {String} [props.subtitle] Sub Hero title. Use --blank-- to not display
+ * @param {String} [props.text_color] Text color (Title and Subtitle)
  * @param {Object} [props.image] Background image
  * @param {Object} [props.video_loop] Background video loop (if no background image)
  */
@@ -15,6 +16,7 @@ const SectionHero = ({
 	article = {},
 	title,
 	subtitle,
+	text_color,
 	image,
 	video_loop,
 	display_credits = false,
@@ -31,6 +33,7 @@ const SectionHero = ({
 			<HeroText
 				title={title || article.title}
 				subtitle={subtitle || article.subtitle}
+				text_color={text_color}
 			/>
 		</Box>
 	);

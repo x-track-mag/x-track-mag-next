@@ -7,6 +7,7 @@ export const PostPage = ({
 	uid,
 	title,
 	subtitle,
+	text_color,
 	image,
 	video_loop,
 	author,
@@ -43,6 +44,7 @@ export const PostPage = ({
 					article={article}
 					title={isArticle ? "--blank--" : title}
 					subtitle={isArticle ? "--blank--" : subtitle}
+					text_color={text_color}
 					display_credits={true}
 				/>
 			)}
