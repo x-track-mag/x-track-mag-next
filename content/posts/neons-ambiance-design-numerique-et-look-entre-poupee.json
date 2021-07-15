@@ -1,0 +1,546 @@
+{
+	"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
+	"tags": [],
+	"publication_date": "2021-07-15T15:21:49+0000",
+	"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
+	"subtitle": "",
+	"text_color": "white",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 1440,
+		"height": 900,
+		"ratio": 1.6
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Camille Laurens",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Néons, ambiance design-numérique, et look entre poupée mécanique à la Blade Runner et clubbeuse futuriste, les deux nouveaux titres de Sam Quealy explosent les genres. Rencontre façon troisième type.",
+					"spans": [
+						{
+							"start": 0,
+							"end": 199,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/015cf3f8-b8e7-4945-82ba-bc2d91fe67da_Capture+d%E2%80%99e%CC%81cran+2021-07-15+a%CC%80+17.18.57.png?auto=compress,format&rect=0,0,1102,1474&w=1024&h=1370",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1370,
+					"ratio": 0.7474452554744525
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/0f85f955-21dd-421d-8eb5-fdd751d4a6ea_Capture+d%E2%80%99e%CC%81cran+2021-07-15+a%CC%80+17.20.27.png?auto=compress,format&rect=0,0,970,1462&w=1024&h=1543",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1543,
+					"ratio": 0.6636422553467272
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/02caa2f6-2f68-41f9-887a-aa6a00b82b97_Capture+d%E2%80%99e%CC%81cran+2021-07-15+a%CC%80+17.20.32.png?auto=compress,format&rect=0,0,2176,1445&w=1024&h=680",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 680,
+					"ratio": 1.5058823529411764
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Loin de se contenter d’une entrée timorée sur le devant de la scène, cette australienne fraîchement débarquée sur les ondes donne le tempo de l’été avec son titre “Sad Summer Daze”, suivi depuis peu de “KLEPTO”. Voix haut perchée et chorégraphie léchée, l’artiste polyvalente voit loin, et c’est peu dire : entre danse, performance, et autres morceaux à venir, Sam frappe fort. Pour la chanteuse, l’art se conjugue avec une immersion qu’elle propose dans des galeries aux côtés de danseurs, et bientôt sur scène : le show semble être inné chez l’artiste qui conjugue les casquettes, et ambiance déjà les dancefloors des clubs. Rencontre avec cet ovni qui pèse déjà dans la balance, et offre un vent de fraîcheur bienvenue sur le devant des planches.",
+					"spans": [
+						{
+							"start": 163,
+							"end": 182,
+							"type": "em"
+						},
+						{
+							"start": 202,
+							"end": 212,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Hello Sam ! Tu as déjà un univers très fort,  d'où te vient cette passion pour la musique et surtout pour la techno deep ? ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 123,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 123,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Pour être honnête j’ai pris l'habitude de me faufiler dans les raves quand j'étais mineure… En particulier à Defqon.1 qui est un festival de musique axé hardstyle et techno hardcore aux Pays-Bas, quand j'avais 15 ans. Me perdre sur la piste de danse en écoutant de la musique deep, je pense que ma formation musicale vient de là !",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Pour la danse, tu as un parcours très solide…",
+					"spans": [
+						{
+							"start": 0,
+							"end": 45,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "J'ai suivi une formation de danseuse classique depuis mon enfance, nous avions la chance d’avoir un pianiste au studio…. J'ai adoré ressentir cette musique, et la façon dont elle me faisait bouger dans l’espace. Ces différentes passions ont façonné mon amour pour des styles musicaux variés allant d’un extrême à l’autre. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Chanteuse, danseuse, mannequin, la polyvalence fait-elle partie intégrante de ta vision de l'art ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 98,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Certainement. La formation de danseuse m'a beaucoup aidée dans la création musicale. Mon processus d'écriture de chansons s’assimile à une chorégraphie. Je commence par trouver un rythme ou un mouvement, puis je suis souvent guidée par la danse dans ma tête.  Puis, assez organiquement, je sais quoi chanter ensuite… Vous captez ? (rires).",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Que représente la musique et la composition dans ton processus créatif ? ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 73,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Chaque chanson de mon album a un sens ou un sentiment différent. Mais il y a une ligne directrice : vous remarquerez des thèmes récurrents comme l'amour libre et l'autonomisation des femmes ! ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Des thématiques puissantes. Et du coup, comment composes-tu ? ? ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 64,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Pour moi, il n'y a pas de méthode particulière pour écrire ! Cela peut être inspiré par un sentiment, une pensée, une couleur, puis j'essaie un million de choses jusqu'à ce que cela me plaise ! Pas de règle, juste du feeling ...",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Pourquoi accoler Summer et Sad ensemble alors que l’on s'attend généralement au contraire ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 91,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Je voulais décrire la friction entre le sentiment de tristesse lorsque vous êtes sous la pression de « vivre votre meilleure vie », entre ce que vous ressentez vraiment et le sentiment que l'on attend de vous. C'est un morceau assez mélancolique en vérité … ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Sad Summer Daze est-elle ta première compo ? ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 45,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Oui, c’est ma première compo sortie, mais elle n'était pas destinée à l’être, d’ailleurs, ni même à être sur le premier EP. Cela s'est fait ainsi après avoir collaboré avec le magazine de mode Purple.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Qu'est-ce qu'un Sad Summer Daze pour toi ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 42,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "« Envoie-moi une carte postale xoxo, pouvons-nous la garder au frais pour voir comment les choses se passent ? » ça résume assez bien ma vision des choses !",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Ton clip combine un univers très futuriste, numérique et robotique…",
+					"spans": [
+						{
+							"start": 0,
+							"end": 67,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Je voulais traduire cet esprit dénué d’émotion, mi-humain mi-robot, mi-amoureux, mi-essayant de ne pas s'en soucier ! Beaucoup de mi non ?!  ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "À quoi ressemble l'avenir pour vous ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 37,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Je suis une grande optimiste !",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Il y a une ambiance très clubbing qui se dégage de votre titre, ça vous manque cette année ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 92,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Absolument ! J'ai toujours été une enfant du club… C'est là que j'ai gagné cette confiance en moi, et d'où vient mon inspiration ! J’y rencontre tellement de gens incroyables. Lorsque je suis en club, je me sens toujours vraiment libre de m'exprimer pleinement. La nuit est libératrice. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Ton morceau est produit par Marlon, du groupe de musique La Femme. Comment avez-vous fait pour travailler ensemble ? Comment vos univers/envies se sont-ils rencontrés ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 168,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 168,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Ce n'était pas destiné à être le premier morceau de l’EP, donc, au moment où nous avons commencé à travailler dessus, on a réussi à faire fonctionner notre flow ensemble aisément.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Peux-tu me parler de tes performances en galerie ? Le concert traditionnel est-il à réinventer ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 96,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Faire une exposition d'art pour la naissance de mon projet musical faisait sens. Comme je l'ai dit, je pense que l’aspect visuel est tout aussi important que l'audio dans mon projet. Pour l’ouverture de l'exposition aux Ground Control, j'ai décidé de retravailler Sad Summer Daze en une version contemporaine ralentie pour s’adapter à l’ambiance, au mood du moment …",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Tu fais aussi appel à des danseurs pour tes performances ? ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 59,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 59,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Oui, un danseur Snake Ninja qui est présent dans mon prochain clip … La performance peut être vue au prisme de tous les contextes… La musique n'a pas besoin d'être simplement sur une scène ou un théâtre et l'art n'a pas besoin d'être uniquement dans une galerie. Il faut briser les clichés !",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Tu as sorti un autre titre KLEPTO…",
+					"spans": [
+						{
+							"start": 0,
+							"end": 34,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 34,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Oui ! C'est une chanson sur un cleptomane (à la mode) ! Elle a une compulsion à voler - qu'elle en ait besoin ou non… Elle passe du vol de vêtements, de cœurs de garçons, à sa chance dans la vie ! La chanson est un hybride électro-pop, techno, gabber. Les paroles incorporent du rap, de la poésie et beaucoup d'humour. Klepto est une chanson satirique inspirée des sociétés actuelles de consommation excessive.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Wouah ! Complet. Hâte de danser dessus. Pour finir, comment vois-tu la suite ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 78,
+							"type": "em"
+						},
+						{
+							"start": 0,
+							"end": 78,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Je joue au festival Isla le 4 juillet et aussi à l'hôtel Amour à Nice. Ma chanson Klepto est sortie le 30. On prépare déjà la sortie des morceaux suivants :) Maintenant que les clubs sont de retour à Paris, les lives vont se multiplier ! ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "MERCI SAM",
+					"spans": [
+						{
+							"start": 0,
+							"end": 9,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		}
+	],
+	"description": "Néons, ambiance design-numérique, et look entre poupée mécanique à la Blade Runner et clubbeuse futuriste, les deux nouveaux titres de Sam Quealy explosent les genres. Rencontre façon troisième type."
+}
