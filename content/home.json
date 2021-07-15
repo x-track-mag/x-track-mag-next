@@ -36,8 +36,7 @@
 			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
-			"position": 8,
-			"uid": "feel-good"
+			"position": 8
 		},
 		{
 			"position": 9,
@@ -281,27 +280,25 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
-			"uid": "feel-good",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-07-06T06:20:28+0000",
-			"title": "Feel Good",
-			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
-			"text_color": "orange",
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
+			"tags": [],
+			"publication_date": "2021-07-15T15:23:40+0000",
+			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
+			"subtitle": "",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format",
-				"alt": "Enny",
+				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 2258,
-				"height": 1715,
-				"ratio": 1.3166180758017492
+				"width": 1440,
+				"height": 900,
+				"ratio": 1.6
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
 			"uid": "nola-cherri",
@@ -525,25 +522,27 @@
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
-			"tags": [],
-			"publication_date": "2021-07-15T15:23:40+0000",
-			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
-			"subtitle": "",
-			"text_color": "white",
+			"uid": "feel-good",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-07-06T06:20:28+0000",
+			"title": "Feel Good",
+			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format",
+				"alt": "Enny",
 				"copyright": null,
-				"width": 1440,
-				"height": 900,
-				"ratio": 1.6
+				"width": 2258,
+				"height": 1715,
+				"ratio": 1.3166180758017492
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
+			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
