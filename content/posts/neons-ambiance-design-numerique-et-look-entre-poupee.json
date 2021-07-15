@@ -1,7 +1,7 @@
 {
 	"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
 	"tags": [],
-	"publication_date": "2021-07-15T15:45:09+0000",
+	"publication_date": "2021-07-15T15:47:42+0000",
 	"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
 	"subtitle": "",
 	"text_color": "white",
@@ -261,14 +261,7 @@
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/l5UHPDnLkzo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
 				"embed_url": "https://www.youtube.com/watch?v=l5UHPDnLkzo"
 			},
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/02caa2f6-2f68-41f9-887a-aa6a00b82b97_Capture+d%E2%80%99e%CC%81cran+2021-07-15+a%CC%80+17.20.32.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2176,
-				"height": 1446,
-				"ratio": 1.5048409405255878
-			}
+			"image": null
 		},
 		{
 			"template": "section-full-text",
