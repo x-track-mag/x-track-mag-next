@@ -155,17 +155,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-07-11T08:03:01+0000",
+			"publication_date": "2021-07-18T07:51:47+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été",
-			"text_color": "orange",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format",
-				"alt": "Billie Eilish",
+				"url": "https://images.prismic.io/x-track-mag/88e9b59a-29db-410c-ac7a-417c9a740db3_Femme+it+Forward.jpg?auto=compress,format",
+				"alt": "Femme it Forward x Tierra Whack",
 				"copyright": null,
 				"width": 2048,
-				"height": 1478,
-				"ratio": 1.3856562922868743
+				"height": 2048,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

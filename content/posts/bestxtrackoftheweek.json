@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-11T08:03:01+0000",
+	"publication_date": "2021-07-18T07:51:47+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
-	"text_color": "orange",
+	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format",
-		"alt": "Billie Eilish",
+		"url": "https://images.prismic.io/x-track-mag/88e9b59a-29db-410c-ac7a-417c9a740db3_Femme+it+Forward.jpg?auto=compress,format",
+		"alt": "Femme it Forward x Tierra Whack",
 		"copyright": null,
 		"width": 2048,
-		"height": 1478,
-		"ratio": 1.3856562922868743
+		"height": 2048,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Boj x Zamir x Amaarae, Jungle x Bas, Omah Lay, Muzi x Blackrose, Ruger, Billie Eilish, Matt Martians x Mia Gladstone, Kyle Dion x Ja Rule,  Sault x Little Simz,  Rejjie Snow x J. Ivy x Cam O'bi, Charlotte Day Wilson x Badbadnotgood & ++++👆🏽👆🎼🎧",
+					"text": "Femme it Forward x Tierra Whack, Enny x Kinkai, The Caveman, Yemi Alade, Lolo Zouaï, Lady Donli, Natalie Bergman x Pachyman,  La Femme, Known,  Little Simz, Bella Alubo, J. Lamotta x Roy Reemy, Silas Short, Maye, Clairo, BJ the Chicago Kid x Lucky Daye, Fana Hues x Mereba & ++++👆🏽👆🎼🎧",
 					"spans": []
 				},
 				{
@@ -49,28 +49,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e8c7d455-9c2f-42b0-9ba3-d77c07f5b483_charlotte-day-wilson.jpg?auto=compress,format&rect=0,0,1426,745&w=1024&h=535",
-					"alt": "Charlotte Day Wilson",
-					"copyright": null,
-					"width": 1024,
-					"height": 535,
-					"ratio": 1.9140186915887851
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e4349fa5-2bb2-4f4f-8e7e-e0b8edf7f8cb_Little+Simz.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/645b2f2c-c844-48cb-8b2d-8e00afb69e5e_Yemi+Alade.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Yemi Alade",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b5952b56-88f8-4260-b4d5-97e2b01f3747_Blackrose.jpg?auto=compress,format&rect=0,0,717,895&w=1024&h=1278",
-					"alt": "Blackrose",
+					"url": "https://images.prismic.io/x-track-mag/f74ce56d-4067-493a-b0e3-aae4b6c5d0f4_Fana+Hues.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Fana Hues",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a8eda5e6-45b2-4dc9-bcb3-3de737122042_LOLO+ZouaI%CC%88+.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "LOLO ZouaÏ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -78,24 +78,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/7d348a58-7e9f-42dc-92e1-aa3616a2da66_Ruger.jpg?auto=compress,format&rect=0,0,480,517&w=1024&h=1103",
-					"alt": "Ruger",
+					"url": "https://images.prismic.io/x-track-mag/af4a6493-58af-48ce-9bc5-703a35234138_La+Femme.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
+					"alt": "La Femme",
 					"copyright": null,
 					"width": 1024,
-					"height": 1103,
-					"ratio": 0.928377153218495
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/56cdfe8b-22c9-471b-88f8-2a97a5b4f0ff_Amaarae.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/60bccb81-50c2-433e-8be5-d2497ab2ac0b_enny+.jpg?auto=compress,format&rect=0,0,1290,773&w=1024&h=614",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 614,
+					"ratio": 1.6677524429967427
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a2c9ea68-0e1e-41ea-90eb-e9c74cc15d7c_Rejjie+Snow.jpg?auto=compress,format&rect=0,0,1356,1356&w=1024&h=1024",
-					"alt": "Rejjie Snow",
+					"url": "https://images.prismic.io/x-track-mag/af5b5b46-57c2-4a83-95ea-7b541bfe1c6d_Little-Simz.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -107,15 +107,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=9e4b8e9920144928",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=dcf4843626b84865",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-xlyNbalCvNPRE",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-jV89XVjFBAyYV",
 					"title": "Best ”XTrack“ of Summer par XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"url": "https://www.deezer.com/us/playlist/4099699282",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
