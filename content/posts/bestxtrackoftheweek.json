@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-19T09:29:03+0000",
+	"publication_date": "2021-07-21T13:20:23+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "white",
@@ -78,12 +78,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/af4a6493-58af-48ce-9bc5-703a35234138_La+Femme.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
-					"alt": "La Femme",
+					"url": "https://images.prismic.io/x-track-mag/40b5b10f-e3a9-4397-ae18-0c7aacd24749_Tierra+Whack.jpg?auto=compress,format&rect=0,0,2153,1537&w=1024&h=731",
+					"alt": "Tierra Whack",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 731,
+					"ratio": 1.4008207934336525
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/60bccb81-50c2-433e-8be5-d2497ab2ac0b_enny+.jpg?auto=compress,format&rect=0,0,1290,773&w=1024&h=614",
