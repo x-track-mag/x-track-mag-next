@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-21T13:20:23+0000",
+	"publication_date": "2021-07-24T22:50:49+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/88e9b59a-29db-410c-ac7a-417c9a740db3_Femme+it+Forward.jpg?auto=compress,format",
-		"alt": "Femme it Forward x Tierra Whack",
+		"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
+		"alt": "Leisure",
 		"copyright": null,
-		"width": 2048,
-		"height": 2048,
-		"ratio": 1
+		"width": 3000,
+		"height": 1663,
+		"ratio": 1.803968731208659
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -35,12 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Femme it Forward x Tierra Whack, Enny x Kinkai, The Caveman, Yemi Alade, Lolo Zouaï, Shayhan, Lady Donli, Natalie Bergman x Pachyman,  La Femme, Known,  Little Simz, Bella Alubo, J. Lamotta x Roy Reemy, Silas Short, Maye, Clairo, BJ the Chicago Kid x Lucky Daye, Fana Hues x Mereba & ++++👆🏽👆🎼🎧",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": " ",
+					"text": "Leisure, Childish Gambino x Brittany Howard, Hope Tala, Dave x Wizkid, Juls x Kadiata x Knuks x Sam Wise, Syd, Ajebutter22 x Oxlade, DijahSB, Andreas Owens, Enny x Amia Brave, Chronixx, Popcaan, Shayan, Chiiild, Still Woozy, Nite Jewel, Cece Coakley, Kwaye, Kurtis Wells, Charlotte Day Wilson x Syd, James Blake, Lorde & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -49,28 +44,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/645b2f2c-c844-48cb-8b2d-8e00afb69e5e_Yemi+Alade.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Yemi Alade",
+					"url": "https://images.prismic.io/x-track-mag/38441ee2-a4fb-4cee-9053-ef115026adee_Brittany+Howard.jpg?auto=compress,format&rect=0,0,541,700&w=1024&h=1325",
+					"alt": "Brittany Howard",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1325,
+					"ratio": 0.7728301886792452
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f74ce56d-4067-493a-b0e3-aae4b6c5d0f4_Fana+Hues.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
-					"alt": "Fana Hues",
+					"url": "https://images.prismic.io/x-track-mag/809b3fbd-6efb-4e8e-b70b-f6411983858c_wizkid.jpg?auto=compress,format&rect=0,0,1920,1080&w=1024&h=576",
+					"alt": "wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a8eda5e6-45b2-4dc9-bcb3-3de737122042_LOLO+ZouaI%CC%88+.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "LOLO ZouaÏ",
+					"url": "https://images.prismic.io/x-track-mag/898f8dad-9e16-4060-8747-2ad03a1b2d4f_Childish+Gambino.jpg?auto=compress,format&rect=0,0,1439,1440&w=1024&h=1025",
+					"alt": "Childish Gambino",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				}
 			]
 		},
@@ -78,24 +73,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/40b5b10f-e3a9-4397-ae18-0c7aacd24749_Tierra+Whack.jpg?auto=compress,format&rect=0,0,2153,1537&w=1024&h=731",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/5aadbd1b-2ec5-45a0-8855-5bf32a3beedc_Lorde.jpg?auto=compress,format&rect=0,0,3990,2400&w=1024&h=616",
+					"alt": "Lorde",
 					"copyright": null,
 					"width": 1024,
-					"height": 731,
-					"ratio": 1.4008207934336525
+					"height": 616,
+					"ratio": 1.6623376623376624
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/60bccb81-50c2-433e-8be5-d2497ab2ac0b_enny+.jpg?auto=compress,format&rect=0,0,1290,773&w=1024&h=614",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/f4c3ba1d-6377-4a2e-a5f8-c0da1b0ac094_Charlotte+Day+Wilson.jpg?auto=compress,format&rect=0,0,1002,1200&w=1024&h=1226",
+					"alt": "Charlotte Day Wilson",
 					"copyright": null,
 					"width": 1024,
-					"height": 614,
-					"ratio": 1.6677524429967427
+					"height": 1226,
+					"ratio": 0.835236541598695
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/af5b5b46-57c2-4a83-95ea-7b541bfe1c6d_Little-Simz.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/a960a15f-ac37-4e91-ad91-c9811688de24_Cece+Coakley.jpg?auto=compress,format&rect=0,0,800,800&w=1024&h=1024",
+					"alt": "Cece Coakley",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -107,11 +102,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=dcf4843626b84865",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=8cbb163955d94e65",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-jV89XVjFBAyYV",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-gxblox4FlAoV4",
 					"title": "Best ”XTrack“ of Summer par XTrack"
 				},
 				{
