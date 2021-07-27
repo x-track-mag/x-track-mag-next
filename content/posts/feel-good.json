@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-06T06:20:28+0000",
+	"publication_date": "2021-07-27T12:58:30+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "orange",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Enny, Juls x Tay Iwar x P-Rallel, Rejjie Snow x Tinashe x Grouptherapy, Stevedreez, Busy P, Haich Ber Na x Shay Lia, Diplo x Damian Lazarus x Jungle, SG Lewis x Lucky Daye x Kapote, Jungle,  Doja Cats x Disclosure, Lucky Daye, DJ Khaled x H.E.R x Migos,  Burna Boy, Konshens Davido, Sault, Tekno, Greentea Peng,  Pricie x Genesis Owusu & +++ Enjoy",
+					"text": "Enny, Jungle x Bas, Jacques, Crayon x Bella Shmurda, Lolo ZouaÏ, stevedreez, Konshens x Davido, Sault, Diplo x Damian Lazarus x Jungle, A$AP Rocky, Blundetto x Voilaaa, Tekno, Juls  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -42,12 +42,12 @@
 					"ratio": 1.665040650406504
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/62a8482a-6607-4258-b040-b154b210e335_H.E.R+.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
-					"alt": "H.E.R",
+					"url": "https://images.prismic.io/x-track-mag/a8eda5e6-45b2-4dc9-bcb3-3de737122042_LOLO+ZouaI%CC%88+.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "LOLO ZouaÏ",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/043c6a61-e7b9-4696-aa25-a6d4ad68b90e_Shay+Lia+.jpg?auto=compress,format&rect=0,0,1280,1600&w=1024&h=1280",
@@ -71,12 +71,12 @@
 					"ratio": 0.8812392426850258
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d813b79b-4fef-4308-b4e7-0bde4380cc9b_Doja+Cats+.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
-					"alt": "Doja Cats",
+					"url": "https://images.prismic.io/x-track-mag/eb87fa6a-384a-4e6e-ba0c-cec8fc7b907c_Rimon.jpg?auto=compress,format&rect=0,0,960,1200&w=1024&h=1280",
+					"alt": "Rimon",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/99541a31-6f39-4a05-b685-151cbbfd947c_Pricie+.jpg?auto=compress,format&rect=0,0,1440,1799&w=1024&h=1279",
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=57775029620b4c17",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=238201b59af746f5",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxbl2z1TlAoV4",
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-2aoqWayc2XgBo",
 					"title": "Feel Good par XTrack"
 				},
 				{

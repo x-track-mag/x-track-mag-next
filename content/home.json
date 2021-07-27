@@ -277,6 +277,29 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
+			"uid": "feel-good",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-07-27T12:58:30+0000",
+			"title": "Feel Good",
+			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format",
+				"alt": "Enny",
+				"copyright": null,
+				"width": 2258,
+				"height": 1715,
+				"ratio": 1.3166180758017492
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+		},
+		{
 			"uid": "nola-cherri",
 			"tags": [
 				"music",
@@ -320,29 +343,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "L’Avenir de la Mode est-il virtuel ?"
-		},
-		{
-			"uid": "feel-good",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-07-06T06:20:28+0000",
-			"title": "Feel Good",
-			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format",
-				"alt": "Enny",
-				"copyright": null,
-				"width": 2258,
-				"height": 1715,
-				"ratio": 1.3166180758017492
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		},
 		{
 			"uid": "new-romance",
