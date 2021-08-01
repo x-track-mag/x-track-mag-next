@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-24T22:50:49+0000",
+	"publication_date": "2021-08-01T07:42:58+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
-		"alt": "Leisure",
+		"url": "https://images.prismic.io/x-track-mag/4c362f81-8652-4a2b-aad6-ceba9e559e43_Leon+Bridges.jpg?auto=compress,format",
+		"alt": "Leon Bridges",
 		"copyright": null,
 		"width": 3000,
-		"height": 1663,
-		"ratio": 1.803968731208659
+		"height": 3000,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Leisure, Childish Gambino x Brittany Howard, Hope Tala, Dave x Wizkid, Juls x Kadiata x Knuks x Sam Wise, Syd, Ajebutter22 x Oxlade, DijahSB, Andreas Owens, Enny x Amia Brave, Chronixx, Popcaan, Shayan, Chiiild, Still Woozy, Nite Jewel, Cece Coakley, Kwaye, Kurtis Wells, Charlotte Day Wilson x Syd, James Blake, Lorde & ++++ Enjoy",
+					"text": "Billie Eilish, PawPaw Rod, Terry Presume, AV, Bongeziwe Mabandla x Muzi, July Drama x Bella Alubo, Leon Bridges,  Silk Sonic : Bruno Mars x Anderson .Paak, Chiiild, Arlo Parks x Unknown Mortal Orchestra, Olamide, 53 Thieves, Full Crates x Jaskelisx Moses Kriss, Facesoul, Amaria x Mick jenkins & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -44,24 +44,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/38441ee2-a4fb-4cee-9053-ef115026adee_Brittany+Howard.jpg?auto=compress,format&rect=0,0,541,700&w=1024&h=1325",
-					"alt": "Brittany Howard",
+					"url": "https://images.prismic.io/x-track-mag/61836a07-6774-495d-a44e-7a187cd0bff9_Amaria.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
-					"height": 1325,
-					"ratio": 0.7728301886792452
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/809b3fbd-6efb-4e8e-b70b-f6411983858c_wizkid.jpg?auto=compress,format&rect=0,0,1920,1080&w=1024&h=576",
-					"alt": "wizkid",
+					"url": "https://images.prismic.io/x-track-mag/51f27e5e-6ab1-469d-af68-35e65bedf277_AV.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
+					"alt": "AV",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/898f8dad-9e16-4060-8747-2ad03a1b2d4f_Childish+Gambino.jpg?auto=compress,format&rect=0,0,1439,1440&w=1024&h=1025",
-					"alt": "Childish Gambino",
+					"url": "https://images.prismic.io/x-track-mag/5ac8dbcf-325c-4869-b75d-c9139b22df58_Billie+Eilish.jpg?auto=compress,format&rect=0,0,720,721&w=1024&h=1025",
+					"alt": "Billie Eilish",
 					"copyright": null,
 					"width": 1024,
 					"height": 1025,
@@ -73,28 +73,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5aadbd1b-2ec5-45a0-8855-5bf32a3beedc_Lorde.jpg?auto=compress,format&rect=0,0,3990,2400&w=1024&h=616",
-					"alt": "Lorde",
+					"url": "https://images.prismic.io/x-track-mag/020730bb-51fe-4868-9e57-993c10de0f59_Jaskelis.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
+					"alt": "Jaskelis",
 					"copyright": null,
 					"width": 1024,
-					"height": 616,
-					"ratio": 1.6623376623376624
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f4c3ba1d-6377-4a2e-a5f8-c0da1b0ac094_Charlotte+Day+Wilson.jpg?auto=compress,format&rect=0,0,1002,1200&w=1024&h=1226",
-					"alt": "Charlotte Day Wilson",
-					"copyright": null,
-					"width": 1024,
-					"height": 1226,
-					"ratio": 0.835236541598695
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a960a15f-ac37-4e91-ad91-c9811688de24_Cece+Coakley.jpg?auto=compress,format&rect=0,0,800,800&w=1024&h=1024",
-					"alt": "Cece Coakley",
+					"url": "https://images.prismic.io/x-track-mag/9bd0f4b6-56c8-4899-97d3-b7262e705999_Terry+Presume.jpg?auto=compress,format&rect=0,0,1945,1945&w=1024&h=1024",
+					"alt": "Terry Presume",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a65a4df2-28cf-4677-afaa-5e292ec6feaf_Arlo_Parks.jpg?auto=compress,format&rect=0,0,784,489&w=1024&h=639",
+					"alt": "Arlo Parks",
+					"copyright": null,
+					"width": 1024,
+					"height": 639,
+					"ratio": 1.6025039123630673
 				}
 			]
 		},
@@ -102,11 +102,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=8cbb163955d94e65",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=8e5db070b41f4365",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-gxblox4FlAoV4",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-xlyNLlPTvNPRE",
 					"title": "Best ”XTrack“ of Summer par XTrack"
 				},
 				{
