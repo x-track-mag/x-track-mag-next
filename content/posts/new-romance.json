@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-08-05T09:43:06+0000",
+	"publication_date": "2021-08-05T09:51:09+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill, Cool, Love",
 	"text_color": "white",
@@ -42,20 +42,20 @@
 					"ratio": 1.8028169014084507
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4c362f81-8652-4a2b-aad6-ceba9e559e43_Leon+Bridges.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Leon Bridges",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/38441ee2-a4fb-4cee-9053-ef115026adee_Brittany+Howard.jpg?auto=compress,format&rect=0,0,541,700&w=1024&h=1325",
 					"alt": "Brittany Howard",
 					"copyright": null,
 					"width": 1024,
 					"height": 1325,
 					"ratio": 0.7728301886792452
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4c362f81-8652-4a2b-aad6-ceba9e559e43_Leon+Bridges.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Leon Bridges",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a4a67c66-cd1b-469a-99af-ce4295a26be4_Arlo+Parks.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format&rect=0,0,2046,1229&w=1024&h=615",
+					"alt": "Greentea Peng",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 615,
+					"ratio": 1.665040650406504
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a745936b-f93d-4b5d-88dd-547bbb12157e_khruangbin_.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
-					"alt": "khruangbin",
+					"url": "https://images.prismic.io/x-track-mag/b4bf1066-2c6c-4e31-9a27-b24eb30c919f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
+					"alt": "Biig Piig",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/87ad30d1-5c0d-4ce7-9c0c-de35b8bf0935_Enny.+.jpg?auto=compress,format&rect=0,0,1509,1127&w=1024&h=765",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/043c6a61-e7b9-4696-aa25-a6d4ad68b90e_Shay+Lia+.jpg?auto=compress,format&rect=0,0,1280,1600&w=1024&h=1280",
+					"alt": "Shay Lia",
 					"copyright": null,
 					"width": 1024,
-					"height": 765,
-					"ratio": 1.3385620915032679
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
