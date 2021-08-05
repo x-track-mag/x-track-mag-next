@@ -353,17 +353,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-07-07T06:14:19+0000",
+			"publication_date": "2021-08-05T09:43:06+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill, Cool, Love",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5445f1fa-a9d0-4184-8e4f-2cb50911be40_Jorja-Smithx.jpg?auto=compress,format",
-				"alt": "Jorja Smith",
+				"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
+				"alt": "Lorde",
 				"copyright": null,
-				"width": 1530,
-				"height": 1250,
-				"ratio": 1.224
+				"width": 3600,
+				"height": 3600,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

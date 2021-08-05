@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-07T06:14:19+0000",
+	"publication_date": "2021-08-05T09:43:06+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill, Cool, Love",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/5445f1fa-a9d0-4184-8e4f-2cb50911be40_Jorja-Smithx.jpg?auto=compress,format",
-		"alt": "Jorja Smith",
+		"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
+		"alt": "Lorde",
 		"copyright": null,
-		"width": 1530,
-		"height": 1250,
-		"ratio": 1.224
+		"width": 3600,
+		"height": 3600,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Yuki Dreams Again, Jorja Smith, Lorde, Nova x Fasina, Amber mark, Arlo Parks, Emotional Oranges x Biig Piig, Tirzah, Michael Brun x Shay Lia, Honne, Sault, Feu! chatterton,  Babeheaven, Chiiild, Biig Piig, Vanjess, Aaron London,  H.E.R, Khruangbin, Dom La Nena, & +++ enjoy",
+					"text": "Leisure, Childish Gambino x Brittany Howard, Chiiild x Mahalia, Enny x Kinkai, 53 Thieves, Lorde, Greentea Peng, Nova x Fasina, Hope Tala, Arlo Parks, Khruangbin x Leon Bridges, Tirzah, Syd, Michael Brun x Shay Lia, Emotional Oranges x Biig Piig, Tank & the Bangas, Vanjess, Amber Mark, Noname, Lala &ce, Matt Martians x Mia Gladstone, Andreas Owens, Aaron London, Sault, HER & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4d14fc08-6b79-45e2-97b3-75fed13d87ca_H.E.R..jpg?auto=compress,format&rect=0,0,2048,1366&w=1024&h=683",
-					"alt": "H.E.R.",
+					"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format&rect=0,0,2998,1663&w=1024&h=568",
+					"alt": "Leisure",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 568,
+					"ratio": 1.8028169014084507
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a745936b-f93d-4b5d-88dd-547bbb12157e_khruangbin_.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
-					"alt": "khruangbin",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format&rect=0,0,3600,3600&w=1024&h=1024",
-					"alt": "Lorde",
+					"url": "https://images.prismic.io/x-track-mag/4c362f81-8652-4a2b-aad6-ceba9e559e43_Leon+Bridges.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Leon Bridges",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/38441ee2-a4fb-4cee-9053-ef115026adee_Brittany+Howard.jpg?auto=compress,format&rect=0,0,541,700&w=1024&h=1325",
+					"alt": "Brittany Howard",
+					"copyright": null,
+					"width": 1024,
+					"height": 1325,
+					"ratio": 0.7728301886792452
 				}
 			]
 		},
@@ -71,20 +71,20 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/64053587-a95c-4344-bfae-c0c8ff5ab43d_Feu+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
-					"alt": "Feu! Chatterton",
+					"url": "https://images.prismic.io/x-track-mag/a745936b-f93d-4b5d-88dd-547bbb12157e_khruangbin_.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
+					"alt": "khruangbin",
 					"copyright": null,
 					"width": 1024,
-					"height": 819,
-					"ratio": 1.2503052503052503
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8269fdc4-6b79-464f-8000-3ca317b2be11_dom+la+nena.jpg?auto=compress,format&rect=0,0,1099,1099&w=1024&h=1024",
-					"alt": "Dom la Nena",
+					"url": "https://images.prismic.io/x-track-mag/87ad30d1-5c0d-4ce7-9c0c-de35b8bf0935_Enny.+.jpg?auto=compress,format&rect=0,0,1509,1127&w=1024&h=765",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 765,
+					"ratio": 1.3385620915032679
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=a671a905ea664ab9",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=3cb1aa25c6e245a0",
 					"title": "New romance"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-2aoqB3YI2XgBo",
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-2aoqWdeS2XgBo",
 					"title": "New romance par XTrack"
 				},
 				{
