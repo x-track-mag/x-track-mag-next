@@ -138,17 +138,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-08-08T07:54:30+0000",
+			"publication_date": "2021-08-08T08:02:42+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/284fa92b-89bc-44c5-bc07-a3941c0a94da_Gabriels.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
 				"alt": "Gabriels",
 				"copyright": null,
-				"width": 1945,
-				"height": 1945,
-				"ratio": 1
+				"width": 1943,
+				"height": 1140,
+				"ratio": 1.7043859649122808
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
