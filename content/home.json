@@ -138,16 +138,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-08-01T08:29:34+0000",
+			"publication_date": "2021-08-08T07:39:29+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c362f81-8652-4a2b-aad6-ceba9e559e43_Leon+Bridges.jpg?auto=compress,format",
-				"alt": "Leon Bridges",
+				"url": "https://images.prismic.io/x-track-mag/284fa92b-89bc-44c5-bc07-a3941c0a94da_Gabriels.jpg?auto=compress,format",
+				"alt": "Gabriels",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
+				"width": 1945,
+				"height": 1945,
 				"ratio": 1
 			},
 			"video_loop": null,
