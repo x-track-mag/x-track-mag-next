@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-07-27T13:08:12+0000",
+	"publication_date": "2021-08-10T13:52:36+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format",
-		"alt": "Enny",
+		"url": "https://images.prismic.io/x-track-mag/9bd0f4b6-56c8-4899-97d3-b7262e705999_Terry+Presume.jpg?auto=compress,format",
+		"alt": "Terry Presume",
 		"copyright": null,
-		"width": 2258,
-		"height": 1715,
-		"ratio": 1.3166180758017492
+		"width": 1945,
+		"height": 1945,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Enny, Jungle x Bas, Jacques, Crayon x Bella Shmurda, Lolo ZouaÏ, stevedreez, Konshens x Davido, Sault, Diplo x Damian Lazarus x Jungle, A$AP Rocky, Blundetto x Voilaaa, Tekno, Juls  & +++ Enjoy",
+					"text": "PawPaw Rod, Terry Presume, Hope Tala, Tierra Whack, Jorja Smith x GuyltyBeatz, Crayon x Bella Shmurda,  Stevedreez, Sault, Diplo x Damian Lazarus x Jungle, A$AP Rocky, Blundetto x Voilaaa, Tekno, Flalana x Oxlade x Spax, Juls x Twich 4EVA x Quamins MP, Busy P x Haich Ber Na x Shay Lia, Michael Brun, Emotional Oranges x Channel Tres, DijahSB, Gabriels, Buju Banton X Pharrell Williams, Matt Martians & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format&rect=0,0,2046,1229&w=1024&h=615",
-					"alt": "Greentea Peng",
-					"copyright": null,
-					"width": 1024,
-					"height": 615,
-					"ratio": 1.665040650406504
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/eb87fa6a-384a-4e6e-ba0c-cec8fc7b907c_Rimon.jpg?auto=compress,format&rect=0,0,960,1200&w=1024&h=1280",
-					"alt": "Rimon",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a8eda5e6-45b2-4dc9-bcb3-3de737122042_LOLO+ZouaI%CC%88+.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "LOLO ZouaÏ",
+					"url": "https://images.prismic.io/x-track-mag/18e47fb0-7254-4e60-9a8b-937192fcc48c_Tierra+Whack.jpeg?auto=compress,format&rect=0,0,1556,1556&w=1024&h=1024",
+					"alt": "Tierra Whack",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/382197c9-c500-4268-bb69-fa21f9959d66_Pawpaw+Rod.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "PawPaw Rod",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/48bc780d-d2b7-4251-9db5-7d1ed1acb4f2_Jorja+Smith+.jpg?auto=compress,format&rect=0,0,1500,2000&w=1024&h=1365",
+					"alt": "Jorja Smith",
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				}
 			]
 		},
@@ -63,12 +63,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/cfb87864-2aa9-46e5-aad6-ec031b43769f_Emotional_Oranges.jpg?auto=compress,format&rect=0,0,1289,1127&w=1024&h=895",
-					"alt": "Emotional Oranges",
+					"url": "https://images.prismic.io/x-track-mag/ba6d0027-3772-4102-a1a8-8c3b6917ba1c_Hope+Tala.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Hope Tala",
 					"copyright": null,
 					"width": 1024,
-					"height": 895,
-					"ratio": 1.1441340782122904
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/71bcd039-c162-48c5-ade7-4aac51fe43f4_Falana.jpg?auto=compress,format&rect=0,0,918,1042&w=1024&h=1162",
@@ -79,12 +79,12 @@
 					"ratio": 0.8812392426850258
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/99541a31-6f39-4a05-b685-151cbbfd947c_Pricie+.jpg?auto=compress,format&rect=0,0,1440,1799&w=1024&h=1279",
-					"alt": "Pricie",
+					"url": "https://images.prismic.io/x-track-mag/cfa434b4-647c-4f05-896d-6b88f6ef9887_Shay+Lia.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=238201b59af746f5",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=332cfcfe26c54b7a",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-2aoqWayc2XgBo",
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-kv9lXlLuDY8qp",
 					"title": "Feel Good par XTrack"
 				},
 				{
