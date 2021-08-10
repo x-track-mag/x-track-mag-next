@@ -1,0 +1,194 @@
+{
+	"uid": "les-klon-hydre-pop-a-sept-tetes",
+	"tags": [],
+	"publication_date": "2021-08-10T10:01:04+0000",
+	"title": "LES KLON, HYDRE POP À SEPT TÊTES",
+	"subtitle": "",
+	"text_color": "white",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 3000,
+		"height": 3000,
+		"ratio": 1
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Camille Laurens",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Noyau dur dont les sept énergies semblent se diffuser avec une fluidité déconcertante, les Klon sont uniques en leur genre. Promesse certaine de la scène française, portrait d’une jeunesse au pluriel.  ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 200,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Rencontrer les Klon est aussi vivifiant qu’un shot de bien-être. Pour ceux dont la culture s’étale aux 90’s, c’est un mélange entre S club Seven remixé façon Jagger-Bowitienne. Plus soudés que jamais, les Klon que l’on prononce “clones” tant ils sont fusionnels s’amusent de cette étrange connexion qui les réunit de manière viscérale depuis plus de 5 ans : ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "On s'était tous déjà croisé une ou deux fois, mais comme dans un film, à une soirée, on s’est posé tous les 7, et dès le lendemain, on savait que l’on ne se quitterait plus. On a finalement emménagé ensemble. Depuis, c’est comme si on était un seul cerveau d’une matrice en effervescence perpétuelle, une combinaison inexplicable.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/24efb28a-c744-42a9-b263-d7a93a0e0880_KLON_%281%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format&rect=0,0,5657,3773&w=1024&h=683",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Si certains cherchent leur moitié, eux ont trouvé leur complétude par 7, signés Zoé, Aurel, Akra, Vic, Nejma, Art et Rory. Et de manière active, vivre ensemble certes, mais pour être le plus productif possible. Pour les Klons, leur maison aux abords de Paris est avant tout un laboratoire à idées, un incubateur à projets, tous plus démentiels les uns que les autres. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Du rap à la pop, un ovni en gestation  ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 39,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "On a d’abord matché sur nos goûts musicaux. Période lycée, on était à fond dans le rap indé, plutôt américain, niche, trap/soul. On écrivait tous déjà quelques textes et on avait même créé un collectif, ce qui est plutôt rare à Melun. C’est un peu la rencontre des 7 marginaux du fond de classe. Depuis, on a quand même largement évolué, ambiance pop/ new wave, le but c’est de toujours se renouveler pour se surprendre",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/a5016f6a-2b5b-493a-bb4b-f0c0676bfb2c_KLON_%282%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format&rect=0,0,3657,2439&w=1024&h=683",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Oui car depuis, ils ont fait de la route et deviennent sans grande surprises les nouveaux chouchous des modeux qui voient le potentiel de leur groupe. En première partie du show Gucci, puis en live pour Yves Saint Laurent, les Klons plaisent par leur singularité, leur énergie solaire et l'identité visuelle puissante qu’il crée au fur et à mesure de leur succès. De plus en plus en confiance, les membres déploient l’éventail de leur imagination, sans considérer les obstacles : leur équipe est aussi libre que les 7 inséparables. Un seul but ? Surprendre, inventer, créer, tester ! Bref, leur morceau Nouveau Genre en dit long sur l’énergie démentielle qui habite l’univers du groupe. “À bas les étiquettes, soyez vous-même c’est tout” prône-t-il, rien d’étonnant jusque-là, sauf lorsque leur clip propose des personnage bariolés, hybrides, alien non sans rappeler les alter ego des rock stars 70”s. En finir avec le quotidien morne et gris au profit d’un manifeste à la joie, aux couleurs, à la perchitude, les Klon sont thérapeutiques. ",
+					"spans": [
+						{
+							"start": 602,
+							"end": 617,
+							"type": "em"
+						},
+						{
+							"start": 687,
+							"end": 737,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Ambitieux, futuriste : 2022, Be ready",
+					"spans": [
+						{
+							"start": 0,
+							"end": 37,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "S'ils ont grandi ensemble, leur vie a réellement pris un tournant depuis leur rencontre. Chaque morceau, chaque clip, chaque projet s’inscrit dans un processus commun de réflexion. En studio, en répétition, les cadres de leur travail s'éloignent des modèles classiques : ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Généralement, on se pose autour de la table de chez nous, sans pression, et les idées partent. Un gros mic mac pour certains, mais aujourd’hui on arrive de plus en plus à savoir où l'on va. On affine nos goûts, nos productions, nos toplines avec les spécificités de chacun. Aujourd’hui c’est le mix de nos backgrounds, entre rap, trap, rock ! On concilie toutes les énergies pour des morceaux qui donnent envie de danser, de se libérer des carcans en fonction de nos feelings.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": " Et pour cause, les Klon ont hâte de pouvoir faire vivre leur expérience sur scène et rencontrer leur public, les marques sont de parfaits tremplins pour incarner leur style et les faire connaître en attendant une année que l’on espère forte de concerts,de tournée, en clips, en lives … Et de ce que l’on a pu comprendre, une date à la Boule Noire le 9 septembre, et sûrement une première partie des Therapy Taxi dès la rentrée avec une tournée dans toute la France. Nul doute, le groupe risque fortement de nous embarquer dans leur univers aussi riche que barré ! ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 1,
+							"type": "em"
+						},
+						{
+							"start": 400,
+							"end": 412,
+							"type": "em"
+						}
+					]
+				}
+			]
+		}
+	],
+	"description": "Noyau dur dont les sept énergies semblent se diffuser avec une fluidité déconcertante, les Klon sont uniques en leur genre. Promesse certaine de la scène française, portrait d’une jeunesse au pluriel.  "
+}
