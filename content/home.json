@@ -12,6 +12,10 @@
 			"uid": "bestxtrackoftheweek"
 		},
 		{
+			"position": 1,
+			"uid": "les-klon-hydre-pop-a-sept-tetes"
+		},
+		{
 			"position": 2,
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
@@ -134,27 +138,25 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-08-08T10:45:52+0000",
-			"title": "Best ”XTrack“ of Summer",
-			"subtitle": "Les meilleurs sons de l'été",
-			"text_color": "orange",
+			"uid": "les-klon-hydre-pop-a-sept-tetes",
+			"tags": [],
+			"publication_date": "2021-08-10T10:01:04+0000",
+			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
+			"subtitle": "",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
-				"alt": "Gabriels",
+				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1943,
-				"height": 1140,
-				"ratio": 1.7043859649122808
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "Noyau dur dont les sept énergies semblent se diffuser avec une fluidité déconcertante, les Klon sont uniques en leur genre. Promesse certaine de la scène française, portrait d’une jeunesse au pluriel.  "
 		},
 		{
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
@@ -525,25 +527,27 @@
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
-			"uid": "les-klon-hydre-pop-a-sept-tetes",
-			"tags": [],
-			"publication_date": "2021-08-10T10:01:04+0000",
-			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
-			"subtitle": "",
-			"text_color": "white",
+			"uid": "bestxtrackoftheweek",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-08-08T10:45:52+0000",
+			"title": "Best ”XTrack“ of Summer",
+			"subtitle": "Les meilleurs sons de l'été",
+			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
+				"alt": "Gabriels",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 1943,
+				"height": 1140,
+				"ratio": 1.7043859649122808
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Noyau dur dont les sept énergies semblent se diffuser avec une fluidité déconcertante, les Klon sont uniques en leur genre. Promesse certaine de la scène française, portrait d’une jeunesse au pluriel.  "
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
