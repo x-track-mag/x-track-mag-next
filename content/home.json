@@ -9,23 +9,19 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestxtrackoftheweek"
-		},
-		{
-			"position": 1,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
 			"position": 2,
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 3,
-			"uid": "x-track-studio---biaziouka"
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
 		{
 			"position": 4,
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
+			"uid": "x-track-studio---biaziouka"
 		},
 		{
 			"position": 5,
@@ -82,6 +78,10 @@
 		{
 			"position": 17,
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+		},
+		{
+			"position": 18,
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		}
 	],
 	"selected_reads": [
@@ -159,6 +159,29 @@
 			"description": "Noyau dur dont les sept énergies semblent se diffuser avec une fluidité déconcertante, les Klon sont uniques en leur genre. Promesse certaine de la scène française, portrait d’une jeunesse au pluriel.  "
 		},
 		{
+			"uid": "bestxtrackoftheweek",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-08-08T10:45:52+0000",
+			"title": "Best ”XTrack“ of Summer",
+			"subtitle": "Les meilleurs sons de l'été",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
+				"alt": "Gabriels",
+				"copyright": null,
+				"width": 1943,
+				"height": 1140,
+				"ratio": 1.7043859649122808
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist des meilleurs sons de la semaine"
+		},
+		{
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
 			"tags": [],
 			"publication_date": "2021-07-15T15:54:05+0000",
@@ -198,29 +221,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
-		},
-		{
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-07-25T08:44:41+0000",
-			"title": "La Muse, une icône féministe ?  Volet 2",
-			"subtitle": "La femme artiste, d’objet à sujet créateur ",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassa",
-			"internal_link": null,
-			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
@@ -504,6 +504,29 @@
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
 		},
 		{
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-07-25T08:44:41+0000",
+			"title": "La Muse, une icône féministe ?  Volet 2",
+			"subtitle": "La femme artiste, d’objet à sujet créateur ",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassa",
+			"internal_link": null,
+			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
+		},
+		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
 				"article"
@@ -525,29 +548,6 @@
 			"author": "Manon Pelinq",
 			"internal_link": null,
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
-		},
-		{
-			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-08-08T10:45:52+0000",
-			"title": "Best ”XTrack“ of Summer",
-			"subtitle": "Les meilleurs sons de l'été",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
-				"alt": "Gabriels",
-				"copyright": null,
-				"width": 1943,
-				"height": 1140,
-				"ratio": 1.7043859649122808
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
