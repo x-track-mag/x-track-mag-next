@@ -441,17 +441,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-06-13T10:01:14+0000",
+			"publication_date": "2021-08-11T13:23:10+0000",
 			"title": "In Love",
 			"subtitle": "Our favorite Love & Cool Songs",
-			"text_color": "white",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f90742a1-bbda-44a1-9fb2-17774ee3b381_Kali+Uchis.jpg?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format",
+				"alt": "Billie Eilish",
 				"copyright": null,
-				"width": 4000,
-				"height": 2667,
-				"ratio": 1.4998125234345707
+				"width": 2048,
+				"height": 1478,
+				"ratio": 1.3856562922868743
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
