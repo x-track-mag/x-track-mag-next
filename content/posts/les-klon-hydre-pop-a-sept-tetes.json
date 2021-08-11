@@ -4,7 +4,7 @@
 		"article",
 		"music"
 	],
-	"publication_date": "2021-08-11T16:58:47+0000",
+	"publication_date": "2021-08-11T17:14:20+0000",
 	"title": "LES KLON, HYDRE POP À SEPT TÊTES",
 	"subtitle": "",
 	"text_color": "white",
@@ -66,14 +66,9 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "image",
-					"url": "https://images.prismic.io/x-track-mag/24efb28a-c744-42a9-b263-d7a93a0e0880_KLON_%281%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format",
-					"alt": null,
-					"copyright": null,
-					"dimensions": {
-						"width": 5659,
-						"height": 3773
-					}
+					"type": "paragraph",
+					"text": "",
+					"spans": []
 				},
 				{
 					"type": "paragraph",
@@ -93,32 +88,13 @@
 			]
 		},
 		{
-			"template": "section-video-launcher",
-			"text": [
+			"template": "section-playlist",
+			"playlist": [
 				{
-					"type": "paragraph",
-					"text": "Nouveau Genre",
-					"spans": []
+					"url": "https://www.youtube.com/watch?v=MxTkEC4Cy3I",
+					"title": "KLON - Nouveau Genre (Clip officiel)"
 				}
-			],
-			"link": {
-				"height": 113,
-				"width": 200,
-				"embed_url": "https://www.youtube.com/watch?v=MxTkEC4Cy3I",
-				"type": "video",
-				"version": "1.0",
-				"title": "KLON - Nouveau Genre (Clip officiel)",
-				"author_name": "KLONVEVO",
-				"author_url": "https://www.youtube.com/channel/UCNBCvU0Shj_8UqmHN8dWacg",
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
-				"cache_age": null,
-				"thumbnail_url": "https://i.ytimg.com/vi/MxTkEC4Cy3I/hqdefault.jpg",
-				"thumbnail_width": 480,
-				"thumbnail_height": 360,
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MxTkEC4Cy3I?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-			},
-			"image": null
+			]
 		},
 		{
 			"template": "section-full-text",
@@ -270,32 +246,13 @@
 			]
 		},
 		{
-			"template": "section-video-launcher",
-			"text": [
+			"template": "section-playlist",
+			"playlist": [
 				{
-					"type": "paragraph",
-					"text": "West",
-					"spans": []
+					"url": "https://www.youtube.com/watch?v=Fve9JQUxZm8",
+					"title": "KLON - West (Clip officiel)"
 				}
-			],
-			"link": {
-				"height": 113,
-				"width": 200,
-				"embed_url": "https://www.youtube.com/watch?v=Fve9JQUxZm8",
-				"type": "video",
-				"version": "1.0",
-				"title": "KLON - West (Clip officiel)",
-				"author_name": "KLONVEVO",
-				"author_url": "https://www.youtube.com/channel/UCNBCvU0Shj_8UqmHN8dWacg",
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
-				"cache_age": null,
-				"thumbnail_url": "https://i.ytimg.com/vi/Fve9JQUxZm8/hqdefault.jpg",
-				"thumbnail_width": 480,
-				"thumbnail_height": 360,
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Fve9JQUxZm8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-			},
-			"image": null
+			]
 		}
 	],
 	"description": "LES KLON, HYDRE POP À SEPT TÊTES"
