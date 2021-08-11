@@ -1,7 +1,7 @@
 {
 	"uid": "les-klon-hydre-pop-a-sept-tetes",
 	"tags": [],
-	"publication_date": "2021-08-11T13:35:24+0000",
+	"publication_date": "2021-08-11T16:28:39+0000",
 	"title": "LES KLON, HYDRE POP À SEPT TÊTES",
 	"subtitle": "",
 	"text_color": "white",
@@ -50,22 +50,28 @@
 			]
 		},
 		{
-			"template": "section-two-columns",
-			"text": [],
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/24efb28a-c744-42a9-b263-d7a93a0e0880_KLON_%281%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format&rect=0,0,5657,3773&w=1024&h=683",
-				"alt": null,
-				"copyright": null,
-				"width": 1024,
-				"height": 683,
-				"ratio": 1.499267935578331
-			},
-			"columns_order": "Image | Texte",
-			"full_page": true
-		},
-		{
 			"template": "section-full-text",
 			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/24efb28a-c744-42a9-b263-d7a93a0e0880_KLON_%281%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 5659,
+						"height": 3773
+					}
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
 				{
 					"type": "paragraph",
 					"text": "Si certains cherchent leur moitié, eux ont trouvé leur complétude par 7, signés Zoé, Aurel, Akra, Vic, Nejma, Art et Rory. Et de manière active, vivre ensemble certes, mais pour être le plus productif possible. Pour les Klons, leur maison aux abords de Paris est avant tout un laboratoire à idées, un incubateur à projets, tous plus démentiels les uns que les autres. ",
@@ -100,22 +106,33 @@
 			]
 		},
 		{
-			"template": "section-two-columns",
-			"text": [],
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/56be8b28-0d5c-4281-87c4-f6b6eb0fc55b_img58s+%C2%A9+Paul+Me%CC%81relle.jpg?auto=compress,format&rect=0,0,1830,1478&w=1024&h=827",
-				"alt": null,
-				"copyright": null,
-				"width": 1024,
-				"height": 827,
-				"ratio": 1.238210399032648
-			},
-			"columns_order": "Image | Texte",
-			"full_page": true
-		},
-		{
 			"template": "section-full-text",
 			"text": [
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/614f63ce-327f-49ca-b6dc-3707d96aa432_img58s+%C2%A9+Paul+Me%CC%81relle.jpg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1830,
+						"height": 1478
+					}
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
 				{
 					"type": "paragraph",
 					"text": "Oui car depuis, ils ont fait de la route et deviennent sans grande surprises les nouveaux chouchous des modeux qui voient le potentiel de leur groupe. En première partie du show Gucci, puis en live pour Yves Saint Laurent, les Klons plaisent par leur singularité, leur énergie solaire et l'identité visuelle puissante qu’il crée au fur et à mesure de leur succès. De plus en plus en confiance, les membres déploient l’éventail de leur imagination, sans considérer les obstacles : leur équipe est aussi libre que les 7 inséparables. Un seul but ? Surprendre, inventer, créer, tester ! Bref, leur morceau Nouveau Genre en dit long sur l’énergie démentielle qui habite l’univers du groupe. “À bas les étiquettes, soyez vous-même c’est tout” prône-t-il, rien d’étonnant jusque-là, sauf lorsque leur clip propose des personnage bariolés, hybrides, alien non sans rappeler les alter ego des rock stars 70”s. En finir avec le quotidien morne et gris au profit d’un manifeste à la joie, aux couleurs, à la perchitude, les Klon sont thérapeutiques. ",
@@ -171,22 +188,28 @@
 			]
 		},
 		{
-			"template": "section-two-columns",
-			"text": [],
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a5016f6a-2b5b-493a-bb4b-f0c0676bfb2c_KLON_%282%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format&rect=0,0,3657,2439&w=1024&h=683",
-				"alt": null,
-				"copyright": null,
-				"width": 1024,
-				"height": 683,
-				"ratio": 1.499267935578331
-			},
-			"columns_order": "Image | Texte",
-			"full_page": true
-		},
-		{
 			"template": "section-full-text",
 			"text": [
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/a5016f6a-2b5b-493a-bb4b-f0c0676bfb2c_KLON_%282%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 3658,
+						"height": 2439
+					}
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
 				{
 					"type": "paragraph",
 					"text": " Et pour cause, les Klon ont hâte de pouvoir faire vivre leur expérience sur scène et rencontrer leur public, les marques sont de parfaits tremplins pour incarner leur style et les faire connaître en attendant une année que l’on espère forte de concerts,de tournée, en clips, en lives … Et de ce que l’on a pu comprendre, une date à la Boule Noire le 9 septembre, et sûrement une première partie des Therapy Taxi dès la rentrée avec une tournée dans toute la France. Nul doute, le groupe risque fortement de nous embarquer dans leur univers aussi riche que barré ! ",
