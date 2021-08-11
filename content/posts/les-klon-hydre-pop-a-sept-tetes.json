@@ -1,7 +1,7 @@
 {
 	"uid": "les-klon-hydre-pop-a-sept-tetes",
 	"tags": [],
-	"publication_date": "2021-08-10T10:01:04+0000",
+	"publication_date": "2021-08-11T13:34:10+0000",
 	"title": "LES KLON, HYDRE POP À SEPT TÊTES",
 	"subtitle": "",
 	"text_color": "white",
@@ -50,17 +50,18 @@
 			]
 		},
 		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/24efb28a-c744-42a9-b263-d7a93a0e0880_KLON_%281%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format&rect=0,0,5657,3773&w=1024&h=683",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				}
-			]
+			"template": "section-two-columns",
+			"text": [],
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/24efb28a-c744-42a9-b263-d7a93a0e0880_KLON_%281%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format&rect=0,0,5657,3773&w=1024&h=683",
+				"alt": null,
+				"copyright": null,
+				"width": 1024,
+				"height": 683,
+				"ratio": 1.499267935578331
+			},
+			"columns_order": "Image | Texte",
+			"full_page": false
 		},
 		{
 			"template": "section-full-text",
@@ -99,17 +100,18 @@
 			]
 		},
 		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/a5016f6a-2b5b-493a-bb4b-f0c0676bfb2c_KLON_%282%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format&rect=0,0,3657,2439&w=1024&h=683",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				}
-			]
+			"template": "section-two-columns",
+			"text": [],
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/56be8b28-0d5c-4281-87c4-f6b6eb0fc55b_img58s+%C2%A9+Paul+Me%CC%81relle.jpg?auto=compress,format&rect=0,0,1830,1478&w=1024&h=827",
+				"alt": null,
+				"copyright": null,
+				"width": 1024,
+				"height": 827,
+				"ratio": 1.238210399032648
+			},
+			"columns_order": "Image | Texte",
+			"full_page": false
 		},
 		{
 			"template": "section-full-text",
