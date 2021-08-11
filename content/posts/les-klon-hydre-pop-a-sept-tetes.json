@@ -1,7 +1,7 @@
 {
 	"uid": "les-klon-hydre-pop-a-sept-tetes",
 	"tags": [],
-	"publication_date": "2021-08-11T13:34:10+0000",
+	"publication_date": "2021-08-11T13:34:58+0000",
 	"title": "LES KLON, HYDRE POP À SEPT TÊTES",
 	"subtitle": "",
 	"text_color": "white",
@@ -61,7 +61,7 @@
 				"ratio": 1.499267935578331
 			},
 			"columns_order": "Image | Texte",
-			"full_page": false
+			"full_page": true
 		},
 		{
 			"template": "section-full-text",
@@ -111,7 +111,7 @@
 				"ratio": 1.238210399032648
 			},
 			"columns_order": "Image | Texte",
-			"full_page": false
+			"full_page": true
 		},
 		{
 			"template": "section-full-text",
@@ -169,6 +169,20 @@
 					"spans": []
 				}
 			]
+		},
+		{
+			"template": "section-two-columns",
+			"text": [],
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a5016f6a-2b5b-493a-bb4b-f0c0676bfb2c_KLON_%282%29+%C2%A9+Adriana+Pagliai.jpeg?auto=compress,format&rect=0,0,3657,2439&w=1024&h=683",
+				"alt": null,
+				"copyright": null,
+				"width": 1024,
+				"height": 683,
+				"ratio": 1.499267935578331
+			},
+			"columns_order": "Image | Texte",
+			"full_page": false
 		},
 		{
 			"template": "section-full-text",
