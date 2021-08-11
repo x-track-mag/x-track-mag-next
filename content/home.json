@@ -139,8 +139,11 @@
 	"sections": [
 		{
 			"uid": "les-klon-hydre-pop-a-sept-tetes",
-			"tags": [],
-			"publication_date": "2021-08-11T16:42:38+0000",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2021-08-11T16:52:06+0000",
 			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
 			"subtitle": "",
 			"text_color": "white",
@@ -156,7 +159,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Noyau dur dont les sept énergies semblent se diffuser avec une fluidité déconcertante, les Klon sont uniques en leur genre. Promesse certaine de la scène française, portrait d’une jeunesse au pluriel.  "
+			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
 			"uid": "bestxtrackoftheweek",
