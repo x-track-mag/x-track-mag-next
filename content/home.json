@@ -9,11 +9,11 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "les-klon-hydre-pop-a-sept-tetes"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 2,
-			"uid": "bestxtrackoftheweek"
+			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
 			"position": 3,
@@ -138,6 +138,29 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "bestxtrackoftheweek",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-08-15T09:23:36+0000",
+			"title": "Best ”XTrack“ of Summer",
+			"subtitle": "Les meilleurs sons de l'été",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a2d2eda7-658f-42ef-b1a3-85678fbdc55c_Hadiya-George.jpg?auto=compress,format",
+				"alt": "Hadiya-George",
+				"copyright": null,
+				"width": 2078,
+				"height": 1164,
+				"ratio": 1.7852233676975946
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist des meilleurs sons de la semaine"
+		},
+		{
 			"uid": "les-klon-hydre-pop-a-sept-tetes",
 			"tags": [
 				"article",
@@ -160,29 +183,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
-		},
-		{
-			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-08-15T09:23:36+0000",
-			"title": "Best ”XTrack“ of Summer",
-			"subtitle": "Les meilleurs sons de l'été",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a2d2eda7-658f-42ef-b1a3-85678fbdc55c_Hadiya-George.jpg?auto=compress,format",
-				"alt": "Hadiya-George",
-				"copyright": null,
-				"width": 2078,
-				"height": 1164,
-				"ratio": 1.7852233676975946
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
