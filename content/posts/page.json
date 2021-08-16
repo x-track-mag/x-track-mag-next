@@ -218,6 +218,7 @@
 		},
 		{
 			"template": "section-video-launcher",
+			"display_article_title": null,
 			"text": [],
 			"link": {
 				"height": 150,
@@ -243,7 +244,8 @@
 				"width": 1456,
 				"height": 1674,
 				"ratio": 0.8697729988052568
-			}
+			},
+			"disposition": null
 		},
 		{
 			"template": "section-full-text",
@@ -350,6 +352,7 @@
 		},
 		{
 			"template": "section-video-launcher",
+			"display_article_title": null,
 			"text": [],
 			"link": {
 				"provider_name": "YouTube",
@@ -374,7 +377,8 @@
 				"width": 1418,
 				"height": 1632,
 				"ratio": 0.8688725490196079
-			}
+			},
+			"disposition": null
 		}
 	],
 	"description": "La mode éthique : classe ou classiste ?                              "

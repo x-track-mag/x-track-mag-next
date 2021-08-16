@@ -154,6 +154,7 @@
 		},
 		{
 			"template": "section-video-launcher",
+			"display_article_title": null,
 			"text": [
 				{
 					"type": "paragraph",
@@ -185,7 +186,8 @@
 				"width": 1864,
 				"height": 1026,
 				"ratio": 1.8167641325536061
-			}
+			},
+			"disposition": null
 		},
 		{
 			"template": "section-gallery",

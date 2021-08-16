@@ -19,6 +19,7 @@
 	"sections": [
 		{
 			"template": "section-video-launcher",
+			"display_article_title": null,
 			"text": [
 				{
 					"type": "paragraph",
@@ -85,7 +86,8 @@
 				"width": 2816,
 				"height": 1570,
 				"ratio": 1.7936305732484077
-			}
+			},
+			"disposition": null
 		}
 	],
 	"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
