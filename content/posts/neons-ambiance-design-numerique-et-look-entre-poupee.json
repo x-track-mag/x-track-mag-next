@@ -1,7 +1,7 @@
 {
 	"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
 	"tags": [],
-	"publication_date": "2021-07-15T15:54:05+0000",
+	"publication_date": "2021-08-16T09:41:00+0000",
 	"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
 	"subtitle": "",
 	"text_color": "white",
@@ -243,33 +243,13 @@
 			]
 		},
 		{
-			"template": "section-video-launcher",
-			"text": [],
-			"link": {
-				"height": 113,
-				"width": 200,
-				"embed_url": "https://www.youtube.com/watch?v=l5UHPDnLkzo",
-				"type": "video",
-				"version": "1.0",
-				"title": "Sam Quealy - Sad Summer Daze (Official video)",
-				"author_name": "sam quealy",
-				"author_url": "https://www.youtube.com/channel/UCfejhQhV4XoRBJPp4juutkw",
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
-				"cache_age": null,
-				"thumbnail_url": "https://i.ytimg.com/vi/l5UHPDnLkzo/hqdefault.jpg",
-				"thumbnail_width": 480,
-				"thumbnail_height": 360,
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/l5UHPDnLkzo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-			},
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f79582e5-1439-40a6-bf0e-0d08285ce6ca_Capture+d%E2%80%99e%CC%81cran+2021-07-15+a%CC%80+17.52.32.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2874,
-				"height": 1662,
-				"ratio": 1.7292418772563176
-			}
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/watch?v=l5UHPDnLkzo",
+					"title": "Sam Quealy - Sad Summer Daze (Official video)"
+				}
+			]
 		},
 		{
 			"template": "section-full-text",
