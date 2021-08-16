@@ -25,8 +25,9 @@ const SectionVideoLauncher = ({
 	const templateColumns = {
 		base: "100%"
 	};
+	const twoColumns = disposition.contains("|");
 	const textFirst = disposition.indexOf("Texte") === 0;
-	if (disposition.contains("|")) {
+	if (twoColumns) {
 		// Add two responsive columns : 'Texte | Video' or 'Video | Texte'
 		templateColumns.lg = textFirst ? "40% auto" : "60% auto";
 	}
@@ -35,7 +36,7 @@ const SectionVideoLauncher = ({
 		<Box as="section" className="section-video-launcher" {...props}>
 			<Container
 				as={Grid}
-				fluid={true}
+				fluid={twoColumns}
 				templateColumns={templateColumns}
 				gap={{ base: "0", lg: "2rem" }}
 			>
