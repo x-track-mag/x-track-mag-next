@@ -17,9 +17,10 @@ const SectionVideoLauncher = ({
 	text,
 	image,
 	link,
-	disposition = "Texte | Video",
+	disposition,
 	...props
 }) => {
+	disposition = disposition || "Texte | Video"; // we receive a null value for old content
 	image = image || article.image;
 
 	const templateColumns = {
