@@ -4,7 +4,7 @@
 		"article",
 		"music"
 	],
-	"publication_date": "2021-08-11T17:29:23+0000",
+	"publication_date": "2021-08-16T09:31:26+0000",
 	"title": "LES KLON, HYDRE POP À SEPT TÊTES",
 	"subtitle": "",
 	"text_color": "white",
@@ -67,21 +67,6 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
 					"text": "Si certains cherchent leur moitié, eux ont trouvé leur complétude par 7, signés Zoé, Aurel, Akra, Vic, Nejma, Art et Rory. Et de manière active, vivre ensemble certes, mais pour être le plus productif possible. Pour les Klons, leur maison aux abords de Paris est avant tout un laboratoire à idées, un incubateur à projets, tous plus démentiels les uns que les autres. ",
 					"spans": []
 				}
@@ -109,6 +94,26 @@
 							"type": "strong"
 						}
 					]
+				},
+				{
+					"type": "embed",
+					"oembed": {
+						"height": 113,
+						"width": 200,
+						"embed_url": "https://www.youtube.com/watch?v=MxTkEC4Cy3I",
+						"type": "video",
+						"version": "1.0",
+						"title": "KLON - Nouveau Genre (Clip officiel)",
+						"author_name": "KLONVEVO",
+						"author_url": "https://www.youtube.com/channel/UCNBCvU0Shj_8UqmHN8dWacg",
+						"provider_name": "YouTube",
+						"provider_url": "https://www.youtube.com/",
+						"cache_age": null,
+						"thumbnail_url": "https://i.ytimg.com/vi/MxTkEC4Cy3I/hqdefault.jpg",
+						"thumbnail_width": 480,
+						"thumbnail_height": 360,
+						"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MxTkEC4Cy3I?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+					}
 				}
 			]
 		},
@@ -125,11 +130,6 @@
 		{
 			"template": "section-full-text",
 			"text": [
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
 				{
 					"type": "paragraph",
 					"text": "",
