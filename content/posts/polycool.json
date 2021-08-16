@@ -4,7 +4,7 @@
 		"article",
 		"music"
 	],
-	"publication_date": "2020-12-16T10:06:08+0000",
+	"publication_date": "2021-08-16T11:40:30+0000",
 	"title": "Polycool",
 	"subtitle": "",
 	"text_color": "white",
@@ -50,11 +50,6 @@
 		{
 			"template": "section-full-text",
 			"text": [
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
 				{
 					"type": "heading2",
 					"text": "Avec “Lemon Lord”, le groupe Polycool dresse une ode au Seigneur Citron",
@@ -166,11 +161,11 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Avec “Lemon Lord”, véritable album concept, Polycool gravit un échelon dans l’exploration graphique, en proposant en parallèle des morceaux une BD loufoque retraçant le mythe du Seigneur Citron. De la formation de l’univers par un dénommé John Lemon à sa rencontre avec son pire ennemi Panic System : tous les mystères de la création nous sont dévoilés. “ Souvent, on fait la musique et la question de l'artwork vient après, car ça nous prend beaucoup de temps. Mais Tino va avoir tendance à proposer une idée qui va souvent faire consensus”. nous dit Solal",
+					"text": "Avec “Lemon Lord”, véritable album concept, Polycool gravit un échelon dans l’exploration graphique, en proposant en parallèle des morceaux une BD loufoque retraçant le mythe du Seigneur Citron. De la formation de l’univers par un dénommé John Lemon à sa rencontre avec son pire ennemi Panic System : tous les mystères de la création nous sont dévoilés. “ Souvent, on fait la musique et la question de l'artwork vient après, car ça nous prend beaucoup de temps. Mais Tino va avoir tendance à proposer une idée qui va souvent faire consensus” nous dit Solal.",
 					"spans": [
 						{
 							"start": 353,
-							"end": 542,
+							"end": 541,
 							"type": "em"
 						}
 					]
@@ -182,7 +177,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Pour cet album, la dimension iconographique découle du projet de troisième année des Beaux Arts de Tino et c'est ça qui nous a lancés dans l'esthétique de l'album et l'histoire qui est venue par la suite. On décide toujours tous ensemble, mais c'est vraiment Tino qui a travaillé sur l'artwork de l'album, qui a dessiné une partie de la BD avec Jonas- Léon, bassiste-astrophysicien du groupe. ",
+					"text": "Pour cet album, la dimension iconographique découle du projet de troisième année des Beaux Arts de Tino et c'est ça qui nous a lancés dans l'esthétique de l'album et l'histoire qui est venue par la suite. On décide toujours tous ensemble, mais c'est vraiment Tino qui a travaillé sur l'artwork de l'album, qui a dessiné une partie de la BD avec Jonas-Léon, bassiste-astrophysicien du groupe. ",
 					"spans": []
 				}
 			]
@@ -203,11 +198,6 @@
 				{
 					"type": "heading2",
 					"text": "De véritables bêtes de scène",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
 					"spans": []
 				},
 				{

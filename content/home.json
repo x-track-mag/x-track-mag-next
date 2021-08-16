@@ -553,6 +553,27 @@
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
+			"uid": "polycool",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2021-08-16T11:40:30+0000",
+			"title": "Polycool",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": {
+				"name": "Sans titre.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
+				"size": "462073"
+			},
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassia",
+			"internal_link": null,
+			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
+		},
+		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
 			"tags": [
 				"article"
@@ -595,27 +616,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "La mode éthique : classe ou classiste ?                              "
-		},
-		{
-			"uid": "polycool",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2020-12-16T10:06:08+0000",
-			"title": "Polycool",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "Sans titre.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
-				"size": "462073"
-			},
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
 		},
 		{
 			"uid": "martin-parr",

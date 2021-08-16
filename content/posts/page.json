@@ -245,7 +245,7 @@
 				"height": 1674,
 				"ratio": 0.8697729988052568
 			},
-			"disposition": "Texte | Video"
+			"disposition": null
 		},
 		{
 			"template": "section-full-text",
@@ -378,7 +378,7 @@
 				"height": 1632,
 				"ratio": 0.8688725490196079
 			},
-			"disposition": "Texte | Video"
+			"disposition": null
 		}
 	],
 	"description": "La mode éthique : classe ou classiste ?                              "
