@@ -4,7 +4,7 @@
 		"article",
 		"music"
 	],
-	"publication_date": "2021-08-16T14:16:46+0000",
+	"publication_date": "2021-08-16T19:56:11+0000",
 	"title": "LES KLON, HYDRE POP À SEPT TÊTES",
 	"subtitle": "",
 	"text_color": "white",
@@ -72,8 +72,13 @@
 			"display_article_title": false,
 			"text": [
 				{
-					"type": "heading3",
+					"type": "heading2",
 					"text": "Nouveau Genre",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "un manifeste à la joie, aux couleurs, à la perchitude",
 					"spans": []
 				}
 			],
@@ -233,8 +238,13 @@
 			"display_article_title": false,
 			"text": [
 				{
-					"type": "heading3",
+					"type": "heading2",
 					"text": "West",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "c’est KLON qui rêve d’évasion. Confinés dans leur maison, les pensées vagabondent. Maîtres de leur corps et de leur esprit, ils décident de s’envoler psychiquement vers l'West, un lieu déconnecté du réel.",
 					"spans": []
 				}
 			],
