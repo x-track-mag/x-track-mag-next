@@ -1,6 +1,8 @@
 {
 	"uid": "x-track-studio---biaziouka",
-	"tags": ["music"],
+	"tags": [
+		"music"
+	],
 	"publication_date": "2021-07-03T07:48:37+0000",
 	"title": "X-Track Studio - Biaziouka ",
 	"subtitle": "",
@@ -17,7 +19,7 @@
 	"sections": [
 		{
 			"template": "section-video-launcher",
-			"display_article_title": false,
+			"display_article_title": null,
 			"text": [
 				{
 					"type": "paragraph",
@@ -85,7 +87,7 @@
 				"height": 1570,
 				"ratio": 1.7936305732484077
 			},
-			"disposition": "Texte | Video"
+			"disposition": null
 		}
 	],
 	"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
