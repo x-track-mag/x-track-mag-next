@@ -4,8 +4,7 @@
 			"type": "StructuredText",
 			"config": {
 				"single": "heading2",
-				"label": "Titre",
-				"required": true
+				"label": "Titre"
 			}
 		},
 		"subtitle": {
@@ -87,7 +86,8 @@
 			"type": "Link",
 			"config": {
 				"label": "Lien vers page interne",
-				"placeholder": "Ce post renverra sur une page statique existante (il n'a pas de contenu propre)"
+				"placeholder": "Ce post renverra sur une page statique existante (il n'a pas de contenu propre)",
+				"select": null
 			}
 		}
 	},
@@ -115,7 +115,6 @@
 						"non-repeat": {
 							"title": {
 								"type": "Text",
-								"default": "--blank--",
 								"config": {
 									"label": "Accroche",
 									"placeholder": "Accroche (laissez vide >> titre de l'article, --blank-- >> pas de titre)"
@@ -123,7 +122,6 @@
 							},
 							"subtitle": {
 								"type": "Text",
-								"default": "--blank--",
 								"config": {
 									"label": "Accroche secondaire",
 									"placeholder": "Accroche secondaire (laissez vide >> sous-titre de l'article, --blank-- >> pas de sous-titre)"
@@ -150,7 +148,7 @@
 							"text": {
 								"type": "StructuredText",
 								"config": {
-									"multi": "paragraph, heading2, heading3, strong, em, hyperlink, image, embed",
+									"multi": "paragraph,heading2,heading3,strong,em,hyperlink,image,embed",
 									"allowTargetBlank": true,
 									"label": "Texte",
 									"placeholder": "Entrez le contenu texte de cette section ici"
@@ -169,7 +167,7 @@
 							"text": {
 								"type": "StructuredText",
 								"config": {
-									"multi": "paragraph, heading2, heading3, heading4, strong, em, hyperlink, image, embed, list-item, o-list-item",
+									"multi": "paragraph,heading2,heading3,heading4,strong,em,hyperlink,image,embed,list-item,o-list-item",
 									"allowTargetBlank": true,
 									"label": "Texte"
 								}
@@ -213,7 +211,7 @@
 							"text": {
 								"type": "StructuredText",
 								"config": {
-									"single": "paragraph, hyperlink",
+									"single": "paragraph,hyperlink",
 									"allowTargetBlank": true,
 									"label": "Texte"
 								}
@@ -264,12 +262,21 @@
 						"icon": "live_tv",
 						"display": "list",
 						"non-repeat": {
+							"display_article_title": {
+								"type": "Boolean",
+								"config": {
+									"placeholder_false": "Non",
+									"placeholder_true": "Oui",
+									"default_value": true,
+									"label": "Reprendre le titre de l'article"
+								}
+							},
 							"text": {
 								"type": "StructuredText",
 								"config": {
-									"multi": "paragraph, heading2, heading3, strong, em, hyperlink",
-									"label": "Intro",
-									"placeholder": "Le texte d'intro en regard de la vidéo"
+									"multi": "paragraph,heading2,heading3,strong,em,hyperlink",
+									"label": "Texte",
+									"placeholder": "Texte descriptif"
 								}
 							},
 							"link": {
@@ -284,7 +291,19 @@
 								"config": {
 									"constraint": {},
 									"thumbnails": [],
-									"label": "image"
+									"label": "Vignette"
+								}
+							},
+							"disposition": {
+								"type": "Select",
+								"config": {
+									"options": [
+										"Texte | Video",
+										"Video | Texte",
+										"Texte / Video"
+									],
+									"default_value": "Texte | Video",
+									"label": "Position"
 								}
 							}
 						},

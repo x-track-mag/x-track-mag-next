@@ -17,7 +17,7 @@
 	"sections": [
 		{
 			"template": "section-video-launcher",
-			"display_article_title": null,
+			"display_article_title": true,
 			"text": [
 				{
 					"type": "paragraph",
@@ -50,7 +50,7 @@
 				"height": 1614,
 				"ratio": 1.771995043370508
 			},
-			"disposition": null
+			"disposition": "Texte | Video"
 		}
 	],
 	"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."

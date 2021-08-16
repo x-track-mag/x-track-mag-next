@@ -1,9 +1,6 @@
 {
 	"uid": "nola-cherri",
-	"tags": [
-		"music",
-		"live session"
-	],
+	"tags": ["music", "live session"],
 	"publication_date": "2021-01-18T16:19:00+0000",
 	"title": "Nola Cherri",
 	"subtitle": "Live Session",
@@ -20,7 +17,7 @@
 	"sections": [
 		{
 			"template": "section-video-launcher",
-			"display_article_title": null,
+			"display_article_title": true,
 			"text": [
 				{
 					"type": "paragraph",
@@ -72,7 +69,7 @@
 				"html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/w83pC4rGGFM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"image": null,
-			"disposition": null
+			"disposition": "Texte | Video"
 		}
 	],
 	"description": "Live session - Nola Cherri- French music"

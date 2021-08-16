@@ -7,33 +7,57 @@ import SvgPlayerIcon from "@components/icons/SvgPlayerIcon.js";
 /**
  * A two columns/responsive container with a rich text column and a video media player
  * @param {JSXElement} props
- * @param {String} props.article the main Article
- * @param {String} props.text the rich text content to describe the video
+ * @param {String} props.article the main Article (to retrieve the title)
+ * @param {String} props.text some rich text content to describe the video
  * @param {String} props.link Youtube or Vimeo media link in the format that Prismic
  */
-const SectionVideoLauncher = ({ article, text, image, link, ...props }) => {
+const SectionVideoLauncher = ({
+	article,
+	display_article_title = true,
+	text,
+	image,
+	link,
+	disposition = "Texte | Video",
+	...props
+}) => {
 	image = image || article.image;
+
+	const templateColumns = {
+		base: "100%"
+	};
+	const textFirst = disposition.indexOf("Texte") === 0;
+	if (disposition.contains("|")) {
+		// Add two responsive columns : 'Texte | Video' or 'Video | Texte'
+		templateColumns.lg = textFirst ? "40% auto" : "60% auto";
+	}
+
 	return (
 		<Box as="section" className="section-video-launcher" {...props}>
 			<Container
 				as={Grid}
 				fluid={true}
-				templateColumns={{ base: "100%", lg: "40% auto" }}
+				templateColumns={templateColumns}
 				gap={{ base: "0", lg: "2rem" }}
 			>
-				<GridItem padding="2rem">
-					<Title>{article.title}</Title>
-					<Subtitle>{article.subtitle}</Subtitle>
-					<Box pt="1rem">
+				{textFirst && (
+					<GridItem padding="2rem" className="video-description">
+						{display_article_title && (
+							<>
+								<Title>{article.title}</Title>
+								<Subtitle>{article.subtitle}</Subtitle>
+							</>
+						)}
+
 						<RichText>{text}</RichText>
-					</Box>
-				</GridItem>
+					</GridItem>
+				)}
 				<GridItem
 					padding="2rem"
 					as={Flex}
 					flexDirection="column"
 					alignItems="center"
 					justifyContent="center"
+					className="video-player"
 				>
 					<AspectRatio ratio={16 / 9} width="100%">
 						<ReactPlayer
@@ -55,6 +79,19 @@ const SectionVideoLauncher = ({ article, text, image, link, ...props }) => {
 						/>
 					</AspectRatio>
 				</GridItem>
+
+				{!textFirst && (
+					<GridItem padding="2rem" className="video-description">
+						{display_article_title && (
+							<>
+								<Title>{article.title}</Title>
+								<Subtitle>{article.subtitle}</Subtitle>
+							</>
+						)}
+
+						<RichText>{text}</RichText>
+					</GridItem>
+				)}
 			</Container>
 		</Box>
 	);

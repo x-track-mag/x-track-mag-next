@@ -4,8 +4,7 @@
 			"type": "StructuredText",
 			"config": {
 				"single": "heading2",
-				"label": "Titre",
-				"required": true
+				"label": "Titre"
 			}
 		},
 		"subtitle": {
@@ -75,7 +74,7 @@
 							"text": {
 								"type": "StructuredText",
 								"config": {
-									"multi": "paragraph, heading2, heading3, strong, em, hyperlink",
+									"multi": "paragraph,heading2,heading3,strong,em,hyperlink",
 									"allowTargetBlank": true,
 									"label": "Texte",
 									"placeholder": "Entrez le contenu texte de cette section ici"
@@ -94,7 +93,7 @@
 							"text": {
 								"type": "StructuredText",
 								"config": {
-									"multi": "paragraph, heading2, heading3, heading4, strong, em, hyperlink, image, embed, list-item, o-list-item",
+									"multi": "paragraph,heading2,heading3,heading4,strong,em,hyperlink,image,embed,list-item,o-list-item",
 									"allowTargetBlank": true,
 									"label": "Texte"
 								}
