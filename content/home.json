@@ -13,11 +13,11 @@
 		},
 		{
 			"position": 2,
-			"uid": "les-klon-hydre-pop-a-sept-tetes"
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
 		{
 			"position": 3,
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
+			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
 			"position": 4,
@@ -161,6 +161,27 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
+			"tags": [],
+			"publication_date": "2021-07-15T15:54:05+0000",
+			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1440,
+				"height": 900,
+				"ratio": 1.6
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
+		},
+		{
 			"uid": "les-klon-hydre-pop-a-sept-tetes",
 			"tags": [
 				"article",
@@ -183,27 +204,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
-		},
-		{
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
-			"tags": [],
-			"publication_date": "2021-07-15T15:54:05+0000",
-			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1440,
-				"height": 900,
-				"ratio": 1.6
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
 			"uid": "x-track-studio---biaziouka",
