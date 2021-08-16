@@ -4,7 +4,7 @@
 		"article",
 		"music"
 	],
-	"publication_date": "2021-08-16T14:07:02+0000",
+	"publication_date": "2021-08-16T14:16:46+0000",
 	"title": "LES KLON, HYDRE POP À SEPT TÊTES",
 	"subtitle": "",
 	"text_color": "white",
@@ -25,13 +25,8 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "paragraph",
+					"type": "heading2",
 					"text": "LES KLON, HYDRE POP À SEPT TÊTES",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
 					"spans": []
 				},
 				{
@@ -77,7 +72,7 @@
 			"display_article_title": false,
 			"text": [
 				{
-					"type": "heading2",
+					"type": "heading3",
 					"text": "Nouveau Genre",
 					"spans": []
 				}
@@ -155,11 +150,6 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
 					"text": "Oui car depuis, ils ont fait de la route et deviennent sans grande surprises les nouveaux chouchous des modeux qui voient le potentiel de leur groupe. En première partie du show Gucci, puis en live pour Yves Saint Laurent, les Klons plaisent par leur singularité, leur énergie solaire et l'identité visuelle puissante qu’il crée au fur et à mesure de leur succès. De plus en plus en confiance, les membres déploient l’éventail de leur imagination, sans considérer les obstacles : leur équipe est aussi libre que les 7 inséparables. Un seul but ? Surprendre, inventer, créer, tester ! Bref, leur morceau Nouveau Genre en dit long sur l’énergie démentielle qui habite l’univers du groupe. “À bas les étiquettes, soyez vous-même c’est tout” prône-t-il, rien d’étonnant jusque-là, sauf lorsque leur clip propose des personnage bariolés, hybrides, alien non sans rappeler les alter ego des rock stars 70”s. En finir avec le quotidien morne et gris au profit d’un manifeste à la joie, aux couleurs, à la perchitude, les Klon sont thérapeutiques. ",
 					"spans": [
 						{
@@ -189,11 +179,6 @@
 							"type": "strong"
 						}
 					]
-				},
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
 				},
 				{
 					"type": "paragraph",
@@ -232,21 +217,11 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": " Et pour cause, les Klon ont hâte de pouvoir faire vivre leur expérience sur scène et rencontrer leur public, les marques sont de parfaits tremplins pour incarner leur style et les faire connaître en attendant une année que l’on espère forte de concerts,de tournée, en clips, en lives … Et de ce que l’on a pu comprendre, une date à la Boule Noire le 9 septembre, et sûrement une première partie des Therapy Taxi dès la rentrée avec une tournée dans toute la France. Nul doute, le groupe risque fortement de nous embarquer dans leur univers aussi riche que barré ! ",
+					"text": "Et pour cause, les Klon ont hâte de pouvoir faire vivre leur expérience sur scène et rencontrer leur public, les marques sont de parfaits tremplins pour incarner leur style et les faire connaître en attendant une année que l’on espère forte de concerts,de tournée, en clips, en lives … Et de ce que l’on a pu comprendre, une date à la Boule Noire le 9 septembre, et sûrement une première partie des Therapy Taxi dès la rentrée avec une tournée dans toute la France. Nul doute, le groupe risque fortement de nous embarquer dans leur univers aussi riche que barré ! ",
 					"spans": [
 						{
-							"start": 0,
-							"end": 1,
-							"type": "em"
-						},
-						{
-							"start": 400,
-							"end": 412,
+							"start": 399,
+							"end": 411,
 							"type": "em"
 						}
 					]
