@@ -42,7 +42,7 @@ const SectionVideoLauncher = ({
 				gap={{ base: "0", lg: "2rem" }}
 			>
 				{textFirst && (
-					<GridItem padding="2rem" className="video-description">
+					<GridItem padding="2rem 2rem 0" className="video-description">
 						{display_article_title && (
 							<>
 								<Title>{article.title}</Title>
