@@ -54,7 +54,7 @@ const SectionVideoLauncher = ({
 					</GridItem>
 				)}
 				<GridItem
-					padding="2rem"
+					padding="1rem 2rem"
 					as={Flex}
 					flexDirection="column"
 					alignItems="center"
