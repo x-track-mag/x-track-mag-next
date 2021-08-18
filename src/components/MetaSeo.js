@@ -13,11 +13,11 @@ const MetaSEO = ({
 	lang = "fr",
 	image
 }) => {
-	title = `X-TRACK MAG - ${title}`;
+	title = "X-TRACK MAG - " + title;
 	const router = useRouter();
 	const canonicalUrl = path.join(baseUrl, router.asPath);
 	const isArticle = tags.find((t) => t === "article");
-	// Note : Google Analytiocs Tag is only available in production
+	// Note : Google Analytics Tag is only available in production
 	const gtag = process.env.GTAG;
 	return (
 		<Head>
