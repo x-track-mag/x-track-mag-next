@@ -66,8 +66,9 @@ export const PostPage = ({
  */
 export const getStaticProps = async ({ params, preview }) => {
 	const uid = params.uid;
-	const { selected_reads } = await import(`@content/home.json`);
-	const { ...postProps } = await import(`@content/posts/${uid}.json`);
+	const { selected_reads } = await import(`../../../content/home.json`);
+	console.log("Selected reads", selected_reads);
+	const { ...postProps } = await import(`../../../content/posts/${uid}.json`);
 	return {
 		props: { selected_reads, ...postProps }
 	};

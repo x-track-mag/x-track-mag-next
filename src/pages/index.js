@@ -58,9 +58,9 @@ export const HomePage = ({ scrolling_news, sections = [] }) => {
  * else, read the serialized JSON file that we extracted inside the @content dir
  */
 export const getStaticPropsFor = (tagName) => async ({ params, preview }) => {
-	let { scrolling_news, pinned_posts, sections, ...pageProps } = await import(
-		`@content/home.json`
-	);
+	const data = await import("../../content/home.json");
+	console.log("Loaded page data", data);
+	let { scrolling_news, pinned_posts, sections, ...pageProps } = data;
 	if (tagName !== "*") {
 		sections = sections.filter((post) => post.tags.includes(tagName));
 	}

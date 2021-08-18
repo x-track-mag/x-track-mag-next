@@ -1,6 +1,9 @@
 // @ts-nocheck
 // next.config.js
-const { resolve } = require("path");
+const path = require("path");
+const resolve = path.resolve;
+
+console.log("Resolved @content alias : ", resolve(__dirname, "content"));
 
 module.exports = {
 	reactStrictMode: true,
@@ -12,6 +15,8 @@ module.exports = {
 		loader: "default"
 	},
 	webpack: (config, options) => {
+		config.resolve.modules.push(path.resolve("./"));
+
 		config.module.rules.push({
 			test: /\.md$/,
 			use: [
@@ -35,10 +40,15 @@ module.exports = {
 		};
 
 		// Fixes npm packages that depend on `fs` module
-		config.node = {
-			fs: "empty",
-			child_process: "empty"
+		config.resolve.fallback = {
+			fs: false,
+			child_process: false,
+			path: require.resolve("path-browserify")
 		};
+		// config.node = {
+		// 	fs: "empty",
+		// 	child_process: "empty"
+		// };
 
 		return config;
 	}
