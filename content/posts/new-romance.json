@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-08-05T09:51:09+0000",
+	"publication_date": "2021-08-22T07:30:23+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill, Cool, Love",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
-		"alt": "Lorde",
+		"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
+		"alt": "Leisure",
 		"copyright": null,
-		"width": 3600,
-		"height": 3600,
-		"ratio": 1
+		"width": 3000,
+		"height": 1663,
+		"ratio": 1.803968731208659
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format&rect=0,0,2998,1663&w=1024&h=568",
-					"alt": "Leisure",
+					"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format&rect=0,0,3600,3600&w=1024&h=1024",
+					"alt": "Lorde",
 					"copyright": null,
 					"width": 1024,
-					"height": 568,
-					"ratio": 1.8028169014084507
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/38441ee2-a4fb-4cee-9053-ef115026adee_Brittany+Howard.jpg?auto=compress,format&rect=0,0,541,700&w=1024&h=1325",
@@ -92,7 +92,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=3cb1aa25c6e245a0",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=54a38d0669584005",
 					"title": "New romance"
 				},
 				{
