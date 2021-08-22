@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-08-16T20:04:42+0000",
+	"publication_date": "2021-08-22T08:24:14+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/ef06f514-f9bf-41be-bfa4-762f07303b8c_Hadiya-George-.jpg?auto=compress,format",
-		"alt": "Hadiya George",
+		"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
+		"alt": "Lorde",
 		"copyright": null,
-		"width": 2050,
-		"height": 1148,
-		"ratio": 1.7857142857142858
+		"width": 3600,
+		"height": 3600,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Jungle, Hadiya George x Godmode x Smash Brothers,  Muzi x Sho Madjozi, Gianluca Vacchi x Bracket x Flori del Pino x Nevrmind, Faye Meana, TMM x Dice Ailes, Yemi Alade, Olamide x Jaywillz, Wizkid x Justin Bieber x Tems, Dacelynn, Still Woozy, Vanjess x Lucky Daye, Chiiild & ++++ Enjoy",
+					"text": "Shaybo x Jorja Smith, Yemi Alade, Juls x Niniola, Jungle, Dilpo x Damian Lazarus x Blu deTiger x Jungle, Ckay x Nahaze, José Gonzalez, DJ Latitude x Terri x Minz, Tiwa Savage x Amaarae, Lorde, Pachyman, Lava La Rue, Kyle Dion, Amaria, James Blake & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -44,28 +44,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/8dbe9a5d-cbee-4920-b712-a9202b613f65_Vanjess.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
-					"alt": "Vanjess",
+					"url": "https://images.prismic.io/x-track-mag/1198e098-7e30-4ef1-8135-c601cffa6448_Shaybo.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
 					"height": 683,
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/96e8e65b-5d66-49cf-b466-9a476a8475dd_Sho-Madjozi-.Jpg?auto=compress,format&rect=0,0,842,1119&w=1024&h=1361",
-					"alt": "Sho Madjozi",
+					"url": "https://images.prismic.io/x-track-mag/ed8b1429-f476-48b1-a63b-cfeb79b207da_Amaria.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
-					"height": 1361,
-					"ratio": 0.7523879500367376
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4f54ecad-4c2d-4342-a865-fa77c4cb6bed_Tems.+.jpg?auto=compress,format&rect=0,0,1107,1661&w=1024&h=1536",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/4be7a363-0c31-4b97-9bf1-8e70dec821ad_Jorja+Smith.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -73,15 +73,15 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3c682135-ddd8-486b-9b32-2e3edb0e3b77_Justin+Bieber.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Justin Bieber",
+					"url": "https://images.prismic.io/x-track-mag/1c8a6847-3bd7-4202-8099-3fb1a03a4639_Blu+DeTiger.jpg?auto=compress,format&rect=0,0,1500,2250&w=1024&h=1536",
+					"alt": "Blu DeTiger",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/662c025d-d2cd-4126-a968-22f203584c34_Yemi+Alade.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/07d83bdb-676d-4426-aa1d-bb56fed698ba_Yemi+Alade+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
 					"alt": "Yemi Alade",
 					"copyright": null,
 					"width": 1024,
@@ -89,8 +89,8 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/88ee9091-8431-4049-a547-3d0ef5fb44a1_Dacelynn.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Dacelynn",
+					"url": "https://images.prismic.io/x-track-mag/7a4bdd94-15de-4968-9251-3702f56fb4c1_Tiwa+Savage.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -102,11 +102,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=183be29bcf0d41af",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=f500fcb8962847f0",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-KVXBdBBs0j3MD",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-8aAVLVeIJMKRZ",
 					"title": "Best ”XTrack“ of Summer par XTrack"
 				},
 				{
