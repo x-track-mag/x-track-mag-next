@@ -267,17 +267,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-08-10T13:52:36+0000",
+			"publication_date": "2021-08-24T22:20:24+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
-			"text_color": "orange",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9bd0f4b6-56c8-4899-97d3-b7262e705999_Terry+Presume.jpg?auto=compress,format",
-				"alt": "Terry Presume",
+				"url": "https://images.prismic.io/x-track-mag/a2d2eda7-658f-42ef-b1a3-85678fbdc55c_Hadiya-George.jpg?auto=compress,format",
+				"alt": "Hadiya George",
 				"copyright": null,
-				"width": 1945,
-				"height": 1945,
-				"ratio": 1
+				"width": 2078,
+				"height": 1164,
+				"ratio": 1.7852233676975946
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
