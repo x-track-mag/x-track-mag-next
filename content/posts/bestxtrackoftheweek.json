@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-08-29T08:19:22+0000",
+	"publication_date": "2021-08-29T08:26:07+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -89,12 +89,12 @@
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1e2fa40e-03c9-42eb-a594-076288666fea_Mazie.jpg?auto=compress,format&rect=0,0,1363,1363&w=1024&h=1024",
-					"alt": "Mazie",
+					"url": "https://images.prismic.io/x-track-mag/23512cab-e1e8-428d-8df1-ec5c16aa4aec_Lorde.jpg?auto=compress,format&rect=0,0,1776,999&w=1024&h=576",
+					"alt": "Lorde",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
