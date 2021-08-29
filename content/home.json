@@ -142,16 +142,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-08-22T09:24:38+0000",
-			"title": "Best ”XTrack“ of Summer",
-			"subtitle": "Les meilleurs sons de l'été",
-			"text_color": "orange",
+			"publication_date": "2021-08-29T08:19:22+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
-				"alt": "Lorde",
+				"url": "https://images.prismic.io/x-track-mag/3c30d4da-3fef-400b-8018-d79335b7ea4e_Shaybo+.jpg?auto=compress,format",
+				"alt": "Shaybo",
 				"copyright": null,
-				"width": 3600,
-				"height": 3600,
+				"width": 1200,
+				"height": 1200,
 				"ratio": 1
 			},
 			"video_loop": null,
