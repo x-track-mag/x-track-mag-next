@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-08-29T08:37:42+0000",
+	"publication_date": "2021-09-04T17:37:48+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "white",
+	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/3c30d4da-3fef-400b-8018-d79335b7ea4e_Shaybo+.jpg?auto=compress,format",
-		"alt": "Shaybo",
+		"url": "https://images.prismic.io/x-track-mag/dba6520a-55aa-4ea9-ac0d-8da637540c94_Drake.jpg?auto=compress,format",
+		"alt": null,
 		"copyright": null,
-		"width": 1200,
-		"height": 1200,
+		"width": 3000,
+		"height": 3000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Versis, Joy Crookes, Ayanfe x DaVido, Alicai Harley,  Shaybo x Haile, Wizkid, Kranium x Young T & Bugsey, Emma Bradley, Stevedreez, India Shawn, Chronixx, Mazie x Spill Tab x Mia Gladstone, Men I Trust, Lorde, Common Saints & ++++ Enjoy",
+					"text": "Wizkid x Buju, 53 Thieves, Drake x Tems, Jungle,  Kanye West, Finn Foxell, Adekunle Gold x DaVido, Yemi Alade, Joeboy, Nana Fofie, Little Simz x Obongjayar, 808vic, Manywellz x Tems, Palmaria, Ria Sean, Burna Boy x Don Jazzy, James Vincent McMorrow & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -44,12 +44,41 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3fb72384-501a-4abf-967c-0a0a049102e1_joy-crookes.jpg?auto=compress,format&rect=0,0,2075,3130&w=1024&h=1545",
-					"alt": "Joy Crookes",
+					"url": "https://images.prismic.io/x-track-mag/46b626b3-45c7-443c-8de7-0c62f48e27f6_Tems.jpg?auto=compress,format&rect=0,0,600,399&w=1024&h=681",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1545,
-					"ratio": 0.6627831715210356
+					"height": 681,
+					"ratio": 1.5036710719530102
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a485605d-9850-4069-a5ea-70f002a6dd2c_Nana+Fofie+.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Nana Fofie",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/af5b5b46-57c2-4a83-95ea-7b541bfe1c6d_Little-Simz.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
+					"alt": "Little Simz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/49190ca2-09ee-4f1b-9ef3-f2b7309ce415_Yemi+Alade.jpg?auto=compress,format&rect=0,0,1119,1118&w=1024&h=1023",
+					"alt": "Yemi Alade",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ef49f570-49e9-4402-b5c6-b4b2de34ec9e_Wizkid.jpg?auto=compress,format&rect=0,0,1535,2048&w=1024&h=1366",
@@ -60,41 +89,12 @@
 					"ratio": 0.7496339677891655
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7f94695a-00bc-4651-a155-a248b0510fbf_ALICAI-HARLEY+.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
-					"alt": "Alicai Harley",
+					"url": "https://images.prismic.io/x-track-mag/df656a8c-f03a-4bfa-a610-897180c7ef70_Ria+Sean.jpg?auto=compress,format&rect=0,0,800,900&w=1024&h=1152",
+					"alt": "Ria Sean",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/7d1bc9fd-d5c5-47ec-8931-5ca599c25ab0_Spill-Tab.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
-					"alt": "Spill-Tab",
-					"copyright": null,
-					"width": 1024,
-					"height": 650,
-					"ratio": 1.5753846153846154
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e69c002c-4378-4b20-825e-78ad3879e69d_India+Shawn.jpg?auto=compress,format&rect=0,0,2549,1700&w=1024&h=683",
-					"alt": "India Shawn",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/23512cab-e1e8-428d-8df1-ec5c16aa4aec_Lorde.jpg?auto=compress,format&rect=0,0,1776,999&w=1024&h=576",
-					"alt": "Lorde",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1152,
+					"ratio": 0.8888888888888888
 				}
 			]
 		},
@@ -102,11 +102,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=9e191ddfdd5c40be",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=692172424aad46b6",
 					"title": "Best ”XTrack“ of the Week 🌍"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXBd0Ju0j3MD",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-oZylXjWFaN9EX",
 					"title": "Best ”XTrack“ of the Week 🌍 par XTrack"
 				},
 				{

@@ -142,16 +142,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-08-29T08:37:42+0000",
+			"publication_date": "2021-09-04T17:37:48+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "white",
+			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/3c30d4da-3fef-400b-8018-d79335b7ea4e_Shaybo+.jpg?auto=compress,format",
-				"alt": "Shaybo",
+				"url": "https://images.prismic.io/x-track-mag/dba6520a-55aa-4ea9-ac0d-8da637540c94_Drake.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 1200,
-				"height": 1200,
+				"width": 3000,
+				"height": 3000,
 				"ratio": 1
 			},
 			"video_loop": null,
