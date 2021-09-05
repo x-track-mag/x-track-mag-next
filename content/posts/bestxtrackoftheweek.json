@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-09-04T17:37:48+0000",
+	"publication_date": "2021-09-05T08:37:37+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "orange",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Wizkid x Buju, 53 Thieves, Drake x Tems, Jungle,  Kanye West, Finn Foxell, Adekunle Gold x DaVido, Yemi Alade, Joeboy, Nana Fofie, Little Simz x Obongjayar, 808vic, Manywellz x Tems, Palmaria, Ria Sean, Burna Boy x Don Jazzy, James Vincent McMorrow & ++++ Enjoy",
+					"text": "Wizkid x Buju, 53 Thieves, Drake x Tems, Jungle,  Kanye West, Finn Foxell, Adekunle Gold x DaVido, Yemi Alade, Joeboy, Nana Fofie, Little Simz x Obongjayar, 808vic, Mannywellz x Tems, Palmaria, Ria Sean, Burna Boy x Don Jazzy, James Vincent McMorrow & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -52,12 +52,12 @@
 					"ratio": 1.5036710719530102
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a485605d-9850-4069-a5ea-70f002a6dd2c_Nana+Fofie+.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
-					"alt": "Nana Fofie",
+					"url": "https://images.prismic.io/x-track-mag/ef49f570-49e9-4402-b5c6-b4b2de34ec9e_Wizkid.jpg?auto=compress,format&rect=0,0,1535,2048&w=1024&h=1366",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1366,
+					"ratio": 0.7496339677891655
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/af5b5b46-57c2-4a83-95ea-7b541bfe1c6d_Little-Simz.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
@@ -73,20 +73,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
+					"url": "https://images.prismic.io/x-track-mag/a485605d-9850-4069-a5ea-70f002a6dd2c_Nana+Fofie+.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Nana Fofie",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
 					"url": "https://images.prismic.io/x-track-mag/49190ca2-09ee-4f1b-9ef3-f2b7309ce415_Yemi+Alade.jpg?auto=compress,format&rect=0,0,1119,1118&w=1024&h=1023",
 					"alt": "Yemi Alade",
 					"copyright": null,
 					"width": 1024,
 					"height": 1023,
 					"ratio": 1.0009775171065494
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ef49f570-49e9-4402-b5c6-b4b2de34ec9e_Wizkid.jpg?auto=compress,format&rect=0,0,1535,2048&w=1024&h=1366",
-					"alt": "Wizkid",
-					"copyright": null,
-					"width": 1024,
-					"height": 1366,
-					"ratio": 0.7496339677891655
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/df656a8c-f03a-4bfa-a610-897180c7ef70_Ria+Sean.jpg?auto=compress,format&rect=0,0,800,900&w=1024&h=1152",
