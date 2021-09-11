@@ -142,17 +142,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-09-08T19:12:41+0000",
+			"publication_date": "2021-09-11T21:04:05+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/dba6520a-55aa-4ea9-ac0d-8da637540c94_Drake.jpg?auto=compress,format",
-				"alt": "Drake",
+				"url": "https://images.prismic.io/x-track-mag/4f54edbb-bdd5-43d9-9ef3-b04c5129c6ec_Little+Simz+.jpg?auto=compress,format",
+				"alt": "Little Simz",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 760,
+				"height": 1022,
+				"ratio": 0.7436399217221135
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
