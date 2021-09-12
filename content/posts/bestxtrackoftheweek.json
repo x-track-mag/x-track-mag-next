@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-09-12T06:45:32+0000",
+	"publication_date": "2021-09-12T07:22:31+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "orange",
@@ -44,20 +44,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c6e64a39-4c76-4e65-858d-8d7d86fe682a_Jarina+De+Marco+.jpg?auto=compress,format&rect=0,0,960,1440&w=1024&h=1536",
-					"alt": "Jarina De Marco",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/4d627c40-4c84-47cb-8770-fbc08cf1e5fc_Tiwa+Savage+.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
 					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/527cef46-8c20-4e3c-b6d4-aa481f27768f_Jarina+De+Marco.++.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Jarina De Marco",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ded6e9a4-3f85-405d-9819-73b8c7936c07_Miss+Lafamilia.jpg?auto=compress,format&rect=0,0,1200,1609&w=1024&h=1373",
