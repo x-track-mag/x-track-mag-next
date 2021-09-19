@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-09-12T07:22:31+0000",
+	"publication_date": "2021-09-19T07:37:16+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c15c421e-aaf1-47e4-82ee-c8f79e1f5e30_Little+Simz.+++.jpg?auto=compress,format",
-		"alt": "Little Simz",
+		"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format",
+		"alt": "PawPaw Rod",
 		"copyright": null,
-		"width": 1920,
-		"height": 2583,
-		"ratio": 0.743321718931475
+		"width": 3000,
+		"height": 3000,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Little Simz, Miss Lafamilia x Popcaan, Jarina de Marco, Greentea Peng x Simmy x Kid Cruise, Yebba, Muzi x Kaytranada, Tierra Whack, Tems, Skip Marley x Ari Lennox x IzyBeats, Nova, Wizkid, Joeboy, Juliet Ariel x Burssbrain x Reiann, Anik Khan, Popcaan, Ayanfe x Tiwa Savage,  Killertunes x Ondusi (The Engine), Lorde, Drake  & ++++ Enjoy",
+					"text": "Tems, PawPaw Rod,  Moanday x Gomz, David Walters x Henrick Schwarz, Kyle dion x Duckwrth, Elodie Gervaise, L.A.X, Tekno x Hush Maney, Roosevelt, Metronomy x Spill Tab, Wafia x Ta-Ku x Cabu, Leisure, Parcels, Wavy the creator x WurlD, (((o))), Kate Bolinger, Cruza, James Blake Jose Gonzalez & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -44,28 +44,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4d627c40-4c84-47cb-8770-fbc08cf1e5fc_Tiwa+Savage+.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Tiwa Savage",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/527cef46-8c20-4e3c-b6d4-aa481f27768f_Jarina+De+Marco.++.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Jarina De Marco",
+					"url": "https://images.prismic.io/x-track-mag/af36ce5c-8017-401a-a2e9-c9082eb57be4_Tems.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ded6e9a4-3f85-405d-9819-73b8c7936c07_Miss+Lafamilia.jpg?auto=compress,format&rect=0,0,1200,1609&w=1024&h=1373",
-					"alt": "Miss Lafamilia",
+					"url": "https://images.prismic.io/x-track-mag/f8028d56-bf3f-470a-90d0-c1507534f082_Spill+Tab.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
+					"alt": "Spill Tab",
 					"copyright": null,
 					"width": 1024,
-					"height": 1373,
-					"ratio": 0.7458120903131829
+					"height": 650,
+					"ratio": 1.5753846153846154
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/9b389a76-c133-4697-a4f6-af3663f6f87a_%28%28%28o%29%29%29.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "(((o)))",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -73,28 +73,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/91995a3b-41cc-4d4a-8b46-877415c978fc_Juliet+Ariel.jpg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
-					"alt": "Juliet Ariel",
+					"url": "https://images.prismic.io/x-track-mag/74fcc4d0-f513-4c3c-8fad-d08dc2ad3935_Wavy+The+Creator.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Wavy The Creator",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8d7ef188-46e6-44b8-ae80-276ef0c7821e_Reiann.jpg?auto=compress,format&rect=0,0,960,959&w=1024&h=1023",
-					"alt": "Reiann",
+					"url": "https://images.prismic.io/x-track-mag/ec10c02e-0e42-4648-a549-8b976fd96d34_James+Blake.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "James Blake",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format&rect=0,0,957,956&w=1024&h=1023",
-					"alt": "Greentea Peng ",
+					"url": "https://images.prismic.io/x-track-mag/92e542a6-227c-4446-9ab1-ec14553c1d54_Kyle+Dion.jpg?auto=compress,format&rect=0,0,3900,3900&w=1024&h=1024",
+					"alt": "Kyle Dion",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -102,12 +102,12 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=57c6c13d05164120",
-					"title": "Best ”XTrack“ of the Week 🌍"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=00b4208ea39749d9",
+					"title": "Best ”XTrack“ of the Week "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZDb3iN0D35",
-					"title": "Best ”XTrack“ of the Week 🌍 par XTrack"
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-NpXmx4pIyr3M0",
+					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
