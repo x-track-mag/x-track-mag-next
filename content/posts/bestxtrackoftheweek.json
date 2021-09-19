@@ -3,10 +3,10 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-09-19T07:37:16+0000",
+	"publication_date": "2021-09-19T07:39:19+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "orange",
+	"text_color": "inverted",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format",
 		"alt": "PawPaw Rod",
