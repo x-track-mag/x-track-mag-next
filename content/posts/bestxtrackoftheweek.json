@@ -3,13 +3,13 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-09-19T10:23:30+0000",
+	"publication_date": "2021-09-26T07:55:49+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "orange",
+	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format",
-		"alt": "PawPaw Rod",
+		"url": "https://images.prismic.io/x-track-mag/0f298d6e-d8c5-4f60-b437-7ac41cd89a5b_Dua+Saleh.jpg?auto=compress,format",
+		"alt": "Dua Saleh",
 		"copyright": null,
 		"width": 3000,
 		"height": 3000,
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Tems, PawPaw Rod,  Moanday x Gomz, David Walters x Henrik Schwarz, Kyle Dion x Duckwrth, Elodie Gervaise, L.A.X, Tekno x Hush Maney, Roosevelt, Metronomy x Spill Tab, Wafia x Ta-Ku x Masego x Cabu, Leisure, Parcels, Wavy the Creator x WurlD, (((o))), Kate Bollinger, Cruza, James Blake, Jose Gonzalez & ++++ Enjoy",
+					"text": "Gabriels, Joeboy, Ichon x Loveni, Nao x Adekunle Gold, Dua Saleh x Amaarae, Kyle Dion, Joesef, Tems x Brent Faiyaz, Amber Mark, Princess Nokia x Baby Tate, August Charles, James Blake & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -44,28 +44,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/af36ce5c-8017-401a-a2e9-c9082eb57be4_Tems.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/0c9d6810-d61a-4a26-afd2-ec2fe299f2b8_Amaarae.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Amaarae",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5f09de3a-8542-4835-8a52-92c94f2ef8b3_Princess+Nokia+%26+Yung+Baby+Tate.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Princess Nokia & Yung Baby Tate",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f8028d56-bf3f-470a-90d0-c1507534f082_Spill+Tab.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
-					"alt": "Spill Tab",
+					"url": "https://images.prismic.io/x-track-mag/44cf238c-8827-4f04-9f57-6fb96bc36db4_Tems.jpg?auto=compress,format&rect=0,0,700,466&w=1024&h=682",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 650,
-					"ratio": 1.5753846153846154
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/9b389a76-c133-4697-a4f6-af3663f6f87a_%28%28%28o%29%29%29.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "(((o)))",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 682,
+					"ratio": 1.501466275659824
 				}
 			]
 		},
@@ -73,16 +73,16 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/74fcc4d0-f513-4c3c-8fad-d08dc2ad3935_Wavy+The+Creator.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Wavy The Creator",
+					"url": "https://images.prismic.io/x-track-mag/4983c24c-19c7-4442-9d1d-b645132d7401_Ichon.jpg?auto=compress,format&rect=0,0,1933,1933&w=1024&h=1024",
+					"alt": "Ichon",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ec10c02e-0e42-4648-a549-8b976fd96d34_James+Blake.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "James Blake",
+					"url": "https://images.prismic.io/x-track-mag/20a76456-a1d2-48f8-be69-03823650761d_Amber+Mark.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Amber Mark",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
