@@ -16,6 +16,10 @@
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
 		{
+			"position": 2,
+			"uid": "yayayayoutube-ep-2--fatima-antoinette1"
+		},
+		{
 			"position": 3,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
@@ -161,25 +165,29 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
+			"uid": "yayayayoutube-ep-2--fatima-antoinette1",
 			"tags": [],
-			"publication_date": "2021-09-11T21:18:20+0000",
-			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
-			"subtitle": "",
-			"text_color": "green",
+			"publication_date": "2021-09-23T13:57:33+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 3 : Ophelie Summer",
+			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/aaf46264-f2ea-4280-808f-3c2f6e4ede45_Capture+d%E2%80%99e%CC%81cran+2021-09-23+a%CC%80+15.55.12.png?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1440,
-				"height": 900,
-				"ratio": 1.6
+				"width": 2074,
+				"height": 1370,
+				"ratio": 1.513868613138686
 			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
+			"video_loop": {
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
 			"internal_link": null,
-			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
+			"description": "Dans cet épisode de Yayayayoutube, Ophelie Summer vous invite dans son cabaret privé pour relooker son Sugar Baby."
 		},
 		{
 			"uid": "les-klon-hydre-pop-a-sept-tetes",
@@ -553,29 +561,25 @@
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette1",
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
 			"tags": [],
-			"publication_date": "2021-09-23T13:57:33+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 3 : Ophelie Summer",
-			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
-			"text_color": "inverted",
+			"publication_date": "2021-09-11T21:18:20+0000",
+			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
+			"subtitle": "",
+			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/aaf46264-f2ea-4280-808f-3c2f6e4ede45_Capture+d%E2%80%99e%CC%81cran+2021-09-23+a%CC%80+15.55.12.png?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 2074,
-				"height": 1370,
-				"ratio": 1.513868613138686
+				"width": 1440,
+				"height": 900,
+				"ratio": 1.6
 			},
-			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Ophelie Summer vous invite dans son cabaret privé pour relooker son Sugar Baby."
+			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
 			"uid": "polycool",
