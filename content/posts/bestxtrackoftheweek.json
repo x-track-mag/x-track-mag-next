@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-09-26T07:57:28+0000",
+	"publication_date": "2021-09-26T07:58:17+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -60,12 +60,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/44cf238c-8827-4f04-9f57-6fb96bc36db4_Tems.jpg?auto=compress,format&rect=0,0,700,466&w=1024&h=682",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/92e542a6-227c-4446-9ab1-ec14553c1d54_Kyle+Dion.jpg?auto=compress,format&rect=0,0,3900,3900&w=1024&h=1024",
+					"alt": "Kyle Dion",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -89,12 +89,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/92e542a6-227c-4446-9ab1-ec14553c1d54_Kyle+Dion.jpg?auto=compress,format&rect=0,0,3900,3900&w=1024&h=1024",
-					"alt": "Kyle Dion",
+					"url": "https://images.prismic.io/x-track-mag/44cf238c-8827-4f04-9f57-6fb96bc36db4_Tems.jpg?auto=compress,format&rect=0,0,700,466&w=1024&h=682",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 682,
+					"ratio": 1.501466275659824
 				}
 			]
 		},
