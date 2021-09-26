@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-09-26T07:58:17+0000",
+	"publication_date": "2021-09-26T08:00:02+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -73,12 +73,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4983c24c-19c7-4442-9d1d-b645132d7401_Ichon.jpg?auto=compress,format&rect=0,0,1933,1933&w=1024&h=1024",
-					"alt": "Ichon",
+					"url": "https://images.prismic.io/x-track-mag/f6bbbdbd-ca8b-471e-9c55-e25c58130eaa_Tems+.jpg?auto=compress,format&rect=0,0,768,1024&w=1024&h=1365",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/20a76456-a1d2-48f8-be69-03823650761d_Amber+Mark.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
@@ -89,12 +89,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/44cf238c-8827-4f04-9f57-6fb96bc36db4_Tems.jpg?auto=compress,format&rect=0,0,700,466&w=1024&h=682",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/4983c24c-19c7-4442-9d1d-b645132d7401_Ichon.jpg?auto=compress,format&rect=0,0,1933,1933&w=1024&h=1024",
+					"alt": "Ichon",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
