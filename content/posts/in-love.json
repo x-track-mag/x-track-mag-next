@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-08-11T17:10:09+0000",
+	"publication_date": "2021-09-28T09:34:04+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format",
-		"alt": "Billie Eilish",
+		"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
+		"alt": "Gabriels",
 		"copyright": null,
-		"width": 2048,
-		"height": 1478,
-		"ratio": 1.3856562922868743
+		"width": 1943,
+		"height": 1140,
+		"ratio": 1.7043859649122808
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "HXRY, DWY, Billie Eilish, Mustafa, Galimatias, Baby Rose, Kyle Dion, Amaria, Serpentwithfeet, Jenevieve, MorMor, Cigarettes After Sex, Roseaux x Blick Bassy, Chiiild, Oklou, Known, Men I Trust, Arlo Parks, Yehra, Khruangbin, Common Saints, Finley Quaye, Sault, rum.gold, & +++ 👆🏽👆🎼🎧",
+					"text": "Galimatias, Kyle Dion, Gabriels, Amaria, Jenevieve, MorMor, Cigarettes After Sex, Chiiild, Oklou, Mustafa, Yehra, Arlo Parks, Finley Quaye, Khruangbin, Omar Apollo, rum.gold, Common Saints, Celeste x Jeshi, Sault, The O'my's, James Blake, Baby Rose, Cody Chesnutt, Quendresa, (((o))) x Please Wait, Odie, Baby Fuzz, Agelo De Augustine, José Gonzalez, Hope Sandoval & +++ 👆🏽👆🎼🎧",
 					"spans": []
 				}
 			]
@@ -52,15 +52,15 @@
 					"ratio": 1.4691535150645625
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1fbc8a64-5442-447d-9d62-19f6259f33cc_Charlotte+Day+Wilson.jpg?auto=compress,format&rect=0,0,1426,745&w=1024&h=535",
-					"alt": "Charlotte Day Wilson",
+					"url": "https://images.prismic.io/x-track-mag/cb0b7da0-fd9e-42de-b996-397f551e5694_Oklou.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
+					"alt": "Oklou",
 					"copyright": null,
 					"width": 1024,
-					"height": 535,
-					"ratio": 1.9140186915887851
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f5322c0e-9816-43e0-b6cf-3ae2c01ab84f_Amaria+.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/ed8b1429-f476-48b1-a63b-cfeb79b207da_Amaria.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
 					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
@@ -73,28 +73,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5e23a1f0-9ab9-40b1-9348-0f8d157fce48_Jenevieve+.jpg?auto=compress,format&rect=0,0,465,640&w=1024&h=1409",
-					"alt": "Jenevieve",
-					"copyright": null,
-					"width": 1024,
-					"height": 1409,
-					"ratio": 0.7267565649396736
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/cb0b7da0-fd9e-42de-b996-397f551e5694_Oklou.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
-					"alt": "Oklou",
+					"url": "https://images.prismic.io/x-track-mag/ba9f663b-be5a-4dc2-95b1-9539f5716522_Quendresa.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2ab14b00-82fd-4014-9c01-b87ee82f39f0_nayana+iz.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
-					"alt": "Nayana IZ",
+					"url": "https://images.prismic.io/x-track-mag/6b475e3c-2dda-4984-a1fb-ccad2d8267db_%28%28%28o%29%29%29+.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "(((o)))",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/dbdba897-51c2-4cb8-bac1-7a0d508d2cd7_Khruangbin.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
+					"alt": "Khruangbin",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
@@ -102,11 +102,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=ea714ef312cc499c",
+					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=074c8c915a864b05",
 					"title": "In Love"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-xlyNLNWCvNPRE",
+					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-WabZDEVsN0D35",
 					"title": "In Love par XTrack"
 				},
 				{

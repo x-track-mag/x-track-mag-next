@@ -452,17 +452,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-08-11T17:10:09+0000",
+			"publication_date": "2021-09-28T09:34:04+0000",
 			"title": "In Love",
 			"subtitle": "Our favorite Love & Cool Songs",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format",
-				"alt": "Billie Eilish",
+				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
+				"alt": "Gabriels",
 				"copyright": null,
-				"width": 2048,
-				"height": 1478,
-				"ratio": 1.3856562922868743
+				"width": 1943,
+				"height": 1140,
+				"ratio": 1.7043859649122808
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
