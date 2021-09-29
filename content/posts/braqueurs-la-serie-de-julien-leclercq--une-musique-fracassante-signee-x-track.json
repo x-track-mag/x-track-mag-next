@@ -1,7 +1,9 @@
 {
 	"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
-	"tags": [],
-	"publication_date": "2021-09-29T14:50:27+0000",
+	"tags": [
+		"article"
+	],
+	"publication_date": "2021-09-29T15:10:33+0000",
 	"title": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track",
 	"subtitle": "",
 	"text_color": "white",
@@ -448,21 +450,6 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "image",
-					"url": "https://images.prismic.io/x-track-mag/33ad5db5-966f-4074-8816-8f64dc7451ad_29116-dobermann.jpg?auto=compress,format",
-					"alt": null,
-					"copyright": null,
-					"dimensions": {
-						"width": 1000,
-						"height": 1500
-					}
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
-				{
 					"type": "paragraph",
 					"text": "On a hâte de voir ça ! Braqueurs sort le 24 Septembre ! Musique Maestro … ",
 					"spans": []
@@ -474,11 +461,16 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Jean-Jacques et François ont créé, entre autres, les musiques originales de Vibroboy, Dobermann, Blueberry, 99 Francs, Chrysalis, l’Assaut, Braqueurs le film, Lukas, La Terre et le Sang, Sentinelle, et Braqueurs la série",
+					"text": "Jean-Jacques et François ont créé, entre autres, les musiques originales de Vibroboy, Dobermann, Blueberry, 99 Francs, Chrysalis, l’Assaut, Braqueurs le film, Lukas, La Terre et le Sang, Sentinelle, et Braqueurs la série.",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Les fictions sont disponible sur le site, ici ",
 					"spans": [
 						{
-							"start": 76,
-							"end": 220,
+							"start": 42,
+							"end": 46,
 							"type": "hyperlink",
 							"data": {
 								"link_type": "Web",
@@ -494,45 +486,43 @@
 				},
 				{
 					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
 					"text": " ",
 					"spans": []
 				}
 			]
 		},
 		{
-			"template": "section-gallery",
-			"gallery": [
+			"template": "section-full-text",
+			"text": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3cfa57ba-84f4-4bec-a543-e85b0eb3173d_XT4.jpeg?auto=compress,format&rect=0,0,640,1137&w=1024&h=1819",
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/33ad5db5-966f-4074-8816-8f64dc7451ad_29116-dobermann.jpg?auto=compress,format",
 					"alt": null,
 					"copyright": null,
-					"width": 1024,
-					"height": 1819,
-					"ratio": 0.5629466739967015
-				},
+					"dimensions": {
+						"width": 1000,
+						"height": 1500
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ef6d7009-753e-4ff2-940f-a1ecccfc397e_XT1.jpeg?auto=compress,format&rect=0,0,1200,1600&w=1024&h=1365",
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/e8135cb6-c074-4c37-88e3-b64aee54de43_XT5.jpeg?auto=compress,format",
 					"alt": null,
 					"copyright": null,
-					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/dbde2c22-6ce9-4d0e-bb8d-e15ace8a94c8_xt2.jpeg?auto=compress,format&rect=0,0,1183,1600&w=1024&h=1385",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 1385,
-					"ratio": 0.7393501805054151
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f005c421-f577-4b25-ad59-4787a7f0e768_xt3.jpeg?auto=compress,format&rect=0,0,1200,1600&w=1024&h=1365",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"dimensions": {
+						"width": 634,
+						"height": 844
+					}
 				}
 			]
 		}
