@@ -584,21 +584,21 @@
 		{
 			"uid": "braqueurs-la-serie-une-musique-fracassante-signee",
 			"tags": [],
-			"publication_date": "2021-09-29T11:12:03+0000",
+			"publication_date": "2021-09-29T11:14:03+0000",
 			"title": "Braqueurs la série, une musique fracassante signée X-Track",
 			"subtitle": "",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/04266013-cb9e-4f40-8d10-6998b8f95418_Dobermann-bientot-une-suite.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/33ad5db5-966f-4074-8816-8f64dc7451ad_29116-dobermann.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1280,
-				"height": 670,
-				"ratio": 1.9104477611940298
+				"width": 1000,
+				"height": 1500,
+				"ratio": 0.6666666666666666
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
+			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Dobermann. 1997. Véritable claque cinématographique tant par le couple sulfureux Bellucci-Cassel, que le style visionnaire du film qui saisit par sa puissance visuelle et l'adrénaline qu’il insuffle aux spectateurs. Mélangez un psychopathe sadique (Tchéky Karyo, magistral), une bande de criminels, des fourgons blindés, l’énergie démente de Jan Kounen et vous obtiendrez un film trash-glam culte parfait. Parfait certes, mais à mieux y regarder, chaque scène, chaque action, chaque minute du film est portée par une musique organique qui colle avec brio à l’âme des personnages. "
 		},

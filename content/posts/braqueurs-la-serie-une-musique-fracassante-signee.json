@@ -1,21 +1,21 @@
 {
 	"uid": "braqueurs-la-serie-une-musique-fracassante-signee",
 	"tags": [],
-	"publication_date": "2021-09-29T11:12:03+0000",
+	"publication_date": "2021-09-29T11:14:03+0000",
 	"title": "Braqueurs la série, une musique fracassante signée X-Track",
 	"subtitle": "",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/04266013-cb9e-4f40-8d10-6998b8f95418_Dobermann-bientot-une-suite.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/33ad5db5-966f-4074-8816-8f64dc7451ad_29116-dobermann.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 1280,
-		"height": 670,
-		"ratio": 1.9104477611940298
+		"width": 1000,
+		"height": 1500,
+		"ratio": 0.6666666666666666
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
-	"author": null,
+	"author": "Camille Laurens",
 	"internal_link": null,
 	"sections": [
 		{
@@ -240,6 +240,35 @@
 					"type": "paragraph",
 					"text": "Charles : Exactement. Dans les séries, c’est très pratique d’avoir cette répétition qui replace le protagoniste dans l'imaginaire du spectateur. Une thématique récurrente pour chaque personnalité, cette méthodologie est très prisée. ",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/f429969f-ee03-44c5-9ce7-beba0a5017a6_Bra01.jpg?auto=compress,format&rect=0,0,1499,1101&w=1024&h=752",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 752,
+					"ratio": 1.3617021276595744
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/76167469-91f9-4a09-bd68-82e91f545aa1_E_QtaBOXIAsEgHu.jpg?auto=compress,format&rect=0,0,810,462&w=1024&h=584",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 584,
+					"ratio": 1.7534246575342465
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/24363c83-ae1d-4c6f-b02e-62145528b06f_Bra02.jpg?auto=compress,format&rect=0,0,1500,1037&w=1024&h=708",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 708,
+					"ratio": 1.4463276836158192
 				}
 			]
 		},
