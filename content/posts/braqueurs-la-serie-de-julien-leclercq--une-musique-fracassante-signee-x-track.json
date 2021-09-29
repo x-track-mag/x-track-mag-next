@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-09-29T15:16:54+0000",
+	"publication_date": "2021-09-29T15:19:09+0000",
 	"title": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track",
 	"subtitle": "",
 	"text_color": "white",
@@ -476,11 +476,11 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Les fictions sont disponible sur le site, ici ",
+					"text": "Les Teaser fictions sont disponible sur le site, ici ",
 					"spans": [
 						{
-							"start": 42,
-							"end": 46,
+							"start": 49,
+							"end": 53,
 							"type": "hyperlink",
 							"data": {
 								"link_type": "Web",
