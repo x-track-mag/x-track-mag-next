@@ -1,7 +1,7 @@
 {
 	"uid": "braqueurs-la-serie-une-musique-fracassante-signee",
 	"tags": [],
-	"publication_date": "2021-09-29T11:14:03+0000",
+	"publication_date": "2021-09-29T11:24:35+0000",
 	"title": "Braqueurs la série, une musique fracassante signée X-Track",
 	"subtitle": "",
 	"text_color": "white",
@@ -64,6 +64,19 @@
 			]
 		},
 		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/04266013-cb9e-4f40-8d10-6998b8f95418_Dobermann-bientot-une-suite.jpg?auto=compress,format&rect=0,0,1280,670&w=1024&h=536",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 536,
+					"ratio": 1.9104477611940298
+				}
+			]
+		},
+		{
 			"template": "section-full-text",
 			"text": [
 				{
@@ -110,6 +123,21 @@
 					"type": "paragraph",
 					"text": "Charles : Non, car les chinois font confiance aux occidentaux. Il y a le même savoir-faire, on a souvent carte blanche sur les productions, et il y a beaucoup de collaborations à l’international, alors que les français aiment bien travailler … avec les français ! ",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/421848bb-4342-4093-873d-d7ae08a417ce_braqueurs-la-nouvelle-serie-evenement-de-netflix-france-sortira-sur-les-ecrans-ce-vendredi-24-septembre-avec-le-passage-d-un-son-made-in-besancon-photo-er-dr-1632422642.jpg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1143,
+						"height": 821
+					}
 				}
 			]
 		},
