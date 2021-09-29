@@ -13,7 +13,7 @@
 		},
 		{
 			"position": 2,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette1"
+			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
 		},
 		{
 			"position": 3,
@@ -21,10 +21,14 @@
 		},
 		{
 			"position": 3,
-			"uid": "les-klon-hydre-pop-a-sept-tetes"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette1"
 		},
 		{
 			"position": 4,
+			"uid": "les-klon-hydre-pop-a-sept-tetes"
+		},
+		{
+			"position": 5,
 			"uid": "x-track-studio---biaziouka"
 		},
 		{
@@ -165,6 +169,27 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
+			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
+			"tags": [],
+			"publication_date": "2021-09-29T14:02:23+0000",
+			"title": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/421848bb-4342-4093-873d-d7ae08a417ce_braqueurs-la-nouvelle-serie-evenement-de-netflix-france-sortira-sur-les-ecrans-ce-vendredi-24-septembre-avec-le-passage-d-un-son-made-in-besancon-photo-er-dr-1632422642.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1143,
+				"height": 821,
+				"ratio": 1.392204628501827
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Dobermann. 1997. Véritable claque cinématographique tant par le couple sulfureux Bellucci-Cassel, que le style visionnaire du film qui saisit par sa puissance visuelle et l'adrénaline qu’il insuffle aux spectateurs. Mélangez un psychopathe sadique (Tchéky Karyo, magistral), une bande de criminels, des fourgons blindés, l’énergie démente de Jan Kounen et vous obtiendrez un film trash-glam culte parfait. Parfait certes, mais à mieux y regarder, chaque scène, chaque action, chaque minute du film est portée par une musique organique qui colle avec brio à l’âme des personnages. "
+		},
+		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette1",
 			"tags": [],
 			"publication_date": "2021-09-26T08:57:43+0000",
@@ -232,27 +257,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
-		},
-		{
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
-			"tags": [],
-			"publication_date": "2021-09-11T21:18:20+0000",
-			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
-			"subtitle": "",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1440,
-				"height": 900,
-				"ratio": 1.6
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
 			"uid": "2020-is-the-year",
@@ -582,25 +586,25 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
 			"tags": [],
-			"publication_date": "2021-09-29T14:02:23+0000",
-			"title": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track",
+			"publication_date": "2021-09-11T21:18:20+0000",
+			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
 			"subtitle": "",
-			"text_color": "white",
+			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/421848bb-4342-4093-873d-d7ae08a417ce_braqueurs-la-nouvelle-serie-evenement-de-netflix-france-sortira-sur-les-ecrans-ce-vendredi-24-septembre-avec-le-passage-d-un-son-made-in-besancon-photo-er-dr-1632422642.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1143,
-				"height": 821,
-				"ratio": 1.392204628501827
+				"width": 1440,
+				"height": 900,
+				"ratio": 1.6
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Dobermann. 1997. Véritable claque cinématographique tant par le couple sulfureux Bellucci-Cassel, que le style visionnaire du film qui saisit par sa puissance visuelle et l'adrénaline qu’il insuffle aux spectateurs. Mélangez un psychopathe sadique (Tchéky Karyo, magistral), une bande de criminels, des fourgons blindés, l’énergie démente de Jan Kounen et vous obtiendrez un film trash-glam culte parfait. Parfait certes, mais à mieux y regarder, chaque scène, chaque action, chaque minute du film est portée par une musique organique qui colle avec brio à l’âme des personnages. "
+			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
 			"uid": "polycool",
