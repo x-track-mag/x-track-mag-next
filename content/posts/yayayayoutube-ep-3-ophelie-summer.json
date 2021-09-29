@@ -1,0 +1,59 @@
+{
+	"uid": "yayayayoutube-ep-3-ophelie-summer",
+	"tags": [
+		"article"
+	],
+	"publication_date": "2021-09-29T15:18:54+0000",
+	"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
+	"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "EDIT_INSTA.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
+		"size": "1730419"
+	},
+	"template": "3: Image + Titre",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Dans cet épisode de Yayayayoutube, Ophelie Summer vous invite dans son cabaret privé pour relooker son Sugar Baby.",
+					"spans": []
+				}
+			],
+			"link": {
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=aBU9TbFyIN8",
+				"type": "video",
+				"version": "1.0",
+				"title": "Yayayayoutube EP 3 : Ophelie Summer",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
+				"thumbnail_url": "https://i.ytimg.com/vi/aBU9TbFyIN8/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/aBU9TbFyIN8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+			},
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/aaf46264-f2ea-4280-808f-3c2f6e4ede45_Capture+d%E2%80%99e%CC%81cran+2021-09-23+a%CC%80+15.55.12.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2074,
+				"height": 1370,
+				"ratio": 1.513868613138686
+			},
+			"disposition": "Texte | Video"
+		}
+	],
+	"description": "The Ophelie Summer show : relooking d'une sugar mummy"
+}
