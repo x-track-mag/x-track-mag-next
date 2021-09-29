@@ -1,17 +1,17 @@
 {
 	"uid": "braqueurs-la-serie-une-musique-fracassante-signee",
 	"tags": [],
-	"publication_date": "2021-09-29T11:26:21+0000",
+	"publication_date": "2021-09-29T11:41:20+0000",
 	"title": "Braqueurs la série, une musique fracassante signée X-Track",
 	"subtitle": "",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/33ad5db5-966f-4074-8816-8f64dc7451ad_29116-dobermann.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/421848bb-4342-4093-873d-d7ae08a417ce_braqueurs-la-nouvelle-serie-evenement-de-netflix-france-sortira-sur-les-ecrans-ce-vendredi-24-septembre-avec-le-passage-d-un-son-made-in-besancon-photo-er-dr-1632422642.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 1000,
-		"height": 1500,
-		"ratio": 0.6666666666666666
+		"width": 1143,
+		"height": 821,
+		"ratio": 1.392204628501827
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -23,12 +23,12 @@
 			"title": "--blank--",
 			"subtitle": "--blank--",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/33ad5db5-966f-4074-8816-8f64dc7451ad_29116-dobermann.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/421848bb-4342-4093-873d-d7ae08a417ce_braqueurs-la-nouvelle-serie-evenement-de-netflix-france-sortira-sur-les-ecrans-ce-vendredi-24-septembre-avec-le-passage-d-un-son-made-in-besancon-photo-er-dr-1632422642.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 1000,
-				"height": 1500,
-				"ratio": 0.6666666666666666
+				"width": 1143,
+				"height": 821,
+				"ratio": 1.392204628501827
 			}
 		},
 		{
