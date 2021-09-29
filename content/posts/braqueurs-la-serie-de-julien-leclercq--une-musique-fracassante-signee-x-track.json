@@ -1,42 +1,71 @@
 {
 	"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
 	"tags": [],
-	"publication_date": "2021-09-29T14:10:21+0000",
+	"publication_date": "2021-09-29T14:50:27+0000",
 	"title": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track",
 	"subtitle": "",
 	"text_color": "white",
-	"image": {
-		"url": "https://images.prismic.io/x-track-mag/421848bb-4342-4093-873d-d7ae08a417ce_braqueurs-la-nouvelle-serie-evenement-de-netflix-france-sortira-sur-les-ecrans-ce-vendredi-24-septembre-avec-le-passage-d-un-son-made-in-besancon-photo-er-dr-1632422642.jpg?auto=compress,format",
-		"alt": null,
-		"copyright": null,
-		"width": 1143,
-		"height": 821,
-		"ratio": 1.392204628501827
+	"image": null,
+	"video_loop": {
+		"name": "braqueurs-la-serie-bande-annonce-officielle-vf-netflix-france_2.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/e11f29fb-19fd-4c2a-8a16-9c06d7a152a1_braqueurs-la-serie-bande-annonce-officielle-vf-netflix-france_2.mp4",
+		"size": "1300211"
 	},
-	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "Camille Laurens",
 	"internal_link": null,
 	"sections": [
-		{
-			"template": "section-hero",
-			"title": "--blank--",
-			"subtitle": "--blank--",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/421848bb-4342-4093-873d-d7ae08a417ce_braqueurs-la-nouvelle-serie-evenement-de-netflix-france-sortira-sur-les-ecrans-ce-vendredi-24-septembre-avec-le-passage-d-un-son-made-in-besancon-photo-er-dr-1632422642.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1143,
-				"height": 821,
-				"ratio": 1.392204628501827
-			}
-		},
 		{
 			"template": "section-full-text",
 			"text": [
 				{
 					"type": "paragraph",
 					"text": "Dobermann. 1997. Véritable claque cinématographique tant par le couple sulfureux Bellucci-Cassel, que le style visionnaire du film qui saisit par sa puissance visuelle et l'adrénaline qu’il insuffle aux spectateurs. Mélangez un psychopathe sadique (Tchéky Karyo, magistral), une bande de criminels, des fourgons blindés, l’énergie démente de Jan Kounen et vous obtiendrez un film trash-glam culte parfait. Parfait certes, mais à mieux y regarder, chaque scène, chaque action, chaque minute du film est portée par une musique organique qui colle avec brio à l’âme des personnages. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/421848bb-4342-4093-873d-d7ae08a417ce_braqueurs-la-nouvelle-serie-evenement-de-netflix-france-sortira-sur-les-ecrans-ce-vendredi-24-septembre-avec-le-passage-d-un-son-made-in-besancon-photo-er-dr-1632422642.jpg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1143,
+						"height": 821
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Protagoniste phare dans la construction d’un film, la musique est un acteur aussi majeur que les héros du long-métrage. Pleinement conscients de l’impact de la musique, les réalisateurs en confient les clés à des équipes dont le style correspond à leur narration. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Fort de ses succès avec la Terre et le Sang et Sentinelle (Deux longs métrages d’action et de coup de poings purs commandés par la plateforme mondiale Netflix). Julien Leclercq réitère la collaboration, en confiant à XTrack, la musique de Braqueurs la série : 6 épisodes à habiller, 4 mois de travail intensif, X-track, nous livre les secrets de ce métier, à 180 BPM ! Un quatuor complémentaire, entre Marie Prouvé, arrivée dès ses 19 ans pour un premier stage, qui n’a jamais vraiment quitté le navire, Charles Monnet, compositeur, passionné de machines, et le duo de toujours François Roy et Jean-Jacques Hertz, à la tête du navire. ",
+					"spans": [
+						{
+							"start": 225,
+							"end": 259,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://sounds.x-track.net/fr/works/braqueurs-la-serie"
+							}
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Rencontre à l’occasion de la sortie sur Netflix.",
 					"spans": []
 				}
 			]
@@ -55,30 +84,6 @@
 					}
 				}
 			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
-				{
-					"type": "paragraph",
-					"text": "Protagoniste phare dans la construction d’un film, la musique est un acteur aussi majeur que les héros du long-métrage. Pleinement conscients de l’impact de la musique, les réalisateurs en confient les clés à des équipes dont le style correspond à leur narration. ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "Fort de ses succès avec la Terre et le Sang et Sentinelle (Deux longs métrages d’action et de coup de poings purs commandés par la plateforme mondiale Netflix). Julien Leclercq réitère la collaboration, en confiant à XTrack, la musique de Braqueurs la série : 6 épisodes à habiller, 4 mois de travail intensif, X-track, nous livre les secrets de ce métier, à 180 BPM ! Un quatuor complémentaire, entre Marie Prouvé, arrivée dès ses 19 ans pour un premier stage, qui n’a jamais vraiment quitté le navire, Charles Monnet, compositeur, passionné de machines, et le duo de toujours François Roy et Jean-Jacques Hertz, à la tête du navire. ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "Rencontre à l’occasion de la sortie sur Netflix.",
-					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": []
 		},
 		{
 			"template": "section-full-text",
@@ -443,6 +448,21 @@
 			"template": "section-full-text",
 			"text": [
 				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/33ad5db5-966f-4074-8816-8f64dc7451ad_29116-dobermann.jpg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1000,
+						"height": 1500
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
 					"type": "paragraph",
 					"text": "On a hâte de voir ça ! Braqueurs sort le 24 Septembre ! Musique Maestro … ",
 					"spans": []
@@ -455,7 +475,17 @@
 				{
 					"type": "paragraph",
 					"text": "Jean-Jacques et François ont créé, entre autres, les musiques originales de Vibroboy, Dobermann, Blueberry, 99 Francs, Chrysalis, l’Assaut, Braqueurs le film, Lukas, La Terre et le Sang, Sentinelle, et Braqueurs la série",
-					"spans": []
+					"spans": [
+						{
+							"start": 76,
+							"end": 220,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://sounds.x-track.net/fr/fiction"
+							}
+						}
+					]
 				},
 				{
 					"type": "paragraph",
@@ -466,6 +496,43 @@
 					"type": "paragraph",
 					"text": " ",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/3cfa57ba-84f4-4bec-a543-e85b0eb3173d_XT4.jpeg?auto=compress,format&rect=0,0,640,1137&w=1024&h=1819",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1819,
+					"ratio": 0.5629466739967015
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ef6d7009-753e-4ff2-940f-a1ecccfc397e_XT1.jpeg?auto=compress,format&rect=0,0,1200,1600&w=1024&h=1365",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/dbde2c22-6ce9-4d0e-bb8d-e15ace8a94c8_xt2.jpeg?auto=compress,format&rect=0,0,1183,1600&w=1024&h=1385",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1385,
+					"ratio": 0.7393501805054151
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f005c421-f577-4b25-ad59-4787a7f0e768_xt3.jpeg?auto=compress,format&rect=0,0,1200,1600&w=1024&h=1365",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				}
 			]
 		}

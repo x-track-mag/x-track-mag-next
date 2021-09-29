@@ -171,19 +171,16 @@
 		{
 			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
 			"tags": [],
-			"publication_date": "2021-09-29T14:10:21+0000",
+			"publication_date": "2021-09-29T14:50:27+0000",
 			"title": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track",
 			"subtitle": "",
 			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/421848bb-4342-4093-873d-d7ae08a417ce_braqueurs-la-nouvelle-serie-evenement-de-netflix-france-sortira-sur-les-ecrans-ce-vendredi-24-septembre-avec-le-passage-d-un-son-made-in-besancon-photo-er-dr-1632422642.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1143,
-				"height": 821,
-				"ratio": 1.392204628501827
+			"image": null,
+			"video_loop": {
+				"name": "braqueurs-la-serie-bande-annonce-officielle-vf-netflix-france_2.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/e11f29fb-19fd-4c2a-8a16-9c06d7a152a1_braqueurs-la-serie-bande-annonce-officielle-vf-netflix-france_2.mp4",
+				"size": "1300211"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Camille Laurens",
 			"internal_link": null,
