@@ -1,0 +1,423 @@
+{
+	"uid": "braqueurs-la-serie-une-musique-fracassante-signee",
+	"tags": [],
+	"publication_date": "2021-09-29T11:12:03+0000",
+	"title": "Braqueurs la série, une musique fracassante signée X-Track",
+	"subtitle": "",
+	"text_color": "white",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/04266013-cb9e-4f40-8d10-6998b8f95418_Dobermann-bientot-une-suite.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 1280,
+		"height": 670,
+		"ratio": 1.9104477611940298
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Dobermann. 1997. Véritable claque cinématographique tant par le couple sulfureux Bellucci-Cassel, que le style visionnaire du film qui saisit par sa puissance visuelle et l'adrénaline qu’il insuffle aux spectateurs. Mélangez un psychopathe sadique (Tchéky Karyo, magistral), une bande de criminels, des fourgons blindés, l’énergie démente de Jan Kounen et vous obtiendrez un film trash-glam culte parfait. Parfait certes, mais à mieux y regarder, chaque scène, chaque action, chaque minute du film est portée par une musique organique qui colle avec brio à l’âme des personnages. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/49f5832b-843b-412e-a6ba-142dd518baa9_Stud4XTBra01-IMG_3940.jpg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1500,
+						"height": 1125
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Protagoniste phare dans la construction d’un film, la musique est un acteur aussi majeur que les héros du long-métrage. Pleinement conscients de l’impact de la musique, les réalisateurs en confient les clés à des équipes dont le style correspond à leur narration. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Fort de ses succès avec la Terre et le Sang et Sentinelle (Deux longs métrages d’action et de coup de poings purs commandés par la plateforme mondiale Netflix). Julien Leclercq réitère la collaboration, en confiant à XTrack, la musique de Braqueurs la série : 6 épisodes à habiller, 4 mois de travail intensif, X-track, nous livre les secrets de ce métier, à 180 BPM ! Un quatuor complémentaire, entre Marie Prouvé, arrivée dès ses 19 ans pour un premier stage, qui n’a jamais vraiment quitté le navire, Charles Monnet, compositeur, passionné de machines, et le duo de toujours François Roy et Jean-Jacques Hertz, à la tête du navire. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Rencontre à l’occasion de la sortie sur Netflix.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Bonjour à vous ! Enchantée. Pour commencer, les bases ! Et même si cela vous semble évident, quelle est la différence entre l’ingénieur du son et le compositeur ?",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Marie : L’un dans l’autre, il y a beaucoup de complémentarités. Pour mieux comprendre l’aspect artistique de la composition, avoir l’approche technique des outils est un plus. Composer demande de faire appel à son imaginaire, à ses références musicales, il y a tout un pan créatif jouissif … ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "François : Aujourd’hui, les métiers de producteur/ compositeur demandent des qualités particulières dont celui d’avoir une patte et une identité forte. Pour cela, les logiciels et la technique du son sont primordiaux, on a évolué avec depuis des années !",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Charles, tu as travaillé à Shangaï dans la publicité notamment. L’approche du métier était-elle différente ?",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Charles : Non, car les chinois font confiance aux occidentaux. Il y a le même savoir-faire, on a souvent carte blanche sur les productions, et il y a beaucoup de collaborations à l’international, alors que les français aiment bien travailler … avec les français ! ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Netflix permet-elle cette mondialisation des productions ?",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "François : Tout à fait ! On peut voir des productions turques, israéliennes, suédoises ou américaines diffusées dans le monde entier, avant Netflix, une partie de ces gens là n’avaient pas accès au marché mondial. Pour nous, c’est top, car Netflix se nourrit beaucoup de l’industrie cinématographique française, c’est un nouveau monde très ouvert !",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Et comment on vient à faire des compositions de films ? ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "François : C’est dans notre ADN ! Charles vient d’une famille d'artistes, avec beaucoup de metteurs en scène, et de producteurs, moi également. Jean-Jacques et Marie sont nés dans le bain artistique, avec cette sensibilité et l’envie de produire au sens ou les anglo-saxons l’entendent. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "La reconnaissance du secteur est en explosion. Avec les Hans Zimmer, les grands noms du cinéma, on se rend de plus en plus compte du rôle important de la musique ... ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Jean-Jacques : Les réalisateurs qui viennent vers toi car ils apprécient ton travail. Pour Braqueurs, Julien savait exactement ce qu’il voulait, c’est pour ça qu’il a fait appel à nous.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Francois : D’ailleurs l'anecdote est amusante ! Il nous a découvert le jour de son bac, il n’y a pas été, il a préféré aller voir Dobermann, qui sortait le jour même. Le cinéma peut changer nos vies. Julien n’a pas eu son bac, il est numéro un sur Netflix.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "La signature X-Track c’est laquelle ?",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "François : la musique est le prolongement de la narration du film, et des sentiments que le réalisateur veut faire passer au travers de ses personnages et  ses images, nous sommes 100% connectés, 100% synchro, au service du film.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Et de manière pratique, comment fonctionne l’équipe sur un projet de cette ampleur ?",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "François : Chacun travaille sur des thèmes différents. Puis on mixe nos énergies et nos créativités. Charles a habillé un des personnages principaux qui a sa propre musique. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Pareil que dans Twins Peaks ou chaque héros a son identité sonore ?",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Charles : Exactement. Dans les séries, c’est très pratique d’avoir cette répétition qui replace le protagoniste dans l'imaginaire du spectateur. Une thématique récurrente pour chaque personnalité, cette méthodologie est très prisée. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Et pour le style “braqueurs”, j’imagine que votre référentiel de sons n’est pas le même que s'il s'agissait d’un film d’amour ? ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "François : On est fans de films d’actions ! On va piocher dans nos bases, et on créé notre propre bibliothèque pour être proche de sonorités brutes, organiques, violentes. 4 mois et demi en studio avec cet univers. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Et lorsque l’on découvre son œuvre après 4 mois, quelle est l’émotion ? ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Jean-Jacques : Intense ! Libération ! Et satisfaction ! Mais pour le recul, il faut attendre quelques mois. Personnellement, plus d’un an et demi après, un dimanche soir dans le canapé, je peux vraiment me dire ce qu’il en est.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Marie : De la fierté après quatre mois et demi plongée littéralement la tête dedans. Aujourd'hui, la série fait partie intégrante de ma vie ! ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Et maintenant ?",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Jean-Jacques : On a toujours envie de garder cet alliance d’orchestre et d’électronique ! Mais on aime aussi beaucoup les monoblocs guitaristiques de Neil Young pour Jarmusch, pourquoi pas s’amuser dans un style très niché, comme par exemple un film avec uniquement des percussions. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Neil Young, et dans votre bibliothèque idéale, on trouve qui d'autre ?  ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Charles : Cliff Martinez ! Direct ! ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "François : David Arnold, Ludwig Goransson, John Powell, Phil Glass, Badalamenti, Danny Elfman, ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Marie : Alexandre Desplat, David Holmes, Maurice Jarre, Hans Zimmer",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Jean-Jacques : Ryuichi Sakamoto, Clint Mansell, Thomas Newman, Jon Brion",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Francois : Julien Leclercq nous donne la possibilité de prendre un maximum de plaisir, avec en plus, le challenge de se dire que des dizaines de millions de spectateurs vont nous écouter, et qu’on travaille pour le monde entier avec Netflix. On est le bras musical de Julien, qui est devenu un acteur du cinéma international… ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Jean-Jacques : Grâce à ces films qui sont très couillus, terrestres. On a creusé dans cet univers, puis on travaille sur une palette chromatique en rapport avec la couleur initiale du film. On doit proposer du contenu nouveau, différent des autres séries ! Ce métier est un vrai défi au jour le jour … ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Charles: Surtout que jusqu’au dernier moment le réalisateur peut changer d’avis, et supprimer des pistes, des sons, jusqu'à la dernière minute, on ne sait pas le choix final … ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "On a hâte de voir ça ! Braqueurs sort le 24 Septembre ! Musique Maestro … ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": " ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Jean-Jacques et François ont créé, entre autres, les musiques originales de Vibroboy, Dobermann, Blueberry, 99 Francs, Chrysalis, l’Assaut, Braqueurs le film, Lukas, La Terre et le Sang, Sentinelle, et Braqueurs la série",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": " ",
+					"spans": []
+				}
+			]
+		}
+	],
+	"description": "Dobermann. 1997. Véritable claque cinématographique tant par le couple sulfureux Bellucci-Cassel, que le style visionnaire du film qui saisit par sa puissance visuelle et l'adrénaline qu’il insuffle aux spectateurs. Mélangez un psychopathe sadique (Tchéky Karyo, magistral), une bande de criminels, des fourgons blindés, l’énergie démente de Jan Kounen et vous obtiendrez un film trash-glam culte parfait. Parfait certes, mais à mieux y regarder, chaque scène, chaque action, chaque minute du film est portée par une musique organique qui colle avec brio à l’âme des personnages. "
+}
