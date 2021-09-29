@@ -20,16 +20,16 @@
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
 		{
-			"position": 3,
-			"uid": "yayayayoutube-ep-3-ophelie-summer"
-		},
-		{
 			"position": 4,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
 			"position": 5,
 			"uid": "x-track-studio---biaziouka"
+		},
+		{
+			"position": 5,
+			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		},
 		{
 			"position": 6,
@@ -189,24 +189,25 @@
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
 		},
 		{
-			"uid": "yayayayoutube-ep-3-ophelie-summer",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-09-29T15:18:54+0000",
-			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
-			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "EDIT_INSTA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
-				"size": "1730419"
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
+			"tags": [],
+			"publication_date": "2021-09-11T21:18:20+0000",
+			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
+			"subtitle": "",
+			"text_color": "green",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1440,
+				"height": 900,
+				"ratio": 1.6
 			},
-			"template": "3: Image + Titre",
-			"author": null,
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
+			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
 			"uid": "les-klon-hydre-pop-a-sept-tetes",
@@ -233,24 +234,24 @@
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
-			"uid": "x-track-studio---biaziouka",
+			"uid": "yayayayoutube-ep-3-ophelie-summer",
 			"tags": [
-				"music"
+				"article"
 			],
-			"publication_date": "2021-07-03T07:48:37+0000",
-			"title": "X-Track Studio - Biaziouka ",
-			"subtitle": "",
+			"publication_date": "2021-09-29T15:18:54+0000",
+			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
+			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
+				"name": "EDIT_INSTA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
+				"size": "1730419"
 			},
 			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
+			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
 			"uid": "2020-is-the-year",
@@ -580,25 +581,24 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
-			"tags": [],
-			"publication_date": "2021-09-11T21:18:20+0000",
-			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
+			"uid": "x-track-studio---biaziouka",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-07-03T07:48:37+0000",
+			"title": "X-Track Studio - Biaziouka ",
 			"subtitle": "",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1440,
-				"height": 900,
-				"ratio": 1.6
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
 			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
+			"template": "3: Image + Titre",
+			"author": null,
 			"internal_link": null,
-			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
+			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
 		},
 		{
 			"uid": "polycool",
