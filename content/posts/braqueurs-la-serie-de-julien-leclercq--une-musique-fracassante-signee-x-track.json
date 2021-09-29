@@ -1,7 +1,7 @@
 {
 	"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
 	"tags": [],
-	"publication_date": "2021-09-29T14:02:23+0000",
+	"publication_date": "2021-09-29T14:07:09+0000",
 	"title": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track",
 	"subtitle": "",
 	"text_color": "white",
@@ -455,6 +455,11 @@
 				{
 					"type": "paragraph",
 					"text": "Jean-Jacques et François ont créé, entre autres, les musiques originales de Vibroboy, Dobermann, Blueberry, 99 Francs, Chrysalis, l’Assaut, Braqueurs le film, Lukas, La Terre et le Sang, Sentinelle, et Braqueurs la série",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "https://sounds.x-track.net/fr/fiction",
 					"spans": []
 				},
 				{
