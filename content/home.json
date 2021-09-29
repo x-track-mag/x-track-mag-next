@@ -21,7 +21,7 @@
 		},
 		{
 			"position": 4,
-			"uid": "les-klon-hydre-pop-a-sept-tetes"
+			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		},
 		{
 			"position": 5,
@@ -29,7 +29,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "yayayayoutube-ep-3-ophelie-summer"
+			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
 			"position": 6,
@@ -210,6 +210,26 @@
 			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
+			"uid": "yayayayoutube-ep-3-ophelie-summer",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-09-29T15:18:54+0000",
+			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
+			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "EDIT_INSTA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
+				"size": "1730419"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
+		},
+		{
 			"uid": "les-klon-hydre-pop-a-sept-tetes",
 			"tags": [
 				"article",
@@ -232,26 +252,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
-		},
-		{
-			"uid": "yayayayoutube-ep-3-ophelie-summer",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-09-29T15:18:54+0000",
-			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
-			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "EDIT_INSTA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
-				"size": "1730419"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
 			"uid": "2020-is-the-year",
