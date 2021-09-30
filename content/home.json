@@ -25,18 +25,18 @@
 		},
 		{
 			"position": 5,
-			"uid": "x-track-studio---biaziouka"
-		},
-		{
-			"position": 5,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
 			"position": 6,
-			"uid": "2020-is-the-year"
+			"uid": "x-track-studio---biaziouka"
 		},
 		{
 			"position": 7,
+			"uid": "2020-is-the-year"
+		},
+		{
+			"position": 8,
 			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
@@ -254,6 +254,26 @@
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
+			"uid": "x-track-studio---biaziouka",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-07-03T07:48:37+0000",
+			"title": "X-Track Studio - Biaziouka ",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
+		},
+		{
 			"uid": "2020-is-the-year",
 			"tags": [
 				"article"
@@ -271,24 +291,6 @@
 				"type": "page"
 			},
 			"description": ""
-		},
-		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
-			"tags": [],
-			"publication_date": "2021-07-03T07:49:51+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
 			"uid": "feel-good",
@@ -581,24 +583,22 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "x-track-studio---biaziouka",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-07-03T07:48:37+0000",
-			"title": "X-Track Studio - Biaziouka ",
-			"subtitle": "",
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
+			"tags": [],
+			"publication_date": "2021-07-03T07:49:51+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
 			},
 			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
 			"uid": "polycool",
