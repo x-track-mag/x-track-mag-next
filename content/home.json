@@ -12,99 +12,99 @@
 			"uid": "bestxtrackoftheweek"
 		},
 		{
-			"position": 3,
+			"position": 2,
 			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		},
 		{
-			"position": 5,
+			"position": 3,
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
 		{
-			"position": 7,
+			"position": 4,
 			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
 		},
 		{
-			"position": 9,
+			"position": 5,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
-			"position": 11,
+			"position": 6,
 			"uid": "x-track-studio---biaziouka"
 		},
 		{
-			"position": 13,
+			"position": 7,
 			"uid": "2020-is-the-year"
 		},
 		{
-			"position": 15,
+			"position": 8,
 			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
-			"position": 17,
+			"position": 9,
 			"uid": "feel-good"
 		},
 		{
-			"position": 19,
+			"position": 10,
 			"uid": "nola-cherri"
 		},
 		{
-			"position": 21,
+			"position": 11,
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		},
 		{
-			"position": 23,
+			"position": 12,
 			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
-			"position": 25,
+			"position": 13,
 			"uid": "lhysterie"
 		},
 		{
-			"position": 27,
+			"position": 14,
 			"uid": "new-romance"
 		},
 		{
-			"position": 29,
+			"position": 15,
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
 		},
 		{
-			"position": 31,
+			"position": 16,
 			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
 		},
 		{
-			"position": 33,
+			"position": 17,
 			"uid": "in-love"
 		},
 		{
-			"position": 35,
+			"position": 18,
 			"uid": "polycool"
 		},
 		{
-			"position": 37,
+			"position": 19,
 			"uid": "les-apparences-trompeuses-du-pretty-privilege"
 		},
 		{
-			"position": 39,
+			"position": 20,
 			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
-			"position": 41,
+			"position": 21,
 			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
 		},
 		{
-			"position": 43,
+			"position": 22,
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
 		},
 		{
-			"position": 45,
+			"position": 23,
 			"uid": "page"
 		},
 		{
-			"position": 47,
+			"position": 24,
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
 		},
 		{
-			"position": 49,
+			"position": 25,
 			"uid": "martin-parr"
 		}
 	],
@@ -418,29 +418,6 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T22:52:14+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
-		},
-		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
@@ -659,6 +636,29 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "La mode éthique : classe ou classiste ?                              "
+		},
+		{
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
