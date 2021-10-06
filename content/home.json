@@ -297,17 +297,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-08-27T11:26:17+0000",
+			"publication_date": "2021-10-06T07:40:08+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ef06f514-f9bf-41be-bfa4-762f07303b8c_Hadiya-George-.jpg?auto=compress,format",
-				"alt": "Hadiya George",
+				"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format",
+				"alt": "PawPaw Rod",
 				"copyright": null,
-				"width": 2050,
-				"height": 1148,
-				"ratio": 1.7857142857142858
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

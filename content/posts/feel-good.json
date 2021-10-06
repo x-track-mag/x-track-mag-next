@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-08-27T11:26:17+0000",
+	"publication_date": "2021-10-06T07:40:08+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/ef06f514-f9bf-41be-bfa4-762f07303b8c_Hadiya-George-.jpg?auto=compress,format",
-		"alt": "Hadiya George",
+		"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format",
+		"alt": "PawPaw Rod",
 		"copyright": null,
-		"width": 2050,
-		"height": 1148,
-		"ratio": 1.7857142857142858
+		"width": 3000,
+		"height": 3000,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "PawPaw Rod, Jungle, Hadiya George x Godmode x Smash Brothers, Terry Presume, Lass x Kazy Lambist, Hope Tala, Jorja Smith x GuyltyBeatz, Crayon x Bella Shmurda, Juls x Niniola,  Diplo x Damian Lazarus x Jungle, A$AP Rocky, Blundetto x Voilaaa, Tekno, Juls x Twich 4EVA x Quamins MP, Flalana x Oxlade x Spax, Sault, Tierra Whack, Stevedreez, Busy P x Haich Ber Na x Shay Lia, Michael Brun x Shay Lia, Emotional Oranges x Channel Tres, Gabriels, Buju Banton X Pharrell Williams, Matt Martians, DijahSB & +++ Enjoy",
+					"text": "PawPaw Rod, Terry Presume, Muzi x Kaytranada,Moanday x Gomz, Lass x Kazy Lambist, Crayon x Bella Shmurda, Juls x Niniola, Jungle, Diplo x Damian Lazarus x Jungle, A$AP Rocky,  Yebba, Gabriels, Blundetto x Voilaaa, Tekno, Juls x Twich 4EVA x Quamina Mp, Falan x Oxlade x Spax Sault, Tierra Whack, Busy P x Haich Ber Na x Shay Lia, Stevedreez, Jungle, Emotional Oranges x channel Tres, Michael Brun x Shay Lia, Hadya Geaorges x Godmode x Smash Brothers & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/18e47fb0-7254-4e60-9a8b-937192fcc48c_Tierra+Whack.jpeg?auto=compress,format&rect=0,0,1556,1556&w=1024&h=1024",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/ccd3f47c-69d2-4cd7-b59a-bdd1ae863e29_Tierra+Whack.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/382197c9-c500-4268-bb69-fa21f9959d66_Pawpaw+Rod.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "PawPaw Rod",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/48bc780d-d2b7-4251-9db5-7d1ed1acb4f2_Jorja+Smith+.jpg?auto=compress,format&rect=0,0,1500,2000&w=1024&h=1365",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/5bfe1b9d-8c4a-42b1-9a6e-c7e3f1569459_Diplo.jpg?auto=compress,format&rect=0,0,2560,3413&w=1024&h=1365",
+					"alt": "Diplo",
 					"copyright": null,
 					"width": 1024,
 					"height": 1365,
 					"ratio": 0.7501831501831502
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/043c6a61-e7b9-4696-aa25-a6d4ad68b90e_Shay+Lia+.jpg?auto=compress,format&rect=0,0,1280,1600&w=1024&h=1280",
+					"alt": "Shay Lia",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -63,24 +63,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ba6d0027-3772-4102-a1a8-8c3b6917ba1c_Hope+Tala.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/ef06f514-f9bf-41be-bfa4-762f07303b8c_Hadiya-George-.jpg?auto=compress,format&rect=0,0,2050,1147&w=1024&h=573",
+					"alt": "Hadiya George",
+					"copyright": null,
+					"width": 1024,
+					"height": 573,
+					"ratio": 1.787085514834206
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/7a5dd449-2866-4ef0-acb7-a6abe479474b_Falana+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/71bcd039-c162-48c5-ade7-4aac51fe43f4_Falana.jpg?auto=compress,format&rect=0,0,918,1042&w=1024&h=1162",
-					"alt": "Falana",
-					"copyright": null,
-					"width": 1024,
-					"height": 1162,
-					"ratio": 0.8812392426850258
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/cfa434b4-647c-4f05-896d-6b88f6ef9887_Shay+Lia.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/284fa92b-89bc-44c5-bc07-a3941c0a94da_Gabriels.jpg?auto=compress,format&rect=0,0,1945,1945&w=1024&h=1024",
+					"alt": "Gabriels",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
