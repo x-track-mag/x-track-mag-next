@@ -170,17 +170,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-10-03T08:36:13+0000",
+			"publication_date": "2021-10-10T08:19:12+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/36b6b791-b143-4b52-9ed5-833ad1d5cdf5_Kali-Uchis+x+SZA.jpg?auto=compress,format",
-				"alt": "Kali-Uchis x SZA",
+				"url": "https://images.prismic.io/x-track-mag/f504efa3-8c50-4483-9ea4-5c6327025fdc_Rico+Nasty.jpg?auto=compress,format&rect=0,0,1920,1050&w=1920&h=1050",
+				"alt": "Rico Nasty",
 				"copyright": null,
-				"width": 1875,
-				"height": 1875,
-				"ratio": 1
+				"width": 1920,
+				"height": 1050,
+				"ratio": 1.8285714285714285
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

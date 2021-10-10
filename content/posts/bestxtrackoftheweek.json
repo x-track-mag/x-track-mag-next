@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-10-03T08:36:13+0000",
+	"publication_date": "2021-10-10T08:19:12+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/36b6b791-b143-4b52-9ed5-833ad1d5cdf5_Kali-Uchis+x+SZA.jpg?auto=compress,format",
-		"alt": "Kali-Uchis x SZA",
+		"url": "https://images.prismic.io/x-track-mag/f504efa3-8c50-4483-9ea4-5c6327025fdc_Rico+Nasty.jpg?auto=compress,format&rect=0,0,1920,1050&w=1920&h=1050",
+		"alt": "Rico Nasty",
 		"copyright": null,
-		"width": 1875,
-		"height": 1875,
-		"ratio": 1
+		"width": 1920,
+		"height": 1050,
+		"ratio": 1.8285714285714285
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Seven LC, Skip Marley x Popcaan,  Muzi x Deltino Guerreiro, Jmani, Mahalia x AJ Tracey, Quakers x Sampa the Great, Leisure, Malik Djoudi x Lala &ce, Birds on Fire aka Rosemary Standley x Dom La Nena, Yellow Days, Silas Short, Kali Uchis X SZA, Facesoul, cktrl x Mereba, Tresor & ++++ Enjoy",
+					"text": "Juls x Agent Sasco (assassin) x Wizkid x Jael, Jay Moore x Runtown,  Leisure, Pomplamoose x Moby, IDK x The Neptunes x Swae Lee x Rico Nasty, Zinoleesky, Bellah, Darieus x Benny Sings, Headie One, PapaRaZzle, Masego x Big Boi x JID, Egar Boi, James Blake x SZA, Moglii x Novaa & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -44,28 +44,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/fc664c61-b9be-4f22-a293-47fe09355b0d_Facesoul+.jpg?auto=compress,format&rect=0,0,1960,1962&w=1024&h=1025",
-					"alt": "Facesoul ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/1e3dfd72-4f0d-4267-b750-bb44b7b51421_CKTRL+x+Mereba.png?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "CKTRL x Mereba",
+					"url": "https://images.prismic.io/x-track-mag/a5fcee17-7e8a-41b3-bb07-e0bc23e87b82_Bellah.jpg?auto=compress,format&rect=0,0,1277,1277&w=1024&h=1024",
+					"alt": "Bellah",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a797496d-ba96-4c83-b13c-09831731fa6d_Seven+LC.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Seven LC",
+					"url": "https://images.prismic.io/x-track-mag/96444de6-77ee-4ab0-85ac-f1280f2aa6e3_Moglii.jpg?auto=compress,format&rect=0,0,750,750&w=1024&h=1024",
+					"alt": "Moglii",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/b539104f-0b0f-48dc-9901-2769007c43db_SZA.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
+					"alt": "SZA",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
@@ -73,28 +73,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/64766ced-ccd0-49d9-a625-a3aea4ee1339_Birds+on+Fire.jpg?auto=compress,format&rect=0,0,1082,1440&w=1024&h=1363",
-					"alt": "Birds on Fire aka Rosemary Standley x Dom La Nena",
+					"url": "https://images.prismic.io/x-track-mag/c9f4a921-7df1-4373-b71b-320cd925bf62_Pomplamoose.jpg?auto=compress,format&rect=0,0,2560,1440&w=1024&h=576",
+					"alt": "Pomplamoose",
 					"copyright": null,
 					"width": 1024,
-					"height": 1363,
-					"ratio": 0.7512839325018342
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/19cea3aa-8fbb-45cd-8954-73b00e90da46_Mahalia-+x+AJ+Tracey+.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
-					"alt": "Mahalia x AJ Tracey",
+					"url": "https://images.prismic.io/x-track-mag/2ecc836c-135d-4156-a2c4-59d0030b068a_Darius.jpg?auto=compress,format&rect=0,0,732,713&w=1024&h=997",
+					"alt": "Darius",
+					"copyright": null,
+					"width": 1024,
+					"height": 997,
+					"ratio": 1.0270812437311936
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/dc81bd87-989b-42f5-ab63-281d11b29518_Novaa.jpg?auto=compress,format&rect=0,0,512,512&w=1024&h=1024",
+					"alt": "Novaa",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ca5aa18d-7080-44dc-bb7e-6be7240d6fcb_Silas+Short.jpg?auto=compress,format&rect=0,0,2048,1468&w=1024&h=734",
-					"alt": "Silas Short",
-					"copyright": null,
-					"width": 1024,
-					"height": 734,
-					"ratio": 1.3950953678474114
 				}
 			]
 		},
@@ -102,16 +102,16 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=b35470a410b74b34",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=dcdf5d57d4954576",
 					"title": "Best ”XTrack“ of the Week "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-NpXmxZ7Cyr3M0",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-NpXmxNWuyr3M0",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
-					"title": "Best ”XTrack“ of the Week 🌍"
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
