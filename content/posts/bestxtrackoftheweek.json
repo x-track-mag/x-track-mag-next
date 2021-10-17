@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-10-17T07:49:02+0000",
+	"publication_date": "2021-10-17T07:54:11+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -60,12 +60,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f26bd4c3-9f3d-4122-806c-29db9ccedb46_Tiwa+Savage-.jpg?auto=compress,format&rect=0,0,876,1024&w=1024&h=1197",
+					"url": "https://images.prismic.io/x-track-mag/06952e56-c30d-4690-8452-b6148b346b09_tiwa-savage.jpg?auto=compress,format&rect=0,0,500,570&w=1024&h=1167",
 					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 1197,
-					"ratio": 0.8554720133667502
+					"height": 1167,
+					"ratio": 0.8774635818337618
 				}
 			]
 		},
