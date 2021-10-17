@@ -170,17 +170,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-10-10T10:04:16+0000",
+			"publication_date": "2021-10-17T07:23:44+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "white",
+			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f504efa3-8c50-4483-9ea4-5c6327025fdc_Rico+Nasty.jpg?auto=compress,format&rect=0,0,1920,1050&w=1920&h=1050",
-				"alt": "Rico Nasty",
+				"url": "https://images.prismic.io/x-track-mag/f8662582-42f6-4ddb-a798-4dd6188759b4_Stromae.jpg?auto=compress,format",
+				"alt": "Stromae",
 				"copyright": null,
-				"width": 1920,
-				"height": 1050,
-				"ratio": 1.8285714285714285
+				"width": 1945,
+				"height": 1945,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
