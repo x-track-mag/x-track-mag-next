@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-10-17T07:54:11+0000",
+	"publication_date": "2021-10-24T08:59:37+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f8662582-42f6-4ddb-a798-4dd6188759b4_Stromae.jpg?auto=compress,format",
-		"alt": "Stromae",
+		"url": "https://images.prismic.io/x-track-mag/a67fb01a-871d-485f-8cff-2d28fb2c49d6_The+Kount.jpg?auto=compress,format",
+		"alt": "The Kount",
 		"copyright": null,
-		"width": 1945,
-		"height": 1945,
+		"width": 2100,
+		"height": 2100,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stromae, Patchworks x Pat Kalla x Emile Omar, Duran Jones & the Indications x  Aaron Frazer, Winston Surfshirt x Young Franco, Juls x Sauti Sol, Muzi, MzVee x Tiwa Savage, Teni x Pheelz, Blundetto, Tems, Serpentwithfeet, Michael Kiwanuka, Boylife, Facesoul & ++++ Enjoy",
+					"text": "Wet x Blood Orange, Ric Wilson x Yellow Days, Cruel Youth, Simi, Miss Lafamilia x Popcaan, Hope Tala, Egar Boi, Timaya x Buju,  Ria Sean, The Kount x Marc Rebillet x Moods, The O'My's, Pomplamoose, Nate Husser x Junia T, Joy Crookes, Nola Cherri, Fana Hues x Mereba, Lana Del Rey  & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -44,28 +44,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/af36ce5c-8017-401a-a2e9-c9082eb57be4_Tems.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/cfc1fd98-46d1-4df6-8f52-d742a7c8c873_Ria+Sean.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
+					"alt": "Ria Sean",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/573702b8-db34-49cf-bc9f-449fa78384a1_Michael+Kiwanuka.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Michael Kiwanuka",
+					"url": "https://images.prismic.io/x-track-mag/b286ac75-e02a-4779-a2f3-bf0c1bf1bbd1_Blood+Orange.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Blood Orange",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/06952e56-c30d-4690-8452-b6148b346b09_tiwa-savage.jpg?auto=compress,format&rect=0,0,500,570&w=1024&h=1167",
-					"alt": "Tiwa Savage",
+					"url": "https://images.prismic.io/x-track-mag/645cb563-813f-4820-a3b1-13f5bce60910_Joy+Crookes.jpg?auto=compress,format&rect=0,0,1536,2048&w=1024&h=1365",
+					"alt": "Joy Crookes",
 					"copyright": null,
 					"width": 1024,
-					"height": 1167,
-					"ratio": 0.8774635818337618
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				}
 			]
 		},
@@ -73,28 +73,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/68015e5d-d658-4c05-9f2f-0c5ea79a8c8f_Teni+.jpg?auto=compress,format&rect=0,0,800,800&w=1024&h=1024",
-					"alt": "Teni",
+					"url": "https://images.prismic.io/x-track-mag/de411f7b-5429-412a-93d2-28085409a93b_Fana+Hues.jpg?auto=compress,format&rect=0,0,1666,1666&w=1024&h=1024",
+					"alt": "Fana Hues",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2f9e73a2-cc34-4085-b156-ea1afab3e63f_Brassens.jpg?auto=compress,format&rect=0,0,1860,1860&w=1024&h=1024",
-					"alt": "Brassens",
+					"url": "https://images.prismic.io/x-track-mag/c2f041c8-b11a-4048-a19c-b18f971d9ea5_Nate+Husser.jpeg?auto=compress,format&rect=0,0,667,1000&w=1024&h=1535",
+					"alt": "Nate Husser",
+					"copyright": null,
+					"width": 1024,
+					"height": 1535,
+					"ratio": 0.6671009771986971
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/3c13125d-3db0-4ff5-bad9-8c3625454224_Mereba+.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Mereba ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5f34ff5e-5575-421d-8681-98c1f210eed4_MzVee+.jpg?auto=compress,format&rect=0,0,719,895&w=1024&h=1275",
-					"alt": "MzVee",
-					"copyright": null,
-					"width": 1024,
-					"height": 1275,
-					"ratio": 0.8031372549019608
 				}
 			]
 		},
@@ -102,11 +102,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=125dc068985b402c",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=315ab640d65b40c9",
 					"title": "Best ”XTrack“ of the Week "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-jV89XKLCBAyYV",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxbloeJTlAoV4",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

@@ -170,16 +170,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-10-17T07:54:11+0000",
+			"publication_date": "2021-10-24T08:59:37+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f8662582-42f6-4ddb-a798-4dd6188759b4_Stromae.jpg?auto=compress,format",
-				"alt": "Stromae",
+				"url": "https://images.prismic.io/x-track-mag/a67fb01a-871d-485f-8cff-2d28fb2c49d6_The+Kount.jpg?auto=compress,format",
+				"alt": "The Kount",
 				"copyright": null,
-				"width": 1945,
-				"height": 1945,
+				"width": 2100,
+				"height": 2100,
 				"ratio": 1
 			},
 			"video_loop": null,
