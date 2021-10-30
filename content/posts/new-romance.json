@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-10-06T08:10:53+0000",
+	"publication_date": "2021-10-30T17:48:29+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c15c421e-aaf1-47e4-82ee-c8f79e1f5e30_Little+Simz.+++.jpg?auto=compress,format",
-		"alt": "Little Simz",
+		"url": "https://images.prismic.io/x-track-mag/dba6520a-55aa-4ea9-ac0d-8da637540c94_Drake.jpg?auto=compress,format",
+		"alt": "Drake",
 		"copyright": null,
-		"width": 1920,
-		"height": 2583,
-		"ratio": 0.743321718931475
+		"width": 3000,
+		"height": 3000,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Little Simz, Childish Gambino x Brittany Howard, José Gonzalez, Drake x Tems, Michael Brun x Shay Lia, Sault, Metronomy x Spill Tab, Hope Tala, Greentea Peng, Syd, Tirzah, Leon Bridges x Ink, Tank & The Bangas x Duckwrth x Christian Scott aTunde Adjuah, Chiiild, Khruangbin  & +++ enjoy",
+					"text": "Childish Gambino x Brittany Howard, Drake x Tems, Darius x Benny Sings, José Gonzalez, Michael Brun x Shay Lia, Patchworks x Pat Kalla, Cruel Youth, Roseaux x Blick Blassy, Sault, Syd, Emotional Oranges x Biig Piig, Jungle, Babeheaven, Chiiild, Hope Tala, Greentea Peng, Leisure, Vanjess, Arlo Parks & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f8028d56-bf3f-470a-90d0-c1507534f082_Spill+Tab.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
-					"alt": "Spill Tab",
-					"copyright": null,
-					"width": 1024,
-					"height": 650,
-					"ratio": 1.5753846153846154
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a745936b-f93d-4b5d-88dd-547bbb12157e_khruangbin_.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
-					"alt": "khruangbin",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/4c362f81-8652-4a2b-aad6-ceba9e559e43_Leon+Bridges.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Leon Bridges",
+					"url": "https://images.prismic.io/x-track-mag/af36ce5c-8017-401a-a2e9-c9082eb57be4_Tems.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/2f9e73a2-cc34-4085-b156-ea1afab3e63f_Brassens.jpg?auto=compress,format&rect=0,0,1860,1860&w=1024&h=1024",
+					"alt": "Brassens",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/696c553f-3d80-4506-81d1-e978256d2f23_Cruel+Youth+.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
+					"alt": "Cruel Youth",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -71,12 +71,12 @@
 					"ratio": 1.665040650406504
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/af36ce5c-8017-401a-a2e9-c9082eb57be4_Tems.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/b3832838-d439-48ee-a9b5-5fde6fde1ddb_Biig+Piig+.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "Biig Piig ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/043c6a61-e7b9-4696-aa25-a6d4ad68b90e_Shay+Lia+.jpg?auto=compress,format&rect=0,0,1280,1600&w=1024&h=1280",
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=5c55cce2fb3f4b3f",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=57aba265f8364029",
 					"title": "New romance"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-GgA51bmT2GKqr",
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-NpXmx5GIyr3M0",
 					"title": "New romance par XTrack"
 				},
 				{

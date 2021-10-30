@@ -446,17 +446,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-10-06T08:10:53+0000",
+			"publication_date": "2021-10-30T17:48:29+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill Vibes",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c15c421e-aaf1-47e4-82ee-c8f79e1f5e30_Little+Simz.+++.jpg?auto=compress,format",
-				"alt": "Little Simz",
+				"url": "https://images.prismic.io/x-track-mag/dba6520a-55aa-4ea9-ac0d-8da637540c94_Drake.jpg?auto=compress,format",
+				"alt": "Drake",
 				"copyright": null,
-				"width": 1920,
-				"height": 2583,
-				"ratio": 0.743321718931475
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
