@@ -170,16 +170,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-10-24T08:59:37+0000",
+			"publication_date": "2021-10-30T17:08:22+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a67fb01a-871d-485f-8cff-2d28fb2c49d6_The+Kount.jpg?auto=compress,format",
-				"alt": "The Kount",
+				"url": "https://images.prismic.io/x-track-mag/c29e4c99-6398-4077-b34d-2688ae3270ff_Amine%CC%81.jpg?auto=compress,format",
+				"alt": "Aminé",
 				"copyright": null,
-				"width": 2100,
-				"height": 2100,
+				"width": 1500,
+				"height": 1500,
 				"ratio": 1
 			},
 			"video_loop": null,

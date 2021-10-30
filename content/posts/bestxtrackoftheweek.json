@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-10-24T08:59:37+0000",
+	"publication_date": "2021-10-30T17:08:22+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/a67fb01a-871d-485f-8cff-2d28fb2c49d6_The+Kount.jpg?auto=compress,format",
-		"alt": "The Kount",
+		"url": "https://images.prismic.io/x-track-mag/c29e4c99-6398-4077-b34d-2688ae3270ff_Amine%CC%81.jpg?auto=compress,format",
+		"alt": "Aminé",
 		"copyright": null,
-		"width": 2100,
-		"height": 2100,
+		"width": 1500,
+		"height": 1500,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -30,12 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "Wet x Blood Orange, Ric Wilson x Yellow Days, Cruel Youth, Simi, Miss Lafamilia x Popcaan, Hope Tala, Egar Boi, Timaya x Buju,  Ria Sean, The Kount x Marc Rebillet x Moods, The O'My's, Pomplamoose, Nate Husser x Junia T, Joy Crookes, Nola Cherri, Fana Hues x Mereba, Lana Del Rey  & ++++ Enjoy",
+					"text": "Swindle x Greentea Peng, Juls x Fireboy DML, The Cavemen, Shygirl, Aminé, Lordkez x Shekhinah, Dexter,  Muzi x Setso, PaBrymo x Teni, Reekado Banks, Moveek, CKay x Franglish, Buju x The Cavemen, Benee, Holy Hive, Flowerlove, Sam Opoku, Blundetto & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -44,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/cfc1fd98-46d1-4df6-8f52-d742a7c8c873_Ria+Sean.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
-					"alt": "Ria Sean",
+					"url": "https://images.prismic.io/x-track-mag/9eaa93c4-1bea-427e-8f49-21d5a7db6efc_Flowerovlove.jpg?auto=compress,format&rect=0,0,1500,1080&w=1024&h=737",
+					"alt": "Flowerovlove",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 737,
+					"ratio": 1.389416553595658
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b286ac75-e02a-4779-a2f3-bf0c1bf1bbd1_Blood+Orange.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Blood Orange",
+					"url": "https://images.prismic.io/x-track-mag/1f7976d8-243a-4c3f-a7aa-cb6528cdde07_Shygirl.jpg?auto=compress,format&rect=0,0,750,937&w=1024&h=1279",
+					"alt": "Shygirl",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/645cb563-813f-4820-a3b1-13f5bce60910_Joy+Crookes.jpg?auto=compress,format&rect=0,0,1536,2048&w=1024&h=1365",
-					"alt": "Joy Crookes",
+					"url": "https://images.prismic.io/x-track-mag/4f2132c8-b7ed-416b-b9ac-b86a65243db1_Greentea+Peng.jpg?auto=compress,format&rect=0,0,770,766&w=1024&h=1019",
+					"alt": "Greentea Peng",
 					"copyright": null,
 					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"height": 1019,
+					"ratio": 1.0049067713444553
 				}
 			]
 		},
@@ -73,24 +68,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/de411f7b-5429-412a-93d2-28085409a93b_Fana+Hues.jpg?auto=compress,format&rect=0,0,1666,1666&w=1024&h=1024",
-					"alt": "Fana Hues",
+					"url": "https://images.prismic.io/x-track-mag/23336e54-929d-47b2-92c0-14fd9bae2ca9_Benee.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
+					"alt": "Benee",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c2f041c8-b11a-4048-a19c-b18f971d9ea5_Nate+Husser.jpeg?auto=compress,format&rect=0,0,667,1000&w=1024&h=1535",
-					"alt": "Nate Husser",
+					"url": "https://images.prismic.io/x-track-mag/d261e6bf-292f-4db7-bc2d-26e548294c89_The+Cavemen+.jpg?auto=compress,format&rect=0,0,2048,1366&w=1024&h=683",
+					"alt": "The Cavemen",
 					"copyright": null,
 					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3c13125d-3db0-4ff5-bad9-8c3625454224_Mereba+.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Mereba ",
+					"url": "https://images.prismic.io/x-track-mag/0975664e-460d-46a8-a233-a2ee3c22b82e_Lordkez+x+shekhinah.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Lordkez x Shekhinah",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -102,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=315ab640d65b40c9",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=806058eae0604ec0",
 					"title": "Best ”XTrack“ of the Week "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxbloeJTlAoV4",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqW9zs2XgBo",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
