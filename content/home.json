@@ -602,21 +602,21 @@
 			"tags": [
 				"article"
 			],
-			"publication_date": "2021-11-02T16:12:56+0000",
+			"publication_date": "2021-11-02T16:45:16+0000",
 			"title": "Léo Fifty Five, artiste à mille pourcent ",
 			"subtitle": "",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a51d0c18-dfc4-4e89-8e65-0a3f96395f2b_unnamed.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/da2744de-f509-4c40-b93f-348733553d1a_5699ABF0-1AA4-4E4A-B968-A3CCC800434D_1_105_c+2.jpeg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 900,
-				"height": 900,
-				"ratio": 1
+				"width": 1086,
+				"height": 724,
+				"ratio": 1.5
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurence",
+			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Léo Fifty Five, artiste à mille pourcent "
 		},
