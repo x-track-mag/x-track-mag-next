@@ -3,17 +3,17 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-11-02T16:05:53+0000",
+	"publication_date": "2021-11-02T16:12:56+0000",
 	"title": "Léo Fifty Five, artiste à mille pourcent ",
 	"subtitle": "",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c8e40397-3e6e-429d-ab62-3b347281ef98_8A63A546-4F10-4977-A3F1-498714FCE662_1_105_c.jpeg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/a51d0c18-dfc4-4e89-8e65-0a3f96395f2b_unnamed.jpg?auto=compress,format",
 		"alt": null,
 		"copyright": null,
-		"width": 721,
-		"height": 1089,
-		"ratio": 0.6620752984389348
+		"width": 900,
+		"height": 900,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -21,10 +21,14 @@
 	"internal_link": null,
 	"sections": [
 		{
-			"template": "section-hero",
-			"title": "--blank--",
-			"subtitle": "--blank--",
-			"image": null
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Léo Fifty Five, artiste à mille pourcent ",
+					"spans": []
+				}
+			]
 		},
 		{
 			"template": "section-full-text",
@@ -149,20 +153,21 @@
 			"display_article_title": false,
 			"text": [],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=c5zQ7A4Z8Gs",
+				"type": "video",
+				"version": "1.0",
 				"title": "Leo Fifty Five - Ne m'en parle pas (Official Video)",
 				"author_name": "Leo Fifty Five",
 				"author_url": "https://www.youtube.com/channel/UCa0JYNrCS2rfhq-2UWPCAQw",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/c5zQ7A4Z8Gs/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/c5zQ7A4Z8Gs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=c5zQ7A4Z8Gs"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/c5zQ7A4Z8Gs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/a26e718c-107c-4f5f-94a3-ec8d189ee1d7_Capture+d%E2%80%99e%CC%81cran+2021-11-02+a%CC%80+17.03.33.png?auto=compress,format",
@@ -257,20 +262,21 @@
 			"display_article_title": false,
 			"text": [],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=UMW3fiVLi9s",
+				"type": "video",
+				"version": "1.0",
 				"title": "Leo Fifty Five  Feat Jaïa Rose -  Honnêtement",
 				"author_name": "Leo Fifty Five",
 				"author_url": "https://www.youtube.com/channel/UCa0JYNrCS2rfhq-2UWPCAQw",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/UMW3fiVLi9s/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/UMW3fiVLi9s?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=UMW3fiVLi9s"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/UMW3fiVLi9s?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/43be9fb6-a037-4e84-a227-9df3288ea893_Capture+d%E2%80%99e%CC%81cran+2021-11-02+a%CC%80+17.04.48.png?auto=compress,format",
@@ -283,5 +289,5 @@
 			"disposition": "Texte | Video"
 		}
 	],
-	"description": "Un univers aussi varié que son nom de scène, le chanteur belge a plus d’une corde à son arc. De joueur de hockey professionnel à son émission 55 secondes avec Léo, portrait d’un touche à tout sur fond de R&B. "
+	"description": "Léo Fifty Five, artiste à mille pourcent "
 }
