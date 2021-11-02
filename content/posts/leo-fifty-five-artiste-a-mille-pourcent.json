@@ -1,0 +1,287 @@
+{
+	"uid": "leo-fifty-five-artiste-a-mille-pourcent",
+	"tags": [
+		"article"
+	],
+	"publication_date": "2021-11-02T16:05:53+0000",
+	"title": "Léo Fifty Five, artiste à mille pourcent ",
+	"subtitle": "",
+	"text_color": "white",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/c8e40397-3e6e-429d-ab62-3b347281ef98_8A63A546-4F10-4977-A3F1-498714FCE662_1_105_c.jpeg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 721,
+		"height": 1089,
+		"ratio": 0.6620752984389348
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Camille Laurence",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": "--blank--",
+			"subtitle": "--blank--",
+			"image": null
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Un univers aussi varié que son nom de scène, le chanteur belge a plus d’une corde à son arc. De joueur de hockey professionnel à son émission 55 secondes avec Léo, portrait d’un touche à tout sur fond de R&B. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 209,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Tu vas rire mais les premiers sons que j’ai vraiment kiffé, c’était genre Martin Solveig avec Jalousy ! J'écoutais ça sur l’Ipod de mon père et c'était le futur. Depuis, on a pas mal évolué. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Simple, amusant, sans artifice, l'entrevue avec Léo est aussi fluide qu’une conversation avec un ce pote que vous avez toujours connu. La musique débarque dans sa vie à la suite d’un accident, une déchirure au talons d’Achille qui l’oblige à abandonner ses rêves de J.O : le hockey certes mais de son lit, le jeune homme découvre les joies des logiciels sons. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/050f8304-fc47-44bc-9dcd-6ea66b03ea0a_5699ABF0-1AA4-4E4A-B968-A3CCC800434D_1_105_c.jpeg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1086,
+						"height": 724
+					}
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Dès le début, j’avais cette fibre Soul, Rnb. Assez instantanément, j’ai posé les bases de ce que je joue encore. Je suis la même qu’au jour 1, il y a seulement les Lyrics qui se sont ajoutés quand je suis montée sur Paris de Valence. Le game a changé”. D’une carrière à une autre, il n’y a qu’un pas, même blessé.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "Entre ingé sons et compositions perso, un envol progressif ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 58,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "De là, Léo oscille : de l’anglais au français, des instrumentales aux paroles sentimentales, l’artiste cherche sa signature, celle qui fera de Fifty Five, un auteur compositeur unique. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Pendant 6/7 mois, je faisais un son par semaine et je balançais sur Soundcloud. Apprendre le processus de création, cette période est formatrice comme jamais. Aujourd’hui, j’ai 40 sons pour le prochain album mais j’attends que la prod valide un single pour démarrer",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Des méthodes opposées pour un style propre, Léo est passé par toutes les étapes pour trouver sa patte et plaire à son public. “Honnêtement”,  “Ne m’en parle pas”, “Oublier”, des titres forts et équivoques car l’utilisation du français dans ses textes est une mise en danger : se montrer plus vulnérable et oser dévoiler ses sentiments le plus sciemment possible, bien que la timidité perce parfois dans cette confiance paisible. Car Léo respire la bienveillance et on le lui rend bien. Peu à peu, une communauté adhère à son univers, avec comme mot d’ordre, le plaisir. Alors lorsqu’il décide de lancer son émission sur Youtube, 55 secondes avec Leo Fifty Five, tout coule avec aisance.",
+					"spans": [
+						{
+							"start": 127,
+							"end": 171,
+							"type": "em"
+						},
+						{
+							"start": 629,
+							"end": 662,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "Leo Fifty Five - Ne m'en parle pas (Official Video)",
+				"author_name": "Leo Fifty Five",
+				"author_url": "https://www.youtube.com/channel/UCa0JYNrCS2rfhq-2UWPCAQw",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/c5zQ7A4Z8Gs/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/c5zQ7A4Z8Gs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=c5zQ7A4Z8Gs"
+			},
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a26e718c-107c-4f5f-94a3-ec8d189ee1d7_Capture+d%E2%80%99e%CC%81cran+2021-11-02+a%CC%80+17.03.33.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1516,
+				"height": 828,
+				"ratio": 1.8309178743961352
+			},
+			"disposition": "Video | Texte"
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "pourquoi ne pas se retrouver tranquille et kiffer ensemble ? Quand j’ai lancé le délire, c’était juste pour faire venir des artistes dont j’aime les sons. Passer un bon moment. Point. Lancer un album, c’est la prod, la post-prod, l’attente, alors que l’émission propose du spontané, des rencontres et du partage.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/35809a55-15dc-416b-a4dd-b829e079d5fc_67B4CF9C-DEE0-40BB-9B22-73E7C630EBD3_1_105_c.jpeg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 724,
+						"height": 1086
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Difficile ? Aucunement, Léo apprécie les métissages sans réflexion métaphysique, “soyons simple” synthétise-t-il. ",
+					"spans": [
+						{
+							"start": 82,
+							"end": 97,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "heading2",
+					"text": "De rencontres album, l’univers Léo Fifty Five",
+					"spans": [
+						{
+							"start": 0,
+							"end": 45,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Une émission en particulier l’ayant marquée ? \"Celle avec Gracy Hopkins ! On ne peut même pas imaginer son professionnalisme ! Chacun de ses gestes, de ses punchlines, de ses attitudes sont minutés et préparés à la seconde près. Voit qu’il est aussi investi, ça donne envie de donner le meilleur de soi-même \" Et lorsqu’on lui demande un feat idéal, la réponse est immédiate, le king belge du genre Stromae. Et le rappeur/ producteur de génie Krisy. Nul doute que l’ambition de Léo est à la hauteur de ce qu’on lui souhaite. Et pourquoi ne pas s’ouvrir à d’autres genres musicaux ? “Si le R&b/ Soul fait partie de mon style, j’aimerais bien m’aventurer vers d’autres mondes. Surprendre et conquérir le cœur des français au prisme de mon prochain album plus surprenant …”. Il nous tarde. ",
+					"spans": [
+						{
+							"start": 47,
+							"end": 310,
+							"type": "em"
+						},
+						{
+							"start": 583,
+							"end": 770,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": " ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "Leo Fifty Five  Feat Jaïa Rose -  Honnêtement",
+				"author_name": "Leo Fifty Five",
+				"author_url": "https://www.youtube.com/channel/UCa0JYNrCS2rfhq-2UWPCAQw",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/UMW3fiVLi9s/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/UMW3fiVLi9s?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=UMW3fiVLi9s"
+			},
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/43be9fb6-a037-4e84-a227-9df3288ea893_Capture+d%E2%80%99e%CC%81cran+2021-11-02+a%CC%80+17.04.48.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1692,
+				"height": 858,
+				"ratio": 1.972027972027972
+			},
+			"disposition": "Texte | Video"
+		}
+	],
+	"description": "Un univers aussi varié que son nom de scène, le chanteur belge a plus d’une corde à son arc. De joueur de hockey professionnel à son émission 55 secondes avec Léo, portrait d’un touche à tout sur fond de R&B. "
+}

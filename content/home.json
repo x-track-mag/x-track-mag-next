@@ -598,6 +598,29 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-11-02T16:05:53+0000",
+			"title": "Léo Fifty Five, artiste à mille pourcent ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/c8e40397-3e6e-429d-ab62-3b347281ef98_8A63A546-4F10-4977-A3F1-498714FCE662_1_105_c.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 721,
+				"height": 1089,
+				"ratio": 0.6620752984389348
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurence",
+			"internal_link": null,
+			"description": "Un univers aussi varié que son nom de scène, le chanteur belge a plus d’une corde à son arc. De joueur de hockey professionnel à son émission 55 secondes avec Léo, portrait d’un touche à tout sur fond de R&B. "
+		},
+		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
 				"article"
