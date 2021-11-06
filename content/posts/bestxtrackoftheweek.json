@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-10-31T08:18:31+0000",
+	"publication_date": "2021-11-06T21:46:23+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "inverted",
+	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c29e4c99-6398-4077-b34d-2688ae3270ff_Amine%CC%81.jpg?auto=compress,format",
-		"alt": "Aminé",
+		"url": "https://images.prismic.io/x-track-mag/f354044a-f53d-47c7-a5ae-239fcb54cb30_Amine%CC%81.jpeg?auto=compress,format",
+		"alt": "Aminé",
 		"copyright": null,
-		"width": 1500,
-		"height": 1500,
+		"width": 3600,
+		"height": 3600,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Swindle x Greentea Peng, Juls x Fireboy DML, The Cavemen, Shygirl, Aminé, Lordkez x Shekhinah, Dexter,  Muzi x Setso, PaBrymo x Teni, Reekado Banks, Moveek, CKay x Franglish, Buju x The Cavemen, Benee, Holy Hive, Flowerovlove, Sam Opoku, Blundetto & ++++ Enjoy",
+					"text": "Benny Sings x Marc Rebillet x Mocky x Cola Boyy, The Cavemen, Parcels, Genesis Owusu x Jono Ma, Kari Faux x Amal Marie x Ymtk, Djeuhdjoah x Lieutenant Nicholson x Émile Omar, Juls x King Promise x DarkoVibes x Joey B, DJ Tunez x Ashanti x Adekunle Gold, Mahalia x Rema x Ayra Starr, Aminé, Yaw Tog, Nightmare on Wax x Greentea Peng, Bruno Mars x Anderson Paak x Silk Sonic, Buju, Harmonize, Moww x Mounika., & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9eaa93c4-1bea-427e-8f49-21d5a7db6efc_Flowerovlove.jpg?auto=compress,format&rect=0,0,1500,1080&w=1024&h=737",
-					"alt": "Flowerovlove",
+					"url": "https://images.prismic.io/x-track-mag/93f60650-4580-4323-9b6a-55631d16c895_Mahalia.jpg?auto=compress,format&rect=0,0,2044,2044&w=1024&h=1024",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 737,
-					"ratio": 1.389416553595658
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1f7976d8-243a-4c3f-a7aa-cb6528cdde07_Shygirl.jpg?auto=compress,format&rect=0,0,750,937&w=1024&h=1279",
-					"alt": "Shygirl",
+					"url": "https://images.prismic.io/x-track-mag/5d1315fc-971c-4fbf-b161-75ffda9816fc_Anderson+Paak+x+Bruno+Mars+.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Anderson Paak x Bruno Mars",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4f2132c8-b7ed-416b-b9ac-b86a65243db1_Greentea+Peng.jpg?auto=compress,format&rect=0,0,770,766&w=1024&h=1019",
-					"alt": "Greentea Peng",
+					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format&rect=0,0,2046,1229&w=1024&h=615",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1019,
-					"ratio": 1.0049067713444553
+					"height": 615,
+					"ratio": 1.665040650406504
 				}
 			]
 		},
@@ -68,24 +68,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d261e6bf-292f-4db7-bc2d-26e548294c89_The+Cavemen+.jpg?auto=compress,format&rect=0,0,2048,1366&w=1024&h=683",
-					"alt": "The Cavemen",
+					"url": "https://images.prismic.io/x-track-mag/23ee7f09-1db1-4bdd-bfa6-6a86b534df6a_Kari+Faux.jpg?auto=compress,format&rect=0,0,1536,2048&w=1024&h=1365",
+					"alt": "Kari Faux",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/23336e54-929d-47b2-92c0-14fd9bae2ca9_Benee.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
-					"alt": "Benee",
+					"url": "https://images.prismic.io/x-track-mag/ee5bcb71-5ba7-4d3a-b7e4-d78ce71fcd5f_Marc+Rebillet.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
+					"alt": "Marc Rebillet",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1354ff1d-ec26-44e8-b728-f4bfa6541518_Lordkez+.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Lordkez",
+					"url": "https://images.prismic.io/x-track-mag/6df6a7e4-e43d-4d72-8646-94d43b4b88ea_Ayra+Starr+.jpeg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -97,15 +97,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=806058eae0604ec0",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=234d96418abf4201",
 					"title": "Best ”XTrack“ of the Week "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqW9zs2XgBo",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA51W5F2GKqr",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/us/playlist/4099699282",
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
