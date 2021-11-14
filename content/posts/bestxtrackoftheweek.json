@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-11-14T09:09:05+0000",
+	"publication_date": "2021-11-14T09:14:27+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -39,35 +39,6 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ce4d46a6-93c5-4a10-a959-9189ec8d149b_SZA.+.jpg?auto=compress,format&rect=0,0,908,1280&w=1024&h=1444",
-					"alt": "SZA",
-					"copyright": null,
-					"width": 1024,
-					"height": 1444,
-					"ratio": 0.7091412742382271
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/bc58a311-fbe5-4013-ab0e-9ca2a351a617_Week-End-x-Rosalia.jpg?auto=compress,format&rect=0,0,2000,2316&w=1024&h=1186",
-					"alt": "Week-End-x Rosalia",
-					"copyright": null,
-					"width": 1024,
-					"height": 1186,
-					"ratio": 0.863406408094435
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/6ac5f3a4-8487-4164-beb4-907e3efbed4c_Summer+Walker.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
-					"alt": "Summer Walker",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
 					"url": "https://images.prismic.io/x-track-mag/008e9831-a9b6-4da9-8bd3-eb3807f586b2_Beyounce+.jpg?auto=compress,format&rect=0,0,1364,1365&w=1024&h=1025",
 					"alt": "Beyounce",
 					"copyright": null,
@@ -90,6 +61,35 @@
 					"width": 1024,
 					"height": 683,
 					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/ce4d46a6-93c5-4a10-a959-9189ec8d149b_SZA.+.jpg?auto=compress,format&rect=0,0,908,1280&w=1024&h=1444",
+					"alt": "SZA",
+					"copyright": null,
+					"width": 1024,
+					"height": 1444,
+					"ratio": 0.7091412742382271
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/bc58a311-fbe5-4013-ab0e-9ca2a351a617_Week-End-x-Rosalia.jpg?auto=compress,format&rect=0,0,2000,2316&w=1024&h=1186",
+					"alt": "Week-End-x Rosalia",
+					"copyright": null,
+					"width": 1024,
+					"height": 1186,
+					"ratio": 0.863406408094435
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/6ac5f3a4-8487-4164-beb4-907e3efbed4c_Summer+Walker.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
+					"alt": "Summer Walker",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
