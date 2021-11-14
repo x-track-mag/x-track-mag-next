@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-11-07T09:18:35+0000",
+	"publication_date": "2021-11-14T09:05:08+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f354044a-f53d-47c7-a5ae-239fcb54cb30_Amine%CC%81.jpeg?auto=compress,format",
-		"alt": "Aminé",
+		"url": "https://images.prismic.io/x-track-mag/5e7ce4a2-7066-4233-89d5-f0aa09602270_Gabriels-.jpg?auto=compress,format",
+		"alt": "Gabriels",
 		"copyright": null,
-		"width": 3600,
-		"height": 3600,
+		"width": 1000,
+		"height": 1000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Benny Sings x Marc Rebillet x Mocky x Cola Boyy, The Cavemen, Parcels, Genesis Owusu x Jono Ma, Kari Faux x Amal Marie x Ymtk, Djeuhdjoah x Lieutenant Nicholson x Émile Omar, Juls x King Promise x DarkoVibes x Joey B, DJ Tunez x Ashanti x Adekunle Gold, Mahalia x Rema x Ayra Starr, Aminé, Yaw Tog, Nightmare on Wax x Greentea Peng, Bruno Mars x Anderson Paak x Silk Sonic, Buju, Harmonize, Moww x Mounika., & ++++ Enjoy",
+					"text": "Gabriels, Bruno Mars x Anderson Paak x Silk Sonic,  Ric Wilson x Yellow Days, Robson Banda & the new Black Eagle, The Cavemen, Omah Lay, Obongjayar x Sarz, Basketmouth x 2 Baba x Blaqbonez, Juls x Mayra Andrade, Saba x Daoud, Beyouncé, India Shawn, Ruthven, Mahalia, Rosalia x The Week-End, Phyno x Olamide, Jesse Boykins III, Nightmare on Wax x Haile Supreme, Mike Kota, Summer Walker x SZA, Juniore x Emile Omar & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/93f60650-4580-4323-9b6a-55631d16c895_Mahalia.jpg?auto=compress,format&rect=0,0,2044,2044&w=1024&h=1024",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/ebc72e37-4c35-4d16-bede-962e66978b85_SZA+.jpg?auto=compress,format&rect=0,0,1252,785&w=1024&h=642",
+					"alt": "SZA",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 642,
+					"ratio": 1.5950155763239875
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5d1315fc-971c-4fbf-b161-75ffda9816fc_Anderson+Paak+x+Bruno+Mars+.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Anderson Paak x Bruno Mars",
+					"url": "https://images.prismic.io/x-track-mag/bc58a311-fbe5-4013-ab0e-9ca2a351a617_Week-End-x-Rosalia.jpg?auto=compress,format&rect=0,0,2000,2316&w=1024&h=1186",
+					"alt": "Week-End-x Rosalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1186,
+					"ratio": 0.863406408094435
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format&rect=0,0,2046,1229&w=1024&h=615",
-					"alt": "Greentea Peng",
+					"url": "https://images.prismic.io/x-track-mag/6ac5f3a4-8487-4164-beb4-907e3efbed4c_Summer+Walker.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
+					"alt": "Summer Walker",
 					"copyright": null,
 					"width": 1024,
-					"height": 615,
-					"ratio": 1.665040650406504
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/23ee7f09-1db1-4bdd-bfa6-6a86b534df6a_Kari+Faux.jpg?auto=compress,format&rect=0,0,1536,2048&w=1024&h=1365",
-					"alt": "Kari Faux",
+					"url": "https://images.prismic.io/x-track-mag/008e9831-a9b6-4da9-8bd3-eb3807f586b2_Beyounce+.jpg?auto=compress,format&rect=0,0,1364,1365&w=1024&h=1025",
+					"alt": "Beyounce",
 					"copyright": null,
 					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/40ec2f7a-d7d6-4ff9-a17c-0a04b0bb33a9_Parcels+.jpg?auto=compress,format&rect=0,0,2560,1698&w=1024&h=679",
-					"alt": "Parcels",
-					"copyright": null,
-					"width": 1024,
-					"height": 679,
-					"ratio": 1.508100147275405
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/6df6a7e4-e43d-4d72-8646-94d43b4b88ea_Ayra+Starr+.jpeg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/82d7a96c-bea8-4e24-bdcd-99a702ec9ab6_Obongjayar+x+Sarz+.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Obongjayar x Sarz",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/213998d5-1da2-4ffd-a62e-022c373b5d1f_India+Shawn.+.jpg?auto=compress,format&rect=0,0,1440,960&w=1024&h=683",
+					"alt": "India Shawn",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
@@ -97,15 +97,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=234d96418abf4201",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=8fccacad8683478a",
 					"title": "Best ”XTrack“ of the Week "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA51W5F2GKqr",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-jV89XyDtBAyYV",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"url": "https://www.deezer.com/us/playlist/4099699282",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
