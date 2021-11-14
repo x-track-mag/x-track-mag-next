@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-11-14T09:05:08+0000",
+	"publication_date": "2021-11-14T09:09:05+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -39,12 +39,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ebc72e37-4c35-4d16-bede-962e66978b85_SZA+.jpg?auto=compress,format&rect=0,0,1252,785&w=1024&h=642",
+					"url": "https://images.prismic.io/x-track-mag/ce4d46a6-93c5-4a10-a959-9189ec8d149b_SZA.+.jpg?auto=compress,format&rect=0,0,908,1280&w=1024&h=1444",
 					"alt": "SZA",
 					"copyright": null,
 					"width": 1024,
-					"height": 642,
-					"ratio": 1.5950155763239875
+					"height": 1444,
+					"ratio": 0.7091412742382271
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/bc58a311-fbe5-4013-ab0e-9ca2a351a617_Week-End-x-Rosalia.jpg?auto=compress,format&rect=0,0,2000,2316&w=1024&h=1186",
@@ -84,8 +84,8 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/213998d5-1da2-4ffd-a62e-022c373b5d1f_India+Shawn.+.jpg?auto=compress,format&rect=0,0,1440,960&w=1024&h=683",
-					"alt": "India Shawn",
+					"url": "https://images.prismic.io/x-track-mag/0a462391-8402-4e23-8729-12c6a9c0dfb9_India+shawn.++.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
+					"alt": "India shawn",
 					"copyright": null,
 					"width": 1024,
 					"height": 683,
