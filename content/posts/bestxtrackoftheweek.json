@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-11-14T10:06:19+0000",
+	"publication_date": "2021-11-14T10:07:49+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -39,7 +39,7 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/008e9831-a9b6-4da9-8bd3-eb3807f586b2_Beyounce+.jpg?auto=compress,format&rect=0,0,1364,1365&w=1024&h=1025",
+					"url": "https://images.prismic.io/x-track-mag/a2eb5c16-2ec0-46c4-9387-5f698e415db6_Beyonce+.jpg?auto=compress,format&rect=0,0,1364,1365&w=1024&h=1025",
 					"alt": "Beyonce",
 					"copyright": null,
 					"width": 1024,
