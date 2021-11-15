@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-11-15T18:07:28+0000",
+	"publication_date": "2021-11-15T19:17:28+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/5e7ce4a2-7066-4233-89d5-f0aa09602270_Gabriels-.jpg?auto=compress,format&rect=0,0,1000,1000&w=1000&h=1000",
+		"url": "https://images.prismic.io/x-track-mag/b3e1ecd5-1223-426c-83de-a4189fec8dd6_Gabriels.jpg?auto=compress,format",
 		"alt": "Gabriels",
 		"copyright": null,
-		"width": 1000,
-		"height": 1000,
+		"width": 864,
+		"height": 864,
 		"ratio": 1
 	},
 	"video_loop": null,
