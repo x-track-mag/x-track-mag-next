@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-11-21T09:34:58+0000",
+	"publication_date": "2021-11-21T09:37:22+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -47,12 +47,12 @@
 					"ratio": 1.3077905491698596
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/25fdfdf2-c4f3-4957-91f9-345193ee2197_Bruno+Mars+x+Bootsy+Collins+x+Anderson+Paak.jpg?auto=compress,format&rect=0,0,4093,2934&w=1024&h=734",
-					"alt": "Bruno Mars x Bootsy Collins x Anderson Paak",
+					"url": "https://images.prismic.io/x-track-mag/a66bdbcf-6e2b-47a6-ad74-8ab337243712_Yehra.jpg?auto=compress,format&rect=0,0,2047,1365&w=1024&h=683",
+					"alt": "Yehra",
 					"copyright": null,
 					"width": 1024,
-					"height": 734,
-					"ratio": 1.3950953678474114
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/35ecb989-c180-45c5-9ffc-82c107bf5ffe_karun.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -76,12 +76,12 @@
 					"ratio": 1.2234169653524491
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/74606aac-0e9b-48d5-9d21-51e78a5874d9_Yehra+.jpg?auto=compress,format&rect=0,0,1640,924&w=1024&h=577",
-					"alt": "Yehra",
+					"url": "https://images.prismic.io/x-track-mag/25fdfdf2-c4f3-4957-91f9-345193ee2197_Bruno+Mars+x+Bootsy+Collins+x+Anderson+Paak.jpg?auto=compress,format&rect=0,0,4093,2934&w=1024&h=734",
+					"alt": "Bruno Mars x Bootsy Collins x Anderson Paak",
 					"copyright": null,
 					"width": 1024,
-					"height": 577,
-					"ratio": 1.7746967071057191
+					"height": 734,
+					"ratio": 1.3950953678474114
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7cadd287-6bd4-4361-be39-d108791bd67c_Popcaan.png?auto=compress,format&rect=0,0,1080,675&w=1024&h=640",
