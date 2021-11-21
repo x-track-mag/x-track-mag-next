@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-11-15T19:17:28+0000",
+	"publication_date": "2021-11-21T09:34:58+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/b3e1ecd5-1223-426c-83de-a4189fec8dd6_Gabriels.jpg?auto=compress,format",
-		"alt": "Gabriels",
+		"url": "https://images.prismic.io/x-track-mag/f20d5c74-182e-4d1e-9e0a-03861bf77936_Amber+Mark.jpg?auto=compress,format",
+		"alt": "Amber Mark",
 		"copyright": null,
-		"width": 864,
-		"height": 864,
+		"width": 1280,
+		"height": 1280,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Gabriels, Bruno Mars x Anderson Paak x Silk Sonic,  Ric Wilson x Yellow Days, Robson Banda & the new Black Eagle, The Cavemen, Omah Lay, Obongjayar x Sarz, Basketmouth x 2 Baba x Blaqbonez, Juls x Mayra Andrade, Saba x Daoud, Beyoncé, India Shawn, Ruthven, Mahalia, Rosalia x The Week-End, Phyno x Olamide, Jesse Boykins III, Nightmare on Wax x Haile Supreme, Mike Kota, Summer Walker x SZA, Juniore x Emile Omar & ++++ Enjoy",
+					"text": "Bruno Mars x Anderson Paak x Thundercat x Bootst Collins x Silk Sonic,  Amber Mark, Yehra, The Cavemen, Kaytranada x Thundercat, Dijon, Popcaan, Juls x A2 x Karun x Xenia Manasseh, Buju, Ric Wilson x Yellow Days,  M;anifest x Adekunle Gold, Lindsjorn, Jex Nwalor, MisterKay x Egar Boi, Bktherula & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a2eb5c16-2ec0-46c4-9387-5f698e415db6_Beyonce+.jpg?auto=compress,format&rect=0,0,1364,1365&w=1024&h=1025",
-					"alt": "Beyonce",
+					"url": "https://images.prismic.io/x-track-mag/3c9c8ff0-3728-4127-a091-fad466b94418_Xenia+Manasseh+.jpg?auto=compress,format&rect=0,0,755,577&w=1024&h=783",
+					"alt": "Xenia Manasseh",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 783,
+					"ratio": 1.3077905491698596
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/82d7a96c-bea8-4e24-bdcd-99a702ec9ab6_Obongjayar+x+Sarz+.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Obongjayar x Sarz",
+					"url": "https://images.prismic.io/x-track-mag/25fdfdf2-c4f3-4957-91f9-345193ee2197_Bruno+Mars+x+Bootsy+Collins+x+Anderson+Paak.jpg?auto=compress,format&rect=0,0,4093,2934&w=1024&h=734",
+					"alt": "Bruno Mars x Bootsy Collins x Anderson Paak",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 734,
+					"ratio": 1.3950953678474114
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0a462391-8402-4e23-8729-12c6a9c0dfb9_India+shawn.++.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
-					"alt": "India shawn",
+					"url": "https://images.prismic.io/x-track-mag/35ecb989-c180-45c5-9ffc-82c107bf5ffe_karun.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "karun",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ce4d46a6-93c5-4a10-a959-9189ec8d149b_SZA.+.jpg?auto=compress,format&rect=0,0,908,1280&w=1024&h=1444",
-					"alt": "SZA",
+					"url": "https://images.prismic.io/x-track-mag/37363dde-e23c-48d4-9993-9a0319e7ba94_Thundercat+.jpg?auto=compress,format&rect=0,0,1289,1054&w=1024&h=837",
+					"alt": "Thundercat",
 					"copyright": null,
 					"width": 1024,
-					"height": 1444,
-					"ratio": 0.7091412742382271
+					"height": 837,
+					"ratio": 1.2234169653524491
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bc58a311-fbe5-4013-ab0e-9ca2a351a617_Week-End-x-Rosalia.jpg?auto=compress,format&rect=0,0,2000,2316&w=1024&h=1186",
-					"alt": "Week-End-x Rosalia",
+					"url": "https://images.prismic.io/x-track-mag/74606aac-0e9b-48d5-9d21-51e78a5874d9_Yehra+.jpg?auto=compress,format&rect=0,0,1640,924&w=1024&h=577",
+					"alt": "Yehra",
 					"copyright": null,
 					"width": 1024,
-					"height": 1186,
-					"ratio": 0.863406408094435
+					"height": 577,
+					"ratio": 1.7746967071057191
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6ac5f3a4-8487-4164-beb4-907e3efbed4c_Summer+Walker.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
-					"alt": "Summer Walker",
+					"url": "https://images.prismic.io/x-track-mag/7cadd287-6bd4-4361-be39-d108791bd67c_Popcaan.png?auto=compress,format&rect=0,0,1080,675&w=1024&h=640",
+					"alt": "Popcaan",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 640,
+					"ratio": 1.6
 				}
 			]
 		},
