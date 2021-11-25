@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-11-25T15:53:07+0000",
+	"publication_date": "2021-11-25T16:31:04+0000",
 	"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
 	"subtitle": "",
 	"text_color": "white",
@@ -80,6 +80,27 @@
 					]
 				}
 			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "https://www.youtube.com/watch?v=GlrWAml_VmE",
+					"spans": []
+				}
+			],
+			"link": {},
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ed2bce1c-2a22-4d98-8ea1-123fbb5d22ca_Capture+d%E2%80%99e%CC%81cran+2021-11-25+a%CC%80+16.30.26.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2832,
+				"height": 1324,
+				"ratio": 2.1389728096676737
+			},
+			"disposition": "Texte | Video"
 		},
 		{
 			"template": "section-playlist",
