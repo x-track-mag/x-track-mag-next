@@ -9,110 +9,114 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestxtrackoftheweek"
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
 		{
 			"position": 2,
-			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 3,
-			"uid": "yayayayoutube-ep-3-ophelie-summer"
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
 		},
 		{
 			"position": 4,
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
+			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		},
 		{
 			"position": 5,
-			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
 		{
 			"position": 6,
-			"uid": "les-klon-hydre-pop-a-sept-tetes"
+			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
 		},
 		{
 			"position": 7,
-			"uid": "x-track-studio---biaziouka"
+			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
 			"position": 8,
-			"uid": "2020-is-the-year"
+			"uid": "x-track-studio---biaziouka"
 		},
 		{
 			"position": 9,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+			"uid": "2020-is-the-year"
 		},
 		{
 			"position": 10,
-			"uid": "feel-good"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 11,
-			"uid": "nola-cherri"
+			"uid": "feel-good"
 		},
 		{
 			"position": 12,
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
+			"uid": "nola-cherri"
 		},
 		{
 			"position": 13,
-			"uid": "lavenir-de-la-mode-est-il-virtuel"
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		},
 		{
 			"position": 14,
-			"uid": "lhysterie"
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
 			"position": 15,
-			"uid": "new-romance"
+			"uid": "lhysterie"
 		},
 		{
 			"position": 16,
-			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
+			"uid": "new-romance"
 		},
 		{
 			"position": 17,
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
-		},
-		{
-			"position": 18,
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
-		},
-		{
-			"position": 19,
-			"uid": "in-love"
-		},
-		{
-			"position": 20,
-			"uid": "polycool"
-		},
-		{
-			"position": 21,
-			"uid": "les-apparences-trompeuses-du-pretty-privilege"
-		},
-		{
-			"position": 22,
-			"uid": "la-muse--une-icone-feministe-"
-		},
-		{
-			"position": 23,
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
 		},
 		{
+			"position": 18,
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+		},
+		{
+			"position": 19,
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
+		},
+		{
+			"position": 20,
+			"uid": "in-love"
+		},
+		{
+			"position": 21,
+			"uid": "polycool"
+		},
+		{
+			"position": 22,
+			"uid": "les-apparences-trompeuses-du-pretty-privilege"
+		},
+		{
+			"position": 23,
+			"uid": "la-muse--une-icone-feministe-"
+		},
+		{
 			"position": 24,
-			"uid": "martin-parr"
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
 		},
 		{
 			"position": 25,
-			"uid": "page"
+			"uid": "martin-parr"
 		},
 		{
 			"position": 26,
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+			"uid": "page"
 		},
 		{
 			"position": 27,
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+		},
+		{
+			"position": 28,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		}
 	],
@@ -169,6 +173,29 @@
 	],
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
+		{
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-11-25T15:53:07+0000",
+			"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1876,
+				"height": 1104,
+				"ratio": 1.6992753623188406
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
+		},
 		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
@@ -623,29 +650,6 @@
 			"author": "Aphelandra Siassa",
 			"internal_link": null,
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
-		},
-		{
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-11-25T15:53:07+0000",
-			"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1876,
-				"height": 1104,
-				"ratio": 1.6992753623188406
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
 		},
 		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
