@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-11-25T15:35:03+0000",
+	"publication_date": "2021-11-25T15:42:45+0000",
 	"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
 	"subtitle": "",
 	"text_color": "white",
@@ -21,12 +21,6 @@
 	"internal_link": null,
 	"sections": [
 		{
-			"template": "section-hero",
-			"title": "--blank--",
-			"subtitle": "--blank--",
-			"image": null
-		},
-		{
 			"template": "section-full-text",
 			"text": [
 				{
@@ -42,13 +36,7 @@
 				{
 					"type": "paragraph",
 					"text": "Alors que la Femme vient de sortir son clip “Divine Créature” avec les pontes du porno LeoLulu, Paradigmes dévoile peu à peu ses secrets. Entre parodie, hommage, référence et inspirations, voilà un bijou à milles facettes. En décoder les multiples prismes semble aussi désuet que de mémoriser Pi. Mais est-ce vraiment le but ? Explication. ",
-					"spans": [
-						{
-							"start": 0,
-							"end": 340,
-							"type": "em"
-						}
-					]
+					"spans": []
 				}
 			]
 		},
@@ -58,7 +46,7 @@
 				{
 					"type": "image",
 					"url": "https://images.prismic.io/x-track-mag/cac2c764-4b02-436f-bab3-18a98257b849_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.04.07.png?auto=compress,format",
-					"alt": null,
+					"alt": "La femme - Divine créature",
 					"copyright": null,
 					"dimensions": {
 						"width": 1182,
@@ -97,7 +85,23 @@
 			"template": "section-video-launcher",
 			"display_article_title": false,
 			"text": [],
-			"link": {},
+			"link": {
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=GlrWAml_VmE",
+				"type": "video",
+				"version": "1.0",
+				"title": "PARADIGMES: Le Film (Official trailer / bande-annonce)",
+				"author_name": "La Femme",
+				"author_url": "https://www.youtube.com/c/lafemmemusique",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
+				"thumbnail_url": "https://i.ytimg.com/vi/GlrWAml_VmE/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/GlrWAml_VmE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+			},
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/ed2bce1c-2a22-4d98-8ea1-123fbb5d22ca_Capture+d%E2%80%99e%CC%81cran+2021-11-25+a%CC%80+16.30.26.png?auto=compress,format",
 				"alt": null,
@@ -140,7 +144,7 @@
 				{
 					"type": "image",
 					"url": "https://images.prismic.io/x-track-mag/cdb9c1ac-b957-409d-a221-816913e43028_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+11.59.23.png?auto=compress,format",
-					"alt": null,
+					"alt": "Paradigmes ",
 					"copyright": null,
 					"dimensions": {
 						"width": 1776,
