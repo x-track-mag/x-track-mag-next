@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-11-25T16:31:04+0000",
+	"publication_date": "2021-11-25T16:31:47+0000",
 	"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
 	"subtitle": "",
 	"text_color": "white",
@@ -101,15 +101,6 @@
 				"ratio": 2.1389728096676737
 			},
 			"disposition": "Texte | Video"
-		},
-		{
-			"template": "section-playlist",
-			"playlist": [
-				{
-					"url": "https://www.youtube.com/watch?v=GlrWAml_VmE",
-					"title": "PARADIGMES: Le Film (Official trailer / bande-annonce)"
-				}
-			]
 		},
 		{
 			"template": "section-full-text",
