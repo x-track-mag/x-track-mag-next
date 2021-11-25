@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-11-25T16:36:37+0000",
+	"publication_date": "2021-11-25T16:37:46+0000",
 	"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
 	"subtitle": "",
 	"text_color": "white",
@@ -200,23 +200,24 @@
 		},
 		{
 			"template": "section-video-launcher",
-			"display_article_title": true,
+			"display_article_title": false,
 			"text": [],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=oBXUdueOpBk",
+				"type": "video",
+				"version": "1.0",
 				"title": "La Femme - Divine Créature feat. LeoLulu (CENSORED VERSION)",
 				"author_name": "La Femme",
 				"author_url": "https://www.youtube.com/c/lafemmemusique",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/oBXUdueOpBk/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/oBXUdueOpBk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=oBXUdueOpBk"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/oBXUdueOpBk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
