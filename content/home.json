@@ -625,6 +625,29 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-11-25T15:33:25+0000",
+			"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1876,
+				"height": 1104,
+				"ratio": 1.6992753623188406
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
+		},
+		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
 				"article"

@@ -1,0 +1,222 @@
+{
+	"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
+	"tags": [
+		"article"
+	],
+	"publication_date": "2021-11-25T15:33:25+0000",
+	"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
+	"subtitle": "",
+	"text_color": "white",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 1876,
+		"height": 1104,
+		"ratio": 1.6992753623188406
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Camille Laurens",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-hero",
+			"title": "--blank--",
+			"subtitle": "--blank--",
+			"image": null
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Alors que la Femme vient de sortir son clip “Divine Créature” avec les pontes du porno LeoLulu, Paradigmes dévoile peu à peu ses secrets. Entre parodie, hommage, référence et inspirations, voilà un bijou à milles facettes. En décoder les multiples prismes semble aussi désuet que de mémoriser Pi. Mais est-ce vraiment le but ? Explication. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 340,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/cac2c764-4b02-436f-bab3-18a98257b849_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.04.07.png?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1182,
+						"height": 1182
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Alors que le groupe parcourt les routes des États-Unis dans le cadre de leur tournée et joue à Guadalajara, au Mexique, dans quelques jours, c’est leur dernier clip Divine Créature qui est sur toutes les lèvres : deux versions, l’une non censurée disponible sur Pornhub et l’autre censurée sur Youtube. Le topo ? Un clip plein de sensualité qui met en scène un couple culte des amateurs d’érotisme- et plus si affinités- LeoLulu. Une nouvelle pépite qui vient s’ajouter aux 16 autres titres qui forment le projet hybride de Paradigmes. L’occasion de se replonger, entre autres, dans ce long métrage, sorti il y a un mois et qui vaut largement le coup de s’y attarder. Le groupe travaille tant le fond que la forme : sorti en salles, puis sur DICE, il compte laisser en suspens sa diffusion, en y injectant de nouvelles pépites et aiguiser notre appétit ? Car Paradigmes ne cesse d’acquérir de nouveaux apparats, on a voulu vous offrir un condensé de cette chrysalide en perpétuelle mutation.  ",
+					"spans": [
+						{
+							"start": 165,
+							"end": 181,
+							"type": "em"
+						},
+						{
+							"start": 421,
+							"end": 428,
+							"type": "em"
+						},
+						{
+							"start": 524,
+							"end": 536,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": true,
+			"text": [],
+			"link": {},
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ed2bce1c-2a22-4d98-8ea1-123fbb5d22ca_Capture+d%E2%80%99e%CC%81cran+2021-11-25+a%CC%80+16.30.26.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2832,
+				"height": 1324,
+				"ratio": 2.1389728096676737
+			},
+			"disposition": "Texte | Video"
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Sacha Michel Zarev aka Michel Foucault laissé pantois, mouche qui vole, devant la question fondamentale d’une émission aux allures d’un bouillon de culture : “Quel est le plus grand problème fondamental de l’homme ?”, l’allusion fait sourire. Mais soudain la musique retentit et la logorrhée du philosophe se déclenche au rythme du déhanché des danseuses. Et si finalement, la véritable réponse à nos questions se trouvait dans l’art ? Embarqué aux milieux des clowns et autres guignols, les bien-pensants de ce monde ne sont-ils pas des acteurs aux allures d’illusionnistes ? La messe est dite. La femme, sous ses paillettes et clips dantesques questionne et pique. Subtilement, intelligemment, ce café-théâtre qui caricature les débats intello-philosophico-fumants des quartiers de Saint-Germain offre pourtant une lecture malicieuse de la vie, du sens et du non-sens. Car derrière les volutes de cigarettes et les rires forcés, la Femme offre 1H40 de non réflexion, ou plutôt de réflexion en retournant les problématiques. “Pour moi oui la liberté d’expression oui mais pas pour vous”, ou encore \"respectez la force ou forcez le respect” ? Pas si fumeuses les questions ! ",
+					"spans": [
+						{
+							"start": 159,
+							"end": 218,
+							"type": "em"
+						},
+						{
+							"start": 1026,
+							"end": 1088,
+							"type": "em"
+						},
+						{
+							"start": 1099,
+							"end": 1143,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/cdb9c1ac-b957-409d-a221-816913e43028_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+11.59.23.png?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1776,
+						"height": 1182
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Mais alors quid du ressenti ? De l’émotion face à l’intellectualisation ? Marlon Magnée, Sacha Got et leur bras droit Aymeric Bergada du Cadet décortiquent chaque mot, phrases, pensées tout en intégrant ces clips, ces monstres, ces femmes aux mille visages, ces aliens, le beau-bizarre qui fait l’identité du groupe. Deux mondes s'opposent : le cerveau et le corps. Et pour incarner cet antagonisme, la Femme a invité à sa table les visages de la scène artistique : Cesar Domboy et Romain Brau, Félix Moati, les membres de Murman Tsuladze, Sam Quealy, un certain groupe de musique La Femme, Patricia Badin bref toute la clique classique du Palace. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/17b72904-f564-41c5-a7d0-44a50d7e43ac_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.33.png?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1830,
+						"height": 1130
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "A la fois moqueur, beauf, je m'en foutiste, complexe, en métamorphose, Paradigmes est un projet d’envergure dont on se délecte avec un plaisir non négligeable. Entre les clips, le film et les nouveautés, on en ressort avec une belle envie de danser, boire et tout oublier pour mieux recommencer ? Et si c’était ça au final, le vrai pouvoir de la nuit, se transformer, se déguiser, parodier et casser les codes engoncés des convenances normées. Pour la Femme, la vie est un jeu, seul le “beau” perdure, et Paradigme en illustre avec brio l’étendu. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Traduire : S’en foutre de tout ! Comme un ovni, le groupe hybride ne cesse de se débrider et d’évoluer. What’s next ? Un concert au Zénith le 21 Mai 2022 … Divine nouvelle !",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": " ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": true,
+			"text": [],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "La Femme - Divine Créature feat. LeoLulu (CENSORED VERSION)",
+				"author_name": "La Femme",
+				"author_url": "https://www.youtube.com/c/lafemmemusique",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/oBXUdueOpBk/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/oBXUdueOpBk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=oBXUdueOpBk"
+			},
+			"image": null,
+			"disposition": "Texte | Video"
+		}
+	],
+	"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
+}
