@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-11-25T16:31:47+0000",
+	"publication_date": "2021-11-25T16:35:08+0000",
 	"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
 	"subtitle": "",
 	"text_color": "white",
@@ -84,14 +84,24 @@
 		{
 			"template": "section-video-launcher",
 			"display_article_title": false,
-			"text": [
-				{
-					"type": "paragraph",
-					"text": "https://www.youtube.com/watch?v=GlrWAml_VmE",
-					"spans": []
-				}
-			],
-			"link": {},
+			"text": [],
+			"link": {
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=GlrWAml_VmE",
+				"type": "video",
+				"version": "1.0",
+				"title": "PARADIGMES: Le Film (Official trailer / bande-annonce)",
+				"author_name": "La Femme",
+				"author_url": "https://www.youtube.com/c/lafemmemusique",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
+				"thumbnail_url": "https://i.ytimg.com/vi/GlrWAml_VmE/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/GlrWAml_VmE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+			},
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/ed2bce1c-2a22-4d98-8ea1-123fbb5d22ca_Capture+d%E2%80%99e%CC%81cran+2021-11-25+a%CC%80+16.30.26.png?auto=compress,format",
 				"alt": null,
@@ -100,7 +110,7 @@
 				"height": 1324,
 				"ratio": 2.1389728096676737
 			},
-			"disposition": "Texte | Video"
+			"disposition": "Texte / Video"
 		},
 		{
 			"template": "section-full-text",
