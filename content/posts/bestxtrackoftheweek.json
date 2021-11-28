@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-11-21T19:58:03+0000",
+	"publication_date": "2021-11-28T09:17:19+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f20d5c74-182e-4d1e-9e0a-03861bf77936_Amber+Mark.jpg?auto=compress,format",
-		"alt": "Amber Mark",
+		"url": "https://images.prismic.io/x-track-mag/09824f11-bbe4-45df-adaa-f109f01ee730_Kali+Uchis.jpg?auto=compress,format",
+		"alt": "Kali Uchis",
 		"copyright": null,
-		"width": 1280,
-		"height": 1280,
-		"ratio": 1
+		"width": 2048,
+		"height": 1599,
+		"ratio": 1.2808005003126954
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Bruno Mars x Anderson Paak x Thundercat x Bootsy Collins x Silk Sonic,  Amber Mark, Yehra, The Cavemen, Kaytranada x Thundercat, Dijon, Popcaan, Juls x A2 x Karun x Xenia Manasseh, Buju, Ric Wilson x Yellow Days,  M.anifest x Adekunle Gold, Lindsjorn, Jex Nwalor, MisterKay x Egar Boi, Bktherula & ++++ Enjoy",
+					"text": "Kali Uchis x Ozuna, Koffi Olomide x Tiwa Savage, Amarae x Kali Uchis x Moliy, Kaytranada x H.E.R., Normani x Kaytranada, Bruno Mars x Anderson Paak x Silk Sonic, Aprile x Leo Fifty five, Miel de Montagne, L.A.X x Zaider x Lil Silvio, Spy Shitta x Olamide, Juls x Haile, H.E.R., The Cavemen, MisterKay, Ice Prince x CKay, R2Bees x Wizkid, DJ Paak x Reefer Tym x Miles Mensa, Jesse10s, Boyd, Benny Sings x Jones  & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3c9c8ff0-3728-4127-a091-fad466b94418_Xenia+Manasseh+.jpg?auto=compress,format&rect=0,0,755,577&w=1024&h=783",
-					"alt": "Xenia Manasseh",
+					"url": "https://images.prismic.io/x-track-mag/07bfc0a1-e577-4d75-9219-9d9e749d8143_Normani.jpg?auto=compress,format&rect=0,0,3069,3069&w=1024&h=1024",
+					"alt": "Normani",
 					"copyright": null,
 					"width": 1024,
-					"height": 783,
-					"ratio": 1.3077905491698596
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a66bdbcf-6e2b-47a6-ad74-8ab337243712_Yehra.jpg?auto=compress,format&rect=0,0,2047,1365&w=1024&h=683",
-					"alt": "Yehra",
+					"url": "https://images.prismic.io/x-track-mag/a72819fb-2ca5-4c41-8b66-fcac176ba07c_Koffi+Olomide+x+Tiwa-Savage.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/35ecb989-c180-45c5-9ffc-82c107bf5ffe_karun.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "karun",
+					"url": "https://images.prismic.io/x-track-mag/3d59aa1b-52c8-4823-9ac9-d91ae12e2ca7_Jones.jpg?auto=compress,format&rect=0,0,1366,1471&w=1024&h=1103",
+					"alt": "Jones",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1103,
+					"ratio": 0.928377153218495
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/37363dde-e23c-48d4-9993-9a0319e7ba94_Thundercat+.jpg?auto=compress,format&rect=0,0,1289,1054&w=1024&h=837",
-					"alt": "Thundercat",
+					"url": "https://images.prismic.io/x-track-mag/6a09bfa9-bbdd-4aea-b7cb-d11d1a527fce_H.E.R..jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "H.E.R.",
 					"copyright": null,
 					"width": 1024,
-					"height": 837,
-					"ratio": 1.2234169653524491
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/25fdfdf2-c4f3-4957-91f9-345193ee2197_Bruno+Mars+x+Bootsy+Collins+x+Anderson+Paak.jpg?auto=compress,format&rect=0,0,4093,2934&w=1024&h=734",
-					"alt": "Bruno Mars x Bootsy Collins x Anderson Paak",
+					"url": "https://images.prismic.io/x-track-mag/3e8269b4-ac84-4b06-91a0-bc6737b45cf2_Amaarae.jpg?auto=compress,format&rect=0,0,1600,1600&w=1024&h=1024",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
-					"height": 734,
-					"ratio": 1.3950953678474114
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7cadd287-6bd4-4361-be39-d108791bd67c_Popcaan.png?auto=compress,format&rect=0,0,1080,675&w=1024&h=640",
-					"alt": "Popcaan",
+					"url": "https://images.prismic.io/x-track-mag/a6372d37-d33b-4739-b22c-2f892a4ce84a_Moliy.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
+					"alt": "Moliy",
 					"copyright": null,
 					"width": 1024,
-					"height": 640,
-					"ratio": 1.6
+					"height": 1021,
+					"ratio": 1.0029382957884427
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=2aa3d70d3360416c",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=17891fd94496488f",
 					"title": "Best ”XTrack“ of the Week "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxblo97FlAoV4",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqW1bi2XgBo",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
