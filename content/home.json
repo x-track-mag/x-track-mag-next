@@ -9,19 +9,19 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
-		},
-		{
-			"position": 2,
 			"uid": "bestxtrackoftheweek"
 		},
 		{
+			"position": 2,
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
+		},
+		{
 			"position": 3,
-			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
+			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		},
 		{
 			"position": 4,
-			"uid": "yayayayoutube-ep-3-ophelie-summer"
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
 		},
 		{
 			"position": 5,
@@ -174,29 +174,6 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-11-25T16:37:46+0000",
-			"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1876,
-				"height": 1104,
-				"ratio": 1.6992753623188406
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
-		},
-		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
@@ -220,6 +197,49 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-11-25T16:37:46+0000",
+			"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1876,
+				"height": 1104,
+				"ratio": 1.6992753623188406
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
+		},
+		{
+			"uid": "yayayayoutube-ep-3-ophelie-summer",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-09-29T15:18:54+0000",
+			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
+			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "EDIT_INSTA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
+				"size": "1730419"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
+		},
+		{
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
 			"tags": [
 				"article"
@@ -241,26 +261,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Léo Fifty Five, artiste à mille pourcent "
-		},
-		{
-			"uid": "yayayayoutube-ep-3-ophelie-summer",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-09-29T15:18:54+0000",
-			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
-			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "EDIT_INSTA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
-				"size": "1730419"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
