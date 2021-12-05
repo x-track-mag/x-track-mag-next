@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-05T09:23:58+0000",
+	"publication_date": "2021-12-05T09:36:30+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -47,12 +47,12 @@
 					"ratio": 0.7283072546230441
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/fe3d7c0b-83f0-4dc4-bdb0-4ff4a5b344c0_Flowerovlove+.jpg?auto=compress,format&rect=0,0,1290,1291&w=1024&h=1025",
+					"url": "https://images.prismic.io/x-track-mag/6c0b0c4a-fb09-4e2b-bfeb-ba0ccc5b7983_Flowerovlove.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
 					"alt": "Flowerovlove",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/69973602-f83d-4225-9d60-a91812d28cbb_Tierra+Whack+.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
@@ -84,12 +84,12 @@
 					"ratio": 1.4970760233918128
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6ae67f24-8bcf-4972-b4ba-78a59863ba8b_TeaMarrr+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "TeaMarrr",
+					"url": "https://images.prismic.io/x-track-mag/787fabf3-7ecd-4e85-896b-bffc21faf289_TeaMarrr++.jpg?auto=compress,format&rect=0,0,2559,1707&w=1024&h=683",
+					"alt": "TeaMarrr ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
