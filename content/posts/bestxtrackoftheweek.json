@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-05T08:53:07+0000",
+	"publication_date": "2021-12-05T08:57:01+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -39,12 +39,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4bb69ec9-d180-41b3-87a8-816614df6b10_Jones.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/cb36a88e-46a9-4aaf-9daf-e2543ac44436_Pinkpantheress.jpg?auto=compress,format&rect=0,0,1004,1200&w=1024&h=1224",
+					"alt": "PinkPantheress",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1224,
+					"ratio": 0.8366013071895425
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/3ff20728-4a77-48af-970f-fa26222a8986_Genevieve+Artadi.jpg?auto=compress,format&rect=0,0,1194,1639&w=1024&h=1406",
