@@ -4,7 +4,7 @@
 		"music",
 		"article"
 	],
-	"publication_date": "2021-12-09T17:46:42+0000",
+	"publication_date": "2021-12-09T20:28:28+0000",
 	"title": "MisterKay : ”Welcome to Nigeria“ ",
 	"subtitle": "",
 	"text_color": "white",
@@ -52,7 +52,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "A peine une heure de décalage horaire, et pourtant l’échange avec MisterKay, @callmemisterkay sur Instagram est aussi vivifiant qu’un grand bol d’air. A l’occasion de la sortie de son album, Toast, l’artiste qui confie “avoir choisi ce pseudonyme par pure coïncidence, n’ayant aucune autre idée lors de l’enregistrement studio” a pourtant une vision bien définie de son avenir dans l’industrie musicale. En effet, la passion, il l’a dans la peau. ",
+					"text": "A peine une heure de décalage horaire, et pourtant l’échange avec MisterKay, @callmemisterkay sur Instagram est aussi vivifiant qu’un grand bol d’air. A l’occasion de la sortie de son EP Toast, l’artiste qui confie “avoir choisi ce pseudonyme par pure coïncidence, n’ayant aucune autre idée lors de l’enregistrement studio” a pourtant une vision bien définie de son avenir dans l’industrie musicale. En effet, la passion, il l’a dans la peau. ",
 					"spans": [
 						{
 							"start": 77,
@@ -122,20 +122,21 @@
 			"display_article_title": true,
 			"text": [],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=3D0f-ruMflE",
+				"type": "video",
+				"version": "1.0",
 				"title": "Gentle (Freestyle Performance)",
 				"author_name": "MisterKay",
 				"author_url": "https://www.youtube.com/channel/UCFbsbYbN_RzTuXgRbUBcxBw",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/3D0f-ruMflE/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/3D0f-ruMflE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=3D0f-ruMflE"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/3D0f-ruMflE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/940f223c-be3e-45cb-bd8c-3645377c739d_Capture+d%E2%80%99e%CC%81cran+2021-12-09+a%CC%80+18.44.40.png?auto=compress,format",
