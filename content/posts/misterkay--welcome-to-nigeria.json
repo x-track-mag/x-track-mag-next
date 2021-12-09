@@ -1,0 +1,152 @@
+{
+	"uid": "misterkay--welcome-to-nigeria",
+	"tags": [
+		"music",
+		"article"
+	],
+	"publication_date": "2021-12-09T17:38:46+0000",
+	"title": "MisterKay : ”Welcome to Nigeria“ ",
+	"subtitle": "",
+	"text_color": "white",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/c85e4827-1408-4f5a-96a3-25ffcb413d0e_Y1.JPG?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 2160,
+		"height": 3240,
+		"ratio": 0.6666666666666666
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "MisterKay : ”Welcome to Nigeria“ ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 33,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Véritable vivier à talents, la scène nigériane et ses artistes trouvent un public de plus en plus vaste dans l’hexagone. Identité singulière et morceaux à l'énergie puissante, le chanteur MisterKay s’ouvre le temps d’une rencontre sans filtre ...   ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "A peine une heure de décalage horaire, et pourtant l’échange avec MisterKay, @callmemisterkay sur Instagram est aussi vivifiant qu’un grand bol d’air. A l’occasion de la sortie de son album, Toast, l’artiste qui confie “avoir choisi ce pseudonyme par pure coïncidence, n’ayant aucune autre idée lors de l’enregistrement studio” a pourtant une vision bien définie de son avenir dans l’industrie musicale. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "En effet, la passion, il l’a dans la peau",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "\" Mes premiers souvenirs remontent à l’enfance. Mes parents étaient très mélomanes, je me souviens qu’il y avait souvent des membres de leur groupe de musique qui venaient manger et boire à la maison. J’ai baigné dans cet univers, puis mon père m’a pris un professeur pour apprendre les bases \" décrit avec nostalgie l’artiste qui se nourrit de souvenirs pour composer des morceaux proches des ambiances qui le font vibrer. ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/65e82ae0-7f33-440c-8588-2dfb0ee44939_Y4.jpg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 2518,
+						"height": 3600
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Et s’il choisit de nommer son album Toast, c’est qu’il parie sur de nombreux succès, un peu comme un porte-chance, MisterKay se réjouit de partager ses goûts, ses racines, ses morceaux qu’il a composé entre Lagos au Nigeria et Accra au Ghana et il lui tarde de trinquer à ses réussites. ",
+					"spans": []
+				},
+				{
+					"type": "heading3",
+					"text": "Toast, entre house, afrobeats et héritage",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Ses inspirations ? Des groupes cultes tels que les Fugees, mais surtout des artistes nigérians “incroyables comme Tems, Femi Kuti, Fireboy, Buju,WizkidAdekunke Gold et américains à la John Mayer, J-cole. Il y a aussi et surtout Dave, dont la masterpiece est Psychodrama, avec qui j’aimerais énormément faire un feat”. La scène actuelle émerge de plus en plus et se fait un nom à l’international et sur de nombreux festivals ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "L’afrobeat a souffert de sa réputation pendant de nombreuses décennies. La scène africaine a été méprisée bien trop longtemps et je suis fière de voir qu’autant de danseurs, photographes, designers nigérians puissent enfin être reconnus à leur juste valeur. La voix s’ouvre enfin …",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/05ee9a6a-cff9-44ef-af08-553c86929fe8_W3.JPG?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 2160,
+						"height": 3240
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Et ce n’est pas trop tôt ! Car le talent de l’artiste est indéniable. Toast est un album qui mélange avec justesse des mélodies entraînantes, et sensuelles, des émotions palpables et un grain de voix unique qui fait de Misterkay,un talent prometteur. Ses titres Diego et Dirty Diana font écho à des histoires personnelles que le chanteur a voulu transmettre au prisme de ces deux morceaux auxquels viendront s’ajouter d’autres pépites. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				}
+			]
+		}
+	],
+	"description": "MisterKay : ”Welcome to Nigeria“ "
+}
