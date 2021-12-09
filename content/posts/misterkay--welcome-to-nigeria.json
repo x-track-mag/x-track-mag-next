@@ -4,7 +4,7 @@
 		"music",
 		"article"
 	],
-	"publication_date": "2021-12-09T17:38:46+0000",
+	"publication_date": "2021-12-09T17:46:42+0000",
 	"title": "MisterKay : ”Welcome to Nigeria“ ",
 	"subtitle": "",
 	"text_color": "white",
@@ -25,7 +25,7 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "heading3",
+					"type": "heading2",
 					"text": "MisterKay : ”Welcome to Nigeria“ ",
 					"spans": [
 						{
@@ -42,7 +42,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Véritable vivier à talents, la scène nigériane et ses artistes trouvent un public de plus en plus vaste dans l’hexagone. Identité singulière et morceaux à l'énergie puissante, le chanteur MisterKay s’ouvre le temps d’une rencontre sans filtre ...   ",
+					"text": "Véritable vivier à talents, la scène nigériane et ses artistes trouvent un public de plus en plus vaste dans l’hexagone. Identité singulière et morceaux à l'énergie puissante, le chanteur MisterKay s’ouvre le temps d’une rencontre sans filtre...",
 					"spans": []
 				}
 			]
@@ -52,13 +52,18 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "A peine une heure de décalage horaire, et pourtant l’échange avec MisterKay, @callmemisterkay sur Instagram est aussi vivifiant qu’un grand bol d’air. A l’occasion de la sortie de son album, Toast, l’artiste qui confie “avoir choisi ce pseudonyme par pure coïncidence, n’ayant aucune autre idée lors de l’enregistrement studio” a pourtant une vision bien définie de son avenir dans l’industrie musicale. ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "En effet, la passion, il l’a dans la peau",
-					"spans": []
+					"text": "A peine une heure de décalage horaire, et pourtant l’échange avec MisterKay, @callmemisterkay sur Instagram est aussi vivifiant qu’un grand bol d’air. A l’occasion de la sortie de son album, Toast, l’artiste qui confie “avoir choisi ce pseudonyme par pure coïncidence, n’ayant aucune autre idée lors de l’enregistrement studio” a pourtant une vision bien définie de son avenir dans l’industrie musicale. En effet, la passion, il l’a dans la peau. ",
+					"spans": [
+						{
+							"start": 77,
+							"end": 94,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/callmemisterkay/"
+							}
+						}
+					]
 				}
 			]
 		},
@@ -102,10 +107,45 @@
 				},
 				{
 					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
 					"text": "Ses inspirations ? Des groupes cultes tels que les Fugees, mais surtout des artistes nigérians “incroyables comme Tems, Femi Kuti, Fireboy, Buju,WizkidAdekunke Gold et américains à la John Mayer, J-cole. Il y a aussi et surtout Dave, dont la masterpiece est Psychodrama, avec qui j’aimerais énormément faire un feat”. La scène actuelle émerge de plus en plus et se fait un nom à l’international et sur de nombreux festivals ",
 					"spans": []
 				}
 			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": true,
+			"text": [],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "Gentle (Freestyle Performance)",
+				"author_name": "MisterKay",
+				"author_url": "https://www.youtube.com/channel/UCFbsbYbN_RzTuXgRbUBcxBw",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/3D0f-ruMflE/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/3D0f-ruMflE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=3D0f-ruMflE"
+			},
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/940f223c-be3e-45cb-bd8c-3645377c739d_Capture+d%E2%80%99e%CC%81cran+2021-12-09+a%CC%80+18.44.40.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2256,
+				"height": 1470,
+				"ratio": 1.5346938775510204
+			},
+			"disposition": "Texte / Video"
 		},
 		{
 			"template": "section-quote",
