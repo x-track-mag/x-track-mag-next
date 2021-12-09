@@ -21,102 +21,106 @@
 		},
 		{
 			"position": 4,
-			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
+			"uid": "misterkay--welcome-to-nigeria"
 		},
 		{
 			"position": 5,
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
 		},
 		{
 			"position": 6,
-			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
 		{
 			"position": 7,
-			"uid": "les-klon-hydre-pop-a-sept-tetes"
+			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
 		},
 		{
 			"position": 8,
-			"uid": "x-track-studio---biaziouka"
+			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
 			"position": 9,
-			"uid": "2020-is-the-year"
+			"uid": "x-track-studio---biaziouka"
 		},
 		{
 			"position": 10,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+			"uid": "2020-is-the-year"
 		},
 		{
 			"position": 11,
-			"uid": "feel-good"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 12,
-			"uid": "nola-cherri"
+			"uid": "feel-good"
 		},
 		{
 			"position": 13,
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
+			"uid": "nola-cherri"
 		},
 		{
 			"position": 14,
-			"uid": "lavenir-de-la-mode-est-il-virtuel"
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		},
 		{
 			"position": 15,
-			"uid": "lhysterie"
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
 			"position": 16,
-			"uid": "new-romance"
+			"uid": "lhysterie"
 		},
 		{
 			"position": 17,
-			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
+			"uid": "new-romance"
 		},
 		{
 			"position": 18,
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
-		},
-		{
-			"position": 19,
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
-		},
-		{
-			"position": 20,
-			"uid": "in-love"
-		},
-		{
-			"position": 21,
-			"uid": "polycool"
-		},
-		{
-			"position": 22,
-			"uid": "les-apparences-trompeuses-du-pretty-privilege"
-		},
-		{
-			"position": 23,
-			"uid": "la-muse--une-icone-feministe-"
-		},
-		{
-			"position": 24,
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
 		},
 		{
+			"position": 19,
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+		},
+		{
+			"position": 20,
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
+		},
+		{
+			"position": 21,
+			"uid": "in-love"
+		},
+		{
+			"position": 22,
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
+		},
+		{
+			"position": 23,
+			"uid": "les-apparences-trompeuses-du-pretty-privilege"
+		},
+		{
+			"position": 24,
+			"uid": "la-muse--une-icone-feministe-"
+		},
+		{
 			"position": 25,
-			"uid": "martin-parr"
+			"uid": "polycool"
 		},
 		{
 			"position": 26,
-			"uid": "page"
+			"uid": "martin-parr"
 		},
 		{
 			"position": 27,
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+			"uid": "page"
 		},
 		{
 			"position": 28,
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
+		},
+		{
+			"position": 29,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		}
 	],
@@ -238,6 +242,30 @@
 			"author": null,
 			"internal_link": null,
 			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
+		},
+		{
+			"uid": "misterkay--welcome-to-nigeria",
+			"tags": [
+				"music",
+				"article"
+			],
+			"publication_date": "2021-12-09T17:46:42+0000",
+			"title": "MisterKay : ”Welcome to Nigeria“ ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/c85e4827-1408-4f5a-96a3-25ffcb413d0e_Y1.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2160,
+				"height": 3240,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "MisterKay : ”Welcome to Nigeria“ "
 		},
 		{
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
@@ -585,25 +613,27 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
-			"uid": "polycool",
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
-				"article",
-				"music"
+				"article"
 			],
-			"publication_date": "2021-08-16T11:40:30+0000",
-			"title": "Polycool",
+			"publication_date": "2021-07-03T07:47:35+0000",
+			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
 			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "Sans titre.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
-				"size": "462073"
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1080,
+				"ratio": 1.7777777777777777
 			},
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassia",
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Manon Pelinq",
 			"internal_link": null,
-			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
+			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
@@ -652,51 +682,25 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage. "
 		},
 		{
-			"uid": "misterkay--welcome-to-nigeria",
+			"uid": "polycool",
 			"tags": [
-				"music",
-				"article"
+				"article",
+				"music"
 			],
-			"publication_date": "2021-12-09T17:46:42+0000",
-			"title": "MisterKay : ”Welcome to Nigeria“ ",
+			"publication_date": "2021-08-16T11:40:30+0000",
+			"title": "Polycool",
 			"subtitle": "",
 			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c85e4827-1408-4f5a-96a3-25ffcb413d0e_Y1.JPG?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2160,
-				"height": 3240,
-				"ratio": 0.6666666666666666
+			"image": null,
+			"video_loop": {
+				"name": "Sans titre.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
+				"size": "462073"
 			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassia",
 			"internal_link": null,
-			"description": "MisterKay : ”Welcome to Nigeria“ "
-		},
-		{
-			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-07-03T07:47:35+0000",
-			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1080,
-				"ratio": 1.7777777777777777
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Manon Pelinq",
-			"internal_link": null,
-			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
+			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
 		},
 		{
 			"uid": "martin-parr",
