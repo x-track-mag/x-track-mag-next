@@ -4,7 +4,7 @@
 		"music",
 		"article"
 	],
-	"publication_date": "2021-12-09T20:31:37+0000",
+	"publication_date": "2021-12-10T16:40:28+0000",
 	"title": "MisterKay : ”Welcome to Nigeria“ ",
 	"subtitle": "",
 	"text_color": "orange",
@@ -18,7 +18,7 @@
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
-	"author": null,
+	"author": "Camille Laurens",
 	"internal_link": null,
 	"sections": [
 		{
@@ -185,6 +185,15 @@
 					"type": "paragraph",
 					"text": "",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/album/4IBSns0nb48yjTkixB4hy4?si=HPS7nojJQTCoZ-Q8zhIx2g&nd=1",
+					"title": "TOAST"
 				}
 			]
 		}
