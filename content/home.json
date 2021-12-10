@@ -29,19 +29,19 @@
 		},
 		{
 			"position": 6,
-			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
-		},
-		{
-			"position": 7,
 			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
 		},
 		{
-			"position": 8,
+			"position": 7,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
-			"position": 9,
+			"position": 8,
 			"uid": "x-track-studio---biaziouka"
+		},
+		{
+			"position": 9,
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
 		},
 		{
 			"position": 10,
@@ -289,29 +289,6 @@
 			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
-			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-11-02T16:47:13+0000",
-			"title": "Léo Fifty Five, artiste à mille pourcent ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a51d0c18-dfc4-4e89-8e65-0a3f96395f2b_unnamed.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 900,
-				"height": 900,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Léo Fifty Five, artiste à mille pourcent "
-		},
-		{
 			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
 			"tags": [
 				"article"
@@ -374,6 +351,29 @@
 			"author": null,
 			"internal_link": null,
 			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
+		},
+		{
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-11-02T16:47:13+0000",
+			"title": "Léo Fifty Five, artiste à mille pourcent ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a51d0c18-dfc4-4e89-8e65-0a3f96395f2b_unnamed.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 900,
+				"height": 900,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Léo Fifty Five, artiste à mille pourcent "
 		},
 		{
 			"uid": "2020-is-the-year",
