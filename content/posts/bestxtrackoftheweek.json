@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-05T10:15:35+0000",
+	"publication_date": "2021-12-12T08:23:09+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "white",
+	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/d6e8266b-5d3e-4673-b059-4957c766a383_Tierra+Whack.jpg?auto=compress,format",
-		"alt": "Tierra Whack",
+		"url": "https://images.prismic.io/x-track-mag/74e6975b-38a5-4cdf-964a-31241f14aee3_Shayhan.jpg?auto=compress,format",
+		"alt": "Shayhan",
 		"copyright": null,
-		"width": 1500,
-		"height": 1500,
-		"ratio": 1
+		"width": 1459,
+		"height": 1360,
+		"ratio": 1.0727941176470588
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Leisure, Tierra Whack, Kaytranada x Mach-Hommy, Jungle x Dave Lee, 1da Banton, PinkPantheress, Asa, TeaMarrr x Meer Colon, Drama, Matt Martians, Nandy x Bill Nass x Mr Eazi, Juls x Oxlade, Ckay, Dijon,Lynn, Jones x Nardedey, Yehra, Flowerovlove, Thundercat x Raedio x Louis Cole x Genevieve Artadi, Nolla Cherri, Charlottre Day Wilson x King Princess x Amaarae x Meshell Ndegeocello, Montell Fish, Gabriels  & ++++ Enjoy",
+					"text": "Skiifall x Badbadnotgood x The kount x Yama//Sato x  Sam I Am x Zibz, Khruangbin x Leon Bridges x Blue Hawaii, Shayhan, Jmani, Oniisha x Justinaaa, Leisure, Tayc, Smyley x Ycee, Tame Impala, Buscabulla, Benny Sings x St Panther x Rae Khalil, Popcaan, Bad with Phones x Carina, Mura Masa, K.Zia, Earthgang, Dajak , Tierra Whack, Fana Hues & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3ff20728-4a77-48af-970f-fa26222a8986_Genevieve+Artadi.jpg?auto=compress,format&rect=0,0,1194,1639&w=1024&h=1406",
-					"alt": "Genevieve Artadi",
+					"url": "https://images.prismic.io/x-track-mag/a79c4dcc-a43e-422e-85d2-221518493c82_Tierra-Whack.jpg?auto=compress,format&rect=0,0,4480,2240&w=1024&h=512",
+					"alt": "Tierra Whack",
 					"copyright": null,
 					"width": 1024,
-					"height": 1406,
-					"ratio": 0.7283072546230441
+					"height": 512,
+					"ratio": 2
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ba78fc16-4a30-4b01-be9e-d0e343569916_Flowerovlove.++.jpg?auto=compress,format&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Flowerovlove",
+					"url": "https://images.prismic.io/x-track-mag/83b9bde4-862e-4837-bcef-72cd6edfd78e_Fana+Hues+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Fana Hues",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/27902c79-5844-416b-9102-89e96c304fe0_TeaMarrr+x+Meer+Colon.jpg?auto=compress,format&rect=0,0,1425,1425&w=1024&h=1024",
-					"alt": "TeaMarrr x Meer Colon",
+					"url": "https://images.prismic.io/x-track-mag/7e094cbf-7165-45fc-88a5-2f9dc3dc1557_K.Zia.jpg?auto=compress,format&rect=0,0,1440,1799&w=1024&h=1279",
+					"alt": "K.Zia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/74606aac-0e9b-48d5-9d21-51e78a5874d9_Yehra+.jpg?auto=compress,format&rect=0,0,1640,924&w=1024&h=577",
-					"alt": "Yehra",
+					"url": "https://images.prismic.io/x-track-mag/a6cc0051-df85-4ea6-b67f-b226d9c0fee2_Bad+with+Phones.jpg?auto=compress,format&rect=0,0,2048,2560&w=1024&h=1280",
+					"alt": "Bad with Phones",
 					"copyright": null,
 					"width": 1024,
-					"height": 577,
-					"ratio": 1.7746967071057191
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/55f01aaa-b3a6-4aeb-beb2-399b77b0e3ba_Mach-Hommy.jpg?auto=compress,format&rect=0,0,1500,1002&w=1024&h=684",
-					"alt": "Mach-Hommy",
+					"url": "https://images.prismic.io/x-track-mag/2dd584b8-1d08-456a-b607-8f3157e29c0e_EarthGang+.jpg?auto=compress,format&rect=0,0,1986,1100&w=1024&h=567",
+					"alt": "EarthGang",
 					"copyright": null,
 					"width": 1024,
-					"height": 684,
-					"ratio": 1.4970760233918128
+					"height": 567,
+					"ratio": 1.8059964726631392
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/787fabf3-7ecd-4e85-896b-bffc21faf289_TeaMarrr++.jpg?auto=compress,format&rect=0,0,2559,1707&w=1024&h=683",
-					"alt": "TeaMarrr ",
+					"url": "https://images.prismic.io/x-track-mag/62255690-0b58-4c26-9879-683c49685adf_Skiifall.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Skiifall",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=691b451178964ac5",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=9c3217cc90054506",
 					"title": "Best ”XTrack“ of the Week "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxbl1ZxslAoV4",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqzNvI2XgBo",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

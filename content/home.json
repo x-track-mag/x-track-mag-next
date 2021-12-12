@@ -182,17 +182,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-12-05T10:15:35+0000",
+			"publication_date": "2021-12-12T08:23:09+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "white",
+			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/d6e8266b-5d3e-4673-b059-4957c766a383_Tierra+Whack.jpg?auto=compress,format",
-				"alt": "Tierra Whack",
+				"url": "https://images.prismic.io/x-track-mag/74e6975b-38a5-4cdf-964a-31241f14aee3_Shayhan.jpg?auto=compress,format",
+				"alt": "Shayhan",
 				"copyright": null,
-				"width": 1500,
-				"height": 1500,
-				"ratio": 1
+				"width": 1459,
+				"height": 1360,
+				"ratio": 1.0727941176470588
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
