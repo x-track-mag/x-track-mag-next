@@ -182,23 +182,23 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-12-12T11:11:22+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
+			"publication_date": "2021-12-18T23:17:53+0000",
+			"title": "Best ”XTrack“ of 2021",
+			"subtitle": "Les meilleurs sons de 2021",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/62255690-0b58-4c26-9879-683c49685adf_Skiifall.jpg?auto=compress,format",
-				"alt": "Skiifall",
+				"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
+				"alt": "Leisure",
 				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
+				"width": 3000,
+				"height": 1663,
+				"ratio": 1.803968731208659
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "Playlist des meilleurs sons de 2021"
 		},
 		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
