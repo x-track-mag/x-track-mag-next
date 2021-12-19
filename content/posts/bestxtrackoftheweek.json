@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-19T09:12:39+0000",
+	"publication_date": "2021-12-19T09:15:53+0000",
 	"title": "Best ”XTrack“ of 2021",
 	"subtitle": "Les meilleurs sons de 2021",
 	"text_color": "orange",
@@ -68,12 +68,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/7a5dd449-2866-4ef0-acb7-a6abe479474b_Falana+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Falana",
+					"url": "https://images.prismic.io/x-track-mag/ef06f514-f9bf-41be-bfa4-762f07303b8c_Hadiya-George-.jpg?auto=compress,format&rect=0,0,2050,1147&w=1024&h=573",
+					"alt": "Hadiya George",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 573,
+					"ratio": 1.787085514834206
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format&rect=0,0,2048,1478&w=1024&h=739",
