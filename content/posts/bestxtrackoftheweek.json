@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-19T08:51:52+0000",
+	"publication_date": "2021-12-19T09:12:39+0000",
 	"title": "Best ”XTrack“ of 2021",
 	"subtitle": "Les meilleurs sons de 2021",
 	"text_color": "orange",
@@ -76,12 +76,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/cee917e9-c1d1-43a8-bbee-1b932d3fd22f_Shay+Lia.jpg?auto=compress,format&rect=0,0,820,1024&w=1024&h=1279",
-					"alt": "Shay Lia",
+					"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format&rect=0,0,2048,1478&w=1024&h=739",
+					"alt": "Billie Eilish",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 739,
+					"ratio": 1.3856562922868743
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/6a09bfa9-bbdd-4aea-b7cb-d11d1a527fce_H.E.R..jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
