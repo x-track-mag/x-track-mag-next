@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-10-30T17:48:29+0000",
+	"publication_date": "2021-12-24T18:56:49+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/dba6520a-55aa-4ea9-ac0d-8da637540c94_Drake.jpg?auto=compress,format",
-		"alt": "Drake",
+		"url": "https://images.prismic.io/x-track-mag/7e1974d5-01dc-4a79-9033-5a11192ad22b_Greentea+Peng.jpg?auto=compress,format",
+		"alt": "Greentea Peng",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
-		"ratio": 1
+		"width": 957,
+		"height": 956,
+		"ratio": 1.0010460251046025
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Childish Gambino x Brittany Howard, Drake x Tems, Darius x Benny Sings, José Gonzalez, Michael Brun x Shay Lia, Patchworks x Pat Kalla, Cruel Youth, Roseaux x Blick Blassy, Sault, Syd, Emotional Oranges x Biig Piig, Jungle, Babeheaven, Chiiild, Hope Tala, Greentea Peng, Leisure, Vanjess, Arlo Parks & +++ enjoy",
+					"text": "Gabriels, Nightmare on Wax x Greentea Peng, Jess BoykinsIII, Biig Piig, Arlo Parks, Leisure, Ric Wilson x Yellow Days, Darieus X Benny Sings, Aprile x Leo Fifty Five, Chiiild x Shungudzo,Vanjess, Michael Brun x Shay Lia, Sault, Syd, Leon Bridges x Ink, Yehra,  Khruangbin, Jose Gonzalez, Asa, Kamauu, Babeheaven, Q, Clairo, Los Retros, Olamide, Drake x Tems, Omah Lay, TeaMarr x Meer Colon, Dangbana Republik x Bella Shmurda, H.E.R. x Judah & the Black Messiah, Caius x Neigh, Cleo Sol  & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -33,43 +33,6 @@
 		{
 			"template": "section-gallery",
 			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/af36ce5c-8017-401a-a2e9-c9082eb57be4_Tems.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Tems",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2f9e73a2-cc34-4085-b156-ea1afab3e63f_Brassens.jpg?auto=compress,format&rect=0,0,1860,1860&w=1024&h=1024",
-					"alt": "Brassens",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/696c553f-3d80-4506-81d1-e978256d2f23_Cruel+Youth+.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
-					"alt": "Cruel Youth",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format&rect=0,0,2046,1229&w=1024&h=615",
-					"alt": "Greentea Peng",
-					"copyright": null,
-					"width": 1024,
-					"height": 615,
-					"ratio": 1.665040650406504
-				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/b3832838-d439-48ee-a9b5-5fde6fde1ddb_Biig+Piig+.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
 					"alt": "Biig Piig ",
@@ -79,8 +42,45 @@
 					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/043c6a61-e7b9-4696-aa25-a6d4ad68b90e_Shay+Lia+.jpg?auto=compress,format&rect=0,0,1280,1600&w=1024&h=1280",
-					"alt": "Shay Lia",
+					"url": "https://images.prismic.io/x-track-mag/b3e1ecd5-1223-426c-83de-a4189fec8dd6_Gabriels.jpg?auto=compress,format&rect=0,0,864,864&w=1024&h=1024",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/01a4be9e-4210-46bf-9e91-ea1400897e25_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "Arlo Parks",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/8dbe9a5d-cbee-4920-b712-a9202b613f65_Vanjess.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
+					"alt": "Vanjess",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5e6fa200-5ca9-479e-89e4-ab826ec902ae_Leon-Bridges+.jpg?auto=compress,format&rect=0,0,560,840&w=1024&h=1536",
+					"alt": "Leon Bridges",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/04b69712-6add-414e-a592-02bfbfea9f5a_Cleo+Sol+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Cleo Sol",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=57aba265f8364029",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=b3f834d18b0d41db",
 					"title": "New romance"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-NpXmx5GIyr3M0",
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-gxbl1mRIlAoV4",
 					"title": "New romance par XTrack"
 				},
 				{
