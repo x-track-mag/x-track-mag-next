@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-19T16:39:46+0000",
+	"publication_date": "2021-12-26T09:10:57+0000",
 	"title": "Best ”XTrack“ of 2021",
 	"subtitle": "Les meilleurs sons de 2021",
-	"text_color": "white",
+	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
-		"alt": "Leisure",
+		"url": "https://images.prismic.io/x-track-mag/f8662582-42f6-4ddb-a798-4dd6188759b4_Stromae.jpg?auto=compress,format",
+		"alt": "Stromae",
 		"copyright": null,
-		"width": 3000,
-		"height": 1663,
-		"ratio": 1.803968731208659
+		"width": 1945,
+		"height": 1945,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Leisure, Juls x Fireboy DML x Niniola, the Cavemen, Crayon x Bella Shmurda, Diplo x Jungle x Damian Lazarus, SG Lewis x Lucky Daye x Kapote, Parcels, Brijean, Jungle, Doja Cat x Disclosure, Aminé,  Worlasi, Yebba, Busy P x Haich Ber Na x Shay Lia, Moanday x Gomz, Muzi x Kaytranada, Burna Boy, Dijon, Falana x Oxlade x Spax, Bruno Mars x Anderson Paak x Silk sonic, Emotional Oranges x Channel Tres,  Michael Brun x Shay Lia, Stevedreez, Kaytranada x H.E.R. Tierra Whack, Billie Eilish, Leon Bridges, Hadiya George x Godmode x Smash Brothers & ++++ Enjoy",
+					"text": "Jungle x Bas, Kaytranada x Thundercat, Terry Presume, Lass x Kazy Lambist,  PawPaw Rod, Khruangbin x Leon Bridges, Jacques, Bellah, Tekno x Mafikizolo, Hope Tala, Patchworks x Pat Kala x Emile Omar, Biig Piig, Amaraae x Kali Utchis x Moliy, Ayanfe x DaVido, Omah Lay, Thutmose x Bankuli, Drake x Tems, Stromae, Burna Boy x Wizkid, Spy Shitta x Olamide, Shay Lia x Adekunle Gold, Matt Martians, Vanjess, Kanye West, Pricie x Genesis Owusu, Nao x Adekunle Gold, Jaz Elise, Nova x Fasina, Arlo Parks, Stevedreez, Juls x Sauti Sol, Tierra Whack & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4724211d-1e8d-46ab-abf7-d3eb9b29b34d_Doja+Cats.jpg?auto=compress,format&rect=0,0,770,770&w=1024&h=1024",
-					"alt": "Doja Cat",
+					"url": "https://images.prismic.io/x-track-mag/b4bf1066-2c6c-4e31-9a27-b24eb30c919f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
+					"alt": "Biig Piig",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c29e4c99-6398-4077-b34d-2688ae3270ff_Amine%CC%81.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
-					"alt": "Aminé ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/69973602-f83d-4225-9d60-a91812d28cbb_Tierra+Whack+.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/ef8115be-cad3-4544-a5a1-54006fea58ea_Kali+Uchis.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
+					"alt": "Kali Uchis",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/18e47fb0-7254-4e60-9a8b-937192fcc48c_Tierra+Whack.jpeg?auto=compress,format&rect=0,0,1556,1556&w=1024&h=1024",
+					"alt": "Tierra Whack",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ef06f514-f9bf-41be-bfa4-762f07303b8c_Hadiya-George-.jpg?auto=compress,format&rect=0,0,2050,1147&w=1024&h=573",
-					"alt": "Hadiya George",
-					"copyright": null,
-					"width": 1024,
-					"height": 573,
-					"ratio": 1.787085514834206
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format&rect=0,0,2048,1478&w=1024&h=739",
-					"alt": "Billie Eilish",
-					"copyright": null,
-					"width": 1024,
-					"height": 739,
-					"ratio": 1.3856562922868743
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/6a09bfa9-bbdd-4aea-b7cb-d11d1a527fce_H.E.R..jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "H.E.R.",
+					"url": "https://images.prismic.io/x-track-mag/3e8269b4-ac84-4b06-91a0-bc6737b45cf2_Amaarae.jpg?auto=compress,format&rect=0,0,1600,1600&w=1024&h=1024",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a49b2736-804e-4091-a2e0-b5df0907e081_Khruanbin.jpg?auto=compress,format&rect=0,0,723,410&w=1024&h=581",
+					"alt": "Khruangbin",
+					"copyright": null,
+					"width": 1024,
+					"height": 581,
+					"ratio": 1.7624784853700517
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/9aa52488-bfed-483a-ac71-e587c73890d0_Tems+.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
+					"alt": "Tems",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=3a979af2aca24ba3",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=c43b76daa4614ced",
 					"title": "Best ”XTrack“ of 2021"
 				},
 				{

@@ -182,17 +182,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-12-19T16:39:46+0000",
+			"publication_date": "2021-12-26T09:10:57+0000",
 			"title": "Best ”XTrack“ of 2021",
 			"subtitle": "Les meilleurs sons de 2021",
-			"text_color": "white",
+			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
-				"alt": "Leisure",
+				"url": "https://images.prismic.io/x-track-mag/f8662582-42f6-4ddb-a798-4dd6188759b4_Stromae.jpg?auto=compress,format",
+				"alt": "Stromae",
 				"copyright": null,
-				"width": 3000,
-				"height": 1663,
-				"ratio": 1.803968731208659
+				"width": 1945,
+				"height": 1945,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
