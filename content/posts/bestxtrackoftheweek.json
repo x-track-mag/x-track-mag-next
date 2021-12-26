@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-26T09:10:57+0000",
+	"publication_date": "2021-12-26T09:28:12+0000",
 	"title": "Best ”XTrack“ of 2021",
 	"subtitle": "Les meilleurs sons de 2021",
 	"text_color": "orange",
@@ -39,12 +39,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b4bf1066-2c6c-4e31-9a27-b24eb30c919f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
-					"alt": "Biig Piig",
+					"url": "https://images.prismic.io/x-track-mag/165310a5-3f12-430c-9541-99cfb94adf02_Amaarae.jpg?auto=compress,format&rect=0,0,1499,685&w=1024&h=468",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 468,
+					"ratio": 2.1880341880341883
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ef8115be-cad3-4544-a5a1-54006fea58ea_Kali+Uchis.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
@@ -55,12 +55,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/18e47fb0-7254-4e60-9a8b-937192fcc48c_Tierra+Whack.jpeg?auto=compress,format&rect=0,0,1556,1556&w=1024&h=1024",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/9aa52488-bfed-483a-ac71-e587c73890d0_Tems+.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -68,12 +68,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3e8269b4-ac84-4b06-91a0-bc6737b45cf2_Amaarae.jpg?auto=compress,format&rect=0,0,1600,1600&w=1024&h=1024",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/b4bf1066-2c6c-4e31-9a27-b24eb30c919f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
+					"alt": "Biig Piig",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/a49b2736-804e-4091-a2e0-b5df0907e081_Khruanbin.jpg?auto=compress,format&rect=0,0,723,410&w=1024&h=581",
@@ -84,12 +84,12 @@
 					"ratio": 1.7624784853700517
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9aa52488-bfed-483a-ac71-e587c73890d0_Tems+.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/18e47fb0-7254-4e60-9a8b-937192fcc48c_Tierra+Whack.jpeg?auto=compress,format&rect=0,0,1556,1556&w=1024&h=1024",
+					"alt": "Tierra Whack",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
