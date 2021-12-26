@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-10-06T08:28:40+0000",
+	"publication_date": "2021-12-26T20:39:45+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format",
-		"alt": "PawPaw Rod",
+		"url": "https://images.prismic.io/x-track-mag/d6e8266b-5d3e-4673-b059-4957c766a383_Tierra+Whack.jpg?auto=compress,format",
+		"alt": "Tierra Whack",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
+		"width": 1500,
+		"height": 1500,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "PawPaw Rod, Terry Presume, Muzi x Kaytranada, Moanday x Gomz, Lass x Kazy Lambist, Crayon x Bella Shmurda, Juls x Niniola, Jungle, Diplo x Damian Lazarus x Jungle, A$AP Rocky,  Yebba, Gabriels, Blundetto x Voilaaa, Tekno, Juls x Twich 4EVA x Quamina Mp, Falan x Oxlade x Spax Sault, Tierra Whack, Busy P x Haich Ber Na x Shay Lia, Stevedreez, Jungle, Emotional Oranges x channel Tres, Michael Brun x Shay Lia, Hadya Geaorges x Godmode x Smash Brothers & +++ Enjoy",
+					"text": "Benny Sings x Marc Rebillet x Mocky x Cola Boyy, Tierra Whack, PawPaw rod, Kaytranada x Tundercat, Moanday x Gomz, Genesis Owusu x Jono Ma, Jungle, Diplo x Damian Lazarus x Jungle, Parcels, SG Lewis x Lucky Daye x Kapote, Doja Cats x Disclosure, Patchworks x Pat kalla x Emile Omar, Cruel Youth, Blundetto x Voilaaa, Tekno, Skip Marley x Popcaan, Crayon x Bella Shmurda, Juls x Twitch 4EVA x Quamina Mp, Falana x Oxlade x Spax, Bellah, Aminé, Gabriels, Yebba, Leon Bridges, Sault, Ric Wilson x Yellow Days, Dijon, Kaytranada x Mach Hommy, Muzi,  Terru Presume, Bruno Mars x Anderson Paak, Emotional Oranges x Channel Tres,  Duran Jones & the indications & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ccd3f47c-69d2-4cd7-b59a-bdd1ae863e29_Tierra+Whack.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/4724211d-1e8d-46ab-abf7-d3eb9b29b34d_Doja+Cats.jpg?auto=compress,format&rect=0,0,770,770&w=1024&h=1024",
+					"alt": "Doja Cat",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5bfe1b9d-8c4a-42b1-9a6e-c7e3f1569459_Diplo.jpg?auto=compress,format&rect=0,0,2560,3413&w=1024&h=1365",
-					"alt": "Diplo",
+					"url": "https://images.prismic.io/x-track-mag/289feb3f-e214-49e8-ab90-0844c6887cb0_Tekno.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
+					"alt": "Tekno",
 					"copyright": null,
 					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/043c6a61-e7b9-4696-aa25-a6d4ad68b90e_Shay+Lia+.jpg?auto=compress,format&rect=0,0,1280,1600&w=1024&h=1280",
-					"alt": "Shay Lia",
+					"url": "https://images.prismic.io/x-track-mag/696c553f-3d80-4506-81d1-e978256d2f23_Cruel+Youth+.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
+					"alt": "Cruel Youth",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ef06f514-f9bf-41be-bfa4-762f07303b8c_Hadiya-George-.jpg?auto=compress,format&rect=0,0,2050,1147&w=1024&h=573",
-					"alt": "Hadiya George",
+					"url": "https://images.prismic.io/x-track-mag/71bcd039-c162-48c5-ade7-4aac51fe43f4_Falana.jpg?auto=compress,format&rect=0,0,918,1042&w=1024&h=1162",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 573,
-					"ratio": 1.787085514834206
+					"height": 1162,
+					"ratio": 0.8812392426850258
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7a5dd449-2866-4ef0-acb7-a6abe479474b_Falana+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Falana",
+					"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "PawPaw Rod",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/284fa92b-89bc-44c5-bc07-a3941c0a94da_Gabriels.jpg?auto=compress,format&rect=0,0,1945,1945&w=1024&h=1024",
-					"alt": "Gabriels",
+					"url": "https://images.prismic.io/x-track-mag/71fe2dde-9d68-4728-a84a-4f6f19959424_Bellah.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
+					"alt": "Bellah",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				}
 			]
 		},
