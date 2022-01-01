@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-26T10:10:56+0000",
+	"publication_date": "2022-01-01T19:36:56+0000",
 	"title": "Best ”XTrack“ of 2021",
 	"subtitle": "Les meilleurs sons de 2021",
 	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f8662582-42f6-4ddb-a798-4dd6188759b4_Stromae.jpg?auto=compress,format",
-		"alt": "Stromae",
+		"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
+		"alt": "Lorde",
 		"copyright": null,
-		"width": 1945,
-		"height": 1945,
+		"width": 3600,
+		"height": 3600,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Jungle x Bas, Kaytranada x Thundercat, Terry Presume, Lass x Kazy Lambist,  PawPaw Rod, Khruangbin x Leon Bridges, Jacques, Bellah, Tekno x Mafikizolo, Hope Tala, Patchworks x Pat Kala x Emile Omar, Biig Piig, Amaarae x Kali Uchis x Moliy, Ayanfe x DaVido, Omah Lay, Thutmose x Bankuli, Drake x Tems, Stromae, Burna Boy x Wizkid, Spy Shitta x Olamide, Shay Lia x Adekunle Gold, Matt Martians, Vanjess, Kanye West, Pricie x Genesis Owusu, Nao x Adekunle Gold, Jaz Elise, Nova x Fasina, Arlo Parks, Stevedreez, Juls x Sauti Sol, Tierra Whack & ++++ Enjoy",
+					"text": "DJ Paak x Reefer Tym, DJ Tunez x J.anthoni, Kaytranada x Mach-Hommy, Joy Crookes, H.E.R., Darius x Benny Sings, Leisure, PawPaw Rod,  The Kount x Marc Rebillet x Moods, Skyfall x Badbadnotgood, Lorde, Leon Bridges x Ink, Yung L, TeaMarrr x Meer Colon, Blaqbonez, Kofi Olomide x Tiwa Savage, PaBrymo x Teni, Skip Marley x popcaan, Aleywya, 808Vic, Fireboy DML x Ed Sheeran, Ria Sean, Leisure, Junia T x Miloh Smith, Olamide, Wizkid x Buju, Tems, Tiwa Savage x Amaarae, Soul Sugar x Leo Carmichael x Guillaume ”Bokker Gee“ Metenier, Buscabulla, 53 Thieves, Benny Sings x Marc Rebillet x Cola Boyy, Jofga Smith x Shaybo & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/165310a5-3f12-430c-9541-99cfb94adf02_Amaarae.jpg?auto=compress,format&rect=0,0,1499,685&w=1024&h=468",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/1f6063e2-909b-4dc6-9362-6aa7b2d2de59_Jorja+Smith.++.jpg?auto=compress,format&rect=0,0,1250,1750&w=1024&h=1434",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 468,
-					"ratio": 2.1880341880341883
+					"height": 1434,
+					"ratio": 0.7140864714086471
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ef8115be-cad3-4544-a5a1-54006fea58ea_Kali+Uchis.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
-					"alt": "Kali Uchis",
+					"url": "https://images.prismic.io/x-track-mag/1198e098-7e30-4ef1-8135-c601cffa6448_Shaybo.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "Shaybo",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9aa52488-bfed-483a-ac71-e587c73890d0_Tems+.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/787fabf3-7ecd-4e85-896b-bffc21faf289_TeaMarrr++.jpg?auto=compress,format&rect=0,0,2559,1707&w=1024&h=683",
+					"alt": "TeaMarrr ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b4bf1066-2c6c-4e31-9a27-b24eb30c919f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
-					"alt": "Biig Piig",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a49b2736-804e-4091-a2e0-b5df0907e081_Khruanbin.jpg?auto=compress,format&rect=0,0,723,410&w=1024&h=581",
-					"alt": "Khruangbin",
-					"copyright": null,
-					"width": 1024,
-					"height": 581,
-					"ratio": 1.7624784853700517
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/18e47fb0-7254-4e60-9a8b-937192fcc48c_Tierra+Whack.jpeg?auto=compress,format&rect=0,0,1556,1556&w=1024&h=1024",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/41e9235a-783d-44b6-be2e-904b7a41fb0b_Aleywya.jpg?auto=compress,format&rect=0,0,1600,1600&w=1024&h=1024",
+					"alt": "Aleywya",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/97c1abf7-6b4e-4a0c-a2a3-911c5c07b7f7_Tiwa+Savage.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "Tiwa Savage",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e25a07bc-0f2f-4bc3-9289-7d2acbf8de37_Ria+Sean+.jpg?auto=compress,format&rect=0,0,960,959&w=1024&h=1023",
+					"alt": "Ria Sean",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=c43b76daa4614ced",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=9fa23fd4426d4fe7",
 					"title": "Best ”XTrack“ of 2021"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2021/pl.u-kv9ldWVTDY8qp",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2021/pl.u-xlyNV7kuvNPRE",
 					"title": "Best ”XTrack“ of 2021 par XTrack"
 				},
 				{
@@ -110,7 +110,7 @@
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-					"title": "Best ”XTrack“ of the Week 🌍"
+					"title": "Best ”XTrack“ of 2021 🌍"
 				}
 			]
 		}

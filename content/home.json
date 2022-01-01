@@ -182,16 +182,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2021-12-26T10:10:56+0000",
+			"publication_date": "2022-01-01T19:36:56+0000",
 			"title": "Best ”XTrack“ of 2021",
 			"subtitle": "Les meilleurs sons de 2021",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f8662582-42f6-4ddb-a798-4dd6188759b4_Stromae.jpg?auto=compress,format",
-				"alt": "Stromae",
+				"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
+				"alt": "Lorde",
 				"copyright": null,
-				"width": 1945,
-				"height": 1945,
+				"width": 3600,
+				"height": 3600,
 				"ratio": 1
 			},
 			"video_loop": null,
