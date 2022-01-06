@@ -1,0 +1,112 @@
+{
+	"uid": "afropop",
+	"tags": [],
+	"publication_date": "2022-01-06T20:13:46+0000",
+	"title": "Afropop",
+	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+	"text_color": "inverted",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/289feb3f-e214-49e8-ab90-0844c6887cb0_Tekno.jpg?auto=compress,format",
+		"alt": "Tekno",
+		"copyright": null,
+		"width": 1500,
+		"height": 1500,
+		"ratio": 1
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Juls x Fireboy DML, Omah Lay, The Cavemen, PaBrymo x Teni, Koffi Olomide x Teni, Tekno x Mafikizolo, Skip Marley x Popcaan, Juls x Twich 4EVA x Quamina MP, Crayon x Bella Shmurda, Krizbeat x Tekno x Harmonize x DJ +Tira, Juls x Niniola, Fireboy DML x Wande Coal, Yung L, Omah Lay, Simi, Buju Banton x Pharell Williams, Burna Boy, Muzi, Lass x Kazy Lambist, Amaarae x Kali Uchis x Moliy, Thutmose x Bankulli, Burna boy x Wizkid, Wizkid x H.E.R., Bawo, Loski x Stormzy, Adekunle Gold  x Patoranking, Yung L x R2Bees; Sholazeal x Yung L, Rema, Drake x Tems, Olamide, Blaqnonez, Yemi Alade, Ruger, Ayra Starr, Buju, CKay, Mister Kay x Egar Boi, Tresor & ++++ Enjoy",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/af36ce5c-8017-401a-a2e9-c9082eb57be4_Tems.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Tems",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d1472585-2702-4a96-9bad-d019c7deaabf_Tiwa+Savage.jpg?auto=compress,format&rect=0,0,1322,1920&w=1024&h=1487",
+					"alt": "Tiwa Savage",
+					"copyright": null,
+					"width": 1024,
+					"height": 1487,
+					"ratio": 0.6886348352387357
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/165310a5-3f12-430c-9541-99cfb94adf02_Amaarae.jpg?auto=compress,format&rect=0,0,1499,685&w=1024&h=468",
+					"alt": "Amaarae",
+					"copyright": null,
+					"width": 1024,
+					"height": 468,
+					"ratio": 2.1880341880341883
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/2fd94e20-895f-43a0-aa4e-b66cda5f3ae6_Burna+Boy.jpg?auto=compress,format&rect=0,0,1092,1092&w=1024&h=1024",
+					"alt": "Burna Boy",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
+					"alt": "Juls",
+					"copyright": null,
+					"width": 1024,
+					"height": 1021,
+					"ratio": 1.0029382957884427
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/4vcp9k3nl0gFzXOjhimDJq?si=911bdf7c3e164c85",
+					"title": "Afropop"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/afropop/pl.u-2aoqzNLs2XgBo",
+					"title": "Afropop par XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/4936380104",
+					"title": "Afropop"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMCkRPuVb2YJ4XdLQXpgsE-b",
+					"title": "Afropop"
+				}
+			]
+		}
+	],
+	"description": "Juls x Fireboy DML, Omah Lay, The Cavemen, PaBrymo x Teni, Koffi Olomide x Teni, Tekno x Mafikizolo, Skip Marley x Popcaan, Juls x Twich 4EVA x Quamina MP, Crayon x Bella Shmurda, Krizbeat x Tekno x Harmonize x DJ +Tira, Juls x Niniola, Fireboy DML x Wande Coal, Yung L, Omah Lay, Simi, Buju Banton x Pharell Williams, Burna Boy, Muzi, Lass x Kazy Lambist, Amaarae x Kali Uchis x Moliy, Thutmose x Bankulli, Burna boy x Wizkid, Wizkid x H.E.R., Bawo, Loski x Stormzy, Adekunle Gold  x Patoranking, Yung L x R2Bees; Sholazeal x Yung L, Rema, Drake x Tems, Olamide, Blaqnonez, Yemi Alade, Ruger, Ayra Starr, Buju, CKay, Mister Kay x Egar Boi, Tresor & ++++ Enjoy"
+}

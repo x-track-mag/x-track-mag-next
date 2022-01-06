@@ -613,6 +613,27 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
+			"uid": "afropop",
+			"tags": [],
+			"publication_date": "2022-01-06T20:13:46+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/289feb3f-e214-49e8-ab90-0844c6887cb0_Tekno.jpg?auto=compress,format",
+				"alt": "Tekno",
+				"copyright": null,
+				"width": 1500,
+				"height": 1500,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Juls x Fireboy DML, Omah Lay, The Cavemen, PaBrymo x Teni, Koffi Olomide x Teni, Tekno x Mafikizolo, Skip Marley x Popcaan, Juls x Twich 4EVA x Quamina MP, Crayon x Bella Shmurda, Krizbeat x Tekno x Harmonize x DJ +Tira, Juls x Niniola, Fireboy DML x Wande Coal, Yung L, Omah Lay, Simi, Buju Banton x Pharell Williams, Burna Boy, Muzi, Lass x Kazy Lambist, Amaarae x Kali Uchis x Moliy, Thutmose x Bankulli, Burna boy x Wizkid, Wizkid x H.E.R., Bawo, Loski x Stormzy, Adekunle Gold  x Patoranking, Yung L x R2Bees; Sholazeal x Yung L, Rema, Drake x Tems, Olamide, Blaqnonez, Yemi Alade, Ruger, Ayra Starr, Buju, CKay, Mister Kay x Egar Boi, Tresor & ++++ Enjoy"
+		},
+		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
 				"article"
