@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-01-02T10:40:23+0000",
+	"publication_date": "2022-01-08T20:29:02+0000",
 	"title": "Best ”XTrack“ of 2021",
 	"subtitle": "Les meilleurs sons de 2021",
-	"text_color": "orange",
+	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
-		"alt": "Lorde",
+		"url": "https://images.prismic.io/x-track-mag/f845826d-979e-446c-b4de-48c082f4608c_Jorja+Smith.jpg?auto=compress,format",
+		"alt": "Jorja Smith",
 		"copyright": null,
-		"width": 3600,
-		"height": 3600,
-		"ratio": 1
+		"width": 2000,
+		"height": 1123,
+		"ratio": 1.7809439002671417
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "DJ Paak x Reefer Tym, DJ Tunez x J. Anthoni, Kaytranada x Mach-Hommy, Joy Crookes, H.E.R., Darius x Benny Sings, Leisure, PawPaw Rod,  The Kount x Marc Rebillet x Moods, Skiifall x Badbadnotgood, Lorde, Leon Bridges x Ink, Yung L, TeaMarrr x Meer Colon, Blaqbonez, Koffi Olomide x Tiwa Savage, PaBrymo x Teni, Skip Marley x Popcaan, Alewya, 808Vic, Fireboy DML x Ed Sheeran, Ria Sean, Leisure, Junia T x Miloh Smith, Olamide, Wizkid x Buju, Tems, Tiwa Savage x Amaarae, Soul Sugar x Leo Carmichael x Guillaume ”Bokker Gee“ Metenier, Buscabulla, 53 Thieves, Benny Sings x Marc Rebillet x Cola Boyy, Jorga Smith x Shaybo & ++++ Enjoy",
+					"text": "Jorga Smith x Shaybo, Boj x Zamir x Amaarae, Childish Gambino x Brittany Howard, Chiiild x Mahalia, floweroflove, Jesse Boykins III, Versis, Bruno Mars x Anderson Paak x Silk Sonic, dvsn x Ty Dolla $ign x Buju Banton, Lucky Daye, Little Simz, Swindle x Greentea Peng, Blundetto x Hindi zahra, Gabriels, Facesoul, Serpentwithfeet, Nola Cherri, Charlotte Day Wilson x King Princess x Amaarae x Meshel Ndegeocello, Raveena, DWY & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,53 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/1f6063e2-909b-4dc6-9362-6aa7b2d2de59_Jorja+Smith.++.jpg?auto=compress,format&rect=0,0,1250,1750&w=1024&h=1434",
-					"alt": "Jorja Smith",
-					"copyright": null,
-					"width": 1024,
-					"height": 1434,
-					"ratio": 0.7140864714086471
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/1198e098-7e30-4ef1-8135-c601cffa6448_Shaybo.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
+					"url": "https://images.prismic.io/x-track-mag/41e65794-2223-48a0-bd14-ce4c9c8319ee_Shaybo.+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
 					"alt": "Shaybo",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/787fabf3-7ecd-4e85-896b-bffc21faf289_TeaMarrr++.jpg?auto=compress,format&rect=0,0,2559,1707&w=1024&h=683",
-					"alt": "TeaMarrr ",
+					"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format&rect=0,0,2257,1715&w=1024&h=778",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/4631c31f-5744-40bc-b9c4-0c3726d68a30_Alewya+.jpg?auto=compress,format&rect=0,0,1591,1061&w=1024&h=683",
-					"alt": "Alewya",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 778,
+					"ratio": 1.3161953727506426
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/97c1abf7-6b4e-4a0c-a2a3-911c5c07b7f7_Tiwa+Savage.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
-					"alt": "Tiwa Savage",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e25a07bc-0f2f-4bc3-9289-7d2acbf8de37_Ria+Sean+.jpg?auto=compress,format&rect=0,0,960,959&w=1024&h=1023",
-					"alt": "Ria Sean",
+					"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format&rect=0,0,957,956&w=1024&h=1023",
+					"alt": "Greentea Peng ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1023,
@@ -94,10 +65,39 @@
 			]
 		},
 		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/9eaa93c4-1bea-427e-8f49-21d5a7db6efc_Flowerovlove.jpg?auto=compress,format&rect=0,0,1500,1080&w=1024&h=737",
+					"alt": "Flowerovlove",
+					"copyright": null,
+					"width": 1024,
+					"height": 737,
+					"ratio": 1.389416553595658
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/97b23824-7d52-48df-8cbd-e7dc326ca445_Raveena.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Raveena",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8265c654-39e2-4975-9ddc-6dc830888d99_Mahalia.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Mahalia",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=9fa23fd4426d4fe7",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=26be28b16a0a4e26",
 					"title": "Best ”XTrack“ of 2021"
 				},
 				{

@@ -186,17 +186,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-01-02T10:40:23+0000",
+			"publication_date": "2022-01-08T20:29:02+0000",
 			"title": "Best ”XTrack“ of 2021",
 			"subtitle": "Les meilleurs sons de 2021",
-			"text_color": "orange",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/efde0ddb-c9fd-4232-9254-7c5353933c4d_Lorde.jpg?auto=compress,format",
-				"alt": "Lorde",
+				"url": "https://images.prismic.io/x-track-mag/f845826d-979e-446c-b4de-48c082f4608c_Jorja+Smith.jpg?auto=compress,format",
+				"alt": "Jorja Smith",
 				"copyright": null,
-				"width": 3600,
-				"height": 3600,
-				"ratio": 1
+				"width": 2000,
+				"height": 1123,
+				"ratio": 1.7809439002671417
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
