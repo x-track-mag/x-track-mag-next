@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-01-08T20:29:02+0000",
+	"publication_date": "2022-01-09T08:52:28+0000",
 	"title": "Best ”XTrack“ of 2021",
 	"subtitle": "Les meilleurs sons de 2021",
 	"text_color": "white",
@@ -47,12 +47,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/897e51d7-3186-449d-9f5a-6805aafbe4c6_Enny+.jpg?auto=compress,format&rect=0,0,2257,1715&w=1024&h=778",
+					"url": "https://images.prismic.io/x-track-mag/87ad30d1-5c0d-4ce7-9c0c-de35b8bf0935_Enny.+.jpg?auto=compress,format&rect=0,0,1509,1127&w=1024&h=765",
 					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 778,
-					"ratio": 1.3161953727506426
+					"height": 765,
+					"ratio": 1.3385620915032679
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format&rect=0,0,957,956&w=1024&h=1023",
@@ -68,14 +68,6 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9eaa93c4-1bea-427e-8f49-21d5a7db6efc_Flowerovlove.jpg?auto=compress,format&rect=0,0,1500,1080&w=1024&h=737",
-					"alt": "Flowerovlove",
-					"copyright": null,
-					"width": 1024,
-					"height": 737,
-					"ratio": 1.389416553595658
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/97b23824-7d52-48df-8cbd-e7dc326ca445_Raveena.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
 					"alt": "Raveena",
 					"copyright": null,
@@ -90,6 +82,14 @@
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/9eaa93c4-1bea-427e-8f49-21d5a7db6efc_Flowerovlove.jpg?auto=compress,format&rect=0,0,1500,1080&w=1024&h=737",
+					"alt": "Flowerovlove",
+					"copyright": null,
+					"width": 1024,
+					"height": 737,
+					"ratio": 1.389416553595658
 				}
 			]
 		},
