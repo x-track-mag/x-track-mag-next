@@ -638,6 +638,29 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
+			"uid": "boys-noize-resonne-toujours-plus-fort",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2022-01-13T15:24:15+0000",
+			"title": "Boys Noize résonne toujours plus fort ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1616,
+				"height": 1080,
+				"ratio": 1.4962962962962962
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Boys Noize résonne toujours plus fort "
+		},
+		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
 				"article"

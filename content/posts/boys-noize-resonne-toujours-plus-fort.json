@@ -1,0 +1,273 @@
+{
+	"uid": "boys-noize-resonne-toujours-plus-fort",
+	"tags": [
+		"article"
+	],
+	"publication_date": "2022-01-13T15:24:15+0000",
+	"title": "Boys Noize résonne toujours plus fort ",
+	"subtitle": "",
+	"text_color": "white",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 1616,
+		"height": 1080,
+		"ratio": 1.4962962962962962
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Camille Laurens",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "Boys Noize résonne toujours plus fort ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 38,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Plus d’un a grandi avec l’énergie techno du DJ et producteur international ultra réputé dans le milieu de la musique électro. Et aujourd’hui encore, avec un album aux côtés d’ovnis comme Abra ou Tommy Cash, Boys Noize prouve qu’il n’a rien perdu de son intensité : Rencontre à 200 BPM. ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 286,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "A bientôt 40 ans, on pourrait penser le trublion des clubs calmé, loin de là ! NOT AT ALL ! Plus que jamais, l’artiste multiplie les projets et les productions aux côtés de pointures décalées dont on valide à fond les projets. Toujours un coup d’avance, même deux, Boys Noize, de son vrai nom Alexander Ridha, se mue avec l'intelligence et la finesse des visionnaires. S’il a été un pionnier dans la musique électronique berlinoise, puis mondiale, c’est que l’artiste a toujours su s’entourer des talents bruts : d’abord via ses remix, puis ses prods, et enfin ses collaborations. Entre un Mr Oizo, Jean-Michel Jarre, DJ Mehdi, ses proches sont un vivier en ébullition de pépites sonores ! Et pour ne pas flatter notre ego, le DJ confesse se sentir très connecté à la capitale : “Je me sens proche de Paris, entre mes amis et mes premiers DJ sets au Rex Club en 2005 … Même lorsque je suis à Berlin, je pense souvent à Paris. J’ai commencé si tôt et tout s'est emballé… à 16 ans ! Dès ma première perf’ à Hambourg, j’ai enchaîné les clubs de Berlin et la Love Parade, la techno a explosé là-bas, je suis tombé amoureux de la rave puis de la prod’... J’ai fait des centaines de compos ! Et il y a eu la rencontre avec la French Touch”. ",
+					"spans": [
+						{
+							"start": 780,
+							"end": 1235,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Je me sens proche de Paris, entre mes amis et mes premiers DJ sets au Rex Club en 2005 … Même lorsque je suis à Berlin, je pense souvent à Paris. J’ai commencé si tôt et tout s'est emballé… à 16 ans ! Dès ma première perf’ à Hambourg, j’ai enchaîné les clubs de Berlin et la Love Parade, la techno a explosé là-bas, je suis tombé amoureux de la rave puis de la prod’... J’ai fait des centaines de compos ! Et il y a eu la rencontre avec la French Touch.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/be5dd35c-1e46-429e-af57-703709d94bd5_18623418_10155134803425803_6025474532098857131_o.jpg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 1200,
+						"height": 1500
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Et pas des moindres ! ",
+					"spans": []
+				},
+				{
+					"type": "heading2",
+					"text": "Du Djing à la production : Le match Ed Banger ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 46,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "L’amitié avec le duo visionnaire de Justice naît à la suite de We are your friends qui fait renaître les heures de gloire de la French Touch. A la suite de cette rencontre artistique, Boys Noize lance son label indépendant. Selon lui, sa touche personnelle vient du mélange entre la deep house d’Hambourg et la techno berlinoise ",
+					"spans": [
+						{
+							"start": 63,
+							"end": 83,
+							"type": "em"
+						},
+						{
+							"start": 127,
+							"end": 139,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Les deux entités se moquaient mutuellement les uns des autres. Il y avait les durs VS les softs. Mais en 2003, l’électro-clash a réconcilié les deux bandes. Un mélange entre le punk new-yorkais, l’électro, la house et la pop, qui a marché, tout était possible ! Remixée du Beyoncé avec des clashs en arrière-fond : je me suis senti libre comme jamais ! Et en même temps, j’avais cette énergie berlinoise très deep. Sacré mélange ?",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "image",
+					"url": "https://images.prismic.io/x-track-mag/6f63146b-9ef4-40b5-8352-028490ecdb6a_75196342_10157477626590803_2573987880611348480_n.jpg?auto=compress,format",
+					"alt": null,
+					"copyright": null,
+					"dimensions": {
+						"width": 642,
+						"height": 960
+					}
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "D’où l’envie de créer un label et de produire en fonction de ses envies, de ses désirs. Pour lui, la techno existe par elle-même, la liberté en prime. Puis c’est Depeche Mode qui remixe ses sons grâce à l'arrivée de Myspace qui révolutionne le game. Et par ce biais avec Ed Banger ! “Lorsque j’ai joué avec Justice à Londres à la Fabrick, je me suis dit Wouah, ils sont en avance ces mecs ! Incroyable. A Berlin, il n’y avait plus que la minimal, j’étais si ennuyé, Ed Banger m’a réveillé ! Après j’ai commencé à produire, beaucoup, toujours, jusqu'à aujourd'hui…”",
+					"spans": [
+						{
+							"start": 284,
+							"end": 564,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "De Tommy Cash, Kelsey Lu et Abra : la fine fleur de la scène underground",
+					"spans": [
+						{
+							"start": 0,
+							"end": 72,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Après avoir cassé les beats des clubs avec ses remix disco, techno, house, le DJ a voulu s’attaquer à la suite : référence ultime jouée aux quatre coins du monde, Boys Noise voit plus loin. Entouré de ses modulars, de ses guitares fabriquées, montées et remontées, le musicien souhaite réinventer son art.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Les rencontres comme Tommy Cash tombent du ciel ! Il m’avait écrit mais je n’avais pas vu, quand je suis allé jouer à Tallinn il y a 3 ans : coup de foudre ! Il est venu sur Berlin et on n’a pas arrêté ! Il est fou … C’est organique entre nous. Pour la sortie de mon dernier album il y a deux mois, je voulais sa patte sur un des morceaux",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Sorti il y a deux mois, le dernier album +I-  du DJ, comosé de 14 morceaux, est un mélange vibrant entre des univers puissants, le tout saupoudré de lourds feats avec par exemple Kelsey Lu chanteuse et violoncelliste afro-américaine, Abra, chanteuse RnB américaine ou encore Jake Shears, membre du groupe disco Scissor Sisters ! ",
+					"spans": [
+						{
+							"start": 41,
+							"end": 44,
+							"type": "em"
+						},
+						{
+							"start": 41,
+							"end": 44,
+							"type": "strong"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Toujours là où l'on ne l’attend pas, Boys Noize est et restera unique, pour notre plus grand night kiff ! Un dernier conseil ? “Faites du bruit” ! À vos ordres … ",
+					"spans": [
+						{
+							"start": 127,
+							"end": 145,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "NB : En concert à Paris en avril 2022 …",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": " ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": " ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv?si=Kv7K5cqfQdyB9mOyO8S5FQ",
+					"title": "Boys Noize"
+				}
+			]
+		}
+	],
+	"description": "Boys Noize résonne toujours plus fort "
+}
