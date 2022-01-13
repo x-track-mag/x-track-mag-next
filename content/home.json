@@ -9,6 +9,10 @@
 	"pinned_posts": [
 		{
 			"position": 1,
+			"uid": "boys-noize-resonne-toujours-plus-fort"
+		},
+		{
+			"position": 2,
 			"uid": "bestxtrackoftheweek"
 		},
 		{
@@ -16,7 +20,7 @@
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
 		{
-			"position": 3,
+			"position": 4,
 			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		},
 		{
@@ -24,19 +28,19 @@
 			"uid": "afropop"
 		},
 		{
-			"position": 5,
+			"position": 6,
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
 		{
-			"position": 6,
+			"position": 7,
 			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
 		},
 		{
-			"position": 7,
+			"position": 8,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
-			"position": 8,
+			"position": 9,
 			"uid": "x-track-studio---biaziouka"
 		},
 		{
@@ -44,7 +48,7 @@
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
 		},
 		{
-			"position": 10,
+			"position": 11,
 			"uid": "2020-is-the-year"
 		},
 		{
@@ -182,27 +186,27 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "bestxtrackoftheweek",
+			"uid": "boys-noize-resonne-toujours-plus-fort",
 			"tags": [
-				"music"
+				"article"
 			],
-			"publication_date": "2022-01-09T10:20:23+0000",
-			"title": "Best ”XTrack“ of 2021",
-			"subtitle": "Les meilleurs sons de 2021",
+			"publication_date": "2022-01-13T15:28:41+0000",
+			"title": "Boys Noize résonne toujours plus fort ",
+			"subtitle": "",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f845826d-979e-446c-b4de-48c082f4608c_Jorja+Smith.jpg?auto=compress,format",
-				"alt": "Jorja Smith",
+				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 2000,
-				"height": 1123,
-				"ratio": 1.7809439002671417
+				"width": 1616,
+				"height": 1080,
+				"ratio": 1.4962962962962962
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de 2021"
+			"description": "Boys Noize résonne toujours plus fort "
 		},
 		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
@@ -228,24 +232,27 @@
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
 		},
 		{
-			"uid": "yayayayoutube-ep-3-ophelie-summer",
+			"uid": "bestxtrackoftheweek",
 			"tags": [
-				"article"
+				"music"
 			],
-			"publication_date": "2021-09-29T15:18:54+0000",
-			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
-			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "EDIT_INSTA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
-				"size": "1730419"
+			"publication_date": "2022-01-09T10:20:23+0000",
+			"title": "Best ”XTrack“ of 2021",
+			"subtitle": "Les meilleurs sons de 2021",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/f845826d-979e-446c-b4de-48c082f4608c_Jorja+Smith.jpg?auto=compress,format",
+				"alt": "Jorja Smith",
+				"copyright": null,
+				"width": 2000,
+				"height": 1123,
+				"ratio": 1.7809439002671417
 			},
-			"template": "3: Image + Titre",
-			"author": null,
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
+			"description": "Playlist des meilleurs sons de 2021"
 		},
 		{
 			"uid": "afropop",
@@ -267,6 +274,26 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Juls x Fireboy DML, Omah Lay, The Cavemen, PaBrymo x Teni, Koffi Olomide x Teni, Tekno x Mafikizolo, Skip Marley x Popcaan, Juls x Twich 4EVA x Quamina MP, Crayon x Bella Shmurda, Krizbeat x Tekno x Harmonize x DJ +Tira, Juls x Niniola, Fireboy DML x Wande Coal, Yung L, Omah Lay, Simi, Buju Banton x Pharell Williams, Burna Boy, Muzi, Lass x Kazy Lambist, Amaarae x Kali Uchis x Moliy, Thutmose x Bankulli, Burna boy x Wizkid, Wizkid x H.E.R., Bawo, Loski x Stormzy, Adekunle Gold  x Patoranking, Yung L x R2Bees; Sholazeal x Yung L, Rema, Drake x Tems, Olamide, Blaqnonez, Yemi Alade, Ruger, Ayra Starr, Buju, CKay, Mister Kay x Egar Boi, Tresor & ++++ Enjoy"
+		},
+		{
+			"uid": "yayayayoutube-ep-3-ophelie-summer",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-09-29T15:18:54+0000",
+			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
+			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "EDIT_INSTA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
+				"size": "1730419"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
@@ -334,26 +361,6 @@
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
-			"uid": "x-track-studio---biaziouka",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-07-03T07:48:37+0000",
-			"title": "X-Track Studio - Biaziouka ",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
-		},
-		{
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
 			"tags": [
 				"article"
@@ -377,23 +384,24 @@
 			"description": "Léo Fifty Five, artiste à mille pourcent "
 		},
 		{
-			"uid": "2020-is-the-year",
+			"uid": "x-track-studio---biaziouka",
 			"tags": [
-				"article"
+				"music"
 			],
-			"publication_date": "2022-01-06T19:08:46+0000",
-			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"publication_date": "2021-07-03T07:48:37+0000",
+			"title": "X-Track Studio - Biaziouka ",
 			"subtitle": "",
-			"text_color": "white",
+			"text_color": "inverted",
 			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"video_loop": {
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
 			},
-			"description": ""
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",
@@ -638,27 +646,23 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
-			"uid": "boys-noize-resonne-toujours-plus-fort",
+			"uid": "2020-is-the-year",
 			"tags": [
 				"article"
 			],
-			"publication_date": "2022-01-13T15:28:41+0000",
-			"title": "Boys Noize résonne toujours plus fort ",
+			"publication_date": "2022-01-06T19:08:46+0000",
+			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
 			"subtitle": "",
 			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1616,
-				"height": 1080,
-				"ratio": 1.4962962962962962
-			},
+			"image": null,
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Boys Noize résonne toujours plus fort "
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
 		},
 		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
