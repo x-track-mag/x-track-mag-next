@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2022-01-13T15:25:34+0000",
+	"publication_date": "2022-01-13T15:28:41+0000",
 	"title": "Boys Noize résonne toujours plus fort ",
 	"subtitle": "",
 	"text_color": "white",
@@ -169,7 +169,7 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "paragraph",
+					"type": "heading2",
 					"text": "De Tommy Cash, Kelsey Lu et Abra : la fine fleur de la scène underground",
 					"spans": [
 						{
@@ -178,12 +178,12 @@
 							"type": "strong"
 						}
 					]
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
 				{
 					"type": "paragraph",
 					"text": "Après avoir cassé les beats des clubs avec ses remix disco, techno, house, le DJ a voulu s’attaquer à la suite : référence ultime jouée aux quatre coins du monde, Boys Noise voit plus loin. Entouré de ses modulars, de ses guitares fabriquées, montées et remontées, le musicien souhaite réinventer son art.",
