@@ -3,7 +3,7 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2022-01-13T15:24:15+0000",
+	"publication_date": "2022-01-13T15:25:34+0000",
 	"title": "Boys Noize résonne toujours plus fort ",
 	"subtitle": "",
 	"text_color": "white",
@@ -52,14 +52,8 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "A bientôt 40 ans, on pourrait penser le trublion des clubs calmé, loin de là ! NOT AT ALL ! Plus que jamais, l’artiste multiplie les projets et les productions aux côtés de pointures décalées dont on valide à fond les projets. Toujours un coup d’avance, même deux, Boys Noize, de son vrai nom Alexander Ridha, se mue avec l'intelligence et la finesse des visionnaires. S’il a été un pionnier dans la musique électronique berlinoise, puis mondiale, c’est que l’artiste a toujours su s’entourer des talents bruts : d’abord via ses remix, puis ses prods, et enfin ses collaborations. Entre un Mr Oizo, Jean-Michel Jarre, DJ Mehdi, ses proches sont un vivier en ébullition de pépites sonores ! Et pour ne pas flatter notre ego, le DJ confesse se sentir très connecté à la capitale : “Je me sens proche de Paris, entre mes amis et mes premiers DJ sets au Rex Club en 2005 … Même lorsque je suis à Berlin, je pense souvent à Paris. J’ai commencé si tôt et tout s'est emballé… à 16 ans ! Dès ma première perf’ à Hambourg, j’ai enchaîné les clubs de Berlin et la Love Parade, la techno a explosé là-bas, je suis tombé amoureux de la rave puis de la prod’... J’ai fait des centaines de compos ! Et il y a eu la rencontre avec la French Touch”. ",
-					"spans": [
-						{
-							"start": 780,
-							"end": 1235,
-							"type": "em"
-						}
-					]
+					"text": "A bientôt 40 ans, on pourrait penser le trublion des clubs calmé, loin de là ! NOT AT ALL ! Plus que jamais, l’artiste multiplie les projets et les productions aux côtés de pointures décalées dont on valide à fond les projets. Toujours un coup d’avance, même deux, Boys Noize, de son vrai nom Alexander Ridha, se mue avec l'intelligence et la finesse des visionnaires. S’il a été un pionnier dans la musique électronique berlinoise, puis mondiale, c’est que l’artiste a toujours su s’entourer des talents bruts : d’abord via ses remix, puis ses prods, et enfin ses collaborations. Entre un Mr Oizo, Jean-Michel Jarre, DJ Mehdi, ses proches sont un vivier en ébullition de pépites sonores ! Et pour ne pas flatter notre ego, le DJ confesse se sentir très connecté à la capitale :",
+					"spans": []
 				}
 			]
 		},
