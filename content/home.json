@@ -9,11 +9,11 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "boys-noize-resonne-toujours-plus-fort"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 2,
-			"uid": "bestxtrackoftheweek"
+			"uid": "boys-noize-resonne-toujours-plus-fort"
 		},
 		{
 			"position": 3,
@@ -190,6 +190,29 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "bestxtrackoftheweek",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-01-16T09:47:11+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
+				"alt": "FKA Twigs",
+				"copyright": null,
+				"width": 1920,
+				"height": 1920,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist des meilleurs sons de la semaine"
+		},
+		{
 			"uid": "boys-noize-resonne-toujours-plus-fort",
 			"tags": [
 				"article",
@@ -212,29 +235,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Boys Noize"
-		},
-		{
-			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-01-16T09:47:11+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
-				"alt": "FKA Twigs",
-				"copyright": null,
-				"width": 1920,
-				"height": 1920,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
