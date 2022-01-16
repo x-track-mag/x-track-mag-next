@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-01-09T10:20:23+0000",
-	"title": "Best ”XTrack“ of 2021",
-	"subtitle": "Les meilleurs sons de 2021",
+	"publication_date": "2022-01-16T09:47:11+0000",
+	"title": "Best ”XTrack“ of the Week",
+	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f845826d-979e-446c-b4de-48c082f4608c_Jorja+Smith.jpg?auto=compress,format",
-		"alt": "Jorja Smith",
+		"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
+		"alt": "FKA Twigs",
 		"copyright": null,
-		"width": 2000,
-		"height": 1123,
-		"ratio": 1.7809439002671417
+		"width": 1920,
+		"height": 1920,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,12 +25,12 @@
 			"text": [
 				{
 					"type": "heading3",
-					"text": "Les meilleurs sons de 2021",
+					"text": "Les meilleurs sons de la semaine",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Jorga Smith x Shaybo, Boj x Zamir x Amaarae, Childish Gambino x Brittany Howard, Chiiild x Mahalia, flowerovlove, Jesse Boykins III, Versis, Bruno Mars x Anderson Paak x Silk Sonic, dvsn x Ty Dolla $ign x Buju Banton, Lucky Daye, Little Simz, Swindle x Greentea Peng, Blundetto x Hindi zahra, Gabriels, Facesoul, Serpentwithfeet, Nola Cherri, Charlotte Day Wilson x King Princess x Amaarae x Meshel Ndegeocello, Raveena, DWY & ++++ Enjoy",
+					"text": "FKa Twigs x Rema, Young T & Bugsey x Chronixx, Blanco Palamera, Dexter, Carrie Baxter, Benjiflow x juls, Burna Boy x  Wizkid, Shungudzo x Joy Oladokun, Dream Team, Amber Mark x Popcaan, Fireboy DML x Ed sheeran, J.Lamotta, Le Moineau, Elujay, Jay Trigga, Taiyel x Larry Gaaga, Ruger, Stromae & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,57 +39,57 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/41e65794-2223-48a0-bd14-ce4c9c8319ee_Shaybo.+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Shaybo",
+					"url": "https://images.prismic.io/x-track-mag/db4f8544-3290-40df-ba25-c597074f96ef_Amber+Mark+.jpg?auto=compress,format&rect=0,0,1080,1269&w=1024&h=1203",
+					"alt": "Amber Mark",
+					"copyright": null,
+					"width": 1024,
+					"height": 1203,
+					"ratio": 0.8512053200332502
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f942336e-e351-464f-8b66-f94e229261a5_Burna+Boy.jpg?auto=compress,format&rect=0,0,1280,1920&w=1024&h=1536",
+					"alt": "Burna Boy",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f253ec92-f6b2-4740-87df-fee4cde24c9a_Shungudzo.jpg?auto=compress,format&rect=0,0,2000,1000&w=1024&h=512",
+					"alt": "Shungudzo",
+					"copyright": null,
+					"width": 1024,
+					"height": 512,
+					"ratio": 2
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/dff9d8e9-1524-430a-9268-b0531ebf2586_Dexter.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Dexter",
 					"copyright": null,
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/87ad30d1-5c0d-4ce7-9c0c-de35b8bf0935_Enny.+.jpg?auto=compress,format&rect=0,0,1509,1127&w=1024&h=765",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/e2f67a84-732b-4d5d-b6c5-727627696ca0_Wizkid.jpg?auto=compress,format&rect=0,0,1507,942&w=1024&h=640",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 765,
-					"ratio": 1.3385620915032679
+					"height": 640,
+					"ratio": 1.6
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format&rect=0,0,957,956&w=1024&h=1023",
-					"alt": "Greentea Peng ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/97b23824-7d52-48df-8cbd-e7dc326ca445_Raveena.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Raveena",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/8265c654-39e2-4975-9ddc-6dc830888d99_Mahalia.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/41982b9b-bb9d-4987-8073-1d52bd8294f8_J.Lamotta.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "J.Lamotta",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/9eaa93c4-1bea-427e-8f49-21d5a7db6efc_Flowerovlove.jpg?auto=compress,format&rect=0,0,1500,1080&w=1024&h=737",
-					"alt": "Flowerovlove",
-					"copyright": null,
-					"width": 1024,
-					"height": 737,
-					"ratio": 1.389416553595658
 				}
 			]
 		},
@@ -97,23 +97,23 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=26be28b16a0a4e26",
-					"title": "Best ”XTrack“ of 2021"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=551233952b48416c",
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2021/pl.u-xlyNV7kuvNPRE",
-					"title": "Best ”XTrack“ of 2021 par XTrack"
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXB3eGT0j3MD",
+					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
-					"title": "Best ”XTrack“ of 2021"
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-					"title": "Best ”XTrack“ of 2021 🌍"
+					"title": "Best ”XTrack“ of the Week 🌍"
 				}
 			]
 		}
 	],
-	"description": "Playlist des meilleurs sons de 2021"
+	"description": "Playlist des meilleurs sons de la semaine"
 }
