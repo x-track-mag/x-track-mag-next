@@ -194,17 +194,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-01-16T09:47:11+0000",
+			"publication_date": "2022-01-23T10:38:17+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
-				"alt": "FKA Twigs",
+				"url": "https://images.prismic.io/x-track-mag/2b808ad1-85b9-4f3c-b832-38d5e5abf563_The+Game-x-Kanye+West.jpg?auto=compress,format",
+				"alt": "The Game x Kanye West",
 				"copyright": null,
-				"width": 1920,
-				"height": 1920,
-				"ratio": 1
+				"width": 2500,
+				"height": 2448,
+				"ratio": 1.0212418300653594
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

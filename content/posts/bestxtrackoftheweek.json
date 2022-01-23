@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-01-16T09:47:11+0000",
+	"publication_date": "2022-01-23T10:38:17+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
-		"alt": "FKA Twigs",
+		"url": "https://images.prismic.io/x-track-mag/2b808ad1-85b9-4f3c-b832-38d5e5abf563_The+Game-x-Kanye+West.jpg?auto=compress,format",
+		"alt": "The Game x Kanye West",
 		"copyright": null,
-		"width": 1920,
-		"height": 1920,
-		"ratio": 1
+		"width": 2500,
+		"height": 2448,
+		"ratio": 1.0212418300653594
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "FKa Twigs x Rema, Young T & Bugsey x Chronixx, Blanco Palamera, Dexter, Carrie Baxter, Benjiflow x juls, Burna Boy x  Wizkid, Shungudzo x Joy Oladokun, Dream Team, Amber Mark x Popcaan, Fireboy DML x Ed sheeran, J.Lamotta, Le Moineau, Elujay, Jay Trigga, Taiyel x Larry Gaaga, Ruger, Stromae & ++++ Enjoy",
+					"text": "The Game x Kanye West, Ruger, Adekunle Gold, Asake x Olamide, Jacques, Laurent Bardainne x Tigre d'Eau Douce,  Evansi x Teni, Beirut, Bonobo x Kadhja bonet, Slenderbodies, Stefflon Don, Ivy Sole, Guadap 4000, Turunesh, Khruangbin x Leon Bridges, Lana Del Rey & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/db4f8544-3290-40df-ba25-c597074f96ef_Amber+Mark+.jpg?auto=compress,format&rect=0,0,1080,1269&w=1024&h=1203",
-					"alt": "Amber Mark",
+					"url": "https://images.prismic.io/x-track-mag/d1696940-4f14-4777-8de4-787087eac438_Turunesh+.jpg?auto=compress,format&rect=0,0,1830,2137&w=1024&h=1196",
+					"alt": "Turunesh",
 					"copyright": null,
 					"width": 1024,
-					"height": 1203,
-					"ratio": 0.8512053200332502
+					"height": 1196,
+					"ratio": 0.8561872909698997
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f942336e-e351-464f-8b66-f94e229261a5_Burna+Boy.jpg?auto=compress,format&rect=0,0,1280,1920&w=1024&h=1536",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/2e5623ca-1ad2-4dc7-9d87-2c955abff4c3_Stefflon+Don+.jpg?auto=compress,format&rect=0,0,1440,1565&w=1024&h=1113",
+					"alt": "Stefflon Don",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1113,
+					"ratio": 0.9200359389038635
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f253ec92-f6b2-4740-87df-fee4cde24c9a_Shungudzo.jpg?auto=compress,format&rect=0,0,2000,1000&w=1024&h=512",
-					"alt": "Shungudzo",
+					"url": "https://images.prismic.io/x-track-mag/2dfe2ba9-5f4f-4c37-ad85-632430529860_Sabrina+Claudio.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
+					"alt": "Sabrina Claudio",
 					"copyright": null,
 					"width": 1024,
-					"height": 512,
-					"ratio": 2
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -68,24 +68,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/dff9d8e9-1524-430a-9268-b0531ebf2586_Dexter.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Dexter",
+					"url": "https://images.prismic.io/x-track-mag/2de92f02-70d6-4a5a-b182-3cd52e1c31f3_Jacques.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Jacques",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e2f67a84-732b-4d5d-b6c5-727627696ca0_Wizkid.jpg?auto=compress,format&rect=0,0,1507,942&w=1024&h=640",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/2a53eda6-a587-4802-af21-ad79458f074f_Adekunle+Gold.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Adekunle Gold",
 					"copyright": null,
 					"width": 1024,
-					"height": 640,
-					"ratio": 1.6
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/41982b9b-bb9d-4987-8073-1d52bd8294f8_J.Lamotta.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "J.Lamotta",
+					"url": "https://images.prismic.io/x-track-mag/4c362f81-8652-4a2b-aad6-ceba9e559e43_Leon+Bridges.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Leon Bridges",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=551233952b48416c",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=95563d1483874740",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXB3eGT0j3MD",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-xlyNVA3uvNPRE",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
