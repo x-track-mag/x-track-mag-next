@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-01-29T19:46:28+0000",
+	"publication_date": "2022-01-29T19:57:13+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/387f0d95-7edd-46f6-b88b-d6fa8d1577ca_Flowerovlove+.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/c143933d-0e9f-46f2-8fc1-e508d05d70f1_Flowerovlove%2B-.jpg?auto=compress,format",
 		"alt": "Flowerovlove",
 		"copyright": null,
-		"width": 2500,
-		"height": 3125,
-		"ratio": 0.8
+		"width": 1080,
+		"height": 960,
+		"ratio": 1.125
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "The Game x Kanye West, Ruger, Adekunle Gold, Asake x Olamide, Jacques, Laurent Bardainne x Tigre d'Eau Douce,  Evansi x Teni, Beirut, Bonobo x Kadhja bonet, Slenderbodies, Stefflon Don, Ivy Sole, Guadap 4000, Sabrina Claudio, Turunesh, Khruangbin x Leon Bridges, Lana Del Rey & ++++ Enjoy",
+					"text": "Junia T x Taji Love x Nana, FKA Twigs x PA Salieu, Toro y Moi, Flowerovlove, Kes x Dwala, Lava la Rue, Skiibii x DaVido, Joe Yorke x Stand High Patrol, Sophie Meiers, The Smile, Maverick Sabre, Yendry x Lous and the Yakuza, Elujay x Serpentwithfeet, James Blake & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d1696940-4f14-4777-8de4-787087eac438_Turunesh+.jpg?auto=compress,format&rect=0,0,1830,2137&w=1024&h=1196",
-					"alt": "Turunesh",
-					"copyright": null,
-					"width": 1024,
-					"height": 1196,
-					"ratio": 0.8561872909698997
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2e5623ca-1ad2-4dc7-9d87-2c955abff4c3_Stefflon+Don+.jpg?auto=compress,format&rect=0,0,1440,1565&w=1024&h=1113",
-					"alt": "Stefflon Don",
-					"copyright": null,
-					"width": 1024,
-					"height": 1113,
-					"ratio": 0.9200359389038635
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2dfe2ba9-5f4f-4c37-ad85-632430529860_Sabrina+Claudio.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
-					"alt": "Sabrina Claudio",
+					"url": "https://images.prismic.io/x-track-mag/b14bb58d-415e-42ee-af88-bcfc5787786f_FKA+Twigs.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "FKA Twigs",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/cf8da873-410a-4f2a-b92b-43b2bff9c2c1_Junia+T.jpg?auto=compress,format&rect=0,0,1080,1337&w=1024&h=1268",
+					"alt": "Junia T",
+					"copyright": null,
+					"width": 1024,
+					"height": 1268,
+					"ratio": 0.807570977917981
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f58eede1-a4ca-4968-8a33-e9f1a7f0d96d_Lava+La+Rue.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Lava La Rue",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2de92f02-70d6-4a5a-b182-3cd52e1c31f3_Jacques.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Jacques",
+					"url": "https://images.prismic.io/x-track-mag/0fb61de6-bb89-4fd1-b7fb-75910f0caeef_PA+Salieu.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
+					"alt": "PA Salieu",
+					"copyright": null,
+					"width": 1024,
+					"height": 1273,
+					"ratio": 0.8043990573448547
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/051e7416-c97b-444f-b059-e63d6dcffe18_Sophie+Meiers.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Sophie Meiers",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2a53eda6-a587-4802-af21-ad79458f074f_Adekunle+Gold.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Adekunle Gold",
+					"url": "https://images.prismic.io/x-track-mag/c1b66fc7-68b7-41a0-b762-904e02a89d36_James+Blake.jpg?auto=compress,format&rect=0,0,1080,1344&w=1024&h=1274",
+					"alt": "James Blake",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/4c362f81-8652-4a2b-aad6-ceba9e559e43_Leon+Bridges.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Leon Bridges",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1274,
+					"ratio": 0.8037676609105181
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=95563d1483874740",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=547cfa6801ac447d",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-xlyNVA3uvNPRE",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqzpzS2XgBo",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

@@ -194,17 +194,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-01-29T19:46:28+0000",
+			"publication_date": "2022-01-29T19:57:13+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/387f0d95-7edd-46f6-b88b-d6fa8d1577ca_Flowerovlove+.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/c143933d-0e9f-46f2-8fc1-e508d05d70f1_Flowerovlove%2B-.jpg?auto=compress,format",
 				"alt": "Flowerovlove",
 				"copyright": null,
-				"width": 2500,
-				"height": 3125,
-				"ratio": 0.8
+				"width": 1080,
+				"height": 960,
+				"ratio": 1.125
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
