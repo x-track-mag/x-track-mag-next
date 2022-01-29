@@ -13,11 +13,11 @@
 		},
 		{
 			"position": 2,
-			"uid": "boys-noize-resonne-toujours-plus-fort"
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
 		{
 			"position": 3,
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
 			"position": 4,
@@ -44,10 +44,6 @@
 			"uid": "x-track-studio---biaziouka"
 		},
 		{
-			"position": 9,
-			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
-		},
-		{
 			"position": 11,
 			"uid": "2020-is-the-year"
 		},
@@ -62,6 +58,10 @@
 		{
 			"position": 13,
 			"uid": "feel-good"
+		},
+		{
+			"position": 13,
+			"uid": "boys-noize-resonne-toujours-plus-fort"
 		},
 		{
 			"position": 14,
@@ -133,7 +133,7 @@
 		},
 		{
 			"position": 30,
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
 		}
 	],
 	"selected_reads": [
@@ -213,30 +213,6 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
-			"uid": "boys-noize-resonne-toujours-plus-fort",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2022-01-13T20:19:34+0000",
-			"title": "Boys Noize résonne toujours plus fort ",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1616,
-				"height": 1080,
-				"ratio": 1.4962962962962962
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Boys Noize"
-		},
-		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
 			"tags": [
 				"article"
@@ -258,6 +234,29 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
+		},
+		{
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
 			"uid": "yayayayoutube-ep-3-ophelie-summer",
@@ -366,29 +365,6 @@
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
-			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-11-02T16:47:13+0000",
-			"title": "Léo Fifty Five, artiste à mille pourcent ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a51d0c18-dfc4-4e89-8e65-0a3f96395f2b_unnamed.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 900,
-				"height": 900,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Léo Fifty Five, artiste à mille pourcent "
-		},
-		{
 			"uid": "x-track-studio---biaziouka",
 			"tags": [
 				"music"
@@ -472,6 +448,30 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+		},
+		{
+			"uid": "boys-noize-resonne-toujours-plus-fort",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2022-01-13T20:19:34+0000",
+			"title": "Boys Noize résonne toujours plus fort ",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1616,
+				"height": 1080,
+				"ratio": 1.4962962962962962
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Boys Noize"
 		},
 		{
 			"uid": "nola-cherri",
@@ -825,27 +825,27 @@
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
 		},
 		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
 			"tags": [
 				"article"
 			],
-			"publication_date": "2020-12-16T22:52:14+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"publication_date": "2021-11-02T16:47:13+0000",
+			"title": "Léo Fifty Five, artiste à mille pourcent ",
 			"subtitle": "",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/a51d0c18-dfc4-4e89-8e65-0a3f96395f2b_unnamed.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
+				"width": 900,
+				"height": 900,
+				"ratio": 1
 			},
 			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
+			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
+			"description": "Léo Fifty Five, artiste à mille pourcent "
 		}
 	]
 }
