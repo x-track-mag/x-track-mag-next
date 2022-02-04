@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-01-30T10:28:29+0000",
+	"publication_date": "2022-02-04T16:03:18+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c143933d-0e9f-46f2-8fc1-e508d05d70f1_Flowerovlove%2B-.jpg?auto=compress,format",
-		"alt": "Flowerovlove",
+		"url": "https://images.prismic.io/x-track-mag/e115eb33-a5b2-45f3-ae9c-1c28b6ed49ff_Raveena%2B%2B.jpg?auto=compress,format",
+		"alt": "Raveena",
 		"copyright": null,
-		"width": 1080,
-		"height": 960,
-		"ratio": 1.125
+		"width": 1351,
+		"height": 1202,
+		"ratio": 1.1239600665557403
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Junia T x Taji Love x Nana, FKA Twigs x PA Salieu, Toro y Moi, Flowerovlove, Lava la Rue, Lady Donli, Miraa Bay x Stefflon Don, Skiibii x DaVido, Joe Yorke x Stand High Patrol, Sophie Meiers, The Smile, Yendry x Lous and the Yakuza, Elujay x Serpentwithfeet, James Blake & ++++ Enjoy",
+					"text": "Hope Tala, Raveena x Vince Staples, Slxm, Arlo Parks, Joesef, Adekunle Gold x Ty Dolla $ign, Kasi3 x Ruger, Reekado Banks x Fireboy DML, DijahSB x Terrell Morris, Benjiflow, QuinzeQuinze, PinkPantheress x FKJ & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b14bb58d-415e-42ee-af88-bcfc5787786f_FKA+Twigs.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "FKA Twigs",
+					"url": "https://images.prismic.io/x-track-mag/b6b58a67-56f1-457e-8e6a-019a443eed3d_Hope+Tala.jpg?auto=compress,format&rect=0,0,695,1042&w=1024&h=1535",
+					"alt": "Hope Tala",
+					"copyright": null,
+					"width": 1024,
+					"height": 1535,
+					"ratio": 0.6671009771986971
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/dfe58f59-fff8-4ceb-8234-dba6ab890dfc_Joesef.jpg?auto=compress,format&rect=0,0,1000,1167&w=1024&h=1195",
+					"alt": "Joesef",
+					"copyright": null,
+					"width": 1024,
+					"height": 1195,
+					"ratio": 0.8569037656903765
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ee5aa5ca-98e6-43b0-afdc-9e02923403e7_Kasi3.jpg?auto=compress,format&rect=0,0,640,800&w=1024&h=1280",
+					"alt": "Kasi3",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/cf8da873-410a-4f2a-b92b-43b2bff9c2c1_Junia+T.jpg?auto=compress,format&rect=0,0,1080,1337&w=1024&h=1268",
-					"alt": "Junia T",
-					"copyright": null,
-					"width": 1024,
-					"height": 1268,
-					"ratio": 0.807570977917981
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f58eede1-a4ca-4968-8a33-e9f1a7f0d96d_Lava+La+Rue.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Lava La Rue",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -68,24 +68,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/0fb61de6-bb89-4fd1-b7fb-75910f0caeef_PA+Salieu.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
-					"alt": "PA Salieu",
+					"url": "https://images.prismic.io/x-track-mag/b37c97b0-17b6-4517-8588-eecfd55ff039_DijahSB.jpg?auto=compress,format&rect=0,0,500,576&w=1024&h=1180",
+					"alt": "DijahSB",
 					"copyright": null,
 					"width": 1024,
-					"height": 1273,
-					"ratio": 0.8043990573448547
+					"height": 1180,
+					"ratio": 0.8677966101694915
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/051e7416-c97b-444f-b059-e63d6dcffe18_Sophie+Meiers.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Sophie Meiers",
+					"url": "https://images.prismic.io/x-track-mag/56b1bc76-9bd5-423a-a23f-b048efe85580_Adekunle+Gold.jpg?auto=compress,format&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Adekunle gold",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c1b66fc7-68b7-41a0-b762-904e02a89d36_James+Blake.jpg?auto=compress,format&rect=0,0,1080,1344&w=1024&h=1274",
-					"alt": "James Blake",
+					"url": "https://images.prismic.io/x-track-mag/4e99a501-5cad-46a5-a010-14f02c2af774_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1200,1493&w=1024&h=1274",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
 					"height": 1274,
@@ -97,15 +97,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=547cfa6801ac447d",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=7b43b416ed5c483c",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqzpzS2XgBo",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9ld0mCDY8qp",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/us/playlist/4099699282",
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
