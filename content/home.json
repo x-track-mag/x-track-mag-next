@@ -194,17 +194,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-02-04T16:08:33+0000",
+			"publication_date": "2022-02-04T20:46:42+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e115eb33-a5b2-45f3-ae9c-1c28b6ed49ff_Raveena%2B%2B.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/2df37127-ad63-4c1a-9b8e-15fdd1aba196_Raveena.jpg?auto=compress,format",
 				"alt": "Raveena",
 				"copyright": null,
-				"width": 1351,
-				"height": 1202,
-				"ratio": 1.1239600665557403
+				"width": 1673,
+				"height": 1331,
+				"ratio": 1.2569496619083396
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
