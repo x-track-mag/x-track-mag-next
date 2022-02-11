@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-02-11T19:47:42+0000",
+	"publication_date": "2022-02-11T19:51:39+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "inverted",
+	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/95d153ad-83b0-467f-ac32-3257d01512e7_Jacques.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/661a55dc-19e0-4894-8f1b-9976b20ff5b9_Jacques%2B.jpg?auto=compress,format",
 		"alt": "Jacques",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
-		"ratio": 1
+		"width": 1354,
+		"height": 1128,
+		"ratio": 1.200354609929078
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
