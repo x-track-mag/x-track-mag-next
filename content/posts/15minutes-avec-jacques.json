@@ -1,0 +1,120 @@
+{
+	"uid": "15minutes-avec-jacques",
+	"tags": [],
+	"publication_date": "2022-02-12T17:47:29+0000",
+	"title": "15 minutes avec Jacques",
+	"subtitle": "INTERVIEW",
+	"text_color": "green",
+	"image": null,
+	"video_loop": {
+		"name": "LOOP JACQUES.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+		"size": "12731983"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Camille Laurens",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Il faut vraiment que ça vaille le coup de revenir",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Après 4 années de silence et quelques singles l'artiste iconoclaste Jacques nous délivre ses sentiments profonds… à regarder tout de suite sur X-TRACK mag.",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Interview réalisée par Camille Laurens pour X-Track mag. Cadre: Gwendal Peron / Montage: Gwendal Peron / Prise de son: X-Track prod / Musique: Jacques / Habillage sonore & mix : X-Track prod / Merci à Etienne Piketty & Elodie Taillepé",
+					"spans": []
+				}
+			],
+			"link": {
+				"provider_name": "Vimeo",
+				"provider_url": "https://vimeo.com/",
+				"type": "video",
+				"version": "1.0",
+				"title": "Interview Jacques",
+				"author_name": "X-Track Productions",
+				"author_url": "https://vimeo.com/xtrackproduction",
+				"is_plus": "0",
+				"account_type": "pro",
+				"html": "<iframe src=\"https://player.vimeo.com/video/676536229?h=7b69b10ca9&amp;app_id=122963\" width=\"640\" height=\"360\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"Interview Jacques\"></iframe>",
+				"width": 640,
+				"height": 360,
+				"duration": 898,
+				"description": "by Camille Laurens pour XTrack Mag",
+				"thumbnail_url": "https://i.vimeocdn.com/video/1371066254-b62f94c97845383a2d37b75baccaa84f055f210b1845a3aca204958f5c1173b1-d_640",
+				"thumbnail_width": 640,
+				"thumbnail_height": 360,
+				"thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1371066254-b62f94c97845383a2d37b75baccaa84f055f210b1845a3aca204958f5c1173b1-d_640&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+				"upload_date": "2022-02-12 03:17:51",
+				"video_id": 676536229,
+				"uri": "/videos/676536229",
+				"embed_url": "https://vimeo.com/676536229"
+			},
+			"image": null,
+			"disposition": "Video | Texte"
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "J’ai cleané toutes les envies égoïstes de quête de succès et de trucs qui finalement t’emmènent dans des guet-apens",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Je bicrave de la perplexité… les gens me kiffent parce que je suis libre et que j’en ai à foutre de rien !",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "Mon premier album LIMPORTANCEDUVIDE sort vendredi 11 février #shorts",
+				"author_name": "Jacques",
+				"author_url": "https://www.youtube.com/channel/UC05Om8nHItHP3xi4N8g1eMQ",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/a9big7d0ZNE/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/a9big7d0ZNE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=a9big7d0ZNE&ab_channel=Jacques"
+			},
+			"image": null,
+			"disposition": "Texte / Video"
+		}
+	],
+	"description": "jacques interview"
+}
