@@ -8,12 +8,12 @@
 	],
 	"pinned_posts": [
 		{
-			"position": 0,
-			"uid": "15minutes-avec-jacques"
+			"position": 1,
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 1,
-			"uid": "bestxtrackoftheweek"
+			"uid": "15minutes-avec-jacques"
 		},
 		{
 			"position": 2,
@@ -194,27 +194,22 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-02-11T19:52:59+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/661a55dc-19e0-4894-8f1b-9976b20ff5b9_Jacques%2B.jpg?auto=compress,format",
-				"alt": "Jacques",
-				"copyright": null,
-				"width": 1354,
-				"height": 1128,
-				"ratio": 1.200354609929078
+			"uid": "15minutes-avec-jacques",
+			"tags": [],
+			"publication_date": "2022-02-12T17:47:29+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "jacques interview"
 		},
 		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
@@ -281,6 +276,29 @@
 			"author": null,
 			"internal_link": null,
 			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
+		},
+		{
+			"uid": "bestxtrackoftheweek",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-02-11T19:52:59+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/661a55dc-19e0-4894-8f1b-9976b20ff5b9_Jacques%2B.jpg?auto=compress,format",
+				"alt": "Jacques",
+				"copyright": null,
+				"width": 1354,
+				"height": 1128,
+				"ratio": 1.200354609929078
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
@@ -568,26 +586,6 @@
 			"description": "Playlist Chill, Cool, Love"
 		},
 		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2021-09-26T09:44:18+0000",
-			"title": "Yayayayoutube EP 1  : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
-		},
-		{
 			"uid": "afropop",
 			"tags": [],
 			"publication_date": "2022-01-06T20:13:46+0000",
@@ -655,23 +653,24 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
-			"uid": "2020-is-the-year",
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
 			"tags": [
-				"article"
+				"video"
 			],
-			"publication_date": "2022-01-06T19:08:46+0000",
-			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"text_color": "white",
+			"publication_date": "2021-09-26T09:44:18+0000",
+			"title": "Yayayayoutube EP 1  : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"text_color": "inverted",
 			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
 			},
-			"description": ""
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
@@ -852,22 +851,23 @@
 			"description": "Léo Fifty Five, artiste à mille pourcent "
 		},
 		{
-			"uid": "15minutes-avec-jacques",
-			"tags": [],
-			"publication_date": "2022-02-12T17:47:29+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2022-01-06T19:08:46+0000",
+			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"text_color": "white",
 			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "jacques interview"
+			"description": ""
 		}
 	]
 }
