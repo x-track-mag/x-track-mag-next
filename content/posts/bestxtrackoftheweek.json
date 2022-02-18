@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-02-18T16:15:47+0000",
+	"publication_date": "2022-02-18T16:27:33+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
@@ -68,20 +68,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5eed05d5-9462-4d00-9e92-49c3c8c1d0a7_Saweetie+++.jpg?auto=compress,format&rect=0,0,1435,1900&w=1024&h=1356",
-					"alt": "Saweetie",
-					"copyright": null,
-					"width": 1024,
-					"height": 1356,
-					"ratio": 0.7551622418879056
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/289e4023-aece-4719-a382-927418aed0cf_Metronomy.jpg?auto=compress,format&rect=0,0,1160,1160&w=1024&h=1024",
 					"alt": "Metronomy",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5eed05d5-9462-4d00-9e92-49c3c8c1d0a7_Saweetie+++.jpg?auto=compress,format&rect=0,0,1435,1900&w=1024&h=1356",
+					"alt": "Saweetie",
+					"copyright": null,
+					"width": 1024,
+					"height": 1356,
+					"ratio": 0.7551622418879056
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/e2715d8d-4933-4b4c-8460-787c0231c7ad_Tame+Impala+.jpg?auto=compress,format&rect=0,0,750,776&w=1024&h=1059",
