@@ -282,17 +282,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-02-11T19:52:59+0000",
+			"publication_date": "2022-02-18T16:15:47+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/661a55dc-19e0-4894-8f1b-9976b20ff5b9_Jacques%2B.jpg?auto=compress,format",
-				"alt": "Jacques",
+				"url": "https://images.prismic.io/x-track-mag/f2dd9af0-540d-4996-bb36-06e6fd53e794_Ibeyi-%2B----.jpg?auto=compress,format",
+				"alt": "Ibeyi",
 				"copyright": null,
-				"width": 1354,
-				"height": 1128,
-				"ratio": 1.200354609929078
+				"width": 1496,
+				"height": 1339,
+				"ratio": 1.1172516803584764
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
