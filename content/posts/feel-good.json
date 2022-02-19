@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-26T20:43:06+0000",
+	"publication_date": "2022-02-19T18:45:50+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/d6e8266b-5d3e-4673-b059-4957c766a383_Tierra+Whack.jpg?auto=compress,format",
-		"alt": "Tierra Whack",
+		"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
+		"alt": "FKA Twigs",
 		"copyright": null,
-		"width": 1500,
-		"height": 1500,
+		"width": 1920,
+		"height": 1920,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Benny Sings x Marc Rebillet x Mocky x Cola Boyy, Tierra Whack, PawPaw rod, Kaytranada x Tundercat, Moanday x Gomz, Genesis Owusu x Jono Ma, Jungle, Diplo x Damian Lazarus x Jungle, Parcels, SG Lewis x Lucky Daye x Kapote, Doja Cats x Disclosure, Patchworks x Pat kalla x Emile Omar, Cruel Youth, Blundetto x Voilaaa, Tekno, Skip Marley x Popcaan, Crayon x Bella Shmurda, Juls x Twitch 4EVA x Quamina Mp, Falana x Oxlade x Spax, Bellah, Aminé, Gabriels, Yebba, Leon Bridges, Sault, Ric Wilson x Yellow Days, Dijon, Kaytranada x Mach Hommy, Muzi,  Terru Presume, Bruno Mars x Anderson Paak, Emotional Oranges x Channel Tres,  Duran Jones & the indications & +++ Enjoy",
+					"text": "Raveena x Vince Staples - Ivy Sole - FKA Twigs x Shy Girl x PA Salieu - Young t & Bugsey x Chronixx - Benjiflow x Juls - Sawetie x H.E.R. - Alewya - Burna Boy x Wizkid -  Rema - Kaytranada x Thundercat - Genesis Owusu x Jono Ma - Diplo x Damian Lazarus x Jungle - Parcels - SG Lewis x Lucky Daye x Kapote - Doja Cats x  Disclosure x Patchworks x Pat Kalla x Emile Omar - Blundetto x Voilaaa - Juls x Niniola - Tekno - Skip Marley x Popcaan - Crayon x Bella Shmurda  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4724211d-1e8d-46ab-abf7-d3eb9b29b34d_Doja+Cats.jpg?auto=compress,format&rect=0,0,770,770&w=1024&h=1024",
-					"alt": "Doja Cat",
+					"url": "https://images.prismic.io/x-track-mag/2df37127-ad63-4c1a-9b8e-15fdd1aba196_Raveena.jpg?auto=compress,format&rect=0,0,1672,1331&w=1024&h=815",
+					"alt": "Raveena",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 815,
+					"ratio": 1.2564417177914111
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/289feb3f-e214-49e8-ab90-0844c6887cb0_Tekno.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
-					"alt": "Tekno",
+					"url": "https://images.prismic.io/x-track-mag/1f4644a2-567c-4290-8e12-2b9cee1daf2d_Ivy+Sole.jpg?auto=compress,format&rect=0,0,660,751&w=1024&h=1165",
+					"alt": "Ivy Sole",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1165,
+					"ratio": 0.878969957081545
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/696c553f-3d80-4506-81d1-e978256d2f23_Cruel+Youth+.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
-					"alt": "Cruel Youth",
+					"url": "https://images.prismic.io/x-track-mag/8a570380-ab47-4f61-88b9-8199250978ef_Shygirl.jpg?auto=compress,format&rect=0,0,545,750&w=1024&h=1409",
+					"alt": "Shygirl",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1409,
+					"ratio": 0.7267565649396736
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/71bcd039-c162-48c5-ade7-4aac51fe43f4_Falana.jpg?auto=compress,format&rect=0,0,918,1042&w=1024&h=1162",
-					"alt": "Falana",
+					"url": "https://images.prismic.io/x-track-mag/5eed05d5-9462-4d00-9e92-49c3c8c1d0a7_Saweetie+++.jpg?auto=compress,format&rect=0,0,1435,1900&w=1024&h=1356",
+					"alt": "Saweetie",
 					"copyright": null,
 					"width": 1024,
-					"height": 1162,
-					"ratio": 0.8812392426850258
+					"height": 1356,
+					"ratio": 0.7551622418879056
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "PawPaw Rod",
+					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
+					"alt": "Juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1021,
+					"ratio": 1.0029382957884427
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/71fe2dde-9d68-4728-a84a-4f6f19959424_Bellah.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
-					"alt": "Bellah",
+					"url": "https://images.prismic.io/x-track-mag/4631c31f-5744-40bc-b9c4-0c3726d68a30_Alewya+.jpg?auto=compress,format&rect=0,0,1591,1061&w=1024&h=683",
+					"alt": "Alewya",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=de98314ee2574e06",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=fd3ff3d82bd24ea2",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-2aoqz6DT2XgBo",
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-xlyNVXXsvNPRE",
 					"title": "Feel Good par XTrack"
 				},
 				{

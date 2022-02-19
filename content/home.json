@@ -430,27 +430,23 @@
 			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
-			"uid": "feel-good",
+			"uid": "2020-is-the-year",
 			"tags": [
-				"music"
+				"article"
 			],
-			"publication_date": "2021-12-26T20:43:06+0000",
-			"title": "Feel Good",
-			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"publication_date": "2022-01-06T19:08:46+0000",
+			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
 			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/d6e8266b-5d3e-4673-b059-4957c766a383_Tierra+Whack.jpg?auto=compress,format",
-				"alt": "Tierra Whack",
-				"copyright": null,
-				"width": 1500,
-				"height": 1500,
-				"ratio": 1
-			},
+			"image": null,
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
 		},
 		{
 			"uid": "boys-noize-resonne-toujours-plus-fort",
@@ -851,23 +847,27 @@
 			"description": "Léo Fifty Five, artiste à mille pourcent "
 		},
 		{
-			"uid": "2020-is-the-year",
+			"uid": "feel-good",
 			"tags": [
-				"article"
+				"music"
 			],
-			"publication_date": "2022-01-06T19:08:46+0000",
-			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
+			"publication_date": "2022-02-19T18:45:50+0000",
+			"title": "Feel Good",
+			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
+				"alt": "FKA Twigs",
+				"copyright": null,
+				"width": 1920,
+				"height": 1920,
+				"ratio": 1
 			},
-			"description": ""
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		}
 	]
 }
