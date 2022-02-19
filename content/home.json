@@ -8,6 +8,9 @@
 	],
 	"pinned_posts": [
 		{
+			"position": null
+		},
+		{
 			"position": 1,
 			"uid": "bestxtrackoftheweek"
 		},
@@ -53,7 +56,7 @@
 		},
 		{
 			"position": 12,
-			"uid": "boys-noize-resonne-toujours-plus-fort"
+			"uid": "nola-cherri"
 		},
 		{
 			"position": 13,
@@ -61,7 +64,7 @@
 		},
 		{
 			"position": 14,
-			"uid": "nola-cherri"
+			"uid": "boys-noize-resonne-toujours-plus-fort"
 		},
 		{
 			"position": 15,
@@ -70,6 +73,10 @@
 		{
 			"position": 16,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
+		},
+		{
+			"position": 17,
+			"uid": "lhysterie"
 		}
 	],
 	"selected_reads": [
@@ -358,28 +365,25 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
-			"uid": "boys-noize-resonne-toujours-plus-fort",
+			"uid": "nola-cherri",
 			"tags": [
-				"article",
-				"music"
+				"music",
+				"live session"
 			],
-			"publication_date": "2022-01-13T20:19:34+0000",
-			"title": "Boys Noize résonne toujours plus fort ",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1616,
-				"height": 1080,
-				"ratio": 1.4962962962962962
+			"publication_date": "2021-01-18T16:19:00+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"text_color": "white",
+			"image": null,
+			"video_loop": {
+				"name": "LOOPFIN.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
+				"size": "8315849"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
+			"author": null,
 			"internal_link": null,
-			"description": "Boys Noize"
+			"description": "Live session - Nola Cherri- French music"
 		},
 		{
 			"uid": "afropop",
@@ -403,25 +407,28 @@
 			"description": "Juls x Fireboy DML, Omah Lay, The Cavemen, PaBrymo x Teni, Koffi Olomide x Teni, Tekno x Mafikizolo, Skip Marley x Popcaan, Juls x Twich 4EVA x Quamina MP, Crayon x Bella Shmurda, Krizbeat x Tekno x Harmonize x DJ +Tira, Juls x Niniola, Fireboy DML x Wande Coal, Yung L, Omah Lay, Simi, Buju Banton x Pharell Williams, Burna Boy, Muzi, Lass x Kazy Lambist, Amaarae x Kali Uchis x Moliy, Thutmose x Bankulli, Burna boy x Wizkid, Wizkid x H.E.R., Bawo, Loski x Stormzy, Adekunle Gold  x Patoranking, Yung L x R2Bees; Sholazeal x Yung L, Rema, Drake x Tems, Olamide, Blaqnonez, Yemi Alade, Ruger, Ayra Starr, Buju, CKay, Mister Kay x Egar Boi, Tresor & ++++ Enjoy"
 		},
 		{
-			"uid": "nola-cherri",
+			"uid": "boys-noize-resonne-toujours-plus-fort",
 			"tags": [
-				"music",
-				"live session"
+				"article",
+				"music"
 			],
-			"publication_date": "2021-01-18T16:19:00+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "LOOPFIN.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
-				"size": "8315849"
+			"publication_date": "2022-01-13T20:19:34+0000",
+			"title": "Boys Noize résonne toujours plus fort ",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1616,
+				"height": 1080,
+				"ratio": 1.4962962962962962
 			},
+			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Live session - Nola Cherri- French music"
+			"description": "Boys Noize"
 		},
 		{
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
@@ -469,6 +476,26 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
+		},
+		{
+			"uid": "lhysterie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-09-29T15:04:06+0000",
+			"title": "DON'T CALL ME BABE ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": {
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
+			},
+			"template": "3: Image + Titre",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "2020-is-the-year",
@@ -558,26 +585,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Léo Fifty Five, artiste à mille pourcent "
-		},
-		{
-			"uid": "lhysterie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-09-29T15:04:06+0000",
-			"title": "DON'T CALL ME BABE ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
-			},
-			"template": "3: Image + Titre",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "in-love",
