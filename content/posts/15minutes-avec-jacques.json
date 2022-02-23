@@ -1,7 +1,7 @@
 {
 	"uid": "15minutes-avec-jacques",
 	"tags": [],
-	"publication_date": "2022-02-23T09:17:34+0000",
+	"publication_date": "2022-02-23T09:21:49+0000",
 	"title": "15 minutes avec Jacques",
 	"subtitle": "INTERVIEW",
 	"text_color": "green",
@@ -63,12 +63,12 @@
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MIw9pd6dpHw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/661a55dc-19e0-4894-8f1b-9976b20ff5b9_Jacques%2B.jpg?auto=compress,format",
-				"alt": "Jacques",
+				"url": "https://images.prismic.io/x-track-mag/ba8628e8-0db7-4c54-b94e-7eea259a223a_Jacques-vignette-itw.jpg?auto=compress,format",
+				"alt": "ITW jacques",
 				"copyright": null,
-				"width": 1354,
-				"height": 1128,
-				"ratio": 1.200354609929078
+				"width": 2553,
+				"height": 1325,
+				"ratio": 1.9267924528301887
 			},
 			"disposition": "Video | Texte"
 		},
