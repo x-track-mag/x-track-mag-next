@@ -1,7 +1,7 @@
 {
 	"uid": "15minutes-avec-jacques",
 	"tags": [],
-	"publication_date": "2022-02-12T18:22:18+0000",
+	"publication_date": "2022-02-23T09:15:57+0000",
 	"title": "15 minutes avec Jacques",
 	"subtitle": "INTERVIEW",
 	"text_color": "green",
@@ -46,22 +46,30 @@
 				}
 			],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://youtu.be/MIw9pd6dpHw",
+				"type": "video",
+				"version": "1.0",
 				"title": "Interview Jacques",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/MIw9pd6dpHw/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MIw9pd6dpHw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://youtu.be/MIw9pd6dpHw"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MIw9pd6dpHw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"image": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/661a55dc-19e0-4894-8f1b-9976b20ff5b9_Jacques%2B.jpg?auto=compress,format",
+				"alt": "Jacques",
+				"copyright": null,
+				"width": 1354,
+				"height": 1128,
+				"ratio": 1.200354609929078
+			},
 			"disposition": "Video | Texte"
 		},
 		{
@@ -105,7 +113,14 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/a9big7d0ZNE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"image": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/95d153ad-83b0-467f-ac32-3257d01512e7_Jacques.jpg?auto=compress,format",
+				"alt": "Jacques",
+				"copyright": null,
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
+			},
 			"disposition": "Texte / Video"
 		}
 	],
