@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-02-20T12:23:58+0000",
+	"publication_date": "2022-02-25T12:24:54+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f2dd9af0-540d-4996-bb36-06e6fd53e794_Ibeyi-%2B----.jpg?auto=compress,format",
-		"alt": "Ibeyi",
+		"url": "https://images.prismic.io/x-track-mag/f15f8638-f3b3-485e-af3f-f8ef75dd517a_Bakar.jpg?auto=compress,format",
+		"alt": "Bakar",
 		"copyright": null,
-		"width": 1496,
-		"height": 1339,
-		"ratio": 1.1172516803584764
+		"width": 2646,
+		"height": 3508,
+		"ratio": 0.7542759407069556
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Ibeyi - Simi - Saweetie x H.E.R. - Kidi x Tyga - Lewis OfMan x Coco & Clair Clair - Jacques - Metronomy - Tame Impala x Four Tet - Khruangbin x Leon Bridges - Raveena - FKA Twigs x Dystopia - Jean Feier - K.Zia - Miel de Montagne x Philippe Katerine - Scuti - CashMoneyJB. x Ruger - Stefflon Don - Mahalia - Bruno Mars x Anderson Paak x Silk Sonic & ++++ Enjoy",
+					"text": "Asa x Wizkid - Bakar - Tekno - Florence Adooni - Oumou Sangaré - Rosalia - Beirut - Aiden Ayers - Blanche Bailly x Joeboy - Synapson x Dominique Fils-Aimé - St. Panther - 2Poundxx x Afrobeats Hits - Africamuq x Geakdd x Tems - Toro Y Moi - Le Juiice - Juniper x Sango - Monica Martin x James Blake & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/92dd55ec-4cc3-4dea-9758-2475049532e2_Simi.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Simi",
+					"url": "https://images.prismic.io/x-track-mag/c581a0e9-dab4-4186-aaa1-c6b2e9fab517_Rosalia.--.jpg?auto=compress,format&rect=0,0,1317,1318&w=1024&h=1025",
+					"alt": "Rosalia",
+					"copyright": null,
+					"width": 1024,
+					"height": 1025,
+					"ratio": 0.9990243902439024
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/32f3ed2b-cc56-4d2b-bee1-97d45e788cbc_Le+Juiice.jpg?auto=compress,format&rect=0,0,770,770&w=1024&h=1024",
+					"alt": "Le Juiice",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/231a7262-87da-4ce2-90fa-0bac986bf544_Tyga.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Tyga",
+					"url": "https://images.prismic.io/x-track-mag/d13a89de-ab67-4ad7-8552-6810e244ba3f_Asa.jpg?auto=compress,format&rect=0,0,711,628&w=1024&h=904",
+					"alt": "Asa",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/cd39c5c6-d2cc-4717-bc86-986d35f9e946_Coco+%26+Clair+Clair.jpg?auto=compress,format&rect=0,0,1366,2048&w=1024&h=1535",
-					"alt": "Coco & Clair Clair",
-					"copyright": null,
-					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
+					"height": 904,
+					"ratio": 1.1327433628318584
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/289e4023-aece-4719-a382-927418aed0cf_Metronomy.jpg?auto=compress,format&rect=0,0,1160,1160&w=1024&h=1024",
-					"alt": "Metronomy",
+					"url": "https://images.prismic.io/x-track-mag/6c62dc40-a943-40a4-baea-d8b8de9f7287_Monica+Martin.jpg?auto=compress,format&rect=0,0,1000,1500&w=1024&h=1536",
+					"alt": "Monica Martin",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4106179d-f00a-4ab2-8ad3-59cfd1f2ed8d_Wizkid.jpg?auto=compress,format&rect=0,0,876,1080&w=1024&h=1262",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1262,
+					"ratio": 0.8114104595879557
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/1b6b7c07-6071-49ec-9812-5dacb84d352b_Blanche+Bailly+.jpg?auto=compress,format&rect=0,0,674,674&w=1024&h=1024",
+					"alt": "Blanche Bailly",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5eed05d5-9462-4d00-9e92-49c3c8c1d0a7_Saweetie+++.jpg?auto=compress,format&rect=0,0,1435,1900&w=1024&h=1356",
-					"alt": "Saweetie",
-					"copyright": null,
-					"width": 1024,
-					"height": 1356,
-					"ratio": 0.7551622418879056
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e2715d8d-4933-4b4c-8460-787c0231c7ad_Tame+Impala+.jpg?auto=compress,format&rect=0,0,750,776&w=1024&h=1059",
-					"alt": "Tame Impala",
-					"copyright": null,
-					"width": 1024,
-					"height": 1059,
-					"ratio": 0.9669499527856469
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=c99aa21a3b304fa7",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=863318f6790a4cb1",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXB3qVC0j3MD",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXB36WC0j3MD",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
