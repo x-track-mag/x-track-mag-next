@@ -3,8 +3,8 @@
 	"description": "AWARE AND COLOURFUL - SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS",
 	"keywords": "Culture alternative, Musique indépendante, Articles, Webzine, X-TRACK",
 	"scrolling_news": [
-		"BEST ”XTRACK“ OF THE WEEK : IBEYI - SIMI - SAWETIE x H.E.R. - KIDI X TYGA - DJ TUNES x MOHBAD x REXXIE - LEWIS OFMAN X COCO & CLAIR CLAIR - JACQUES - KASHCOMING x BUJU - METRONOMY - TAME IMPALA x FOUT TET - WINSTON SURFSHIRT x GENESIS OWUSU",
-		"KHRUANGBIN x LEON BRIDGES - RAVEENA - FKA TWIGS x DYSTOPIA - JEAN FEIER - K.ZIA - MIEL DE MONTAGNE x PHILIPPE KATERINE - SCUTI - CASHMONEYJB. x RUGER - STEFFLON DON - MAHALIA - BRUNO MARS x ANDERSON PAAK x SILK SONIC & ++++"
+		"BEST ”XTRACK“ OF THE WEEK : ASA X WIZKID - BAKAR - TEKNO - FLORENCE ADOONI - OUMOU SANGARE - ROSALIA - BEIRUT - AIDEN AYERS - BLANCHE BAILLY X JOEBOY - SYNAPSON X DOMINIQUE FILS-AIME - ST. PANTHER - 2POUNDXX X AFROBEATS HITS",
+		"AFRICAMUQ X GEAKDD X TEMS - TORO Y MOI - LE JUIICE - JUNIPER X SANGO - MONICA MARTIN X JAMES BLAKE & ++++"
 	],
 	"pinned_posts": [
 		{
@@ -107,19 +107,6 @@
 			}
 		},
 		{
-			"uid": "martin-parr",
-			"title": "Martin Parr",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": "Plage de Nice",
-				"copyright": "Martin Parr",
-				"width": 1280,
-				"height": 854,
-				"ratio": 1.4988290398126465
-			},
-			"video_loop": null
-		},
-		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"title": "L’Avenir de la Mode est-il virtuel ?",
 			"image": {
@@ -133,20 +120,33 @@
 			"video_loop": null
 		},
 		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"title": "Les apparences trompeuses du Pretty Privilege",
+			"uid": "feel-good",
+			"title": "Feel Good",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": null,
-				"copyright": "Nadia Lee Cohen",
-				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
+				"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
+				"alt": "FKA Twigs",
+				"copyright": null,
+				"width": 1920,
+				"height": 1920,
+				"ratio": 1
+			},
+			"video_loop": null
+		},
+		{
+			"uid": "la-muse--une-icone-feministe-",
+			"title": "La muse : une icône féministe ? ",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
 			},
 			"video_loop": null
 		}
 	],
-	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
 		{
 			"uid": "bestxtrackoftheweek",
