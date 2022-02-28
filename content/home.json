@@ -8,9 +8,6 @@
 	],
 	"pinned_posts": [
 		{
-			"position": null
-		},
-		{
 			"position": 1,
 			"uid": "bestxtrackoftheweek"
 		},
@@ -125,6 +122,10 @@
 		{
 			"position": 28,
 			"uid": "in-love"
+		},
+		{
+			"position": 29,
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
 		}
 	],
 	"selected_reads": [
@@ -793,6 +794,27 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
+			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
+			"tags": [],
+			"publication_date": "2021-03-18T18:01:34+0000",
+			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1080,
+				"height": 1080,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "MANON PELINQ",
+			"internal_link": null,
+			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
+		},
+		{
 			"uid": "2020-is-the-year",
 			"tags": [
 				"article"
@@ -834,27 +856,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "MisterKay : ”Welcome to Nigeria“ "
-		},
-		{
-			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
-			"tags": [],
-			"publication_date": "2021-03-18T18:01:34+0000",
-			"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ad19e6b2-411e-4515-b962-2534a16212e4_Sans+titre+%2825%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "MANON PELINQ",
-			"internal_link": null,
-			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
 		}
 	]
 }
