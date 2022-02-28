@@ -640,17 +640,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-02-28T09:22:45+0000",
+			"publication_date": "2022-02-28T09:54:58+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill Vibes",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/35f8a92c-3902-4abb-be7d-64a7561cbf8a_Leisure-Mesmerised.jpg?auto=compress,format",
 				"alt": "Leisure",
 				"copyright": null,
-				"width": 3000,
-				"height": 1663,
-				"ratio": 1.803968731208659
+				"width": 1200,
+				"height": 897,
+				"ratio": 1.3377926421404682
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
