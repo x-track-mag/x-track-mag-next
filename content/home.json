@@ -8,6 +8,9 @@
 	],
 	"pinned_posts": [
 		{
+			"position": null
+		},
+		{
 			"position": 1,
 			"uid": "bestxtrackoftheweek"
 		},
@@ -106,6 +109,22 @@
 		{
 			"position": 24,
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
+		},
+		{
+			"position": 25,
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
+		},
+		{
+			"position": 26,
+			"uid": "martin-parr"
+		},
+		{
+			"position": 27,
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+		},
+		{
+			"position": 28,
+			"uid": "in-love"
 		}
 	],
 	"selected_reads": [
@@ -682,6 +701,98 @@
 			"description": "Léo Fifty Five, artiste à mille pourcent "
 		},
 		{
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-07-03T07:47:35+0000",
+			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1080,
+				"ratio": 1.7777777777777777
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Manon Pelinq",
+			"internal_link": null,
+			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
+		},
+		{
+			"uid": "martin-parr",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-15T06:20:52+0000",
+			"title": "Martin Parr",
+			"subtitle": "Un Monde à Parr",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": "Plage de Nice",
+				"copyright": "Martin Parr",
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia",
+			"internal_link": null,
+			"description": "Un monde à Parr"
+		},
+		{
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
+		},
+		{
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2021-09-28T09:34:04+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
+				"alt": "Gabriels",
+				"copyright": null,
+				"width": 1943,
+				"height": 1140,
+				"ratio": 1.7043859649122808
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs"
+		},
+		{
 			"uid": "2020-is-the-year",
 			"tags": [
 				"article"
@@ -725,52 +836,6 @@
 			"description": "MisterKay : ”Welcome to Nigeria“ "
 		},
 		{
-			"uid": "in-love",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2021-09-28T09:34:04+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
-				"alt": "Gabriels",
-				"copyright": null,
-				"width": 1943,
-				"height": 1140,
-				"ratio": 1.7043859649122808
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
-		},
-		{
-			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-07-03T07:47:35+0000",
-			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1080,
-				"ratio": 1.7777777777777777
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Manon Pelinq",
-			"internal_link": null,
-			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
-		},
-		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 			"tags": [],
 			"publication_date": "2021-03-18T18:01:34+0000",
@@ -790,52 +855,6 @@
 			"author": "MANON PELINQ",
 			"internal_link": null,
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
-		},
-		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T22:52:14+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
-		},
-		{
-			"uid": "martin-parr",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-15T06:20:52+0000",
-			"title": "Martin Parr",
-			"subtitle": "Un Monde à Parr",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": "Plage de Nice",
-				"copyright": "Martin Parr",
-				"width": 1280,
-				"height": 854,
-				"ratio": 1.4988290398126465
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "Un monde à Parr"
 		}
 	]
 }
