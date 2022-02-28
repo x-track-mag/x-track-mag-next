@@ -516,23 +516,27 @@
 			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
-			"uid": "2020-is-the-year",
+			"uid": "new-romance",
 			"tags": [
-				"article"
+				"music"
 			],
-			"publication_date": "2022-01-06T19:08:46+0000",
-			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
+			"publication_date": "2022-02-28T09:22:45+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes",
 			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
+				"alt": "Leisure",
+				"copyright": null,
+				"width": 3000,
+				"height": 1663,
+				"ratio": 1.803968731208659
 			},
-			"description": ""
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "afropop",
@@ -598,27 +602,23 @@
 			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
 		},
 		{
-			"uid": "new-romance",
+			"uid": "2020-is-the-year",
 			"tags": [
-				"music"
+				"article"
 			],
-			"publication_date": "2021-12-24T18:56:49+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/7e1974d5-01dc-4a79-9033-5a11192ad22b_Greentea+Peng.jpg?auto=compress,format",
-				"alt": "Greentea Peng",
-				"copyright": null,
-				"width": 957,
-				"height": 956,
-				"ratio": 1.0010460251046025
-			},
+			"publication_date": "2022-01-06T19:08:46+0000",
+			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTraxk Team",
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",

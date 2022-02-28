@@ -3,21 +3,21 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2021-12-24T18:56:49+0000",
+	"publication_date": "2022-02-28T09:22:45+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
-	"text_color": "orange",
+	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/7e1974d5-01dc-4a79-9033-5a11192ad22b_Greentea+Peng.jpg?auto=compress,format",
-		"alt": "Greentea Peng",
+		"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
+		"alt": "Leisure",
 		"copyright": null,
-		"width": 957,
-		"height": 956,
-		"ratio": 1.0010460251046025
+		"width": 3000,
+		"height": 1663,
+		"ratio": 1.803968731208659
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
-	"author": "XTraxk Team",
+	"author": "XTrack Team",
 	"internal_link": null,
 	"sections": [
 		{
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Gabriels, Nightmare on Wax x Greentea Peng, Jess BoykinsIII, Biig Piig, Arlo Parks, Leisure, Ric Wilson x Yellow Days, Darieus X Benny Sings, Aprile x Leo Fifty Five, Chiiild x Shungudzo,Vanjess, Michael Brun x Shay Lia, Sault, Syd, Leon Bridges x Ink, Yehra,  Khruangbin, Jose Gonzalez, Asa, Kamauu, Babeheaven, Q, Clairo, Los Retros, Olamide, Drake x Tems, Omah Lay, TeaMarr x Meer Colon, Dangbana Republik x Bella Shmurda, H.E.R. x Judah & the Black Messiah, Caius x Neigh, Cleo Sol  & +++ enjoy",
+					"text": "Leisure - Jungle - Biig Piig - Q - Omar Apollo x Daniel Caesar - Ibeyi - Asa - Darieus x Benny sings -  Sophie Meiers - Khruangbin x Leon Bridges - Aiden Ayers - Greentea Peng -  Hope Tala - Sault - Yehra - Chiiild - Kamauu - José Gonzalez - Arlo Parks - & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -42,12 +42,12 @@
 					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b3e1ecd5-1223-426c-83de-a4189fec8dd6_Gabriels.jpg?auto=compress,format&rect=0,0,864,864&w=1024&h=1024",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/f2dd9af0-540d-4996-bb36-06e6fd53e794_Ibeyi-%2B----.jpg?auto=compress,format&rect=0,0,1495,1339&w=1024&h=917",
+					"alt": "Ibeyi",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 917,
+					"ratio": 1.1166848418756816
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/01a4be9e-4210-46bf-9e91-ea1400897e25_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
@@ -63,12 +63,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/8dbe9a5d-cbee-4920-b712-a9202b613f65_Vanjess.jpg?auto=compress,format&rect=0,0,1600,1067&w=1024&h=683",
-					"alt": "Vanjess",
+					"url": "https://images.prismic.io/x-track-mag/74606aac-0e9b-48d5-9d21-51e78a5874d9_Yehra+.jpg?auto=compress,format&rect=0,0,1640,924&w=1024&h=577",
+					"alt": "Yehra",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 577,
+					"ratio": 1.7746967071057191
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/5e6fa200-5ca9-479e-89e4-ab826ec902ae_Leon-Bridges+.jpg?auto=compress,format&rect=0,0,560,840&w=1024&h=1536",
@@ -79,12 +79,12 @@
 					"ratio": 0.6666666666666666
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/04b69712-6add-414e-a592-02bfbfea9f5a_Cleo+Sol+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Cleo Sol",
+					"url": "https://images.prismic.io/x-track-mag/a49b2736-804e-4091-a2e0-b5df0907e081_Khruanbin.jpg?auto=compress,format&rect=0,0,723,410&w=1024&h=581",
+					"alt": "Khruangbin",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 581,
+					"ratio": 1.7624784853700517
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=b3f834d18b0d41db",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=15d954095c5341e4",
 					"title": "New romance"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-gxbl1mRIlAoV4",
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-oZylea1uaN9EX",
 					"title": "New romance par XTrack"
 				},
 				{
