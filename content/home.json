@@ -8,9 +8,6 @@
 	],
 	"pinned_posts": [
 		{
-			"position": null
-		},
-		{
 			"position": 1,
 			"uid": "bestxtrackoftheweek"
 		},
@@ -93,6 +90,21 @@
 		{
 			"position": 21,
 			"uid": "polycool"
+		},
+		{
+			"position": 22,
+			"uid": "new-romance"
+		},
+		{
+			"position": 23,
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry"
+		},
+		{
+			"position": 24,
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
+		},
+		{
+			"position": 25
 		}
 	],
 	"selected_reads": [
@@ -516,29 +528,6 @@
 			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
-			"uid": "new-romance",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-02-28T09:22:45+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
-				"alt": "Leisure",
-				"copyright": null,
-				"width": 3000,
-				"height": 1663,
-				"ratio": 1.803968731208659
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
-		},
-		{
 			"uid": "afropop",
 			"tags": [],
 			"publication_date": "2022-01-06T20:13:46+0000",
@@ -621,28 +610,47 @@
 			"description": ""
 		},
 		{
-			"uid": "misterkay--welcome-to-nigeria",
+			"uid": "new-romance",
 			"tags": [
-				"music",
-				"article"
+				"music"
 			],
-			"publication_date": "2021-12-10T16:40:28+0000",
-			"title": "MisterKay : ”Welcome to Nigeria“ ",
-			"subtitle": "",
-			"text_color": "orange",
+			"publication_date": "2022-02-28T09:22:45+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c85e4827-1408-4f5a-96a3-25ffcb413d0e_Y1.JPG?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
+				"alt": "Leisure",
 				"copyright": null,
-				"width": 2160,
-				"height": 3240,
-				"ratio": 0.6666666666666666
+				"width": 3000,
+				"height": 1663,
+				"ratio": 1.803968731208659
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "MisterKay : ”Welcome to Nigeria“ "
+			"description": "Playlist Chill, Cool, Love"
+		},
+		{
+			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2021-09-26T09:44:18+0000",
+			"title": "Yayayayoutube EP 1  : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
@@ -668,6 +676,30 @@
 			"description": "Léo Fifty Five, artiste à mille pourcent "
 		},
 		{
+			"uid": "misterkay--welcome-to-nigeria",
+			"tags": [
+				"music",
+				"article"
+			],
+			"publication_date": "2021-12-10T16:40:28+0000",
+			"title": "MisterKay : ”Welcome to Nigeria“ ",
+			"subtitle": "",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/c85e4827-1408-4f5a-96a3-25ffcb413d0e_Y1.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2160,
+				"height": 3240,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "MisterKay : ”Welcome to Nigeria“ "
+		},
+		{
 			"uid": "in-love",
 			"tags": [
 				"music"
@@ -689,26 +721,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Our favorite Love & Cool Songs"
-		},
-		{
-			"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2021-09-26T09:44:18+0000",
-			"title": "Yayayayoutube EP 1  : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  "
 		},
 		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
