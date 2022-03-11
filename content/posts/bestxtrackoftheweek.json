@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-04T13:39:18+0000",
+	"publication_date": "2022-03-11T13:54:21+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c7c157c8-b6d0-4891-9cc9-fc8fccd8a7cb_Sampa+The+Great.jpg?auto=compress,format",
-		"alt": "Sampa The Great",
+		"url": "https://images.prismic.io/x-track-mag/be6b006d-687f-4d2b-b8eb-dd02a12bb610_Pongo.jpg?auto=compress,format",
+		"alt": "Pongo",
 		"copyright": null,
-		"width": 1920,
-		"height": 2774,
-		"ratio": 0.692141312184571
+		"width": 3888,
+		"height": 5664,
+		"ratio": 0.6864406779661016
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Quakers x Sampa The Great - Kasi3 x Rema - Omah Lay x Justin Bieber - W4 x Buju - 1da Banton x Kizz Daniel x Tiwa Savage - BIAB - Asa - Pachyman x Winter - Tim Lyre - Stromae - Plumm - Future - Kwaku Asante - David sebastian x Miguel x Buddy x Jesse Boykins III - Ego Ella May - Marion Rampal x Piers Faccini - Parker Louis & ++++ Enjoy",
+					"text": "JyellowL - Pongo - Miel de Montagne -  Pa Salieu x Aitch - Bree runway - Lazuli x King Doudou - Djoss Saramani x Oumou Sangaré - Stromae - DJ Xhela x Runtown x Tekno - Young T & Bugsey x Blxst - Boj x Enny - Darkoo x Black sherif - Bonga - Lucky Daye x Chiiild - BLK Odyssy & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/41647304-8399-449e-a0a2-947a5d2fee0a_Plumm.jpeg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Plumm",
+					"url": "https://images.prismic.io/x-track-mag/d3e1542e-2e7c-476e-9a95-091a71b68fff_JyellowL+.jpg?auto=compress,format&rect=0,0,1200,1800&w=1024&h=1536",
+					"alt": "JyellowL",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/06c8bc78-e2ea-4c89-99e8-93ac64d82337_Justin+Bieber.+.jpeg?auto=compress,format&rect=0,0,988,1200&w=1024&h=1244",
-					"alt": "Justin Bieber",
+					"url": "https://images.prismic.io/x-track-mag/90ad10a8-4282-41c7-91f7-94d712c75944_Bree+Runway+.jpg?auto=compress,format&rect=0,0,1333,1333&w=1024&h=1024",
+					"alt": "Bree Runway",
 					"copyright": null,
 					"width": 1024,
-					"height": 1244,
-					"ratio": 0.8231511254019293
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a341a5b8-f58a-4719-a5e0-3ddfde63acd0_Ego-Ella-May-.jpg?auto=compress,format&rect=0,0,2290,1883&w=1024&h=842",
-					"alt": "Ego Ella May",
+					"url": "https://images.prismic.io/x-track-mag/e0a5f315-aa49-40b8-8114-d0490168a52d_Miel+de+Montagne.jpg?auto=compress,format&rect=0,0,1064,1240&w=1024&h=1193",
+					"alt": "Miel de Montagne",
 					"copyright": null,
 					"width": 1024,
-					"height": 842,
-					"ratio": 1.2161520190023754
+					"height": 1193,
+					"ratio": 0.8583403185247276
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e9a804fe-6f5f-41a9-87e8-c7d3323822a7_Marion+Rampal.jpg?auto=compress,format&rect=0,0,1143,1600&w=1024&h=1433",
-					"alt": "Marion Rampal",
+					"url": "https://images.prismic.io/x-track-mag/c65d2f3c-d28b-4336-9a4d-f15c6a0973d7_Pa+Salieu.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Pa Salieu",
 					"copyright": null,
 					"width": 1024,
-					"height": 1433,
-					"ratio": 0.7145847871598046
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/de2fe60c-d1e5-4b7f-950f-c5b27a8333a7_1da+banton.jpeg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "1da banton",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b0c2ac66-f403-4e06-93be-410bb9a58401_Tiwa+Savage+.jpeg?auto=compress,format&rect=0,0,1000,1500&w=1024&h=1536",
-					"alt": "Tiwa Savage",
+					"url": "https://images.prismic.io/x-track-mag/c288987b-f0f8-4b83-b916-c9d5d3f19d6c_Darkoo.jpg?auto=compress,format&rect=0,0,1000,1500&w=1024&h=1536",
+					"alt": "Darkoo",
 					"copyright": null,
 					"width": 1024,
 					"height": 1536,
 					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5ed48fa7-cc0f-477f-9e26-2691e4b50829_Lucky+Daye.jpg?auto=compress,format&rect=0,0,1364,2048&w=1024&h=1538",
+					"alt": "Lucky Daye",
+					"copyright": null,
+					"width": 1024,
+					"height": 1538,
+					"ratio": 0.6657997399219766
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=674cff2ef7094947",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=ced6d4ac2c264343",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-8aAVlelIJMKRZ",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXB3gvt0j3MD",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

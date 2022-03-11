@@ -190,17 +190,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-03-04T13:39:18+0000",
+			"publication_date": "2022-03-11T13:54:21+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c7c157c8-b6d0-4891-9cc9-fc8fccd8a7cb_Sampa+The+Great.jpg?auto=compress,format",
-				"alt": "Sampa The Great",
+				"url": "https://images.prismic.io/x-track-mag/be6b006d-687f-4d2b-b8eb-dd02a12bb610_Pongo.jpg?auto=compress,format",
+				"alt": "Pongo",
 				"copyright": null,
-				"width": 1920,
-				"height": 2774,
-				"ratio": 0.692141312184571
+				"width": 3888,
+				"height": 5664,
+				"ratio": 0.6864406779661016
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
