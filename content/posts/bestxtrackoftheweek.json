@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-18T21:17:54+0000",
+	"publication_date": "2022-03-18T21:21:23+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "orange",
@@ -68,12 +68,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/92dd55ec-4cc3-4dea-9758-2475049532e2_Simi.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/c1ba03f9-be57-49b0-9da7-e47a48534463_Simi.jpg?auto=compress,format&rect=0,0,1024,1280&w=1024&h=1280",
 					"alt": "Simi",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/0507e1c9-df6f-4e05-b3f5-4db42d4d8911_Syd.jpg?auto=compress,format&rect=0,0,750,1125&w=1024&h=1536",
