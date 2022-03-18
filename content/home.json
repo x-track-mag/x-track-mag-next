@@ -190,17 +190,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-03-11T13:54:21+0000",
+			"publication_date": "2022-03-18T14:04:12+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "white",
+			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/be6b006d-687f-4d2b-b8eb-dd02a12bb610_Pongo.jpg?auto=compress,format",
-				"alt": "Pongo",
+				"url": "https://images.prismic.io/x-track-mag/154d903a-5c6f-4006-99ac-fb7ec7ccd4e8_Rosalia.----.jpg?auto=compress,format",
+				"alt": "Rosalia",
 				"copyright": null,
-				"width": 3888,
-				"height": 5664,
-				"ratio": 0.6864406779661016
+				"width": 1572,
+				"height": 1169,
+				"ratio": 1.3447390932420873
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-11T13:54:21+0000",
+	"publication_date": "2022-03-18T14:04:12+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "white",
+	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/be6b006d-687f-4d2b-b8eb-dd02a12bb610_Pongo.jpg?auto=compress,format",
-		"alt": "Pongo",
+		"url": "https://images.prismic.io/x-track-mag/154d903a-5c6f-4006-99ac-fb7ec7ccd4e8_Rosalia.----.jpg?auto=compress,format",
+		"alt": "Rosalia",
 		"copyright": null,
-		"width": 3888,
-		"height": 5664,
-		"ratio": 0.6864406779661016
+		"width": 1572,
+		"height": 1169,
+		"ratio": 1.3447390932420873
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "JyellowL - Pongo - Miel de Montagne -  Pa Salieu x Aitch - Bree runway - Lazuli x King Doudou - Djoss Saramani x Oumou Sangaré - Stromae - DJ Xhela x Runtown x Tekno - Young T & Bugsey x Blxst - Boj x Enny - Darkoo x Black sherif - Bonga - Lucky Daye x Chiiild - BLK Odyssy & ++++ Enjoy",
+					"text": "Rosalia - Dremo x Simi - Asa - Lucky Daye - Seb Wildblood x Ouri - CKay - Rema x AJ Tracey - Stromae - Joyce Wrice x kaytranada - Greentea Peng - Syd x Lucky Daye - Mahalia - Still Woozy x Remi Wolf - Rexx Life Raj x Fireboy DML x Wale - Endel x Facesoul & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,53 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d3e1542e-2e7c-476e-9a95-091a71b68fff_JyellowL+.jpg?auto=compress,format&rect=0,0,1200,1800&w=1024&h=1536",
-					"alt": "JyellowL",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/90ad10a8-4282-41c7-91f7-94d712c75944_Bree+Runway+.jpg?auto=compress,format&rect=0,0,1333,1333&w=1024&h=1024",
-					"alt": "Bree Runway",
+					"url": "https://images.prismic.io/x-track-mag/2f1ebbef-94a2-4109-8c62-50a34d865098_Asa.jpg?auto=compress,format&rect=0,0,899,899&w=1024&h=1024",
+					"alt": "Asa",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e0a5f315-aa49-40b8-8114-d0490168a52d_Miel+de+Montagne.jpg?auto=compress,format&rect=0,0,1064,1240&w=1024&h=1193",
-					"alt": "Miel de Montagne",
+					"url": "https://images.prismic.io/x-track-mag/aa595e65-f132-4e2f-94f5-401b860d8d56_+Joyce+Wrice.jpg?auto=compress,format&rect=0,0,789,1000&w=1024&h=1298",
+					"alt": "Joyce Wrice",
 					"copyright": null,
 					"width": 1024,
-					"height": 1193,
-					"ratio": 0.8583403185247276
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/c65d2f3c-d28b-4336-9a4d-f15c6a0973d7_Pa+Salieu.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Pa Salieu",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1298,
+					"ratio": 0.7889060092449923
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c288987b-f0f8-4b83-b916-c9d5d3f19d6c_Darkoo.jpg?auto=compress,format&rect=0,0,1000,1500&w=1024&h=1536",
-					"alt": "Darkoo",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5ed48fa7-cc0f-477f-9e26-2691e4b50829_Lucky+Daye.jpg?auto=compress,format&rect=0,0,1364,2048&w=1024&h=1538",
-					"alt": "Lucky Daye",
+					"url": "https://images.prismic.io/x-track-mag/cde1f66a-a890-4ba5-872d-424d3dd545bb_Ouri.jpg?auto=compress,format&rect=0,0,1364,2048&w=1024&h=1538",
+					"alt": "Ouri",
 					"copyright": null,
 					"width": 1024,
 					"height": 1538,
@@ -94,14 +65,43 @@
 			]
 		},
 		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/92dd55ec-4cc3-4dea-9758-2475049532e2_Simi.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Simi",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/0507e1c9-df6f-4e05-b3f5-4db42d4d8911_Syd.jpg?auto=compress,format&rect=0,0,750,1125&w=1024&h=1536",
+					"alt": "Syd",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f8752d75-3430-4526-9b7d-6d5713cbd08e_Greentea+Peng.jpg?auto=compress,format&rect=0,0,1471,2048&w=1024&h=1426",
+					"alt": "Greentea Peng",
+					"copyright": null,
+					"width": 1024,
+					"height": 1426,
+					"ratio": 0.7180925666199158
+				}
+			]
+		},
+		{
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=ced6d4ac2c264343",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=6d19bd7df5e049c7",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-KVXB3gvt0j3MD",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-8aAVl8bTJMKRZ",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
