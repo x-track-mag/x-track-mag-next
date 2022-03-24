@@ -867,26 +867,6 @@
 			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
-			"uid": "donzer-live-session",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-03-24T23:33:02+0000",
-			"title": "Donzer - Bleu Piscine",
-			"subtitle": "LIVE SESSION",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "IMG_3188 4.MOV",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/d6735e07-9738-4457-a929-d6ec64514e92_IMG_3188+4.MOV",
-				"size": "6855263"
-			},
-			"template": "3: Image + Titre",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "Donzer live dession x-track bleu piscine"
-		},
-		{
 			"uid": "2020-is-the-year",
 			"tags": [
 				"article"
