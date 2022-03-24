@@ -847,6 +847,26 @@
 			"description": "MisterKay : ”Welcome to Nigeria“ "
 		},
 		{
+			"uid": "live-session-donzer-bleu-pisicne",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-03-24T23:42:13+0000",
+			"title": "Donzer",
+			"subtitle": "LIVE SESSION",
+			"text_color": "orange",
+			"image": null,
+			"video_loop": {
+				"name": "IMG_3188 4.MOV",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/d6735e07-9738-4457-a929-d6ec64514e92_IMG_3188+4.MOV",
+				"size": "6855263"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session Donzer bleu piscine x-track mag"
+		},
+		{
 			"uid": "donzer-live-session",
 			"tags": [
 				"music"
