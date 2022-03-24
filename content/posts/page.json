@@ -237,6 +237,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/PTDBYbphrSM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
+			"ratio": null,
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/eae432f7-aa37-456c-99c0-5d22607874d4_Capture+d%E2%80%99e%CC%81cran+2021-02-14+a%CC%80+15.03.08.png?auto=compress,format",
 				"alt": null,
@@ -370,6 +371,7 @@
 				"html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/2HJpuIS8lh8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
 				"embed_url": "https://www.youtube.com/watch?v=2HJpuIS8lh8"
 			},
+			"ratio": null,
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/bed88fa3-2204-4b7d-843a-1a564f40010a_Capture+d%E2%80%99e%CC%81cran+2021-03-24+a%CC%80+19.28.03.png?auto=compress,format",
 				"alt": null,

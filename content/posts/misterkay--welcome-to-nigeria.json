@@ -138,6 +138,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/3D0f-ruMflE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
+			"ratio": null,
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/940f223c-be3e-45cb-bd8c-3645377c739d_Capture+d%E2%80%99e%CC%81cran+2021-12-09+a%CC%80+18.44.40.png?auto=compress,format",
 				"alt": null,

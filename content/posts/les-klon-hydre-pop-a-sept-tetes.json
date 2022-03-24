@@ -99,6 +99,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MxTkEC4Cy3I?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
+			"ratio": null,
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
 				"alt": "Nouveau genre",
@@ -265,6 +266,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Fve9JQUxZm8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
+			"ratio": null,
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/32e1a85c-c6ec-4311-bdd3-1f2102f89271_Klon+West.jpg?auto=compress,format",
 				"alt": null,
