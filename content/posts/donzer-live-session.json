@@ -1,0 +1,118 @@
+{
+	"uid": "donzer-live-session",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2022-03-24T23:33:02+0000",
+	"title": "Donzer - Bleu Piscine",
+	"subtitle": "LIVE SESSION",
+	"text_color": "green",
+	"image": null,
+	"video_loop": {
+		"name": "IMG_3188 4.MOV",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/d6735e07-9738-4457-a929-d6ec64514e92_IMG_3188+4.MOV",
+		"size": "6855263"
+	},
+	"template": "3: Image + Titre",
+	"author": "X-TRACK TEAM",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-video-launcher",
+			"display_article_title": true,
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Nous partons à la rencontre de l’artiste @donzerinho qui nous parle de la genèse de son prochain titre « BLEU PISCINE ».",
+					"spans": [
+						{
+							"start": 41,
+							"end": 52,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/donzerinho/?hl=frhttps://"
+							}
+						}
+					]
+				}
+			],
+			"link": {
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=jPNiYlCQ3-A",
+				"type": "video",
+				"version": "1.0",
+				"title": "LIVE SESSION XTrack Mag avec Donzer",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/c/XTrackMag",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
+				"thumbnail_url": "https://i.ytimg.com/vi/jPNiYlCQ3-A/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/jPNiYlCQ3-A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+			},
+			"ratio": "16/9",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4fef25bb-a1a6-4b63-822e-56de057417e5_donzer_05032022_%40mobiusvisio-3.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1312,
+				"height": 1968,
+				"ratio": 0.6666666666666666
+			},
+			"disposition": "Video | Texte"
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "« C’EST UNE COULEUR QUE J’AI INVENTÉ, BLEU PISCINE. ELLE EST GRAVE MÉDITERRANÉENNE, C’EST «SUMMER TIMES», C’EST «DOLCE VITA»! IMAGINEZ SUR DES MOSAÏQUES DANS LES FONDS DE BELLES PISCINES, DES TRUCS COMME ÇA, TU VOIS? C’EST ÇA, BLEU PISCINE, EN FAIT ».",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-two-columns",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Interview + réalisation : @diggakhedija pour @xtrackmag",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Cadre + edit : @mobiusvisio",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Ingénieur studio : @romanhertz",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Prod son : @marcmonnaie",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Mix : @ayrton75era",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Global production : @xtrackprod ",
+					"spans": []
+				}
+			],
+			"image": null,
+			"columns_order": "Image | Texte",
+			"full_page": false
+		}
+	],
+	"description": "Donzer live dession x-track bleu piscine"
+}
