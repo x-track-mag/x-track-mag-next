@@ -1,7 +1,7 @@
 {
 	"uid": "15minutes-avec-jacques",
 	"tags": [],
-	"publication_date": "2022-02-23T09:38:18+0000",
+	"publication_date": "2022-03-24T23:30:01+0000",
 	"title": "15 minutes avec Jacques",
 	"subtitle": "INTERVIEW",
 	"text_color": "green",
@@ -15,6 +15,12 @@
 	"author": "Camille Laurens",
 	"internal_link": null,
 	"sections": [
+		{
+			"template": "section-hero",
+			"title": null,
+			"subtitle": null,
+			"image": null
+		},
 		{
 			"template": "section-full-text",
 			"text": [
@@ -62,7 +68,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MIw9pd6dpHw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/ba8628e8-0db7-4c54-b94e-7eea259a223a_Jacques-vignette-itw.jpg?auto=compress,format",
 				"alt": "ITW jacques",
@@ -114,7 +120,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/a9big7d0ZNE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/bbd8b7ee-43b0-47aa-94f3-d783d107c7ce_Jacques.jpg?auto=compress,format",
 				"alt": null,
