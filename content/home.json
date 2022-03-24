@@ -210,8 +210,10 @@
 		},
 		{
 			"uid": "15minutes-avec-jacques",
-			"tags": [],
-			"publication_date": "2022-03-24T23:30:01+0000",
+			"tags": [
+				"interview"
+			],
+			"publication_date": "2022-03-24T23:31:51+0000",
 			"title": "15 minutes avec Jacques",
 			"subtitle": "INTERVIEW",
 			"text_color": "green",
