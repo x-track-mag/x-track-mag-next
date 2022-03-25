@@ -135,8 +135,7 @@
 			"uid": "misterkay--welcome-to-nigeria"
 		},
 		{
-			"position": 31,
-			"uid": "tropical"
+			"position": 31
 		}
 	],
 	"selected_reads": [
@@ -768,6 +767,24 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
+			"tags": [],
+			"publication_date": "2021-07-03T07:49:51+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+		},
+		{
 			"uid": "in-love",
 			"tags": [
 				"music"
@@ -834,47 +851,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "MisterKay : ”Welcome to Nigeria“ "
-		},
-		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
-			"tags": [],
-			"publication_date": "2021-07-03T07:49:51+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
-		},
-		{
-			"uid": "tropical",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-03-25T12:29:55+0000",
-			"title": "Tropical",
-			"subtitle": "Hot and Happy Summer",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/38599c10-d89e-44d0-8365-16936a16f120_Sampa-The-Great-.jpg?auto=compress,format",
-				"alt": "Sampa The Great",
-				"copyright": null,
-				"width": 2598,
-				"height": 1920,
-				"ratio": 1.353125
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Tropical"
 		},
 		{
 			"uid": "2020-is-the-year",
