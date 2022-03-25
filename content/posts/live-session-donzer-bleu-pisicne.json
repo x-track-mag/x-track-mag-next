@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-25T10:18:12+0000",
+	"publication_date": "2022-03-25T10:19:25+0000",
 	"title": "Donzer",
 	"subtitle": "LIVE SESSION",
 	"text_color": "orange",
@@ -54,7 +54,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/jPNiYlCQ3-A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": "16/9",
+			"ratio": "9/16",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/4fef25bb-a1a6-4b63-822e-56de057417e5_donzer_05032022_%40mobiusvisio-3.JPG?auto=compress,format",
 				"alt": null,
