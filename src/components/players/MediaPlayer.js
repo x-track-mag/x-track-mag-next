@@ -6,8 +6,9 @@ import OpenWhydPlayer from "./OpenWhydPlayer.js";
 import YoutubePlayer from "./YoutubePlayer.js";
 import ReactPlayer from "react-player";
 import { AspectRatio } from "@chakra-ui/react";
+import { calcRatio } from "@lib/utils/ratio.js";
 
-const MediaPlayer = ({ url, ...more }) => {
+const RawMediaPlayer = ({ url, ...more }) => {
 	if (!url) return null;
 
 	if (!url.startsWith("https")) {
@@ -44,24 +45,28 @@ const MediaPlayer = ({ url, ...more }) => {
 	}
 
 	return (
-		<AspectRatio ratio={16 / 9} width="100%">
-			<ReactPlayer
-				url={url}
-				width="100%"
-				height="100%"
-				config={{
-					youtube: {
-						playerVars: {
-							autoplay: 0,
-							loop: 1,
-							modestbranding: 1,
-							hl: "fr"
-						}
+		<ReactPlayer
+			url={url}
+			width="100%"
+			height="100%"
+			config={{
+				youtube: {
+					playerVars: {
+						autoplay: 0,
+						loop: 1,
+						modestbranding: 1,
+						hl: "fr"
 					}
-				}}
-			/>
-		</AspectRatio>
+				}
+			}}
+		/>
 	);
 };
+
+const MediaPlayer = ({ ratio = "16/9", ...props }) => (
+	<AspectRatio ratio={calcRatio(ratio)} width="100%">
+		<RawMediaPlayer {...props} />
+	</AspectRatio>
+);
 
 export default MediaPlayer;

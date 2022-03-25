@@ -3,6 +3,7 @@ import Container from "@components/base/Container";
 import { Title, Subtitle, RichText } from "@components/base/Typography";
 import ReactPlayer from "react-player";
 import SvgPlayerIcon from "@components/icons/SvgPlayerIcon.js";
+import { calcRatio } from "@lib/utils/ratio";
 
 /**
  * A two columns/responsive container with a rich text column and a video media player
@@ -18,11 +19,12 @@ const SectionVideoLauncher = ({
 	image,
 	link,
 	disposition,
-    ratio = 16/9,
+	ratio = "4/3",
 	...props
 }) => {
 	disposition = disposition || "Texte | Video"; // we receive a null value for old content
 	image = image || article.image;
+	ratio = calcRatio(ratio);
 
 	const templateColumns = {
 		base: "100%"
@@ -55,14 +57,15 @@ const SectionVideoLauncher = ({
 					</GridItem>
 				)}
 				<GridItem
-					padding="1rem 2rem"
+					padding="2rem"
 					as={Flex}
 					flexDirection="column"
 					alignItems="center"
 					justifyContent="center"
+					maxH="80vh"
 					className="video-player"
 				>
-					<AspectRatio ratio={ratio} width="100%">
+					<AspectRatio ratio={ratio} width={ratio > 1 ? "80%" : "50%"}>
 						<ReactPlayer
 							url={link.embed_url}
 							light={image ? image.url : false} // display the image as vignette

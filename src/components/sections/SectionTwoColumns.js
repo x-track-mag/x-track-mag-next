@@ -41,14 +41,14 @@ const SectionTwoColumns = ({
 				alignItems="center"
 				justifyContent="center"
 			>
-				<AspectRatio ratio={image.ratio} width="100%">
+				{image && <AspectRatio ratio={image.ratio} width="100%">
 					<Image
 						src={image.url}
 						alt={image.alt}
 						layout="fill"
 						objectFit="contain"
 					/>
-				</AspectRatio>
+				</AspectRatio>}
 			</GridItem>
 		</Container>
 	</Box>
