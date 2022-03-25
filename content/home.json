@@ -140,7 +140,8 @@
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
 		},
 		{
-			"position": 35
+			"position": 35,
+			"uid": "2020-is-the-year"
 		}
 	],
 	"selected_reads": [
@@ -572,25 +573,6 @@
 			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
-			"uid": "2020-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2022-01-06T19:08:46+0000",
-			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": ""
-		},
-		{
 			"uid": "afropop",
 			"tags": [
 				"music"
@@ -898,6 +880,25 @@
 			"author": "MANON PELINQ",
 			"internal_link": null,
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
+		},
+		{
+			"uid": "2020-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2022-01-06T19:08:46+0000",
+			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
 		}
 	]
 }
