@@ -18,6 +18,7 @@ const SectionVideoLauncher = ({
 	image,
 	link,
 	disposition,
+    ratio = 16/9,
 	...props
 }) => {
 	disposition = disposition || "Texte | Video"; // we receive a null value for old content
@@ -61,7 +62,7 @@ const SectionVideoLauncher = ({
 					justifyContent="center"
 					className="video-player"
 				>
-					<AspectRatio ratio={16 / 9} width="100%">
+					<AspectRatio ratio={ratio} width="100%">
 						<ReactPlayer
 							url={link.embed_url}
 							light={image ? image.url : false} // display the image as vignette
