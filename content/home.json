@@ -217,6 +217,26 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
+			"uid": "live-session-donzer-bleu-pisicne",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-03-25T17:57:02+0000",
+			"title": "Donzer",
+			"subtitle": "LIVE SESSION",
+			"text_color": "orange",
+			"image": null,
+			"video_loop": {
+				"name": "IMG_3188 6.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/00de25db-d580-4e5d-95c7-dc919edac0eb_IMG_3188+6.mp4",
+				"size": "5895339"
+			},
+			"template": "3: Image + Titre",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session Donzer bleu piscine x-track mag"
+		},
+		{
 			"uid": "page",
 			"tags": [],
 			"publication_date": "2021-03-24T18:28:30+0000",
@@ -746,24 +766,6 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
-			"tags": [],
-			"publication_date": "2021-07-03T07:49:51+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
-		},
-		{
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
 			"tags": [
 				"article"
@@ -831,6 +833,24 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "Un monde à Parr"
+		},
+		{
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
+			"tags": [],
+			"publication_date": "2021-07-03T07:49:51+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",
