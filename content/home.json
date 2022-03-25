@@ -198,17 +198,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-03-18T21:21:23+0000",
+			"publication_date": "2022-03-25T15:13:51+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/154d903a-5c6f-4006-99ac-fb7ec7ccd4e8_Rosalia.----.jpg?auto=compress,format",
-				"alt": "Rosalia",
+				"url": "https://images.prismic.io/x-track-mag/c11adcf0-1dca-497c-9b09-68d55f3bebfc_Raury.jpg?auto=compress,format",
+				"alt": "Raury",
 				"copyright": null,
-				"width": 1572,
-				"height": 1169,
-				"ratio": 1.3447390932420873
+				"width": 2000,
+				"height": 3000,
+				"ratio": 0.6666666666666666
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
