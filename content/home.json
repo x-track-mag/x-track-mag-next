@@ -301,7 +301,7 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-03-25T10:17:48+0000",
+			"publication_date": "2022-03-25T10:18:12+0000",
 			"title": "Donzer",
 			"subtitle": "LIVE SESSION",
 			"text_color": "orange",
@@ -311,7 +311,7 @@
 				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/d6735e07-9738-4457-a929-d6ec64514e92_IMG_3188+4.MOV",
 				"size": "6855263"
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
+			"template": "3: Image + Titre",
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "live session Donzer bleu piscine x-track mag"
