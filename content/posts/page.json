@@ -1,7 +1,7 @@
 {
 	"uid": "page",
 	"tags": [],
-	"publication_date": "2021-03-24T18:28:30+0000",
+	"publication_date": "2022-03-25T18:46:22+0000",
 	"title": "Mode éthique : classe ou classiste ?                              ",
 	"subtitle": "",
 	"text_color": "white",
@@ -104,7 +104,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Lorsque Virgil Abloh déclare à l’Officiel en 2019, “Je pense que nous sommes à l'aube d'une nouvelle renaissance. Avec internet et tous les médiums d'aujourd'hui, notre regard sur le passé évolue, nos opinions se forgent autrement et chacun peut inventer son propre destin.\", sans nul doute, il s’adresse à une strate précise de citoyens. S’habiller de manière consciente a un prix. Même s’il ne s’agit pas de produits de luxe, les vêtements sont le fruit d’une distinction sociale. Or, tout comme dans le choix d’une alimentation plus saine, certains ont accès à des articles que d’autres ne peuvent acquérir. La mise en parallèle est simple. Culpabiliser les adeptes de la fast-fashion, c’est mettre en exergue une réalité : l’élitisme et le snobisme des classes aisées. ",
+					"text": "Lorsque Virgil Abloh déclare à l’Officiel en 2019, “Je pense que nous sommes à l'aube d'une nouvelle renaissance. Avec internet et tous les médiums d'aujourd'hui, notre regard sur le passé évolue, nos opinions se forgent autrement et chacun peut inventer son propre destin.\", sans nul doute, il s’adresse à une strate précise de citoyens. S’habiller de manière consciente a un prix. Même s’il ne s’agit pas de produits de luxe, les vêtements sont le fruit d’une distinction sociale. Or, tout comme dans le choix d’une alimentation plus saine, certains ont accès à des articles que d’autres ne peuvent acquérir. La mise en parallèle est simple. Culpabiliser les adeptes de la fast-fashion, c’est mettre en exergue une réalité : l’élitisme et le snobisme des classes aisées.  ",
 					"spans": [
 						{
 							"start": 52,
@@ -218,7 +218,7 @@
 		},
 		{
 			"template": "section-video-launcher",
-			"display_article_title": null,
+			"display_article_title": true,
 			"text": [],
 			"link": {
 				"height": 150,
@@ -237,7 +237,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/PTDBYbphrSM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/eae432f7-aa37-456c-99c0-5d22607874d4_Capture+d%E2%80%99e%CC%81cran+2021-02-14+a%CC%80+15.03.08.png?auto=compress,format",
 				"alt": null,
@@ -246,7 +246,7 @@
 				"height": 1674,
 				"ratio": 0.8697729988052568
 			},
-			"disposition": null
+			"disposition": "Texte | Video"
 		},
 		{
 			"template": "section-full-text",
@@ -353,25 +353,26 @@
 		},
 		{
 			"template": "section-video-launcher",
-			"display_article_title": null,
+			"display_article_title": true,
 			"text": [],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 150,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=2HJpuIS8lh8",
+				"type": "video",
+				"version": "1.0",
 				"title": "Entretien avec Rubi pigeon. La mode éthique classe ou classiste ?",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
-				"type": "video",
-				"height": 150,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/2HJpuIS8lh8/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/2HJpuIS8lh8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=2HJpuIS8lh8"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/2HJpuIS8lh8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/bed88fa3-2204-4b7d-843a-1a564f40010a_Capture+d%E2%80%99e%CC%81cran+2021-03-24+a%CC%80+19.28.03.png?auto=compress,format",
 				"alt": null,
@@ -380,7 +381,7 @@
 				"height": 1632,
 				"ratio": 0.8688725490196079
 			},
-			"disposition": null
+			"disposition": "Texte | Video"
 		}
 	],
 	"description": "La mode éthique : classe ou classiste ?                              "
