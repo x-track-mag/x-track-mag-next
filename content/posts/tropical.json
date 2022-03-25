@@ -1,0 +1,119 @@
+{
+	"uid": "tropical",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2022-03-25T10:41:37+0000",
+	"title": "Tropical",
+	"subtitle": "Hot and Happy Summer",
+	"text_color": "inverted",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/38599c10-d89e-44d0-8365-16936a16f120_Sampa-The-Great-.jpg?auto=compress,format",
+		"alt": "Sampa The Great",
+		"copyright": null,
+		"width": 2598,
+		"height": 1920,
+		"ratio": 1.353125
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Quackers x Sampa the Great - Kasi3 x Rema - Kidi x Tyga - Juls x Fireboy DML - PaBrimo x Teni - Fireboy DML - The Cavemen - Simi - Terri - Blundetto x Voilaaa - Skip Marley x Popcaan - Yung L - Juls x Twich4EVA x - Tekno - Pongo - Florence Adooni - Oumou Sangaré - Juls x Agent Sasco - Pachyman x Winter - Ahkatari - Bitty Mc Lean - Soul Sugar x Leo Carmichael - Jada Kingdom - Bush Tea - Olamide - 808vic - Ayanfe x DaVido - Nova x Fasina - Wizkid x Major Lazer - Kasi3 x Ruger - Ria Sean & +++",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "t",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/e25a07bc-0f2f-4bc3-9289-7d2acbf8de37_Ria+Sean+.jpg?auto=compress,format&rect=0,0,960,959&w=1024&h=1023",
+					"alt": "Ria Sean",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/c1ba03f9-be57-49b0-9da7-e47a48534463_Simi.jpg?auto=compress,format&rect=0,0,1024,1280&w=1024&h=1280",
+					"alt": "Simi",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
+					"alt": "Juls",
+					"copyright": null,
+					"width": 1024,
+					"height": 1021,
+					"ratio": 1.0029382957884427
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/be6b006d-687f-4d2b-b8eb-dd02a12bb610_Pongo.jpg?auto=compress,format&rect=0,0,3887,5664&w=1024&h=1492",
+					"alt": "Pongo",
+					"copyright": null,
+					"width": 1024,
+					"height": 1492,
+					"ratio": 0.6863270777479893
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d261e6bf-292f-4db7-bc2d-26e548294c89_The+Cavemen+.jpg?auto=compress,format&rect=0,0,2048,1366&w=1024&h=683",
+					"alt": "The Cavemen",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=441a7c918a384c4f",
+					"title": "Tropical "
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/tropical/pl.u-oZyle8auaN9EX",
+					"title": "Tropical par XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/4930107344",
+					"title": "Tropical"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMC1CzGVtkqvVDwuS6EABM_A",
+					"title": "Tropical"
+				}
+			]
+		}
+	],
+	"description": "Tropical"
+}
