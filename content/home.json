@@ -129,18 +129,14 @@
 		},
 		{
 			"position": 32,
-			"uid": "page"
-		},
-		{
-			"position": 33,
 			"uid": "misterkay--welcome-to-nigeria"
 		},
 		{
-			"position": 34,
+			"position": 33,
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
 		},
 		{
-			"position": 35,
+			"position": 34,
 			"uid": "2020-is-the-year"
 		}
 	],
@@ -219,6 +215,27 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Playlist des meilleurs sons de la semaine"
+		},
+		{
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2021-03-24T18:28:30+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "15minutes-avec-jacques",
@@ -814,27 +831,6 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "Un monde à Parr"
-		},
-		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2021-03-24T18:28:30+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",
