@@ -1,9 +1,9 @@
 {
 	"uid": "live-session-donzer-bleu-pisicne",
 	"tags": [
-		"music"
+		"live session"
 	],
-	"publication_date": "2022-03-24T23:42:13+0000",
+	"publication_date": "2022-03-25T10:08:31+0000",
 	"title": "Donzer",
 	"subtitle": "LIVE SESSION",
 	"text_color": "orange",
@@ -38,20 +38,21 @@
 				}
 			],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=jPNiYlCQ3-A",
+				"type": "video",
+				"version": "1.0",
 				"title": "LIVE SESSION XTrack Mag avec Donzer",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/c/XTrackMag",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/jPNiYlCQ3-A/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/jPNiYlCQ3-A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=jPNiYlCQ3-A"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/jPNiYlCQ3-A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"ratio": "16/9",
 			"image": {
