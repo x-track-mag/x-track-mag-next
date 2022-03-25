@@ -76,7 +76,16 @@
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		},
 		{
-			"position": 19
+			"position": 19,
+			"uid": "new-romance"
+		},
+		{
+			"position": 20,
+			"uid": "boys-noize-resonne-toujours-plus-fort"
+		},
+		{
+			"position": 21,
+			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		}
 	],
 	"selected_reads": [
@@ -218,26 +227,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
-		},
-		{
-			"uid": "yayayayoutube-ep-3-ophelie-summer",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-09-29T15:18:54+0000",
-			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
-			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "EDIT_INSTA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
-				"size": "1730419"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
@@ -528,29 +517,6 @@
 			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
-			"uid": "afropop",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-03-07T12:48:13+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2aa806a7-95d6-4f18-a3e0-d30f389dacca_Rema+Calm+Down.jpg?auto=compress,format",
-				"alt": "Rema",
-				"copyright": null,
-				"width": 1500,
-				"height": 1500,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Kasi3 x Rema - Asa - Ruger - Burna Boy x Wizkid - Simi - Rema - Tekno - Juls x Niniola - Crayon x Bella Shmurda - Tekno x - Mafikizolo - Juls x Twitch 4EVA x Quamina MP - The Cavemen - Skip Marley x Popcann, Benjiflow - Fireboy DML - Yung L - Omah Lay - Muzi - Lass x Kazy Lambist - Reekadoo Banks - Bawo - Loski x Stormzy - Wizkid x HER - Jada Kingdom - Adekunle Gold x Patoranking - Greentea Peng - Roro - Koffee - Bush Tea - Hbee - Starboy x DJ Tunez x Wizkid - Konshens x DaVido - Joeboy - Bellah - Jujuboy Star - Tiwa Savage - 1da Banton x Kiss Daniel - Samthing Soweto - Ayra Starr - Mr Eazi - PaBrymo x Teni - Drake x Tems - Olamide - Yemi Alade - Amaarae & ++++ Enjoy"
-		},
-		{
 			"uid": "new-romance",
 			"tags": [
 				"music"
@@ -596,6 +562,49 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Boys Noize"
+		},
+		{
+			"uid": "afropop",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-03-07T12:48:13+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2aa806a7-95d6-4f18-a3e0-d30f389dacca_Rema+Calm+Down.jpg?auto=compress,format",
+				"alt": "Rema",
+				"copyright": null,
+				"width": 1500,
+				"height": 1500,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Kasi3 x Rema - Asa - Ruger - Burna Boy x Wizkid - Simi - Rema - Tekno - Juls x Niniola - Crayon x Bella Shmurda - Tekno x - Mafikizolo - Juls x Twitch 4EVA x Quamina MP - The Cavemen - Skip Marley x Popcann, Benjiflow - Fireboy DML - Yung L - Omah Lay - Muzi - Lass x Kazy Lambist - Reekadoo Banks - Bawo - Loski x Stormzy - Wizkid x HER - Jada Kingdom - Adekunle Gold x Patoranking - Greentea Peng - Roro - Koffee - Bush Tea - Hbee - Starboy x DJ Tunez x Wizkid - Konshens x DaVido - Joeboy - Bellah - Jujuboy Star - Tiwa Savage - 1da Banton x Kiss Daniel - Samthing Soweto - Ayra Starr - Mr Eazi - PaBrymo x Teni - Drake x Tems - Olamide - Yemi Alade - Amaarae & ++++ Enjoy"
+		},
+		{
+			"uid": "yayayayoutube-ep-3-ophelie-summer",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-09-29T15:18:54+0000",
+			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
+			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "EDIT_INSTA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
+				"size": "1730419"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
 			"uid": "2020-is-the-year",
