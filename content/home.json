@@ -86,6 +86,29 @@
 		{
 			"position": 21,
 			"uid": "yayayayoutube-ep-3-ophelie-summer"
+		},
+		{
+			"position": 22,
+			"uid": "afropop"
+		},
+		{
+			"position": 23,
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
+		},
+		{
+			"position": 24,
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
+		},
+		{
+			"position": 25,
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+		},
+		{
+			"position": 26,
+			"uid": "in-love"
+		},
+		{
+			"position": 27
 		}
 	],
 	"selected_reads": [
@@ -383,29 +406,6 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "in-love",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-03-14T17:47:42+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
-				"alt": "Gabriels",
-				"copyright": null,
-				"width": 1943,
-				"height": 1140,
-				"ratio": 1.7043859649122808
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
-		},
-		{
 			"uid": "tropical",
 			"tags": [
 				"music"
@@ -564,29 +564,6 @@
 			"description": "Boys Noize"
 		},
 		{
-			"uid": "afropop",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-03-07T12:48:13+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2aa806a7-95d6-4f18-a3e0-d30f389dacca_Rema+Calm+Down.jpg?auto=compress,format",
-				"alt": "Rema",
-				"copyright": null,
-				"width": 1500,
-				"height": 1500,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Kasi3 x Rema - Asa - Ruger - Burna Boy x Wizkid - Simi - Rema - Tekno - Juls x Niniola - Crayon x Bella Shmurda - Tekno x - Mafikizolo - Juls x Twitch 4EVA x Quamina MP - The Cavemen - Skip Marley x Popcann, Benjiflow - Fireboy DML - Yung L - Omah Lay - Muzi - Lass x Kazy Lambist - Reekadoo Banks - Bawo - Loski x Stormzy - Wizkid x HER - Jada Kingdom - Adekunle Gold x Patoranking - Greentea Peng - Roro - Koffee - Bush Tea - Hbee - Starboy x DJ Tunez x Wizkid - Konshens x DaVido - Joeboy - Bellah - Jujuboy Star - Tiwa Savage - 1da Banton x Kiss Daniel - Samthing Soweto - Ayra Starr - Mr Eazi - PaBrymo x Teni - Drake x Tems - Olamide - Yemi Alade - Amaarae & ++++ Enjoy"
-		},
-		{
 			"uid": "yayayayoutube-ep-3-ophelie-summer",
 			"tags": [
 				"article"
@@ -626,6 +603,96 @@
 			"description": ""
 		},
 		{
+			"uid": "afropop",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-03-07T12:48:13+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2aa806a7-95d6-4f18-a3e0-d30f389dacca_Rema+Calm+Down.jpg?auto=compress,format",
+				"alt": "Rema",
+				"copyright": null,
+				"width": 1500,
+				"height": 1500,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Kasi3 x Rema - Asa - Ruger - Burna Boy x Wizkid - Simi - Rema - Tekno - Juls x Niniola - Crayon x Bella Shmurda - Tekno x - Mafikizolo - Juls x Twitch 4EVA x Quamina MP - The Cavemen - Skip Marley x Popcann, Benjiflow - Fireboy DML - Yung L - Omah Lay - Muzi - Lass x Kazy Lambist - Reekadoo Banks - Bawo - Loski x Stormzy - Wizkid x HER - Jada Kingdom - Adekunle Gold x Patoranking - Greentea Peng - Roro - Koffee - Bush Tea - Hbee - Starboy x DJ Tunez x Wizkid - Konshens x DaVido - Joeboy - Bellah - Jujuboy Star - Tiwa Savage - 1da Banton x Kiss Daniel - Samthing Soweto - Ayra Starr - Mr Eazi - PaBrymo x Teni - Drake x Tems - Olamide - Yemi Alade - Amaarae & ++++ Enjoy"
+		},
+		{
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-04-09T11:31:17+0000",
+			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
+		},
+		{
+			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
+			"tags": [],
+			"publication_date": "2021-09-11T21:18:20+0000",
+			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
+			"subtitle": "",
+			"text_color": "green",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1440,
+				"height": 900,
+				"ratio": 1.6
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
+		},
+		{
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
+		},
+		{
 			"uid": "misterkay--welcome-to-nigeria",
 			"tags": [
 				"music",
@@ -648,6 +715,29 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "MisterKay : ”Welcome to Nigeria“ "
+		},
+		{
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-03-14T17:47:42+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
+				"alt": "Gabriels",
+				"copyright": null,
+				"width": 1943,
+				"height": 1140,
+				"ratio": 1.7043859649122808
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
@@ -693,27 +783,6 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
-			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
-			"tags": [],
-			"publication_date": "2021-09-11T21:18:20+0000",
-			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
-			"subtitle": "",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/327cf0b3-015f-41fa-b48a-02b6504e086e_COVER+KLEPTO+%281%29_beautyedit.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1440,
-				"height": 900,
-				"ratio": 1.6
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
-		},
-		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
 			"tags": [],
 			"publication_date": "2021-07-03T07:49:51+0000",
@@ -755,29 +824,6 @@
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-04-09T11:31:17+0000",
-			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
-		},
-		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 			"tags": [],
 			"publication_date": "2021-03-18T18:01:34+0000",
@@ -797,29 +843,6 @@
 			"author": "MANON PELINQ",
 			"internal_link": null,
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
-		},
-		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T22:52:14+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
 			"uid": "martin-parr",
