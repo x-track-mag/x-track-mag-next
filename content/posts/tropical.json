@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-25T21:51:49+0000",
+	"publication_date": "2022-03-25T21:55:56+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/38599c10-d89e-44d0-8365-16936a16f120_Sampa-The-Great-.jpg?auto=compress,format",
-		"alt": "Sampa The Great",
+		"url": "https://images.prismic.io/x-track-mag/c0e3de03-2134-451d-b3d2-e28a00558ffd_Koffee.jpg?auto=compress,format",
+		"alt": "Koffee",
 		"copyright": null,
-		"width": 2598,
-		"height": 1920,
-		"ratio": 1.353125
+		"width": 2000,
+		"height": 2000,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -63,6 +63,14 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
+					"url": "https://images.prismic.io/x-track-mag/c7c157c8-b6d0-4891-9cc9-fc8fccd8a7cb_Sampa+The+Great.jpg?auto=compress,format&rect=0,0,1920,2773&w=1024&h=1479",
+					"alt": "Sampa The Great",
+					"copyright": null,
+					"width": 1024,
+					"height": 1479,
+					"ratio": 0.6923597025016903
+				},
+				{
 					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
 					"alt": "Juls",
 					"copyright": null,
@@ -77,14 +85,6 @@
 					"width": 1024,
 					"height": 1492,
 					"ratio": 0.6863270777479893
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d261e6bf-292f-4db7-bc2d-26e548294c89_The+Cavemen+.jpg?auto=compress,format&rect=0,0,2048,1366&w=1024&h=683",
-					"alt": "The Cavemen",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
 				}
 			]
 		},

@@ -464,17 +464,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-03-25T21:51:49+0000",
+			"publication_date": "2022-03-25T21:55:56+0000",
 			"title": "Tropical",
 			"subtitle": "Sweet & Happy",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/38599c10-d89e-44d0-8365-16936a16f120_Sampa-The-Great-.jpg?auto=compress,format",
-				"alt": "Sampa The Great",
+				"url": "https://images.prismic.io/x-track-mag/c0e3de03-2134-451d-b3d2-e28a00558ffd_Koffee.jpg?auto=compress,format",
+				"alt": "Koffee",
 				"copyright": null,
-				"width": 2598,
-				"height": 1920,
-				"ratio": 1.353125
+				"width": 2000,
+				"height": 2000,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
