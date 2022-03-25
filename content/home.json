@@ -136,7 +136,8 @@
 			"uid": "misterkay--welcome-to-nigeria"
 		},
 		{
-			"position": 31
+			"position": 31,
+			"uid": "tropical"
 		}
 	],
 	"selected_reads": [
@@ -854,6 +855,29 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "MisterKay : ”Welcome to Nigeria“ "
+		},
+		{
+			"uid": "tropical",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-03-25T10:52:07+0000",
+			"title": "Tropical",
+			"subtitle": "Hot and Happy Summer",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/38599c10-d89e-44d0-8365-16936a16f120_Sampa-The-Great-.jpg?auto=compress,format",
+				"alt": "Sampa The Great",
+				"copyright": null,
+				"width": 2598,
+				"height": 1920,
+				"ratio": 1.353125
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Tropical"
 		},
 		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
