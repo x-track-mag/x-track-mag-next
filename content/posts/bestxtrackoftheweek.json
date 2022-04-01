@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-26T09:52:53+0000",
+	"publication_date": "2022-04-01T14:12:48+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c11adcf0-1dca-497c-9b09-68d55f3bebfc_Raury.jpg?auto=compress,format",
-		"alt": "Raury",
+		"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format",
+		"alt": "Priya Ragu",
 		"copyright": null,
-		"width": 2000,
-		"height": 3000,
-		"ratio": 0.6666666666666666
+		"width": 1704,
+		"height": 1321,
+		"ratio": 1.2899318697956095
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Raury - Obongjayar - The Bongo Hop x Nidia Gongora - Elujay x HXNS - Fireboy DML - Rosalia x Tokischa - Tekno - Waldeck x Patrizia Ferrara - Lous & the Yakuza - Koffee - Saya Gray - Omar Apollo - Shaé Universe x Enny - Fana Hues - Beau Diako x Ego Ella May - Col3trane x Erick the Architect - Endel x Facesoul & ++++ Enjoy",
+					"text": "Burningforestboy - MadeInParis - Toro Y Moi - Priya Ragu - Tank and the Bangas - Rema - Oxlade - Joeboy - Sunni Colon - Know x Gianni & Kyle - Princess Nokia - Stiekz - Rosalia - Fatoumata Diawara - Terri - Arlo Parks - Vince Staples - Nezi Momodu - Peet - Sabrina Claudio & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e8ae1c7c-88e4-4fb2-bd13-a5650acc53f4_Fana+Hues.jpg?auto=compress,format&rect=0,0,1440,1439&w=1024&h=1023",
-					"alt": "Fana Hues",
+					"url": "https://images.prismic.io/x-track-mag/70e7a110-1390-403f-97c7-a55b5c6f5379_Princess+Nokia.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Princess Nokia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d9d6190a-835c-4755-abc6-e5db91b48ebe_Fireboy+DML.jpg?auto=compress,format&rect=0,0,1066,1333&w=1024&h=1280",
-					"alt": "Fireboy DML",
+					"url": "https://images.prismic.io/x-track-mag/c7f4ff99-1732-45dc-a962-36cfc6419672_MadeInParis.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "MadeInParis",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9dcbd200-bea5-4d07-8da4-d1f0b3918c95_Lous+and+the+Yakuza.jpg?auto=compress,format&rect=0,0,1000,1344&w=1024&h=1376",
-					"alt": "Lous and the Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/898e55e4-b9b7-4bb6-8ca2-70d80d4b2ae3_Sabrina+Claudio.jpg?auto=compress,format&rect=0,0,900,1080&w=1024&h=1229",
+					"alt": "Sabrina Claudio",
 					"copyright": null,
 					"width": 1024,
-					"height": 1376,
-					"ratio": 0.7441860465116279
+					"height": 1229,
+					"ratio": 0.8331977217249796
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/71cdbf41-1143-45b4-bbd5-6b0a8edf396f_Rosalia.-.jpg?auto=compress,format&rect=0,0,1556,1349&w=1024&h=888",
-					"alt": "Rosalia",
+					"url": "https://images.prismic.io/x-track-mag/4618e556-5d83-4ea6-b80a-8b0e8e42d367_Rema.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Rema",
 					"copyright": null,
 					"width": 1024,
-					"height": 888,
-					"ratio": 1.1531531531531531
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9ef1df79-71c9-4109-a517-90d33bec5e56_Obongjayar.jpg?auto=compress,format&rect=0,0,1008,1350&w=1024&h=1371",
-					"alt": "Obongjayar",
+					"url": "https://images.prismic.io/x-track-mag/abc66d7b-9a87-4e72-a595-1bd8753fc905_Fatoumata+Diawara.jpg?auto=compress,format&rect=0,0,726,1000&w=1024&h=1410",
+					"alt": "Fatoumata Diawara",
 					"copyright": null,
 					"width": 1024,
-					"height": 1371,
-					"ratio": 0.7469000729394603
+					"height": 1410,
+					"ratio": 0.7262411347517731
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9d270450-35e6-4ba8-9627-ee1756cdb813_Koffee+.jpg?auto=compress,format&rect=0,0,1592,2048&w=1024&h=1317",
-					"alt": "Koffee",
+					"url": "https://images.prismic.io/x-track-mag/eab2d26f-5f6e-4e6f-b70f-f4bfcb7273f2_Toro+Y+Moi.jpg?auto=compress,format&rect=0,0,770,963&w=1024&h=1281",
+					"alt": "Toro Y Moi",
 					"copyright": null,
 					"width": 1024,
-					"height": 1317,
-					"ratio": 0.7775246772968869
+					"height": 1281,
+					"ratio": 0.7993754879000781
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=b64321d1f5b3468c",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=d309901c6a024bf8",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-8aAVll1hJMKRZ",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZVVRiN0D35",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
@@ -109,8 +109,8 @@
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-					"title": "Best ”XTrack“ of the Week 🌍"
+					"url": "https://youtu.be/c-VS-uLyT1k",
+					"title": "FIND ME"
 				}
 			]
 		}

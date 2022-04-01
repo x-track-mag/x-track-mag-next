@@ -202,17 +202,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-03-26T09:52:53+0000",
+			"publication_date": "2022-04-01T14:12:48+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c11adcf0-1dca-497c-9b09-68d55f3bebfc_Raury.jpg?auto=compress,format",
-				"alt": "Raury",
+				"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format",
+				"alt": "Priya Ragu",
 				"copyright": null,
-				"width": 2000,
-				"height": 3000,
-				"ratio": 0.6666666666666666
+				"width": 1704,
+				"height": 1321,
+				"ratio": 1.2899318697956095
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
