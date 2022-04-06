@@ -4,7 +4,7 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-03-25T18:22:14+0000",
+	"publication_date": "2022-04-06T18:05:38+0000",
 	"title": "Donzer",
 	"subtitle": "LIVE SESSION",
 	"text_color": "orange",
@@ -39,21 +39,20 @@
 				}
 			],
 			"link": {
-				"height": 113,
-				"width": 200,
-				"embed_url": "https://www.youtube.com/watch?v=jPNiYlCQ3-A",
-				"type": "video",
-				"version": "1.0",
-				"title": "LIVE SESSION XTrack Mag avec Donzer",
-				"author_name": "XTrack Mag",
-				"author_url": "https://www.youtube.com/c/XTrackMag",
 				"provider_name": "YouTube",
 				"provider_url": "https://www.youtube.com/",
-				"cache_age": null,
-				"thumbnail_url": "https://i.ytimg.com/vi/jPNiYlCQ3-A/hqdefault.jpg",
-				"thumbnail_width": 480,
+				"title": "Donzer - Bleu Piscine",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/c/XTrackMag",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
 				"thumbnail_height": 360,
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/jPNiYlCQ3-A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/nuKn5GV9-Yw/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nuKn5GV9-Yw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://youtu.be/nuKn5GV9-Yw"
 			},
 			"ratio": "16/9",
 			"image": {
