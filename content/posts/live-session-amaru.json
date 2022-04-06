@@ -4,7 +4,7 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-04-06T22:15:23+0000",
+	"publication_date": "2022-04-06T22:23:31+0000",
 	"title": "AMARU",
 	"subtitle": "LIVE SESSION",
 	"text_color": "orange",
@@ -38,8 +38,23 @@
 					]
 				}
 			],
-			"link": {},
-			"ratio": "16/9",
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "Amaru - KARMA",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/c/XTrackMag",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/nwc05uNPqWA/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nwc05uNPqWA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=nwc05uNPqWA"
+			},
+			"ratio": "9/16",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/cbb26f3b-3d92-438f-8a7d-1d9051ac5268_j9_LILLE_0204%40MOBIUSVISIO-4.JPG?auto=compress,format",
 				"alt": null,
