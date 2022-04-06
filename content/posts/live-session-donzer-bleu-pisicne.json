@@ -4,7 +4,7 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-04-06T18:05:38+0000",
+	"publication_date": "2022-04-06T18:09:12+0000",
 	"title": "Donzer",
 	"subtitle": "LIVE SESSION",
 	"text_color": "orange",
@@ -39,22 +39,23 @@
 				}
 			],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://youtu.be/nuKn5GV9-Yw",
+				"type": "video",
+				"version": "1.0",
 				"title": "Donzer - Bleu Piscine",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/c/XTrackMag",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/nuKn5GV9-Yw/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nuKn5GV9-Yw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://youtu.be/nuKn5GV9-Yw"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nuKn5GV9-Yw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": "16/9",
+			"ratio": "9/16",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/4fef25bb-a1a6-4b63-822e-56de057417e5_donzer_05032022_%40mobiusvisio-3.JPG?auto=compress,format",
 				"alt": null,
