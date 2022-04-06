@@ -4,7 +4,7 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-04-06T18:30:32+0000",
+	"publication_date": "2022-04-06T18:39:02+0000",
 	"title": "AMARU",
 	"subtitle": "LIVE SESSION",
 	"text_color": "orange",
@@ -19,22 +19,12 @@
 	"internal_link": null,
 	"sections": [
 		{
-			"template": "section-full-text",
-			"text": [
-				{
-					"type": "paragraph",
-					"text": "Nous partons à la rencontre de la touchante artiste Amaru qui nous fait découvrir la vibe de son titre « KARMA »",
-					"spans": []
-				}
-			]
-		},
-		{
 			"template": "section-video-launcher",
 			"display_article_title": false,
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "",
+					"text": "Nous partons à la rencontre de la touchante artiste Amaru qui nous fait découvrir la vibe de son titre « KARMA »",
 					"spans": []
 				}
 			],
