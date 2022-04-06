@@ -25,11 +25,11 @@
 		},
 		{
 			"position": 5,
-			"uid": "15minutes-avec-jacques"
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
 		{
 			"position": 6,
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
+			"uid": "15minutes-avec-jacques"
 		},
 		{
 			"position": 7,
@@ -288,26 +288,6 @@
 			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
-			"uid": "15minutes-avec-jacques",
-			"tags": [
-				"interview"
-			],
-			"publication_date": "2022-03-24T23:31:51+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "jacques interview"
-		},
-		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
 			"tags": [
 				"article"
@@ -329,6 +309,26 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
+		},
+		{
+			"uid": "15minutes-avec-jacques",
+			"tags": [
+				"interview"
+			],
+			"publication_date": "2022-03-24T23:31:51+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "jacques interview"
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
