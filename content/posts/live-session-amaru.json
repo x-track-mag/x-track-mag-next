@@ -1,0 +1,118 @@
+{
+	"uid": "live-session-amaru",
+	"tags": [
+		"music",
+		"live session"
+	],
+	"publication_date": "2022-04-06T18:08:42+0000",
+	"title": "AMARU",
+	"subtitle": "LIVE SESSION",
+	"text_color": "orange",
+	"image": null,
+	"video_loop": {
+		"name": "IMG_3340.mov",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/55ffde70-638f-4771-950f-d38103f14996_IMG_3340.mov",
+		"size": "16358892"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "X-TRACK TEAM",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Nous partons à la rencontre de la touchante artiste @iamamarru qui nous fait découvrir la vibe de son titre « KARMA ».",
+					"spans": [
+						{
+							"start": 52,
+							"end": 62,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/iamamarru/?hl=fr"
+							}
+						}
+					]
+				}
+			],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "Amaru - KARMA",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/c/XTrackMag",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/nwc05uNPqWA/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nwc05uNPqWA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://youtu.be/nwc05uNPqWA"
+			},
+			"ratio": "16/9",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/cbb26f3b-3d92-438f-8a7d-1d9051ac5268_j9_LILLE_0204%40MOBIUSVISIO-4.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2000,
+				"height": 3000,
+				"ratio": 0.6666666666666666
+			},
+			"disposition": "Texte | Video"
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "✨ « J’AI L’IMPRESSION, QU’IL FAUT QUE JE SOUFFRE POUR QUE JE PUISSE PARLER DE L’AMOUR. QUAND JE SUIS AMOUREUSE, JE SUIS TOUTE JOYEUSE DONC JE N’ARRIVE PAS À ÉCRIRE. » ✨",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-two-columns",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "interview + réalisation : @diggakhedija pour @xtrackmag",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Cadre + edit : @mobiusvisio",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Ingénieur studio : @romanhertz",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Mix : @ayrton75era",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Global production : @xtrackprod ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "UN GRAND MERCI À TOUTE LA TEAM",
+					"spans": []
+				}
+			],
+			"image": null,
+			"columns_order": "Image | Texte",
+			"full_page": false
+		}
+	],
+	"description": "live session amaru karma x-track mag"
+}
