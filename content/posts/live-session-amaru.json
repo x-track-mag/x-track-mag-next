@@ -4,7 +4,7 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-04-06T18:39:02+0000",
+	"publication_date": "2022-04-06T22:15:23+0000",
 	"title": "AMARU",
 	"subtitle": "LIVE SESSION",
 	"text_color": "orange",
@@ -24,28 +24,22 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Nous partons à la rencontre de la touchante artiste Amaru qui nous fait découvrir la vibe de son titre « KARMA »",
-					"spans": []
+					"text": "Nous partons à la rencontre de la touchante artiste AMARU qui nous fait découvrir la vibe de son titre « KARMA ».",
+					"spans": [
+						{
+							"start": 52,
+							"end": 57,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/iamamarru/?hl=fr"
+							}
+						}
+					]
 				}
 			],
-			"link": {
-				"height": 113,
-				"width": 200,
-				"embed_url": "https://youtu.be/nwc05uNPqWA",
-				"type": "video",
-				"version": "1.0",
-				"title": "Amaru - KARMA",
-				"author_name": "XTrack Mag",
-				"author_url": "https://www.youtube.com/c/XTrackMag",
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
-				"cache_age": null,
-				"thumbnail_url": "https://i.ytimg.com/vi/nwc05uNPqWA/hqdefault.jpg",
-				"thumbnail_width": 480,
-				"thumbnail_height": 360,
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nwc05uNPqWA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-			},
-			"ratio": "9/16",
+			"link": {},
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/cbb26f3b-3d92-438f-8a7d-1d9051ac5268_j9_LILLE_0204%40MOBIUSVISIO-4.JPG?auto=compress,format",
 				"alt": null,
@@ -71,27 +65,27 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "interview + réalisation : @diggakhedija pour @xtrackmag",
+					"text": "interview + réalisation : KHEDIJA pour X-TRACK MAG",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Cadre + edit : @mobiusvisio",
+					"text": "Cadre + edit : MOBIUS VISIO",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Ingénieur studio : @romanhertz",
+					"text": "Ingénieur studio : ROMAN HERTZ",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Mix : @ayrton75era",
+					"text": "Global production : X-TRACK PROD",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Global production : @xtrackprod ",
+					"text": "Stylisme : ",
 					"spans": []
 				},
 				{
