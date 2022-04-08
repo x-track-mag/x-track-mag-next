@@ -3,17 +3,17 @@
 	"description": "AWARE AND COLOURFUL - SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS",
 	"keywords": "Culture alternative, Musique indépendante, Articles, Webzine, X-TRACK",
 	"scrolling_news": [
-		"BEST ”XTRACK“ OF THE WEEK : BURNINGFORESTBOY - MADEINPARIS - TORO Y MOI - PRIYA RAGU - TANK AND THE BANGAS - REMA - OXLADE - JOEBOY - SUNNI COLON - KNOW x GIANNI & KYLE",
-		"PRINCESS NOKIA - STIEKZ x KALIBWOY - ROSALIA - FATOUMATA DIAWARA - TERRI - ARLO PARKS - VINCE STAPLES - NEZI MOMODU - PEET - SABRINA CLAUDIO & ++++"
+		"BEST ”XTRACK“ OF THE WEEK : SAINT LEVANT - FKJ x SANTANA - OGI - REEFER TYM - ENCHANTEE JULIA - YEMI ALADE x KRANIUM - KALISWAY - ETELLA x REDINHO - KQ BEATZ x TEEBEE - CHRONIXX - DIZIZ x YSEULT",
+		"MICHELLE X ENNY - SEAN - SYD x KEHLANI - DUB J x CALEIGH BARKER - BURNINGFORESTBOY - MARY J. BLIDGE x HER - LUCKY DAYE x ALEX ISLEY x VBRTNS - PI JA MA & ++++"
 	],
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "live-session-amaru"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 2,
-			"uid": "bestxtrackoftheweek"
+			"uid": "live-session-amaru"
 		},
 		{
 			"position": 3,
@@ -202,27 +202,6 @@
 	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "live-session-amaru",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-04-06T22:23:31+0000",
-			"title": "AMARU",
-			"subtitle": "LIVE SESSION",
-			"text_color": "orange",
-			"image": null,
-			"video_loop": {
-				"name": "IMG_3340.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/55ffde70-638f-4771-950f-d38103f14996_IMG_3340.mov",
-				"size": "16358892"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session amaru karma x-track mag"
-		},
-		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
@@ -244,6 +223,27 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Playlist des meilleurs sons de la semaine"
+		},
+		{
+			"uid": "live-session-amaru",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-04-06T22:23:31+0000",
+			"title": "AMARU",
+			"subtitle": "LIVE SESSION",
+			"text_color": "orange",
+			"image": null,
+			"video_loop": {
+				"name": "IMG_3340.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/55ffde70-638f-4771-950f-d38103f14996_IMG_3340.mov",
+				"size": "16358892"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session amaru karma x-track mag"
 		},
 		{
 			"uid": "page",
