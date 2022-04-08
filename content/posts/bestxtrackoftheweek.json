@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-04-01T14:20:11+0000",
+	"publication_date": "2022-04-08T13:32:54+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "inverted",
+	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format",
-		"alt": "Priya Ragu",
+		"url": "https://images.prismic.io/x-track-mag/e2eff2ed-ae7a-4a43-8025-d3f1cc4bb6b8_Saint-Levant-.jpg?auto=compress,format",
+		"alt": "Saint-Levant",
 		"copyright": null,
-		"width": 1704,
-		"height": 1321,
-		"ratio": 1.2899318697956095
+		"width": 1492,
+		"height": 1240,
+		"ratio": 1.2032258064516128
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Burningforestboy - MadeInParis - Toro Y Moi - Priya Ragu - Tank and the Bangas - Rema - Oxlade - Joeboy - Sunni Colon - Know x Gianni & Kyle - Princess Nokia - Stiekz x Kalibwoy - Rosalia - Fatoumata Diawara - Terri - Arlo Parks - Vince Staples - Nezi Momodu - Peet - Sabrina Claudio & ++++ Enjoy",
+					"text": "Saint Levant - FKJ x Santana - Ogi - Reefer tym - Enchantée Julia - Yemi Alade x Kranium - Kalisway - Etella x Redinho - KQ Beatz x Teebee - Chronixx - Diziz x Yseult - Michelle x Enny - Sean - Syd x Kehlani - Dub J x Caleigh Barker - Burningforestboy - Mary J. Blidge x HER - Lucky Daye x Alex Isley x vbrtns - Pi ja Ma & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/70e7a110-1390-403f-97c7-a55b5c6f5379_Princess+Nokia.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": "Princess Nokia",
+					"url": "https://images.prismic.io/x-track-mag/c687e91a-bf59-4532-ad3f-2e93766d3b13_Enchante%CC%81e+Julia.jpg?auto=compress,format&rect=0,0,900,1125&w=1024&h=1280",
+					"alt": "Enchantée Julia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c7f4ff99-1732-45dc-a962-36cfc6419672_MadeInParis.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
-					"alt": "MadeInParis",
+					"url": "https://images.prismic.io/x-track-mag/effdc617-df31-4983-a603-72553f2da3e2_FKJ.jpg?auto=compress,format&rect=0,0,1100,684&w=1024&h=637",
+					"alt": "FKJ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 637,
+					"ratio": 1.6075353218210362
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/898e55e4-b9b7-4bb6-8ca2-70d80d4b2ae3_Sabrina+Claudio.jpg?auto=compress,format&rect=0,0,900,1080&w=1024&h=1229",
-					"alt": "Sabrina Claudio",
+					"url": "https://images.prismic.io/x-track-mag/6b4ae77f-5570-4acc-a131-c130f77dc2d9_Yemi+Alade%CC%81.jpg?auto=compress,format&rect=0,0,427,640&w=1024&h=1535",
+					"alt": "Yemi Aladé",
 					"copyright": null,
 					"width": 1024,
-					"height": 1229,
-					"ratio": 0.8331977217249796
+					"height": 1535,
+					"ratio": 0.6671009771986971
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4618e556-5d83-4ea6-b80a-8b0e8e42d367_Rema.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Rema",
+					"url": "https://images.prismic.io/x-track-mag/92cf5e35-b438-48a0-bfe3-bd76fd17267f_Yseult.jpg?auto=compress,format&rect=0,0,2480,3507&w=1024&h=1448",
+					"alt": "Yseult",
+					"copyright": null,
+					"width": 1024,
+					"height": 1448,
+					"ratio": 0.7071823204419889
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/dba09050-6c68-405d-932f-917f376bdf25_Reefer-Tym.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Reefer Tym",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/70a372ce-f144-43d9-982c-24b1177b692f_Enny.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/abc66d7b-9a87-4e72-a595-1bd8753fc905_Fatoumata+Diawara.jpg?auto=compress,format&rect=0,0,726,1000&w=1024&h=1410",
-					"alt": "Fatoumata Diawara",
-					"copyright": null,
-					"width": 1024,
-					"height": 1410,
-					"ratio": 0.7262411347517731
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/eab2d26f-5f6e-4e6f-b70f-f4bfcb7273f2_Toro+Y+Moi.jpg?auto=compress,format&rect=0,0,770,963&w=1024&h=1281",
-					"alt": "Toro Y Moi",
-					"copyright": null,
-					"width": 1024,
-					"height": 1281,
-					"ratio": 0.7993754879000781
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=d309901c6a024bf8",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=b18c580175844d26",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZVVRiN0D35",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-NpXm33mCyr3M0",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
@@ -109,8 +109,8 @@
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://youtu.be/c-VS-uLyT1k",
-					"title": "FIND ME"
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of the Week 🌍"
 				}
 			]
 		}

@@ -227,17 +227,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-04-01T14:20:11+0000",
+			"publication_date": "2022-04-08T13:32:54+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "inverted",
+			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format",
-				"alt": "Priya Ragu",
+				"url": "https://images.prismic.io/x-track-mag/e2eff2ed-ae7a-4a43-8025-d3f1cc4bb6b8_Saint-Levant-.jpg?auto=compress,format",
+				"alt": "Saint-Levant",
 				"copyright": null,
-				"width": 1704,
-				"height": 1321,
-				"ratio": 1.2899318697956095
+				"width": 1492,
+				"height": 1240,
+				"ratio": 1.2032258064516128
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
