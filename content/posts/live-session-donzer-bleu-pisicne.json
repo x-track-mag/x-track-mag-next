@@ -4,10 +4,10 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-04-09T09:41:02+0000",
+	"publication_date": "2022-04-09T09:45:00+0000",
 	"title": "DONZER",
 	"subtitle": "LIVE SESSION",
-	"text_color": "orange",
+	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
 		"name": "LoopDonzer.mp4",
