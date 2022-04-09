@@ -4,10 +4,10 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-04-06T22:23:31+0000",
+	"publication_date": "2022-04-09T09:44:37+0000",
 	"title": "AMARU",
 	"subtitle": "LIVE SESSION",
-	"text_color": "orange",
+	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
 		"name": "IMG_3340.mov",
@@ -39,20 +39,21 @@
 				}
 			],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=nwc05uNPqWA",
+				"type": "video",
+				"version": "1.0",
 				"title": "Amaru - KARMA",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/c/XTrackMag",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/nwc05uNPqWA/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nwc05uNPqWA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=nwc05uNPqWA"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nwc05uNPqWA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"ratio": "9/16",
 			"image": {
