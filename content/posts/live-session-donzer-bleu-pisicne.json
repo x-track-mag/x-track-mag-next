@@ -4,7 +4,7 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-04-06T22:11:36+0000",
+	"publication_date": "2022-04-09T09:41:02+0000",
 	"title": "DONZER",
 	"subtitle": "LIVE SESSION",
 	"text_color": "orange",
@@ -19,8 +19,14 @@
 	"internal_link": null,
 	"sections": [
 		{
-			"template": "section-full-text",
+			"template": "section-video-launcher",
+			"display_article_title": false,
 			"text": [
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
 				{
 					"type": "paragraph",
 					"text": "Nous partons à la rencontre de l’artiste DONZER qui nous parle de la genèse de son prochain titre « BLEU PISCINE ».",
@@ -35,27 +41,6 @@
 							}
 						}
 					]
-				},
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-video-launcher",
-			"display_article_title": false,
-			"text": [
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
 				},
 				{
 					"type": "paragraph",
