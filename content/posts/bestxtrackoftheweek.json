@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-04-09T10:04:44+0000",
+	"publication_date": "2022-04-15T16:08:10+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/e2eff2ed-ae7a-4a43-8025-d3f1cc4bb6b8_Saint-Levant-.jpg?auto=compress,format",
-		"alt": "Saint-Levant",
+		"url": "https://images.prismic.io/x-track-mag/ece6870c-49f8-4dd6-9378-84f7605b7d5c_Empress-Of.jpg?auto=compress,format",
+		"alt": "Empress Of",
 		"copyright": null,
-		"width": 1492,
-		"height": 1240,
-		"ratio": 1.2032258064516128
+		"width": 1500,
+		"height": 1360,
+		"ratio": 1.1029411764705883
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Saint Levant - FKJ x Santana - Ogi - Reefer Tym - Enchantée Julia - Yemi Alade x Kranium - Kalisway - Σtella x Redinho - KQ Beatz x Teebee - Chronixx - Diziz x Yseult - Mychelle x Enny - Sean - Syd x Kehlani - Dub J x Caleigh Barker - Burningforestboy - Mary J. Blidge x HER - Lucky Daye x Alex Isley x vbrtns - Pi ja Ma & ++++ Enjoy",
+					"text": "Leisure x Flight Facilities - Tayc x Adekunle Gold - Jamie xx - Joony - Lila Iké - Jahyanai - Tripa gninnin x Joochar - Empress Of - Tesh Carter Blaqbonez - MadeInParis x Eddin - Bleu toucan  - K. Zia - Groupthink - Mindchatter - Sunni Colon - G-West x Ghanaian Stallion - FS Green x Saint Ronil - Leikeli47 - Syd - Selah Sue x Mick Jenkins - Laya x Fivio Foreign - Sault & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,53 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c687e91a-bf59-4532-ad3f-2e93766d3b13_Enchante%CC%81e+Julia.jpg?auto=compress,format&rect=0,0,900,1125&w=1024&h=1280",
-					"alt": "Enchantée Julia",
+					"url": "https://images.prismic.io/x-track-mag/9a4420f6-d4e4-45b3-8b60-df4b4defc5bc_Lila+Ike%CC%81.jpg?auto=compress,format&rect=0,0,1200,1332&w=1024&h=1137",
+					"alt": "Lila Iké",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1137,
+					"ratio": 0.9006156552330695
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/effdc617-df31-4983-a603-72553f2da3e2_FKJ.jpg?auto=compress,format&rect=0,0,1100,684&w=1024&h=637",
-					"alt": "FKJ",
+					"url": "https://images.prismic.io/x-track-mag/dd112040-ca4c-422f-bb17-2f30fa3db7c3_Adekunle+Gold.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Adekunle Gold",
 					"copyright": null,
 					"width": 1024,
-					"height": 637,
-					"ratio": 1.6075353218210362
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6b4ae77f-5570-4acc-a131-c130f77dc2d9_Yemi+Alade%CC%81.jpg?auto=compress,format&rect=0,0,427,640&w=1024&h=1535",
-					"alt": "Yemi Aladé",
-					"copyright": null,
-					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/92cf5e35-b438-48a0-bfe3-bd76fd17267f_Yseult.jpg?auto=compress,format&rect=0,0,2480,3507&w=1024&h=1448",
-					"alt": "Yseult",
-					"copyright": null,
-					"width": 1024,
-					"height": 1448,
-					"ratio": 0.7071823204419889
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/dba09050-6c68-405d-932f-917f376bdf25_Reefer-Tym.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Reefer Tym",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/70a372ce-f144-43d9-982c-24b1177b692f_Enny.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/4c16587c-27dd-4a8d-810a-ce0d16ae3447_Tesh+Carter.jpg?auto=compress,format&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Tesh Carter",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -94,14 +65,43 @@
 			]
 		},
 		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/e1d34d84-1f7e-48a5-9032-53c31179c113_Tayc.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Tayc",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/429a2c9f-cec6-4a73-9785-e4aa0e949776_K.ZIA+.jpg?auto=compress,format&rect=0,0,782,1024&w=1024&h=1341",
+					"alt": "K.ZIA",
+					"copyright": null,
+					"width": 1024,
+					"height": 1341,
+					"ratio": 0.7636092468307233
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/7ab0f6b1-1eeb-461c-873a-23fb1da8c0be_Joony.jpg?auto=compress,format&rect=0,0,686,1024&w=1024&h=1529",
+					"alt": "Joony",
+					"copyright": null,
+					"width": 1024,
+					"height": 1529,
+					"ratio": 0.6697187704381949
+				}
+			]
+		},
+		{
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=b18c580175844d26",
-					"title": "Best ”XTrack“ of the Week"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=dd50994a263a427e",
+					"title": "             Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-NpXm33mCyr3M0",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA5RRzc2GKqr",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
