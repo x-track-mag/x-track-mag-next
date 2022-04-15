@@ -1,0 +1,75 @@
+{
+	"uid": "yayayayoutube-ep-1-samantha-deep",
+	"tags": [
+		"video"
+	],
+	"publication_date": "2022-04-15T18:05:01+0000",
+	"title": "Yayayayoutube EP 1  : Samantha Deep ",
+	"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "LOOOP YAYA.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+		"size": "5514615"
+	},
+	"template": "3: Image + Titre",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-video-launcher",
+			"display_article_title": true,
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Dans cet épisode, la sulfureuse Samantha deep va vous apprendre à larguer votre bien-aimé, tout en préparant un délicieux cocktail.  ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Suivez Samantha Deep sur Instagram",
+					"spans": [
+						{
+							"start": 0,
+							"end": 34,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/yayayayayayayayayou/"
+							}
+						}
+					]
+				}
+			],
+			"link": {
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=MV_Z2Oa8c14&t=2s",
+				"type": "video",
+				"version": "1.0",
+				"title": "Episode 1 : Tuto : Comment préparer un martini dry tout en larguant son amant.",
+				"author_name": "XTrack radio",
+				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
+				"thumbnail_url": "https://i.ytimg.com/vi/MV_Z2Oa8c14/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MV_Z2Oa8c14?start=2&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+			},
+			"ratio": null,
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/df1e4ae2-9a88-4c86-95c9-42ab3e7b0f15_Red_headed_woman_with_green_dress.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2838,
+				"height": 1580,
+				"ratio": 1.7962025316455696
+			},
+			"disposition": "Texte | Video"
+		}
+	],
+	"description": "Comment préparer un martini dry tout en larguant son amant"
+}
