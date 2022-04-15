@@ -73,7 +73,7 @@
 		},
 		{
 			"position": 17,
-			"uid": "yayayayoutube-ep-1-samantha-deep"
+			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		},
 		{
 			"position": 18,
@@ -97,7 +97,7 @@
 		},
 		{
 			"position": 23,
-			"uid": "yayayayoutube-ep-3-ophelie-summer"
+			"uid": "yayayayoutube-ep-1-samantha-deep"
 		},
 		{
 			"position": 24,
@@ -532,24 +532,24 @@
 			"description": "Tropical"
 		},
 		{
-			"uid": "yayayayoutube-ep-1-samantha-deep",
+			"uid": "yayayayoutube-ep-3-ophelie-summer",
 			"tags": [
-				"video"
+				"article"
 			],
-			"publication_date": "2022-04-15T18:05:01+0000",
-			"title": "Yayayayoutube EP 1  : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"publication_date": "2021-09-29T15:18:54+0000",
+			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
+			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
+				"name": "EDIT_INSTA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
+				"size": "1730419"
 			},
 			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "Comment préparer un martini dry tout en larguant son amant"
+			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
 			"uid": "les-klon-hydre-pop-a-sept-tetes",
@@ -644,24 +644,24 @@
 			"description": "Boys Noize"
 		},
 		{
-			"uid": "yayayayoutube-ep-3-ophelie-summer",
+			"uid": "yayayayoutube-ep-1-samantha-deep",
 			"tags": [
-				"article"
+				"video"
 			],
-			"publication_date": "2021-09-29T15:18:54+0000",
-			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
-			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
+			"publication_date": "2022-04-15T18:05:01+0000",
+			"title": "Yayayayoutube EP 1  : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "EDIT_INSTA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
-				"size": "1730419"
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
 			},
 			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
+			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
 			"uid": "afropop",
