@@ -1,0 +1,114 @@
+{
+	"uid": "interview-moment-amaru",
+	"tags": [
+		"music",
+		"interview"
+	],
+	"publication_date": "2022-04-15T15:22:38+0000",
+	"title": "AMARU",
+	"subtitle": "A LITTLE MOMENT ",
+	"text_color": "green",
+	"image": null,
+	"video_loop": {
+		"name": "ITW 1304.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
+		"size": "4462848"
+	},
+	"template": "3: Image + Titre",
+	"author": "X-TRACK TEAM",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Nous retrouvons la belle AMARU dans une toute nouvelle interview, elle nous dévoile ses inspirations les plus profondes sur la musique et l’amour.",
+					"spans": [
+						{
+							"start": 25,
+							"end": 30,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/iamamarru/?hl=fr"
+							}
+						}
+					]
+				}
+			],
+			"link": {
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=ntCh_k2dUx0&feature=youtu.be",
+				"type": "video",
+				"version": "1.0",
+				"title": "Interview Amaru Par Khedija Dhaoui",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/c/XTrackMag",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
+				"thumbnail_url": "https://i.ytimg.com/vi/ntCh_k2dUx0/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ntCh_k2dUx0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+			},
+			"ratio": "16/9",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/12db630e-f196-445b-a61c-10c05cc9efda_Capture+d%E2%80%99e%CC%81cran+2022-04-13+a%CC%80+23.48.25.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2880,
+				"height": 1468,
+				"ratio": 1.9618528610354224
+			},
+			"disposition": "Texte / Video"
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "✨ « L’ARTISTE QUI M’INSPIRE LE PLUS C’EST ELLA FITZGERALD. » ✨",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-two-columns",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "interview + réalisation : KHEDIJA pour X-TRACK MAG",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Cadre + edit : MOBIUS VISIO",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Ingénieur studio : ROMAN HERTZ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Global production : X-TRACK PROD",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "UN GRAND MERCI À TOUTE LA TEAM",
+					"spans": []
+				}
+			],
+			"image": null,
+			"columns_order": "Image | Texte",
+			"full_page": false
+		}
+	],
+	"description": "interview amaru a little moment x-track mag"
+}

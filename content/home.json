@@ -620,20 +620,20 @@
 			"description": "Boys Noize"
 		},
 		{
-			"uid": "interview-moment-amaru1",
+			"uid": "interview-moment-amaru",
 			"tags": [
 				"music",
 				"interview"
 			],
-			"publication_date": "2022-04-13T21:50:41+0000",
+			"publication_date": "2022-04-15T15:22:38+0000",
 			"title": "AMARU",
 			"subtitle": "A LITTLE MOMENT ",
 			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "ITW 1304.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c98a18c2-8891-4d95-a44b-656062e9e10d_ITW+1304.mov",
-				"size": "5808400"
+				"name": "ITW 1304.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
+				"size": "4462848"
 			},
 			"template": "3: Image + Titre",
 			"author": "X-TRACK TEAM",
