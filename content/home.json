@@ -623,9 +623,10 @@
 			"uid": "interview-moment-amaru",
 			"tags": [
 				"music",
-				"interview"
+				"interview",
+				"live session"
 			],
-			"publication_date": "2022-04-15T16:50:37+0000",
+			"publication_date": "2022-04-15T17:50:38+0000",
 			"title": "AMARU",
 			"subtitle": "A LITTLE MOMENT ",
 			"text_color": "green",
@@ -635,7 +636,7 @@
 				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
 				"size": "4462848"
 			},
-			"template": "2: Image + Titre + infos",
+			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "interview amaru a little moment x-track mag"
