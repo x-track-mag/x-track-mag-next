@@ -230,15 +230,15 @@
 				"music",
 				"live session"
 			],
-			"publication_date": "2022-04-09T09:44:37+0000",
+			"publication_date": "2022-04-15T15:22:26+0000",
 			"title": "AMARU",
 			"subtitle": "LIVE SESSION",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "IMG_3340.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/55ffde70-638f-4771-950f-d38103f14996_IMG_3340.mov",
-				"size": "16358892"
+				"name": "IMG_3340.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
+				"size": "16282848"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "X-TRACK TEAM",
