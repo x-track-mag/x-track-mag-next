@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-04-16T09:40:04+0000",
+	"publication_date": "2022-04-16T09:43:26+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -76,12 +76,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/429a2c9f-cec6-4a73-9785-e4aa0e949776_K.ZIA+.jpg?auto=compress,format&rect=0,0,782,1024&w=1024&h=1341",
-					"alt": "K.ZIA",
+					"url": "https://images.prismic.io/x-track-mag/c5020f62-77ea-4539-9fe7-a12752bee23d_Selah+Sue+.jpg?auto=compress,format&rect=0,0,1066,1066&w=1024&h=1024",
+					"alt": "Selah Sue",
 					"copyright": null,
 					"width": 1024,
-					"height": 1341,
-					"ratio": 0.7636092468307233
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7ab0f6b1-1eeb-461c-873a-23fb1da8c0be_Joony.jpg?auto=compress,format&rect=0,0,686,1024&w=1024&h=1529",
