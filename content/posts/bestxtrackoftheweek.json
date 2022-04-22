@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-04-16T09:43:26+0000",
+	"publication_date": "2022-04-22T16:25:41+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/ece6870c-49f8-4dd6-9378-84f7605b7d5c_Empress-Of.jpg?auto=compress,format",
-		"alt": "Empress Of",
+		"url": "https://images.prismic.io/x-track-mag/311d1347-cce2-458c-a839-6b468a050623_Yemi+Alade.jpg?auto=compress,format",
+		"alt": "Yemi Alade",
 		"copyright": null,
-		"width": 1500,
-		"height": 1360,
-		"ratio": 1.1029411764705883
+		"width": 1242,
+		"height": 1548,
+		"ratio": 0.8023255813953488
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Leisure x Flight Facilities - Tayc x Adekunle Gold - Jamie xx - Joony - Lila Iké - Jahyanai - Tripa gninnin x Joochar - Empress Of - Tesh Carter x Blaqbonez - MadeInParis x Eddin - Bleu toucan  - K. Zia - Groupthink - Mindchatter - Sunni Colon - G-West x Ghanaian Stallion - FS Green x Saint Ronil - Leikeli47 - Syd - Selah Sue x Mick Jenkins - Laya x Fivio Foreign - Sault & ++++ Enjoy",
+					"text": "Tariq Disu - Boj x Prettyboy D-O - Nightmare On Wax x Haile Supreme x Shabaka Hutchings x Nyumo - Dirty Bird - Girls of the Internet - Oumou Sangaré - Ivri - The Weeknd x Kaytranada - Synapson x Bonga - Ravyn Lenae - Col3trane - Darius x Lo Village - Dr Amir Aladdin x Yemi Aladé - Miel de Montagne - Killertunes - Luca - Chxrry22 - Omar Apollo -  Lizzy McAlpine  & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9a4420f6-d4e4-45b3-8b60-df4b4defc5bc_Lila+Ike%CC%81.jpg?auto=compress,format&rect=0,0,1200,1332&w=1024&h=1137",
-					"alt": "Lila Iké",
+					"url": "https://images.prismic.io/x-track-mag/99031b9b-0ffd-4a47-a3a6-b6442a23201b_The+Weeknd.jpg?auto=compress,format&rect=0,0,958,1200&w=1024&h=1283",
+					"alt": "The Weeknd",
 					"copyright": null,
 					"width": 1024,
-					"height": 1137,
-					"ratio": 0.9006156552330695
+					"height": 1283,
+					"ratio": 0.7981293842556508
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/dd112040-ca4c-422f-bb17-2f30fa3db7c3_Adekunle+Gold.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Adekunle Gold",
+					"url": "https://images.prismic.io/x-track-mag/6ef55cff-1478-453e-965f-8af8bd8f9336_Ravyn+Lenae.jpg?auto=compress,format&rect=0,0,1706,2048&w=1024&h=1229",
+					"alt": "Ravyn Lenae",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1229,
+					"ratio": 0.8331977217249796
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4c16587c-27dd-4a8d-810a-ce0d16ae3447_Tesh+Carter.jpg?auto=compress,format&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Tesh Carter",
+					"url": "https://images.prismic.io/x-track-mag/6382b55c-0829-4731-b36f-a27956be21d4_Kaytranada.jpg?auto=compress,format&rect=0,0,750,937&w=1024&h=1279",
+					"alt": "Kaytranada",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e1d34d84-1f7e-48a5-9032-53c31179c113_Tayc.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": "Tayc",
+					"url": "https://images.prismic.io/x-track-mag/325ecdb4-07ea-4ad9-9c47-99b5b1e807cc_Haile+Supreme.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Haile Supreme",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c5020f62-77ea-4539-9fe7-a12752bee23d_Selah+Sue+.jpg?auto=compress,format&rect=0,0,1066,1066&w=1024&h=1024",
-					"alt": "Selah Sue",
+					"url": "https://images.prismic.io/x-track-mag/52e2286a-8d11-482d-bcbd-661b8a4fd9ef_Lizzy+McAlpine.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Lizzy McAlpine",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7ab0f6b1-1eeb-461c-873a-23fb1da8c0be_Joony.jpg?auto=compress,format&rect=0,0,686,1024&w=1024&h=1529",
-					"alt": "Joony",
+					"url": "https://images.prismic.io/x-track-mag/0f4bba90-7127-42cd-b17b-a0fd33fedf17_Omar+Apollo.jpg?auto=compress,format&rect=0,0,768,1153&w=1024&h=1537",
+					"alt": "Omar Apollo",
 					"copyright": null,
 					"width": 1024,
-					"height": 1529,
-					"ratio": 0.6697187704381949
+					"height": 1537,
+					"ratio": 0.6662329212752115
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=dd50994a263a427e",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=90bdc32981e047ff",
 					"title": "             Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA5RRzc2GKqr",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-jV89kkjsBAyYV",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

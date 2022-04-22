@@ -231,17 +231,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-04-16T09:43:26+0000",
+			"publication_date": "2022-04-22T16:25:41+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ece6870c-49f8-4dd6-9378-84f7605b7d5c_Empress-Of.jpg?auto=compress,format",
-				"alt": "Empress Of",
+				"url": "https://images.prismic.io/x-track-mag/311d1347-cce2-458c-a839-6b468a050623_Yemi+Alade.jpg?auto=compress,format",
+				"alt": "Yemi Alade",
 				"copyright": null,
-				"width": 1500,
-				"height": 1360,
-				"ratio": 1.1029411764705883
+				"width": 1242,
+				"height": 1548,
+				"ratio": 0.8023255813953488
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
