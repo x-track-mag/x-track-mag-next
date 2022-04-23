@@ -3,8 +3,8 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-11-25T16:37:46+0000",
-	"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
+	"publication_date": "2022-04-23T09:25:44+0000",
+	"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ",
 	"subtitle": "",
 	"text_color": "white",
 	"image": {
@@ -102,7 +102,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/GlrWAml_VmE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/ed2bce1c-2a22-4d98-8ea1-123fbb5d22ca_Capture+d%E2%80%99e%CC%81cran+2021-11-25+a%CC%80+16.30.26.png?auto=compress,format",
 				"alt": null,
@@ -220,7 +220,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/oBXUdueOpBk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
 				"alt": null,
