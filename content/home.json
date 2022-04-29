@@ -231,17 +231,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-04-23T07:11:56+0000",
+			"publication_date": "2022-04-29T10:41:47+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/311d1347-cce2-458c-a839-6b468a050623_Yemi+Alade.jpg?auto=compress,format",
-				"alt": "Yemi Alade",
+				"url": "https://images.prismic.io/x-track-mag/b4a922f9-b585-4062-aa26-32a6518f7231_Alex+Mali.jpg?auto=compress,format",
+				"alt": "Alex Mali",
 				"copyright": null,
-				"width": 1242,
-				"height": 1548,
-				"ratio": 0.8023255813953488
+				"width": 1440,
+				"height": 1800,
+				"ratio": 0.8
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
