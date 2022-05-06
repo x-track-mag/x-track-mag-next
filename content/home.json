@@ -210,17 +210,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-04-29T10:41:47+0000",
+			"publication_date": "2022-05-06T16:44:02+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b4a922f9-b585-4062-aa26-32a6518f7231_Alex+Mali.jpg?auto=compress,format",
-				"alt": "Alex Mali",
+				"url": "https://images.prismic.io/x-track-mag/b883cb1a-1a6f-4364-a139-6ace2d605cf7_Enchante%CC%81e-JuliaSlide.jpg?auto=compress,format",
+				"alt": "Enchantée-Julia",
 				"copyright": null,
-				"width": 1440,
-				"height": 1800,
-				"ratio": 0.8
+				"width": 1496,
+				"height": 1123,
+				"ratio": 1.332146037399822
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-04-29T10:41:47+0000",
+	"publication_date": "2022-05-06T16:44:02+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/b4a922f9-b585-4062-aa26-32a6518f7231_Alex+Mali.jpg?auto=compress,format",
-		"alt": "Alex Mali",
+		"url": "https://images.prismic.io/x-track-mag/b883cb1a-1a6f-4364-a139-6ace2d605cf7_Enchante%CC%81e-JuliaSlide.jpg?auto=compress,format",
+		"alt": "Enchantée-Julia",
 		"copyright": null,
-		"width": 1440,
-		"height": 1800,
-		"ratio": 0.8
+		"width": 1496,
+		"height": 1123,
+		"ratio": 1.332146037399822
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Alex Mali - Pusha T x Kanye West - Ryan de la Cruz - Gabriels - Alameda -  Alicia Aylies - 1da Banton x Brytiago - 53 Thieves - Majeeed x Joeboy - Muni Long x MadeInParis - Josman x Laylow - Toro Y Moi x The Mattson 2 - Lotto Ash - BARii - Mahalia - Amaru - Kojey Radical x Cashh - Boj x Fireboy DML - Pierre Kwenders - Aldous Harding - Vince Staples - Royce Wood Junior - Oumou Sangaré - Yellow Days - Meskerem Mees - Wet - Raphael Eligoulashvili  & ++++ Enjoy",
+					"text": "Enchantée Julia x Benjamin Epps - Ben L’oncle Soul - Gros Mo x Youssoupha - Stonebwoy - Ibeyi x Berwin - The Bongo Hop x Paulo Flores - Serge Gainsbourg x Montmartre - Miel de Montagne x Jacques - Boj - Terri - T.I. Blaze x Skiibii - Caleb Awiti - Hannes x Waterbaby - Kamal. - Future x Tems x Drake - Col3trane - Saint Levant - Mahalia - Raury  - Facesoul - Wilma Vitra x Wilma Archer x Vitra & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,24 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c7307998-c0b2-474d-b880-ed937a118f02_Alemeda+.jpeg?auto=compress,format&rect=0,0,1000,1500&w=1024&h=1536",
-					"alt": "Alemeda",
+					"url": "https://images.prismic.io/x-track-mag/5580da03-e5ee-442b-856a-c2749b399f14_Ben+L%27Oncle+Soul.jpeg?auto=compress,format&rect=0,0,436,327&w=1024&h=768",
+					"alt": "Ben L'Oncle Soul",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 768,
+					"ratio": 1.3333333333333333
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9989a921-08f5-4dcd-ba00-15b6c186f24f_Pusha+T.jpeg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Pusha T",
+					"url": "https://images.prismic.io/x-track-mag/bf0b9165-d2f9-4a17-8a09-22b737d0843a_Ibeyi.jpeg?auto=compress,format&rect=0,0,1280,1707&w=1024&h=1366",
+					"alt": "Ibeyi",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1366,
+					"ratio": 0.7496339677891655
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6eb04942-6cf0-4f29-a3a5-6439aff6fc31_Muni+Long.jpeg?auto=compress,format&rect=0,0,1365,2048&w=1024&h=1536",
-					"alt": "Muni Long",
+					"url": "https://images.prismic.io/x-track-mag/106466aa-4731-4584-a770-359451ff97b2_Stonebwoy.jpeg?auto=compress,format&rect=0,0,1010,1515&w=1024&h=1536",
+					"alt": "Stonebwoy",
 					"copyright": null,
 					"width": 1024,
 					"height": 1536,
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/278975b0-6efb-4e28-9c41-78580873bc4c_Alicia+Aylies.jpeg?auto=compress,format&rect=0,0,1000,1500&w=1024&h=1536",
-					"alt": "Alicia Aylies",
+					"url": "https://images.prismic.io/x-track-mag/262bd415-992e-455a-aa30-e96619e6072a_+Gros+Mo.jpeg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
+					"alt": "Gros Mo",
 					"copyright": null,
 					"width": 1024,
 					"height": 1536,
 					"ratio": 0.6666666666666666
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6e9cd34d-2730-48f6-9219-6103a647bc4a_Ryan+de+la+Cruz.jpeg?auto=compress,format&rect=0,0,1366,2048&w=1024&h=1535",
-					"alt": "Ryan de la Cruz",
+					"url": "https://images.prismic.io/x-track-mag/944dd47e-614c-43f9-930b-3b911bc71bfe_Mahalia.jpeg?auto=compress,format&rect=0,0,600,600&w=1024&h=1024",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1a40e18c-8594-47a4-a9b3-4e4c943075e2_Aldous+Harding.jpeg?auto=compress,format&rect=0,0,1136,1708&w=1024&h=1540",
-					"alt": "Aldous Harding",
+					"url": "https://images.prismic.io/x-track-mag/f0b063a3-8f0e-46a8-b4e9-d13fdc5a4d53_Benjamin+Epps.jpeg?auto=compress,format&rect=0,0,850,858&w=1024&h=1034",
+					"alt": "Benjamin Epps",
 					"copyright": null,
 					"width": 1024,
-					"height": 1540,
-					"ratio": 0.6649350649350649
+					"height": 1034,
+					"ratio": 0.9903288201160542
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=f0988dafd4ff4a83",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=457a929c8cb04a9d",
 					"title": "             Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-8aAVlv6cJMKRZ",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZVXafN0D35",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
