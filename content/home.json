@@ -210,10 +210,10 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-05-06T16:44:02+0000",
+			"publication_date": "2022-05-06T21:42:40+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "inverted",
+			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/b883cb1a-1a6f-4364-a139-6ace2d605cf7_Enchante%CC%81e-JuliaSlide.jpg?auto=compress,format",
 				"alt": "Enchantée-Julia",
