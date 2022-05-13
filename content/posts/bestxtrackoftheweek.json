@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-05-06T21:42:40+0000",
+	"publication_date": "2022-05-13T14:34:51+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "white",
+	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/b883cb1a-1a6f-4364-a139-6ace2d605cf7_Enchante%CC%81e-JuliaSlide.jpg?auto=compress,format",
-		"alt": "Enchantée-Julia",
+		"url": "https://images.prismic.io/x-track-mag/0349c875-7836-4ece-914d-198dc0b8665e_Kendrick+Lamar.jpg?auto=compress,format",
+		"alt": null,
 		"copyright": null,
-		"width": 1496,
-		"height": 1123,
-		"ratio": 1.332146037399822
+		"width": 2560,
+		"height": 1700,
+		"ratio": 1.5058823529411764
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Enchantée Julia x Benjamin Epps - Ben L’oncle Soul - Gros Mo x Youssoupha - Stonebwoy - Ibeyi x Berwin - The Bongo Hop x Paulo Flores - Serge Gainsbourg x Montmartre - Miel de Montagne x Jacques - Boj - Terri - T.I. Blaze x Skiibii - Caleb Awiti - Hannes x Waterbaby - Kamal. - Future x Tems x Drake - Col3trane - Saint Levant - Mahalia - Raury  - Facesoul - Wilma Vitra x Wilma Archer x Vitra & ++++ Enjoy",
+					"text": "Burna Boy - Myra - Bad Bunny x Buscabulla - Kendrick Lamar - Yung L x Mr Vegas - Juls - Phaemous - Bad Biche - Roseaux x Anna Madjison - Lizzy McAlpine - Blundetto & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5580da03-e5ee-442b-856a-c2749b399f14_Ben+L%27Oncle+Soul.jpeg?auto=compress,format&rect=0,0,436,327&w=1024&h=768",
-					"alt": "Ben L'Oncle Soul",
+					"url": "https://images.prismic.io/x-track-mag/28b03569-ec4e-4d79-a053-f4c1734a3b6e_Myra+.jpeg?auto=compress,format&rect=0,0,946,1184&w=1024&h=1282",
+					"alt": "Myra",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 1282,
+					"ratio": 0.7987519500780031
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bf0b9165-d2f9-4a17-8a09-22b737d0843a_Ibeyi.jpeg?auto=compress,format&rect=0,0,1280,1707&w=1024&h=1366",
-					"alt": "Ibeyi",
+					"url": "https://images.prismic.io/x-track-mag/b0c53820-41aa-49d5-a4f0-9c6f80f317c1_Burna+Boy.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
+					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1366,
-					"ratio": 0.7496339677891655
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/106466aa-4731-4584-a770-359451ff97b2_Stonebwoy.jpeg?auto=compress,format&rect=0,0,1010,1515&w=1024&h=1536",
-					"alt": "Stonebwoy",
+					"url": "https://images.prismic.io/x-track-mag/550e69e7-c436-4991-8dbe-904faabd3ff8_Anna+majidson.jpeg?auto=compress,format&rect=0,0,688,1038&w=1024&h=1545",
+					"alt": "Anna Majidson",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1545,
+					"ratio": 0.6627831715210356
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/262bd415-992e-455a-aa30-e96619e6072a_+Gros+Mo.jpeg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
-					"alt": "Gros Mo",
+					"url": "https://images.prismic.io/x-track-mag/2a7d4a6b-2b3e-42d1-b153-88583e32afcd_Buscabulla+.jpg?auto=compress,format&rect=0,0,1400,788&w=1024&h=576",
+					"alt": "Buscabulla",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/944dd47e-614c-43f9-930b-3b911bc71bfe_Mahalia.jpeg?auto=compress,format&rect=0,0,600,600&w=1024&h=1024",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/892f33cd-cafe-4188-87e7-67cc13bd2132_Bad+Bunny.jpeg?auto=compress,format&rect=0,0,1634,2047&w=1024&h=1283",
+					"alt": "Bad Bunny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1283,
+					"ratio": 0.7981293842556508
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f0b063a3-8f0e-46a8-b4e9-d13fdc5a4d53_Benjamin+Epps.jpeg?auto=compress,format&rect=0,0,850,858&w=1024&h=1034",
-					"alt": "Benjamin Epps",
+					"url": "https://images.prismic.io/x-track-mag/9eb12c3c-a9ff-45b5-a51a-62b1792e4c33_Lizzy+McAlpine.jpeg?auto=compress,format&rect=0,0,2048,2016&w=1024&h=1008",
+					"alt": "Lizzy McAlpine",
 					"copyright": null,
 					"width": 1024,
-					"height": 1034,
-					"ratio": 0.9903288201160542
+					"height": 1008,
+					"ratio": 1.0158730158730158
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=457a929c8cb04a9d",
-					"title": "             Best ”XTrack“ of the Week"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=e3634393f6284b5e",
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZVXafN0D35",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-NpXm3vgFyr3M0",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
