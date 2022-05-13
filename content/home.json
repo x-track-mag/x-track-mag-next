@@ -8,24 +8,20 @@
 	],
 	"pinned_posts": [
 		{
-			"position": 0,
+			"position": 1,
 			"uid": "live-session-badbiche"
 		},
 		{
-			"position": 1,
+			"position": 2,
 			"uid": "bestxtrackoftheweek"
 		},
 		{
-			"position": 2,
+			"position": 3,
 			"uid": "live-session-amaru"
 		},
 		{
-			"position": 3,
-			"uid": "page"
-		},
-		{
 			"position": 4,
-			"uid": "live-session-donzer-bleu-pisicne"
+			"uid": "page"
 		},
 		{
 			"position": 5,
@@ -33,58 +29,62 @@
 		},
 		{
 			"position": 6,
-			"uid": "interview-moment-amaru"
+			"uid": "live-session-donzer-bleu-pisicne"
 		},
 		{
 			"position": 7,
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
+			"uid": "interview-moment-amaru"
 		},
 		{
 			"position": 8,
-			"uid": "15minutes-avec-jacques"
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
 		{
 			"position": 9,
-			"uid": "yayayayoutube-ep-3-ophelie-summer"
+			"uid": "15minutes-avec-jacques"
 		},
 		{
 			"position": 10,
-			"uid": "la-muse--une-icone-feministe-"
-		},
-		{
-			"position": 11,
-			"uid": "x-track-studio---biaziouka"
-		},
-		{
-			"position": 12,
-			"uid": "feel-good"
-		},
-		{
-			"position": 13,
-			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
-		},
-		{
-			"position": 14,
-			"uid": "les-apparences-trompeuses-du-pretty-privilege"
-		},
-		{
-			"position": 14,
-			"uid": "nola-cherri"
-		},
-		{
-			"position": 16,
-			"uid": "lavenir-de-la-mode-est-il-virtuel"
-		},
-		{
-			"position": 17,
-			"uid": "tropical"
-		},
-		{
-			"position": 18,
 			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		},
 		{
+			"position": 11,
+			"uid": "la-muse--une-icone-feministe-"
+		},
+		{
+			"position": 12,
+			"uid": "x-track-studio---biaziouka"
+		},
+		{
+			"position": 13,
+			"uid": "feel-good"
+		},
+		{
+			"position": 14,
+			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
+		},
+		{
+			"position": 15,
+			"uid": "les-apparences-trompeuses-du-pretty-privilege"
+		},
+		{
+			"position": 16,
+			"uid": "nola-cherri"
+		},
+		{
+			"position": 17,
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
+		},
+		{
+			"position": 18,
+			"uid": "tropical"
+		},
+		{
 			"position": 19,
+			"uid": "yayayayoutube-ep-3-ophelie-summer"
+		},
+		{
+			"position": 20,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
@@ -92,55 +92,55 @@
 			"uid": "polycool"
 		},
 		{
-			"position": 21,
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
-		},
-		{
 			"position": 22,
-			"uid": "new-romance"
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		},
 		{
 			"position": 23,
-			"uid": "boys-noize-resonne-toujours-plus-fort"
+			"uid": "new-romance"
 		},
 		{
 			"position": 24,
+			"uid": "boys-noize-resonne-toujours-plus-fort"
+		},
+		{
+			"position": 25,
 			"uid": "yayayayoutube-ep-1-samantha-deep"
 		},
 		{
-			"position": 26,
+			"position": 27,
 			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
 		},
 		{
-			"position": 27,
+			"position": 28,
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee"
 		},
 		{
-			"position": 28,
+			"position": 29,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
-			"position": 29,
+			"position": 30,
 			"uid": "in-love"
 		},
 		{
-			"position": 30,
+			"position": 31,
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		},
 		{
-			"position": 31,
+			"position": 32,
 			"uid": "lhysterie"
 		},
 		{
-			"position": 32,
+			"position": 33,
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
 		},
 		{
-			"position": 32,
+			"position": 34,
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos"
 		},
 		{
-			"position": 34,
+			"position": 35,
 			"uid": "afropop"
 		},
 		{
@@ -210,6 +210,27 @@
 	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "live-session-badbiche",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-05-12T21:25:23+0000",
+			"title": "BAD BICHE",
+			"subtitle": "LIVE SESSION",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LIVE SESSION BAD BICHE V3 HQ.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/d14fdb11-167a-4167-9699-a53d1af8da6d_LIVE+SESSION+BAD+BICHE+V3+HQ.mp4",
+				"size": "5609702"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session bad biche lilith x-track mag"
+		},
+		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
@@ -275,27 +296,6 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "live-session-donzer-bleu-pisicne",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-04-09T09:45:00+0000",
-			"title": "DONZER",
-			"subtitle": "LIVE SESSION",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LoopDonzer.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
-				"size": "5895339"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session Donzer bleu piscine x-track mag"
-		},
-		{
 			"uid": "martin-parr",
 			"tags": [
 				"article"
@@ -317,6 +317,27 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "Un monde à Parr"
+		},
+		{
+			"uid": "live-session-donzer-bleu-pisicne",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-04-09T09:45:00+0000",
+			"title": "DONZER",
+			"subtitle": "LIVE SESSION",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LoopDonzer.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
+				"size": "5895339"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
 			"uid": "interview-moment-amaru",
@@ -470,27 +491,6 @@
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
 		},
 		{
-			"uid": "nola-cherri",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2021-01-18T16:19:00+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "LOOPFIN.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
-				"size": "8315849"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Live session - Nola Cherri- French music"
-		},
-		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
 			"tags": [
 				"article"
@@ -512,6 +512,27 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "Les apparences trompeuses du pretty privilege"
+		},
+		{
+			"uid": "nola-cherri",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2021-01-18T16:19:00+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"text_color": "white",
+			"image": null,
+			"video_loop": {
+				"name": "LOOPFIN.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
+				"size": "8315849"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Live session - Nola Cherri- French music"
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
@@ -581,6 +602,27 @@
 			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
+			"uid": "polycool",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2021-08-16T11:40:30+0000",
+			"title": "Polycool",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": {
+				"name": "Sans titre.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
+				"size": "462073"
+			},
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassia",
+			"internal_link": null,
+			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
+		},
+		{
 			"uid": "les-klon-hydre-pop-a-sept-tetes",
 			"tags": [
 				"article",
@@ -603,27 +645,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
-		},
-		{
-			"uid": "polycool",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2021-08-16T11:40:30+0000",
-			"title": "Polycool",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "Sans titre.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
-				"size": "462073"
-			},
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
 		},
 		{
 			"uid": "new-romance",
@@ -826,29 +847,6 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
-			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-07-03T07:47:35+0000",
-			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1080,
-				"ratio": 1.7777777777777777
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Manon Pelinq",
-			"internal_link": null,
-			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
-		},
-		{
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
 			"tags": [
 				"article"
@@ -870,6 +868,29 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Léo Fifty Five, artiste à mille pourcent "
+		},
+		{
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-07-03T07:47:35+0000",
+			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1080,
+				"ratio": 1.7777777777777777
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Manon Pelinq",
+			"internal_link": null,
+			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
@@ -935,27 +956,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "MisterKay : ”Welcome to Nigeria“ "
-		},
-		{
-			"uid": "live-session-badbiche",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-05-12T21:25:23+0000",
-			"title": "BAD BICHE",
-			"subtitle": "LIVE SESSION",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LIVE SESSION BAD BICHE V3 HQ.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/d14fdb11-167a-4167-9699-a53d1af8da6d_LIVE+SESSION+BAD+BICHE+V3+HQ.mp4",
-				"size": "5609702"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session bad biche lilith x-track mag"
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
