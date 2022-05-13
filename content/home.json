@@ -235,13 +235,13 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-05-13T14:34:51+0000",
+			"publication_date": "2022-05-13T14:37:02+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "green",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/0349c875-7836-4ece-914d-198dc0b8665e_Kendrick+Lamar.jpg?auto=compress,format",
-				"alt": null,
+				"alt": "Kendrick Lamar",
 				"copyright": null,
 				"width": 2560,
 				"height": 1700,
