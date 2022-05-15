@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-18T22:18:39+0000",
+	"publication_date": "2022-05-15T13:45:45+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "white",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Raveena x Vince Staples - Pa Salieu x Aitch - FKA Twigs x Shy Girl - Young t & Bugsey x Chronixx - Benjiflow x Juls - Sawetie x H.E.R. - Alewya - Burna Boy x Wizkid -  Rema - Kaytranada x Thundercat - Genesis Owusu x Jono Ma - Diplo x Damian Lazarus x Jungle - Parcels - SG Lewis x Lucky Daye x Kapote - Doja Cats x  Disclosure - Patchworks x Pat Kalla x Emile Omar - Blundetto x Voilaaa - Juls x Niniola - Tekno - Skip Marley x Popcaan - Crayon x Bella Shmurda  & +++ Enjoy",
+					"text": "Pusha T x Kanye West - Kendrick Lamar - Pa Salieu x Aitch - FKA Twigs x Shy Girl - Young t & Bugsey x Chronixx - Benjiflow x Juls - Priya Ragu - Burna Boy x Wizkid -  Girls of the Internet - Diplo x Damian Lazarus x Jungle - Parcels - Gabriels - SG Lewis x Lucky Daye x Kapote - Doja Cats x  Disclosure - Blundetto x Voilaaa - Juls x Niniola - Tekno - Skip Marley x Popcaan - Crayon x Bella Shmurda  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2df37127-ad63-4c1a-9b8e-15fdd1aba196_Raveena.jpg?auto=compress,format&rect=0,0,1672,1331&w=1024&h=815",
-					"alt": "Raveena",
+					"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format&rect=0,0,1704,1321&w=1024&h=794",
+					"alt": "Priya Ragu",
 					"copyright": null,
 					"width": 1024,
-					"height": 815,
-					"ratio": 1.2564417177914111
+					"height": 794,
+					"ratio": 1.2896725440806045
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/c65d2f3c-d28b-4336-9a4d-f15c6a0973d7_Pa+Salieu.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
@@ -63,12 +63,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5eed05d5-9462-4d00-9e92-49c3c8c1d0a7_Saweetie+++.jpg?auto=compress,format&rect=0,0,1435,1900&w=1024&h=1356",
-					"alt": "Saweetie",
+					"url": "https://images.prismic.io/x-track-mag/4724211d-1e8d-46ab-abf7-d3eb9b29b34d_Doja+Cats.jpg?auto=compress,format&rect=0,0,770,770&w=1024&h=1024",
+					"alt": "Doja Cat",
 					"copyright": null,
 					"width": 1024,
-					"height": 1356,
-					"ratio": 0.7551622418879056
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
@@ -79,8 +79,8 @@
 					"ratio": 1.0029382957884427
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4631c31f-5744-40bc-b9c4-0c3726d68a30_Alewya+.jpg?auto=compress,format&rect=0,0,1591,1061&w=1024&h=683",
-					"alt": "Alewya",
+					"url": "https://images.prismic.io/x-track-mag/618a6ca6-2abb-4e42-b34c-6a6623dc7890_Niniola.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "Niniola",
 					"copyright": null,
 					"width": 1024,
 					"height": 683,
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=fd3ff3d82bd24ea2",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=29a14151763e4ac2",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-WabZV0AuN0D35",
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-GgA5RrVh2GKqr",
 					"title": "Feel Good par XTrack"
 				},
 				{
