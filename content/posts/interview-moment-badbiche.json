@@ -1,0 +1,113 @@
+{
+	"uid": "interview-moment-badbiche",
+	"tags": [
+		"interview",
+		"music"
+	],
+	"publication_date": "2022-05-19T20:16:11+0000",
+	"title": "BAD BICHE ",
+	"subtitle": "A LITTLE MOMENT ",
+	"text_color": "green",
+	"image": null,
+	"video_loop": {
+		"name": "ITW BADBICHE ST HD.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d8328c7-bb21-45fa-b477-761838f35862_ITW+BADBICHE+ST+HD.mp4",
+		"size": "4895916"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "X-TRACK TEAM",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Nous retrouvons miss BAD BICHE dans une toute nouvelle interview, elle nous explique la définition de la femme et nous dévoile les secrets de son titre LILITH.",
+					"spans": [
+						{
+							"start": 21,
+							"end": 30,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/badbichegaby/?hl=fr"
+							}
+						}
+					]
+				}
+			],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "« A LITTLE MOMENT avec Bad Biche»",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/c/XTrackMag",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/hOvlyzJ1MXw/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/hOvlyzJ1MXw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=hOvlyzJ1MXw"
+			},
+			"ratio": "16/9",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/e21c54b4-31f7-4634-9002-ceb8335a0ea2_Capture+d%E2%80%99e%CC%81cran+2022-05-19+a%CC%80+22.05.14.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2562,
+				"height": 1290,
+				"ratio": 1.986046511627907
+			},
+			"disposition": "Texte / Video"
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "✨ « C'EST ÇA LES VRAIES SORCIÈRES, C'EST LES FEMMES LIBRES, QUI SONT PUISSANTES ET QUI SAVENT SE SERVIR DE LEUR POUVOIR. » ✨",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-two-columns",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "interview + réalisation : KHEDIJA pour X-TRACK MAG",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Cadre + edit : MOBIUS VISIO",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Ingénieur studio : ROMAN HERTZ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Global production : X-TRACK PROD",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "UN GRAND MERCI À TOUTE LA TEAM",
+					"spans": []
+				}
+			],
+			"image": null,
+			"columns_order": "Image | Texte",
+			"full_page": false
+		}
+	],
+	"description": "interview bad biche a little moment x-track mag"
+}
