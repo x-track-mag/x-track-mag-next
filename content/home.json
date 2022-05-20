@@ -239,17 +239,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-05-13T16:10:40+0000",
+			"publication_date": "2022-05-20T10:52:40+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0349c875-7836-4ece-914d-198dc0b8665e_Kendrick+Lamar.jpg?auto=compress,format",
-				"alt": "Kendrick Lamar",
+				"url": "https://images.prismic.io/x-track-mag/04b305a9-163b-4e66-b9dd-cd4fe9277446_Ogi.--.jpg?auto=compress,format",
+				"alt": "Ogi",
 				"copyright": null,
-				"width": 2560,
-				"height": 1700,
-				"ratio": 1.5058823529411764
+				"width": 2041,
+				"height": 1356,
+				"ratio": 1.5051622418879056
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
