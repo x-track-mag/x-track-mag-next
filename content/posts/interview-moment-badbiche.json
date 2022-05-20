@@ -4,10 +4,10 @@
 		"interview",
 		"music"
 	],
-	"publication_date": "2022-05-19T20:16:11+0000",
+	"publication_date": "2022-05-20T07:04:02+0000",
 	"title": "BAD BICHE ",
 	"subtitle": "A LITTLE MOMENT ",
-	"text_color": "green",
+	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
 		"name": "ITW BADBICHE ST HD.mp4",
@@ -39,20 +39,21 @@
 				}
 			],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=hOvlyzJ1MXw",
+				"type": "video",
+				"version": "1.0",
 				"title": "« A LITTLE MOMENT avec Bad Biche»",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/c/XTrackMag",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/hOvlyzJ1MXw/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/hOvlyzJ1MXw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=hOvlyzJ1MXw"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/hOvlyzJ1MXw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"ratio": "16/9",
 			"image": {
