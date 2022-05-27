@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-05-21T07:41:01+0000",
+	"publication_date": "2022-05-27T11:14:50+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "inverted",
+	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/04b305a9-163b-4e66-b9dd-cd4fe9277446_Ogi.--.jpg?auto=compress,format",
-		"alt": "Ogi",
+		"url": "https://images.prismic.io/x-track-mag/233763ee-f830-45a3-9292-b3d49f961a5b_Sudan-Archives.--.jpg?auto=compress,format",
+		"alt": "Sudan Archives",
 		"copyright": null,
-		"width": 2041,
-		"height": 1356,
-		"ratio": 1.5051622418879056
+		"width": 1634,
+		"height": 1359,
+		"ratio": 1.202354672553348
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Ogi - Obongjayar -  Diana Ross x Tame Impala - Sababa 5 x Barak Cohen - Brijean - Bad Bunny x The Marias - Serge Ibaka x Diplo x Gyakie - CKay x Silk Walks Discotheque -  Lexsil x Otile Brown - Waldeck x Saint Privat -  Miel de Montagne - Cosmo’s Midnight x TKay Maidza - IDK - blAck pARty - Ladipoe x Rema - Simi - Chaton - FKJ x Toro Y Moi - Fousheé - Surprise Chef & ++++ Enjoy",
+					"text": "Haich Ber Na - Zamir x Planet Girl - Sudan Archives - Stevedreez - Yung L x Aubrey Qwana - Olakira - Larruso - Ever Real x Asa - Nonso Amadi x Majid Jordan - Mura Masa x Pa Salieu x Skilibeng - M.I.A. - Donzer - Mahalia - Miel de Montagne & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/bc4a7eea-4b62-478b-bcb5-54a9da4db9a5_Gyakie.jpeg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
-					"alt": "Gyakie",
+					"url": "https://images.prismic.io/x-track-mag/f8069667-8ee8-4a64-879f-d1dff6ab47f3_Haich+Ber+Na.jpeg?auto=compress,format&rect=0,0,768,1024&w=1024&h=1365",
+					"alt": "Haich Ber Na",
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/95f78163-e921-420b-95fb-485088dcc450_M.I.A..jpeg?auto=compress,format&rect=0,0,500,683&w=1024&h=1399",
+					"alt": "M.I.A.",
+					"copyright": null,
+					"width": 1024,
+					"height": 1399,
+					"ratio": 0.731951393852752
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8fc7bc63-ef4a-41d7-b000-e74232b4fbdc_Larruso+.jpeg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Larruso",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5caa65a9-e38d-4d0a-978c-fe707ae01156_Obongjayar.+.jpg?auto=compress,format&rect=0,0,1800,1329&w=1024&h=756",
-					"alt": "Obongjayar",
-					"copyright": null,
-					"width": 1024,
-					"height": 756,
-					"ratio": 1.3544973544973544
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/38da1e8f-ff06-4bb6-b71b-ad2f3a3cf59e_Brijean.jpeg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Brijean",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/85f17d40-fe72-4a15-a134-c6803b9476dd_Saint+Privat.jpeg?auto=compress,format&rect=0,0,770,958&w=1024&h=1274",
-					"alt": "Saint Privat",
+					"url": "https://images.prismic.io/x-track-mag/375812d2-52d8-438c-8df4-02a991fe00f8_Donzer.jpeg?auto=compress,format&rect=0,0,828,830&w=1024&h=1026",
+					"alt": "Donzer",
 					"copyright": null,
 					"width": 1024,
-					"height": 1274,
-					"ratio": 0.8037676609105181
+					"height": 1026,
+					"ratio": 0.9980506822612085
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/90d3b3c5-318f-4df4-b3a3-e9500c979fc0_CKay.jpeg?auto=compress,format&rect=0,0,1024,1199&w=1024&h=1199",
-					"alt": "CKay",
+					"url": "https://images.prismic.io/x-track-mag/7c67daf3-3f2c-41bc-a6e4-a51640f2e7fe_Mahalia.jpeg?auto=compress,format&rect=0,0,685,1024&w=1024&h=1531",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1199,
-					"ratio": 0.854045037531276
+					"height": 1531,
+					"ratio": 0.6688438928804703
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/42e9baaa-0f1f-4e25-8daf-c361cb529fa6_Lexsil.jpeg?auto=compress,format&rect=0,0,686,720&w=1024&h=1075",
-					"alt": "Lexsil",
+					"url": "https://images.prismic.io/x-track-mag/4c3d9910-5cf0-463c-bba9-9dad468a47f5_Stevedreez.jpeg?auto=compress,format&rect=0,0,700,700&w=1024&h=1024",
+					"alt": "Stevedreez",
 					"copyright": null,
 					"width": 1024,
-					"height": 1075,
-					"ratio": 0.9525581395348838
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=168bafa91be841f3",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=50cde89a59184588",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-jV89P3WuBAyYV",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxblp5GslAoV4",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
