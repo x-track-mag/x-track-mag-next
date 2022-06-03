@@ -239,17 +239,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-05-28T06:42:20+0000",
+			"publication_date": "2022-06-03T10:30:03+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "orange",
+			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/233763ee-f830-45a3-9292-b3d49f961a5b_Sudan-Archives.--.jpg?auto=compress,format",
-				"alt": "Sudan Archives",
+				"url": "https://images.prismic.io/x-track-mag/e856f540-2b96-4f51-96fd-d987d4610da3_Lava+La+Rue.jpg?auto=compress,format",
+				"alt": "Lava La Rue",
 				"copyright": null,
-				"width": 1634,
-				"height": 1359,
-				"ratio": 1.202354672553348
+				"width": 1440,
+				"height": 1736,
+				"ratio": 0.8294930875576036
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
