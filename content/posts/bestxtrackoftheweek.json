@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-06-03T10:30:03+0000",
+	"publication_date": "2022-06-10T19:15:54+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "green",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/e856f540-2b96-4f51-96fd-d987d4610da3_Lava+La+Rue.jpg?auto=compress,format",
-		"alt": "Lava La Rue",
+		"url": "https://images.prismic.io/x-track-mag/73ed6a26-7653-4949-af6d-1b6ae0728daa_Princess-Nokia-.jpg?auto=compress,format",
+		"alt": "Princess Nokia",
 		"copyright": null,
-		"width": 1440,
-		"height": 1736,
-		"ratio": 0.8294930875576036
+		"width": 1496,
+		"height": 1361,
+		"ratio": 1.0991917707567964
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Lava la Rue x Biig Piig - Darkoo x Mayorkum - John Legend x JID - La Femme - Jungle - Sly Johnson - Rita Morar x Adrian Sherwood - Protoje - Marvin Gaye x Flight Facilities - June Freedom - YKB - Flum x Emma Louise - Simi x Adekunle Gold - Dice Ailes x Kaydy Cain - Jack Harlow - Miel de Montagne - Omah Lay - Enchantée Julia - Yung L - Black Sherif & ++++ Enjoy",
+					"text": "Post Malone x Roddy Ricch - Princess Nokia - Greentea Peng - Simi - NSG x LD - DJ Xhela x Runtown x Tekno - Enchantée Julia - Lous and the Yakuza - Yeek - Jungle - Baynk - Mr Giscard - Flowerlove - Aitch - Yung L - Geoexpress - Ravyn Lena x Mereba - Falz - Mr Eazi - Smalgood x Heade One x Medikal - Cookin Soul x Mc Melodee - Rokia Koné x Jacknife Lee & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/026b1bd2-c77e-4d73-b32c-db3dbf885574_Darkoo+.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
-					"alt": "Darkoo",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a6e22946-0dff-4f9a-ad31-14c768b1ff96_John+Legend.jpeg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "John Legend",
+					"url": "https://images.prismic.io/x-track-mag/e3abcb9b-a1e6-4dd1-9841-ef91f3222adc_Greentea+Peng.jpeg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Greentea Peng",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b7edbfcc-abad-4728-a6c6-c2fa073b6803_Emma+Louise.jpeg?auto=compress,format&rect=0,0,640,944&w=1024&h=1510",
-					"alt": "Emma Louise",
+					"url": "https://images.prismic.io/x-track-mag/d50be966-ec8b-4fd6-90e2-b5236173673f_Post+Malone.jpeg?auto=compress,format&rect=0,0,560,840&w=1024&h=1536",
+					"alt": "Post Malone",
 					"copyright": null,
 					"width": 1024,
-					"height": 1510,
-					"ratio": 0.6781456953642384
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/49d450e0-9c2c-4137-895d-a2647332e448_Lous+and+the+Yakuza.jpeg?auto=compress,format&rect=0,0,640,800&w=1024&h=1280",
+					"alt": "Lous and the Yakuza",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/08def798-d774-4712-8848-fdd8b1150c15_Sly+Johnson.jpeg?auto=compress,format&rect=0,0,720,600&w=1024&h=853",
-					"alt": "Sly Johnson",
+					"url": "https://images.prismic.io/x-track-mag/276bbda9-32a0-4ad7-a043-2b884cee71ca_NSG.jpeg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "NSG",
 					"copyright": null,
 					"width": 1024,
-					"height": 853,
-					"ratio": 1.2004689331770222
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b3832838-d439-48ee-a9b5-5fde6fde1ddb_Biig+Piig+.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
-					"alt": "Biig Piig ",
+					"url": "https://images.prismic.io/x-track-mag/d488059d-cc78-4ac9-80c4-94c588a128f4_Flowerovlove.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Flowerovlove",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1f67b805-513d-4baf-9718-b275979c44bb_Jack+Harlow.jpeg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jack Harlow",
+					"url": "https://images.prismic.io/x-track-mag/a861a3fe-ac61-4e77-9bb1-9ab096241d40_Baynk.jpeg?auto=compress,format&rect=0,0,1366,2048&w=1024&h=1535",
+					"alt": "Baynk",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1535,
+					"ratio": 0.6671009771986971
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=ca66de8e224d432b",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=7dd49f08031144ad",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqAaas2XgBo",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lrvLFDY8qp",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

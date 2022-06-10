@@ -218,17 +218,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-06-03T10:30:03+0000",
+			"publication_date": "2022-06-10T19:15:54+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "green",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e856f540-2b96-4f51-96fd-d987d4610da3_Lava+La+Rue.jpg?auto=compress,format",
-				"alt": "Lava La Rue",
+				"url": "https://images.prismic.io/x-track-mag/73ed6a26-7653-4949-af6d-1b6ae0728daa_Princess-Nokia-.jpg?auto=compress,format",
+				"alt": "Princess Nokia",
 				"copyright": null,
-				"width": 1440,
-				"height": 1736,
-				"ratio": 0.8294930875576036
+				"width": 1496,
+				"height": 1361,
+				"ratio": 1.0991917707567964
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
