@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-06-11T07:17:02+0000",
-	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine",
+	"publication_date": "2022-06-17T17:55:29+0000",
+	"title": "Best ”XTrack“ of Summer",
+	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/73ed6a26-7653-4949-af6d-1b6ae0728daa_Princess-Nokia-.jpg?auto=compress,format",
-		"alt": "Princess Nokia",
+		"url": "https://images.prismic.io/x-track-mag/8224cc05-44c3-459f-966c-ce8ead1a179e_Jitwam.jpg?auto=compress,format",
+		"alt": "Jitwam",
 		"copyright": null,
-		"width": 1496,
-		"height": 1361,
-		"ratio": 1.0991917707567964
+		"width": 1707,
+		"height": 2560,
+		"ratio": 0.666796875
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,12 +25,12 @@
 			"text": [
 				{
 					"type": "heading3",
-					"text": "Les meilleurs sons de la semaine",
+					"text": "Les meilleurs sons de l'été",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Post Malone x Roddy Ricch - Princess Nokia - Greentea Peng - Simi - NSG x LD - DJ Xhela x Runtown x Tekno - Enchantée Julia - Lous and the Yakuza - Yeek - Jungle - Baynk - Mr Giscard - Flowerovlove - Aitch - Yung L - Geoxpress - Ravyn Lena x Mereba - Falz - Mr Eazi - Smalgood x Headie One x Eugy x Medikal - Cookin Soul x Mc Melodee - Rokia Koné x Jacknife Lee & ++++ Enjoy",
+					"text": "Chris Brown x Wizkid - Boj - MadeInParis - Ayra Starr - CKay x Focalistic x Davido x Abidoza - David Walters - Jitwam - Steve Lacy - Raury - Oxlade - Ruger - Simi - Scott Nice x Alex Serra x Ed Zuccollo x Isaac Chambers -   Sly Johnson -  Tank & the Bangas - Enchantée Julia  & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e3abcb9b-a1e6-4dd1-9841-ef91f3222adc_Greentea+Peng.jpeg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Greentea Peng",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d50be966-ec8b-4fd6-90e2-b5236173673f_Post+Malone.jpeg?auto=compress,format&rect=0,0,560,840&w=1024&h=1536",
-					"alt": "Post Malone",
+					"url": "https://images.prismic.io/x-track-mag/193e6424-d6a6-4099-9c87-b128f68cfbd0_Wizkid.jpeg?auto=compress,format&rect=0,0,1333,2000&w=1024&h=1536",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
 					"height": 1536,
 					"ratio": 0.6666666666666666
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/49d450e0-9c2c-4137-895d-a2647332e448_Lous+and+the+Yakuza.jpeg?auto=compress,format&rect=0,0,640,800&w=1024&h=1280",
-					"alt": "Lous and the Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d6ef8d92-3514-4758-bc55-a070bd13c7f4_Chris+Brown.jpg?auto=compress,format&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Chris Brown",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/276bbda9-32a0-4ad7-a043-2b884cee71ca_NSG.jpeg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "NSG",
+					"url": "https://images.prismic.io/x-track-mag/89a231fb-a034-40d0-a341-1aabdc758923_Simi.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Simi",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d488059d-cc78-4ac9-80c4-94c588a128f4_Flowerovlove.jpg?auto=compress,format&rect=0,0,1000,1000&w=1024&h=1024",
-					"alt": "Flowerovlove",
+					"url": "https://images.prismic.io/x-track-mag/990e2004-b919-4f23-8feb-7ecc4d49d26b_Tank+%26+the+Bangas.jpg?auto=compress,format&rect=0,0,1500,1734&w=1024&h=1184",
+					"alt": "Tank & the Bangas",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1184,
+					"ratio": 0.8648648648648649
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a861a3fe-ac61-4e77-9bb1-9ab096241d40_Baynk.jpeg?auto=compress,format&rect=0,0,1366,2048&w=1024&h=1535",
-					"alt": "Baynk",
+					"url": "https://images.prismic.io/x-track-mag/d23d81bc-45c2-449d-8b59-b57886260602_Enchante%CC%81e+Julia.jpeg?auto=compress,format&rect=0,0,900,1125&w=1024&h=1280",
+					"alt": "Enchantée Julia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -97,8 +97,12 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=7dd49f08031144ad",
-					"title": "Best ”XTrack“ of the Week"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=bddfeedfba434166",
+					"title": "Best ”XTrack“ of Summer"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-GgA5JXbI2GKqr",
+					"title": "Best ”XTrack“ of Summer par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",

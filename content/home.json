@@ -218,17 +218,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-06-11T07:17:02+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
+			"publication_date": "2022-06-17T17:55:29+0000",
+			"title": "Best ”XTrack“ of Summer",
+			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/73ed6a26-7653-4949-af6d-1b6ae0728daa_Princess-Nokia-.jpg?auto=compress,format",
-				"alt": "Princess Nokia",
+				"url": "https://images.prismic.io/x-track-mag/8224cc05-44c3-459f-966c-ce8ead1a179e_Jitwam.jpg?auto=compress,format",
+				"alt": "Jitwam",
 				"copyright": null,
-				"width": 1496,
-				"height": 1361,
-				"ratio": 1.0991917707567964
+				"width": 1707,
+				"height": 2560,
+				"ratio": 0.666796875
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
