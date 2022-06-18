@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-06-18T08:56:18+0000",
+	"publication_date": "2022-06-18T09:01:53+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
 	"text_color": "orange",
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e25a07bc-0f2f-4bc3-9289-7d2acbf8de37_Ria+Sean+.jpg?auto=compress,format&rect=0,0,960,959&w=1024&h=1023",
-					"alt": "Ria Sean",
+					"url": "https://images.prismic.io/x-track-mag/40c79b7d-1906-44ae-9edc-d516b206e640_LILA+IKE.jpg?auto=compress,format&rect=0,0,2323,2559&w=1024&h=1128",
+					"alt": "Lila Iké",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1128,
+					"ratio": 0.9078014184397163
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
@@ -50,12 +50,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c1ba03f9-be57-49b0-9da7-e47a48534463_Simi.jpg?auto=compress,format&rect=0,0,1024,1280&w=1024&h=1280",
-					"alt": "Simi",
+					"url": "https://images.prismic.io/x-track-mag/fca47e99-3a54-43c7-9eed-b6a381fabe59_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1010,947&w=1024&h=960",
+					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 960,
+					"ratio": 1.0666666666666667
 				}
 			]
 		},
