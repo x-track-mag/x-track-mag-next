@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-14T17:47:42+0000",
+	"publication_date": "2022-06-21T08:00:33+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
-		"alt": "Gabriels",
+		"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format",
+		"alt": "Amaria",
 		"copyright": null,
-		"width": 1943,
-		"height": 1140,
-		"ratio": 1.7043859649122808
+		"width": 1440,
+		"height": 1440,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Galimatias, Kyle Dion, Gabriels, Amaria, Jenevieve, MorMor, Cigarettes After Sex, Chiiild, Oklou, Mustafa, Yehra, Arlo Parks, Finley Quaye, Khruangbin, Omar Apollo, rum.gold, Common Saints, Celeste x Jeshi, Sault, The O'my's, James Blake, Baby Rose, Cody Chesnutt, Quendresa, (((o))) x Please Wait, Odie, Baby Fuzz, Agelo De Augustine, José Gonzalez, Hope Sandoval & +++ 👆🏽👆🎼🎧",
+					"text": "Galimatias, Sabrina Claudio, Kyle Dion, Raury,  Gabriels, Amaria, Jenevieve, MorMor, Cigarettes After Sex, Chiiild, Oklou, Mustafa, Yehra, Arlo Parks, Finley Quaye, Khruangbin, Omar Apollo, Rum.Gold, Common Saints, Celeste x Jeshi, Sault, The O'my's,  Baby Rose, Quendresa, (((o))) x Please Wait, Odie, Baby Fuzz, Agelo De Augustine,  Hope Sandoval & +++ 👆🏽👆🎼🎧",
 					"spans": []
 				}
 			]
@@ -44,28 +44,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/35e16559-8d0b-4a79-a355-1e6ba8f5f87d_Baby+Rose.jpg?auto=compress,format&rect=0,0,1527,1039&w=1024&h=697",
-					"alt": "Baby Rose",
-					"copyright": null,
-					"width": 1024,
-					"height": 697,
-					"ratio": 1.4691535150645625
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/cb0b7da0-fd9e-42de-b996-397f551e5694_Oklou.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
-					"alt": "Oklou",
+					"url": "https://images.prismic.io/x-track-mag/d51e425c-7edd-4092-981e-af0f13d16b87_Sabrina+Claudio.+.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
+					"alt": "Sabrina Claudio",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ed8b1429-f476-48b1-a63b-cfeb79b207da_Amaria.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Amaria",
+					"url": "https://images.prismic.io/x-track-mag/ee943815-990d-4098-bce4-52d0e3c6137d_Jenevieve.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/035cd3f5-0111-4112-8fe2-700c1966389d_Lava+La+Rue.+.jpg?auto=compress,format&rect=0,0,1440,1735&w=1024&h=1234",
+					"alt": "Lava La Rue",
+					"copyright": null,
+					"width": 1024,
+					"height": 1234,
+					"ratio": 0.8298217179902755
 				}
 			]
 		},
@@ -73,7 +73,7 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ba9f663b-be5a-4dc2-95b1-9539f5716522_Quendresa.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/815ff4da-eba6-47e3-a6c2-dae9a61a9770_Oklou.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
 					"alt": null,
 					"copyright": null,
 					"width": 1024,
@@ -102,11 +102,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=074c8c915a864b05",
+					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=f65411f61fa94bda",
 					"title": "In Love"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-WabZDEVsN0D35",
+					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-gxblpr1IlAoV4",
 					"title": "In Love par XTrack"
 				},
 				{

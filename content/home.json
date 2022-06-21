@@ -805,23 +805,27 @@
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
-			"uid": "2022-is-the-year",
+			"uid": "in-love",
 			"tags": [
-				"article"
+				"music"
 			],
-			"publication_date": "2022-03-25T22:11:04+0000",
-			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"publication_date": "2022-06-21T08:00:33+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format",
+				"alt": "Amaria",
+				"copyright": null,
+				"width": 1440,
+				"height": 1440,
+				"ratio": 1
 			},
-			"description": ""
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "new-romance",
@@ -868,27 +872,23 @@
 			"description": "Live session - Nola Cherri- French music"
 		},
 		{
-			"uid": "in-love",
+			"uid": "2022-is-the-year",
 			"tags": [
-				"music"
+				"article"
 			],
-			"publication_date": "2022-03-14T17:47:42+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/35850003-cf32-4f15-92e6-e8a1826037c2_Gabriels-.jpg?auto=compress,format",
-				"alt": "Gabriels",
-				"copyright": null,
-				"width": 1943,
-				"height": 1140,
-				"ratio": 1.7043859649122808
-			},
+			"publication_date": "2022-03-25T22:11:04+0000",
+			"title": "2022 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": ""
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",
