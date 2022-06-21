@@ -37,7 +37,7 @@
 		},
 		{
 			"position": 8,
-			"uid": "feel-good"
+			"uid": "in-love"
 		},
 		{
 			"position": 9,
@@ -136,7 +136,8 @@
 			"uid": "nola-cherri"
 		},
 		{
-			"position": 32
+			"position": 32,
+			"uid": "feel-good"
 		}
 	],
 	"selected_reads": [
@@ -341,27 +342,27 @@
 			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
-			"uid": "feel-good",
+			"uid": "in-love",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-05-15T13:45:45+0000",
-			"title": "Feel Good",
-			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
-			"text_color": "white",
+			"publication_date": "2022-06-21T08:00:33+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
-				"alt": "FKA Twigs",
+				"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format",
+				"alt": "Amaria",
 				"copyright": null,
-				"width": 1920,
-				"height": 1920,
+				"width": 1440,
+				"height": 1440,
 				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "15minutes-avec-jacques",
@@ -805,29 +806,6 @@
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
-			"uid": "in-love",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-06-21T08:00:33+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format",
-				"alt": "Amaria",
-				"copyright": null,
-				"width": 1440,
-				"height": 1440,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
-		},
-		{
 			"uid": "new-romance",
 			"tags": [
 				"music"
@@ -889,6 +867,29 @@
 				"type": "page"
 			},
 			"description": ""
+		},
+		{
+			"uid": "feel-good",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-05-15T13:45:45+0000",
+			"title": "Feel Good",
+			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
+				"alt": "FKA Twigs",
+				"copyright": null,
+				"width": 1920,
+				"height": 1920,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",
