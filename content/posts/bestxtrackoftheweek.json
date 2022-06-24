@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-06-18T07:21:53+0000",
+	"publication_date": "2022-06-24T21:05:28+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/8224cc05-44c3-459f-966c-ce8ead1a179e_Jitwam.jpg?auto=compress,format",
-		"alt": "Jitwam",
+		"url": "https://images.prismic.io/x-track-mag/577e5de3-da16-413c-a584-c114b542ed89_Burna-Boy.jpg?auto=compress,format",
+		"alt": "Burna Boy",
 		"copyright": null,
-		"width": 1707,
-		"height": 2560,
-		"ratio": 0.666796875
+		"width": 1308,
+		"height": 1355,
+		"ratio": 0.9653136531365314
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Chris Brown x Wizkid - Boj - MadeInParis - Ayra Starr - CKay x Focalistic x Davido x Abidoza - David Walters - Jitwam - Steve Lacy - Raury - Oxlade - Ruger - Simi - Sly Johnson -  Tank & the Bangas - Enchantée Julia  & ++++ Enjoy",
+					"text": "Ayüü -DJ Frass x Stefflon Don - Anaïs - Loui x Kidi x Maud Elka - DaBaby x Davido - Spice Kidda x Burna Boy x Tekno - Boj - MadeInParis - Ayra Starr - CKay x Focalistic x Davido x Abidoza - Aitch - Kendrick Lamar - Jitwam - Steve Lacy - Mr Giscard - Oxlade Ruger - Greentea Peng - Lava La Rue x Biig Piig - Enchantée Julia - Gabriels - Sababa 5 x Barak Cohen - Rita Morar x Adrian Sherwood - Tekno - Skip Marley x Popcaan - Priya Ragu - FKA Twigs x Pa Salieu & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -38,14 +38,6 @@
 		{
 			"template": "section-gallery",
 			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/193e6424-d6a6-4099-9c87-b128f68cfbd0_Wizkid.jpeg?auto=compress,format&rect=0,0,1333,2000&w=1024&h=1536",
-					"alt": "Wizkid",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
-				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
 					"alt": "Ayra Starr",
@@ -55,12 +47,20 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d6ef8d92-3514-4758-bc55-a070bd13c7f4_Chris+Brown.jpg?auto=compress,format&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Chris Brown",
+					"url": "https://images.prismic.io/x-track-mag/c7f4ff99-1732-45dc-a962-36cfc6419672_MadeInParis.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "MadeInParis",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8fcdeb48-0a1c-4f72-850d-0527da7a1c69_Stefflon-Don.jpg?auto=compress,format&rect=0,0,847,1024&w=1024&h=1238",
+					"alt": "Stefflon Don",
+					"copyright": null,
+					"width": 1024,
+					"height": 1238,
+					"ratio": 0.827140549273021
 				}
 			]
 		},
@@ -68,20 +68,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/89a231fb-a034-40d0-a341-1aabdc758923_Simi.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Simi",
+					"url": "https://images.prismic.io/x-track-mag/e7a228a9-3882-415d-a0a3-9ec40c8fb749_Greentea+Peng.jpg?auto=compress,format&rect=0,0,999,1251&w=1024&h=1282",
+					"alt": "Greentea Peng",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1282,
+					"ratio": 0.7987519500780031
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/990e2004-b919-4f23-8feb-7ecc4d49d26b_Tank+%26+the+Bangas.jpg?auto=compress,format&rect=0,0,1500,1734&w=1024&h=1184",
-					"alt": "Tank & the Bangas",
+					"url": "https://images.prismic.io/x-track-mag/24832eb2-ce12-4b71-a144-2b630d85dab3_Anai%CC%88s.jpg?auto=compress,format&rect=0,0,748,749&w=1024&h=1025",
+					"alt": "Anaïs",
 					"copyright": null,
 					"width": 1024,
-					"height": 1184,
-					"ratio": 0.8648648648648649
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/d23d81bc-45c2-449d-8b59-b57886260602_Enchante%CC%81e+Julia.jpeg?auto=compress,format&rect=0,0,900,1125&w=1024&h=1280",
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=bddfeedfba434166",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=f83426f04b2447fd",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-GgA5JXbI2GKqr",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-2aoqAJYi2XgBo",
 					"title": "Best ”XTrack“ of Summer par XTrack"
 				},
 				{
@@ -110,7 +110,7 @@
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-					"title": "Best ”XTrack“ of the Week 🌍"
+					"title": "Best ”XTrack“ of Summer 🌍"
 				}
 			]
 		}

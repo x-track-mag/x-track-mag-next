@@ -219,17 +219,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-06-18T07:21:53+0000",
+			"publication_date": "2022-06-24T21:05:28+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/8224cc05-44c3-459f-966c-ce8ead1a179e_Jitwam.jpg?auto=compress,format",
-				"alt": "Jitwam",
+				"url": "https://images.prismic.io/x-track-mag/577e5de3-da16-413c-a584-c114b542ed89_Burna-Boy.jpg?auto=compress,format",
+				"alt": "Burna Boy",
 				"copyright": null,
-				"width": 1707,
-				"height": 2560,
-				"ratio": 0.666796875
+				"width": 1308,
+				"height": 1355,
+				"ratio": 0.9653136531365314
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
