@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-06-24T21:05:28+0000",
+	"publication_date": "2022-07-01T19:07:48+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/577e5de3-da16-413c-a584-c114b542ed89_Burna-Boy.jpg?auto=compress,format",
-		"alt": "Burna Boy",
+		"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
+		"alt": "Lila Iké",
 		"copyright": null,
-		"width": 1308,
-		"height": 1355,
-		"ratio": 0.9653136531365314
+		"width": 2500,
+		"height": 2755,
+		"ratio": 0.9074410163339383
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Ayüü -DJ Frass x Stefflon Don - Anaïs - Loui x Kidi x Maud Elka - DaBaby x Davido - Spice Kidda x Burna Boy x Tekno - Boj - MadeInParis - Ayra Starr - CKay x Focalistic x Davido x Abidoza - Aitch - Kendrick Lamar - Jitwam - Steve Lacy - Mr Giscard - Oxlade Ruger - Greentea Peng - Lava La Rue x Biig Piig - Enchantée Julia - Gabriels - Sababa 5 x Barak Cohen - Rita Morar x Adrian Sherwood - Tekno - Skip Marley x Popcaan - Priya Ragu - FKA Twigs x Pa Salieu & ++++ Enjoy",
+					"text": "Lava la Rue - Lila Iké - Biga Ranx - Ruger - Kranium - Reapz - Juls - DJ Tunez - Tierra Whack - Zap Mama - Dua Saleh - Jitwam - Sessa - Gabi Hartmann & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/de1526ac-01d7-41d4-80d5-f6d3cb3cf6fa_Lava+La+Rue.jpg?auto=compress,format&rect=0,0,1600,2000&w=1024&h=1280",
+					"alt": "Lava La Rue",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c7f4ff99-1732-45dc-a962-36cfc6419672_MadeInParis.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
-					"alt": "MadeInParis",
+					"url": "https://images.prismic.io/x-track-mag/5f3d6a81-dba2-4767-bd77-dc060ba98bda_Biga+Ranx.jpg?auto=compress,format&rect=0,0,967,546&w=1024&h=578",
+					"alt": "Biga Ranx",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 578,
+					"ratio": 1.7716262975778547
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8fcdeb48-0a1c-4f72-850d-0527da7a1c69_Stefflon-Don.jpg?auto=compress,format&rect=0,0,847,1024&w=1024&h=1238",
-					"alt": "Stefflon Don",
+					"url": "https://images.prismic.io/x-track-mag/4ab40c0c-6193-461b-bfe7-e1bb8195a3ea_Gabi+Hartmann.jpg?auto=compress,format&rect=0,0,1110,1662&w=1024&h=1533",
+					"alt": "Gabi Hartmann",
 					"copyright": null,
 					"width": 1024,
-					"height": 1238,
-					"ratio": 0.827140549273021
+					"height": 1533,
+					"ratio": 0.6679712981082844
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e7a228a9-3882-415d-a0a3-9ec40c8fb749_Greentea+Peng.jpg?auto=compress,format&rect=0,0,999,1251&w=1024&h=1282",
-					"alt": "Greentea Peng",
-					"copyright": null,
-					"width": 1024,
-					"height": 1282,
-					"ratio": 0.7987519500780031
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/24832eb2-ce12-4b71-a144-2b630d85dab3_Anai%CC%88s.jpg?auto=compress,format&rect=0,0,748,749&w=1024&h=1025",
-					"alt": "Anaïs",
-					"copyright": null,
-					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d23d81bc-45c2-449d-8b59-b57886260602_Enchante%CC%81e+Julia.jpeg?auto=compress,format&rect=0,0,900,1125&w=1024&h=1280",
-					"alt": "Enchantée Julia",
+					"url": "https://images.prismic.io/x-track-mag/6e1beced-534d-4485-a4dc-76cd2beebf85_Tierra+Whack.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
+					"alt": "Tierra Whack",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/3aff4b71-cf17-42a5-b22e-39d2b0ebbff3_Kranium.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Kranium",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/02f3f8c8-8bbe-431d-b893-cd7112594907_Zap+Mama.jpg?auto=compress,format&rect=0,0,721,960&w=1024&h=1363",
+					"alt": "Zap Mama",
+					"copyright": null,
+					"width": 1024,
+					"height": 1363,
+					"ratio": 0.7512839325018342
 				}
 			]
 		},
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=f83426f04b2447fd",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=cd41d88174c54c84",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
@@ -106,11 +106,11 @@
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
-					"title": "Best ”XTrack“ of the Week"
+					"title": "Best ”XTrack“ of Summer"
 				},
 				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-					"title": "Best ”XTrack“ of Summer 🌍"
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-kv9lrEjIDY8qp",
+					"title": "Best ”XTrack“ of Summer par XTrack"
 				}
 			]
 		}
