@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-07-01T19:07:48+0000",
+	"publication_date": "2022-07-01T19:12:25+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
@@ -55,12 +55,12 @@
 					"ratio": 1.7716262975778547
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4ab40c0c-6193-461b-bfe7-e1bb8195a3ea_Gabi+Hartmann.jpg?auto=compress,format&rect=0,0,1110,1662&w=1024&h=1533",
+					"url": "https://images.prismic.io/x-track-mag/9643abc0-9089-4101-a405-49b5669762bf_Gabi+Hartmann+.jpg?auto=compress,format&rect=0,0,1280,800&w=1024&h=640",
 					"alt": "Gabi Hartmann",
 					"copyright": null,
 					"width": 1024,
-					"height": 1533,
-					"ratio": 0.6679712981082844
+					"height": 640,
+					"ratio": 1.6
 				}
 			]
 		},
