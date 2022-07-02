@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-07-01T19:12:25+0000",
+	"publication_date": "2022-07-02T07:56:03+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Lava la Rue - Lila Iké - Biga Ranx - Ruger - Kranium - Reapz - Juls - DJ Tunez - Tierra Whack - Zap Mama - Dua Saleh - Jitwam - Sessa - Gabi Hartmann & ++++ Enjoy",
+					"text": "Lava la Rue - Lila Iké - Biga Ranx - Ruger - Juls - DJ Tunez - Tierra Whack - Zap Mama - Dua Saleh - Jitwam - Sessa - Gabi Hartmann & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -76,12 +76,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3aff4b71-cf17-42a5-b22e-39d2b0ebbff3_Kranium.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Kranium",
+					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/02f3f8c8-8bbe-431d-b893-cd7112594907_Zap+Mama.jpg?auto=compress,format&rect=0,0,721,960&w=1024&h=1363",
