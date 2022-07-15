@@ -85,11 +85,11 @@
 		},
 		{
 			"position": 20,
-			"uid": "interview-moment-amaru"
+			"uid": "les-apparences-trompeuses-du-pretty-privilege"
 		},
 		{
 			"position": 21,
-			"uid": "les-apparences-trompeuses-du-pretty-privilege"
+			"uid": "interview-moment-amaru"
 		},
 		{
 			"position": 22,
@@ -584,27 +584,6 @@
 			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
-			"uid": "interview-moment-amaru",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2022-04-18T07:44:51+0000",
-			"title": "AMARU",
-			"subtitle": "A LITTLE MOMENT ",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "ITW 1304.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
-				"size": "4462848"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "interview amaru a little moment x-track mag"
-		},
-		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
 			"tags": [
 				"article"
@@ -626,6 +605,27 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "Les apparences trompeuses du pretty privilege"
+		},
+		{
+			"uid": "interview-moment-amaru",
+			"tags": [
+				"interview",
+				"music"
+			],
+			"publication_date": "2022-04-18T07:44:51+0000",
+			"title": "AMARU",
+			"subtitle": "A LITTLE MOMENT ",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "ITW 1304.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
+				"size": "4462848"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "interview amaru a little moment x-track mag"
 		},
 		{
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
