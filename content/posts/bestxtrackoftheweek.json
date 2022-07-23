@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-07-15T09:54:03+0000",
+	"publication_date": "2022-07-23T06:08:40+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
-	"text_color": "green",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/e73db92b-0094-4b7f-ba1e-0dfcc7a0b768_Blu+DeTiger+.jpg?auto=compress,format",
-		"alt": "Blu DeTiger",
+		"url": "https://images.prismic.io/x-track-mag/bd54c25f-2740-491b-a346-99c4f13ed116_Billie+Eilish.jpg?auto=compress,format",
+		"alt": "Billie Eilish",
 		"copyright": null,
-		"width": 2048,
-		"height": 2048,
+		"width": 1440,
+		"height": 1440,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Aylo - Omah Lay - Burna Boy x Victony - Steve Lacy x Fousheé - Blu DeTiger x Biig Piig - Joesef - Young Franco x Pell x Jafunk - Fireboy DML x Asake - Zeyne x Saint Levant - Adekunle Gold - PawPaw Rod - Omar Apollo - D-Frank Africa x Vincii x S4int x p_rallel x jeshi - Bikôkô - Relatin x Elia y Elizabeth x Buscabulla & ++++ Enjoy",
+					"text": "Billie Eilish - Hope Tala - Doechii s SZA - Aylo - Projexx x Juls - Omah Lay - Emotional Oranges - Known - Walk in Paris x Slimka x Julien Granel - Tunbdercat - Lila Iké - Burna Boy x Ed Sheeran -  Timaya - Leisure x Sumac Dub - Dabeull x Isadora - Ruger - Tierra Whack - Ayüü - Boj - Ayra Starr - Kendrick Lamar - Brockhamton - Jitwam - Steve Lacy - & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,12 +39,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e7fa7e14-9f28-4448-9a95-d2b4f5f02a60_Foushee%CC%81.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Fousheé",
+					"url": "https://images.prismic.io/x-track-mag/bc196d72-317b-4425-8275-101289b68c65_SZA.jpg?auto=compress,format&rect=0,0,2656,1494&w=1024&h=576",
+					"alt": "SZA",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/d86c60e4-2fdb-4be2-b08e-ba985172b91f_Omah+Lay.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -55,12 +55,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7c8f5cf1-2a6b-4965-941a-6274466121e9_Emotionnal+Orange.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Emotionnal Orange",
+					"url": "https://images.prismic.io/x-track-mag/b526314b-5444-4ea5-8150-5c7c0b79a844_Doechii.+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Doechii",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/de3399e1-53d6-469f-bcfc-f5cf6c975b6e_Biko%CC%82ko%CC%82.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Bikôkô",
+					"url": "https://images.prismic.io/x-track-mag/026beaed-2523-4bb4-bc11-06a0a271bd0c_Hope+Tala.jpg?auto=compress,format&rect=0,0,1000,600&w=1024&h=614",
+					"alt": "Hope Tala",
+					"copyright": null,
+					"width": 1024,
+					"height": 614,
+					"ratio": 1.6677524429967427
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
+					"alt": "Juls",
+					"copyright": null,
+					"width": 1024,
+					"height": 1021,
+					"ratio": 1.0029382957884427
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/6e1beced-534d-4485-a4dc-76cd2beebf85_Tierra+Whack.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
+					"alt": "Tierra Whack",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/13dcf9e0-12f4-4b40-853f-0e647c444904_Steve+Lacy.jpg?auto=compress,format&rect=0,0,1046,1046&w=1024&h=1024",
-					"alt": "Steve Lacy",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2eadd9f7-2658-4d80-8384-888ac694bb95_Zeyne.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Zeyne",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=1ac78205612346a5",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=402008a88a2943cc",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-xlyNxq2tvNPRE",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-2aoqAXyf2XgBo",
 					"title": "Best ”XTrack“ of Summer par XTrack"
 				},
 				{
