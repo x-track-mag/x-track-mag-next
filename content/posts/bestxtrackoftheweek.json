@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-07-23T06:11:29+0000",
+	"publication_date": "2022-07-24T06:47:14+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/bd54c25f-2740-491b-a346-99c4f13ed116_Billie+Eilish.jpg?auto=compress,format",
-		"alt": "Billie Eilish",
+		"url": "https://images.prismic.io/x-track-mag/e05bfe86-c83a-48cb-aea5-fb1f49ef5e9e_Doechii+.jpg?auto=compress,format",
+		"alt": "Doechii",
 		"copyright": null,
 		"width": 1440,
-		"height": 1440,
-		"ratio": 1
+		"height": 1800,
+		"ratio": 0.8
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Billie Eilish - Hope Tala - Doechii x SZA - Aylo - Projexx x Juls - Omah Lay - Emotional Oranges - Known - Walk in Paris x Slimka x Julien Granel - Thundercat - Lila Iké - Burna Boy x Ed Sheeran -  Timaya - Leisure x Sumac Dub - Dabeull x Isadora - Ruger - Tierra Whack - Ayüü - Boj - Ayra Starr - Kendrick Lamar - Brockhamton - Jitwam - Steve Lacy - & ++++ Enjoy",
+					"text": "Hope Tala - Doechii x SZA - Aylo - Projexx x Juls - Omah Lay - Emotional Oranges - Thundercat - Lila Iké - Burna Boy x Ed Sheeran -  Timaya - Leisure x Sumac Dub - Dabeull x Isadora - Ruger - Tierra Whack - Ayüü - Boj - Ayra Starr - Kendrick Lamar - Brockhamton - Jitwam - Steve Lacy - & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -55,37 +55,8 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b526314b-5444-4ea5-8150-5c7c0b79a844_Doechii.+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Doechii",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/026beaed-2523-4bb4-bc11-06a0a271bd0c_Hope+Tala.jpg?auto=compress,format&rect=0,0,1000,600&w=1024&h=614",
-					"alt": "Hope Tala",
-					"copyright": null,
-					"width": 1024,
-					"height": 614,
-					"ratio": 1.6677524429967427
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
-					"alt": "Juls",
-					"copyright": null,
-					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/6e1beced-534d-4485-a4dc-76cd2beebf85_Tierra+Whack.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/7c8f5cf1-2a6b-4965-941a-6274466121e9_Emotionnal+Orange.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Emotionnal Orange",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -94,10 +65,39 @@
 			]
 		},
 		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format&rect=0,0,2500,2754&w=1024&h=1128",
+					"alt": "Lila Iké",
+					"copyright": null,
+					"width": 1024,
+					"height": 1128,
+					"ratio": 0.9078014184397163
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Burna Boy",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ba6d0027-3772-4102-a1a8-8c3b6917ba1c_Hope+Tala.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Hope Tala",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=402008a88a2943cc",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=51bd504a3b124d1a",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
