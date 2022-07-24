@@ -25,7 +25,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "in-love"
+			"uid": "afropop"
 		},
 		{
 			"position": 6,
@@ -117,7 +117,7 @@
 		},
 		{
 			"position": 28,
-			"uid": "afropop"
+			"uid": "in-love"
 		},
 		{
 			"position": 29,
@@ -280,27 +280,27 @@
 			"description": "live session bad biche lilith x-track mag"
 		},
 		{
-			"uid": "in-love",
+			"uid": "afropop",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-06-21T10:54:04+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs",
-			"text_color": "inverted",
+			"publication_date": "2022-07-24T08:18:57+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format",
-				"alt": "Amaria",
+				"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
+				"alt": "Burna Boy",
 				"copyright": null,
-				"width": 1440,
-				"height": 1440,
-				"ratio": 1
+				"width": 1080,
+				"height": 1350,
+				"ratio": 0.8
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"author": null,
 			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
+			"description": "Omah Lay - Stonebwoy - Burna Boy x Ed Sheeran - Asa - Boj x Prettyboy D-O - YKB - Ruger - Burna Boy x Wizkid - Ayra Starr - Simi - Rema - Tekno - Juls x Niniola - Skip Marley x Popcaan - The Cavemen - Tekno x Mafikizolo - Muzi - Juls x Twich 4EVA x Quamina Mp - Fireboy DML x Asake - Buju Banton x Pharrell Williams - Pa Salieu x Aitch - Jobo x Bogo - Bellah - Falana x Oxlade x Spax - Tiwa Savage - Koffee -Adekunle Gold -  Joeboy - Olamide - Ria Sean - Tems - Amaarae - Yemi Alade & ++++ Enjoy"
 		},
 		{
 			"uid": "yayayayoutube-ep-2--fatima-antoinette",
@@ -738,27 +738,27 @@
 			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
-			"uid": "afropop",
+			"uid": "in-love",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-07-24T08:18:57+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
-			"text_color": "white",
+			"publication_date": "2022-06-21T10:54:04+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
-				"alt": "Burna Boy",
+				"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format",
+				"alt": "Amaria",
 				"copyright": null,
-				"width": 1080,
-				"height": 1350,
-				"ratio": 0.8
+				"width": 1440,
+				"height": 1440,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Omah Lay - Stonebwoy - Burna Boy x Ed Sheeran - Asa - Boj x Prettyboy D-O - YKB - Ruger - Burna Boy x Wizkid - Ayra Starr - Simi - Rema - Tekno - Juls x Niniola - Skip Marley x Popcaan - The Cavemen - Tekno x Mafikizolo - Muzi - Juls x Twich 4EVA x Quamina Mp - Fireboy DML x Asake - Buju Banton x Pharrell Williams - Pa Salieu x Aitch - Jobo x Bogo - Bellah - Falana x Oxlade x Spax - Tiwa Savage - Koffee -Adekunle Gold -  Joeboy - Olamide - Ria Sean - Tems - Amaarae - Yemi Alade & ++++ Enjoy"
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "interview-moment-badbiche",
