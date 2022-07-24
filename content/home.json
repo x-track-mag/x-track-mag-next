@@ -742,23 +742,23 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-03-07T12:48:13+0000",
+			"publication_date": "2022-07-24T08:18:57+0000",
 			"title": "Afropop",
 			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2aa806a7-95d6-4f18-a3e0-d30f389dacca_Rema+Calm+Down.jpg?auto=compress,format",
-				"alt": "Rema",
+				"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
+				"alt": "Burna Boy",
 				"copyright": null,
-				"width": 1500,
-				"height": 1500,
-				"ratio": 1
+				"width": 1080,
+				"height": 1350,
+				"ratio": 0.8
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": null,
 			"internal_link": null,
-			"description": "Kasi3 x Rema - Asa - Ruger - Burna Boy x Wizkid - Simi - Rema - Tekno - Juls x Niniola - Crayon x Bella Shmurda - Tekno x - Mafikizolo - Juls x Twitch 4EVA x Quamina MP - The Cavemen - Skip Marley x Popcann, Benjiflow - Fireboy DML - Yung L - Omah Lay - Muzi - Lass x Kazy Lambist - Reekadoo Banks - Bawo - Loski x Stormzy - Wizkid x HER - Jada Kingdom - Adekunle Gold x Patoranking - Greentea Peng - Roro - Koffee - Bush Tea - Hbee - Starboy x DJ Tunez x Wizkid - Konshens x DaVido - Joeboy - Bellah - Jujuboy Star - Tiwa Savage - 1da Banton x Kiss Daniel - Samthing Soweto - Ayra Starr - Mr Eazi - PaBrymo x Teni - Drake x Tems - Olamide - Yemi Alade - Amaarae & ++++ Enjoy"
+			"description": "Omah Lay - Stonebwoy - Burna Boy x Ed Sheeran - Asa - Boj x Prettyboy D-O - YKB - Ruger - Burna Boy x Wizkid - Ayra Starr - Simi - Rema - Tekno - Juls x Niniola - Skip Marley x Popcaan - The Cavemen - Tekno x Mafikizolo - Muzi - Juls x Twich 4EVA x Quamina Mp - Fireboy DML x Asake - Buju Banton x Pharrell Williams - Pa Salieu x Aitch - Jobo x Bogo - Bellah - Falana x Oxlade x Spax - Tiwa Savage - Koffee -Adekunle Gold -  Joeboy - Olamide - Ria Sean - Tems - Amaarae - Yemi Alade & ++++ Enjoy"
 		},
 		{
 			"uid": "interview-moment-badbiche",
