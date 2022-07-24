@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-06-18T09:01:53+0000",
+	"publication_date": "2022-07-24T07:25:33+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
 	"text_color": "orange",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Quackers x Sampa the Great - Kasi3 x Rema - Yung L x Mr Vegas - Boj - Ju!s - Kidi x Tyga - Bitty McLean - Pachyman x Winter - Shay Dee x Blanche Bailly - Tekno - Blundetto x Voilaaa - Juls x Twich 4EVA x Quamina Mp - The Cavemen - Antonin x Voilaaa - Juls x agent Sasco (Assassin) - Pongo - Simi - Fireboy DML - Soul Sugar x Leo Carmichael x Sly & Robbie - Lila Iké - Jada Kingdom - Popcaan - Pabrymo x Teni - DJ Big  x Mr Eazi - Samthing Soweto - Asa - Vybz Kartel - Oumou Sangaré - Rimon - Koffee - Bush Tea - Ria Sean & +++",
+					"text": "Aylo - Projexx x Juls - Kasi3 x Rema - Boj - Ruger - Jobo x Bogo -Kidi x Tyga - Bitty McLean - Pachyman x Winter - Shay Dee x Blanche Bailly - Yung L - Tekno - Blundetto x Voilaaa - Juls x Twich 4EVA x Quamina Mp - The Cavemen - Antonin x Voilaaa - Juls x agent Sasco (Assassin) - Pongo - Simi - Fireboy DML - Soul Sugar x Leo Carmichael x Sly & Robbie - Lila Iké - Koffee - Jada Kingdom - Popcaan - Pabrymo x Teni - DJ Big  x Mr Eazi - Samthing Soweto - Asa - Vybz Kartel - Oumou Sangaré - Rimon - Koffee - Bush Tea - Ria Sean & +++",
 					"spans": []
 				}
 			]
@@ -42,12 +42,12 @@
 					"ratio": 0.9078014184397163
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/97214e15-e465-4d92-93e0-6ca57b8f9b89_Aylo.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Aylo",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/fca47e99-3a54-43c7-9eed-b6a381fabe59_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1010,947&w=1024&h=960",
@@ -63,12 +63,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c7c157c8-b6d0-4891-9cc9-fc8fccd8a7cb_Sampa+The+Great.jpg?auto=compress,format&rect=0,0,1920,2773&w=1024&h=1479",
-					"alt": "Sampa The Great",
+					"url": "https://images.prismic.io/x-track-mag/89a231fb-a034-40d0-a341-1aabdc758923_Simi.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Simi",
 					"copyright": null,
 					"width": 1024,
-					"height": 1479,
-					"ratio": 0.6923597025016903
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
@@ -96,7 +96,7 @@
 					"title": "Tropical "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/tropical/pl.u-jV89PxgFBAyYV",
+					"url": "https://music.apple.com/fr/playlist/tropical/pl.u-kv9lrbdTDY8qp",
 					"title": "Tropical par XTrack"
 				},
 				{
