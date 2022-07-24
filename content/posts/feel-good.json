@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-05-15T13:45:45+0000",
+	"publication_date": "2022-07-24T09:24:39+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "white",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
-		"alt": "FKA Twigs",
+		"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format",
+		"alt": "Priya Ragu",
 		"copyright": null,
-		"width": 1920,
-		"height": 1920,
-		"ratio": 1
+		"width": 1704,
+		"height": 1321,
+		"ratio": 1.2899318697956095
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Pusha T x Kanye West - Kendrick Lamar - Pa Salieu x Aitch - FKA Twigs x Shy Girl - Young t & Bugsey x Chronixx - Benjiflow x Juls - Priya Ragu - Burna Boy x Wizkid -  Girls of the Internet - Diplo x Damian Lazarus x Jungle - Parcels - Gabriels - SG Lewis x Lucky Daye x Kapote - Doja Cats x  Disclosure - Blundetto x Voilaaa - Juls x Niniola - Tekno - Skip Marley x Popcaan - Crayon x Bella Shmurda  & +++ Enjoy",
+					"text": "Thundercat - Kendrick Lamar - Hope Tala - Brockhampton - Priya Ragu - Pa Salieu  x Aitch - FKa Twigs x Shy Girl - Burna Boy X & Wizkid - Diplo x Damian Lazarus x Jungle - Parcels - Gabriels - SG Lewis x Lucky Daye x Kapote - Blundetto x Voilaaa - Tekno - Juls x Niniola - Skip Marley x Popcaan - Crayon x Belle Shmurda - Juls x Twich 4EVA x Quamina Mp - Falana x Ollade x Spax - Yebba - Sault - Dijon - Kaytranada x Thundercat - Buju Banton x Pharrell Williams - Emotional Oranges x Channel Tres - terry Presume - Paw Paw rod - Raveena x Vince Staples Youg T & Bugsey x Chronixx +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format&rect=0,0,1704,1321&w=1024&h=794",
-					"alt": "Priya Ragu",
+					"url": "https://images.prismic.io/x-track-mag/b14bb58d-415e-42ee-af88-bcfc5787786f_FKA+Twigs.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "FKA Twigs",
 					"copyright": null,
 					"width": 1024,
-					"height": 794,
-					"ratio": 1.2896725440806045
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/c65d2f3c-d28b-4336-9a4d-f15c6a0973d7_Pa+Salieu.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
@@ -63,8 +63,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4724211d-1e8d-46ab-abf7-d3eb9b29b34d_Doja+Cats.jpg?auto=compress,format&rect=0,0,770,770&w=1024&h=1024",
-					"alt": "Doja Cat",
+					"url": "https://images.prismic.io/x-track-mag/7a5dd449-2866-4ef0-acb7-a6abe479474b_Falana+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Falana",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=29a14151763e4ac2",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=dea4702c01084a3b",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-GgA5RrVh2GKqr",
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-kv9lr4lFDY8qp",
 					"title": "Feel Good par XTrack"
 				},
 				{

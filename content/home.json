@@ -168,12 +168,12 @@
 			"uid": "feel-good",
 			"title": "Feel Good",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
-				"alt": "FKA Twigs",
+				"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format",
+				"alt": "Priya Ragu",
 				"copyright": null,
-				"width": 1920,
-				"height": 1920,
-				"ratio": 1
+				"width": 1704,
+				"height": 1321,
+				"ratio": 1.2899318697956095
 			},
 			"video_loop": null
 		},
@@ -873,17 +873,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-05-15T13:45:45+0000",
+			"publication_date": "2022-07-24T09:24:39+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
-				"alt": "FKA Twigs",
+				"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format",
+				"alt": "Priya Ragu",
 				"copyright": null,
-				"width": 1920,
-				"height": 1920,
-				"ratio": 1
+				"width": 1704,
+				"height": 1321,
+				"ratio": 1.2899318697956095
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
