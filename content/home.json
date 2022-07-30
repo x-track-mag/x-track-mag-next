@@ -198,17 +198,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-07-24T06:47:14+0000",
+			"publication_date": "2022-07-30T06:53:52+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e05bfe86-c83a-48cb-aea5-fb1f49ef5e9e_Doechii+.jpg?auto=compress,format",
-				"alt": "Doechii",
+				"url": "https://images.prismic.io/x-track-mag/619be15f-5e92-45b1-bc96-95af95391af9_Tems+.jpg?auto=compress,format",
+				"alt": "Tems",
 				"copyright": null,
-				"width": 1440,
-				"height": 1800,
-				"ratio": 0.8
+				"width": 2048,
+				"height": 2048,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
