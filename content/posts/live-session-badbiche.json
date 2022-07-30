@@ -4,7 +4,7 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-05-12T21:25:23+0000",
+	"publication_date": "2022-07-30T08:25:14+0000",
 	"title": "BAD BICHE",
 	"subtitle": "LIVE SESSION",
 	"text_color": "inverted",
@@ -24,7 +24,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Aujourd'hui, c'est la pétillante BAD BICHE qui nous fait découvrir en exclusivité son titre  « LILITH ».",
+					"text": "Aujourd'hui, c'est la pétillante BAD BICHE qui nous fait découvrir en exclusivité son titre  « LILITH ». ",
 					"spans": [
 						{
 							"start": 33,
@@ -39,20 +39,21 @@
 				}
 			],
 			"link": {
-				"provider_name": "YouTube",
-				"provider_url": "https://www.youtube.com/",
+				"height": 113,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=duDv94AlbmY",
+				"type": "video",
+				"version": "1.0",
 				"title": "BAD BICHE - LILITH",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/c/XTrackMag",
-				"type": "video",
-				"height": 113,
-				"width": 200,
-				"version": "1.0",
-				"thumbnail_height": 360,
-				"thumbnail_width": 480,
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
 				"thumbnail_url": "https://i.ytimg.com/vi/duDv94AlbmY/hqdefault.jpg",
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/duDv94AlbmY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-				"embed_url": "https://www.youtube.com/watch?v=duDv94AlbmY"
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/duDv94AlbmY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"ratio": "9/16",
 			"image": {
