@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-07-30T06:53:52+0000",
+	"publication_date": "2022-08-05T20:00:07+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/619be15f-5e92-45b1-bc96-95af95391af9_Tems+.jpg?auto=compress,format",
-		"alt": "Tems",
+		"url": "https://images.prismic.io/x-track-mag/06cf8abd-f851-423f-80f8-d5651cc0b21b_Jorja+Smith.jpg?auto=compress,format",
+		"alt": "Jorja Smith",
 		"copyright": null,
-		"width": 2048,
-		"height": 2048,
+		"width": 2000,
+		"height": 2000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Tems - Vieux Farka Touré x Khruangbin - Projexx x Juls - Burna Boy - Lala &ce - Lava La Rue - Omah Lay - B Young x BNXN Aka Buju - Saul x Lex Amor - Mahalia x Cat Burns - Hope Tala -  Aylo - Emotional Oranges - Thundercat - Lila Iké - Leisure x Sumac Dub - Dabeull x Isadora - Ruger - Tierra Whack - Ayüü - Boj - Ayra Starr - Kendrick Lamar - Brockhamton - Jitwam - Steve Lacy - & ++++ Enjoy",
+					"text": "Calvin Harris x Jorja smith x Lil Durk - Fireboy DML x Rema - Juls x Tay Iwar - Kaytranada x Anderson Pack - Toyin Ores x The Cavemen - DJ Tunez x AV - Jim Legxacy - Lala &ce - Omar Apollo - Lava La Rue - Runkus x Toddla T x Ky-Mani Marley - Mr Eazi - Bella Shmurda - Delaney Bailey - Vieux Farka Touré x Khruangbin - Projexx x Juls - Burna Boy - Omah Lay - B Young x BNXN Aka Buju - Saul x Lex Amor - Mahalia x Cat Burns - Hope Tala -  Aylo - Emotional Oranges - Thundercat - Lila Iké - Leisure x Sumac Dub - Dabeull x Isadora - Ruger - Tierra Whack - Ayüü - Boj - Ayra Starr - Kendrick Lamar - Brockhamton - Jitwam - Steve Lacy - & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c0032b2e-55cb-4c31-90f2-954a7e2b822a_Lala+%26ce+.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/2471ed33-b48d-40e0-971e-1f503c9c2837_Fireboy+DML+.jpeg?auto=compress,format&rect=0,0,1080,1347&w=1024&h=1277",
+					"alt": "Fireboy DML",
+					"copyright": null,
+					"width": 1024,
+					"height": 1277,
+					"ratio": 0.8018794048551292
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/80a2fda1-f53f-4cad-b913-6615fd241e28_Lala+%26ce.jpeg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
 					"alt": "Lala &ce",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8aa63274-831a-49fa-823f-ec919aa53987_Anderson+Pack.jpeg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Anderson Pack",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/7d105cfa-b9f4-45f4-8597-d763792cb581_vieux-farka-toure+.jpg?auto=compress,format&rect=0,0,1000,704&w=1024&h=721",
-					"alt": "Vieux Farka Touré",
-					"copyright": null,
-					"width": 1024,
-					"height": 721,
-					"ratio": 1.420249653259362
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/1cc6ba3c-8c32-4f1d-9589-644725370e89_Lava+La+Rue+.jpg?auto=compress,format&rect=0,0,1365,2048&w=1024&h=1536",
-					"alt": "Lava La Rue",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/157db794-075b-483f-86dc-52bed231132f_Kaytranada.jpeg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Kaytranada",
+					"copyright": null,
+					"width": 1024,
+					"height": 1276,
+					"ratio": 0.8025078369905956
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/71a1e480-7c98-42a9-9cdd-1a045a317e40_Delaney+Bailey.jpeg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Delaney Bailey",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5a9b7a9a-4204-40a1-b8f9-257e9adb9242_Cat+Burns.jpg?auto=compress,format&rect=0,0,2937,3000&w=1024&h=1046",
-					"alt": "Cat Burns",
+					"url": "https://images.prismic.io/x-track-mag/322b72fd-59be-40d2-9985-d9419bbcac56_Rema.jpeg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Rema",
 					"copyright": null,
 					"width": 1024,
-					"height": 1046,
-					"ratio": 0.9789674952198852
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d86c60e4-2fdb-4be2-b08e-ba985172b91f_Omah+Lay.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Omah Lay",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=9817dc3354fa4cbe",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=b428009ce0a4466b",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-xlyNxBYIvNPRE",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-kv9lr9LIDY8qp",
 					"title": "Best ”XTrack“ of Summer par XTrack"
 				},
 				{

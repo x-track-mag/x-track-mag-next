@@ -198,16 +198,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-07-30T06:53:52+0000",
+			"publication_date": "2022-08-05T20:00:07+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/619be15f-5e92-45b1-bc96-95af95391af9_Tems+.jpg?auto=compress,format",
-				"alt": "Tems",
+				"url": "https://images.prismic.io/x-track-mag/06cf8abd-f851-423f-80f8-d5651cc0b21b_Jorja+Smith.jpg?auto=compress,format",
+				"alt": "Jorja Smith",
 				"copyright": null,
-				"width": 2048,
-				"height": 2048,
+				"width": 2000,
+				"height": 2000,
 				"ratio": 1
 			},
 			"video_loop": null,
