@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-08-05T20:00:07+0000",
+	"publication_date": "2022-08-06T09:34:51+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
@@ -68,15 +68,15 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/157db794-075b-483f-86dc-52bed231132f_Kaytranada.jpeg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Kaytranada",
+					"url": "https://images.prismic.io/x-track-mag/7d7f179e-2e01-4160-aadc-bb400c78c1bc_kaytranada+.jpeg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "kaytranada",
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/71a1e480-7c98-42a9-9cdd-1a045a317e40_Delaney+Bailey.jpeg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/adfa1abe-0325-44d1-9c54-6f2744abcc86_Delaney+Bailey+.jpg?auto=compress,format&rect=0,0,800,1000&w=1024&h=1280",
 					"alt": "Delaney Bailey",
 					"copyright": null,
 					"width": 1024,
