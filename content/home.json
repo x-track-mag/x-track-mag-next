@@ -198,17 +198,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-08-12T13:49:34+0000",
+			"publication_date": "2022-08-20T06:06:58+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ee50b260-666c-4607-b882-0bdd03410fba_Omar+Apollo.jpg?auto=compress,format",
-				"alt": "Omar Apollo",
+				"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
+				"alt": "Lila Iké",
 				"copyright": null,
-				"width": 2048,
-				"height": 2048,
-				"ratio": 1
+				"width": 2500,
+				"height": 2755,
+				"ratio": 0.9074410163339383
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

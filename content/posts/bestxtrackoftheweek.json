@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-08-12T13:49:34+0000",
+	"publication_date": "2022-08-20T06:06:58+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/ee50b260-666c-4607-b882-0bdd03410fba_Omar+Apollo.jpg?auto=compress,format",
-		"alt": "Omar Apollo",
+		"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
+		"alt": "Lila Iké",
 		"copyright": null,
-		"width": 2048,
-		"height": 2048,
-		"ratio": 1
+		"width": 2500,
+		"height": 2755,
+		"ratio": 0.9074410163339383
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "DJ Khaled x Drake x Lil Baby - Juls x Projexx - Ghetto Boy - Lila Iké - Fireboy DML - Joao Selva - Omar Apollo - Bien & Toi x Biig Piig - Boybreed x Zarion uti - K. roosevelt - Tobi - Always centered at night x Moby x Serpentwithfeet & ++++ Enjoy",
+					"text": "Juls x Projexx x Tay Iwar - Fireboy DML -Ghetto Boy - Lila Iké -  Kaytranada x Anderson Pack - Runkus x Toddla T x Ky-Mani Marley - Vieux Farka Touré x Khruangbin - Lala &ce - Lava La Rue - Aylo - Emotional Oranges - Thundercat - Burna boy x Ed Sheeran - Leisure x Suméc Dub - Dabeull x Isadora - Tierra Whack - Ruger - Ayuu - Boj - Aya Starr - Kendrick Lamat - Brockhampton Jitwam - Steve Lacy - Mr Giscard & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,49 +39,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/8090785a-57a0-4db5-9393-79d914a9e459_Tobi.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Tobi",
+					"url": "https://images.prismic.io/x-track-mag/c0032b2e-55cb-4c31-90f2-954a7e2b822a_Lala+%26ce+.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Lala &ce",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b660917f-4d8d-4a6f-bf1e-fe22385641cf_Lila+Ike%CC%81+.jpg?auto=compress,format&rect=0,0,545,750&w=1024&h=1409",
-					"alt": "Lila Iké ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1409,
-					"ratio": 0.7267565649396736
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b4515b89-d814-46ff-a22a-f47baec62fb2_Drake.jpeg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Drake",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/0a535a2f-c70d-47e0-8be1-1b6e69dcf69b_K.+Roosevelt.jpg?auto=compress,format&rect=0,0,1080,718&w=1024&h=681",
-					"alt": "K. Roosevelt",
-					"copyright": null,
-					"width": 1024,
-					"height": 681,
-					"ratio": 1.5036710719530102
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/0ef14936-8950-49b5-b43e-08898a3bef0e_Biig+Piig.jpg?auto=compress,format&rect=0,0,854,1280&w=1024&h=1535",
-					"alt": "Biig Piig",
-					"copyright": null,
-					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/2471ed33-b48d-40e0-971e-1f503c9c2837_Fireboy+DML+.jpeg?auto=compress,format&rect=0,0,1080,1347&w=1024&h=1277",
@@ -90,6 +53,43 @@
 					"width": 1024,
 					"height": 1277,
 					"ratio": 0.8018794048551292
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a745936b-f93d-4b5d-88dd-547bbb12157e_khruangbin_.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
+					"alt": "khruangbin",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/6df6a7e4-e43d-4d72-8646-94d43b4b88ea_Ayra+Starr+.jpeg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
+					"alt": "Ayra Starr",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Burna Boy",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/9bf7348b-911d-41d1-b57d-c8632b71b389_Tierra+Whack+.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
+					"alt": "Tierra Whack",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=a56bb0f4497a45c8",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=3e0c1dbd9d1c4b43",
 					"title": "Best ”XTrack“ of Summer"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-xlyNxyWtvNPRE",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-8aAVBRaSJMKRZ",
 					"title": "Best ”XTrack“ of Summer par XTrack"
 				},
 				{
