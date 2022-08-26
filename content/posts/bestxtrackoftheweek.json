@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-08-26T18:11:08+0000",
+	"publication_date": "2022-08-26T18:15:37+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
@@ -68,12 +68,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b6af53c5-d7f8-4199-849f-a06b065777ee_Tiwa+Savage.jpeg?auto=compress,format&rect=0,0,1080,1292&w=1024&h=1225",
+					"url": "https://images.prismic.io/x-track-mag/63891b33-1b38-4b85-ab25-1a86e1e42eeb_Tiwa+Savage+.jpeg?auto=compress,format&rect=0,0,1080,1243&w=1024&h=1179",
 					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 1225,
-					"ratio": 0.8359183673469388
+					"height": 1179,
+					"ratio": 0.8685326547921968
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/c45ec041-04cc-4d5a-aef2-d4abc6bac9d6_jamie+xx.jpg?auto=compress,format&rect=0,0,1919,1280&w=1024&h=683",
