@@ -198,17 +198,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-08-20T06:09:38+0000",
+			"publication_date": "2022-08-26T18:05:21+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
-				"alt": "Lila Iké",
+				"url": "https://images.prismic.io/x-track-mag/089ab3bb-647a-48dc-8488-d8ee6c2b2cdc_Stefflon+Don+x+Spice+.jpg?auto=compress,format",
+				"alt": "Stefflon Don x Spice",
 				"copyright": null,
-				"width": 2500,
-				"height": 2755,
-				"ratio": 0.9074410163339383
+				"width": 1440,
+				"height": 1440,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

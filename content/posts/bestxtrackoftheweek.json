@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-08-20T06:09:38+0000",
+	"publication_date": "2022-08-26T18:05:21+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
-		"alt": "Lila Iké",
+		"url": "https://images.prismic.io/x-track-mag/089ab3bb-647a-48dc-8488-d8ee6c2b2cdc_Stefflon+Don+x+Spice+.jpg?auto=compress,format",
+		"alt": "Stefflon Don x Spice",
 		"copyright": null,
-		"width": 2500,
-		"height": 2755,
-		"ratio": 0.9074410163339383
+		"width": 1440,
+		"height": 1440,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Juls x Projexx x Tay Iwar - Fireboy DML -Ghetto Boy - Lila Iké -  Kaytranada x Anderson Pack - Runkus x Toddla T x Ky-Mani Marley - Vieux Farka Touré x Khruangbin - Lala &ce - Lava La Rue - Aylo - Emotional Oranges - Thundercat - Burna boy x Ed Sheeran - Leisure x Suméc Dub - Dabeull x Isadora - Tierra Whack - Ruger - Ayuu - Boj - Aya Starr - Kendrick Lamar - Brockhampton - Jitwam - Steve Lacy - Mr Giscard & ++++ Enjoy",
+					"text": "Oshun - Stefflon Don x Spice - Tiwa Savage x Ziloneesky - Oliver Sim x Jamie xx - Mercedes Nasta x Rodrigo Blanco - BNXN fka Buju x Wizkid - Protoje x Jesse Royal - Mura Masa x Pa Salieu x Skillibeng x Kali Uchis - Michael Sneed x Grandbanks - 53 Thieves - Ice Spice - Amindi & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c0032b2e-55cb-4c31-90f2-954a7e2b822a_Lala+%26ce+.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Lala &ce",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2471ed33-b48d-40e0-971e-1f503c9c2837_Fireboy+DML+.jpeg?auto=compress,format&rect=0,0,1080,1347&w=1024&h=1277",
-					"alt": "Fireboy DML",
-					"copyright": null,
-					"width": 1024,
-					"height": 1277,
-					"ratio": 0.8018794048551292
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a745936b-f93d-4b5d-88dd-547bbb12157e_khruangbin_.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
-					"alt": "khruangbin",
+					"url": "https://images.prismic.io/x-track-mag/7e9b82a1-7c73-4a64-a49f-616a0fd696e9_Ice+Spice.jpg?auto=compress,format&rect=0,0,2249,1500&w=1024&h=683",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
 					"height": 683,
 					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/91b2f609-32eb-4cb3-a688-a5b82d939ad6_Wizkid.jpg?auto=compress,format&rect=0,0,1623,1957&w=1024&h=1235",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1235,
+					"ratio": 0.8291497975708502
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f9f25633-9f90-49f0-b8a4-32ebdab99604_Oshun+.jpg?auto=compress,format&rect=0,0,1454,966&w=1024&h=680",
+					"alt": "Oshun",
+					"copyright": null,
+					"width": 1024,
+					"height": 680,
+					"ratio": 1.5058823529411764
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/6df6a7e4-e43d-4d72-8646-94d43b4b88ea_Ayra+Starr+.jpeg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/b6af53c5-d7f8-4199-849f-a06b065777ee_Tiwa+Savage.jpeg?auto=compress,format&rect=0,0,1080,1292&w=1024&h=1225",
+					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1225,
+					"ratio": 0.8359183673469388
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/c45ec041-04cc-4d5a-aef2-d4abc6bac9d6_jamie+xx.jpg?auto=compress,format&rect=0,0,1919,1280&w=1024&h=683",
+					"alt": "Jamie xx",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9bf7348b-911d-41d1-b57d-c8632b71b389_Tierra+Whack+.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
-					"alt": "Tierra Whack",
+					"url": "https://images.prismic.io/x-track-mag/d8e08814-55e3-49de-bf88-3e2d2c37816a_amindi.jpg?auto=compress,format&rect=0,0,1582,2048&w=1024&h=1326",
+					"alt": "Amindi",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1326,
+					"ratio": 0.7722473604826546
 				}
 			]
 		},
