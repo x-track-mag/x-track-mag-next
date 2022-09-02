@@ -198,17 +198,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-08-26T18:38:59+0000",
+			"publication_date": "2022-09-02T20:43:59+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/089ab3bb-647a-48dc-8488-d8ee6c2b2cdc_Stefflon+Don+x+Spice+.jpg?auto=compress,format",
-				"alt": "Stefflon Don x Spice",
+				"url": "https://images.prismic.io/x-track-mag/3844e02a-d0b4-4739-ade7-7c3d42006665_Kari+Faux.jpg?auto=compress,format",
+				"alt": "Kari Faux",
 				"copyright": null,
-				"width": 1440,
-				"height": 1440,
-				"ratio": 1
+				"width": 1638,
+				"height": 2048,
+				"ratio": 0.7998046875
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
