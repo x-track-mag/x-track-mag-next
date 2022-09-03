@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-06-21T10:54:04+0000",
+	"publication_date": "2022-09-03T07:04:30+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"text_color": "inverted",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Galimatias, Sabrina Claudio, Kyle Dion, Raury,  Gabriels, Amaria, Jenevieve, MorMor, Cigarettes After Sex, Chiiild, Oklou, Mustafa, Yehra, Arlo Parks, Finley Quaye, Khruangbin, Omar Apollo, Rum.Gold, Common Saints, Celeste x Jeshi, Sault, The O'my's,  Baby Rose, Quendresa, (((o))) x Please Wait, Odie, Baby Fuzz, Agelo De Augustine,  Hope Sandoval & +++ 👆🏽👆🎼🎧",
+					"text": "Arlo Parks - Lee Fields - Galimatias, Sabrina Claudio, Kyle Dion, Raury,  Gabriels, Amaria, Gabi hartmann - Delaney Bailey - Thee Sacred Soul - Jenevieve, MorMor, Cigarettes After Sex, Chiiild, Oklou, Mustafa, Yehra, Finley Quaye, Khruangbin, Omar Apollo, Rum.Gold, Common Saints, Celeste x Jeshi, Sault, The O'my's,  Baby Rose, (((o))) x Please Wait, Odie, Baby Fuzz, Agelo De Augustine,  Hope Sandoval & +++ 👆🏽👆🎼🎧",
 					"spans": []
 				}
 			]
@@ -60,12 +60,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/035cd3f5-0111-4112-8fe2-700c1966389d_Lava+La+Rue.+.jpg?auto=compress,format&rect=0,0,1440,1735&w=1024&h=1234",
-					"alt": "Lava La Rue",
+					"url": "https://images.prismic.io/x-track-mag/04887461-4c79-4910-85fc-9134bf2b790b_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 1234,
-					"ratio": 0.8298217179902755
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -106,7 +106,7 @@
 					"title": "In Love"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-gxblpr1IlAoV4",
+					"url": "https://music.apple.com/fr/playlist/in-love/pl.u-oZylE0eCaN9EX",
 					"title": "In Love par XTrack"
 				},
 				{
