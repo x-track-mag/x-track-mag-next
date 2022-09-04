@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-02-28T11:03:03+0000",
+	"publication_date": "2022-09-04T07:38:24+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format",
-		"alt": null,
+		"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
+		"alt": "Leisure",
 		"copyright": null,
-		"width": 2048,
-		"height": 1229,
-		"ratio": 1.6663954434499593
+		"width": 3000,
+		"height": 1663,
+		"ratio": 1.803968731208659
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Leisure - Jungle - Biig Piig - Q - Omar Apollo x Daniel Caesar - Ibeyi - Asa - Darieus x Benny sings -  Sophie Meiers - Khruangbin x Leon Bridges - Aiden Ayers - Greentea Peng -  Hope Tala - Sault - Yehra - Chiiild - Kamauu - José Gonzalez - Arlo Parks - & +++ enjoy",
+					"text": "DJ Khaled x Drake x Lil Baby - Amindi - Ben L'Oncle Soul - Leisure x Sumac Dub - Aylo - Lous & the Yakuza x Adekunle Gold - PawPaw Rod - MadeInParis - Juls x Tay Iwar x p-rallel x Fireboy DML - Chiiild - Jungle - Khruangbin - Hope Tala - Biig Piig - Arlo Parks - Drake x Tems - Patchworks x Pat Kala -  Babeheaven - Vanjess - H.E.R. -Dream Team - Chiiild x Shungudzo - Q - Kamauu - Tems - Asa - Omah Lay - Cleo Sol - Greentea Peng & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b3832838-d439-48ee-a9b5-5fde6fde1ddb_Biig+Piig+.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
-					"alt": "Biig Piig ",
+					"url": "https://images.prismic.io/x-track-mag/0ef14936-8950-49b5-b43e-08898a3bef0e_Biig+Piig.jpg?auto=compress,format&rect=0,0,854,1280&w=1024&h=1535",
+					"alt": "Biig Piig",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1535,
+					"ratio": 0.6671009771986971
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f2dd9af0-540d-4996-bb36-06e6fd53e794_Ibeyi-%2B----.jpg?auto=compress,format&rect=0,0,1495,1339&w=1024&h=917",
-					"alt": "Ibeyi",
+					"url": "https://images.prismic.io/x-track-mag/b4515b89-d814-46ff-a22a-f47baec62fb2_Drake.jpeg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Drake",
 					"copyright": null,
 					"width": 1024,
-					"height": 917,
-					"ratio": 1.1166848418756816
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/01a4be9e-4210-46bf-9e91-ea1400897e25_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/d8e08814-55e3-49de-bf88-3e2d2c37816a_amindi.jpg?auto=compress,format&rect=0,0,1582,2048&w=1024&h=1326",
+					"alt": "Amindi",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1326,
+					"ratio": 0.7722473604826546
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/74606aac-0e9b-48d5-9d21-51e78a5874d9_Yehra+.jpg?auto=compress,format&rect=0,0,1640,924&w=1024&h=577",
-					"alt": "Yehra",
+					"url": "https://images.prismic.io/x-track-mag/b63719a9-897d-48d2-9d88-40cc10471784_Lous+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1076,1070&w=1024&h=1018",
+					"alt": "Lous & the Yakuza",
 					"copyright": null,
 					"width": 1024,
-					"height": 577,
-					"ratio": 1.7746967071057191
+					"height": 1018,
+					"ratio": 1.005893909626719
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5e6fa200-5ca9-479e-89e4-ab826ec902ae_Leon-Bridges+.jpg?auto=compress,format&rect=0,0,560,840&w=1024&h=1536",
-					"alt": "Leon Bridges",
+					"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "PawPaw Rod",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a49b2736-804e-4091-a2e0-b5df0907e081_Khruanbin.jpg?auto=compress,format&rect=0,0,723,410&w=1024&h=581",
-					"alt": "Khruangbin",
+					"url": "https://images.prismic.io/x-track-mag/026beaed-2523-4bb4-bc11-06a0a271bd0c_Hope+Tala.jpg?auto=compress,format&rect=0,0,1000,600&w=1024&h=614",
+					"alt": "Hope Tala",
 					"copyright": null,
 					"width": 1024,
-					"height": 581,
-					"ratio": 1.7624784853700517
+					"height": 614,
+					"ratio": 1.6677524429967427
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=e83e24fec9c74c13",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=c8482a07527543af",
 					"title": "New romance"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-oZylea1uaN9EX",
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-8aAVB59TJMKRZ",
 					"title": "New romance par XTrack"
 				},
 				{

@@ -810,17 +810,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-02-28T11:03:03+0000",
+			"publication_date": "2022-09-04T07:38:24+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill Vibes",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
+				"alt": "Leisure",
 				"copyright": null,
-				"width": 2048,
-				"height": 1229,
-				"ratio": 1.6663954434499593
+				"width": 3000,
+				"height": 1663,
+				"ratio": 1.803968731208659
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
