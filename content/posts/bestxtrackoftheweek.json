@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-02T20:46:39+0000",
-	"title": "Best ”XTrack“ of Summer",
-	"subtitle": "Les meilleurs sons de l'été",
+	"publication_date": "2022-09-09T20:18:57+0000",
+	"title": "Best ”XTrack“ of the Week",
+	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/3844e02a-d0b4-4739-ade7-7c3d42006665_Kari+Faux.jpg?auto=compress,format",
-		"alt": "Kari Faux",
+		"url": "https://images.prismic.io/x-track-mag/aba823f9-74cf-42ca-ae5f-cd3f3e22457e_Lila+Ike%CC%81+.jpg?auto=compress,format",
+		"alt": "Lila Iké",
 		"copyright": null,
-		"width": 1638,
-		"height": 2048,
-		"ratio": 0.7998046875
+		"width": 1080,
+		"height": 1080,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,12 +25,12 @@
 			"text": [
 				{
 					"type": "heading3",
-					"text": "Les meilleurs sons de l'été",
+					"text": "Les meilleurs sons de la semaine",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Lee Fields - Lous & the Yakuza x Adekunle Gold - Rema x Selena Gomez - Lass x Voilaaa - Donzer - Vieux Farka Touré x Khruangbin - Tekno - Wax x Anjeli x Jaylon - DJ Tunez x Wizkid - X Alpha P x Tay Iwar - Nonso amadi - BNXN fka Buju - Kari Faux - Thee Sacred Soul - Arlo Parks & ++++ Enjoy",
+					"text": "Protoje x Lila Iké - Skip Marley x Ayra Starr - Biig Piig - Always Centered at night x Moby x serpentwithfeet - BNXN fka Buju - Greentea peng - Sudan Archives - TiaCorine - Mallrat - Swich jaguar - Jenevieve & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b63719a9-897d-48d2-9d88-40cc10471784_Lous+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1076,1070&w=1024&h=1018",
-					"alt": "Lous & the Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/17c90850-8302-425d-9a94-0e2cb4aaa57d_Ayra+Starr+.jpg?auto=compress,format&rect=0,0,1440,1791&w=1024&h=1274",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 1018,
-					"ratio": 1.005893909626719
+					"height": 1274,
+					"ratio": 0.8037676609105181
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/642f9361-164f-43e6-b672-3e00d3a4cbb9_Lee+Field+.jpg?auto=compress,format&rect=0,0,828,817&w=1024&h=1010",
-					"alt": "Lee Fields",
+					"url": "https://images.prismic.io/x-track-mag/0a4779fe-74ff-4ad3-9912-84ca214822c8_serpentwithfeet.+.jpg?auto=compress,format&rect=0,0,1920,2559&w=1024&h=1365",
+					"alt": "Serpentwithfeet",
 					"copyright": null,
 					"width": 1024,
-					"height": 1010,
-					"ratio": 1.0138613861386139
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/fb3bae88-2b7f-40b9-9f00-3511a11439e8_Selena+Gomez.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Selena Gomez",
+					"url": "https://images.prismic.io/x-track-mag/3aec0202-b12a-4ed1-b766-a6fe9475154a_Biig+Piig.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Biig Piig",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/fa859bab-7ed7-41fb-9ca2-2115325d19f9_Lass.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Lass",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/04887461-4c79-4910-85fc-9134bf2b790b_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
+					"alt": "Sudan Archives",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/dceca617-d732-4317-9900-91dc22c5cb56_Tekno.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Tekno",
+					"url": "https://images.prismic.io/x-track-mag/b6f76638-7218-47dc-974c-7015cb668236_Skip+Marley+.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
+					"alt": "Skip Marley",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/128ac714-4c1e-45d9-b035-78f073565b82_TiaCorine.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "TiaCorine",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -97,20 +97,20 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=e2dc2b2cd6d143e8",
-					"title": "Best ”XTrack“ of Summer"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=b1b478010f414ae0",
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-summer/pl.u-KVXBaAPF0j3MD",
-					"title": "Best ”XTrack“ of Summer par XTrack"
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-NpXm2k4Fyr3M0",
+					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/fr/playlist/4099699282",
-					"title": "Best ”XTrack“ of Summer"
+					"url": "https://www.deezer.com/us/playlist/4099699282",
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-					"title": "Best ”XTrack“ of Summer 🌍"
+					"title": "Best ”XTrack“ of the Week"
 				}
 			]
 		}
