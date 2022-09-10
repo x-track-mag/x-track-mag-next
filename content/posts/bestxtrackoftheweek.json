@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-09T20:18:57+0000",
+	"publication_date": "2022-09-10T18:20:46+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Protoje x Lila Iké - Skip Marley x Ayra Starr - Biig Piig - Always Centered at night x Moby x serpentwithfeet - BNXN fka Buju - Greentea peng - Sudan Archives - TiaCorine - Mallrat - Swich jaguar - Jenevieve & ++++ Enjoy",
+					"text": "Protoje x Lila Iké - Skip Marley x Ayra Starr - Biig Piig - Always Centered at night x Moby x serpentwithfeet - BNXN fka Buju - Greentea peng - Sudan Archives - Mallrat & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -68,14 +68,6 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Sudan Archives",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/b6f76638-7218-47dc-974c-7015cb668236_Skip+Marley+.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
 					"alt": "Skip Marley",
 					"copyright": null,
@@ -84,8 +76,16 @@
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/128ac714-4c1e-45d9-b035-78f073565b82_TiaCorine.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "TiaCorine",
+					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
+					"alt": "Sudan Archives",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=compress,format&rect=0,0,1612,2015&w=1024&h=1280",
+					"alt": "Protoje",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
