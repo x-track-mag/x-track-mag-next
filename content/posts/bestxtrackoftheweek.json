@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-10T18:20:46+0000",
+	"publication_date": "2022-09-16T20:09:45+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/aba823f9-74cf-42ca-ae5f-cd3f3e22457e_Lila+Ike%CC%81+.jpg?auto=compress,format",
-		"alt": "Lila Iké",
+		"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+		"alt": "Sudan Archives",
 		"copyright": null,
-		"width": 1080,
-		"height": 1080,
+		"width": 3000,
+		"height": 3000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Protoje x Lila Iké - Skip Marley x Ayra Starr - Biig Piig - Always Centered at night x Moby x serpentwithfeet - BNXN fka Buju - Greentea peng - Sudan Archives - Mallrat & ++++ Enjoy",
+					"text": "Ibeyi - Sudan Archives -  Wizkid - Jenevieve x Benziboy - Bon Entendeur x Emma Peters - Darkovibes - BNXN fka Buju - Idowest x L.A.X - Sevana - John Legend x Muni Long - Jäde x Lala &ce x Low Jack - Rahul - Kelela & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,24 +39,53 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/17c90850-8302-425d-9a94-0e2cb4aaa57d_Ayra+Starr+.jpg?auto=compress,format&rect=0,0,1440,1791&w=1024&h=1274",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/967e8a63-434a-433b-b369-6cf1671c384d_Ibeyi.jpg?auto=compress,format&rect=0,0,1080,1351&w=1024&h=1281",
+					"alt": "Ibeyi",
 					"copyright": null,
 					"width": 1024,
-					"height": 1274,
-					"ratio": 0.8037676609105181
+					"height": 1281,
+					"ratio": 0.7993754879000781
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0a4779fe-74ff-4ad3-9912-84ca214822c8_serpentwithfeet.+.jpg?auto=compress,format&rect=0,0,1920,2559&w=1024&h=1365",
-					"alt": "Serpentwithfeet",
+					"url": "https://images.prismic.io/x-track-mag/75ff116d-bc44-4aba-88a5-0f4229e7be23_Jenevieve.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Jenevieve",
 					"copyright": null,
 					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3aec0202-b12a-4ed1-b766-a6fe9475154a_Biig+Piig.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Biig Piig",
+					"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=compress,format&rect=0,0,1200,900&w=1024&h=768",
+					"alt": "Wizkid ",
+					"copyright": null,
+					"width": 1024,
+					"height": 768,
+					"ratio": 1.3333333333333333
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/959ebc24-2476-424d-bfba-df1a77afbf6a_Sevana.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Sevana",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/47fb8ee7-aefd-4c12-8d87-f069fa3e397c_Bon+Entendeur+x+Emma+Peters+.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Bon Entendeur x Emma Peters",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/678f9faf-a805-4f46-8955-0acf0bfc23aa_Ja%CC%88de+x+Lala%26ce.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Jäde x Lala &ce",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -65,43 +94,14 @@
 			]
 		},
 		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/b6f76638-7218-47dc-974c-7015cb668236_Skip+Marley+.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
-					"alt": "Skip Marley",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Sudan Archives",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=compress,format&rect=0,0,1612,2015&w=1024&h=1280",
-					"alt": "Protoje",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				}
-			]
-		},
-		{
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=b1b478010f414ae0",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=d342684679d74fce",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-NpXm2k4Fyr3M0",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA5JaZS2GKqr",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
