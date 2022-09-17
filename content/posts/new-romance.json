@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-04T07:38:24+0000",
+	"publication_date": "2022-09-17T10:09:20+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/74b87c39-c507-40e8-8ed5-d7c67248086a_Leisure.jpg?auto=compress,format",
-		"alt": "Leisure",
+		"url": "https://images.prismic.io/x-track-mag/4fb20b49-aa24-4150-8998-90497d5eb074_Ibeyi--.jpg?auto=compress,format",
+		"alt": "Ibeyi",
 		"copyright": null,
-		"width": 3000,
-		"height": 1663,
-		"ratio": 1.803968731208659
+		"width": 2155,
+		"height": 1318,
+		"ratio": 1.6350531107739
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,37 +25,8 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "DJ Khaled x Drake x Lil Baby - Amindi - Ben L'Oncle Soul - Leisure x Sumac Dub - Aylo - Lous & the Yakuza x Adekunle Gold - PawPaw Rod - MadeInParis - Juls x Tay Iwar x p-rallel x Fireboy DML - Chiiild - Jungle - Khruangbin - Hope Tala - Biig Piig - Arlo Parks - Drake x Tems - Patchworks x Pat Kala -  Babeheaven - Vanjess - H.E.R. -Dream Team - Chiiild x Shungudzo - Q - Kamauu - Tems - Asa - Omah Lay - Cleo Sol - Greentea Peng & +++ enjoy",
+					"text": "Ibeyi - bLAck pARty -  Ben L'Oncle Soul - Lous & the Yakuza x Adekunle Gold - Leisure x Sumac Dub - Sudan Archives - Bon Entendeur x Emma Peters - Aylo -  PawPaw Rod - MadeInParis - Juls x Tay Iwar x p-rallel x Fireboy DML - Chiiild - Jungle - Khruangbin - Hope Tala - Biig Piig - Arlo Parks - Drake x Tems - Mr Giscard - Patchworks x Pat Kala -  Babeheaven - Vanjess - Jenevieve x Benziboy - Dabeull x Isadora - H.E.R. -Dream Team - Chiiild x Shungudzo - Q - Kamauu - Asa - Tems - Zamir x Planet Girl - Cleo Sol - Greentea Peng & +++ enjoy",
 					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/0ef14936-8950-49b5-b43e-08898a3bef0e_Biig+Piig.jpg?auto=compress,format&rect=0,0,854,1280&w=1024&h=1535",
-					"alt": "Biig Piig",
-					"copyright": null,
-					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b4515b89-d814-46ff-a22a-f47baec62fb2_Drake.jpeg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Drake",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d8e08814-55e3-49de-bf88-3e2d2c37816a_amindi.jpg?auto=compress,format&rect=0,0,1582,2048&w=1024&h=1326",
-					"alt": "Amindi",
-					"copyright": null,
-					"width": 1024,
-					"height": 1326,
-					"ratio": 0.7722473604826546
 				}
 			]
 		},
@@ -73,6 +44,35 @@
 				{
 					"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
 					"alt": "PawPaw Rod",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
+					"alt": "Sudan Archives",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/a49b2736-804e-4091-a2e0-b5df0907e081_Khruanbin.jpg?auto=compress,format&rect=0,0,723,410&w=1024&h=581",
+					"alt": "Khruangbin",
+					"copyright": null,
+					"width": 1024,
+					"height": 581,
+					"ratio": 1.7624784853700517
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/b4515b89-d814-46ff-a22a-f47baec62fb2_Drake.jpeg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Drake",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
