@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-07-24T09:24:39+0000",
+	"publication_date": "2022-09-18T07:37:09+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
-	"text_color": "white",
+	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format",
-		"alt": "Priya Ragu",
+		"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
+		"alt": "Lila Iké",
 		"copyright": null,
-		"width": 1704,
-		"height": 1321,
-		"ratio": 1.2899318697956095
+		"width": 2500,
+		"height": 2755,
+		"ratio": 0.9074410163339383
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,8 +25,37 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Thundercat - Kendrick Lamar - Hope Tala - Brockhampton - Priya Ragu - Pa Salieu  x Aitch - FKa Twigs x Shy Girl - Burna Boy X & Wizkid - Diplo x Damian Lazarus x Jungle - Parcels - Gabriels - SG Lewis x Lucky Daye x Kapote - Blundetto x Voilaaa - Tekno - Juls x Niniola - Skip Marley x Popcaan - Crayon x Belle Shmurda - Juls x Twich 4EVA x Quamina Mp - Falana x Ollade x Spax - Yebba - Sault - Dijon - Kaytranada x Thundercat - Buju Banton x Pharrell Williams - Emotional Oranges x Channel Tres - terry Presume - Paw Paw rod - Raveena x Vince Staples Youg T & Bugsey x Chronixx +++ Enjoy",
+					"text": "Protoje x Lila Iké - Kendrick Lamar - Priya Ragu - Hope Tala - Pa Salieu  x Aitch - Stefflon Don x Spice - FKa Twigs x Shy Girl - Lila Iké - Diplo x Damian Lazarus x Jungle - Parcels - Gabriels - Biig Piig - SG Lewis x Lucky Daye x Kapote - Skip Marley x Pocaan - Wizkid - Blundetto x Voilaaa - Ghetto Boy - Tekno - Juls x Niniola -  Burna Boy x Wizkid - Crayon x Belle Shmurda - Juls x Tay Iwar x Twich 4EVA x Quamina Mp - FKA Twigs x pa Salieu - Falana x Ollade x Spax - Yebba - Vieux Farka Touré x Khruangbin - Sault - Dijon - Kaytranada x Thundercat - Buju Banton x Pharrell Williams - Emotional Oranges x Channel Tres - Terry Presume - Paw Paw rod - Raveena x Vince Staples - NSG - Youg T & Bugsey x Chronixx +++ Enjoy",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/52362e75-1026-4658-be1f-7b1c600e2924_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Stefflon Don",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5b94916d-cfa7-444b-ba33-31ff22a8d45b_Kendrick+lamar+.jpg?auto=compress,format&rect=0,0,1365,1365&w=1024&h=1024",
+					"alt": "Kendrick Lamar",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format&rect=0,0,1704,1321&w=1024&h=794",
+					"alt": "Priya Ragu",
+					"copyright": null,
+					"width": 1024,
+					"height": 794,
+					"ratio": 1.2896725440806045
 				}
 			]
 		},
@@ -42,35 +71,6 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c65d2f3c-d28b-4336-9a4d-f15c6a0973d7_Pa+Salieu.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Pa Salieu",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/8a570380-ab47-4f61-88b9-8199250978ef_Shygirl.jpg?auto=compress,format&rect=0,0,545,750&w=1024&h=1409",
-					"alt": "Shygirl",
-					"copyright": null,
-					"width": 1024,
-					"height": 1409,
-					"ratio": 0.7267565649396736
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/7a5dd449-2866-4ef0-acb7-a6abe479474b_Falana+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Falana",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
 					"alt": "Juls",
 					"copyright": null,
@@ -79,12 +79,12 @@
 					"ratio": 1.0029382957884427
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/618a6ca6-2abb-4e42-b34c-6a6623dc7890_Niniola.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
-					"alt": "Niniola",
+					"url": "https://images.prismic.io/x-track-mag/3aec0202-b12a-4ed1-b766-a6fe9475154a_Biig+Piig.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Biig Piig",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=dea4702c01084a3b",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=79bb2ac9010e4d1c",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-kv9lr4lFDY8qp",
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxblpGRslAoV4",
 					"title": "Feel Good par XTrack"
 				},
 				{
