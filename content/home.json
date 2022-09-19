@@ -13,131 +13,86 @@
 		},
 		{
 			"position": 2,
-			"uid": "live-session-amaru"
-		},
-		{
-			"position": 3,
-			"uid": "page"
-		},
-		{
-			"position": 4,
 			"uid": "live-session-badbiche"
 		},
 		{
-			"position": 5,
-			"uid": "afropop"
-		},
-		{
-			"position": 6,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
-		},
-		{
-			"position": 7,
-			"uid": "martin-parr"
-		},
-		{
-			"position": 8,
-			"uid": "live-session-flowerybeard"
-		},
-		{
-			"position": 9,
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
-		},
-		{
-			"position": 10,
-			"uid": "15minutes-avec-jacques"
-		},
-		{
-			"position": 11,
+			"position": 3,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
-			"position": 12,
-			"uid": "live-session-donzer-bleu-pisicne"
+			"position": 4,
+			"uid": "feel-good"
 		},
 		{
-			"position": 13,
+			"position": 5,
+			"uid": "live-session-amaru"
+		},
+		{
+			"position": 6,
+			"uid": "new-romance"
+		},
+		{
+			"position": 7,
 			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
-			"position": 14,
-			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
-		},
-		{
-			"position": 15,
-			"uid": "tropical"
-		},
-		{
-			"position": 16,
-			"uid": "x-track-studio---biaziouka"
-		},
-		{
-			"position": 17,
-			"uid": "boys-noize-resonne-toujours-plus-fort"
-		},
-		{
-			"position": 18,
-			"uid": "yayayayoutube-ep-1-samantha-deep"
-		},
-		{
-			"position": 19,
-			"uid": "new-romance"
-		},
-		{
-			"position": 20,
-			"uid": "les-apparences-trompeuses-du-pretty-privilege"
-		},
-		{
-			"position": 21,
-			"uid": "interview-moment-amaru"
-		},
-		{
-			"position": 22,
-			"uid": "nola-cherri"
-		},
-		{
-			"position": 23,
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
-		},
-		{
-			"position": 24,
-			"uid": "polycool"
-		},
-		{
-			"position": 25,
-			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
-		},
-		{
-			"position": 26,
+			"position": 8,
 			"uid": "yayayayoutube-ep-3-ophelie-summer"
 		},
 		{
-			"position": 27,
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
+			"position": 9,
+			"uid": "martin-parr"
 		},
 		{
-			"position": 28,
-			"uid": "in-love"
+			"position": 10,
+			"uid": "afropop"
 		},
 		{
-			"position": 29,
-			"uid": "interview-moment-badbiche"
+			"position": 11,
+			"uid": "live-session-flowerybeard"
 		},
 		{
-			"position": 30,
+			"position": 12,
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
+		},
+		{
+			"position": 13,
+			"uid": "page"
+		},
+		{
+			"position": 14,
+			"uid": "tropical"
+		},
+		{
+			"position": 15,
+			"uid": "live-session-donzer-bleu-pisicne"
+		},
+		{
+			"position": 16,
+			"uid": "boys-noize-resonne-toujours-plus-fort"
+		},
+		{
+			"position": 17,
 			"uid": "les-klon-hydre-pop-a-sept-tetes"
 		},
 		{
-			"position": 31,
-			"uid": "new-romance"
+			"position": 18,
+			"uid": "in-love"
 		},
 		{
-			"position": 31,
-			"uid": "nola-cherri"
+			"position": 19,
+			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track"
 		},
 		{
-			"position": 32,
-			"uid": "feel-good"
+			"position": 20,
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent"
+		},
+		{
+			"position": 21,
+			"uid": "x-track-studio---biaziouka"
+		},
+		{
+			"position": 22
 		}
 	],
 	"selected_reads": [
@@ -217,48 +172,6 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
-			"uid": "live-session-amaru",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-07-30T08:25:39+0000",
-			"title": "AMARU",
-			"subtitle": "LIVE SESSION",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "IMG_3340.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
-				"size": "16282848"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session amaru karma x-track mag"
-		},
-		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2022-03-25T21:43:52+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
-		},
-		{
 			"uid": "live-session-badbiche",
 			"tags": [
 				"music",
@@ -280,45 +193,137 @@
 			"description": "live session bad biche lilith x-track mag"
 		},
 		{
-			"uid": "afropop",
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2020-12-16T22:52:14+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
+			},
+			"video_loop": null,
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
+		},
+		{
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-07-24T08:18:57+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
-			"text_color": "white",
+			"publication_date": "2022-09-18T08:18:27+0000",
+			"title": "Feel Good",
+			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
-				"alt": "Burna Boy",
+				"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
+				"alt": "Lila Iké",
 				"copyright": null,
-				"width": 1080,
-				"height": 1350,
-				"ratio": 0.8
+				"width": 2500,
+				"height": 2755,
+				"ratio": 0.9074410163339383
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Omah Lay - Stonebwoy - Burna Boy x Ed Sheeran - Asa - Boj x Prettyboy D-O - YKB - Ruger - Burna Boy x Wizkid - Ayra Starr - Simi - Rema - Tekno - Juls x Niniola - Skip Marley x Popcaan - The Cavemen - Tekno x Mafikizolo - Muzi - Juls x Twich 4EVA x Quamina Mp - Fireboy DML x Asake - Buju Banton x Pharrell Williams - Pa Salieu x Aitch - Jobo x Bogo - Bellah - Falana x Oxlade x Spax - Tiwa Savage - Koffee -Adekunle Gold -  Joeboy - Olamide - Ria Sean - Tems - Amaarae - Yemi Alade & ++++ Enjoy"
+			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		},
 		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
-			"tags": [],
-			"publication_date": "2021-07-03T07:49:51+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
+			"uid": "live-session-amaru",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-07-30T08:25:39+0000",
+			"title": "AMARU",
+			"subtitle": "LIVE SESSION",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
+				"name": "IMG_3340.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
+				"size": "16282848"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session amaru karma x-track mag"
+		},
+		{
+			"uid": "new-romance",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-09-17T10:10:47+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4fb20b49-aa24-4150-8998-90497d5eb074_Ibeyi--.jpg?auto=compress,format",
+				"alt": "Ibeyi",
+				"copyright": null,
+				"width": 2155,
+				"height": 1318,
+				"ratio": 1.6350531107739
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist Chill, Cool, Love"
+		},
+		{
+			"uid": "la-muse--une-icone-feministe-",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2022-07-30T08:24:01+0000",
+			"title": "La muse : une icône féministe ?",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassa",
+			"internal_link": null,
+			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
+		},
+		{
+			"uid": "yayayayoutube-ep-3-ophelie-summer",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-09-29T15:18:54+0000",
+			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
+			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "EDIT_INSTA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
+				"size": "1730419"
 			},
 			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
 		},
 		{
 			"uid": "martin-parr",
@@ -342,6 +347,29 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "Un monde à Parr"
+		},
+		{
+			"uid": "afropop",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-07-24T08:18:57+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
+				"alt": "Burna Boy",
+				"copyright": null,
+				"width": 1080,
+				"height": 1350,
+				"ratio": 0.8
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Omah Lay - Stonebwoy - Burna Boy x Ed Sheeran - Asa - Boj x Prettyboy D-O - YKB - Ruger - Burna Boy x Wizkid - Ayra Starr - Simi - Rema - Tekno - Juls x Niniola - Skip Marley x Popcaan - The Cavemen - Tekno x Mafikizolo - Muzi - Juls x Twich 4EVA x Quamina Mp - Fireboy DML x Asake - Buju Banton x Pharrell Williams - Pa Salieu x Aitch - Jobo x Bogo - Bellah - Falana x Oxlade x Spax - Tiwa Savage - Koffee -Adekunle Gold -  Joeboy - Olamide - Ria Sean - Tems - Amaarae - Yemi Alade & ++++ Enjoy"
 		},
 		{
 			"uid": "live-session-flowerybeard",
@@ -388,112 +416,25 @@
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
 		},
 		{
-			"uid": "15minutes-avec-jacques",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2022-04-18T07:45:52+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "jacques interview"
-		},
-		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2020-12-16T22:52:14+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling ",
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2022-03-25T21:43:52+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
 			"subtitle": "",
 			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
-			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
-		},
-		{
-			"uid": "live-session-donzer-bleu-pisicne",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-04-09T09:45:00+0000",
-			"title": "DONZER",
-			"subtitle": "LIVE SESSION",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LoopDonzer.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
-				"size": "5895339"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session Donzer bleu piscine x-track mag"
-		},
-		{
-			"uid": "la-muse--une-icone-feministe-",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2022-07-30T08:24:01+0000",
-			"title": "La muse : une icône féministe ?",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
 			},
 			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassa",
-			"internal_link": null,
-			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
-		},
-		{
-			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-09-29T15:26:49+0000",
-			"title": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "braqueurs-la-serie-bande-annonce-officielle-vf-netflix-france_2.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/e11f29fb-19fd-4c2a-8a16-9c06d7a152a1_braqueurs-la-serie-bande-annonce-officielle-vf-netflix-france_2.mp4",
-				"size": "1300211"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "tropical",
@@ -519,25 +460,25 @@
 			"description": "Tropical"
 		},
 		{
-			"uid": "x-track-studio---biaziouka",
+			"uid": "live-session-donzer-bleu-pisicne",
 			"tags": [
 				"music",
 				"live session"
 			],
-			"publication_date": "2022-06-09T08:01:42+0000",
-			"title": "BIAZIOUKA",
-			"subtitle": "Live Session",
+			"publication_date": "2022-04-09T09:45:00+0000",
+			"title": "DONZER",
+			"subtitle": "LIVE SESSION",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
+				"name": "LoopDonzer.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
+				"size": "5895339"
 			},
-			"template": "3: Image + Titre",
-			"author": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
 			"internal_link": null,
-			"description": "live session Biaziouka Plug x-track mag"
+			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
 			"uid": "boys-noize-resonne-toujours-plus-fort",
@@ -564,178 +505,28 @@
 			"description": "Boys Noize"
 		},
 		{
-			"uid": "yayayayoutube-ep-1-samantha-deep",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2022-04-15T18:05:01+0000",
-			"title": "Yayayayoutube EP 1  : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Comment préparer un martini dry tout en larguant son amant"
-		},
-		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-07-03T07:54:50+0000",
-			"title": "Les apparences trompeuses du Pretty Privilege",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": null,
-				"copyright": "Nadia Lee Cohen",
-				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "Les apparences trompeuses du pretty privilege"
-		},
-		{
-			"uid": "interview-moment-amaru",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2022-04-18T07:44:51+0000",
-			"title": "AMARU",
-			"subtitle": "A LITTLE MOMENT ",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "ITW 1304.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
-				"size": "4462848"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "interview amaru a little moment x-track mag"
-		},
-		{
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-07-25T08:44:41+0000",
-			"title": "La Muse, une icône féministe ?  Volet 2",
-			"subtitle": "La femme artiste, d’objet à sujet créateur ",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassa",
-			"internal_link": null,
-			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
-		},
-		{
-			"uid": "polycool",
+			"uid": "les-klon-hydre-pop-a-sept-tetes",
 			"tags": [
 				"article",
 				"music"
 			],
-			"publication_date": "2021-08-16T11:40:30+0000",
-			"title": "Polycool",
+			"publication_date": "2021-09-11T21:19:37+0000",
+			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
 			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "Sans titre.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
-				"size": "462073"
-			},
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
-		},
-		{
-			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-11-02T16:47:13+0000",
-			"title": "Léo Fifty Five, artiste à mille pourcent ",
-			"subtitle": "",
-			"text_color": "white",
+			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a51d0c18-dfc4-4e89-8e65-0a3f96395f2b_unnamed.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 900,
-				"height": 900,
+				"width": 3000,
+				"height": 3000,
 				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Léo Fifty Five, artiste à mille pourcent "
-		},
-		{
-			"uid": "yayayayoutube-ep-3-ophelie-summer",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-09-29T15:18:54+0000",
-			"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
-			"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "EDIT_INSTA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/be35c772-f6e8-4947-9139-0a3b1faa5ded_EDIT_INSTA.mp4",
-				"size": "1730419"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
-		},
-		{
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-04-09T11:31:17+0000",
-			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
+			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
 			"uid": "in-love",
@@ -761,6 +552,70 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
+			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-09-29T15:26:49+0000",
+			"title": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "braqueurs-la-serie-bande-annonce-officielle-vf-netflix-france_2.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/e11f29fb-19fd-4c2a-8a16-9c06d7a152a1_braqueurs-la-serie-bande-annonce-officielle-vf-netflix-france_2.mp4",
+				"size": "1300211"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
+		},
+		{
+			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-11-02T16:47:13+0000",
+			"title": "Léo Fifty Five, artiste à mille pourcent ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a51d0c18-dfc4-4e89-8e65-0a3f96395f2b_unnamed.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 900,
+				"height": 900,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Léo Fifty Five, artiste à mille pourcent "
+		},
+		{
+			"uid": "x-track-studio---biaziouka",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-06-09T08:01:42+0000",
+			"title": "BIAZIOUKA",
+			"subtitle": "Live Session",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "live session Biaziouka Plug x-track mag"
+		},
+		{
 			"uid": "interview-moment-badbiche",
 			"tags": [
 				"interview",
@@ -782,72 +637,66 @@
 			"description": "interview bad biche a little moment x-track mag"
 		},
 		{
-			"uid": "les-klon-hydre-pop-a-sept-tetes",
+			"uid": "15minutes-avec-jacques",
 			"tags": [
-				"article",
+				"interview",
 				"music"
 			],
-			"publication_date": "2021-09-11T21:19:37+0000",
-			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
-			"subtitle": "",
+			"publication_date": "2022-04-18T07:45:52+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
 			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
+			"description": "jacques interview"
 		},
 		{
-			"uid": "new-romance",
+			"uid": "interview-moment-amaru",
 			"tags": [
+				"interview",
 				"music"
 			],
-			"publication_date": "2022-09-17T10:10:47+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4fb20b49-aa24-4150-8998-90497d5eb074_Ibeyi--.jpg?auto=compress,format",
-				"alt": "Ibeyi",
-				"copyright": null,
-				"width": 2155,
-				"height": 1318,
-				"ratio": 1.6350531107739
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
-		},
-		{
-			"uid": "nola-cherri",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2021-01-18T16:19:00+0000",
-			"title": "Nola Cherri",
-			"subtitle": "Live Session",
-			"text_color": "white",
+			"publication_date": "2022-04-18T07:44:51+0000",
+			"title": "AMARU",
+			"subtitle": "A LITTLE MOMENT ",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "LOOPFIN.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
-				"size": "8315849"
+				"name": "ITW 1304.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
+				"size": "4462848"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "interview amaru a little moment x-track mag"
+		},
+		{
+			"uid": "yayayayoutube-ep-1-samantha-deep",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2022-04-15T18:05:01+0000",
+			"title": "Yayayayoutube EP 1  : Samantha Deep ",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
+			},
+			"template": "3: Image + Titre",
 			"author": null,
 			"internal_link": null,
-			"description": "Live session - Nola Cherri- French music"
+			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
 			"uid": "2022-is-the-year",
@@ -867,29 +716,6 @@
 				"type": "page"
 			},
 			"description": ""
-		},
-		{
-			"uid": "feel-good",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-09-18T08:18:27+0000",
-			"title": "Feel Good",
-			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
-				"alt": "Lila Iké",
-				"copyright": null,
-				"width": 2500,
-				"height": 2755,
-				"ratio": 0.9074410163339383
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",
@@ -957,6 +783,91 @@
 			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
+			"uid": "polycool",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2021-08-16T11:40:30+0000",
+			"title": "Polycool",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": {
+				"name": "Sans titre.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov",
+				"size": "462073"
+			},
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassia",
+			"internal_link": null,
+			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
+		},
+		{
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-07-25T08:44:41+0000",
+			"title": "La Muse, une icône féministe ?  Volet 2",
+			"subtitle": "La femme artiste, d’objet à sujet créateur ",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassa",
+			"internal_link": null,
+			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
+		},
+		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-07-03T07:54:50+0000",
+			"title": "Les apparences trompeuses du Pretty Privilege",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": "Nadia Lee Cohen",
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "Les apparences trompeuses du pretty privilege"
+		},
+		{
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
+			"tags": [],
+			"publication_date": "2021-07-03T07:49:51+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+		},
+		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
 				"article"
@@ -978,6 +889,29 @@
 			"author": "Manon Pelinq",
 			"internal_link": null,
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
+		},
+		{
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-04-09T11:31:17+0000",
+			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
@@ -1023,6 +957,27 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "L’Avenir de la Mode est-il virtuel ?"
+		},
+		{
+			"uid": "nola-cherri",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2021-01-18T16:19:00+0000",
+			"title": "Nola Cherri",
+			"subtitle": "Live Session",
+			"text_color": "white",
+			"image": null,
+			"video_loop": {
+				"name": "LOOPFIN.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
+				"size": "8315849"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Live session - Nola Cherri- French music"
 		}
 	]
 }
