@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-16T20:09:45+0000",
+	"publication_date": "2022-09-23T12:09:14+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-		"alt": "Sudan Archives",
+		"url": "https://images.prismic.io/x-track-mag/ce93c238-f583-410f-8354-bca1aed6c6b8_jorja-smith_e4a85_1000%402x.jpg?auto=compress,format",
+		"alt": "Jorja Smith",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
+		"width": 2000,
+		"height": 2000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Ibeyi - Sudan Archives -  Wizkid - Jenevieve x Benziboy - Bon Entendeur x Emma Peters - Darkovibes - BNXN fka Buju - Idowest x L.A.X - Sevana - John Legend x Muni Long - Jäde x Lala &ce x Low Jack - Rahul - Kelela & ++++ Enjoy",
+					"text": "Protoje x Jorja Smith - Yemi Alade x Spice - Enyel C x MJ Nebreda - Ravyn Lenae x Doechii - Rochelle Jordan x Kaytranada - Bella Shmurda x Omah Lay - Joeboy - Mr Real x Peruzzi - Ami Faku x Gallo Remixed x Black Coffee - Ckay - Prendy x Blundetto x Pupajim - Black sherif & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/967e8a63-434a-433b-b369-6cf1671c384d_Ibeyi.jpg?auto=compress,format&rect=0,0,1080,1351&w=1024&h=1281",
-					"alt": "Ibeyi",
+					"url": "https://images.prismic.io/x-track-mag/eeacd953-0e2d-472e-91ed-19c497274f88_Yemi+Alade+x+Spice.jpg?auto=compress,format&rect=0,0,1499,1000&w=1024&h=683",
+					"alt": "Spice x Yemi Alade",
 					"copyright": null,
 					"width": 1024,
-					"height": 1281,
-					"ratio": 0.7993754879000781
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/75ff116d-bc44-4aba-88a5-0f4229e7be23_Jenevieve.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Jenevieve",
+					"url": "https://images.prismic.io/x-track-mag/a2181f26-b813-419a-ae25-687c5f325f95_Protoje.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "Protoje",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=compress,format&rect=0,0,1200,900&w=1024&h=768",
-					"alt": "Wizkid ",
+					"url": "https://images.prismic.io/x-track-mag/951ef6d9-28dd-49d7-92ef-4a6ecef84eed_Ami+Faku.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ami Faku",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/959ebc24-2476-424d-bfba-df1a77afbf6a_Sevana.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Sevana",
+					"url": "https://images.prismic.io/x-track-mag/efbe7170-0610-48bb-af7a-7e9a8c9e8e19_RochelleJordan.jpg?auto=compress,format&rect=0,0,1205,1600&w=1024&h=1360",
+					"alt": "RochelleJordan",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1360,
+					"ratio": 0.7529411764705882
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/47fb8ee7-aefd-4c12-8d87-f069fa3e397c_Bon+Entendeur+x+Emma+Peters+.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Bon Entendeur x Emma Peters",
+					"url": "https://images.prismic.io/x-track-mag/141f8637-43b9-4092-805b-d93cf84ca057_Bella+Shmurda.jpg?auto=compress,format&rect=0,0,1600,1578&w=1024&h=1010",
+					"alt": "Bella Shmurda",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1010,
+					"ratio": 1.0138613861386139
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/678f9faf-a805-4f46-8955-0acf0bfc23aa_Ja%CC%88de+x+Lala%26ce.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jäde x Lala &ce",
+					"url": "https://images.prismic.io/x-track-mag/4f3f73ad-9104-4a39-af7c-7567a8417391_Doechii.jpg?auto=compress,format&rect=0,0,1548,1023&w=1024&h=677",
+					"alt": "Doechii",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 677,
+					"ratio": 1.5125553914327918
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=d342684679d74fce",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=6970954ea402490d",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-GgA5JaZS2GKqr",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZ4BZfN0D35",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
