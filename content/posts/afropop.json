@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-24T09:35:47+0000",
+	"publication_date": "2022-09-24T09:38:35+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
 	"text_color": "orange",
@@ -42,12 +42,12 @@
 					"ratio": 1.0767613038906414
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8fb43541-1c07-4cce-9ea9-bf23533fae25_Tekno-Mufasa.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Tekno\n",
+					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/1598fc9e-f431-413d-a609-c702b25a48b2_Asa+.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
