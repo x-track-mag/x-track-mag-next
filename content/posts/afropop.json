@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-07-24T08:18:57+0000",
+	"publication_date": "2022-09-24T09:35:47+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
-	"text_color": "white",
+	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
-		"alt": "Burna Boy",
+		"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=compress,format",
+		"alt": "Wizkid ",
 		"copyright": null,
-		"width": 1080,
-		"height": 1350,
-		"ratio": 0.8
+		"width": 1200,
+		"height": 900,
+		"ratio": 1.3333333333333333
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Omah Lay - Stonebwoy - Burna Boy x Ed Sheeran - Asa - Boj x Prettyboy D-O - YKB - Ruger - Burna Boy x Wizkid - Ayra Starr - Simi - Rema - Tekno - Juls x Niniola - Skip Marley x Popcaan - The Cavemen - Tekno x Mafikizolo - Muzi - Juls x Twich 4EVA x Quamina Mp - Fireboy DML x Asake - Buju Banton x Pharrell Williams - Pa Salieu x Aitch - Jobo x Bogo - Bellah - Falana x Oxlade x Spax - Tiwa Savage - Koffee -Adekunle Gold -  Joeboy - Olamide - Ria Sean - Tems - Amaarae - Yemi Alade & ++++ Enjoy",
+					"text": "Burna Boy x J Hus - BNXN fka Buju x Wizkid - Rema x Selena Gomez - Wizkid - Tiwa Savage x Zinoleesky - Skip Marley x Ayra Starr x Popcann - Ruger - Simi - Tekno x Mafikizolo - Juls x Niniola x Twich4EVA x Quamina MP - The Cavemen - Jobo x bogo - Fireboy DML x Wande Coal - Crayon x Bella Shmurda - Krizbeatz x Tekno x Harmonize x DJ Tira - Falana x Oxlade x Spax - Bellah - YBK - Asa - Boj x Prettyboy D-O - & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -71,12 +71,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4106179d-f00a-4ab2-8ad3-59cfd1f2ed8d_Wizkid.jpg?auto=compress,format&rect=0,0,876,1080&w=1024&h=1262",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/141f8637-43b9-4092-805b-d93cf84ca057_Bella+Shmurda.jpg?auto=compress,format&rect=0,0,1600,1578&w=1024&h=1010",
+					"alt": "Bella Shmurda",
 					"copyright": null,
 					"width": 1024,
-					"height": 1262,
-					"ratio": 0.8114104595879557
+					"height": 1010,
+					"ratio": 1.0138613861386139
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/4vcp9k3nl0gFzXOjhimDJq?si=3923adaed5fe48c0",
+					"url": "https://open.spotify.com/playlist/4vcp9k3nl0gFzXOjhimDJq?si=0d82ae1962c245f1",
 					"title": "Afropop"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/afropop/pl.u-2aoqAM6T2XgBo",
+					"url": "https://music.apple.com/fr/playlist/afropop/pl.u-GgA5vNBc2GKqr",
 					"title": "Afropop par XTrack"
 				},
 				{
@@ -110,5 +110,5 @@
 			]
 		}
 	],
-	"description": "Omah Lay - Stonebwoy - Burna Boy x Ed Sheeran - Asa - Boj x Prettyboy D-O - YKB - Ruger - Burna Boy x Wizkid - Ayra Starr - Simi - Rema - Tekno - Juls x Niniola - Skip Marley x Popcaan - The Cavemen - Tekno x Mafikizolo - Muzi - Juls x Twich 4EVA x Quamina Mp - Fireboy DML x Asake - Buju Banton x Pharrell Williams - Pa Salieu x Aitch - Jobo x Bogo - Bellah - Falana x Oxlade x Spax - Tiwa Savage - Koffee -Adekunle Gold -  Joeboy - Olamide - Ria Sean - Tems - Amaarae - Yemi Alade & ++++ Enjoy"
+	"description": "Burna Boy x J Hus - BNXN fka Buju x Wizkid - Rema x Selena Gomez - Wizkid - Tiwa Savage x Zinoleesky - Skip Marley x Ayra Starr x Popcann - Ruger - Simi - Tekno x Mafikizolo - Juls x Niniola x Twich4EVA x Quamina MP - The Cavemen - Jobo x bogo - Fireboy DML x Wande Coal - Crayon x Bella Shmurda - Krizbeatz x Tekno x Harmonize x DJ Tira - Falana x Oxlade x Spax - Bellah - YBK - Asa - Boj x Prettyboy D-O - & ++++ Enjoy"
 }
