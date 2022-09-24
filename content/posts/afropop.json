@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-24T09:38:35+0000",
+	"publication_date": "2022-09-24T09:42:37+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
 	"text_color": "orange",
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/63e7e43e-978c-4c76-88c8-40927624e4a9_Simi.jpg?auto=compress,format&rect=0,0,2048,1902&w=1024&h=951",
+					"url": "https://images.prismic.io/x-track-mag/c1ba03f9-be57-49b0-9da7-e47a48534463_Simi.jpg?auto=compress,format&rect=0,0,1024,1280&w=1024&h=1280",
 					"alt": "Simi",
 					"copyright": null,
 					"width": 1024,
-					"height": 951,
-					"ratio": 1.0767613038906414
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -50,12 +50,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1598fc9e-f431-413d-a609-c702b25a48b2_Asa+.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
+					"url": "https://images.prismic.io/x-track-mag/2f1ebbef-94a2-4109-8c62-50a34d865098_Asa.jpg?auto=compress,format&rect=0,0,899,899&w=1024&h=1024",
 					"alt": "Asa",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -63,12 +63,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/97c1abf7-6b4e-4a0c-a2a3-911c5c07b7f7_Tiwa+Savage.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/63891b33-1b38-4b85-ab25-1a86e1e42eeb_Tiwa+Savage+.jpeg?auto=compress,format&rect=0,0,1080,1243&w=1024&h=1179",
 					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1179,
+					"ratio": 0.8685326547921968
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/141f8637-43b9-4092-805b-d93cf84ca057_Bella+Shmurda.jpg?auto=compress,format&rect=0,0,1600,1578&w=1024&h=1010",
