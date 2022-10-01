@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-25T07:43:06+0000",
+	"publication_date": "2022-10-01T08:33:18+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "inverted",
+	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/ce93c238-f583-410f-8354-bca1aed6c6b8_jorja-smith_e4a85_1000%402x.jpg?auto=compress,format",
-		"alt": "Jorja Smith",
+		"url": "https://images.prismic.io/x-track-mag/8a9979d2-39a5-4a4c-a1c7-819624f6735b_Tiwa-Savage-.jpg?auto=compress,format",
+		"alt": "Tiwa Savage",
 		"copyright": null,
-		"width": 2000,
-		"height": 2000,
-		"ratio": 1
+		"width": 1440,
+		"height": 1318,
+		"ratio": 1.0925644916540211
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Protoje x Jorja Smith - Yemi Alade x Spice - Enyel C x MJ Nebreda - Ravyn Lenae x Doechii - Rochelle Jordan x Kaytranada - Bella Shmurda x Omah Lay - Joeboy - Mr Real x Peruzzi - Ami Faku x Gallo Remixed x Black Coffee - Ckay - Black sherif & ++++ Enjoy",
+					"text": "Patrice - Protoje x Lotosh - Ayra Starr x Kelly Rowland -  Major Lazer x Major League djz x Tiwa Savage x Diplo x DJ Maphorisa - Gabriels - Show Dem Camps x Tems - Brent Fayaz x Tre' Amani - Kabaka Pyramid x Stephen Marley x Protoje x Jesse Royal - Saint Levant x Bayou x Playyard - Rimon x Tiggs Da Author - Prince Waly x Enchantée Julia x Jazzy Bazz & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,24 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/eeacd953-0e2d-472e-91ed-19c497274f88_Yemi+Alade+x+Spice.jpg?auto=compress,format&rect=0,0,1499,1000&w=1024&h=683",
-					"alt": "Spice x Yemi Alade",
+					"url": "https://images.prismic.io/x-track-mag/1527c551-a299-4255-8305-972e409c3823_Ayra+Starr+x+Kelly+Rowland.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Ayra Starr x Kelly Rowland",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a2181f26-b813-419a-ae25-687c5f325f95_Protoje.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
-					"alt": "Protoje",
+					"url": "https://images.prismic.io/x-track-mag/5081c165-85b2-4e2d-a1d5-3175ac36ede8_Patrice.jpg?auto=compress,format&rect=0,0,1080,1323&w=1024&h=1254",
+					"alt": "Patrice",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1254,
+					"ratio": 0.8165869218500797
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/951ef6d9-28dd-49d7-92ef-4a6ecef84eed_Ami+Faku.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ami Faku",
+					"url": "https://images.prismic.io/x-track-mag/2ca39135-21be-40a2-93f0-a6b020f9aeb1_Tems.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/efbe7170-0610-48bb-af7a-7e9a8c9e8e19_RochelleJordan.jpg?auto=compress,format&rect=0,0,1205,1600&w=1024&h=1360",
-					"alt": "RochelleJordan",
+					"url": "https://images.prismic.io/x-track-mag/d5b98238-c206-4bf8-a50e-bd13bf4ab8b1_Enchante%CC%81e+Julia.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "Enchantée Julia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1360,
-					"ratio": 0.7529411764705882
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/141f8637-43b9-4092-805b-d93cf84ca057_Bella+Shmurda.jpg?auto=compress,format&rect=0,0,1600,1578&w=1024&h=1010",
-					"alt": "Bella Shmurda",
+					"url": "https://images.prismic.io/x-track-mag/a56c6127-a058-4038-9dcc-c9dd62e106e0_Kabaka+Pyramid.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1010,
-					"ratio": 1.0138613861386139
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4f3f73ad-9104-4a39-af7c-7567a8417391_Doechii.jpg?auto=compress,format&rect=0,0,1548,1023&w=1024&h=677",
-					"alt": "Doechii",
+					"url": "https://images.prismic.io/x-track-mag/8f868f20-6f8c-4b85-afef-87544e532744_Rimon.jpg?auto=compress,format&rect=0,0,1080,1323&w=1024&h=1254",
+					"alt": "Rimon",
 					"copyright": null,
 					"width": 1024,
-					"height": 677,
-					"ratio": 1.5125553914327918
+					"height": 1254,
+					"ratio": 0.8165869218500797
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=6970954ea402490d",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=eadb2bb8680a46b1",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-WabZ4BZfN0D35",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-jV89vZLtBAyYV",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

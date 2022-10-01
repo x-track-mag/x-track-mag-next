@@ -149,17 +149,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-09-25T07:43:06+0000",
+			"publication_date": "2022-10-01T08:33:18+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "inverted",
+			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ce93c238-f583-410f-8354-bca1aed6c6b8_jorja-smith_e4a85_1000%402x.jpg?auto=compress,format",
-				"alt": "Jorja Smith",
+				"url": "https://images.prismic.io/x-track-mag/8a9979d2-39a5-4a4c-a1c7-819624f6735b_Tiwa-Savage-.jpg?auto=compress,format",
+				"alt": "Tiwa Savage",
 				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
+				"width": 1440,
+				"height": 1318,
+				"ratio": 1.0925644916540211
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
