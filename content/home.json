@@ -8,8 +8,7 @@
 	],
 	"pinned_posts": [
 		{
-			"position": 1,
-			"uid": "bestxtrackoftheweek"
+			"position": 1
 		},
 		{
 			"position": 2,
@@ -144,29 +143,6 @@
 	],
 	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
-		{
-			"uid": "bestxtrackoftheweek",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-10-08T08:48:20+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/17c90850-8302-425d-9a94-0e2cb4aaa57d_Ayra+Starr+.jpg?auto=compress,format",
-				"alt": "Ayra Starr",
-				"copyright": null,
-				"width": 1440,
-				"height": 1791,
-				"ratio": 0.8040201005025126
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
-		},
 		{
 			"uid": "live-session-badbiche",
 			"tags": [
@@ -410,6 +386,29 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
+			"uid": "la-muse--une-icone-feministe-",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2022-07-30T08:24:01+0000",
+			"title": "La muse : une icône féministe ?",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassa",
+			"internal_link": null,
+			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
+		},
+		{
 			"uid": "tropical",
 			"tags": [
 				"music"
@@ -502,29 +501,6 @@
 			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
-			"uid": "la-muse--une-icone-feministe-",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2022-07-30T08:24:01+0000",
-			"title": "La muse : une icône féministe ?",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassa",
-			"internal_link": null,
-			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
-		},
-		{
 			"uid": "in-love",
 			"tags": [
 				"music"
@@ -591,27 +567,6 @@
 			"description": "Léo Fifty Five, artiste à mille pourcent "
 		},
 		{
-			"uid": "x-track-studio---biaziouka",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-06-09T08:01:42+0000",
-			"title": "BIAZIOUKA",
-			"subtitle": "Live Session",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "live session Biaziouka Plug x-track mag"
-		},
-		{
 			"uid": "interview-moment-badbiche",
 			"tags": [
 				"interview",
@@ -631,6 +586,27 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "interview bad biche a little moment x-track mag"
+		},
+		{
+			"uid": "x-track-studio---biaziouka",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-06-09T08:01:42+0000",
+			"title": "BIAZIOUKA",
+			"subtitle": "Live Session",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "live session Biaziouka Plug x-track mag"
 		},
 		{
 			"uid": "15minutes-avec-jacques",
