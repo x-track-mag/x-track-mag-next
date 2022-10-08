@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-10-01T08:35:23+0000",
+	"publication_date": "2022-10-08T08:41:21+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/8a9979d2-39a5-4a4c-a1c7-819624f6735b_Tiwa-Savage-.jpg?auto=compress,format",
-		"alt": "Tiwa Savage",
+		"url": "https://images.prismic.io/x-track-mag/17c90850-8302-425d-9a94-0e2cb4aaa57d_Ayra+Starr+.jpg?auto=compress,format",
+		"alt": "Ayra Starr",
 		"copyright": null,
 		"width": 1440,
-		"height": 1318,
-		"ratio": 1.0925644916540211
+		"height": 1791,
+		"ratio": 0.8040201005025126
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Patrice - Protoje x Lotosh - Ayra Starr x Kelly Rowland -  Major Lazer x Major League djz x Tiwa Savage x Diplo x DJ Maphorisa - Gabriels - Show Dem Camps x Tems - Brent Fayaz x Tre' Amani - Kabaka Pyramid x Stephen Marley x Protoje x Jesse Royal - Saint Levant x Bayou x Playyard - Rimon x Tiggs Da Author - Prince Waly x Enchantée Julia x Jazzy Bazz & ++++ Enjoy",
+					"text": "DJ FiiFii x Yung D3mz x BKO x Amartey x Yung Dada - Joeboy - Ayra Starr - Adekunle Gold x Rick Ross - 53 Thieves - L'imperatrice x Rejjie Snow - Aya Nakamura - Shygirl - Jeshi x Obongjayar x Westside Boogie - Chaton - MadeInParis - Nola Cherri & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,24 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/1527c551-a299-4255-8305-972e409c3823_Ayra+Starr+x+Kelly+Rowland.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Ayra Starr x Kelly Rowland",
+					"url": "https://images.prismic.io/x-track-mag/a4a7b918-146a-4391-b2b6-5b2d1992b433_Joeboy.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Joeboy",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5081c165-85b2-4e2d-a1d5-3175ac36ede8_Patrice.jpg?auto=compress,format&rect=0,0,1080,1323&w=1024&h=1254",
-					"alt": "Patrice",
+					"url": "https://images.prismic.io/x-track-mag/15062cc9-2b60-4f08-a111-174003dc23ba_Shygirl.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Shygirl",
 					"copyright": null,
 					"width": 1024,
-					"height": 1254,
-					"ratio": 0.8165869218500797
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2ca39135-21be-40a2-93f0-a6b020f9aeb1_Tems.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/39109773-8bee-41c7-b08f-c6ce77ca2596_DJ+FiiFii.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "DJ FiiFii",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d5b98238-c206-4bf8-a50e-bd13bf4ab8b1_Enchante%CC%81e+Julia.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
-					"alt": "Enchantée Julia",
+					"url": "https://images.prismic.io/x-track-mag/c72e40ab-e741-4978-a599-e7280f7ae59b_Nola+Cherri+.jpg?auto=compress,format&rect=0,0,999,999&w=1024&h=1024",
+					"alt": "Nola Cherri",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/49807389-2269-4184-934d-f2575e8a2f51_Brent+Fayaz.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/55ed8f6e-f51d-49b1-a61c-eb318457c0ce_Rejjie+Snow.jpg?auto=compress,format&rect=0,0,960,1200&w=1024&h=1280",
+					"alt": "Rejjie Snow",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8f868f20-6f8c-4b85-afef-87544e532744_Rimon.jpg?auto=compress,format&rect=0,0,1080,1323&w=1024&h=1254",
-					"alt": "Rimon",
+					"url": "https://images.prismic.io/x-track-mag/971dc259-5c51-4fe6-823e-ae4980063cad_Aya+Nakamura.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Aya Nakamura",
 					"copyright": null,
 					"width": 1024,
-					"height": 1254,
-					"ratio": 0.8165869218500797
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=eadb2bb8680a46b1",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=c9d9ca8cc1594218",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-jV89vZLtBAyYV",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxblE3JIlAoV4",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
