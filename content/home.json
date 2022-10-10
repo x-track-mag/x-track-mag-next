@@ -33,7 +33,19 @@
 		},
 		{
 			"position": 7,
-			"uid": "afropop"
+			"uid": "tropical"
+		},
+		{
+			"position": 8,
+			"uid": "live-session-donzer-bleu-pisicne"
+		},
+		{
+			"position": 9,
+			"uid": "page"
+		},
+		{
+			"position": 10,
+			"uid": "boys-noize-resonne-toujours-plus-fort"
 		}
 	],
 	"selected_reads": [
@@ -224,29 +236,6 @@
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
 		},
 		{
-			"uid": "afropop",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-09-24T09:42:37+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=compress,format",
-				"alt": "Wizkid ",
-				"copyright": null,
-				"width": 1200,
-				"height": 900,
-				"ratio": 1.3333333333333333
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Burna Boy x J Hus - BNXN fka Buju x Wizkid - Rema x Selena Gomez - Wizkid - Tiwa Savage x Zinoleesky - Skip Marley x Ayra Starr x Popcann - Ruger - Simi - Tekno x Mafikizolo - Juls x Niniola x Twich4EVA x Quamina MP - The Cavemen - Jobo x bogo - Fireboy DML x Wande Coal - Crayon x Bella Shmurda - Krizbeatz x Tekno x Harmonize x DJ Tira - Falana x Oxlade x Spax - Bellah - YBK - Asa - Boj x Prettyboy D-O - & ++++ Enjoy"
-		},
-		{
 			"uid": "tropical",
 			"tags": [
 				"music"
@@ -268,6 +257,95 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Tropical"
+		},
+		{
+			"uid": "live-session-donzer-bleu-pisicne",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-04-09T09:45:00+0000",
+			"title": "DONZER",
+			"subtitle": "LIVE SESSION",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LoopDonzer.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
+				"size": "5895339"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session Donzer bleu piscine x-track mag"
+		},
+		{
+			"uid": "page",
+			"tags": [],
+			"publication_date": "2022-03-25T21:43:52+0000",
+			"title": "Mode éthique : classe ou classiste ?                              ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique : classe ou classiste ?                              "
+		},
+		{
+			"uid": "boys-noize-resonne-toujours-plus-fort",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2022-01-13T20:19:34+0000",
+			"title": "Boys Noize résonne toujours plus fort ",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1616,
+				"height": 1080,
+				"ratio": 1.4962962962962962
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Boys Noize"
+		},
+		{
+			"uid": "afropop",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-09-24T09:42:37+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=compress,format",
+				"alt": "Wizkid ",
+				"copyright": null,
+				"width": 1200,
+				"height": 900,
+				"ratio": 1.3333333333333333
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Burna Boy x J Hus - BNXN fka Buju x Wizkid - Rema x Selena Gomez - Wizkid - Tiwa Savage x Zinoleesky - Skip Marley x Ayra Starr x Popcann - Ruger - Simi - Tekno x Mafikizolo - Juls x Niniola x Twich4EVA x Quamina MP - The Cavemen - Jobo x bogo - Fireboy DML x Wande Coal - Crayon x Bella Shmurda - Krizbeatz x Tekno x Harmonize x DJ Tira - Falana x Oxlade x Spax - Bellah - YBK - Asa - Boj x Prettyboy D-O - & ++++ Enjoy"
 		},
 		{
 			"uid": "feel-good",
@@ -464,27 +542,6 @@
 			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
-			"uid": "live-session-donzer-bleu-pisicne",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-04-09T09:45:00+0000",
-			"title": "DONZER",
-			"subtitle": "LIVE SESSION",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LoopDonzer.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
-				"size": "5895339"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session Donzer bleu piscine x-track mag"
-		},
-		{
 			"uid": "2022-is-the-year",
 			"tags": [
 				"article"
@@ -502,51 +559,6 @@
 				"type": "page"
 			},
 			"description": ""
-		},
-		{
-			"uid": "page",
-			"tags": [],
-			"publication_date": "2022-03-25T21:43:52+0000",
-			"title": "Mode éthique : classe ou classiste ?                              ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
-		},
-		{
-			"uid": "boys-noize-resonne-toujours-plus-fort",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2022-01-13T20:19:34+0000",
-			"title": "Boys Noize résonne toujours plus fort ",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1616,
-				"height": 1080,
-				"ratio": 1.4962962962962962
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Boys Noize"
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",
