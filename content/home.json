@@ -247,6 +247,29 @@
 			"description": "Burna Boy x J Hus - BNXN fka Buju x Wizkid - Rema x Selena Gomez - Wizkid - Tiwa Savage x Zinoleesky - Skip Marley x Ayra Starr x Popcann - Ruger - Simi - Tekno x Mafikizolo - Juls x Niniola x Twich4EVA x Quamina MP - The Cavemen - Jobo x bogo - Fireboy DML x Wande Coal - Crayon x Bella Shmurda - Krizbeatz x Tekno x Harmonize x DJ Tira - Falana x Oxlade x Spax - Bellah - YBK - Asa - Boj x Prettyboy D-O - & ++++ Enjoy"
 		},
 		{
+			"uid": "tropical",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-10-10T16:38:12+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/619be15f-5e92-45b1-bc96-95af95391af9_Tems+.jpg?auto=compress,format",
+				"alt": "Tems",
+				"copyright": null,
+				"width": 2048,
+				"height": 2048,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Tropical"
+		},
+		{
 			"uid": "feel-good",
 			"tags": [
 				"music"
@@ -291,29 +314,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Our favorite Love & Cool Songs"
-		},
-		{
-			"uid": "tropical",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-08-30T09:36:11+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c0e3de03-2134-451d-b3d2-e28a00558ffd_Koffee.jpg?auto=compress,format",
-				"alt": "Koffee",
-				"copyright": null,
-				"width": 2000,
-				"height": 2000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Tropical"
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",

@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-08-30T09:36:11+0000",
+	"publication_date": "2022-10-10T16:38:12+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
-	"text_color": "orange",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c0e3de03-2134-451d-b3d2-e28a00558ffd_Koffee.jpg?auto=compress,format",
-		"alt": "Koffee",
+		"url": "https://images.prismic.io/x-track-mag/619be15f-5e92-45b1-bc96-95af95391af9_Tems+.jpg?auto=compress,format",
+		"alt": "Tems",
 		"copyright": null,
-		"width": 2000,
-		"height": 2000,
+		"width": 2048,
+		"height": 2048,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Ayüü - Boj - BNXN fka Buju x Wizkid- Juls x Tay Iwar - Aylo - Jojo x Bogo - Kidi x Tyga - Bitty Mc Lean Pachyman x Winter -  Yung L - Tekno - Blundetto x Voilaaa - Juls x Twich 4EVA x Quamina Mp - The Cavemen - Antonin x Voilaaa - Juls x Agent Sasco - Simi - Fireboy DML - YKB -  June Freedom - Pongo - Soul Sugar x Leo Carmichael x Sly & Robbie - Lila Iké - Jada Kingdom - Pabrymo x Teni -  Koffee & +++",
+					"text": "Show Dem Camp x Tems- Boj - BNXN fka Buju x Wizkid- Juls x Tay Iwar - Jojo x Bogo - The Cavemen -  Antonin x Voilaaa - Juls x Agent Sasco - Simi - Kidi x Tiga - Bitty McLean - Pachyman x Winter - Yung L - Enyel C X MJ Nebreda - Blundetto x Voilaaa - Tekno - Juls x Fireboy DML x Sauti Sol - YKB - Jada Kingdom - Soul Sugar x Leo Carmichael x Sly & Robbie - Lila Iké - Popcaan - Pabrymo x Teni -  Samthing Soweto - Asa - Vybz Kartel Rimon - Koffee - Mr Eazi - Bush Tea - Ayanfe x Davido & +++",
 					"spans": []
 				}
 			]
@@ -79,12 +79,12 @@
 					"ratio": 1.0029382957884427
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/be6b006d-687f-4d2b-b8eb-dd02a12bb610_Pongo.jpg?auto=compress,format&rect=0,0,3887,5664&w=1024&h=1492",
-					"alt": "Pongo",
+					"url": "https://images.prismic.io/x-track-mag/1598fc9e-f431-413d-a609-c702b25a48b2_Asa+.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
+					"alt": "Asa",
 					"copyright": null,
 					"width": 1024,
-					"height": 1492,
-					"ratio": 0.6863270777479893
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=1b713116c1df4313",
+					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=d42f08f0068d4cd3",
 					"title": "Tropical "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/tropical/pl.u-NpXm2ZGsyr3M0",
+					"url": "https://music.apple.com/fr/playlist/tropical/pl.u-jV89vNJtBAyYV",
 					"title": "Tropical par XTrack"
 				},
 				{
