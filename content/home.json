@@ -37,7 +37,7 @@
 		},
 		{
 			"position": 8,
-			"uid": "live-session-donzer-bleu-pisicne"
+			"uid": "x-track-studio---biaziouka"
 		},
 		{
 			"position": 9,
@@ -267,25 +267,25 @@
 			"description": "Tropical"
 		},
 		{
-			"uid": "live-session-donzer-bleu-pisicne",
+			"uid": "x-track-studio---biaziouka",
 			"tags": [
 				"music",
 				"live session"
 			],
-			"publication_date": "2022-04-09T09:45:00+0000",
-			"title": "DONZER",
-			"subtitle": "LIVE SESSION",
+			"publication_date": "2022-06-09T08:01:42+0000",
+			"title": "BIAZIOUKA",
+			"subtitle": "Live Session",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "LoopDonzer.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
-				"size": "5895339"
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
+			"template": "3: Image + Titre",
+			"author": null,
 			"internal_link": null,
-			"description": "live session Donzer bleu piscine x-track mag"
+			"description": "live session Biaziouka Plug x-track mag"
 		},
 		{
 			"uid": "page",
@@ -446,27 +446,6 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
 		},
 		{
-			"uid": "x-track-studio---biaziouka",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-06-09T08:01:42+0000",
-			"title": "BIAZIOUKA",
-			"subtitle": "Live Session",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "live session Biaziouka Plug x-track mag"
-		},
-		{
 			"uid": "live-session-flowerybeard",
 			"tags": [
 				"music",
@@ -548,6 +527,27 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Comment préparer un martini dry tout en larguant son amant"
+		},
+		{
+			"uid": "live-session-donzer-bleu-pisicne",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-04-09T09:45:00+0000",
+			"title": "DONZER",
+			"subtitle": "LIVE SESSION",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LoopDonzer.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
+				"size": "5895339"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
 			"uid": "2022-is-the-year",
