@@ -46,6 +46,14 @@
 		{
 			"position": 10,
 			"uid": "boys-noize-resonne-toujours-plus-fort"
+		},
+		{
+			"position": 11,
+			"uid": "feel-good"
+		},
+		{
+			"position": 12,
+			"uid": "15minutes-avec-jacques"
 		}
 	],
 	"selected_reads": [
@@ -325,29 +333,6 @@
 			"description": "Boys Noize"
 		},
 		{
-			"uid": "afropop",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-09-24T09:42:37+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=compress,format",
-				"alt": "Wizkid ",
-				"copyright": null,
-				"width": 1200,
-				"height": 900,
-				"ratio": 1.3333333333333333
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
-			"internal_link": null,
-			"description": "Burna Boy x J Hus - BNXN fka Buju x Wizkid - Rema x Selena Gomez - Wizkid - Tiwa Savage x Zinoleesky - Skip Marley x Ayra Starr x Popcann - Ruger - Simi - Tekno x Mafikizolo - Juls x Niniola x Twich4EVA x Quamina MP - The Cavemen - Jobo x bogo - Fireboy DML x Wande Coal - Crayon x Bella Shmurda - Krizbeatz x Tekno x Harmonize x DJ Tira - Falana x Oxlade x Spax - Bellah - YBK - Asa - Boj x Prettyboy D-O - & ++++ Enjoy"
-		},
-		{
 			"uid": "feel-good",
 			"tags": [
 				"music"
@@ -369,6 +354,50 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+		},
+		{
+			"uid": "15minutes-avec-jacques",
+			"tags": [
+				"interview",
+				"music"
+			],
+			"publication_date": "2022-04-18T07:45:52+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "jacques interview"
+		},
+		{
+			"uid": "afropop",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-09-24T09:42:37+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=compress,format",
+				"alt": "Wizkid ",
+				"copyright": null,
+				"width": 1200,
+				"height": 900,
+				"ratio": 1.3333333333333333
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "Burna Boy x J Hus - BNXN fka Buju x Wizkid - Rema x Selena Gomez - Wizkid - Tiwa Savage x Zinoleesky - Skip Marley x Ayra Starr x Popcann - Ruger - Simi - Tekno x Mafikizolo - Juls x Niniola x Twich4EVA x Quamina MP - The Cavemen - Jobo x bogo - Fireboy DML x Wande Coal - Crayon x Bella Shmurda - Krizbeatz x Tekno x Harmonize x DJ Tira - Falana x Oxlade x Spax - Bellah - YBK - Asa - Boj x Prettyboy D-O - & ++++ Enjoy"
 		},
 		{
 			"uid": "in-love",
@@ -478,27 +507,6 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "interview bad biche a little moment x-track mag"
-		},
-		{
-			"uid": "15minutes-avec-jacques",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2022-04-18T07:45:52+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "jacques interview"
 		},
 		{
 			"uid": "interview-moment-amaru",
