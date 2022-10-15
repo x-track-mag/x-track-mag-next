@@ -69,7 +69,7 @@
 		},
 		{
 			"position": 16,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
 			"position": 17,
@@ -77,10 +77,18 @@
 		},
 		{
 			"position": 18,
-			"uid": "la-muse--une-icone-feministe-"
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
 			"position": 20,
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
+		},
+		{
+			"position": 21,
+			"uid": "les-klon-hydre-pop-a-sept-tetes"
+		},
+		{
+			"position": 22,
 			"uid": "live-session-flowerybeard"
 		}
 	],
@@ -469,22 +477,27 @@
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
 		},
 		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
-			"tags": [],
-			"publication_date": "2021-07-03T07:49:51+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
+			"uid": "la-muse--une-icone-feministe-",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2022-07-30T08:24:01+0000",
+			"title": "La muse : une icône féministe ?",
+			"subtitle": "",
 			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
 			},
+			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": null,
+			"author": "Aphelandra Siassa",
 			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
 		},
 		{
 			"uid": "in-love",
@@ -510,27 +523,69 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
-			"uid": "la-muse--une-icone-feministe-",
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
+			"tags": [],
+			"publication_date": "2021-07-03T07:49:51+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
+		},
+		{
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
 			"tags": [
 				"article"
 			],
-			"publication_date": "2022-07-30T08:24:01+0000",
-			"title": "La muse : une icône féministe ?",
+			"publication_date": "2021-04-09T11:31:17+0000",
+			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
 			"subtitle": "",
-			"text_color": "inverted",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
+				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
+				"alt": null,
 				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
 			},
 			"video_loop": null,
 			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassa",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
+			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
+		},
+		{
+			"uid": "les-klon-hydre-pop-a-sept-tetes",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2021-09-11T21:19:37+0000",
+			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
+			"subtitle": "",
+			"text_color": "green",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
 			"uid": "interview-moment-badbiche",
@@ -743,30 +798,6 @@
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
-			"uid": "les-klon-hydre-pop-a-sept-tetes",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2021-09-11T21:19:37+0000",
-			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
-			"subtitle": "",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
-		},
-		{
 			"uid": "polycool",
 			"tags": [
 				"article",
@@ -855,29 +886,6 @@
 			"author": "Manon Pelinq",
 			"internal_link": null,
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
-		},
-		{
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-04-09T11:31:17+0000",
-			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
