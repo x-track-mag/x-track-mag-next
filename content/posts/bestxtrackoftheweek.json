@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-10-08T20:37:48+0000",
+	"publication_date": "2022-10-15T07:42:40+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/17c90850-8302-425d-9a94-0e2cb4aaa57d_Ayra+Starr+.jpg?auto=compress,format",
-		"alt": "Ayra Starr",
+		"url": "https://images.prismic.io/x-track-mag/58f89932-679d-47a3-97a4-a7a591858ca7_Hope+Tala.jpg?auto=compress,format",
+		"alt": "Hope Tala",
 		"copyright": null,
-		"width": 1440,
-		"height": 1791,
-		"ratio": 0.8040201005025126
+		"width": 1080,
+		"height": 1205,
+		"ratio": 0.8962655601659751
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "DJ FiiFii x Yung D3mz x BKO x Amartey x Yung Dada - Joeboy - Ayra Starr - Adekunle Gold x Rick Ross - 53 Thieves - L'imperatrice x Rejjie Snow - Aya Nakamura - Shygirl - Jeshi x Obongjayar x Westside Boogie - Chaton - MadeInParis - Nola Cherri & ++++",
+					"text": "Hope Tala - black sherif - Tion Wayne x Aitch - DJ Xhela x Killa Croc - Chaton - Kaestyle x Omah Lay - Amaria x Destin Conrad - Men i Trust - Hawa - Omar Apollo & ++++",
 					"spans": []
 				}
 			]
@@ -39,24 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a4a7b918-146a-4391-b2b6-5b2d1992b433_Joeboy.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": "Joeboy",
+					"url": "https://images.prismic.io/x-track-mag/a8b1b7e5-b4fb-4773-bf32-8d3f55b27829_Black+Sherif.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Black Sherif",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/34ba99df-750b-40b7-bbbf-161d0c414383_Amaria+.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/15062cc9-2b60-4f08-a111-174003dc23ba_Shygirl.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Shygirl",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/39109773-8bee-41c7-b08f-c6ce77ca2596_DJ+FiiFii.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "DJ FiiFii",
+					"url": "https://images.prismic.io/x-track-mag/e669bb9e-f753-4a47-b413-bafc4547daff_Tion+Wayne.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tion Wayne",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c72e40ab-e741-4978-a599-e7280f7ae59b_Nola+Cherri+.jpg?auto=compress,format&rect=0,0,999,999&w=1024&h=1024",
-					"alt": "Nola Cherri",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/55ed8f6e-f51d-49b1-a61c-eb318457c0ce_Rejjie+Snow.jpg?auto=compress,format&rect=0,0,960,1200&w=1024&h=1280",
-					"alt": "Rejjie Snow",
+					"url": "https://images.prismic.io/x-track-mag/6c728779-a0bc-424f-a5f6-3a06bdb4aeb6_Omar+Apollo.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Omar Apollo",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/971dc259-5c51-4fe6-823e-ae4980063cad_Aya+Nakamura.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Aya Nakamura",
+					"url": "https://images.prismic.io/x-track-mag/5de00ba1-aea2-40eb-8206-3b02ea0ed219_Hawa+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Hawa",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/0b10503a-8512-4c63-8e4b-3c99669f1201_Skip+Marley.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Skip Marley",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=c9d9ca8cc1594218",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=267166bd68d44ee9",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxblE3JIlAoV4",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxblEmmClAoV4",
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{

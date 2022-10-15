@@ -130,17 +130,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-10-08T20:37:48+0000",
+			"publication_date": "2022-10-15T07:42:40+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/17c90850-8302-425d-9a94-0e2cb4aaa57d_Ayra+Starr+.jpg?auto=compress,format",
-				"alt": "Ayra Starr",
+				"url": "https://images.prismic.io/x-track-mag/58f89932-679d-47a3-97a4-a7a591858ca7_Hope+Tala.jpg?auto=compress,format",
+				"alt": "Hope Tala",
 				"copyright": null,
-				"width": 1440,
-				"height": 1791,
-				"ratio": 0.8040201005025126
+				"width": 1080,
+				"height": 1205,
+				"ratio": 0.8962655601659751
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
