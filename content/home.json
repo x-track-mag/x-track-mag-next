@@ -417,8 +417,11 @@
 		},
 		{
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
-			"tags": [],
-			"publication_date": "2021-09-11T21:18:20+0000",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2022-10-15T08:30:16+0000",
 			"title": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH",
 			"subtitle": "",
 			"text_color": "green",
