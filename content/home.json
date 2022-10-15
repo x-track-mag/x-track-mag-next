@@ -288,7 +288,7 @@
 				"music",
 				"live session"
 			],
-			"publication_date": "2022-06-09T08:01:42+0000",
+			"publication_date": "2022-10-15T08:15:07+0000",
 			"title": "BIAZIOUKA",
 			"subtitle": "Live Session",
 			"text_color": "inverted",
@@ -298,7 +298,7 @@
 				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
 				"size": "922100"
 			},
-			"template": "3: Image + Titre",
+			"template": "1: Image + Titre + sous-titre + infos",
 			"author": null,
 			"internal_link": null,
 			"description": "live session Biaziouka Plug x-track mag"
