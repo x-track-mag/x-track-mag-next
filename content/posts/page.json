@@ -1,7 +1,10 @@
 {
 	"uid": "page",
-	"tags": [],
-	"publication_date": "2022-03-25T21:43:52+0000",
+	"tags": [
+		"article",
+		"fashion"
+	],
+	"publication_date": "2022-10-15T08:28:58+0000",
 	"title": "Mode éthique : classe ou classiste ?                              ",
 	"subtitle": "",
 	"text_color": "white",
