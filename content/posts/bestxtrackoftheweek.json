@@ -3,10 +3,10 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-10-21T19:37:10+0000",
+	"publication_date": "2022-10-21T19:49:50+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "green",
+	"text_color": "inverted",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/a94e3d0e-895b-4c85-9f21-70a4aaee0a2b_Stormzy.jpg?auto=compress,format",
 		"alt": "Stormzy",
