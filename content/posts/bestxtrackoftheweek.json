@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-10-22T07:38:09+0000",
+	"publication_date": "2022-10-28T19:13:20+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "inverted",
+	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/a94e3d0e-895b-4c85-9f21-70a4aaee0a2b_Stormzy.jpg?auto=compress,format",
-		"alt": "Stormzy",
+		"url": "https://images.prismic.io/x-track-mag/7844d381-f2f3-473f-be71-63281d843b1f_Doechii-.jpg?auto=compress,format",
+		"alt": "Doechii",
 		"copyright": null,
-		"width": 1631,
-		"height": 1631,
-		"ratio": 1
+		"width": 1633,
+		"height": 1356,
+		"ratio": 1.2042772861356932
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stormzy x  Äyanna x Oxlade x Teni - MadeInParis - Ezéchiel Pailès - Mavi - Guchi x Yemi Alade - Yimeeka x Pheelz - Moliy x P.Priime - Jmani - NxWorries x Anderson Paak x H.E.R x Knxwledge - Ethan Mark x Chara Kai-Le - Bad Biche - Sault & ++++",
+					"text": "Thomas Caruso Aragona - Africaine - Wizkid - Oxlade - Teni - Myra - Chaton - Moliy x Juls - Ela Munus x DJ Python - $hyli - Iyana x 5ive Rings - MadeInparis x Vacra - DijahSB - Retlaw Tha Future x Gott-Yo x Busy Signal - JD Cliffe x Aylo - Kassmasse x Protoje x Uno - Lee Fields - Ivri - Lous & the Yakuza - Montell Fish - Doechii - Mak  & ++++",
 					"spans": []
 				}
 			]
@@ -39,20 +39,49 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/81c5b244-35c8-45a9-ab4a-f5cdd07c53af_A%CC%88yanna.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Äyanna",
+					"url": "https://images.prismic.io/x-track-mag/4be96d86-dba8-4ff4-b135-3a1db52cd84a_Africaine.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
+					"alt": "Africaine",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/1ae0af90-56c5-4863-9e8a-b0af154982d1_Thomas+Caruso+Aragona.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Thomas Caruso Aragona",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/2ea21fae-8d04-45e2-9db3-7680a74b5564_Myra.jpg?auto=compress,format&rect=0,0,679,679&w=1024&h=1024",
+					"alt": "Myra",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/ff4bc8d1-aef7-4ca2-9a80-c81e9f36d814_Lous+%26+The+Yakuza.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Lous & The Yakuza",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/359567cc-3dff-4e74-91cd-c7c62118ba1d_MadeInparis.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
-					"alt": "MadeInParis",
+					"url": "https://images.prismic.io/x-track-mag/73c040a4-aea2-4fb6-87da-270112d55337_Wizkid.jpg?auto=compress,format&rect=0,0,1463,2047&w=1024&h=1433",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1433,
+					"ratio": 0.7145847871598046
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/c669b798-dae6-4e80-a832-3c4e00e354cc_Teni+++.jpg?auto=compress,format&rect=0,0,3344,4180&w=1024&h=1280",
@@ -65,44 +94,15 @@
 			]
 		},
 		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/3e1c1eec-8fc8-4faf-8328-81f00080dba1_Guchi.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Guchi",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/af5666d9-6bda-4ae8-83dc-a16c9bb8436f_Eze%CC%81chiel+Pailhes.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ezéchiel Pailhes",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e4e42665-8892-4bb4-bb1a-65ecd0fcf4bf_H.E.R..jpg?auto=compress,format&rect=0,0,1080,1142&w=1024&h=1083",
-					"alt": "H.E.R",
-					"copyright": null,
-					"width": 1024,
-					"height": 1083,
-					"ratio": 0.9455216989843028
-				}
-			]
-		},
-		{
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=d954300d79cf4fe1",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=64685f03992340af",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqm6qs2XgBo",
-					"title": "Best ”XTrack“ of the Week par XTrack"
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lMVDCDY8qp?l=en",
+					"title": "Best ”XTrack“ of the Week by XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
