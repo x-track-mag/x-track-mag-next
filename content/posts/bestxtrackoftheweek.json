@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-10-29T11:23:47+0000",
+	"publication_date": "2022-11-05T00:02:13+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "green",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/7844d381-f2f3-473f-be71-63281d843b1f_Doechii-.jpg?auto=compress,format",
-		"alt": "Doechii",
+		"url": "https://images.prismic.io/x-track-mag/ed0e0166-87a6-4377-87d7-2340fe40a725_Amaarae--.jpg?auto=compress,format",
+		"alt": "Amaarae",
 		"copyright": null,
-		"width": 1633,
-		"height": 1356,
-		"ratio": 1.2042772861356932
+		"width": 1440,
+		"height": 1800,
+		"ratio": 0.8
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Thomas Caruso Aragona - Africaine - Wizkid - Oxlade - Teni - Myra - Chaton - Moliy x Juls - Ela Munus x DJ Python - $hyli - Iyana x 5ive Rings - MadeInparis x Vacra - DijahSB - Retlaw Tha Future x Gott-Yo x Busy Signal - JD Cliffe x Aylo - Kassmasse x Protoje x Uno - Lee Fields - Lous & the Yakuza - Doechii - Mak  & ++++",
+					"text": "Blaqbonez x Amaarae x Lojay - MadeInParis - Jorja Smith x Joy Orbison - Fave - Juniper x Sango x Vhoor - Hawa -  BashfortheWorld - Bils - SZA - Chaton & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4be96d86-dba8-4ff4-b135-3a1db52cd84a_Africaine.jpg?auto=compress,format&rect=0,0,640,960&w=1024&h=1536",
-					"alt": "Africaine",
+					"url": "https://images.prismic.io/x-track-mag/0b66097b-a01f-4d1d-9488-ebac6fb047a7_Jorja+Smith.jpg?auto=compress,format&rect=0,0,3132,3958&w=1024&h=1294",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1294,
+					"ratio": 0.7913446676970634
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1ae0af90-56c5-4863-9e8a-b0af154982d1_Thomas+Caruso+Aragona.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Thomas Caruso Aragona",
+					"url": "https://images.prismic.io/x-track-mag/e6adb181-0960-491c-ae5b-08fdc9ab6a15_Blaqbonez.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Blaqbonez",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2ea21fae-8d04-45e2-9db3-7680a74b5564_Myra.jpg?auto=compress,format&rect=0,0,679,679&w=1024&h=1024",
-					"alt": "Myra",
+					"url": "https://images.prismic.io/x-track-mag/95172183-90f0-4b9f-94f1-d12c5de1ba34_Hawa.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Hawa",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ff4bc8d1-aef7-4ca2-9a80-c81e9f36d814_Lous+%26+The+Yakuza.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Lous & The Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/73a7550f-85a1-4d8f-8eb7-1d1423d8504e_Fave.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Fave",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/73c040a4-aea2-4fb6-87da-270112d55337_Wizkid.jpg?auto=compress,format&rect=0,0,1463,2047&w=1024&h=1433",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/359567cc-3dff-4e74-91cd-c7c62118ba1d_MadeInparis.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "MadeInParis",
 					"copyright": null,
 					"width": 1024,
-					"height": 1433,
-					"ratio": 0.7145847871598046
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c669b798-dae6-4e80-a832-3c4e00e354cc_Teni+++.jpg?auto=compress,format&rect=0,0,3344,4180&w=1024&h=1280",
-					"alt": "Teni",
+					"url": "https://images.prismic.io/x-track-mag/c525f5a4-5530-4bbc-8dc9-6b8d1723bded_SZA.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "SZA",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -97,11 +97,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=64685f03992340af",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=854df86144bd46d3",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lMVDCDY8qp?l=en",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxblEvxTlAoV4?l=en",
 					"title": "Best ”XTrack“ of the Week by XTrack"
 				},
 				{

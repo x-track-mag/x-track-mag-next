@@ -153,17 +153,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-10-29T11:23:47+0000",
+			"publication_date": "2022-11-05T00:02:13+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "green",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/7844d381-f2f3-473f-be71-63281d843b1f_Doechii-.jpg?auto=compress,format",
-				"alt": "Doechii",
+				"url": "https://images.prismic.io/x-track-mag/ed0e0166-87a6-4377-87d7-2340fe40a725_Amaarae--.jpg?auto=compress,format",
+				"alt": "Amaarae",
 				"copyright": null,
-				"width": 1633,
-				"height": 1356,
-				"ratio": 1.2042772861356932
+				"width": 1440,
+				"height": 1800,
+				"ratio": 0.8
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
