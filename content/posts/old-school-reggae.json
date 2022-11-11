@@ -1,0 +1,114 @@
+{
+	"uid": "old-school-reggae",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2022-11-11T12:24:46+0000",
+	"title": "Reggae",
+	"subtitle": "Old School Reggae",
+	"text_color": "inverted",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
+		"alt": null,
+		"copyright": null,
+		"width": 1200,
+		"height": 777,
+		"ratio": 1.5444015444015444
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": null,
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Pablo Moses - Bob Marley - Willie Williams - Major Lazer x Ezra Koenig - Musical Youth -Linton Kwesi Johnson - Junior Murvin - U-roy - U-Brown - Barrington Levy - Beats International - Junior Delahaye - Stephen Marley x Damian marley - Chaka Demus & Pliers - Lord Echo x Lisa Tomlins - The Congos - The Pioneers - Lloyd Charmers - Shelly Thunder - Major Worries - Little john - Tippa Irie - Bob Andy - I Wayne - Leroy Sibbles - The Slickers - Lee Scrath Perry - Courtney John - Lone Ranger - DJ Vadim x JStar - Dawn Penn - Vybz Kartel - Shabba Ranks x Chevelle Franklin - Derrick Lara & Trinity - Bitty Mclean - Sidestepper - Burning Spear - Ras G - Sporto kantes - Kardinal Offishal - alton Ellis - Luciano - Reggie Stepper -Althea and Donna &++++",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/0b66bcd9-a7dc-47d4-af84-ddeabd421f58_Bob+Marley+.jpg?auto=compress,format&rect=0,0,1182,1024&w=1024&h=887",
+					"alt": "Bob Marley",
+					"copyright": null,
+					"width": 1024,
+					"height": 887,
+					"ratio": 1.1544532130777903
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/20398f57-bf47-4378-b23b-dc54aa5cc385_the+Congos.jpg?auto=compress,format&rect=0,0,748,812&w=1024&h=1112",
+					"alt": "The Congo",
+					"copyright": null,
+					"width": 1024,
+					"height": 1112,
+					"ratio": 0.920863309352518
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e9a8f0b3-d905-49a1-9742-f0ff3137e433_Pablo+Moses.jpg?auto=compress,format&rect=0,0,640,910&w=1024&h=1456",
+					"alt": "Pablo Moses",
+					"copyright": null,
+					"width": 1024,
+					"height": 1456,
+					"ratio": 0.7032967032967034
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/fc97e712-934c-4dab-9b09-efc13142f259_Linton+Kwesi+Johnson.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Linton Kwesi Johnson",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e9502433-b0f6-42eb-ba7e-9b519d55ac33_Althea+and+Donna.jpg?auto=compress,format&rect=0,0,1024,1477&w=1024&h=1477",
+					"alt": "Althea and Donna",
+					"copyright": null,
+					"width": 1024,
+					"height": 1477,
+					"ratio": 0.6932972241029113
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/abe5b019-4ed4-4ea2-9d97-fca87ba537ac_Junior-Murvin-.jpg?auto=compress,format&rect=0,0,1343,989&w=1024&h=754",
+					"alt": "Junior Murvin",
+					"copyright": null,
+					"width": 1024,
+					"height": 754,
+					"ratio": 1.3580901856763925
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/5tZaTuc0nu1nbI8VlLxaxe?si=8fbd208503684e04",
+					"title": "Reggae "
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/reggae/pl.u-kv9lM0VuDY8qp?l=en",
+					"title": "Reggae by XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/9446658542",
+					"title": "Reggae"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMD7jHVAHzszLCuScUngrYAz",
+					"title": "Reggae"
+				}
+			]
+		}
+	],
+	"description": "Old School Reggae"
+}
