@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-11-05T00:07:20+0000",
+	"publication_date": "2022-11-11T11:13:21+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "green",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/ed0e0166-87a6-4377-87d7-2340fe40a725_Amaarae--.jpg?auto=compress,format",
-		"alt": "Amaarae",
+		"url": "https://images.prismic.io/x-track-mag/359e4be2-6f74-481e-9b9f-e65ccdd5869a_Oshun+.jpg?auto=compress,format",
+		"alt": "Oshun",
 		"copyright": null,
-		"width": 1440,
-		"height": 1800,
-		"ratio": 0.8
+		"width": 1179,
+		"height": 1766,
+		"ratio": 0.6676104190260476
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Blaqbonez x Amaarae x Lojay - MadeInParis - Jorja Smith x Joy Orbison - Fave - Juniper x Sango x Vhoor - Hawa -  BashfortheWorld - Bils - SZA - Chaton & ++++",
+					"text": "Hawa - Wizkid x Ayra Starr - Sault - The Cavemen - Yaya Bey - Oshun - Tiwa Savage x Asake - Ckay x Pinkpantheress - Destin Conrad - Larry Gaga x Black Sherif - Blaqbonez x Tekno - Tera Kora - Yung D3mz - Lous & the Yakuza - Nathy Peluso - Ice Spice - Drake x 21 Savage x Travis Scott - Saint Levant - Chiiild - Kingo Halla & ++++",
 					"spans": []
 				}
 			]
@@ -39,24 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/0b66097b-a01f-4d1d-9488-ebac6fb047a7_Jorja+Smith.jpg?auto=compress,format&rect=0,0,3132,3958&w=1024&h=1294",
-					"alt": "Jorja Smith",
-					"copyright": null,
-					"width": 1024,
-					"height": 1294,
-					"ratio": 0.7913446676970634
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e6adb181-0960-491c-ae5b-08fdc9ab6a15_Blaqbonez.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Blaqbonez",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/95172183-90f0-4b9f-94f1-d12c5de1ba34_Hawa.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/5b7850df-ab70-464b-9569-a3498c0f176b_Hawa.-.jpg?auto=compress,format&rect=0,0,1612,1266&w=1024&h=804",
 					"alt": "Hawa",
+					"copyright": null,
+					"width": 1024,
+					"height": 804,
+					"ratio": 1.2736318407960199
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/973d9377-5445-4197-9dec-1fc670257a50_Wizkid+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/431979c1-e474-4805-b393-5b097766d3dd_Ice+Spice+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/73a7550f-85a1-4d8f-8eb7-1d1423d8504e_Fave.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Fave",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/359567cc-3dff-4e74-91cd-c7c62118ba1d_MadeInparis.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
-					"alt": "MadeInParis",
-					"copyright": null,
-					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/c525f5a4-5530-4bbc-8dc9-6b8d1723bded_SZA.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "SZA",
+					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/9ee5de97-4a4b-4955-8906-1cf40c1fd1bd_The-Cavemen-.jpg?auto=compress,format&rect=0,0,1077,1090&w=1024&h=1036",
+					"alt": "The Cavemen",
+					"copyright": null,
+					"width": 1024,
+					"height": 1036,
+					"ratio": 0.9884169884169884
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/59e44de1-4d83-45c5-ab46-062881a99436_Tiwa+Savage.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tiwa Savage",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -97,15 +97,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=854df86144bd46d3",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=cec26d509b404f02",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-gxblEvxTlAoV4?l=en",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqmpvi2XgBo?l=en",
 					"title": "Best ”XTrack“ of the Week by XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/us/playlist/4099699282",
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
