@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-11-11T11:16:58+0000",
+	"publication_date": "2022-11-11T11:18:49+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
@@ -68,7 +68,7 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/d3257942-a7b2-4c42-8d3d-a7ce33e67594_Ayra-Starr+.jpeg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
 					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
@@ -84,12 +84,12 @@
 					"ratio": 0.9884169884169884
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/59e44de1-4d83-45c5-ab46-062881a99436_Tiwa+Savage.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/63891b33-1b38-4b85-ab25-1a86e1e42eeb_Tiwa+Savage+.jpeg?auto=compress,format&rect=0,0,1080,1243&w=1024&h=1179",
 					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1179,
+					"ratio": 0.8685326547921968
 				}
 			]
 		},
