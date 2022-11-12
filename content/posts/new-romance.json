@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-26T04:54:17+0000",
+	"publication_date": "2022-11-12T10:14:37+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/4228333b-4c61-444c-8b8b-12c733a26321_Ibeyi+.jpg?auto=compress,format",
-		"alt": "Ibeyi",
+		"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+		"alt": "Sudan Archives",
 		"copyright": null,
-		"width": 1596,
-		"height": 959,
-		"ratio": 1.6642335766423357
+		"width": 3000,
+		"height": 3000,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Ibeyi - Lous & the Yakuza x Adekunle Gold - Ben L'Oncle Soul - Leisure x Sumac Dub - Sudan Archives - Bon Entendeur x Emma Peters - Aylo -  PawPaw Rod - MadeInParis - Juls x Tay Iwar x p-rallel x Fireboy DML - Chiiild - Jungle - Khruangbin - Hope Tala - Biig Piig - Arlo Parks - Drake x Tems - Mr Giscard - Patchworks x Pat Kala -  Babeheaven - Vanjess - Jenevieve x Benziboy - Dabeull x Isadora - H.E.R. -Dream Team - Chiiild x Shungudzo - Q - Kamauu - Asa - Tems - Zamir x Planet Girl - Cleo Sol - Greentea Peng & +++ enjoy",
+					"text": "Hope Tala - Chiiild - Patrice -  Hawa - Stormzy x Tems x Äyanna x Owen Cutts - Protoje x Iotosh - Show Dem Camp x Tems - Myra - Sudan Archives - Ezéchiel Pailhès - Oshun - Chaton - Leisure x Sumac Dub - Bon Entendeur x Emma Peters - PawPaw Rod - Juls x Fireboy DML - Jungle - Gabriels - Juls x Tay Iwar x P-Rallel - Khruangbin - Biig Piig - Arlo Parks & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -34,24 +34,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b63719a9-897d-48d2-9d88-40cc10471784_Lous+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1076,1070&w=1024&h=1018",
-					"alt": "Lous & the Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/5b7850df-ab70-464b-9569-a3498c0f176b_Hawa.-.jpg?auto=compress,format&rect=0,0,1612,1266&w=1024&h=804",
+					"alt": "Hawa",
 					"copyright": null,
 					"width": 1024,
-					"height": 1018,
-					"ratio": 1.005893909626719
+					"height": 804,
+					"ratio": 1.2736318407960199
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "PawPaw Rod",
+					"url": "https://images.prismic.io/x-track-mag/ee54ae90-7752-4858-bfd8-e186e654e4bd_Fireboy+DML.jpg?auto=compress,format&rect=0,0,958,1196&w=1024&h=1278",
+					"alt": "Fireboy DML",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1278,
+					"ratio": 0.8012519561815337
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Sudan Archives",
+					"url": "https://images.prismic.io/x-track-mag/2ca39135-21be-40a2-93f0-a6b020f9aeb1_Tems.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a49b2736-804e-4091-a2e0-b5df0907e081_Khruanbin.jpg?auto=compress,format&rect=0,0,723,410&w=1024&h=581",
-					"alt": "Khruangbin",
-					"copyright": null,
-					"width": 1024,
-					"height": 581,
-					"ratio": 1.7624784853700517
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b4515b89-d814-46ff-a22a-f47baec62fb2_Drake.jpeg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Drake",
+					"url": "https://images.prismic.io/x-track-mag/2ea21fae-8d04-45e2-9db3-7680a74b5564_Myra.jpg?auto=compress,format&rect=0,0,679,679&w=1024&h=1024",
+					"alt": "Myra",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/026beaed-2523-4bb4-bc11-06a0a271bd0c_Hope+Tala.jpg?auto=compress,format&rect=0,0,1000,600&w=1024&h=614",
+					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "juls",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/58f89932-679d-47a3-97a4-a7a591858ca7_Hope+Tala.jpg?auto=compress,format&rect=0,0,1080,1205&w=1024&h=1143",
 					"alt": "Hope Tala",
 					"copyright": null,
 					"width": 1024,
-					"height": 614,
-					"ratio": 1.6677524429967427
+					"height": 1143,
+					"ratio": 0.8958880139982502
 				}
 			]
 		},

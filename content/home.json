@@ -220,17 +220,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-09-26T04:54:17+0000",
+			"publication_date": "2022-11-12T10:14:37+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill Vibes",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4228333b-4c61-444c-8b8b-12c733a26321_Ibeyi+.jpg?auto=compress,format",
-				"alt": "Ibeyi",
+				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+				"alt": "Sudan Archives",
 				"copyright": null,
-				"width": 1596,
-				"height": 959,
-				"ratio": 1.6642335766423357
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
