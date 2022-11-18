@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-11-11T17:26:03+0000",
+	"publication_date": "2022-11-18T22:20:41+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "green",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/359e4be2-6f74-481e-9b9f-e65ccdd5869a_Oshun+.jpg?auto=compress,format",
-		"alt": "Oshun",
+		"url": "https://images.prismic.io/x-track-mag/864ff05e-11e5-490c-9599-f332439f1d24_Kelela.jpg?auto=compress,format",
+		"alt": "Kelela",
 		"copyright": null,
-		"width": 1179,
-		"height": 1766,
-		"ratio": 0.6676104190260476
+		"width": 3000,
+		"height": 1917,
+		"ratio": 1.5649452269170578
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,8 +30,37 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Hawa - Wizkid x Ayra Starr - Yaya Bey - Oshun - Tiwa Savage x Asake - Ckay x Pinkpantheress - Destin Conrad - Larry Gaga x Black Sherif - Blaqbonez x Tekno - Tera Kora x Yung D3mz - The Cavemen - Lous & the Yakuza - Nathy Peluso - Ice Spice - Sault - Drake x 21 Savage x Travis Scott - Saint Levant - Chiiild - Kingo Halla & ++++",
+					"text": "Kelela - Wizkid - Stefflon Don - Hawa - Yaya Bey - Lisandro Cuxi - Afternoon Bike Ride - Cigarettes After Sex - DijahSB - Oshun x Niambi Sala - Jeremiah x Lala &ce& - Angelo De Augustine - Stromzy & ++++",
 					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/5704b1b9-c4bc-4d42-9389-b726b09a3bcc_Wizkid.jpg?auto=compress,format&rect=0,0,2400,1500&w=1024&h=640",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 640,
+					"ratio": 1.6
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/49f9a2b3-07de-4377-a2b3-2edd7873b1dd_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Stefflon Don",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/018a0684-8acd-4789-9a15-6b566a44f41c_Lisandro+Cuxi.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Lisandro Cuxi",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -47,49 +76,20 @@
 					"ratio": 1.2736318407960199
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/973d9377-5445-4197-9dec-1fc670257a50_Wizkid+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/f78da91c-6d15-4593-b339-55edbc524f48_cigarettes-after-sex.jpg?auto=compress,format&rect=0,0,2500,1665&w=1024&h=682",
+					"alt": "Cigarettes After Sex",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 682,
+					"ratio": 1.501466275659824
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/431979c1-e474-4805-b393-5b097766d3dd_Ice+Spice+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ice Spice",
+					"url": "https://images.prismic.io/x-track-mag/359e4be2-6f74-481e-9b9f-e65ccdd5869a_Oshun+.jpg?auto=compress,format&rect=0,0,1179,1766&w=1024&h=1534",
+					"alt": "Oshun",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/d3257942-a7b2-4c42-8d3d-a7ce33e67594_Ayra-Starr+.jpeg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
-					"alt": "Ayra Starr",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/9ee5de97-4a4b-4955-8906-1cf40c1fd1bd_The-Cavemen-.jpg?auto=compress,format&rect=0,0,1077,1090&w=1024&h=1036",
-					"alt": "The Cavemen",
-					"copyright": null,
-					"width": 1024,
-					"height": 1036,
-					"ratio": 0.9884169884169884
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/63891b33-1b38-4b85-ab25-1a86e1e42eeb_Tiwa+Savage+.jpeg?auto=compress,format&rect=0,0,1080,1243&w=1024&h=1179",
-					"alt": "Tiwa Savage",
-					"copyright": null,
-					"width": 1024,
-					"height": 1179,
-					"ratio": 0.8685326547921968
+					"height": 1534,
+					"ratio": 0.6675358539765319
 				}
 			]
 		},
@@ -97,15 +97,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=cec26d509b404f02",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=cb2a60b4fb2846d5",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-2aoqmpvi2XgBo?l=en",
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lmKDFDY8qp?l=en",
 					"title": "Best ”XTrack“ of the Week by XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"url": "https://www.deezer.com/us/playlist/4099699282",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{

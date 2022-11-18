@@ -153,17 +153,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-11-11T17:26:03+0000",
+			"publication_date": "2022-11-18T22:20:41+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "green",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/359e4be2-6f74-481e-9b9f-e65ccdd5869a_Oshun+.jpg?auto=compress,format",
-				"alt": "Oshun",
+				"url": "https://images.prismic.io/x-track-mag/864ff05e-11e5-490c-9599-f332439f1d24_Kelela.jpg?auto=compress,format",
+				"alt": "Kelela",
 				"copyright": null,
-				"width": 1179,
-				"height": 1766,
-				"ratio": 0.6676104190260476
+				"width": 3000,
+				"height": 1917,
+				"ratio": 1.5649452269170578
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
