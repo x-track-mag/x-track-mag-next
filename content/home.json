@@ -21,7 +21,7 @@
 		},
 		{
 			"position": 4,
-			"uid": "new-romance"
+			"uid": "feel-good"
 		},
 		{
 			"position": 5,
@@ -33,7 +33,7 @@
 		},
 		{
 			"position": 7,
-			"uid": "tropical"
+			"uid": "new-romance"
 		},
 		{
 			"position": 8,
@@ -49,7 +49,7 @@
 		},
 		{
 			"position": 11,
-			"uid": "feel-good"
+			"uid": "afropop"
 		},
 		{
 			"position": 12,
@@ -61,7 +61,7 @@
 		},
 		{
 			"position": 14,
-			"uid": "afropop"
+			"uid": "tropical"
 		},
 		{
 			"position": 15,
@@ -213,27 +213,27 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "new-romance",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-11-12T10:24:52+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes",
-			"text_color": "inverted",
+			"publication_date": "2022-11-19T10:53:49+0000",
+			"title": "Feel Good",
+			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
+			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-				"alt": "Sudan Archives",
+				"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format",
+				"alt": "Ice Spice",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 1462,
+				"height": 1217,
+				"ratio": 1.201314708299096
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
 		},
 		{
 			"uid": "live-session-amaru",
@@ -280,27 +280,27 @@
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
 		},
 		{
-			"uid": "tropical",
+			"uid": "new-romance",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-10-10T16:38:12+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy",
+			"publication_date": "2022-11-12T10:24:52+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/619be15f-5e92-45b1-bc96-95af95391af9_Tems+.jpg?auto=compress,format",
-				"alt": "Tems",
+				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+				"alt": "Sudan Archives",
 				"copyright": null,
-				"width": 2048,
-				"height": 2048,
+				"width": 3000,
+				"height": 3000,
 				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Tropical"
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "x-track-studio---biaziouka",
@@ -372,27 +372,27 @@
 			"description": "Boys Noize"
 		},
 		{
-			"uid": "feel-good",
+			"uid": "afropop",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-11-19T10:53:49+0000",
-			"title": "Feel Good",
-			"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
-			"text_color": "green",
+			"publication_date": "2022-11-11T12:27:17+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format",
-				"alt": "Ice Spice",
+				"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format",
+				"alt": "Oxlade",
 				"copyright": null,
-				"width": 1462,
-				"height": 1217,
-				"ratio": 1.201314708299096
+				"width": 1200,
+				"height": 1200,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+			"description": "Oxlade - Wizkid - Teni - Ayra Starr x Kelly Rowland - Stefflon Don x Spice - Burna Boy - Tiwa Savage x Zinoleesky - Major Lazer x Major League Djz x Tiwa Savage x Diplo x DJ Maphorisa - Skip Marley x Popcaan - Tekno - Juls x Niniola - The Cavemen - & ++++ Enjoy"
 		},
 		{
 			"uid": "15minutes-avec-jacques",
@@ -440,27 +440,27 @@
 			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
 		},
 		{
-			"uid": "afropop",
+			"uid": "tropical",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-11-11T12:27:17+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
+			"publication_date": "2022-10-10T16:38:12+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format",
-				"alt": "Oxlade",
+				"url": "https://images.prismic.io/x-track-mag/619be15f-5e92-45b1-bc96-95af95391af9_Tems+.jpg?auto=compress,format",
+				"alt": "Tems",
 				"copyright": null,
-				"width": 1200,
-				"height": 1200,
+				"width": 2048,
+				"height": 2048,
 				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Oxlade - Wizkid - Teni - Ayra Starr x Kelly Rowland - Stefflon Don x Spice - Burna Boy - Tiwa Savage x Zinoleesky - Major Lazer x Major League Djz x Tiwa Savage x Diplo x DJ Maphorisa - Skip Marley x Popcaan - Tekno - Juls x Niniola - The Cavemen - & ++++ Enjoy"
+			"description": "Tropical"
 		},
 		{
 			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
