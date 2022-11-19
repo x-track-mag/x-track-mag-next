@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-18T08:18:27+0000",
+	"publication_date": "2022-11-19T10:53:10+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
-		"alt": "Lila Iké",
+		"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format",
+		"alt": null,
 		"copyright": null,
-		"width": 2500,
-		"height": 2755,
-		"ratio": 0.9074410163339383
+		"width": 1462,
+		"height": 1217,
+		"ratio": 1.201314708299096
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x Lila Iké - Kendrick Lamar - Priya Ragu - Hope Tala - Pa Salieu  x Aitch - Stefflon Don x Spice - FKa Twigs x Shy Girl - Lila Iké - Biig Piig - SG Lewis x Lucky Daye x Kapote - Skip Marley x Pocaan - Wizkid - Blundetto x Voilaaa - Ghetto Boy - Tekno - Juls x Niniola -  Burna Boy x Wizkid - Crayon x Belle Shmurda - Juls x Tay Iwar x Twich 4EVA x Quamina Mp - FKA Twigs x pa Salieu - Falana x Ollade x Spax - Yebba - Vieux Farka Touré x Khruangbin - Sault - Dijon - Kaytranada x Thundercat - Buju Banton x Pharrell Williams - Emotional Oranges x Channel Tres - Terry Presume - Paw Paw rod - Raveena x Vince Staples - NSG - Youg T & Bugsey x Chronixx +++ Enjoy",
+					"text": "Hawa - Ice Spice - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Major Lazer x Major League Djz x Tiwa Savage x Diplo x DJ Maphorisa - Yaya  Bey x DJ Nativesun - SG Lewis x Lucky Daye x Kapote - Swae Lee x Drake - Biig Piig - Jorja Smith x Joy Orbison - Skip Marley x Popcaan - Blundetto x Voilaaa - Enyel C x MJ Nebreda - Ghetto Boy - Tekno - Juls x Niniola - Crayon x Bella Shmurda - Wizkid - Priya Ragu - Oshun - Nathy Peluso & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/52362e75-1026-4658-be1f-7b1c600e2924_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Stefflon Don",
+					"url": "https://images.prismic.io/x-track-mag/ff2387be-51c0-46f6-b09a-ad169565e537_LILA+IKE++.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
+					"alt": "Lila Iké",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5b94916d-cfa7-444b-ba33-31ff22a8d45b_Kendrick+lamar+.jpg?auto=compress,format&rect=0,0,1365,1365&w=1024&h=1024",
-					"alt": "Kendrick Lamar",
+					"url": "https://images.prismic.io/x-track-mag/0fb61de6-bb89-4fd1-b7fb-75910f0caeef_PA+Salieu.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
+					"alt": "PA Salieu",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1273,
+					"ratio": 0.8043990573448547
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b163cedc-04d9-41b1-8f90-7a782228957f_Priya-Ragu.jpg?auto=compress,format&rect=0,0,1704,1321&w=1024&h=794",
-					"alt": "Priya Ragu",
+					"url": "https://images.prismic.io/x-track-mag/5b7850df-ab70-464b-9569-a3498c0f176b_Hawa.-.jpg?auto=compress,format&rect=0,0,1612,1266&w=1024&h=804",
+					"alt": "Hawa",
 					"copyright": null,
 					"width": 1024,
-					"height": 794,
-					"ratio": 1.2896725440806045
+					"height": 804,
+					"ratio": 1.2736318407960199
 				}
 			]
 		},
@@ -79,12 +79,12 @@
 					"ratio": 1.0029382957884427
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3aec0202-b12a-4ed1-b766-a6fe9475154a_Biig+Piig.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Biig Piig",
+					"url": "https://images.prismic.io/x-track-mag/52362e75-1026-4658-be1f-7b1c600e2924_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Stefflon Don",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -92,12 +92,12 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=79bb2ac9010e4d1c",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=2e6c145a6b37496b",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxblpGRslAoV4",
-					"title": "Feel Good par XTrack"
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxblpGRslAoV4?l=en",
+					"title": "Feel Good by XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/5068447124",
