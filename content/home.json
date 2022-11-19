@@ -80,19 +80,16 @@
 			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
-			"position": 20,
+			"position": 19,
 			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
 		},
 		{
+			"position": 20,
+			"uid": "old-school-reggae"
+		},
+		{
 			"position": 21,
-			"uid": "les-klon-hydre-pop-a-sept-tetes"
-		},
-		{
-			"position": 22,
 			"uid": "live-session-flowerybeard"
-		},
-		{
-			"position": 23
 		}
 	],
 	"selected_reads": [
@@ -550,29 +547,6 @@
 			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
-			"uid": "old-school-reggae",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2022-11-11T12:27:03+0000",
-			"title": "Reggae",
-			"subtitle": "Old School Reggae",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 777,
-				"ratio": 1.5444015444015444
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Old School Reggae"
-		},
-		{
 			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
 			"tags": [
 				"article"
@@ -596,28 +570,27 @@
 			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
-			"uid": "les-klon-hydre-pop-a-sept-tetes",
+			"uid": "old-school-reggae",
 			"tags": [
-				"article",
 				"music"
 			],
-			"publication_date": "2021-09-11T21:19:37+0000",
-			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
-			"subtitle": "",
-			"text_color": "green",
+			"publication_date": "2022-11-11T12:27:03+0000",
+			"title": "Reggae",
+			"subtitle": "Old School Reggae",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 1200,
+				"height": 777,
+				"ratio": 1.5444015444015444
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
+			"description": "Old School Reggae"
 		},
 		{
 			"uid": "live-session-flowerybeard",
@@ -828,6 +801,30 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+		},
+		{
+			"uid": "les-klon-hydre-pop-a-sept-tetes",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2021-09-11T21:19:37+0000",
+			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
+			"subtitle": "",
+			"text_color": "green",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
 			"uid": "polycool",
