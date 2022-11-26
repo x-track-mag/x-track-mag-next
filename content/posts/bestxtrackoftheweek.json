@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-11-26T11:11:49+0000",
+	"publication_date": "2022-11-26T11:17:01+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -76,12 +76,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ff2160a3-7ab3-4bfd-be9d-f5f2d2a55c70_Tekno.jpg?auto=compress,format&rect=0,0,1080,1166&w=1024&h=1106",
-					"alt": "Tekno",
+					"url": "https://images.prismic.io/x-track-mag/9a427626-e5d5-4001-a5a8-573a4f123f3a_made-in-paris.jpg?auto=compress,format&rect=0,0,1000,600&w=1024&h=614",
+					"alt": "MadeInParis",
 					"copyright": null,
 					"width": 1024,
-					"height": 1106,
-					"ratio": 0.9258589511754068
+					"height": 614,
+					"ratio": 1.6677524429967427
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/e91b7187-ae41-4eb9-be41-745895f82d5f_Ayra+Starr.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
