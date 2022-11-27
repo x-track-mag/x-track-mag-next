@@ -614,6 +614,29 @@
 			"description": "live session flowery beard mawon x-track mag"
 		},
 		{
+			"uid": "supersoul",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2022-11-27T15:50:57+0000",
+			"title": "Supersoul",
+			"subtitle": "Old School Hip Hop & Soul Music",
+			"text_color": "green",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/f4b5ccb4-2a45-4158-8c4a-f3e20d7c0240_Outkast.jpg?auto=compress,format",
+				"alt": "Outkast",
+				"copyright": null,
+				"width": 2016,
+				"height": 1350,
+				"ratio": 1.4933333333333334
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Old School Hip Hop & Soul Music"
+		},
+		{
 			"uid": "interview-moment-badbiche",
 			"tags": [
 				"interview",
