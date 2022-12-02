@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-11-26T11:30:39+0000",
+	"publication_date": "2022-12-02T22:57:42+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/5c807091-d948-4125-a9a2-82351231b768_Wizkid+.jpg?auto=compress,format",
-		"alt": "Wizkid ",
+		"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format",
+		"alt": "Oxlade",
 		"copyright": null,
-		"width": 2400,
-		"height": 3000,
-		"ratio": 0.8
+		"width": 1200,
+		"height": 1200,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Wizkid x Don Toliver - Stormzy - Insane Chips x Tekno - BNXN fka Buju - MadeInParis - Emotional Oranges - Busy Signal x Jeffwon - Lu City x Kalash - Madk!d x Polanskyy x Besako - Ria Sean x Ayra Starr - Pharrell Williams x Travis Scott - Ruger - T'neeya & ++++",
+					"text": "Neil Frances x PawPaw Rod - DJ Tunez x Amexin - Sarkodie x Oxlade - Jeshi - Yemi Alade x Joé Dwèt Filé - Wizkid - Show Dem Camp x Oxlade - Stormzy - Mirrikle x Tekno - Frenna x Franglish x Lafropop - Oché - Emotional Oranges -  Fally Ipupa - Maro x Sonastério - Enny x Unknow T - Bawo x ReekO Dré Six - Nathan Elias x Martha Da'ro & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2d4afe70-f5f7-471d-a35e-b0d737ef2198_Emotional+Oranges.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Emotional Oranges",
+					"url": "https://images.prismic.io/x-track-mag/2ead519c-c026-4f0e-961e-c89c13852b1b_Enny.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a4159a2a-6c1d-4023-b8ce-8b0ac701105c_Stormzy+.jpg?auto=compress,format&rect=0,0,920,584&w=1024&h=650",
-					"alt": "Stormzy",
+					"url": "https://images.prismic.io/x-track-mag/b43c2963-ac58-441b-a095-fc7e56d2a11a_PawPaw+Rod.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
+					"alt": "PawPaw Rod",
 					"copyright": null,
 					"width": 1024,
-					"height": 650,
-					"ratio": 1.5753846153846154
+					"height": 682,
+					"ratio": 1.501466275659824
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2bea3c77-34f2-4d1b-a4fa-73de94046d1d_Ria+Sean+.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
-					"alt": "Ria Sean",
+					"url": "https://images.prismic.io/x-track-mag/cd84be03-5778-4561-8297-7bbff41f4366_Maro.jpg?auto=compress,format&rect=0,0,1080,1348&w=1024&h=1278",
+					"alt": "Maro",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1278,
+					"ratio": 0.8012519561815337
 				}
 			]
 		},
@@ -68,24 +68,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f0dd5909-8d4d-497f-a2d3-230e8bec77ea_T%27neeya.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "T'neeya",
+					"url": "https://images.prismic.io/x-track-mag/37d32bf1-61c1-4614-a257-b1c675e68828_DJ+Tunez.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "DJ Tunez",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9a427626-e5d5-4001-a5a8-573a4f123f3a_made-in-paris.jpg?auto=compress,format&rect=0,0,1000,600&w=1024&h=614",
-					"alt": "MadeInParis",
+					"url": "https://images.prismic.io/x-track-mag/fead5722-e42d-4538-b55a-d7aa2ad9096c_Yemi+Alade.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Yemi Alade",
 					"copyright": null,
 					"width": 1024,
-					"height": 614,
-					"ratio": 1.6677524429967427
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e91b7187-ae41-4eb9-be41-745895f82d5f_Ayra+Starr.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/826a492c-73f1-4036-ad3b-4fc2f3068d47_Neil+Frances.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Neil Frances",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=d96a57b87fa04f4f",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=61559aa7315e46ba",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
