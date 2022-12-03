@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-11-11T12:27:17+0000",
+	"publication_date": "2022-12-03T09:25:09+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format",
-		"alt": "Oxlade",
+		"url": "https://images.prismic.io/x-track-mag/5c807091-d948-4125-a9a2-82351231b768_Wizkid+.jpg?auto=compress,format",
+		"alt": "Wizkid ",
 		"copyright": null,
-		"width": 1200,
-		"height": 1200,
-		"ratio": 1
+		"width": 2400,
+		"height": 3000,
+		"ratio": 0.8
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -42,12 +42,12 @@
 					"ratio": 1.4670487106017192
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/73c040a4-aea2-4fb6-87da-270112d55337_Wizkid.jpg?auto=compress,format&rect=0,0,1463,2047&w=1024&h=1433",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Oxlade",
 					"copyright": null,
 					"width": 1024,
-					"height": 1433,
-					"ratio": 0.7145847871598046
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/8a9979d2-39a5-4a4c-a1c7-819624f6735b_Tiwa-Savage-.jpg?auto=compress,format&rect=0,0,1440,1318&w=1024&h=937",
