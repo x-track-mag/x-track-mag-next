@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-04T07:56:08+0000",
-	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine",
+	"publication_date": "2022-12-10T09:45:57+0000",
+	"title": "Best ”XTrack“ of 2022",
+	"subtitle": "Les meilleurs sons de l'année",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format",
-		"alt": "Oxlade",
+		"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+		"alt": "Sudan Archives",
 		"copyright": null,
-		"width": 1200,
-		"height": 1200,
+		"width": 3000,
+		"height": 3000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -25,12 +25,12 @@
 			"text": [
 				{
 					"type": "heading3",
-					"text": "Les meilleurs sons de la semaine",
+					"text": "Les meilleurs sons de l'année",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Neil Frances x PawPaw Rod - DJ Tunez x Amexin - Sarkodie x Oxlade - Jeshi - Yemi Alade x Joé Dwèt Filé - Wizkid - Show Dem Camp x Oxlade - Stormzy x Amaarae x Black Sherif x Ms Banks, x Storry x Jacob Collier- Mirrikle x Tekno - Frenna x Franglish x Lafropop - Oché - Emotional Oranges -  Fally Ipupa - Maro x Sonastério - Enny x Unknow T - Bawo x ReekO - Dré Six - Nathan Elias x Martha Da'ro & ++++",
+					"text": "Protoje x Iotosh - Neil Frances x PawPaw Rod - Ivy Sole - Sudan Archives - Jobo x Bogo - Tiwa Savage x Zinoleesky - Stormzy - Rema x Selena Gomez - Wizkid -  Ezechiel Pailhes - Chaton - Kasi3 - Oxlade - Burna Boy x Ed Sheeran - MadeInparis - Ice Spice - Jeshi - Stefflon Don x Spice - Priya Ragu - Biig Piig - Major Lazer - Juls x Tay Iwar - Kendrick Lamar - Yaya Bey - Lila Iké - Show Dem Camps x Tems - Asa - Boj - Ibeyi - Myra - Ben L'Oncle Soul - Afternoon Bike Ride - Hawa - FKA Twigs - Oshun - & ++++",
 					"spans": []
 				}
 			]
@@ -39,8 +39,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2ead519c-c026-4f0e-961e-c89c13852b1b_Enny.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/ac7450f7-cc61-435e-aad6-2ad76cf99a00_Ice+Spice.+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -55,12 +55,12 @@
 					"ratio": 1.501466275659824
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/cd84be03-5778-4561-8297-7bbff41f4366_Maro.jpg?auto=compress,format&rect=0,0,1080,1348&w=1024&h=1278",
-					"alt": "Maro",
+					"url": "https://images.prismic.io/x-track-mag/8a9979d2-39a5-4a4c-a1c7-819624f6735b_Tiwa-Savage-.jpg?auto=compress,format&rect=0,0,1440,1318&w=1024&h=937",
+					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
+					"height": 937,
+					"ratio": 1.0928495197438635
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/37d32bf1-61c1-4614-a257-b1c675e68828_DJ+Tunez.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "DJ Tunez",
+					"url": "https://images.prismic.io/x-track-mag/ff2387be-51c0-46f6-b09a-ad169565e537_LILA+IKE++.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
+					"alt": "Lila Iké",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5c807091-d948-4125-a9a2-82351231b768_Wizkid+.jpg?auto=compress,format&rect=0,0,2400,3000&w=1024&h=1280",
+					"alt": "Wizkid ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/2ea21fae-8d04-45e2-9db3-7680a74b5564_Myra.jpg?auto=compress,format&rect=0,0,679,679&w=1024&h=1024",
+					"alt": "Myra",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/fead5722-e42d-4538-b55a-d7aa2ad9096c_Yemi+Alade.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Yemi Alade",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/826a492c-73f1-4036-ad3b-4fc2f3068d47_Neil+Frances.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Neil Frances",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
 				}
 			]
 		},
@@ -97,23 +97,23 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=61559aa7315e46ba",
-					"title": "Best ”XTrack“ of the Week"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=1dd8236137e847fa",
+					"title": "Best ”XTrack“ of 2022"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lmKDFDY8qp?l=en",
-					"title": "Best ”XTrack“ of the Week by XTrack"
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2022/pl.u-kv9lmKDFDY8qp?l=en",
+					"title": "Best ”XTrack“ of 2022 by XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
-					"title": "Best ”XTrack“ of the Week"
+					"title": "Best ”XTrack“ of 2022"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-					"title": "Best ”XTrack“ of the Week"
+					"title": "Best ”XTrack“ of 2022"
 				}
 			]
 		}
 	],
-	"description": "Playlist des meilleurs sons de la semaine"
+	"description": "Playlist des meilleurs sons de 2022"
 }

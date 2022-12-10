@@ -162,23 +162,23 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-12-04T07:56:08+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine",
+			"publication_date": "2022-12-10T09:45:57+0000",
+			"title": "Best ”XTrack“ of 2022",
+			"subtitle": "Les meilleurs sons de l'année",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format",
-				"alt": "Oxlade",
+				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+				"alt": "Sudan Archives",
 				"copyright": null,
-				"width": 1200,
-				"height": 1200,
+				"width": 3000,
+				"height": 3000,
 				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "Playlist des meilleurs sons de 2022"
 		},
 		{
 			"uid": "live-session-badbiche",
