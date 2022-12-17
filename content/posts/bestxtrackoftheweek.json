@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-11T09:30:54+0000",
+	"publication_date": "2022-12-17T12:17:57+0000",
 	"title": "Best ”XTrack“ of 2022",
 	"subtitle": "Les meilleurs sons de l'année",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-		"alt": "Sudan Archives",
+		"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format",
+		"alt": "Little Simz",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
-		"ratio": 1
+		"width": 2050,
+		"height": 2733,
+		"ratio": 0.7500914745700695
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Protoje x Iotosh - Neil Frances x PawPaw Rod - Ivy Sole - Sudan Archives - Jobo x Bogo - Tiwa Savage x Zinoleesky - Stormzy - Rema x Selena Gomez - Wizkid -  Ezechiel Pailhes - Chaton - Kasi3 - Oxlade - Burna Boy x Ed Sheeran - MadeInparis - Ice Spice - Jeshi - Stefflon Don x Spice - Priya Ragu - Biig Piig - Major Lazer - Juls x Tay Iwar - Kendrick Lamar - Yaya Bey - Lila Iké - Show Dem Camps x Tems - Asa - Boj - Ibeyi - Myra - Ben L'Oncle Soul - Afternoon Bike Ride - Hawa - Fireboy DML - FKA Twigs - Oshun - & ++++",
+					"text": "SZA x Don toliver - Little Simz - Protoje x Iotosh - Neil Frances x PawPaw Rod - Ivy Sole - Sudan Archives - Jobo x Bogo - Tiwa Savage x Zinoleesky - Stormzy - Rema x Selena Gomez - Wizkid -  Ezechiel Pailhes - Chaton - Kasi3 - Oxlade - Burna Boy x Ed Sheeran - MadeInparis - Ice Spice - Jeshi - Stefflon Don x Spice - Priya Ragu - Biig Piig - Major Lazer - Juls x Tay Iwar - Kendrick Lamar - Yaya Bey - Lila Iké - Zack Fox - Show Dem Camps x Tems - Asa - Boj - Ibeyi - Myra - Ben L'Oncle Soul - Afternoon Bike Ride - Hawa - Fireboy DML - FKA Twigs - Oshun - & ++++",
 					"spans": []
 				}
 			]
@@ -55,12 +55,12 @@
 					"ratio": 1.501466275659824
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8a9979d2-39a5-4a4c-a1c7-819624f6735b_Tiwa-Savage-.jpg?auto=compress,format&rect=0,0,1440,1318&w=1024&h=937",
-					"alt": "Tiwa Savage",
+					"url": "https://images.prismic.io/x-track-mag/ebc72e37-4c35-4d16-bede-962e66978b85_SZA+.jpg?auto=compress,format&rect=0,0,1252,785&w=1024&h=642",
+					"alt": "SZA",
 					"copyright": null,
 					"width": 1024,
-					"height": 937,
-					"ratio": 1.0928495197438635
+					"height": 642,
+					"ratio": 1.5950155763239875
 				}
 			]
 		},
@@ -68,12 +68,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ff2387be-51c0-46f6-b09a-ad169565e537_LILA+IKE++.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
-					"alt": "Lila Iké",
+					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
+					"alt": "Sudan Archives",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/5c807091-d948-4125-a9a2-82351231b768_Wizkid+.jpg?auto=compress,format&rect=0,0,2400,3000&w=1024&h=1280",
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=1dd8236137e847fa",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=d4eb1a1377a842a0",
 					"title": "Best ”XTrack“ of 2022"
 				},
 				{
