@@ -296,17 +296,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-11-12T10:24:52+0000",
+			"publication_date": "2022-12-26T12:22:39+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill Vibes",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-				"alt": "Sudan Archives",
+				"url": "https://images.prismic.io/x-track-mag/359e4be2-6f74-481e-9b9f-e65ccdd5869a_Oshun+.jpg?auto=compress,format",
+				"alt": "Oshun",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 1179,
+				"height": 1766,
+				"ratio": 0.6676104190260476
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

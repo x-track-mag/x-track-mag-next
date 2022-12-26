@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-11-12T10:24:52+0000",
+	"publication_date": "2022-12-26T12:22:39+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-		"alt": "Sudan Archives",
+		"url": "https://images.prismic.io/x-track-mag/359e4be2-6f74-481e-9b9f-e65ccdd5869a_Oshun+.jpg?auto=compress,format",
+		"alt": "Oshun",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
-		"ratio": 1
+		"width": 1179,
+		"height": 1766,
+		"ratio": 0.6676104190260476
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Hope Tala - Chiiild - Patrice -  Hawa - Stormzy x Tems x Äyanna x Owen Cutts - Protoje x Iotosh - Show Dem Camp x Tems - Myra - Sudan Archives - Ezéchiel Pailhès - Oshun - Chaton - Leisure x Sumac Dub - Bon Entendeur x Emma Peters - PawPaw Rod - Juls x Fireboy DML - Jungle - Gabriels - Juls x Tay Iwar x P-Rallel - Khruangbin - Biig Piig - Arlo Parks & +++ enjoy",
+					"text": "Patrice - Hope Tala - Neil Francis x PawPaw Rod - Protoje x Iotosh - Show Dem Camp x Tems - Greentea Peng - Mavi - Sudan Archives - Ezéchiel Pailhès - Stormzy - Oshun - Chaton - Bon Entendeur x Emma Peters - Juls x Fireboy DML x Tay Iwar x P-Rallel - Chiiild - Jungle - Gabriels - Khruangbin - Biig Piig - Arlo Parks - Patchworks x Pat Kalla - Myra - Babeheaven - H.E.R. & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -34,20 +34,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5b7850df-ab70-464b-9569-a3498c0f176b_Hawa.-.jpg?auto=compress,format&rect=0,0,1612,1266&w=1024&h=804",
-					"alt": "Hawa",
+					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
+					"alt": "Sudan Archives",
 					"copyright": null,
 					"width": 1024,
-					"height": 804,
-					"ratio": 1.2736318407960199
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ee54ae90-7752-4858-bfd8-e186e654e4bd_Fireboy+DML.jpg?auto=compress,format&rect=0,0,958,1196&w=1024&h=1278",
-					"alt": "Fireboy DML",
+					"url": "https://images.prismic.io/x-track-mag/b43c2963-ac58-441b-a095-fc7e56d2a11a_PawPaw+Rod.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
+					"alt": "PawPaw Rod",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
+					"height": 682,
+					"ratio": 1.501466275659824
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/2ca39135-21be-40a2-93f0-a6b020f9aeb1_Tems.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -71,12 +71,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
-					"alt": "juls",
+					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format&rect=0,0,2046,1229&w=1024&h=615",
+					"alt": "Greentea Peng",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 615,
+					"ratio": 1.665040650406504
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/58f89932-679d-47a3-97a4-a7a591858ca7_Hope+Tala.jpg?auto=compress,format&rect=0,0,1080,1205&w=1024&h=1143",
@@ -92,7 +92,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=70ffdb1d7a4345aa",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=bfc248c76a884e72",
 					"title": "New romance"
 				},
 				{
