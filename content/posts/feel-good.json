@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-11-19T12:19:11+0000",
+	"publication_date": "2022-12-26T12:41:34+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Ice Spice - Hawa - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Major Lazer x Major League Djz x Tiwa Savage x Diplo x DJ Maphorisa - Yaya  Bey x DJ Nativesun - SG Lewis x Lucky Daye x Kapote - Swae Lee x Drake - Biig Piig - Jorja Smith x Joy Orbison - Skip Marley x Popcaan - Blundetto x Voilaaa - Enyel C x MJ Nebreda - Ghetto Boy - Tekno - Juls x Niniola - Crayon x Bella Shmurda - Wizkid - Priya Ragu - Oshun - Nathy Peluso & +++ Enjoy",
+					"text": "Little Simz - Ice Spice - Hawa - Jeshi - Ivy Sole - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Major Lazer x Major League Djz x Tiwa Savage x Diplo x DJ Maphorisa - Yaya  Bey x DJ Nativesun - SG Lewis x Lucky Daye x Kapote - Swae Lee x Drake - Biig Piig - Skip Marley x Popcaan - Blundetto x Voilaaa - Enyel C x MJ Nebreda - Ghetto Boy - Tekno - Juls x Niniola x Twich4EVA x Quamina Mp - Crayon x Bella Shmurda - Wizkid - Priya Ragu - Oshun - Nathy Peluso & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ff2387be-51c0-46f6-b09a-ad169565e537_LILA+IKE++.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
-					"alt": "Lila Iké",
+					"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format&rect=0,0,2050,2733&w=1024&h=1365",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/0fb61de6-bb89-4fd1-b7fb-75910f0caeef_PA+Salieu.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
@@ -92,7 +92,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=2e6c145a6b37496b",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=cadf662e949a4134",
 					"title": "Feel Good"
 				},
 				{
