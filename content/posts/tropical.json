@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-10-10T16:38:12+0000",
+	"publication_date": "2022-12-28T11:10:14+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Show Dem Camp x Tems- Boj - BNXN fka Buju x Wizkid- Juls x Tay Iwar - Jojo x Bogo - The Cavemen -  Antonin x Voilaaa - Juls x Agent Sasco - Simi - Kidi x Tiga - Bitty McLean - Pachyman x Winter - Yung L - Enyel C X MJ Nebreda - Blundetto x Voilaaa - Tekno - Juls x Fireboy DML x Sauti Sol - YKB - Jada Kingdom - Soul Sugar x Leo Carmichael x Sly & Robbie - Lila Iké - Popcaan - Pabrymo x Teni -  Samthing Soweto - Asa - Vybz Kartel Rimon - Koffee - Mr Eazi - Bush Tea - Ayanfe x Davido & +++",
+					"text": "Show Dem Camp x Tems- Boj - The Cavemen - Wizkid x Don Toliver - BNXN fka Buju - Teni - Kidi x Tyga - Yaya Bey - Busy Signal x Jeffwon - Bitty McLean - Pachyman x Winter - Yung L - Enyel C X MJ Nebreda - Ghetto Boy - Skip Marley x Popcaan x Ayra Starr - Blundetto x Voilaaa - Juls x Twich4EVA x Quamina Mp - Tekno - Jobo x Bogo - Asa - Simi - Juniper x Sango x Vhoor - Black Sherif - Protoje x Iotosh - Tera Kora x Yung D3mz - Lila Iké - Jada Kingdom - Antonin x Voilaaa - Samthing Soweto  & +++",
 					"spans": []
 				}
 			]
@@ -63,12 +63,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/89a231fb-a034-40d0-a341-1aabdc758923_Simi.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Simi",
+					"url": "https://images.prismic.io/x-track-mag/daf99cbf-26c8-4d1f-8084-f41f3ee3562a_Teni--.jpg?auto=compress,format&rect=0,0,1668,1137&w=1024&h=698",
+					"alt": "Teni",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 698,
+					"ratio": 1.4670487106017192
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
