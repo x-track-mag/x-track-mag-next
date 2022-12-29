@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-26T12:41:34+0000",
+	"publication_date": "2022-12-29T23:50:38+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Little Simz - Ice Spice - Hawa - Jeshi - Ivy Sole - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Major Lazer x Major League Djz x Tiwa Savage x Diplo x DJ Maphorisa - Yaya  Bey x DJ Nativesun - SG Lewis x Lucky Daye x Kapote - Swae Lee x Drake - Biig Piig - Skip Marley x Popcaan - Blundetto x Voilaaa - Enyel C x MJ Nebreda - Ghetto Boy - Tekno - Juls x Niniola x Twich4EVA x Quamina Mp - Crayon x Bella Shmurda - Wizkid - Priya Ragu - Oshun - Nathy Peluso & +++ Enjoy",
+					"text": "Smino - Little Simz - Ice Spice - Hawa - Aka x Nasty C - Jeshi - Ivy Sole - Coi Leray - Maandy x Mejja - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Major Lazer x Major League Djz x Tiwa Savage x Diplo x DJ Maphorisa - Yaya  Bey x DJ Nativesun - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Ghetto Boy - Tekno - Wizkid - Priya Ragu - Oshun - Nathy Peluso & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -71,20 +71,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
-					"alt": "Juls",
+					"url": "https://images.prismic.io/x-track-mag/7eabc9c4-8aab-4f91-ae7d-933dafdb8e0e_Smino.jpg?auto=compress,format&rect=0,0,1080,864&w=1024&h=819",
+					"alt": "Smino",
 					"copyright": null,
 					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
+					"height": 819,
+					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/52362e75-1026-4658-be1f-7b1c600e2924_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Stefflon Don",
-					"copyright": null,
+					"url": "https://images.prismic.io/x-track-mag/aa65a05e-079e-4990-a032-8da592b005b4_Coi+Leray+.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": null,
+					"copyright": "Coi Leray",
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
