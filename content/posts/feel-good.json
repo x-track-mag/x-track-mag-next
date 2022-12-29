@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-29T23:51:22+0000",
+	"publication_date": "2022-12-29T23:53:23+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -42,20 +42,20 @@
 					"ratio": 0.7501831501831502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0fb61de6-bb89-4fd1-b7fb-75910f0caeef_PA+Salieu.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
-					"alt": "PA Salieu",
+					"url": "https://images.prismic.io/x-track-mag/7eabc9c4-8aab-4f91-ae7d-933dafdb8e0e_Smino.jpg?auto=compress,format&rect=0,0,1080,864&w=1024&h=819",
+					"alt": "Smino",
 					"copyright": null,
 					"width": 1024,
-					"height": 1273,
-					"ratio": 0.8043990573448547
+					"height": 819,
+					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5b7850df-ab70-464b-9569-a3498c0f176b_Hawa.-.jpg?auto=compress,format&rect=0,0,1612,1266&w=1024&h=804",
-					"alt": "Hawa",
+					"url": "https://images.prismic.io/x-track-mag/aa65a05e-079e-4990-a032-8da592b005b4_Coi+Leray+.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Coi Leray",
 					"copyright": null,
 					"width": 1024,
-					"height": 804,
-					"ratio": 1.2736318407960199
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -71,20 +71,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7eabc9c4-8aab-4f91-ae7d-933dafdb8e0e_Smino.jpg?auto=compress,format&rect=0,0,1080,864&w=1024&h=819",
-					"alt": "Smino",
+					"url": "https://images.prismic.io/x-track-mag/0fb61de6-bb89-4fd1-b7fb-75910f0caeef_PA+Salieu.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
+					"alt": "PA Salieu",
 					"copyright": null,
 					"width": 1024,
-					"height": 819,
-					"ratio": 1.2503052503052503
+					"height": 1273,
+					"ratio": 0.8043990573448547
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aa65a05e-079e-4990-a032-8da592b005b4_Coi+Leray+.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Coi Leray",
-					"copyright": "Coi Leray",
+					"url": "https://images.prismic.io/x-track-mag/95172183-90f0-4b9f-94f1-d12c5de1ba34_Hawa.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Hawa",
+					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
