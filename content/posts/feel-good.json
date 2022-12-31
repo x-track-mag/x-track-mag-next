@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-29T23:57:45+0000",
+	"publication_date": "2022-12-31T09:52:01+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Smino - Little Simz - Ice Spice - Hawa - Aka x Nasty C - Jeshi - Ivy Sole - Coi Leray - Maandy x Mejja - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Major Lazer x Major League Djz x Tiwa Savage x Diplo x DJ Maphorisa - Yaya  Bey x DJ Nativesun - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Ghetto Boy - Tekno - Wizkid - Priya Ragu - Oshun - Nathy Peluso & +++ Enjoy",
+					"text": "Smino - Little Simz - Ice Spice - Hawa - Aka x Nasty C - Jeshi - Ivy Sole - Maandy x Mejja - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Major Lazer x Major League Djz x Tiwa Savage x Diplo x DJ Maphorisa - Yaya  Bey x DJ Nativesun - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Ghetto Boy - Tekno - Wizkid - Priya Ragu - Oshun - Nathy Peluso & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -50,12 +50,12 @@
 					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/29f29da9-23f9-400b-af53-cbcb5a7f993a_Coi+Leray.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Coi Leray",
+					"url": "https://images.prismic.io/x-track-mag/ff2387be-51c0-46f6-b09a-ad169565e537_LILA+IKE++.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
+					"alt": "Lila Iké",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
