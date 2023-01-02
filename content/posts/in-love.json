@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-09-03T07:04:30+0000",
+	"publication_date": "2023-01-02T13:09:33+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"text_color": "inverted",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Arlo Parks - Lee Fields - Galimatias, Sabrina Claudio, Kyle Dion, Raury,  Gabriels, Amaria, Gabi hartmann - Delaney Bailey - Thee Sacred Soul - Jenevieve, MorMor, Cigarettes After Sex, Chiiild, Oklou, Mustafa, Yehra, Finley Quaye, Khruangbin, Omar Apollo, Rum.Gold, Common Saints, Celeste x Jeshi, Sault, The O'my's,  Baby Rose, (((o))) x Please Wait, Odie, Baby Fuzz, Agelo De Augustine,  Hope Sandoval & +++ 👆🏽👆🎼🎧",
+					"text": "Arlo Parks - Gabriels - Thomas Caruso Aragona - Men I Trust - Mustafa - Gabi Hartmann - Rosalia - Galimatias -  Kyle Dion -  Sabrina Claudio-  Saint Levant x Bayou x Playyard - Odie - Delaney Bailey - Yehra - Oklou - The Om's - Finley Quaye - Khruangbin - Cigarettes After Sex - MorMor - Chiiild - Jesse Boykins III - Rum.Gold - Common Saints - La Femme - Sault - Cautious Clay - Bashfortheworld - Bruno Mars x Anderson Paak - Disiz x Yseult - Jenevieve - amaria  & +++ 👆🏽👆🎼🎧",
 					"spans": []
 				}
 			]
@@ -52,12 +52,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ee943815-990d-4098-bce4-52d0e3c6137d_Jenevieve.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Jenevieve",
+					"url": "https://images.prismic.io/x-track-mag/f21682f9-c781-4642-b6d6-8311f2ac9f1c_Rosalia+.jpg?auto=compress,format&rect=0,0,1038,1374&w=1024&h=1355",
+					"alt": "Rosalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1355,
+					"ratio": 0.7557195571955719
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/04887461-4c79-4910-85fc-9134bf2b790b_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -81,12 +81,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6b475e3c-2dda-4984-a1fb-ccad2d8267db_%28%28%28o%29%29%29+.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "(((o)))",
+					"url": "https://images.prismic.io/x-track-mag/1ae0af90-56c5-4863-9e8a-b0af154982d1_Thomas+Caruso+Aragona.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Thomas Caruso Aragona",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/dbdba897-51c2-4cb8-bac1-7a0d508d2cd7_Khruangbin.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
