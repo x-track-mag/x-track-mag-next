@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-28T15:04:15+0000",
+	"publication_date": "2023-01-02T11:04:18+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Burna Boy - Teni - Wizkid - DJ Tunez x Amexin - Ayra Starr - Falana x Oxlade x Spax - Juls x Niniola x Busiwa x Jaz Karis - Tekno x Mafikizolo -Tiwa Savage x Zinoleesky - Major Lazer -  Krizbeatz x Harmonize x DJ Tira - The Cavemen & ++++ Enjoy",
+					"text": "Burna Boy  x Ed Sheeran - Teni - Wizkid - DJ Tunez x Amexin - Ayra Starr - Falana x Oxlade x Spax - Juls x Niniola x Busiwa x Jaz Karis - Tekno x Mafikizolo -Tiwa Savage x Zinoleesky - Major Lazer -  Krizbeatz x Harmonize x DJ Tira - The Cavemen & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -42,12 +42,12 @@
 					"ratio": 1.4670487106017192
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Oxlade",
+					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/8a9979d2-39a5-4a4c-a1c7-819624f6735b_Tiwa-Savage-.jpg?auto=compress,format&rect=0,0,1440,1318&w=1024&h=937",
@@ -71,12 +71,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Oxlade",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7a5dd449-2866-4ef0-acb7-a6abe479474b_Falana+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
@@ -110,5 +110,5 @@
 			]
 		}
 	],
-	"description": "Burna Boy - Teni - Wizkid - DJ Tunez x Amexin - Ayra Starr - Falana x Oxlade x Spax - Juls x Niniola x Busiwa x Jaz Karis - Tekno x Mafikizolo -Tiwa Savage x Zinoleesky - Major Lazer -  Krizbeatz x Harmonize x DJ Tira - The Cavemen & ++++ Enjoy"
+	"description": "Burna Boy  x Ed Sheeran - Teni - Wizkid - DJ Tunez x Amexin - Ayra Starr - Falana x Oxlade x Spax - Juls x Niniola x Busiwa x Jaz Karis - Tekno x Mafikizolo -Tiwa Savage x Zinoleesky - Major Lazer -  Krizbeatz x Harmonize x DJ Tira - The Cavemen & ++++ Enjoy"
 }
