@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-31T09:56:33+0000",
+	"publication_date": "2023-01-07T16:15:11+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format",
-		"alt": "Ice Spice",
+		"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format",
+		"alt": "Little Simz",
 		"copyright": null,
-		"width": 1462,
-		"height": 1217,
-		"ratio": 1.201314708299096
+		"width": 2050,
+		"height": 2733,
+		"ratio": 0.7500914745700695
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Smino - Little Simz - Ice Spice - Hawa - Aka x Nasty C - Jeshi - Ivy Sole - Maandy x Mejja - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Major Lazer x Tiwa Savage - Yaya  Bey x DJ Nativesun - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Ghetto Boy - Tekno - Wizkid - Priya Ragu - Oshun - Nathy Peluso & +++ Enjoy",
+					"text": "Smino - - Stormzy x FLO - Little Simz - Ice Spice - Kida Kudz - Popcaan x Drake - Hawa - Jeshi - Buruklyn Boyz - Maandy x Mejja - Ivy Sole - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch -Hawa - Aka x nasty C -Stefflon Don x Spice - FK+A Twigs x Shygirl - Central Cee - Major Lazer x Tiwa Savage - yaya Bey x DJ Nativesun  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -79,12 +79,12 @@
 					"ratio": 0.8043990573448547
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5b7850df-ab70-464b-9569-a3498c0f176b_Hawa.-.jpg?auto=compress,format&rect=0,0,1612,1266&w=1024&h=804",
-					"alt": "Hawa",
+					"url": "https://images.prismic.io/x-track-mag/431979c1-e474-4805-b393-5b097766d3dd_Ice+Spice+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
-					"height": 804,
-					"ratio": 1.2736318407960199
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -92,16 +92,12 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=cadf662e949a4134",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=b2aadb0dccb74202",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxblpGRslAoV4?l=en",
-					"title": "Feel Good by XTrack"
-				},
-				{
-					"url": "https://www.deezer.com/us/playlist/5068447124",
-					"title": "Feel Good"
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxblpGRslAoV4",
+					"title": "Feel Good par XTrack"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBSdUIznSTPX50N0fcgQpEb",
