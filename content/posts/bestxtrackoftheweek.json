@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-23T09:52:54+0000",
-	"title": "Best ”XTrack“ of 2022",
-	"subtitle": "Les meilleurs sons de l'année",
+	"publication_date": "2023-01-07T11:40:37+0000",
+	"title": "Best ”XTrack“ of the Week",
+	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format",
-		"alt": "Little Simz",
+		"url": "https://images.prismic.io/x-track-mag/b293d79a-5daa-497d-9dcb-37baf0989091_FLO---.jpg?auto=compress,format",
+		"alt": "FLO",
 		"copyright": null,
-		"width": 2050,
-		"height": 2733,
-		"ratio": 0.7500914745700695
+		"width": 1703,
+		"height": 1346,
+		"ratio": 1.2652303120356612
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,12 +25,12 @@
 			"text": [
 				{
 					"type": "heading3",
-					"text": "Les meilleurs sons de l'année",
+					"text": "Les meilleurs sons de la semaine",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Azekel - Little Simz - 255 x jujuboy x SFR - Mavi - Greentea Peng - Chaton - Zinoleesky - Neil Frances x PawPaw Rod - Ivy sole - Sudan Archives - Stormzy - Rema x Selena Gomez - Wizkid - Ezechiel Pailhes - Oxlade - Burna Boy x Ed Sheeran - MadeInParis - Ice Spice - Jeshi - Stefflon Don x Spice - Jobo x Bogo - Priya Ragu - Tiwa Savage -  Biig Piig - Major Lazer - Juls x Tay Iwar - Kendrick Lamar - Yaya Bey - Lila Iké - Show Dem Camps x Tems - Asa - Boj - Ibeyi - Myra - SZA & ++++",
+					"text": "Stormzy x Flo - Popcaan x Drake - Kida Kudz - Buruklyn Boyz - Central Cee - Bantu - Joesef - Sbtrkt x Leilah - Little Simz - Protoje x Iotosh - Mavi - Neil Francis x PawPaw Rod - Ivy Sole - Sudan Archives & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ac7450f7-cc61-435e-aad6-2ad76cf99a00_Ice+Spice.+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ice Spice",
+					"url": "https://images.prismic.io/x-track-mag/36516997-af6f-4e2f-a19e-090846610a02_Popcaan.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
+					"alt": "Popcaan",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b43c2963-ac58-441b-a095-fc7e56d2a11a_PawPaw+Rod.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
-					"alt": "PawPaw Rod",
+					"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format&rect=0,0,2050,2733&w=1024&h=1365",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ebc72e37-4c35-4d16-bede-962e66978b85_SZA+.jpg?auto=compress,format&rect=0,0,1252,785&w=1024&h=642",
-					"alt": "SZA",
+					"url": "https://images.prismic.io/x-track-mag/c0054def-21e1-48d0-b206-669a46821cf6_Central+Cee+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Central Cee",
 					"copyright": null,
 					"width": 1024,
-					"height": 642,
-					"ratio": 1.5950155763239875
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Sudan Archives",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5c807091-d948-4125-a9a2-82351231b768_Wizkid+.jpg?auto=compress,format&rect=0,0,2400,3000&w=1024&h=1280",
-					"alt": "Wizkid ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2ea21fae-8d04-45e2-9db3-7680a74b5564_Myra.jpg?auto=compress,format&rect=0,0,679,679&w=1024&h=1024",
-					"alt": "Myra",
+					"url": "https://images.prismic.io/x-track-mag/45d65779-56c0-4052-9c5e-ff2cad9ec927_Drake.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Drake",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/0a3018c1-5289-4a2b-b013-0b271aa96333_Sudan-Archives.jpg?auto=compress,format&rect=0,0,1500,1252&w=1024&h=855",
+					"alt": "Sudan Archives",
+					"copyright": null,
+					"width": 1024,
+					"height": 855,
+					"ratio": 1.1976608187134503
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
+					"alt": "Kida Kudz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				}
 			]
 		},
@@ -97,23 +97,23 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=3322e5a3c91746a8",
-					"title": "Best ”XTrack“ of 2022"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=22912c7cf73f4c2f",
+					"title": "Best ”XTrack“ of The Week"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-2022/pl.u-kv9lmKDFDY8qp?l=en",
-					"title": "Best ”XTrack“ of 2022 by XTrack"
+					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lmKDFDY8qp",
+					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/4099699282",
-					"title": "Best ”XTrack“ of 2022"
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-					"title": "Best ”XTrack“ of 2022"
+					"title": "Best ”XTrack“ of the Week"
 				}
 			]
 		}
 	],
-	"description": "Playlist des meilleurs sons de 2022"
+	"description": "Playlist des meilleurs sons de la semaine"
 }

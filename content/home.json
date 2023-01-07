@@ -162,23 +162,23 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2022-12-23T09:52:54+0000",
-			"title": "Best ”XTrack“ of 2022",
-			"subtitle": "Les meilleurs sons de l'année",
+			"publication_date": "2023-01-07T11:40:37+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format",
-				"alt": "Little Simz",
+				"url": "https://images.prismic.io/x-track-mag/b293d79a-5daa-497d-9dcb-37baf0989091_FLO---.jpg?auto=compress,format",
+				"alt": "FLO",
 				"copyright": null,
-				"width": 2050,
-				"height": 2733,
-				"ratio": 0.7500914745700695
+				"width": 1703,
+				"height": 1346,
+				"ratio": 1.2652303120356612
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de 2022"
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "live-session-badbiche",
