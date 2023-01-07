@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-07T11:42:27+0000",
+	"publication_date": "2023-01-07T15:41:13+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stormzy x Flo - Popcaan x Drake - Kida Kudz - Buruklyn Boyz - Central Cee - Bantu - Joesef - Sbtrkt x Leilah - Little Simz - Protoje x Iotosh - Mavi - Neil Francis x PawPaw Rod - Ivy Sole - Sudan Archives & ++++",
+					"text": "Stormzy x Flo - Popcaan x Drake - Kida Kudz - Ice Spice - Buruklyn Boyz - Central Cee - Bantu - Joesef - Sbtrkt x Leilah - Little Simz - Protoje x Iotosh - Mavi - Neil Francis x PawPaw Rod - Ivy Sole - Sudan Archives & ++++",
 					"spans": []
 				}
 			]
@@ -76,12 +76,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0a3018c1-5289-4a2b-b013-0b271aa96333_Sudan-Archives.jpg?auto=compress,format&rect=0,0,1500,1252&w=1024&h=855",
-					"alt": "Sudan Archives",
+					"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format&rect=0,0,1462,1216&w=1024&h=852",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
-					"height": 855,
-					"ratio": 1.1976608187134503
+					"height": 852,
+					"ratio": 1.2018779342723005
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
