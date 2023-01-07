@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-07T16:15:11+0000",
+	"publication_date": "2023-01-07T16:24:22+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format&rect=0,0,2050,2733&w=1024&h=1365",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format&rect=0,0,1462,1216&w=1024&h=852",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"height": 852,
+					"ratio": 1.2018779342723005
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7eabc9c4-8aab-4f91-ae7d-933dafdb8e0e_Smino.jpg?auto=compress,format&rect=0,0,1080,864&w=1024&h=819",
@@ -79,12 +79,12 @@
 					"ratio": 0.8043990573448547
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/431979c1-e474-4805-b393-5b097766d3dd_Ice+Spice+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ice Spice",
+					"url": "https://images.prismic.io/x-track-mag/5b7850df-ab70-464b-9569-a3498c0f176b_Hawa.-.jpg?auto=compress,format&rect=0,0,1612,1266&w=1024&h=804",
+					"alt": "Hawa",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 804,
+					"ratio": 1.2736318407960199
 				}
 			]
 		},
