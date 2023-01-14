@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-07T15:46:48+0000",
+	"publication_date": "2023-01-14T10:07:23+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "green",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/b293d79a-5daa-497d-9dcb-37baf0989091_FLO---.jpg?auto=compress,format",
-		"alt": "FLO",
+		"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format",
+		"alt": "Koffee",
 		"copyright": null,
-		"width": 1703,
-		"height": 1346,
-		"ratio": 1.2652303120356612
+		"width": 1440,
+		"height": 1800,
+		"ratio": 0.8
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stormzy x Flo - Popcaan x Drake - Kida Kudz - Ice Spice - Buruklyn Boyz - Central Cee - Bantu - Joesef - Sbtrkt x Leilah - Little Simz - Protoje x Iotosh - Mavi - Neil Francis x PawPaw Rod - Ivy Sole - Sudan Archives & ++++",
+					"text": "Sam Smith x Koffee x Jessie Reyez - Vagabon - Flohio - Chiiild x Lucky Daye - MadeInParis - Popcaan x Drake - Kida Kudz - Ice Spice - Buruklyn Boyz - Central Cee - Bantu - Protoje x Iotosh - Mavi - Neil Francis x PawPaw Rod - Ivy Sole - Sudan Archives & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/36516997-af6f-4e2f-a19e-090846610a02_Popcaan.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
-					"alt": "Popcaan",
+					"url": "https://images.prismic.io/x-track-mag/ef9c4b2f-fa8a-436f-8421-68690c2ad92e_Vagabon.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Vagabon",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format&rect=0,0,2050,2733&w=1024&h=1365",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/d2ee1e42-d275-448f-8cb0-4cffb98f717e_Sam+Smith.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Sam Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c0054def-21e1-48d0-b206-669a46821cf6_Central+Cee+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Central Cee",
+					"url": "https://images.prismic.io/x-track-mag/82094585-abf3-4f07-bf4c-fa9c59a29e95_Jessie+Reyez.jpg?auto=compress,format&rect=0,0,2000,2400&w=1024&h=1229",
+					"alt": "Jessie Reyez",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1229,
+					"ratio": 0.8331977217249796
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/45d65779-56c0-4052-9c5e-ff2cad9ec927_Drake.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Drake",
+					"url": "https://images.prismic.io/x-track-mag/47bc4b33-c84c-4960-b387-7736f748e884_Lucky+Daye.jpg?auto=compress,format&rect=0,0,1080,1129&w=1024&h=1070",
+					"alt": "Lucky Daye",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1070,
+					"ratio": 0.9570093457943926
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format&rect=0,0,1462,1216&w=1024&h=852",
-					"alt": "Ice Spice",
+					"url": "https://images.prismic.io/x-track-mag/3bb31872-8a57-4329-86a5-46008a3cd4b3_Flohio.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Flohio",
 					"copyright": null,
 					"width": 1024,
-					"height": 852,
-					"ratio": 1.2018779342723005
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
-					"alt": "Kida Kudz",
+					"url": "https://images.prismic.io/x-track-mag/2dc5d989-0392-4ff4-a837-c0a7e6535eb8_Chiiild.jpg?auto=compress,format&rect=0,0,745,492&w=1024&h=676",
+					"alt": "Chiiild",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 676,
+					"ratio": 1.514792899408284
 				}
 			]
 		},
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=22912c7cf73f4c2f",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=ead35e0acc034e22",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
@@ -106,6 +106,10 @@
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/4099699282",
 					"title": "Best ”XTrack“ of the Week"
 				}
 			]
