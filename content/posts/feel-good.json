@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-07T16:24:22+0000",
+	"publication_date": "2023-01-15T11:24:30+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Smino - - Stormzy x FLO - Little Simz - Ice Spice - Kida Kudz - Popcaan x Drake - Hawa - Jeshi - Buruklyn Boyz - Maandy x Mejja - Ivy Sole - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch -Hawa - Aka x nasty C -Stefflon Don x Spice - FK+A Twigs x Shygirl - Central Cee - Major Lazer x Tiwa Savage - yaya Bey x DJ Nativesun  & +++ Enjoy",
+					"text": "Smino - Little Simz - Ice Spice - Kida Kudz - Sam Smith x Koffee x Jessie Reyez - Popcaan x Drake - Flohio - Jeshi - Buruklyn Boyz - Maandy x Mejja - Ivy Sole - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Hawa - Aka x nasty C -Stefflon Don x Spice - FKA Twigs x Shygirl - Central Cee - Major Lazer x Tiwa Savage - Yaya Bey x DJ Nativesun - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -50,12 +50,12 @@
 					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ff2387be-51c0-46f6-b09a-ad169565e537_LILA+IKE++.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
-					"alt": "Lila Iké",
+					"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Koffee",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b14bb58d-415e-42ee-af88-bcfc5787786f_FKA+Twigs.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "FKA Twigs",
+					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
+					"alt": "Kida Kudz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1025,
+					"ratio": 0.9990243902439024
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/3bb31872-8a57-4329-86a5-46008a3cd4b3_Flohio.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Flohio",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0fb61de6-bb89-4fd1-b7fb-75910f0caeef_PA+Salieu.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
-					"alt": "PA Salieu",
+					"url": "https://images.prismic.io/x-track-mag/d2ee1e42-d275-448f-8cb0-4cffb98f717e_Sam+Smith.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Sam Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1273,
-					"ratio": 0.8043990573448547
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5b7850df-ab70-464b-9569-a3498c0f176b_Hawa.-.jpg?auto=compress,format&rect=0,0,1612,1266&w=1024&h=804",
-					"alt": "Hawa",
-					"copyright": null,
-					"width": 1024,
-					"height": 804,
-					"ratio": 1.2736318407960199
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
