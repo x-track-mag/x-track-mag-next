@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-28T15:09:16+0000",
+	"publication_date": "2023-01-16T10:33:32+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Patrice - Hope Tala - Neil Francis x PawPaw Rod - Protoje x Iotosh - Show Dem Camp x Tems - Greentea Peng - Mavi - Sudan Archives - Ezéchiel Pailhès - Stormzy - Oshun - Chaton - Bon Entendeur x Emma Peters - Juls x Fireboy DML x Tay Iwar x P-Rallel - Chiiild - Jungle - Gabriels - Khruangbin - Biig Piig - Arlo Parks - Patchworks x Pat Kalla - Myra - Babeheaven - H.E.R. & +++ enjoy",
+					"text": "Patrice - Hope Tala - Neil Francis x PawPaw Rod - Protoje x Iotosh - Show Dem Camp x Tems - Greentea Peng - Mavi - Sudan Archives - Vagabon - Ezéchiel Pailhès - Stormzy  x Tendai x Ayra Starr - Oshun - Chiiild x Lucky Daye - Chaton - Bon Entendeur x Emma Peters - Juls x Fireboy DML x Tay Iwar x P-Rallel - Jungle - Gabriels - Khruangbin - Biig Piig - Arlo Parks - Patchworks x Pat Kalla - Myra - Babeheaven - H.E.R. & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -92,19 +92,19 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=bfc248c76a884e72",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=a99f742177fd4a43",
 					"title": "New romance"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-xlyNmANTvNPRE?l=en",
-					"title": "New romance by XTrack"
-				},
-				{
-					"url": "https://www.deezer.com/us/playlist/5281964882",
-					"title": "New romance"
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-xlyNmANTvNPRE",
+					"title": "New romance par XTrack"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDMUA9bisL8vy_ZtGzDX7Dd",
+					"title": "New romance"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/5281964882",
 					"title": "New romance"
 				}
 			]
