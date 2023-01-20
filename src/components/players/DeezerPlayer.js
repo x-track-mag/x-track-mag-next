@@ -16,7 +16,7 @@ export const getEmbedUrl = (shareUrl) => {
 	return `https://widget.deezer.com/widget/dark/${media_type}/${media_id}`;
 };
 
-const DeezerPlayer = ({ url, title = "", width = "100%", height = "420px" }) =>
+const DeezerPlayer = ({ url, title = "", width = "100%", height = "370px" }) =>
 	url && (
 		<iframe
 			src={getEmbedUrl(url)}
@@ -24,7 +24,7 @@ const DeezerPlayer = ({ url, title = "", width = "100%", height = "420px" }) =>
 			width={width}
 			height={height}
 			allowtransparency="true"
-			frameborder="0"
+			frameBorder="0"
 			allow="encrypted-media; clipboard-write"
 		></iframe>
 	);
