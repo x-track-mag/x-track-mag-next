@@ -13,10 +13,10 @@ export const getEmbedUrl = (shareUrl) => {
 	const media_id = parts.pop();
 	const media_type = parts.pop();
 
-	return `https://www.deezer.com/us/plugins/player?playlist=true&autoplay=false&type=${media_type}&id=${media_id}`;
+	return `https://widget.deezer.com/widget/dark/${media_type}/${media_id}`;
 };
 
-const DeezerPlayer = ({ url, title = "", width = "100%", height = "580px" }) =>
+const DeezerPlayer = ({ url, title = "", width = "100%", height = "420px" }) =>
 	url && (
 		<iframe
 			src={getEmbedUrl(url)}
@@ -24,8 +24,8 @@ const DeezerPlayer = ({ url, title = "", width = "100%", height = "580px" }) =>
 			width={width}
 			height={height}
 			allowtransparency="true"
-			frameBorder="0"
-			allow="encrypted-media"
+			frameborder="0"
+			allow="encrypted-media; clipboard-write"
 		></iframe>
 	);
 
