@@ -1,0 +1,113 @@
+{
+	"uid": "live-session-flowerybeard",
+	"tags": [
+		"music",
+		"live session"
+	],
+	"publication_date": "2022-06-09T00:01:09+0000",
+	"title": "FLOWERY BEARD",
+	"subtitle": "LIVE SESSION",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "XTRACK LS JUIN FLOWERY BEARD v2hq.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/6eb26ffb-3d0c-4e97-8d51-a2df1506fc4c_XTRACK+LS+JUIN+FLOWERY+BEARD+v2hq.mp4",
+		"size": "8122736"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "X-TRACK TEAM",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-video-launcher",
+			"display_article_title": false,
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Aujourd'hui, c'est l'artiste FLOWERY BEARD qui nous enchante avec son titre « MAWON ».",
+					"spans": [
+						{
+							"start": 29,
+							"end": 42,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/flowery.beard/?hl=fr"
+							}
+						}
+					]
+				}
+			],
+			"link": {
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"title": "FLOWERY BEARD - MAWON",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/c/XTrackMag",
+				"type": "video",
+				"height": 113,
+				"width": 200,
+				"version": "1.0",
+				"thumbnail_height": 360,
+				"thumbnail_width": 480,
+				"thumbnail_url": "https://i.ytimg.com/vi/BXgQR59t2rA/hqdefault.jpg",
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/BXgQR59t2rA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"embed_url": "https://www.youtube.com/watch?v=BXgQR59t2rA"
+			},
+			"ratio": "9/16",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/e2e7f6ca-8000-4465-b0ba-982ad966598d_IMG_4433.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 3958,
+				"height": 4947,
+				"ratio": 0.8000808570851021
+			},
+			"disposition": "Texte | Video"
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "✨ « QUAND J'AI DES FLEURS DANS LA BARBE, JE ME SENS EN PAIX. PARCE QUE C'EST UNE PARTIE DE MOI, QUE J'EXPOSE. » ✨",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-two-columns",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "interview + réalisation : KHEDIJA pour X-TRACK MAG",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Cadre + edit : MOBIUS VISIO",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Ingénieur studio : ROMAN HERTZ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Global production : X-TRACK PROD",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "UN GRAND MERCI À TOUTE LA TEAM",
+					"spans": []
+				}
+			],
+			"image": null,
+			"columns_order": "Image | Texte",
+			"full_page": false
+		}
+	],
+	"description": "live session flowery beard mawon x-track mag"
+}

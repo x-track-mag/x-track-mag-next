@@ -1,18 +1,18 @@
 {
-	"uid": "live-session-amaru",
+	"uid": "live-session-badbiche",
 	"tags": [
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-07-30T08:25:39+0000",
-	"title": "AMARU",
+	"publication_date": "2022-07-30T08:25:14+0000",
+	"title": "BAD BICHE",
 	"subtitle": "LIVE SESSION",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "IMG_3340.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
-		"size": "16282848"
+		"name": "LIVE SESSION BAD BICHE V3 HQ.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/d14fdb11-167a-4167-9699-a53d1af8da6d_LIVE+SESSION+BAD+BICHE+V3+HQ.mp4",
+		"size": "5609702"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "X-TRACK TEAM",
@@ -24,15 +24,15 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Nous partons à la rencontre de la touchante artiste AMARU qui nous fait découvrir la vibe de son titre « KARMA ». ",
+					"text": "Aujourd'hui, c'est la pétillante BAD BICHE qui nous fait découvrir en exclusivité son titre  « LILITH ». ",
 					"spans": [
 						{
-							"start": 52,
-							"end": 57,
+							"start": 33,
+							"end": 42,
 							"type": "hyperlink",
 							"data": {
 								"link_type": "Web",
-								"url": "https://www.instagram.com/iamamarru/?hl=fr"
+								"url": "https://www.instagram.com/badbichegaby/?hl=fr"
 							}
 						}
 					]
@@ -41,28 +41,28 @@
 			"link": {
 				"height": 113,
 				"width": 200,
-				"embed_url": "https://www.youtube.com/watch?v=nwc05uNPqWA",
+				"embed_url": "https://www.youtube.com/watch?v=duDv94AlbmY",
 				"type": "video",
 				"version": "1.0",
-				"title": "Amaru - KARMA",
+				"title": "BAD BICHE - LILITH",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/c/XTrackMag",
 				"provider_name": "YouTube",
 				"provider_url": "https://www.youtube.com/",
 				"cache_age": null,
-				"thumbnail_url": "https://i.ytimg.com/vi/nwc05uNPqWA/hqdefault.jpg",
+				"thumbnail_url": "https://i.ytimg.com/vi/duDv94AlbmY/hqdefault.jpg",
 				"thumbnail_width": 480,
 				"thumbnail_height": 360,
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nwc05uNPqWA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/duDv94AlbmY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
 			"ratio": "9/16",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/cbb26f3b-3d92-438f-8a7d-1d9051ac5268_j9_LILLE_0204%40MOBIUSVISIO-4.JPG?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/e236b6ee-f50f-42f1-b8f8-87fc03f590f2_IMG_3903.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 2000,
-				"height": 3000,
-				"ratio": 0.6666666666666666
+				"width": 828,
+				"height": 1459,
+				"ratio": 0.5675119945167924
 			},
 			"disposition": "Texte | Video"
 		},
@@ -71,7 +71,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "✨ « J’AI L’IMPRESSION, QU’IL FAUT QUE JE SOUFFRE POUR QUE JE PUISSE PARLER DE L’AMOUR. QUAND JE SUIS AMOUREUSE, JE SUIS TOUTE JOYEUSE DONC JE N’ARRIVE PAS À ÉCRIRE. » ✨",
+					"text": "✨ « DANS MON QUOTIDIEN, MON FIDÉLE ACOLYTE C'EST MON CASQUE. » ✨",
 					"spans": []
 				}
 			]
@@ -101,11 +101,6 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stylisme : ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
 					"text": "UN GRAND MERCI À TOUTE LA TEAM",
 					"spans": []
 				}
@@ -115,5 +110,5 @@
 			"full_page": false
 		}
 	],
-	"description": "live session amaru karma x-track mag"
+	"description": "live session bad biche lilith x-track mag"
 }

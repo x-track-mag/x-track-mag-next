@@ -4,10 +4,10 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2022-04-06T18:28:26+0000",
-	"title": "Donzer",
+	"publication_date": "2022-04-09T09:45:00+0000",
+	"title": "DONZER",
 	"subtitle": "LIVE SESSION",
-	"text_color": "orange",
+	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
 		"name": "LoopDonzer.mp4",
@@ -19,21 +19,6 @@
 	"internal_link": null,
 	"sections": [
 		{
-			"template": "section-full-text",
-			"text": [
-				{
-					"type": "paragraph",
-					"text": "Nous partons à la rencontre de l’artiste Donzer qui nous parle de la genèse de son prochain titre « BLEU PISCINE ».",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
-				}
-			]
-		},
-		{
 			"template": "section-video-launcher",
 			"display_article_title": false,
 			"text": [
@@ -44,8 +29,18 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "",
-					"spans": []
+					"text": "Nous partons à la rencontre de l’artiste DONZER qui nous parle de la genèse de son prochain titre « BLEU PISCINE ».",
+					"spans": [
+						{
+							"start": 41,
+							"end": 47,
+							"type": "hyperlink",
+							"data": {
+								"link_type": "Web",
+								"url": "https://www.instagram.com/donzerinho/?hl=fr"
+							}
+						}
+					]
 				},
 				{
 					"type": "paragraph",
@@ -96,32 +91,32 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "interview + réalisation : @diggakhedija pour @xtrackmag",
+					"text": "interview + réalisation : KHEDIJA pour X-TRACK MAG",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Cadre + edit : @mobiusvisio",
+					"text": "Cadre + edit : MOBIUS VISIO ",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Ingénieur studio : @romanhertz",
+					"text": "Ingénieur studio : ROMAN HERTZ",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Prod son : @marcmonnaie",
+					"text": "Prod son : LEKEUS",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Mix : @ayrton75era",
+					"text": "Mix : AYRTON",
 					"spans": []
 				},
 				{
 					"type": "paragraph",
-					"text": "Global production : @xtrackprod ",
+					"text": "Global production :  X-TRACK PROD",
 					"spans": []
 				},
 				{

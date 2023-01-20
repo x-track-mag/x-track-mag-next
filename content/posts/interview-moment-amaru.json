@@ -1,18 +1,18 @@
 {
-	"uid": "live-session-amaru",
+	"uid": "interview-moment-amaru",
 	"tags": [
-		"music",
-		"live session"
+		"interview",
+		"music"
 	],
-	"publication_date": "2022-07-30T08:25:39+0000",
+	"publication_date": "2022-04-18T07:44:51+0000",
 	"title": "AMARU",
-	"subtitle": "LIVE SESSION",
-	"text_color": "inverted",
+	"subtitle": "A LITTLE MOMENT ",
+	"text_color": "green",
 	"image": null,
 	"video_loop": {
-		"name": "IMG_3340.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
-		"size": "16282848"
+		"name": "ITW 1304.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
+		"size": "4462848"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "X-TRACK TEAM",
@@ -24,11 +24,11 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Nous partons à la rencontre de la touchante artiste AMARU qui nous fait découvrir la vibe de son titre « KARMA ». ",
+					"text": "Nous retrouvons la belle AMARU dans une toute nouvelle interview, elle nous dévoile ses inspirations les plus profondes sur la musique et l’amour.",
 					"spans": [
 						{
-							"start": 52,
-							"end": 57,
+							"start": 25,
+							"end": 30,
 							"type": "hyperlink",
 							"data": {
 								"link_type": "Web",
@@ -41,37 +41,37 @@
 			"link": {
 				"height": 113,
 				"width": 200,
-				"embed_url": "https://www.youtube.com/watch?v=nwc05uNPqWA",
+				"embed_url": "https://www.youtube.com/watch?v=ntCh_k2dUx0&feature=youtu.be",
 				"type": "video",
 				"version": "1.0",
-				"title": "Amaru - KARMA",
+				"title": "Interview Amaru Par Khedija Dhaoui",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/c/XTrackMag",
 				"provider_name": "YouTube",
 				"provider_url": "https://www.youtube.com/",
 				"cache_age": null,
-				"thumbnail_url": "https://i.ytimg.com/vi/nwc05uNPqWA/hqdefault.jpg",
+				"thumbnail_url": "https://i.ytimg.com/vi/ntCh_k2dUx0/hqdefault.jpg",
 				"thumbnail_width": 480,
 				"thumbnail_height": 360,
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nwc05uNPqWA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ntCh_k2dUx0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": "9/16",
+			"ratio": "16/9",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/cbb26f3b-3d92-438f-8a7d-1d9051ac5268_j9_LILLE_0204%40MOBIUSVISIO-4.JPG?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/12db630e-f196-445b-a61c-10c05cc9efda_Capture+d%E2%80%99e%CC%81cran+2022-04-13+a%CC%80+23.48.25.png?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 2000,
-				"height": 3000,
-				"ratio": 0.6666666666666666
+				"width": 2880,
+				"height": 1468,
+				"ratio": 1.9618528610354224
 			},
-			"disposition": "Texte | Video"
+			"disposition": "Texte / Video"
 		},
 		{
 			"template": "section-quote",
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "✨ « J’AI L’IMPRESSION, QU’IL FAUT QUE JE SOUFFRE POUR QUE JE PUISSE PARLER DE L’AMOUR. QUAND JE SUIS AMOUREUSE, JE SUIS TOUTE JOYEUSE DONC JE N’ARRIVE PAS À ÉCRIRE. » ✨",
+					"text": "✨ « L’ARTISTE QUI M’INSPIRE LE PLUS C’EST ELLA FITZGERALD. » ✨",
 					"spans": []
 				}
 			]
@@ -101,11 +101,6 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stylisme : ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
 					"text": "UN GRAND MERCI À TOUTE LA TEAM",
 					"spans": []
 				}
@@ -115,5 +110,5 @@
 			"full_page": false
 		}
 	],
-	"description": "live session amaru karma x-track mag"
+	"description": "interview amaru a little moment x-track mag"
 }

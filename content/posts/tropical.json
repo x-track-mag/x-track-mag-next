@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-25T22:08:27+0000",
+	"publication_date": "2022-12-28T11:10:14+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
-	"text_color": "orange",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/c0e3de03-2134-451d-b3d2-e28a00558ffd_Koffee.jpg?auto=compress,format",
-		"alt": "Koffee",
+		"url": "https://images.prismic.io/x-track-mag/619be15f-5e92-45b1-bc96-95af95391af9_Tems+.jpg?auto=compress,format",
+		"alt": "Tems",
 		"copyright": null,
-		"width": 2000,
-		"height": 2000,
+		"width": 2048,
+		"height": 2048,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Quackers x Sampa the Great - Kasi3 x Rema - Kidi x Tyga - Juls x Fireboy DML - PaBrimo x Teni - Fireboy DML - The Cavemen - Simi - Terri - Blundetto x Voilaaa - Skip Marley x Popcaan - Yung L - Juls x Twich4EVA x - Tekno - Pongo - Florence Adooni - Oumou Sangaré - Juls x Agent Sasco - Pachyman x Winter - Ahkatari - Bitty Mc Lean - Soul Sugar x Leo Carmichael - Jada Kingdom - Bush Tea - Olamide - 808vic - Ayanfe x DaVido - Nova x Fasina - Wizkid x Major Lazer - Kasi3 x Ruger - Ria Sean - Koffee - Vybz Kartel - Rimon & +++",
+					"text": "Show Dem Camp x Tems- Boj - The Cavemen - Wizkid x Don Toliver - BNXN fka Buju - Teni - Kidi x Tyga - Yaya Bey - Busy Signal x Jeffwon - Bitty McLean - Pachyman x Winter - Yung L - Enyel C X MJ Nebreda - Ghetto Boy - Skip Marley x Popcaan x Ayra Starr - Blundetto x Voilaaa - Juls x Twich4EVA x Quamina Mp - Tekno - Jobo x Bogo - Asa - Simi - Juniper x Sango x Vhoor - Black Sherif - Protoje x Iotosh - Tera Kora x Yung D3mz - Lila Iké - Jada Kingdom - Antonin x Voilaaa - Samthing Soweto  & +++",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e25a07bc-0f2f-4bc3-9289-7d2acbf8de37_Ria+Sean+.jpg?auto=compress,format&rect=0,0,960,959&w=1024&h=1023",
-					"alt": "Ria Sean",
+					"url": "https://images.prismic.io/x-track-mag/40c79b7d-1906-44ae-9edc-d516b206e640_LILA+IKE.jpg?auto=compress,format&rect=0,0,2323,2559&w=1024&h=1128",
+					"alt": "Lila Iké",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1128,
+					"ratio": 0.9078014184397163
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/91b2f609-32eb-4cb3-a688-a5b82d939ad6_Wizkid.jpg?auto=compress,format&rect=0,0,1623,1957&w=1024&h=1235",
 					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1235,
+					"ratio": 0.8291497975708502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c1ba03f9-be57-49b0-9da7-e47a48534463_Simi.jpg?auto=compress,format&rect=0,0,1024,1280&w=1024&h=1280",
-					"alt": "Simi",
+					"url": "https://images.prismic.io/x-track-mag/fca47e99-3a54-43c7-9eed-b6a381fabe59_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1010,947&w=1024&h=960",
+					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 960,
+					"ratio": 1.0666666666666667
 				}
 			]
 		},
@@ -63,12 +63,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c7c157c8-b6d0-4891-9cc9-fc8fccd8a7cb_Sampa+The+Great.jpg?auto=compress,format&rect=0,0,1920,2773&w=1024&h=1479",
-					"alt": "Sampa The Great",
+					"url": "https://images.prismic.io/x-track-mag/daf99cbf-26c8-4d1f-8084-f41f3ee3562a_Teni--.jpg?auto=compress,format&rect=0,0,1668,1137&w=1024&h=698",
+					"alt": "Teni",
 					"copyright": null,
 					"width": 1024,
-					"height": 1479,
-					"ratio": 0.6923597025016903
+					"height": 698,
+					"ratio": 1.4670487106017192
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
@@ -79,12 +79,12 @@
 					"ratio": 1.0029382957884427
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/be6b006d-687f-4d2b-b8eb-dd02a12bb610_Pongo.jpg?auto=compress,format&rect=0,0,3887,5664&w=1024&h=1492",
-					"alt": "Pongo",
+					"url": "https://images.prismic.io/x-track-mag/1598fc9e-f431-413d-a609-c702b25a48b2_Asa+.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
+					"alt": "Asa",
 					"copyright": null,
 					"width": 1024,
-					"height": 1492,
-					"ratio": 0.6863270777479893
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -92,11 +92,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=1b713116c1df4313",
+					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=d42f08f0068d4cd3",
 					"title": "Tropical "
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/tropical/pl.u-oZyle8auaN9EX",
+					"url": "https://music.apple.com/fr/playlist/tropical/pl.u-jV89vNJtBAyYV",
 					"title": "Tropical par XTrack"
 				},
 				{

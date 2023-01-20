@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-03-18T22:18:39+0000",
+	"publication_date": "2023-01-15T11:24:30+0000",
 	"title": "Feel Good",
-	"subtitle": "100% Positive Energy Hip Hop RnB Pop Afropop  ",
-	"text_color": "white",
+	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
+	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/67d9fe94-3af4-4416-b486-25f2e3fa23cc_FKA+Twigs.jpg?auto=compress,format",
-		"alt": "FKA Twigs",
+		"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format",
+		"alt": "Little Simz",
 		"copyright": null,
-		"width": 1920,
-		"height": 1920,
-		"ratio": 1
+		"width": 2050,
+		"height": 2733,
+		"ratio": 0.7500914745700695
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Raveena x Vince Staples - Pa Salieu x Aitch - FKA Twigs x Shy Girl - Young t & Bugsey x Chronixx - Benjiflow x Juls - Sawetie x H.E.R. - Alewya - Burna Boy x Wizkid -  Rema - Kaytranada x Thundercat - Genesis Owusu x Jono Ma - Diplo x Damian Lazarus x Jungle - Parcels - SG Lewis x Lucky Daye x Kapote - Doja Cats x  Disclosure - Patchworks x Pat Kalla x Emile Omar - Blundetto x Voilaaa - Juls x Niniola - Tekno - Skip Marley x Popcaan - Crayon x Bella Shmurda  & +++ Enjoy",
+					"text": "Smino - Little Simz - Ice Spice - Kida Kudz - Sam Smith x Koffee x Jessie Reyez - Popcaan x Drake - Flohio - Jeshi - Buruklyn Boyz - Maandy x Mejja - Ivy Sole - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Hawa - Aka x nasty C -Stefflon Don x Spice - FKA Twigs x Shygirl - Central Cee - Major Lazer x Tiwa Savage - Yaya Bey x DJ Nativesun - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2df37127-ad63-4c1a-9b8e-15fdd1aba196_Raveena.jpg?auto=compress,format&rect=0,0,1672,1331&w=1024&h=815",
-					"alt": "Raveena",
+					"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format&rect=0,0,1462,1216&w=1024&h=852",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
-					"height": 815,
-					"ratio": 1.2564417177914111
+					"height": 852,
+					"ratio": 1.2018779342723005
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c65d2f3c-d28b-4336-9a4d-f15c6a0973d7_Pa+Salieu.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Pa Salieu",
+					"url": "https://images.prismic.io/x-track-mag/7eabc9c4-8aab-4f91-ae7d-933dafdb8e0e_Smino.jpg?auto=compress,format&rect=0,0,1080,864&w=1024&h=819",
+					"alt": "Smino",
+					"copyright": null,
+					"width": 1024,
+					"height": 819,
+					"ratio": 1.2503052503052503
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Koffee",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/8a570380-ab47-4f61-88b9-8199250978ef_Shygirl.jpg?auto=compress,format&rect=0,0,545,750&w=1024&h=1409",
-					"alt": "Shygirl",
-					"copyright": null,
-					"width": 1024,
-					"height": 1409,
-					"ratio": 0.7267565649396736
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5eed05d5-9462-4d00-9e92-49c3c8c1d0a7_Saweetie+++.jpg?auto=compress,format&rect=0,0,1435,1900&w=1024&h=1356",
-					"alt": "Saweetie",
+					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
+					"alt": "Kida Kudz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1356,
-					"ratio": 0.7551622418879056
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
-					"alt": "Juls",
+					"url": "https://images.prismic.io/x-track-mag/3bb31872-8a57-4329-86a5-46008a3cd4b3_Flohio.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Flohio",
 					"copyright": null,
 					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4631c31f-5744-40bc-b9c4-0c3726d68a30_Alewya+.jpg?auto=compress,format&rect=0,0,1591,1061&w=1024&h=683",
-					"alt": "Alewya",
+					"url": "https://images.prismic.io/x-track-mag/d2ee1e42-d275-448f-8cb0-4cffb98f717e_Sam+Smith.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Sam Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -92,16 +92,12 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=fd3ff3d82bd24ea2",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=b2aadb0dccb74202",
 					"title": "Feel Good"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-WabZV0AuN0D35",
+					"url": "https://music.apple.com/fr/playlist/feel-good/pl.u-gxblpGRslAoV4",
 					"title": "Feel Good par XTrack"
-				},
-				{
-					"url": "https://www.deezer.com/us/playlist/5068447124",
-					"title": "Feel Good"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBSdUIznSTPX50N0fcgQpEb",
@@ -110,5 +106,5 @@
 			]
 		}
 	],
-	"description": "Playlist Hip Hop x RnB x Afropop x Pop"
+	"description": "Playlist Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop"
 }

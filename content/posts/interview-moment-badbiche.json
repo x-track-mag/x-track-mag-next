@@ -1,18 +1,18 @@
 {
-	"uid": "live-session-amaru",
+	"uid": "interview-moment-badbiche",
 	"tags": [
-		"music",
-		"live session"
+		"interview",
+		"music"
 	],
-	"publication_date": "2022-07-30T08:25:39+0000",
-	"title": "AMARU",
-	"subtitle": "LIVE SESSION",
+	"publication_date": "2022-05-20T07:04:02+0000",
+	"title": "BAD BICHE ",
+	"subtitle": "A LITTLE MOMENT ",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "IMG_3340.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
-		"size": "16282848"
+		"name": "ITW BADBICHE ST HD.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d8328c7-bb21-45fa-b477-761838f35862_ITW+BADBICHE+ST+HD.mp4",
+		"size": "4895916"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "X-TRACK TEAM",
@@ -24,15 +24,15 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Nous partons à la rencontre de la touchante artiste AMARU qui nous fait découvrir la vibe de son titre « KARMA ». ",
+					"text": "Nous retrouvons miss BAD BICHE dans une toute nouvelle interview, elle nous explique la définition de la femme et nous dévoile les secrets de son titre LILITH.",
 					"spans": [
 						{
-							"start": 52,
-							"end": 57,
+							"start": 21,
+							"end": 30,
 							"type": "hyperlink",
 							"data": {
 								"link_type": "Web",
-								"url": "https://www.instagram.com/iamamarru/?hl=fr"
+								"url": "https://www.instagram.com/badbichegaby/?hl=fr"
 							}
 						}
 					]
@@ -41,37 +41,37 @@
 			"link": {
 				"height": 113,
 				"width": 200,
-				"embed_url": "https://www.youtube.com/watch?v=nwc05uNPqWA",
+				"embed_url": "https://www.youtube.com/watch?v=hOvlyzJ1MXw",
 				"type": "video",
 				"version": "1.0",
-				"title": "Amaru - KARMA",
+				"title": "« A LITTLE MOMENT avec Bad Biche»",
 				"author_name": "XTrack Mag",
 				"author_url": "https://www.youtube.com/c/XTrackMag",
 				"provider_name": "YouTube",
 				"provider_url": "https://www.youtube.com/",
 				"cache_age": null,
-				"thumbnail_url": "https://i.ytimg.com/vi/nwc05uNPqWA/hqdefault.jpg",
+				"thumbnail_url": "https://i.ytimg.com/vi/hOvlyzJ1MXw/hqdefault.jpg",
 				"thumbnail_width": 480,
 				"thumbnail_height": 360,
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nwc05uNPqWA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/hOvlyzJ1MXw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": "9/16",
+			"ratio": "16/9",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/cbb26f3b-3d92-438f-8a7d-1d9051ac5268_j9_LILLE_0204%40MOBIUSVISIO-4.JPG?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/e21c54b4-31f7-4634-9002-ceb8335a0ea2_Capture+d%E2%80%99e%CC%81cran+2022-05-19+a%CC%80+22.05.14.png?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 2000,
-				"height": 3000,
-				"ratio": 0.6666666666666666
+				"width": 2562,
+				"height": 1290,
+				"ratio": 1.986046511627907
 			},
-			"disposition": "Texte | Video"
+			"disposition": "Texte / Video"
 		},
 		{
 			"template": "section-quote",
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "✨ « J’AI L’IMPRESSION, QU’IL FAUT QUE JE SOUFFRE POUR QUE JE PUISSE PARLER DE L’AMOUR. QUAND JE SUIS AMOUREUSE, JE SUIS TOUTE JOYEUSE DONC JE N’ARRIVE PAS À ÉCRIRE. » ✨",
+					"text": "✨ « C'EST ÇA LES VRAIES SORCIÈRES, C'EST LES FEMMES LIBRES, QUI SONT PUISSANTES ET QUI SAVENT SE SERVIR DE LEUR POUVOIR. » ✨",
 					"spans": []
 				}
 			]
@@ -101,11 +101,6 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stylisme : ",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
 					"text": "UN GRAND MERCI À TOUTE LA TEAM",
 					"spans": []
 				}
@@ -115,5 +110,5 @@
 			"full_page": false
 		}
 	],
-	"description": "live session amaru karma x-track mag"
+	"description": "interview bad biche a little moment x-track mag"
 }

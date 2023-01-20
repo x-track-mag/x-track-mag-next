@@ -1,11 +1,12 @@
 {
 	"uid": "x-track-studio---biaziouka",
 	"tags": [
-		"music"
+		"music",
+		"live session"
 	],
-	"publication_date": "2021-07-03T07:48:37+0000",
-	"title": "X-Track Studio - Biaziouka ",
-	"subtitle": "",
+	"publication_date": "2022-10-15T08:17:49+0000",
+	"title": "BIAZIOUKA",
+	"subtitle": "Live Session",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
@@ -13,17 +14,17 @@
 		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
 		"size": "922100"
 	},
-	"template": "3: Image + Titre",
+	"template": "1: Image + Titre + sous-titre + infos",
 	"author": null,
 	"internal_link": null,
 	"sections": [
 		{
 			"template": "section-video-launcher",
-			"display_article_title": null,
+			"display_article_title": false,
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\".  ",
+					"text": "Notre invitée @biaziouka interprête sa chanson \"Plug\" extraite de son EP \"Faracha\".",
 					"spans": []
 				},
 				{
@@ -79,7 +80,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/EzFsb9sqwzk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/d658c8d2-48db-4f56-82be-d1d279f84f97_Capture+d%E2%80%99e%CC%81cran+2021-03-11+a%CC%80+19.51.54.png?auto=compress,format",
 				"alt": null,
@@ -88,8 +89,8 @@
 				"height": 1570,
 				"ratio": 1.7936305732484077
 			},
-			"disposition": null
+			"disposition": "Texte | Video"
 		}
 	],
-	"description": "For this X-Track studio session, our guest @biaziouka performed her song \"Plug\" taken from her EP \"Faracha\"."
+	"description": "live session Biaziouka Plug x-track mag"
 }

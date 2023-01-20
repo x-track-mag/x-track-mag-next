@@ -1,6 +1,6 @@
 {
 	"uid": "about-us",
-	"publication_date": "2021-01-05T18:39:15+0000",
+	"publication_date": "2022-11-27T16:11:02+0000",
 	"title": "About Us",
 	"subtitle": "",
 	"sections": [
@@ -77,16 +77,16 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Production X-Track : Emile Roy / Valérie Carré / Arthur Monnet / Jean-Jacques hertz ",
+					"text": "Production X-Track : Emile Roy / Valérie Carré / Marie Prouvé / Jean-Jacques hertz ",
 					"spans": [
 						{
 							"start": 0,
-							"end": 84,
+							"end": 83,
 							"type": "em"
 						},
 						{
 							"start": 0,
-							"end": 84,
+							"end": 83,
 							"type": "strong"
 						}
 					]

@@ -1,0 +1,114 @@
+{
+	"uid": "supersoul",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2022-12-03T09:32:04+0000",
+	"title": "Supersoul",
+	"subtitle": "Old School Hip Hop & Soul Music",
+	"text_color": "green",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/f4b5ccb4-2a45-4158-8c4a-f3e20d7c0240_Outkast.jpg?auto=compress,format",
+		"alt": "Outkast",
+		"copyright": null,
+		"width": 2016,
+		"height": 1350,
+		"ratio": 1.4933333333333334
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Outkast - Kanye West x Paul Wall x GLC - Mos Def - Method Man x Mary J Blidge - Maxwell - The Game x 50 Cent - Roy Ayers - Snoop Dog x Charlie Wilson x Justin Timberlake - Sleepy Brown x Pharrell x Big Boi - Outkast - Nile Rodgers - Bill Ben & Bagio - Gnarls Barkley - Michael Jackson - Usher - Zapp - Patrice Rushen - Fine Young Cannibals - Silk Rhodes - Sault - NERD - Space Invadas - Dan Electro - YBU - Nas x Lauryn Hill - 2pac - Timbaland & Magoo - Soul II Soul x Caron Wheeler - Massive Attack - Kendrick Lamar - Notorious Big - A Tribe Call Quest - Gang Starr - Digable Planets - Busta Rhymes x Pete Rock - Jay Z - Warren G x Nate Dogg - Fugees - Blackstreet x Dr Dre x Queen Pen - Erykah Badu - Will.I.Am - Missy Elliot - Thundercat - Luniz - Coolio - Janet Jackson - D'Angelo - Ms. Dynamite & ++++",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/09bc9984-b06b-465e-b2d7-e28b8a2bc150_Lauryn+Hill.jpg?auto=compress,format&rect=0,0,1050,1050&w=1024&h=1024",
+					"alt": "Lauryn Hill",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f09bfecc-58f7-4f81-919a-6814f7d036a5_Pharrell+Williams.jpg?auto=compress,format&rect=0,0,1332,1776&w=1024&h=1365",
+					"alt": "Pharrell Williams",
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/9c65c485-da66-451f-a1be-14801c1a622c_Kelis.jpg?auto=compress,format&rect=0,0,726,823&w=1024&h=1161",
+					"alt": "Kelis",
+					"copyright": null,
+					"width": 1024,
+					"height": 1161,
+					"ratio": 0.8819982773471146
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/3d3d700b-4f4a-462f-8e27-cdbb3cd38b1d_Mary+J+Blidge.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "Mary J Blidge",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8e9a48fe-2ea3-4c81-823b-15c58fa07681_Warren+G+Snoop+Dogg+Nate+Dogg.jpg?auto=compress,format&rect=0,0,620,460&w=1024&h=760",
+					"alt": "Warren G Snoop Dogg Nate Dogg",
+					"copyright": null,
+					"width": 1024,
+					"height": 760,
+					"ratio": 1.3473684210526315
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8297802a-5ca6-4800-a95c-8d810360abfd_Erykah+Badu.jpg?auto=compress,format&rect=0,0,1133,715&w=1024&h=646",
+					"alt": "Erykah Badu",
+					"copyright": null,
+					"width": 1024,
+					"height": 646,
+					"ratio": 1.585139318885449
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/4RAz0MRbuNTFqOZhlEm6Qs?si=41cda4fd82fc48b6",
+					"title": "Supersoul"
+				},
+				{
+					"url": "https://music.apple.com/fr/playlist/supersoul/pl.u-WabZe43uN0D35?l=en",
+					"title": "Supersoul by XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/6217001164",
+					"title": "Supersoul"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBkYVUfOFeeuPXxbSjflTqw",
+					"title": "Supersoul"
+				}
+			]
+		}
+	],
+	"description": "Old School Hip Hop & Soul Music"
+}
