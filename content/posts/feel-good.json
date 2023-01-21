@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-20T22:09:12+0000",
+	"publication_date": "2023-01-21T09:01:39+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/79351f2f-ef66-48ee-bab5-460d80dba74d_Little+Simz.jpg?auto=compress,format",
-		"alt": "Little Simz",
+		"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format",
+		"alt": "Koffee",
 		"copyright": null,
-		"width": 2050,
-		"height": 2733,
-		"ratio": 0.7500914745700695
+		"width": 1440,
+		"height": 1800,
+		"ratio": 0.8
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Smino - Little Simz - Ice Spice - Kida Kudz - Sam Smith x Koffee x Jessie Reyez - Popcaan x Drake - Flohio - Jeshi - Buruklyn Boyz - Maandy x Mejja - Ivy Sole - Yaya Bey - Protoje x Lila Iké - Black Sherif - Tion Wayne x Aitch - Pa Salieu x Aitch - Hawa - Aka x nasty C -Stefflon Don x Spice - FKA Twigs x Shygirl - Central Cee - Major Lazer x Tiwa Savage - Yaya Bey x DJ Nativesun - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig  & +++ Enjoy",
+					"text": "Sam Smith x Koffee x Jessie Reyez - Ice Spice - Nadg x Sneanizzle - Coi Leray x DJ Saige - Kida Kudz - Popcaan x Drake - Flohio - Ivy Sole - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Central C - Major Lazer x Tiwa Savage - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Oshun - Bunrunklyn boyz - Yaya Bey - Maandy x Mejja - Protoje x Lila Iké - Black sherif - Hawa & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -42,16 +42,16 @@
 					"ratio": 1.2018779342723005
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7eabc9c4-8aab-4f91-ae7d-933dafdb8e0e_Smino.jpg?auto=compress,format&rect=0,0,1080,864&w=1024&h=819",
-					"alt": "Smino",
+					"url": "https://images.prismic.io/x-track-mag/d2ee1e42-d275-448f-8cb0-4cffb98f717e_Sam+Smith.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "Sam Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 819,
-					"ratio": 1.2503052503052503
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Koffee",
+					"url": "https://images.prismic.io/x-track-mag/3bb31872-8a57-4329-86a5-46008a3cd4b3_Flohio.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Flohio",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
-					"alt": "Kida Kudz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/3bb31872-8a57-4329-86a5-46008a3cd4b3_Flohio.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Flohio",
+					"url": "https://images.prismic.io/x-track-mag/c65d2f3c-d28b-4336-9a4d-f15c6a0973d7_Pa+Salieu.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Pa Salieu",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d2ee1e42-d275-448f-8cb0-4cffb98f717e_Sam+Smith.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Sam Smith",
+					"url": "https://images.prismic.io/x-track-mag/b14bb58d-415e-42ee-af88-bcfc5787786f_FKA+Twigs.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "FKA Twigs",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e141c236-7ce8-4d5c-9fe2-ad766ca2629b_Central+Cee.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Central Cee",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -92,7 +92,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=b2aadb0dccb74202",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=23505222eed64bc7",
 					"title": "Feel Good"
 				},
 				{
