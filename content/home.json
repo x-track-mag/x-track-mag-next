@@ -162,16 +162,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-01-20T21:14:13+0000",
+			"publication_date": "2023-01-28T10:13:24+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/074a17c8-d2e4-4063-b0ea-7975094e07db_Coi+Leray.jpg?auto=compress,format",
-				"alt": "Coi Leray",
+				"url": "https://images.prismic.io/x-track-mag/440100ee-d32d-4324-be6d-79b24df26bea_Kali+Uchis.jpg?auto=compress,format",
+				"alt": "Kali Uchis",
 				"copyright": null,
-				"width": 1639,
-				"height": 1639,
+				"width": 3000,
+				"height": 3000,
 				"ratio": 1
 			},
 			"video_loop": null,
