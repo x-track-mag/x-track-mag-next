@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-24T05:39:03+0000",
+	"publication_date": "2023-01-29T09:40:05+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Ice Spice - Kida Kudz - Sam Smith x Koffee x Jessie Reyez - Popcaan x Drake - Flohio - Ivy Sole - Tion Wayne x Aitch - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Central C - Major Lazer x Tiwa Savage - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Oshun - Bunrunklyn boyz - Yaya Bey - Maandy x Mejja - Protoje x Lila Iké - Black sherif - Hawa - Bia - Nadg x Sneanizzle - Coi Leray x DJ Saige & +++ Enjoy",
+					"text": "Diddy x Partynextdoor - Ice Spice - Kida Kudz - Sam Smith x Koffee x Calvin Harris x Jessie Reyez - Popcaan x Drake - SG Lewis x Charlotte Day Wilson x Channel Tree - Flohio - Ivy Sole - Tion Wayne x Aitch - Popcaan x Burna boy - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Central C - Major Lazer x Tiwa Savage - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Oshun - Bunrunklyn boyz - Yaya Bey - Maandy x Mejja - Protoje x Lila Iké - Black sherif - Hawa - Bia - Nadg x Sneanizzle - Coi Leray x DJ Saige & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -63,12 +63,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/32a1fc6e-b564-4e61-b215-a54caf6a2ef2_Bia.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Bia",
+					"url": "https://images.prismic.io/x-track-mag/6df4f6b4-3ba4-4968-a011-d42273b64c37_Jessie+Reyez.jpg?auto=compress,format&rect=0,0,1080,1151&w=1024&h=1091",
+					"alt": "Jessie Reyez",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1091,
+					"ratio": 0.9385884509624198
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/e141c236-7ce8-4d5c-9fe2-ad766ca2629b_Central+Cee.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
