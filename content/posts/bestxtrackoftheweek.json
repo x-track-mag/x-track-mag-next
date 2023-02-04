@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-28T10:13:24+0000",
+	"publication_date": "2023-02-04T11:20:36+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/440100ee-d32d-4324-be6d-79b24df26bea_Kali+Uchis.jpg?auto=compress,format",
-		"alt": "Kali Uchis",
+		"url": "https://images.prismic.io/x-track-mag/fcd13d18-ca62-4ea9-8ea4-fb146f9da7ee_PinkPantheress+x+Ice+Spice.jpg?auto=compress,format",
+		"alt": "Ice Spice x PinkPantheress",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
-		"ratio": 1
+		"width": 1600,
+		"height": 900,
+		"ratio": 1.7777777777777777
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Daniel Caesar - Popcaan x Burna Boy - Sam Smith x Calvin Harris x Jessie Reyez - SG Lewis x Charlotte Day Wilson x Channel Tres - Cupidon x Lil Manna - Aya Nakamura - Johan Papaconstantino - Avalon Emerson - Vic Mensa x Maeta x Thundercat - Raury - Phyno x Olamide - Lil Yachty - Fasina - Asap Rocky - Rhye - Kali Uchis - Andrea Bejar x Diago - Honeywhip & ++++",
+					"text": "Major Lazer x Major League Djz x Bianca Costa x Tiwa Savage x DJ Maphorisa x Julio Masidi - Biig Piig - PinkPantheress x Ice Spice - Dapo Turbuna - Dj Neptune x Ruger - Popcaan - Bella Alubo - x Ajubetter22 x Lapidoe - 1da Banton - Samba Peuzi x Rema - Stonebwoy - Chaton - Lil Yatchy - Ricky Gourmet - Black Party x Latto - Vancouver Sleep Clinic x Pop Goes Ambient x Amelia Magdalena - Amaria & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a34a8a81-e2ff-4bef-93d8-14b38c2f359d_Daniel+Caesar.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Daniel Caesar",
+					"url": "https://images.prismic.io/x-track-mag/8f06d6ee-a5c9-4d92-a76d-18ce3ec95e5e_Tiwa+Savage.+.jpg?auto=compress,format&rect=0,0,1434,1150&w=1024&h=821",
+					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 821,
+					"ratio": 1.2472594397076735
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/cb31ec37-fcc4-4583-ae3d-e83642bed09f_Charlotte+Day+Wilson.jpg?auto=compress,format&rect=0,0,1080,1087&w=1024&h=1031",
-					"alt": "Charlotte Day Wilson",
+					"url": "https://images.prismic.io/x-track-mag/63fc3a0d-907c-4ca1-af91-fce2ed3e619c_Olamide.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
+					"alt": "Olamide",
 					"copyright": null,
 					"width": 1024,
-					"height": 1031,
-					"ratio": 0.9932104752667313
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7ca3ccf3-8808-4fa3-bf29-c5efe6bff40c_Popcaan+.jpg?auto=compress,format&rect=0,0,1082,924&w=1024&h=874",
-					"alt": "Popcaan",
+					"url": "https://images.prismic.io/x-track-mag/4e53d343-92ca-459d-93ec-69b78a7d4c94_Bianca+Costa+-.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Bianca Costa",
 					"copyright": null,
 					"width": 1024,
-					"height": 874,
-					"ratio": 1.17162471395881
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/6df4f6b4-3ba4-4968-a011-d42273b64c37_Jessie+Reyez.jpg?auto=compress,format&rect=0,0,1080,1151&w=1024&h=1091",
-					"alt": "Jessie Reyez",
-					"copyright": null,
-					"width": 1024,
-					"height": 1091,
-					"ratio": 0.9385884509624198
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d2ee1e42-d275-448f-8cb0-4cffb98f717e_Sam+Smith.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Sam Smith",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/9b77174a-b724-498a-9b78-eab02c18b5e2_Aya+Nakamura.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Aya Nakamura",
+					"url": "https://images.prismic.io/x-track-mag/7fce18d3-58c6-4c7b-a4e3-2d5b20091ffb_Biig+Piig+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Biig Piig",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/1919d785-4829-43b2-9aa9-c5a9d69242a7_Major+Lazer.jpg?auto=compress,format&rect=0,0,1080,861&w=1024&h=816",
+					"alt": "Major Lazer",
+					"copyright": null,
+					"width": 1024,
+					"height": 816,
+					"ratio": 1.2549019607843137
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/6cffdfcd-ba69-4649-a3ca-8758df7837c1_Bella+Alubo.+.jpg?auto=compress,format&rect=0,0,1612,1209&w=1024&h=768",
+					"alt": "Bella Alubo",
+					"copyright": null,
+					"width": 1024,
+					"height": 768,
+					"ratio": 1.3333333333333333
 				}
 			]
 		},
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=7da8aca867fa4d55",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=30c0410c1b7742e4",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{

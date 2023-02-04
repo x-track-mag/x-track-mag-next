@@ -162,17 +162,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-01-28T10:13:24+0000",
+			"publication_date": "2023-02-04T11:20:36+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/440100ee-d32d-4324-be6d-79b24df26bea_Kali+Uchis.jpg?auto=compress,format",
-				"alt": "Kali Uchis",
+				"url": "https://images.prismic.io/x-track-mag/fcd13d18-ca62-4ea9-8ea4-fb146f9da7ee_PinkPantheress+x+Ice+Spice.jpg?auto=compress,format",
+				"alt": "Ice Spice x PinkPantheress",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 1600,
+				"height": 900,
+				"ratio": 1.7777777777777777
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
