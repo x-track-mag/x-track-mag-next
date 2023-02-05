@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-21T11:17:12+0000",
+	"publication_date": "2023-02-05T10:32:26+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/359e4be2-6f74-481e-9b9f-e65ccdd5869a_Oshun+.jpg?auto=compress,format",
-		"alt": "Oshun",
+		"url": "https://images.prismic.io/x-track-mag/8ece50b1-765d-4dd3-9720-8bb2bb265108_Ami-Faku..jpg?auto=compress,format",
+		"alt": "Ami Faku",
 		"copyright": null,
-		"width": 1179,
-		"height": 1766,
-		"ratio": 0.6676104190260476
+		"width": 1362,
+		"height": 1140,
+		"ratio": 1.194736842105263
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Patrice - Hope Tala - Arlo Parks - Neil Francis x PawPaw Rod - Protoje x Iotosh - Show Dem Camp x Tems - Ami Faku x Gallo Remixed x Black Coffee - Greentea Peng - Mavi - Vagabon - Biig Piig - Benny Sings - Sudan Archives -  Ezéchiel Pailhès - Stormzy  x Tendai x Ayra Starr - Oshun - Chiiild x Lucky Daye - Chaton - Bon Entendeur x Emma Peters - PawPaw Rod - Juls x Fireboy DML x Tay Iwar x P-Rallel - Jungle - Gabriels - Khruangbin - Patchworks x Pat Kalla - Myra - Babeheaven - H.E.R. & +++ enjoy",
+					"text": "Daniel Caesar - Patrice - Hope Tala - Lil Yatchy - SZA x Don Toliver - Arlo Parks - Neil Francis x PawPaw Rod - Ricky Gourmet - Protoje x Iotosh - Show Dem Camp x Tems - Ami Faku x Gallo Remixed x Black Coffee - Greentea Peng - Mavi - Vagabon - Destin Conrad - Born at Midnite - MadeInparis - Biig Piig - Benny Sings - Sudan Archives -  Ezéchiel Pailhès - Stormzy  x Tendai x Ayra Starr - Oshun - Chiiild x Lucky Daye - Chaton - Bon Entendeur x Emma Peters - PawPaw Rod - Juls x Fireboy DML x Tay Iwar x P-Rallel - Jungle - Gabriels - Khruangbin - Patchworks x Pat Kalla - Myra - Babeheaven - H.E.R. & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -42,16 +42,16 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b43c2963-ac58-441b-a095-fc7e56d2a11a_PawPaw+Rod.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
-					"alt": "PawPaw Rod",
+					"url": "https://images.prismic.io/x-track-mag/a34a8a81-e2ff-4bef-93d8-14b38c2f359d_Daniel+Caesar.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Daniel Caesar",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/a4a67c66-cd1b-469a-99af-ce4295a26be4_Arlo+Parks.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": null,
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
 					"height": 576,
@@ -63,20 +63,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d68aa0ec-8e81-4269-ac0d-4a92d050072f_Ami+Faku.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format&rect=0,0,957,956&w=1024&h=1023",
+					"alt": "Greentea Peng ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1023,
 					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=compress,format&rect=0,0,2046,1229&w=1024&h=615",
-					"alt": "Greentea Peng",
+					"url": "https://images.prismic.io/x-track-mag/430d5328-1522-4e5a-832c-79da1e5b611f_Lil+Yatchy.jpg?auto=compress,format&rect=0,0,995,554&w=1024&h=570",
+					"alt": "Lil Yatchy",
 					"copyright": null,
 					"width": 1024,
-					"height": 615,
-					"ratio": 1.665040650406504
+					"height": 570,
+					"ratio": 1.7964912280701755
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/58f89932-679d-47a3-97a4-a7a591858ca7_Hope+Tala.jpg?auto=compress,format&rect=0,0,1080,1205&w=1024&h=1143",
@@ -92,12 +92,12 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=a99f742177fd4a43",
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=078e97b8a87141e9",
 					"title": "New romance"
 				},
 				{
-					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-xlyNmANTvNPRE",
-					"title": "New romance par XTrack"
+					"url": "https://music.apple.com/fr/playlist/new-romance/pl.u-xlyNmANTvNPRE?l=en",
+					"title": "New romance by XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/us/playlist/5281964882",

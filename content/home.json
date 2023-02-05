@@ -296,17 +296,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-01-21T11:17:12+0000",
+			"publication_date": "2023-02-05T10:32:26+0000",
 			"title": "New Romance",
 			"subtitle": "100% Chill Vibes",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/359e4be2-6f74-481e-9b9f-e65ccdd5869a_Oshun+.jpg?auto=compress,format",
-				"alt": "Oshun",
+				"url": "https://images.prismic.io/x-track-mag/8ece50b1-765d-4dd3-9720-8bb2bb265108_Ami-Faku..jpg?auto=compress,format",
+				"alt": "Ami Faku",
 				"copyright": null,
-				"width": 1179,
-				"height": 1766,
-				"ratio": 0.6676104190260476
+				"width": 1362,
+				"height": 1140,
+				"ratio": 1.194736842105263
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
