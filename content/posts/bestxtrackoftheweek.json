@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-02-10T13:59:51+0000",
+	"publication_date": "2023-02-10T22:24:08+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -103,6 +103,10 @@
 				{
 					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lmKDFDY8qp",
 					"title": "Best ”XTrack“ of the Week par XTrack"
+				},
+				{
+					"url": "https://www.deezer.com/us/playlist/4099699282",
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
