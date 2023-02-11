@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-02T11:04:18+0000",
+	"publication_date": "2023-02-11T09:27:53+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/5c807091-d948-4125-a9a2-82351231b768_Wizkid+.jpg?auto=compress,format",
-		"alt": "Wizkid ",
+		"url": "https://images.prismic.io/x-track-mag/dc523324-1e03-440a-8e48-6132c45939a5_Rema+.jpg?auto=compress,format",
+		"alt": "Rema",
 		"copyright": null,
-		"width": 2400,
-		"height": 3000,
-		"ratio": 0.8
+		"width": 1548,
+		"height": 1024,
+		"ratio": 1.51171875
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Burna Boy  x Ed Sheeran - Teni - Wizkid - DJ Tunez x Amexin - Ayra Starr - Falana x Oxlade x Spax - Juls x Niniola x Busiwa x Jaz Karis - Tekno x Mafikizolo -Tiwa Savage x Zinoleesky - Major Lazer -  Krizbeatz x Harmonize x DJ Tira - The Cavemen & ++++ Enjoy",
+					"text": "Burna Boy  x Ed Sheeran - Popcaan x Burna Boy x Drake -Sam Smith x Koffee x jessie Reyez - Teni - Juls x Fireboy DML - Wizkid - Rema x Selena Gomez - DJ Tunez x Amexin - Spinall x Olamide x Kemuel - Kida Kudz -  Major Lazer x Bianca Costa x Tiwa Savage x Major League Djz x DJ Maphorisa x Julio Massidi - Cupidon x Lil Manna - Juls Niniola - Tekno & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -63,7 +63,15 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=compress,format&rect=0,0,1200,900&w=1024&h=768",
+					"alt": "Wizkid ",
+					"copyright": null,
+					"width": 1024,
+					"height": 768,
+					"ratio": 1.3333333333333333
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/6df6a7e4-e43d-4d72-8646-94d43b4b88ea_Ayra+Starr+.jpeg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
 					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
@@ -71,20 +79,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/26801b12-94d3-4301-b771-7ab62fe4ff7f_Oxlade.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Oxlade",
+					"url": "https://images.prismic.io/x-track-mag/4755790b-e4c3-4863-ad67-f05d64aaec4f_Popcaan.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Popcaan",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/7a5dd449-2866-4ef0-acb7-a6abe479474b_Falana+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Falana",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -110,5 +110,5 @@
 			]
 		}
 	],
-	"description": "Burna Boy  x Ed Sheeran - Teni - Wizkid - DJ Tunez x Amexin - Ayra Starr - Falana x Oxlade x Spax - Juls x Niniola x Busiwa x Jaz Karis - Tekno x Mafikizolo -Tiwa Savage x Zinoleesky - Major Lazer -  Krizbeatz x Harmonize x DJ Tira - The Cavemen & ++++ Enjoy"
+	"description": "Burna Boy  x Ed Sheeran - Popcaan x Burna Boy x Drake -Sam Smith x Koffee x jessie Reyez - Teni - Juls x Fireboy DML - Wizkid - Rema x Selena Gomez - DJ Tunez x Amexin - Spinall x Olamide x Kemuel - Kida Kudz -  Major Lazer x Bianca Costa x Tiwa Savage x Major League Djz x DJ Maphorisa x Julio Massidi - Cupidon x Lil Manna - Juls Niniola - Tekno & ++++ Enjoy"
 }
