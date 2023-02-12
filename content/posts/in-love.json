@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-01-02T14:04:05+0000",
+	"publication_date": "2023-02-12T09:03:27+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format",
-		"alt": "Amaria",
+		"url": "https://images.prismic.io/x-track-mag/440100ee-d32d-4324-be6d-79b24df26bea_Kali+Uchis.jpg?auto=compress,format",
+		"alt": "Kali Uchis",
 		"copyright": null,
-		"width": 1440,
-		"height": 1440,
+		"width": 3000,
+		"height": 3000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Arlo Parks - Gabriels - Thomas Caruso Aragona - Men I Trust - Mustafa - Gabi Hartmann - Rosalia - Galimatias -  Kyle Dion -  Sabrina Claudio-  Odie - Delaney Bailey - Yehra - Oklou - The Om's - Finley Quaye - Khruangbin - Cigarettes After Sex - MorMor - Chiiild - Jesse Boykins III - Rum.Gold - Common Saints - La Femme - Sault - Cautious Clay - Bashfortheworld - Bruno Mars x Anderson Paak - Disiz x Yseult - Jenevieve - amaria  & +++ 👆🏽👆🎼🎧",
+					"text": "Vancouver Sleep Clinic x Pop Goes Ambient x Amelia Magdalena  - Amaria -  October London - Arlo Parks - Kali Uchis - Rhy - Free National x Chronixx - Gabriels - Thomas Caruso Aragona - Men I Trust - Mustafa - Gabi Hartmann Rosalia - Galimatias - Kyle Dion - Sabrina Claudio - Yehra - Oklou - The O'My's - Finley Quaye - Khruangbin - Cigarettes After Sex - MorMor - Chiiild & +++ ",
 					"spans": []
 				}
 			]
@@ -44,12 +44,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d51e425c-7edd-4092-981e-af0f13d16b87_Sabrina+Claudio.+.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/2dfe2ba9-5f4f-4c37-ad85-632430529860_Sabrina+Claudio.jpg?auto=compress,format&rect=0,0,768,960&w=1024&h=1280",
 					"alt": "Sabrina Claudio",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f21682f9-c781-4642-b6d6-8311f2ac9f1c_Rosalia+.jpg?auto=compress,format&rect=0,0,1038,1374&w=1024&h=1355",

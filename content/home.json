@@ -498,16 +498,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-01-02T14:04:05+0000",
+			"publication_date": "2023-02-12T09:03:27+0000",
 			"title": "In Love",
 			"subtitle": "Our favorite Love & Cool Songs",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format",
-				"alt": "Amaria",
+				"url": "https://images.prismic.io/x-track-mag/440100ee-d32d-4324-be6d-79b24df26bea_Kali+Uchis.jpg?auto=compress,format",
+				"alt": "Kali Uchis",
 				"copyright": null,
-				"width": 1440,
-				"height": 1440,
+				"width": 3000,
+				"height": 3000,
 				"ratio": 1
 			},
 			"video_loop": null,
