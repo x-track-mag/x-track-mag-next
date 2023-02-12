@@ -132,12 +132,12 @@
 			"uid": "feel-good",
 			"title": "Feel Good",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format",
-				"alt": "Koffee",
+				"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format",
+				"alt": "Ice Spice",
 				"copyright": null,
-				"width": 1440,
-				"height": 1800,
-				"ratio": 0.8
+				"width": 1462,
+				"height": 1217,
+				"ratio": 1.201314708299096
 			},
 			"video_loop": null
 		},
@@ -229,17 +229,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-02-04T11:27:08+0000",
+			"publication_date": "2023-02-12T09:41:04+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format",
-				"alt": "Koffee",
+				"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format",
+				"alt": "Ice Spice",
 				"copyright": null,
-				"width": 1440,
-				"height": 1800,
-				"ratio": 0.8
+				"width": 1462,
+				"height": 1217,
+				"ratio": 1.201314708299096
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
