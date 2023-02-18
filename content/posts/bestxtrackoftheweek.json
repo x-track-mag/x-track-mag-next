@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-02-10T22:24:08+0000",
+	"publication_date": "2023-02-18T19:50:04+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/0f0d10a2-2627-405d-84b6-9028afac08b4_Flowerovlove.jpg?auto=compress,format",
-		"alt": "Flowerovlove",
+		"url": "https://images.prismic.io/x-track-mag/4d11a3a4-f32c-4457-8ad6-f3c4c1c61edd_Kali+Uchis.jpg?auto=compress,format",
+		"alt": "Kali Uchis",
 		"copyright": null,
-		"width": 1080,
-		"height": 1350,
-		"ratio": 0.8
+		"width": 1638,
+		"height": 2048,
+		"ratio": 0.7998046875
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Tibu - Susanna  Okonowski x Atili - Kida Kudz - Flowerovlove - Popcaan - Kes x Busy Signal x Michael Brun - Promoter Musa x Kasi3 - Slenderbodies x Clear Eyes - Skip Marley x Ayra Starr x London - Ivy Sole x Kingsley Ibeneche - Kel-P - Zuchu - Konshens - Ali Farka Touré X Oumou Sangaré - Kari Faux - Yaya Bey - Chiiild - Daniel Caesar - Raury - October London - Searows & ++++",
+					"text": "Don toliver x Kali Uchis - DJ Tunez x Amexin - Juls x S.O.N - Blaq Jerzee x  Tekno - Roseaux x Aloe Blacc - Gabriels - Enny - Naomi Sharon - Bakar - Central Cee - Meerharmix x Kida Kudz - Spinall x BNXN fka Buju - Stefflon Don - Rema - Michael Brun x Oxlade - Popcaan - BNXN fka Buju  x Kizz Daniel x Seyi Vibez - Yaya Bey - Debbie x Lucky Daye - Omar Apollo  & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f43639ad-6ce7-4397-ac00-db1f507447b7_Susanna+Okonowski.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Susanna Okonowski",
+					"url": "https://images.prismic.io/x-track-mag/7af23f30-7173-4d36-b84c-aa3dde19e279_Don+Toliver.jpg?auto=compress,format&rect=0,0,1249,782&w=1024&h=641",
+					"alt": "Don Toliver",
+					"copyright": null,
+					"width": 1024,
+					"height": 641,
+					"ratio": 1.5975039001560063
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/2e1e3127-ce3a-4281-8995-3457cae55eb6_Enny.jpg?auto=compress,format&rect=0,0,1366,2048&w=1024&h=1535",
+					"alt": "Enny",
+					"copyright": null,
+					"width": 1024,
+					"height": 1535,
+					"ratio": 0.6671009771986971
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/516afc32-ed90-45be-b02e-4296372d003c_Gabriels.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Gabriels",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/53d90f68-b1fb-491b-a99b-22f09b68a89f_Kidda+Kudz.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Kidda Kudz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/73630187-3eea-4268-96b9-96ba49d50a07_Ivy+Sole.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Ivy Sole",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a9a6bccf-a885-4e83-8271-58ecef4ccc57_Zuchu+.jpg?auto=compress,format&rect=0,0,1614,1348&w=1024&h=855",
-					"alt": "Zuchu",
-					"copyright": null,
-					"width": 1024,
-					"height": 855,
-					"ratio": 1.1976608187134503
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/6050440f-9795-4de0-842d-ae219398942a_Ali+Farka+Toure%CC%81.jpg?auto=compress,format&rect=0,0,1080,1073&w=1024&h=1017",
-					"alt": "Ali Farka Touré",
-					"copyright": null,
-					"width": 1024,
-					"height": 1017,
-					"ratio": 1.0068829891838742
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ae6aeef3-3446-4797-b5b7-aee57eada24e_Oumou+Sangare%CC%81.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Oumou Sangaré",
+					"url": "https://images.prismic.io/x-track-mag/179dc5e5-ce33-435d-b34c-7c4ba5cc4627_Juls.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Juls",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1139&w=1024&h=1080",
+					"alt": "Naomi Sharon",
+					"copyright": null,
+					"width": 1024,
+					"height": 1080,
+					"ratio": 0.9481481481481482
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/016ed492-4b7c-4f55-afd6-25fc30ed0957_Bakar.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Bakar",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
