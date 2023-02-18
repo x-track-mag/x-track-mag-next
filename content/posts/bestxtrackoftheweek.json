@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-02-18T19:50:04+0000",
+	"publication_date": "2023-02-18T19:54:01+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -76,20 +76,20 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1139&w=1024&h=1080",
-					"alt": "Naomi Sharon",
+					"url": "https://images.prismic.io/x-track-mag/b81ea1a0-65f6-455b-9d08-01e145a1ea05_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Stefflon Don",
 					"copyright": null,
 					"width": 1024,
-					"height": 1080,
-					"ratio": 0.9481481481481482
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/016ed492-4b7c-4f55-afd6-25fc30ed0957_Bakar.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Bakar",
+					"url": "https://images.prismic.io/x-track-mag/856fcbd6-4290-4015-9dd3-52dfa1718e85_Tekno.jpg?auto=compress,format&rect=0,0,1080,1166&w=1024&h=1106",
+					"alt": "Tekno",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1106,
+					"ratio": 0.9258589511754068
 				}
 			]
 		},
