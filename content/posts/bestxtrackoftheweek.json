@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-02-18T19:54:01+0000",
+	"publication_date": "2023-02-24T20:11:52+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/4d11a3a4-f32c-4457-8ad6-f3c4c1c61edd_Kali+Uchis.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/a005d181-b196-4433-95c9-f04729152db9_Kali+Uchis.jpg?auto=compress,format",
 		"alt": "Kali Uchis",
 		"copyright": null,
-		"width": 1638,
-		"height": 2048,
-		"ratio": 0.7998046875
+		"width": 3000,
+		"height": 3000,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Don toliver x Kali Uchis - DJ Tunez x Amexin - Juls x S.O.N - Blaq Jerzee x  Tekno - Roseaux x Aloe Blacc - Gabriels - Enny - Naomi Sharon - Bakar - Central Cee - Meerharmix x Kida Kudz - Spinall x BNXN fka Buju - Stefflon Don - Rema - Michael Brun x Oxlade - Popcaan - BNXN fka Buju  x Kizz Daniel x Seyi Vibez - Yaya Bey - Debbie x Lucky Daye - Omar Apollo  & ++++",
+					"text": "Kali Uchis - Raury - DJ Tunez x Amexin - Gorillaz x Bad Bunny - Skrillex x Bibi Bourelly - Stormzy x Rema - Hamza x Damso - Majeeed x Tiwa Savage -  MadeInParis x Maureen - Yaeji - Tay Iwar - DVSN - Varnish la Piscine - Don toliver x Lil Durk x Glorilla - Kelela - Geo Express x Eugy - Haviah Mighty - Elijah Fox x Amaria - Thomas Caruso Aragona - Joesef - Raphael Eligoulashvili & ++++",
 					"spans": []
 				}
 			]
@@ -39,24 +39,53 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/7af23f30-7173-4d36-b84c-aa3dde19e279_Don+Toliver.jpg?auto=compress,format&rect=0,0,1249,782&w=1024&h=641",
-					"alt": "Don Toliver",
+					"url": "https://images.prismic.io/x-track-mag/05b76011-971c-4a05-b113-8d20103a1f86_Yaeji.jpg?auto=compress,format&rect=0,0,1080,777&w=1024&h=737",
+					"alt": "Yaeji",
 					"copyright": null,
 					"width": 1024,
-					"height": 641,
-					"ratio": 1.5975039001560063
+					"height": 737,
+					"ratio": 1.389416553595658
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2e1e3127-ce3a-4281-8995-3457cae55eb6_Enny.jpg?auto=compress,format&rect=0,0,1366,2048&w=1024&h=1535",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/4a71abc6-7f74-4282-bdc7-93f7e67ebf9d_Bad+Bunny.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Bad Bunny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/516afc32-ed90-45be-b02e-4296372d003c_Gabriels.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Gabriels",
+					"url": "https://images.prismic.io/x-track-mag/ba21f75d-1299-4847-96ad-f58a3ebcdb72_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amaria",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/d135a7b9-f6aa-452d-8d95-908cc1c45a46_Maureen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Maureen",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/6b2dd64e-2db5-41b7-bd79-df6cb35ec4d1_MadeInParis.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "MadeInParis",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/49c97f1c-014a-4a8d-b5e7-16321b9b199c_Haviah+Mighty.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Haviah Mighty",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -65,39 +94,10 @@
 			]
 		},
 		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/179dc5e5-ce33-435d-b34c-7c4ba5cc4627_Juls.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Juls",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b81ea1a0-65f6-455b-9d08-01e145a1ea05_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Stefflon Don",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/856fcbd6-4290-4015-9dd3-52dfa1718e85_Tekno.jpg?auto=compress,format&rect=0,0,1080,1166&w=1024&h=1106",
-					"alt": "Tekno",
-					"copyright": null,
-					"width": 1024,
-					"height": 1106,
-					"ratio": 0.9258589511754068
-				}
-			]
-		},
-		{
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=1882cdb50b2e4196",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=19c97cee62d14472",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
@@ -105,7 +105,7 @@
 					"title": "Best ”XTrack“ of the Week par XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/us/playlist/4099699282",
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
