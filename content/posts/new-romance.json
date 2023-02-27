@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-02-05T10:32:26+0000",
+	"publication_date": "2023-02-27T08:02:12+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Daniel Caesar - Patrice - Hope Tala - Lil Yatchy - SZA x Don Toliver - Arlo Parks - Neil Francis x PawPaw Rod - Ricky Gourmet - Protoje x Iotosh - Show Dem Camp x Tems - Ami Faku x Gallo Remixed x Black Coffee - Greentea Peng - Mavi - Vagabon - Destin Conrad - Born at Midnite - MadeInparis - Biig Piig - Benny Sings - Sudan Archives -  Ezéchiel Pailhès - Stormzy  x Tendai x Ayra Starr - Oshun - Chiiild x Lucky Daye - Chaton - Bon Entendeur x Emma Peters - PawPaw Rod - Juls x Fireboy DML x Tay Iwar x P-Rallel - Jungle - Gabriels - Khruangbin - Patchworks x Pat Kalla - Myra - Babeheaven - H.E.R. & +++ enjoy",
+					"text": "Daniel Caesar - Patrice - Neil Francis x PawPaw Rod -  Raury - Kelela - Ami Faku x Gallo Remixed x Black Coffee - June Freedom - Mavi Greentea Peng - Mavi - Show Dem Camp x Tems - Vagabon - Destin Conrad - MadeInparis - Stormzy  x Tendai x Ayra Starr - Biig Piig -Hamza x Damso - Suzana Okonowski x Atili -  Juls x Tay Iwar x P-Rallel x Fireboy DML -  Zack Fox - Jungle - Gabriels - Khruangbin - Hope Tala - Ezechiel Paihès - Patchwork x Pat Kala - Sudan Archives - Oshun - Chaton - Yaeji -  Chiiild - Toro y Moi & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -50,12 +50,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a4a67c66-cd1b-469a-99af-ce4295a26be4_Arlo+Parks.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/b9fc3809-563a-4760-9d16-6c5aa384611f_Kelela.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Kelela",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -71,12 +71,12 @@
 					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/430d5328-1522-4e5a-832c-79da1e5b611f_Lil+Yatchy.jpg?auto=compress,format&rect=0,0,995,554&w=1024&h=570",
-					"alt": "Lil Yatchy",
+					"url": "https://images.prismic.io/x-track-mag/c11adcf0-1dca-497c-9b09-68d55f3bebfc_Raury.jpg?auto=compress,format&rect=0,0,2000,3000&w=1024&h=1536",
+					"alt": "Raury",
 					"copyright": null,
 					"width": 1024,
-					"height": 570,
-					"ratio": 1.7964912280701755
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/58f89932-679d-47a3-97a4-a7a591858ca7_Hope+Tala.jpg?auto=compress,format&rect=0,0,1080,1205&w=1024&h=1143",
