@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-03-04T11:01:10+0000",
+	"publication_date": "2023-03-04T11:06:53+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -76,12 +76,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/89cf35a9-c624-49c6-b86b-c7d9e38c9a14_Charlotte+Cardin.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/ef7b62a1-94de-4d2c-8733-d4d40c25346c_Charlotte+Cardin+.jpg?auto=compress,format&rect=0,0,1080,1218&w=1024&h=1155",
 					"alt": "Charlotte Cardin",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1155,
+					"ratio": 0.8865800865800866
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f024c5ce-ff04-4abf-aee1-d5d80fce6d0e_BZ.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
