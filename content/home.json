@@ -162,17 +162,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-02-24T20:11:52+0000",
+			"publication_date": "2023-03-04T11:01:10+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a005d181-b196-4433-95c9-f04729152db9_Kali+Uchis.jpg?auto=compress,format",
-				"alt": "Kali Uchis",
+				"url": "https://images.prismic.io/x-track-mag/31bfdef7-c8c9-4f46-9ea0-34fe1041a28b_Mysie.+.jpg?auto=compress,format",
+				"alt": "Mysie",
 				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
+				"width": 2560,
+				"height": 2130,
+				"ratio": 1.2018779342723005
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

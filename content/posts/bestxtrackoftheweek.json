@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-02-24T20:11:52+0000",
+	"publication_date": "2023-03-04T11:01:10+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/a005d181-b196-4433-95c9-f04729152db9_Kali+Uchis.jpg?auto=compress,format",
-		"alt": "Kali Uchis",
+		"url": "https://images.prismic.io/x-track-mag/31bfdef7-c8c9-4f46-9ea0-34fe1041a28b_Mysie.+.jpg?auto=compress,format",
+		"alt": "Mysie",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
-		"ratio": 1
+		"width": 2560,
+		"height": 2130,
+		"ratio": 1.2018779342723005
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Kali Uchis - Raury - DJ Tunez x Amexin - Gorillaz x Bad Bunny - Skrillex x Bibi Bourelly - Stormzy x Rema - Hamza x Damso - Majeeed x Tiwa Savage -  MadeInParis x Maureen - Yaeji - Tay Iwar - DVSN - Varnish la Piscine - Don toliver x Lil Durk x Glorilla - Kelela - Geo Express x Eugy - Haviah Mighty - Elijah Fox x Amaria - Thomas Caruso Aragona - Joesef - Raphael Eligoulashvili & ++++",
+					"text": "Scrptiid x Jada Kingdom x Astyle Alive - 6LACK - Krishna Canning x Habe - Mysie - Austin Millz x Sabrina Claudio - Spinall x Tay Iwar x Tamera x TSB - Arlo Parks - BZ - June Freedom x Eva Ruiz - Tekno - Hamza - Arthur H - Youth Lagoon - Don Toliver x James Blake - Chiiild x Charlotte Cardin & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/05b76011-971c-4a05-b113-8d20103a1f86_Yaeji.jpg?auto=compress,format&rect=0,0,1080,777&w=1024&h=737",
-					"alt": "Yaeji",
+					"url": "https://images.prismic.io/x-track-mag/470f322f-e3e1-4bb3-9d1a-9ca409f94f63_Jada+Kingdom+.jpg?auto=compress,format&rect=0,0,717,611&w=1024&h=873",
+					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
-					"height": 737,
-					"ratio": 1.389416553595658
+					"height": 873,
+					"ratio": 1.172966781214204
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4a71abc6-7f74-4282-bdc7-93f7e67ebf9d_Bad+Bunny.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Bad Bunny",
+					"url": "https://images.prismic.io/x-track-mag/b7a4889e-f144-46c8-a6d8-a309ed3a70d7_6Lack.jpg?auto=compress,format&rect=0,0,731,731&w=1024&h=1024",
+					"alt": "6Lack",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ba21f75d-1299-4847-96ad-f58a3ebcdb72_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amaria",
+					"url": "https://images.prismic.io/x-track-mag/2970e0e7-336e-4b6f-97e8-dc8d4ad7862b_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -68,24 +68,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d135a7b9-f6aa-452d-8d95-908cc1c45a46_Maureen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Maureen",
+					"url": "https://images.prismic.io/x-track-mag/1589ca32-7c12-44db-9141-68195e3079f4_Hamza.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Hamza",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6b2dd64e-2db5-41b7-bd79-df6cb35ec4d1_MadeInParis.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
-					"alt": "MadeInParis",
+					"url": "https://images.prismic.io/x-track-mag/89cf35a9-c624-49c6-b86b-c7d9e38c9a14_Charlotte+Cardin.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Charlotte Cardin",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/49c97f1c-014a-4a8d-b5e7-16321b9b199c_Haviah+Mighty.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Haviah Mighty",
+					"url": "https://images.prismic.io/x-track-mag/f024c5ce-ff04-4abf-aee1-d5d80fce6d0e_BZ.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "BZ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=19c97cee62d14472",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=4d3ee42291084b84",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
