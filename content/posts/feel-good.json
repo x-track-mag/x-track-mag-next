@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-02-12T09:41:04+0000",
+	"publication_date": "2023-03-05T11:39:17+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Diddy x Partynextdoor - Ice Spice - Kida Kudz - Sam Smith x Koffee x Jessie Reyez - Popcaan x Drake - Flohio -  Pink Pantheress x Ice Spice - Ivy Sole - Tion Wayne x Aitch - Popcaan x Burna boy - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Central C - Major Lazer x Bianca Costa x Tiwa Savage x Major League Djz x DJ Maphorisa x Julio Masidi - Cupidon x Lil Manna - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Oshun - Bunrunklyn boyz - Yaya Bey - Maandy x Mejja - Protoje x Lila Iké - Black sherif - Hawa - Bia - Nadg x Sneanizzle - Coi Leray x DJ Saige & +++ Enjoy",
+					"text": "Don Toliver x James Blake - Central Cee- Ice Spice - Kida Kudz - BZ - Sam Smith x Koffee x Jessie Reyez - Popcaan x Drake - Pink Pantheress x Ice Spice - Ivy Sole - Tion Wayne x Aitch - Popcaan x Burna boy - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Krishna Canning x Habe -  Major Lazer x Bianca Costa x Tiwa Savage x Major League Djz x DJ Maphorisa x Julio Masidi - Cupidon x Lil Manna - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Oshun - Bunrunklyn boyz - Flohio - Yaya Bey - Maandy x Mejja - Protoje x Lila Iké - Black sherif - Hawa  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -42,20 +42,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d2ee1e42-d275-448f-8cb0-4cffb98f717e_Sam+Smith.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "Sam Smith",
+					"url": "https://images.prismic.io/x-track-mag/1f1d4867-5d58-4140-bbc2-0d6f71131b63_Don+Toliver.jpg?auto=compress,format&rect=0,0,1080,1347&w=1024&h=1277",
+					"alt": "Don Toliver",
+					"copyright": null,
+					"width": 1024,
+					"height": 1277,
+					"ratio": 0.8018794048551292
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/73630187-3eea-4268-96b9-96ba49d50a07_Ivy+Sole.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Ivy Sole",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/3bb31872-8a57-4329-86a5-46008a3cd4b3_Flohio.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Flohio",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
 				}
 			]
 		},
@@ -92,7 +92,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=23505222eed64bc7",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=ad0d300897c64373",
 					"title": "Feel Good"
 				},
 				{
@@ -100,7 +100,7 @@
 					"title": "Feel Good par XTrack"
 				},
 				{
-					"url": "https://www.deezer.com/us/playlist/5068447124",
+					"url": "https://www.deezer.com/fr/playlist/5068447124",
 					"title": "Feel Good"
 				},
 				{
