@@ -162,17 +162,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-03-04T11:06:53+0000",
+			"publication_date": "2023-03-10T20:09:37+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/31bfdef7-c8c9-4f46-9ea0-34fe1041a28b_Mysie.+.jpg?auto=compress,format",
-				"alt": "Mysie",
+				"url": "https://images.prismic.io/x-track-mag/eeb6c748-3caf-4c2a-b7e2-0cfd8a31024f_Yuna.jpg?auto=compress,format",
+				"alt": "Yuna",
 				"copyright": null,
-				"width": 2560,
-				"height": 2130,
-				"ratio": 1.2018779342723005
+				"width": 1440,
+				"height": 1800,
+				"ratio": 0.8
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

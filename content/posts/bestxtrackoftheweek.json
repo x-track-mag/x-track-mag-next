@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-03-04T11:06:53+0000",
+	"publication_date": "2023-03-10T20:09:37+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/31bfdef7-c8c9-4f46-9ea0-34fe1041a28b_Mysie.+.jpg?auto=compress,format",
-		"alt": "Mysie",
+		"url": "https://images.prismic.io/x-track-mag/eeb6c748-3caf-4c2a-b7e2-0cfd8a31024f_Yuna.jpg?auto=compress,format",
+		"alt": "Yuna",
 		"copyright": null,
-		"width": 2560,
-		"height": 2130,
-		"ratio": 1.2018779342723005
+		"width": 1440,
+		"height": 1800,
+		"ratio": 0.8
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Scrptiid x Jada Kingdom x Astyle Alive - 6LACK - Krishna Canning x Habe - Mysie - Austin Millz x Sabrina Claudio - Spinall x Tay Iwar x Tamera x TSB - Arlo Parks - BZ - June Freedom x Eva Ruiz - Tekno - Hamza - Arthur H - Youth Lagoon - Don Toliver x James Blake - Chiiild x Charlotte Cardin & ++++",
+					"text": "Don Toliver x Wizkid - 6LACK - Boj - Rhye - Henry x Yuna - Emiene - Scrptiid x Jada Kingdom x Astyle Alive - Mysie - Austin Millz x Sabrina Claudio - Spinall x Tay Iwar x Tamera x TSB - BZ - Raury - DJ Tunez x Amexin - Gorillaz x Bad Bunny - Stormzy x Rema - Hamza x Damso  -  Kelela - Don Toliver x Kali Uchis - Tibu - Sam Smith x Koffee x Jessie Reyez - Popcann x Drake - Juls x S.O.N. & ++++",
 					"spans": []
 				}
 			]
@@ -38,6 +38,14 @@
 		{
 			"template": "section-gallery",
 			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/91b2f609-32eb-4cb3-a688-a5b82d939ad6_Wizkid.jpg?auto=compress,format&rect=0,0,1623,1957&w=1024&h=1235",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1235,
+					"ratio": 0.8291497975708502
+				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/470f322f-e3e1-4bb3-9d1a-9ca409f94f63_Jada+Kingdom+.jpg?auto=compress,format&rect=0,0,717,611&w=1024&h=873",
 					"alt": "Jada Kingdom",
@@ -47,20 +55,12 @@
 					"ratio": 1.172966781214204
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b7a4889e-f144-46c8-a6d8-a309ed3a70d7_6Lack.jpg?auto=compress,format&rect=0,0,731,731&w=1024&h=1024",
-					"alt": "6Lack",
+					"url": "https://images.prismic.io/x-track-mag/7af23f30-7173-4d36-b84c-aa3dde19e279_Don+Toliver.jpg?auto=compress,format&rect=0,0,1249,782&w=1024&h=641",
+					"alt": "Don Toliver",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2970e0e7-336e-4b6f-97e8-dc8d4ad7862b_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Arlo Parks",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 641,
+					"ratio": 1.5975039001560063
 				}
 			]
 		},
@@ -76,12 +76,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ef7b62a1-94de-4d2c-8733-d4d40c25346c_Charlotte+Cardin+.jpg?auto=compress,format&rect=0,0,1080,1218&w=1024&h=1155",
-					"alt": "Charlotte Cardin",
+					"url": "https://images.prismic.io/x-track-mag/31bfdef7-c8c9-4f46-9ea0-34fe1041a28b_Mysie.+.jpg?auto=compress,format&rect=0,0,2560,2130&w=1024&h=852",
+					"alt": "Mysie",
 					"copyright": null,
 					"width": 1024,
-					"height": 1155,
-					"ratio": 0.8865800865800866
+					"height": 852,
+					"ratio": 1.2018779342723005
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f024c5ce-ff04-4abf-aee1-d5d80fce6d0e_BZ.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=4d3ee42291084b84",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=e6cc9ecceab44d45",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
