@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2022-12-28T11:10:14+0000",
+	"publication_date": "2023-03-12T10:24:00+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/619be15f-5e92-45b1-bc96-95af95391af9_Tems+.jpg?auto=compress,format",
-		"alt": "Tems",
+		"url": "https://images.prismic.io/x-track-mag/e9f1178a-4a6b-4d2a-bc55-78a9e79b5631_Ayra+Starr.jpg?auto=compress,format",
+		"alt": "Ayra Starr",
 		"copyright": null,
-		"width": 2048,
-		"height": 2048,
-		"ratio": 1
+		"width": 2670,
+		"height": 3189,
+		"ratio": 0.8372530573847601
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Show Dem Camp x Tems- Boj - The Cavemen - Wizkid x Don Toliver - BNXN fka Buju - Teni - Kidi x Tyga - Yaya Bey - Busy Signal x Jeffwon - Bitty McLean - Pachyman x Winter - Yung L - Enyel C X MJ Nebreda - Ghetto Boy - Skip Marley x Popcaan x Ayra Starr - Blundetto x Voilaaa - Juls x Twich4EVA x Quamina Mp - Tekno - Jobo x Bogo - Asa - Simi - Juniper x Sango x Vhoor - Black Sherif - Protoje x Iotosh - Tera Kora x Yung D3mz - Lila Iké - Jada Kingdom - Antonin x Voilaaa - Samthing Soweto  & +++",
+					"text": "Dj Tunez x Amexin - Boj - Wizkid - Gorillaz x Bad Bunny - Stormzy x Tendai x Ayra Starr x Rema - Juls x S.O.N. x Tay Iwar - Ghetto Boy  - The Cavemen - Skip Marley x Popcaan - Tekno - Juls x Twich 4EVA x Quamina MP - Lila Iké - Jobo x Bogo - Yung L - Fireboy DML - Blundetto x Voilaaa - yaya Bey - Busy Signal x Jeffwon - Maandy x Mejja - Jada Kingdom - Asa - Oshun & +++",
 					"spans": []
 				}
 			]
@@ -34,7 +34,7 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/40c79b7d-1906-44ae-9edc-d516b206e640_LILA+IKE.jpg?auto=compress,format&rect=0,0,2323,2559&w=1024&h=1128",
+					"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format&rect=0,0,2500,2754&w=1024&h=1128",
 					"alt": "Lila Iké",
 					"copyright": null,
 					"width": 1024,
@@ -50,12 +50,12 @@
 					"ratio": 0.8291497975708502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/fca47e99-3a54-43c7-9eed-b6a381fabe59_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1010,947&w=1024&h=960",
+					"url": "https://images.prismic.io/x-track-mag/470f322f-e3e1-4bb3-9d1a-9ca409f94f63_Jada+Kingdom+.jpg?auto=compress,format&rect=0,0,717,611&w=1024&h=873",
 					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
-					"height": 960,
-					"ratio": 1.0666666666666667
+					"height": 873,
+					"ratio": 1.172966781214204
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/daf99cbf-26c8-4d1f-8084-f41f3ee3562a_Teni--.jpg?auto=compress,format&rect=0,0,1668,1137&w=1024&h=698",
-					"alt": "Teni",
+					"url": "https://images.prismic.io/x-track-mag/4a71abc6-7f74-4282-bdc7-93f7e67ebf9d_Bad+Bunny.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Bad Bunny",
 					"copyright": null,
 					"width": 1024,
-					"height": 698,
-					"ratio": 1.4670487106017192
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
+					"url": "https://images.prismic.io/x-track-mag/359e4be2-6f74-481e-9b9f-e65ccdd5869a_Oshun+.jpg?auto=compress,format&rect=0,0,1179,1766&w=1024&h=1534",
+					"alt": "Oshun",
+					"copyright": null,
+					"width": 1024,
+					"height": 1534,
+					"ratio": 0.6675358539765319
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/179dc5e5-ce33-435d-b34c-7c4ba5cc4627_Juls.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
 					"alt": "Juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/1598fc9e-f431-413d-a609-c702b25a48b2_Asa+.jpg?auto=compress,format&rect=0,0,1280,720&w=1024&h=576",
-					"alt": "Asa",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
