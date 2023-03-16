@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-03-16T14:32:08+0000",
+	"publication_date": "2023-03-16T14:33:52+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"text_color": "inverted",
@@ -89,12 +89,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/dbdba897-51c2-4cb8-bac1-7a0d508d2cd7_Khruangbin.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
-					"alt": "Khruangbin",
+					"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
