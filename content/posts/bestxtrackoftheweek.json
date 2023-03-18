@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-03-10T20:11:22+0000",
+	"publication_date": "2023-03-18T09:38:29+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/eeb6c748-3caf-4c2a-b7e2-0cfd8a31024f_Yuna.jpg?auto=compress,format",
-		"alt": "Yuna",
+		"url": "https://images.prismic.io/x-track-mag/20f84a48-69d1-43be-a022-01aee54db83c_Halima.jpg?auto=compress,format",
+		"alt": "Halima",
 		"copyright": null,
 		"width": 1440,
-		"height": 1800,
-		"ratio": 0.8
+		"height": 1440,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Don Toliver x Wizkid - 6LACK - Boj - Rhye - Henry x Yuna - Emiene - Scrptiid x Jada Kingdom x Astyle Alive - Mysie -  Spinall x Tay Iwar x Tamera x TSB - BZ - Raury - DJ Tunez x Amexin - Gorillaz x Bad Bunny - Stormzy x Rema - Hamza x Damso  -  Kelela - Don Toliver x Kali Uchis - Tibu - Sam Smith x Koffee x Jessie Reyez - Popcann x Drake - Juls x S.O.N. & ++++",
+					"text": " Joe Yorke x The Co-Operators - Halima - Tamae x Lyric Le'son - Tiwa Savage x Ayra Starr x Young Jonn - All My Cousins - Benny Sings x Remi Wolf - Adekunle Gold x Zinoleesky - Igwe Aka - Jado P x Fireboy DML - Avisha Cohen x Abraham Rodriguez Jr - Eek-A-Mouss x Irie Ites - Masego - THEY. x Yung Bleu & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/91b2f609-32eb-4cb3-a688-a5b82d939ad6_Wizkid.jpg?auto=compress,format&rect=0,0,1623,1957&w=1024&h=1235",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/ecf4a731-44a8-4282-9092-74d88af8345f_Ayra+Starr+.jpg?auto=compress,format&rect=0,0,1080,1152&w=1024&h=1092",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 1235,
-					"ratio": 0.8291497975708502
+					"height": 1092,
+					"ratio": 0.9377289377289377
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/470f322f-e3e1-4bb3-9d1a-9ca409f94f63_Jada+Kingdom+.jpg?auto=compress,format&rect=0,0,717,611&w=1024&h=873",
-					"alt": "Jada Kingdom",
+					"url": "https://images.prismic.io/x-track-mag/50453340-397f-406e-accd-0a55fdc00fc8_Benny+Sings+x+Remi+Wolf.jpg?auto=compress,format&rect=0,0,1080,866&w=1024&h=821",
+					"alt": "Benny Sings x Remi Wolf",
 					"copyright": null,
 					"width": 1024,
-					"height": 873,
-					"ratio": 1.172966781214204
+					"height": 821,
+					"ratio": 1.2472594397076735
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7af23f30-7173-4d36-b84c-aa3dde19e279_Don+Toliver.jpg?auto=compress,format&rect=0,0,1249,782&w=1024&h=641",
-					"alt": "Don Toliver",
+					"url": "https://images.prismic.io/x-track-mag/5f345f18-5085-48fd-86a9-2ca4169214a1_Tiwa+Savage+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 641,
-					"ratio": 1.5975039001560063
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/1589ca32-7c12-44db-9141-68195e3079f4_Hamza.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Hamza",
+					"url": "https://images.prismic.io/x-track-mag/ddd5e2cf-ef52-45b6-8d35-2e42716e6188_Adekunle+Gold+x+Zinoleesky.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Adekunle Gold x Zinoleesky",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a56fe1b6-4b6e-4bb6-b44b-50068747f284_Tamae.jpg?auto=compress,format&rect=0,0,800,1000&w=1024&h=1280",
+					"alt": "Tamae",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/31bfdef7-c8c9-4f46-9ea0-34fe1041a28b_Mysie.+.jpg?auto=compress,format&rect=0,0,2560,2130&w=1024&h=852",
-					"alt": "Mysie",
+					"url": "https://images.prismic.io/x-track-mag/efcfbc3c-0990-4dad-8672-42822801fcfd_Joe+Yorke.jpg?auto=compress,format&rect=0,0,1080,1081&w=1024&h=1025",
+					"alt": "Joe Yorke",
 					"copyright": null,
 					"width": 1024,
-					"height": 852,
-					"ratio": 1.2018779342723005
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f024c5ce-ff04-4abf-aee1-d5d80fce6d0e_BZ.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "BZ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				}
 			]
 		},
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=e6cc9ecceab44d45",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=de2392ebc6154746",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{

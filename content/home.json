@@ -162,17 +162,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-03-10T20:11:22+0000",
+			"publication_date": "2023-03-18T09:38:29+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/eeb6c748-3caf-4c2a-b7e2-0cfd8a31024f_Yuna.jpg?auto=compress,format",
-				"alt": "Yuna",
+				"url": "https://images.prismic.io/x-track-mag/20f84a48-69d1-43be-a022-01aee54db83c_Halima.jpg?auto=compress,format",
+				"alt": "Halima",
 				"copyright": null,
 				"width": 1440,
-				"height": 1800,
-				"ratio": 0.8
+				"height": 1440,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
