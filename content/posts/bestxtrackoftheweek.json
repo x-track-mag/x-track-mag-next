@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-03-18T09:44:06+0000",
+	"publication_date": "2023-03-25T08:41:57+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/20f84a48-69d1-43be-a022-01aee54db83c_Halima.jpg?auto=compress,format",
-		"alt": "Halima",
+		"url": "https://images.prismic.io/x-track-mag/c19ec28d-98bf-4a83-b2d4-828b0cab7866_Central+Cee+++.jpg?auto=compress,format",
+		"alt": "Central Cee",
 		"copyright": null,
-		"width": 1440,
-		"height": 1440,
-		"ratio": 1
+		"width": 1628,
+		"height": 1359,
+		"ratio": 1.1979396615158204
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": " Joe Yorke x The Co-Operators - Halima - Tamae x Lyric Le'son - Tiwa Savage x Ayra Starr x Young Jonn - All My Cousins - Benny Sings x Remi Wolf - Adekunle Gold x Zinoleesky - Igwe Aka - Jado P x Fireboy DML - Avisha Cohen x Abraham Rodriguez Jr - Eek-A-Mouss x Irie Ites - Masego & ++++",
+					"text": "Central Cee - amaraae - Strandz x Digga D -  Adi Oasis x Leven Kali - Burna Boy x J Balvin - Victony x Don Toliver x Rema x Tempoe - Blaq Jerzee x Tiwa Savage - Yemi Alade x Bisa Kdei - Otile Brown - Destin Conrad - Johan Papaconstantino x Prosper - Varnish La Piscine - 6LACK - Kali Uchis - Tobi - Amaria & ++++",
 					"spans": []
 				}
 			]
@@ -39,20 +39,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ecf4a731-44a8-4282-9092-74d88af8345f_Ayra+Starr+.jpg?auto=compress,format&rect=0,0,1080,1152&w=1024&h=1092",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/f532a9a6-7b3f-4bdd-9b19-c58e64044c45_Amaarae.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
-					"height": 1092,
-					"ratio": 0.9377289377289377
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/50453340-397f-406e-accd-0a55fdc00fc8_Benny+Sings+x+Remi+Wolf.jpg?auto=compress,format&rect=0,0,1080,866&w=1024&h=821",
-					"alt": "Benny Sings x Remi Wolf",
+					"url": "https://images.prismic.io/x-track-mag/ac86d94b-d2a9-4fc8-b9a7-20492d41d315_Leven+Kali+x+Adi+Oasis.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Leven Kali x Adi Oasis",
 					"copyright": null,
 					"width": 1024,
-					"height": 821,
-					"ratio": 1.2472594397076735
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/5f345f18-5085-48fd-86a9-2ca4169214a1_Tiwa+Savage+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ddd5e2cf-ef52-45b6-8d35-2e42716e6188_Adekunle+Gold+x+Zinoleesky.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Adekunle Gold x Zinoleesky",
+					"url": "https://images.prismic.io/x-track-mag/7cdf0f97-3ffd-4ca2-a2b2-e66ec8d86536_J.+Balvin+x+Burna+Boy.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "J Balvin x Burna Boy",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a56fe1b6-4b6e-4bb6-b44b-50068747f284_Tamae.jpg?auto=compress,format&rect=0,0,800,1000&w=1024&h=1280",
-					"alt": "Tamae",
+					"url": "https://images.prismic.io/x-track-mag/e46b84c6-8ec6-481b-863c-f08d32f87d1a_Yemi+Alade.jpg?auto=compress,format&rect=0,0,1125,1396&w=1024&h=1271",
+					"alt": "Yemi Alade",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1271,
+					"ratio": 0.8056648308418568
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/efcfbc3c-0990-4dad-8672-42822801fcfd_Joe+Yorke.jpg?auto=compress,format&rect=0,0,1080,1081&w=1024&h=1025",
-					"alt": "Joe Yorke",
+					"url": "https://images.prismic.io/x-track-mag/4f387ce8-81f3-48e2-b47b-fbcd1437c7cb_Varnish+La+Piscine.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Varnish La Piscine",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
