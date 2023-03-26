@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-03-06T13:24:44+0000",
+	"publication_date": "2023-03-26T08:19:41+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Ice Spice - Kida Kudz - BZ - Sam Smith x Koffee x Jessie Reyez - Popcaan x Drake - Pink Pantheress x Ice Spice - Ivy Sole - Tion Wayne x Aitch - Popcaan x Burna boy - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Krishna Canning x Habe -  Central Cee - Major Lazer x Bianca Costa x Tiwa Savage x Major League Djz x DJ Maphorisa x Julio Masidi - Cupidon x Lil Manna - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Oshun - Bunrunklyn boyz - Flohio - Yaya Bey - Maandy x Mejja - Protoje x Lila Iké - Black sherif - Hawa  & +++ Enjoy",
+					"text": "Central Cee - Ice Spice - Kida Kudz - BZ - Igwe aka - Strandz x Digga D - Sam Smith x Koffee x Jessie Reyez - Popcaan x Drake - Pink Pantheress x Ice Spice - Halima - Blaq Jerzee x Tiwa Savage - Ivy Sole - Tion Wayne x Aitch - Popcaan x Burna boy - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Krishna Canning x Habe - Major Lazer x Bianca Costa x Tiwa Savage x Major League Djz x DJ Maphorisa x Julio Masidi - Cupidon x Lil Manna - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Oshun - Bunrunklyn boyz - Flohio - Yaya Bey - Maandy x Mejja - Protoje x Lila Iké - Black sherif - Hawa  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -63,24 +63,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/6df4f6b4-3ba4-4968-a011-d42273b64c37_Jessie+Reyez.jpg?auto=compress,format&rect=0,0,1080,1151&w=1024&h=1091",
-					"alt": "Jessie Reyez",
-					"copyright": null,
-					"width": 1024,
-					"height": 1091,
-					"ratio": 0.9385884509624198
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e141c236-7ce8-4d5c-9fe2-ad766ca2629b_Central+Cee.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/c0054def-21e1-48d0-b206-669a46821cf6_Central+Cee+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
 					"alt": "Central Cee",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b14bb58d-415e-42ee-af88-bcfc5787786f_FKA+Twigs.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "FKA Twigs",
+					"url": "https://images.prismic.io/x-track-mag/20f84a48-69d1-43be-a022-01aee54db83c_Halima.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Halima",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/c1ff9e85-bdf1-4811-8218-2eb351fde0d5_Igwe+Aka.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Igwe Aka",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
