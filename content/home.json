@@ -162,17 +162,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-03-25T08:54:46+0000",
+			"publication_date": "2023-04-02T09:01:31+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c19ec28d-98bf-4a83-b2d4-828b0cab7866_Central+Cee+++.jpg?auto=compress,format",
-				"alt": "Central Cee",
+				"url": "https://images.prismic.io/x-track-mag/e61aec72-b773-49d3-b37f-b07cba5a38d2_Bootsy+Collins+.jpg?auto=compress,format",
+				"alt": "Bootsy Collins",
 				"copyright": null,
-				"width": 1628,
-				"height": 1359,
-				"ratio": 1.1979396615158204
+				"width": 1420,
+				"height": 1069,
+				"ratio": 1.3283442469597755
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
