@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-04-02T09:01:31+0000",
+	"publication_date": "2023-04-02T17:07:22+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Jidenna x Bootsy Collins - Harve x Miso Extra - Jitwam x Jaydonclover x Yungmorpheus - Jungle x Erick the Architect  - Shay Lia - Waterbaby Varnish La Piscine - Davido x The Cavemen x Angelike Kidjo - Tora-I - U-Roy x Slim Smith - Tyler, The Creator - Busy Signal x Marlon Easy - Odumodublvck - Rimon x Rini - Yaya Bey - Kali Uchis - French the Kid - Big12welve x Skillibeng - Popcaan x Black Sherif - Chaton - 6LACK x Don Toliver - Lana Del Rey x Tommy Genesis - Rich the Kid x Rema x Ayra Starr x KDDO - Full Crate & ++++",
+					"text": "Jidenna x Bootsy Collins - Harve x Miso Extra - Jitwam x Jaydonclover x Yungmorpheus - Jungle x Erick the Architect  - Shay Lia - Waterbaby Varnish La Piscine - Davido x The Cavemen x Angelike Kidjo - Tora-I - U-Roy x Slim Smith - Tyler, The Creator - Busy Signal x Marlon Easy - Odumodublvck - Yaya Bey - Kali Uchis - French the Kid - Popcaan x Black Sherif - Chaton - 6LACK x Don Toliver -  Rich the Kid x Rema x Ayra Starr x KDDO - Full Crate & ++++",
 					"spans": []
 				}
 			]
@@ -39,20 +39,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
+					"url": "https://images.prismic.io/x-track-mag/1cfe3dfb-b6eb-44be-84c7-90d989ab94a7_Davido.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Davido",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
 					"url": "https://images.prismic.io/x-track-mag/7083abcb-608b-4be1-8f64-ac35ef7f0153_Shay+Lia.jpg?auto=compress,format&rect=0,0,1024,1166&w=1024&h=1166",
 					"alt": "Shay Lia",
 					"copyright": null,
 					"width": 1024,
 					"height": 1166,
 					"ratio": 0.8782161234991424
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/c8307301-e40f-4bfe-8f09-fe9096aaf750_Rimon+x+Rini.jpg?auto=compress,format&rect=0,0,2048,1256&w=1024&h=628",
-					"alt": "Rimon x Rini",
-					"copyright": null,
-					"width": 1024,
-					"height": 628,
-					"ratio": 1.6305732484076434
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f26c12ff-87f3-480a-849c-7ca9934f888f_Jitwam.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
