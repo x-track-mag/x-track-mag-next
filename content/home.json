@@ -162,17 +162,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-04-02T17:07:22+0000",
+			"publication_date": "2023-04-09T10:19:14+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e61aec72-b773-49d3-b37f-b07cba5a38d2_Bootsy+Collins+.jpg?auto=compress,format",
-				"alt": "Bootsy Collins",
+				"url": "https://images.prismic.io/x-track-mag/5c9c171e-ba29-4ea3-a3e4-0464a4aba5de_Dreamer+Isioma.jpg?auto=compress,format",
+				"alt": "Dreamer Isioma",
 				"copyright": null,
-				"width": 1420,
-				"height": 1069,
-				"ratio": 1.3283442469597755
+				"width": 3276,
+				"height": 4096,
+				"ratio": 0.7998046875
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

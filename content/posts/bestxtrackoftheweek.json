@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-04-02T17:07:22+0000",
+	"publication_date": "2023-04-09T10:19:14+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/e61aec72-b773-49d3-b37f-b07cba5a38d2_Bootsy+Collins+.jpg?auto=compress,format",
-		"alt": "Bootsy Collins",
+		"url": "https://images.prismic.io/x-track-mag/5c9c171e-ba29-4ea3-a3e4-0464a4aba5de_Dreamer+Isioma.jpg?auto=compress,format",
+		"alt": "Dreamer Isioma",
 		"copyright": null,
-		"width": 1420,
-		"height": 1069,
-		"ratio": 1.3283442469597755
+		"width": 3276,
+		"height": 4096,
+		"ratio": 0.7998046875
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Jidenna x Bootsy Collins - Harve x Miso Extra - Jitwam x Jaydonclover x Yungmorpheus - Jungle x Erick the Architect  - Shay Lia - Waterbaby Varnish La Piscine - Davido x The Cavemen x Angelike Kidjo - Tora-I - U-Roy x Slim Smith - Tyler, The Creator - Busy Signal x Marlon Easy - Odumodublvck - Yaya Bey - Kali Uchis - French the Kid - Popcaan x Black Sherif - Chaton - 6LACK x Don Toliver -  Rich the Kid x Rema x Ayra Starr x KDDO - Full Crate & ++++",
+					"text": "They. - Aminé x Kaytranada x Pharrell Williams - Rahill x Beck - Odie - Neil Frances - Future Utopia x Biig Piig - Darkoo x Ayra Starr - Avalon Emerson - SBTRKT x Toro y Moi - Kasi3 - Ayüü x Dopeman Twizzy - Jyellowl - Jax Anderson - Lil Yatchy - Daniel Caesar - Labrinth - Drake & ++++",
 					"spans": []
 				}
 			]
@@ -39,24 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/1cfe3dfb-b6eb-44be-84c7-90d989ab94a7_Davido.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Davido",
+					"url": "https://images.prismic.io/x-track-mag/56d691db-d559-414a-805e-3a292ee6e016_They..jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "They.",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e83107ce-88cc-4aa1-b84f-f252b8f34ace_Odie.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Odie",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7083abcb-608b-4be1-8f64-ac35ef7f0153_Shay+Lia.jpg?auto=compress,format&rect=0,0,1024,1166&w=1024&h=1166",
-					"alt": "Shay Lia",
-					"copyright": null,
-					"width": 1024,
-					"height": 1166,
-					"ratio": 0.8782161234991424
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f26c12ff-87f3-480a-849c-7ca9934f888f_Jitwam.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jitwam",
+					"url": "https://images.prismic.io/x-track-mag/0c2a09a9-2a73-4ce4-a275-79a75c24d79a_Ayra+Starr+x+Darkoo.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Ayra Starr x Darkoo",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d63f6e25-f622-4251-914c-b814ac4ef9a5_Tora-I.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Tora-I",
+					"url": "https://images.prismic.io/x-track-mag/b4bf1066-2c6c-4e31-9a27-b24eb30c919f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
+					"alt": "Biig Piig",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4898754e-c730-415e-9957-0719b8e5614d_Kaytranada.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Kaytranada",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0670459f-a7af-4abe-8ce5-6fbc24499388_Tyler_+The+Creator.jpg?auto=compress,format&rect=0,0,1080,1077&w=1024&h=1021",
-					"alt": "Tyler, The Creator",
+					"url": "https://images.prismic.io/x-track-mag/151ba260-b5e3-4a97-ad39-c0f620b5ee0b_Rahill.jpg?auto=compress,format&rect=0,0,1079,818&w=1024&h=776",
+					"alt": "Rahill",
 					"copyright": null,
 					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ff29de91-3755-4610-bd3e-fabb579a10c9_Kali+uchis.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
-					"alt": "Kali Uchis",
-					"copyright": null,
-					"width": 1024,
-					"height": 1273,
-					"ratio": 0.8043990573448547
+					"height": 776,
+					"ratio": 1.3195876288659794
 				}
 			]
 		},
