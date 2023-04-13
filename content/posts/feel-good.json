@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-03-26T08:19:41+0000",
+	"publication_date": "2023-04-13T11:06:30+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format",
-		"alt": "Ice Spice",
+		"url": "https://images.prismic.io/x-track-mag/b8393003-624b-4266-a847-ae9aad697751_Gorillaz+.jpg?auto=compress,format",
+		"alt": "Gorillaz",
 		"copyright": null,
-		"width": 1462,
-		"height": 1217,
-		"ratio": 1.201314708299096
+		"width": 1495,
+		"height": 1119,
+		"ratio": 1.3360142984807863
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Central Cee - Ice Spice - Kida Kudz - BZ - Igwe aka - Strandz x Digga D - Sam Smith x Koffee x Jessie Reyez - Popcaan x Drake - Pink Pantheress x Ice Spice - Halima - Blaq Jerzee x Tiwa Savage - Ivy Sole - Tion Wayne x Aitch - Popcaan x Burna boy - Pa Salieu x Aitch - Stefflon Don x Spice - FKA Twigs x Shygirl - Krishna Canning x Habe - Major Lazer x Bianca Costa x Tiwa Savage x Major League Djz x DJ Maphorisa x Julio Masidi - Cupidon x Lil Manna - Swae Lee x Drake - SG Lewis x Lucky Daye x Kapote - Biig Piig - Oshun - Bunrunklyn boyz - Flohio - Yaya Bey - Maandy x Mejja - Protoje x Lila Iké - Black sherif - Hawa  & +++ Enjoy",
+					"text": "Gorillaz x Bad bunny - Burna Boy x J. Balvin - Stormzy x Rema - Jitwam x Jaydonclover x Yungmorpheus - Aminé x Kaytranada x Parrell Williams - Major Lazer x Major League Djz x Bianca Costa x Tiwa Savage x DJ Maphorisa x Julio Masidi -  Kida Kudz - Yaya Bey x DJ Nativesun - Shay Lia - Central Cee - SG Lewis x Lucky Daye x Kapote - Biig Piig - Swae Lee x Drake - Jungle x Erick the Architecht - PinkPantheress x Ice Spice - Rahill x Beck - Stefflojn Don x Spice - Pa Salieu x Aitch -  FKA Twigs x Shygirl - Prya Ragu - Ghetto Boy - Tekno - Blaq Jerzee x Tiwa Savage - Popcaan x Drake - Sam Smith x Kofee x Jessie Reyez - Johan Papaconstantino x Prosper  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,8 +34,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Koffee",
+					"url": "https://images.prismic.io/x-track-mag/5f345f18-5085-48fd-86a9-2ca4169214a1_Tiwa+Savage+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -50,18 +50,26 @@
 					"ratio": 0.9990243902439024
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/73630187-3eea-4268-96b9-96ba49d50a07_Ivy+Sole.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Ivy Sole",
+					"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format&rect=0,0,1462,1216&w=1024&h=852",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 852,
+					"ratio": 1.2018779342723005
 				}
 			]
 		},
 		{
 			"template": "section-gallery",
 			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/8c97e3a1-2a57-4ea0-8248-40dc83e9da15_Bianca+Costa+.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Bianca Costa",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/c0054def-21e1-48d0-b206-669a46821cf6_Central+Cee+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
 					"alt": "Central Cee",
@@ -71,20 +79,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/20f84a48-69d1-43be-a022-01aee54db83c_Halima.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Halima",
+					"url": "https://images.prismic.io/x-track-mag/fb325a6c-9ca7-4a74-9ec4-ade57267d212_FKA+Twigs.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "FKA Twigs",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/c1ff9e85-bdf1-4811-8218-2eb351fde0d5_Igwe+Aka.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Igwe Aka",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
 				}
 			]
 		},
@@ -92,7 +92,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=ad0d300897c64373",
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=6a1600d46be94249",
 					"title": "Feel Good"
 				},
 				{

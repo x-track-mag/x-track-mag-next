@@ -132,12 +132,12 @@
 			"uid": "feel-good",
 			"title": "Feel Good",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format",
-				"alt": "Ice Spice",
+				"url": "https://images.prismic.io/x-track-mag/b8393003-624b-4266-a847-ae9aad697751_Gorillaz+.jpg?auto=compress,format",
+				"alt": "Gorillaz",
 				"copyright": null,
-				"width": 1462,
-				"height": 1217,
-				"ratio": 1.201314708299096
+				"width": 1495,
+				"height": 1119,
+				"ratio": 1.3360142984807863
 			},
 			"video_loop": null
 		},
@@ -229,17 +229,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-03-26T08:19:41+0000",
+			"publication_date": "2023-04-13T11:06:30+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format",
-				"alt": "Ice Spice",
+				"url": "https://images.prismic.io/x-track-mag/b8393003-624b-4266-a847-ae9aad697751_Gorillaz+.jpg?auto=compress,format",
+				"alt": "Gorillaz",
 				"copyright": null,
-				"width": 1462,
-				"height": 1217,
-				"ratio": 1.201314708299096
+				"width": 1495,
+				"height": 1119,
+				"ratio": 1.3360142984807863
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
