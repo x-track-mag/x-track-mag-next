@@ -162,17 +162,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-04-10T10:02:58+0000",
+			"publication_date": "2023-04-15T08:41:32+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5c9c171e-ba29-4ea3-a3e4-0464a4aba5de_Dreamer+Isioma.jpg?auto=compress,format",
-				"alt": "Dreamer Isioma",
+				"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
+				"alt": "Enny",
 				"copyright": null,
-				"width": 3276,
-				"height": 4096,
-				"ratio": 0.7998046875
+				"width": 4096,
+				"height": 2958,
+				"ratio": 1.3847194050033806
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

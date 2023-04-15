@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-04-10T10:02:58+0000",
+	"publication_date": "2023-04-15T08:41:32+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/5c9c171e-ba29-4ea3-a3e4-0464a4aba5de_Dreamer+Isioma.jpg?auto=compress,format",
-		"alt": "Dreamer Isioma",
+		"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
+		"alt": "Enny",
 		"copyright": null,
-		"width": 3276,
-		"height": 4096,
-		"ratio": 0.7998046875
+		"width": 4096,
+		"height": 2958,
+		"ratio": 1.3847194050033806
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "They. - Aminé x Kaytranada x Pharrell Williams - Rahill x Beck - Odie - Future Utopia x Biig Piig - Darkoo x Ayra Starr - Avalon Emerson - SBTRKT x Toro y Moi - Kasi3 - Ayüü x Dopeman Twizzy - Jyellowl - Jax Anderson - Lil Yatchy - Daniel Caesar - Labrinth - Drake & ++++",
+					"text": "Busy signal - Ocevne x MadeInParis - Slimpepe x Majeed x Tiwa Savage - Major Lazer x Major League Djz x Gaba Cannal x Russel Zuma-  Jorja Smith - Jaz Elise - enny x Loyle Carner - Ghetto Boy x Joey B - Ice Spice x Nicki Minaj - Aitch - Popcaan - Jords x Tay Iwar - Chaton - Rum.Gold - BLK Odyssy x Bootsy Collins - Don Toliver - 6LACK - Willa Owen - Raphael Eligoulachvili & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/56d691db-d559-414a-805e-3a292ee6e016_They..jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "They.",
+					"url": "https://images.prismic.io/x-track-mag/d16eda46-9ff9-4ef1-8fe2-abc6ca591fb4_Ocevne+.jpg?auto=compress,format&rect=0,0,1613,1352&w=1024&h=858",
+					"alt": "Ocevne",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 858,
+					"ratio": 1.1934731934731935
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e83107ce-88cc-4aa1-b84f-f252b8f34ace_Odie.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Odie",
+					"url": "https://images.prismic.io/x-track-mag/84c5c1ad-af19-4506-bcfd-6624c640b8f5_Busy+Signal.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Busy Signal",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0c2a09a9-2a73-4ce4-a275-79a75c24d79a_Ayra+Starr+x+Darkoo.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Ayra Starr x Darkoo",
+					"url": "https://images.prismic.io/x-track-mag/2c252314-b0ee-4a7e-9ac6-40fafdb807b9_Jorja+Smith.+.jpg?auto=compress,format&rect=0,0,1495,1353&w=1024&h=927",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 927,
+					"ratio": 1.104638619201726
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b4bf1066-2c6c-4e31-9a27-b24eb30c919f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
-					"alt": "Biig Piig",
-					"copyright": null,
-					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/4898754e-c730-415e-9957-0719b8e5614d_Kaytranada.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Kaytranada",
+					"url": "https://images.prismic.io/x-track-mag/51d03235-1e7c-4677-825c-6044dbecb4e3_Ice+Spice.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/151ba260-b5e3-4a97-ad39-c0f620b5ee0b_Rahill.jpg?auto=compress,format&rect=0,0,1079,818&w=1024&h=776",
-					"alt": "Rahill",
+					"url": "https://images.prismic.io/x-track-mag/cf095332-66ab-4ae9-9521-efdf13aca73c_Don+toliver.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Don Toliver",
 					"copyright": null,
 					"width": 1024,
-					"height": 776,
-					"ratio": 1.3195876288659794
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/bb71836e-6490-492d-b49d-1d6219380456_Jaz+Elise.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jaz Elise",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=26d9a27a530f4a5f",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=4d8176f380ed4823",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
