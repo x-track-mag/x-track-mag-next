@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-04-23T08:43:55+0000",
+	"publication_date": "2023-04-23T08:45:45+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -39,12 +39,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f30eda31-be61-4d00-9ff5-f857706f85ce_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 740,
+					"ratio": 1.3837837837837839
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/b3c1ed17-85f4-4a4f-8b05-64f28d2a65f3_Vacra.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -55,12 +55,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/687eb397-4f8c-444f-9f29-e23c84301c1b_Mahalia.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/f30eda31-be61-4d00-9ff5-f857706f85ce_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -76,12 +76,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c0670a75-f1bb-4848-912b-ef93fac9dbea_SZA.jpg?auto=compress,format&rect=0,0,718,860&w=1024&h=1227",
-					"alt": "SZA",
+					"url": "https://images.prismic.io/x-track-mag/687eb397-4f8c-444f-9f29-e23c84301c1b_Mahalia.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1227,
-					"ratio": 0.8345558272208639
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/acd77b76-ffa4-4cac-a6a0-95ae917e946d_Jitwam.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
