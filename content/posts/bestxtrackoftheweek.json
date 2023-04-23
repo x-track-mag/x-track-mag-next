@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-04-15T08:41:32+0000",
+	"publication_date": "2023-04-23T08:43:55+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
-		"alt": "Enny",
+		"url": "https://images.prismic.io/x-track-mag/7526f826-6541-4074-9be3-51c240d7bbd7_Sudan+Archives.jpg?auto=compress,format",
+		"alt": "Sudan Archives",
 		"copyright": null,
-		"width": 4096,
-		"height": 2958,
-		"ratio": 1.3847194050033806
+		"width": 2048,
+		"height": 1365,
+		"ratio": 1.5003663003663004
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Busy signal - Ocevne x MadeInParis - Slimpepe x Majeed x Tiwa Savage - Major Lazer x Major League Djz x Gaba Cannal x Russel Zuma-  Jorja Smith - Jaz Elise - enny x Loyle Carner - Ghetto Boy x Joey B - Ice Spice x Nicki Minaj - Aitch - Popcaan - Jords x Tay Iwar - Chaton - Rum.Gold - BLK Odyssy x Bootsy Collins - Don Toliver - 6LACK - Willa Owen - Raphael Eligoulachvili & ++++",
+					"text": "Enny - Arlo Parks - Sudan Archives  x Odesza - Vacra - Jitwam - Juls - Zinoleesky - Olamide x CKay - Mahalia - Jyellowl - Chaton & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d16eda46-9ff9-4ef1-8fe2-abc6ca591fb4_Ocevne+.jpg?auto=compress,format&rect=0,0,1613,1352&w=1024&h=858",
-					"alt": "Ocevne",
+					"url": "https://images.prismic.io/x-track-mag/f30eda31-be61-4d00-9ff5-f857706f85ce_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 858,
-					"ratio": 1.1934731934731935
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/84c5c1ad-af19-4506-bcfd-6624c640b8f5_Busy+Signal.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Busy Signal",
+					"url": "https://images.prismic.io/x-track-mag/b3c1ed17-85f4-4a4f-8b05-64f28d2a65f3_Vacra.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Vacra",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2c252314-b0ee-4a7e-9ac6-40fafdb807b9_Jorja+Smith.+.jpg?auto=compress,format&rect=0,0,1495,1353&w=1024&h=927",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/687eb397-4f8c-444f-9f29-e23c84301c1b_Mahalia.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 927,
-					"ratio": 1.104638619201726
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/51d03235-1e7c-4677-825c-6044dbecb4e3_Ice+Spice.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ice Spice",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/cf095332-66ab-4ae9-9521-efdf13aca73c_Don+toliver.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Don Toliver",
+					"url": "https://images.prismic.io/x-track-mag/932e6cac-7be7-4c7c-b1c4-3246572fcf8a_Zinoleesky.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Zinoleesky",
 					"copyright": null,
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bb71836e-6490-492d-b49d-1d6219380456_Jaz+Elise.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jaz Elise",
+					"url": "https://images.prismic.io/x-track-mag/c0670a75-f1bb-4848-912b-ef93fac9dbea_SZA.jpg?auto=compress,format&rect=0,0,718,860&w=1024&h=1227",
+					"alt": "SZA",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1227,
+					"ratio": 0.8345558272208639
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/acd77b76-ffa4-4cac-a6a0-95ae917e946d_Jitwam.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Jitwam",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},

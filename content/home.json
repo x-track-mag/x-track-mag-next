@@ -162,17 +162,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-04-15T08:41:32+0000",
+			"publication_date": "2023-04-23T08:43:55+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
-				"alt": "Enny",
+				"url": "https://images.prismic.io/x-track-mag/7526f826-6541-4074-9be3-51c240d7bbd7_Sudan+Archives.jpg?auto=compress,format",
+				"alt": "Sudan Archives",
 				"copyright": null,
-				"width": 4096,
-				"height": 2958,
-				"ratio": 1.3847194050033806
+				"width": 2048,
+				"height": 1365,
+				"ratio": 1.5003663003663004
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
