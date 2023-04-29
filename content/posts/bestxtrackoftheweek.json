@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-04-23T09:00:57+0000",
+	"publication_date": "2023-04-29T11:18:05+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/7526f826-6541-4074-9be3-51c240d7bbd7_Sudan+Archives.jpg?auto=compress,format",
-		"alt": "Sudan Archives",
+		"url": "https://images.prismic.io/x-track-mag/5c645d91-133a-4d6a-88fe-bb116dce28ef_Rad+Cartier.++.jpg?auto=compress,format",
+		"alt": "Rad Cartier",
 		"copyright": null,
-		"width": 2048,
-		"height": 1365,
-		"ratio": 1.5003663003663004
+		"width": 1617,
+		"height": 1124,
+		"ratio": 1.438612099644128
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Enny - Arlo Parks - Sudan Archives  x Odesza - Vacra - Jitwam - Juls - Zinoleesky - Olamide x CKay - Mahalia - Jyellowl - SZA x Doja Cat - Chaton & ++++",
+					"text": "Boj x Ayra Starr - Neone the Wonderer - Raghd - ChopLife SoundSystem x Mr Eazi x Ami Faku - Thundercat x Tame Impala - Avalon Emerson - Rum.Gold - Rad Cartier x Vacra - Konshens x Johnny Blaze x Stadic - Enny - Landlady Enterprise x Teni - Kidi  Y la Bamba x Devendra Banhart - Nick Blassy - Angelo De Augustine - Daniel Caesar x Omar Apollo - Yuna - Frankie Cosmos & ++++",
 					"spans": []
 				}
 			]
@@ -39,12 +39,41 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/26be60b6-ed31-42e9-b95d-4bc61c474ef3_Ayra+Star.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 740,
-					"ratio": 1.3837837837837839
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/089dbab1-3980-4d57-a760-2d7b4c5358dc_Thundercat.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Thundercat",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/c35320b3-5393-4255-a3d9-aea10ee6ee76_Raghd.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Raghd",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/3ad506b9-7f7d-449a-abdb-06b0d49d4e14_Ami+Faku.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ami Faku",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/b3c1ed17-85f4-4a4f-8b05-64f28d2a65f3_Vacra.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -55,41 +84,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f30eda31-be61-4d00-9ff5-f857706f85ce_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/f9cd9443-07f1-41f3-9955-1483ea7ad86f_Yuna.++.jpg?auto=compress,format&rect=0,0,868,1085&w=1024&h=1280",
+					"alt": "Yuna",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/932e6cac-7be7-4c7c-b1c4-3246572fcf8a_Zinoleesky.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Zinoleesky",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/687eb397-4f8c-444f-9f29-e23c84301c1b_Mahalia.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Mahalia",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/acd77b76-ffa4-4cac-a6a0-95ae917e946d_Jitwam.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Jitwam",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=4d8176f380ed4823",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=94f8f0e7bc964c7e",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
