@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-04-13T11:06:30+0000",
+	"publication_date": "2023-04-29T23:47:26+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Gorillaz x Bad bunny - Burna Boy x J. Balvin - Stormzy x Rema - Jitwam x Jaydonclover x Yungmorpheus - Aminé x Kaytranada x Parrell Williams - Major Lazer x Major League Djz x Bianca Costa x Tiwa Savage x DJ Maphorisa x Julio Masidi -  Kida Kudz - Yaya Bey x DJ Nativesun - Shay Lia - Central Cee - SG Lewis x Lucky Daye x Kapote - Biig Piig - Swae Lee x Drake - Jungle x Erick the Architecht - PinkPantheress x Ice Spice - Rahill x Beck - Stefflojn Don x Spice - Pa Salieu x Aitch -  FKA Twigs x Shygirl - Prya Ragu - Ghetto Boy - Tekno - Blaq Jerzee x Tiwa Savage - Popcaan x Drake - Sam Smith x Kofee x Jessie Reyez - Johan Papaconstantino x Prosper  & +++ Enjoy",
+					"text": "Ice Spice x Nicki Minaj - Enny - Gorillaz x Bad Bunny - Burna Boy x J Balvin -  Sudan Archives x Odesza - Jitwam x Jaydonclover x Yungmorpheus - Aminé x Kaytranada x Pharrell Williams - Neone the Wonderer - Kida Kudz - Major Lazer x Major League Djz x Bianca Costa x Tiwa Savage x DJ Maphorisa x Julio Masidi - Swae Lee x Drake - Central Cee- Rahill x Beck - Biig Piig - Odie - Raghd - Hamza x Damso - Jungle x Erick the Architect -  PinkPantheress x Ice Spice - Yaya Bey x DJ Nativesun - Vacra - Ghetto Boy - Tekno - Juls - Stormzy x Rema - Stefflon Don x Spice - Wizkid - Pa Salieu x Aitch - FKA Twigs x Shygirl - Priya Ragu - Ivy Sole - Popcaan x Drake - Jorja Smith & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,20 +34,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5f345f18-5085-48fd-86a9-2ca4169214a1_Tiwa+Savage+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Tiwa Savage",
+					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
+					"alt": "Enny",
+					"copyright": null,
+					"width": 1024,
+					"height": 740,
+					"ratio": 1.3837837837837839
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
-					"alt": "Kida Kudz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/826675db-f9fe-4cf1-ab45-b04d0a3f2308_Ice-Spice.jpg?auto=compress,format&rect=0,0,1462,1216&w=1024&h=852",
@@ -63,15 +63,7 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/8c97e3a1-2a57-4ea0-8248-40dc83e9da15_Bianca+Costa+.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Bianca Costa",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/c0054def-21e1-48d0-b206-669a46821cf6_Central+Cee+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"url": "https://images.prismic.io/x-track-mag/06432197-bcc1-4c68-94ff-347fb0697733_Central+Cee+.jpg?auto=compress,format&rect=0,0,1640,2048&w=1024&h=1279",
 					"alt": "Central Cee",
 					"copyright": null,
 					"width": 1024,
@@ -79,8 +71,16 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/fb325a6c-9ca7-4a74-9ec4-ade57267d212_FKA+Twigs.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
-					"alt": "FKA Twigs",
+					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
+					"alt": "Sudan Archives",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f26c12ff-87f3-480a-849c-7ca9934f888f_Jitwam.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Jitwam",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
