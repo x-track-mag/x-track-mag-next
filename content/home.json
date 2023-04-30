@@ -133,12 +133,12 @@
 			"uid": "feel-good",
 			"title": "Feel Good",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b8393003-624b-4266-a847-ae9aad697751_Gorillaz+.jpg?auto=compress,format",
-				"alt": "Gorillaz",
+				"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
+				"alt": "Enny",
 				"copyright": null,
-				"width": 1495,
-				"height": 1119,
-				"ratio": 1.3360142984807863
+				"width": 4096,
+				"height": 2958,
+				"ratio": 1.3847194050033806
 			},
 			"video_loop": null
 		},
@@ -230,17 +230,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-04-29T23:47:26+0000",
+			"publication_date": "2023-04-30T10:26:25+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b8393003-624b-4266-a847-ae9aad697751_Gorillaz+.jpg?auto=compress,format",
-				"alt": "Gorillaz",
+				"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
+				"alt": "Enny",
 				"copyright": null,
-				"width": 1495,
-				"height": 1119,
-				"ratio": 1.3360142984807863
+				"width": 4096,
+				"height": 2958,
+				"ratio": 1.3847194050033806
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
