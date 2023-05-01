@@ -433,17 +433,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-03-12T10:24:00+0000",
+			"publication_date": "2023-05-01T23:20:49+0000",
 			"title": "Tropical",
 			"subtitle": "Sweet & Happy",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/e9f1178a-4a6b-4d2a-bc55-78a9e79b5631_Ayra+Starr.jpg?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/17c90850-8302-425d-9a94-0e2cb4aaa57d_Ayra+Starr+.jpg?auto=compress,format",
 				"alt": "Ayra Starr",
 				"copyright": null,
-				"width": 2670,
-				"height": 3189,
-				"ratio": 0.8372530573847601
+				"width": 1440,
+				"height": 1791,
+				"ratio": 0.8040201005025126
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
