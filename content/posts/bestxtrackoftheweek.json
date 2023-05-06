@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-06T11:23:33+0000",
+	"publication_date": "2023-05-06T12:20:52+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "black",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stonebwoy  x Oxlade x Tiwa Savage - Skiifall - Tion Wayne - Coi Leray - Fireboy DML - SBTRKT x Leilah - CKay x Blaqbonez- Victony x Omah Lay x Tempoe - Shygirl x Deto Black - Halo Yagami - Nines x Aisa - Lo Village - Amaria x  Amber Navran & ++++",
+					"text": "Stonebwoy  x Oxlade x Tiwa Savage - Skiifall - Tion Wayne - Fireboy DML - SBTRKT x Leilah - CKay x Blaqbonez- Victony x Omah Lay x Tempoe - Shygirl x Deto Black - Halo Yagami - Nines x Aisa - Lo Village - Amaria x  Amber Navran & ++++",
 					"spans": []
 				}
 			]
@@ -47,12 +47,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c3373422-935c-4f6a-8851-2db8c8d0fdf8_Lo+Village.jpg?auto=compress,format&rect=0,0,1080,1256&w=1024&h=1191",
-					"alt": "Lo Village",
+					"url": "https://images.prismic.io/x-track-mag/8e363c77-dedf-4caf-bded-ac640933d0f0_Fireboy+DML.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Fireboy DML",
 					"copyright": null,
 					"width": 1024,
-					"height": 1191,
-					"ratio": 0.8597816960537363
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/49909f4d-b29f-4e74-b286-bc5361813113_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
@@ -76,20 +76,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a5920398-69c0-4e9f-8fc8-82d16df5183b_Coi+Leray+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Coi Leray",
+					"url": "https://images.prismic.io/x-track-mag/c3373422-935c-4f6a-8851-2db8c8d0fdf8_Lo+Village.jpg?auto=compress,format&rect=0,0,1080,1256&w=1024&h=1191",
+					"alt": "Lo Village",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1191,
+					"ratio": 0.8597816960537363
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8e363c77-dedf-4caf-bded-ac640933d0f0_Fireboy+DML.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Fireboy DML",
+					"url": "https://images.prismic.io/x-track-mag/7beb612f-4ee0-408c-9e15-6d14ec864ad8_SBTRKT.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
+					"alt": "SBTRKT",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
