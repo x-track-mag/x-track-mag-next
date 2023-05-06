@@ -163,17 +163,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-04-29T11:18:05+0000",
+			"publication_date": "2023-05-06T11:18:15+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5c645d91-133a-4d6a-88fe-bb116dce28ef_Rad+Cartier.++.jpg?auto=compress,format",
-				"alt": "Rad Cartier",
+				"url": "https://images.prismic.io/x-track-mag/2444446e-e5b4-4249-aec1-5762b9807768_Tiwa+Savage.jpg?auto=compress,format",
+				"alt": "Tiwa Savage",
 				"copyright": null,
-				"width": 1617,
-				"height": 1124,
-				"ratio": 1.438612099644128
+				"width": 2186,
+				"height": 1356,
+				"ratio": 1.612094395280236
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

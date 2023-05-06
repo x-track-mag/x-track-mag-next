@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-04-29T11:18:05+0000",
+	"publication_date": "2023-05-06T11:18:15+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/5c645d91-133a-4d6a-88fe-bb116dce28ef_Rad+Cartier.++.jpg?auto=compress,format",
-		"alt": "Rad Cartier",
+		"url": "https://images.prismic.io/x-track-mag/2444446e-e5b4-4249-aec1-5762b9807768_Tiwa+Savage.jpg?auto=compress,format",
+		"alt": "Tiwa Savage",
 		"copyright": null,
-		"width": 1617,
-		"height": 1124,
-		"ratio": 1.438612099644128
+		"width": 2186,
+		"height": 1356,
+		"ratio": 1.612094395280236
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Boj x Ayra Starr - Neone the Wonderer - Raghd - ChopLife SoundSystem x Mr Eazi x Ami Faku - Thundercat x Tame Impala - Avalon Emerson - Rum.Gold - Rad Cartier x Vacra - Konshens x Johnny Blaze x Stadic - Enny - Landlady Enterprise x Teni - Kidi  Y la Bamba x Devendra Banhart - Nick Blassy - Angelo De Augustine - Daniel Caesar x Omar Apollo - Yuna - Frankie Cosmos & ++++",
+					"text": "Stonebwoy  x Oxlade x Tiwa Savage - Skiifall - Tion Wayne - Coi Leray - Fireboy DML - SBTRKT x Leilah - CKay x Blaqbonez- Victony x Omah Lay x Tempoe - Shygirl x Deto Black - Halo Yagami - Nines x Aisa - Lo Village - Amaria x  Amber Navran & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/26be60b6-ed31-42e9-b95d-4bc61c474ef3_Ayra+Star.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/19de67f6-71bc-4be5-b4b7-2f1674602c44_Shygirl.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Shygirl",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/089dbab1-3980-4d57-a760-2d7b4c5358dc_Thundercat.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Thundercat",
+					"url": "https://images.prismic.io/x-track-mag/c3373422-935c-4f6a-8851-2db8c8d0fdf8_Lo+Village.jpg?auto=compress,format&rect=0,0,1080,1256&w=1024&h=1191",
+					"alt": "Lo Village",
+					"copyright": null,
+					"width": 1024,
+					"height": 1191,
+					"ratio": 0.8597816960537363
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/49909f4d-b29f-4e74-b286-bc5361813113_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/c35320b3-5393-4255-a3d9-aea10ee6ee76_Raghd.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Raghd",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
 				}
 			]
 		},
@@ -68,24 +68,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3ad506b9-7f7d-449a-abdb-06b0d49d4e14_Ami+Faku.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ami Faku",
+					"url": "https://images.prismic.io/x-track-mag/e669bb9e-f753-4a47-b413-bafc4547daff_Tion+Wayne.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tion Wayne",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b3c1ed17-85f4-4a4f-8b05-64f28d2a65f3_Vacra.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Vacra",
+					"url": "https://images.prismic.io/x-track-mag/a5920398-69c0-4e9f-8fc8-82d16df5183b_Coi+Leray+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Coi Leray",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f9cd9443-07f1-41f3-9955-1483ea7ad86f_Yuna.++.jpg?auto=compress,format&rect=0,0,868,1085&w=1024&h=1280",
-					"alt": "Yuna",
+					"url": "https://images.prismic.io/x-track-mag/8e363c77-dedf-4caf-bded-ac640933d0f0_Fireboy+DML.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Fireboy DML",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=94f8f0e7bc964c7e",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=cdf3c981d4024983",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
