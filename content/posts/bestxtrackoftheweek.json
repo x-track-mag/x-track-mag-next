@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-06T12:20:52+0000",
+	"publication_date": "2023-05-07T12:10:51+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "black",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stonebwoy  x Oxlade x Tiwa Savage - Skiifall - Tion Wayne - Fireboy DML - SBTRKT x Leilah - CKay x Blaqbonez- Victony x Omah Lay x Tempoe - Shygirl x Deto Black - Halo Yagami - Nines x Aisa - Lo Village - Amaria x  Amber Navran & ++++",
+					"text": "Stonebwoy  x Oxlade x Tiwa Savage - Skiifall - Tion Wayne - Fireboy DML - SBTRKT x Leilah - CKay x Blaqbonez- Victony x Omah Lay x Tempoe - Halo Yagami - Nines x Aisa - Lo Village - Marshmello x Brent Faiyaz - Amaria x  Amber Navran & ++++",
 					"spans": []
 				}
 			]
@@ -39,16 +39,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/19de67f6-71bc-4be5-b4b7-2f1674602c44_Shygirl.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Shygirl",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/8e363c77-dedf-4caf-bded-ac640933d0f0_Fireboy+DML.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Fireboy DML",
+					"url": "https://images.prismic.io/x-track-mag/e669bb9e-f753-4a47-b413-bafc4547daff_Tion+Wayne.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tion Wayne",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -61,6 +53,14 @@
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/67904e1b-f9e1-4de1-80ca-f3fa7e185e9a_Marshmello.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Marshmello",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -68,8 +68,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e669bb9e-f753-4a47-b413-bafc4547daff_Tion+Wayne.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Tion Wayne",
+					"url": "https://images.prismic.io/x-track-mag/8e363c77-dedf-4caf-bded-ac640933d0f0_Fireboy+DML.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Fireboy DML",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
