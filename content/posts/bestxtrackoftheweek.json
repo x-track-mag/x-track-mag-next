@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-07T12:10:51+0000",
+	"publication_date": "2023-05-13T17:00:39+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "black",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/2444446e-e5b4-4249-aec1-5762b9807768_Tiwa+Savage.jpg?auto=compress,format",
-		"alt": "Tiwa Savage",
+		"url": "https://images.prismic.io/x-track-mag/0d5d0e3b-2ccd-4393-8794-bccfb3e35532_Jorja-Smith%2B%2B.jpg?auto=compress,format",
+		"alt": null,
 		"copyright": null,
-		"width": 2186,
-		"height": 1356,
-		"ratio": 1.612094395280236
+		"width": 1260,
+		"height": 1301,
+		"ratio": 0.9684857801691007
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Stonebwoy  x Oxlade x Tiwa Savage - Skiifall - Tion Wayne - Fireboy DML - SBTRKT x Leilah - CKay x Blaqbonez- Victony x Omah Lay x Tempoe - Halo Yagami - Nines x Aisa - Lo Village - Marshmello x Brent Faiyaz - Amaria x  Amber Navran & ++++",
+					"text": "Aro Parks x Phoebe Bridgers - Zlatan x Victony - Strandz - Jorja Smith - Chenayder - Tyla x Ayra Starr -  BNXN fka Buju - Masicka x Jahshii - Waterbaby - Eric IV x Twelve XII - Jesse Boykins III - Bodur - Billie Eilish & ++++",
 					"spans": []
 				}
 			]
@@ -39,24 +39,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e669bb9e-f753-4a47-b413-bafc4547daff_Tion+Wayne.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Tion Wayne",
+					"url": "https://images.prismic.io/x-track-mag/f30eda31-be61-4d00-9ff5-f857706f85ce_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/49909f4d-b29f-4e74-b286-bc5361813113_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amaria",
+					"url": "https://images.prismic.io/x-track-mag/797189c6-8b1b-4ed2-97db-a927efc445d2_Strandz.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Strandz",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/67904e1b-f9e1-4de1-80ca-f3fa7e185e9a_Marshmello.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Marshmello",
+					"url": "https://images.prismic.io/x-track-mag/9c938284-cadb-498b-8e1e-28d088a8ab1a_Chenayder.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Chenayder",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/8e363c77-dedf-4caf-bded-ac640933d0f0_Fireboy+DML.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Fireboy DML",
+					"url": "https://images.prismic.io/x-track-mag/f1c94d50-9689-4a0b-8992-9712fa684746_Waterbaby.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Waterbaby",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c3373422-935c-4f6a-8851-2db8c8d0fdf8_Lo+Village.jpg?auto=compress,format&rect=0,0,1080,1256&w=1024&h=1191",
-					"alt": "Lo Village",
+					"url": "https://images.prismic.io/x-track-mag/049f8c5b-b5d5-48d2-aabe-6425e6c1ed24_Zlatan.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Zlatan",
 					"copyright": null,
 					"width": 1024,
-					"height": 1191,
-					"ratio": 0.8597816960537363
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7beb612f-4ee0-408c-9e15-6d14ec864ad8_SBTRKT.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
-					"alt": "SBTRKT",
+					"url": "https://images.prismic.io/x-track-mag/a5af2cb3-c527-4e90-bbdf-fb37b83da658_Billie+Eilish.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Billie Eilish",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -97,12 +97,12 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=cdf3c981d4024983",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=df7a2b985ab94c61",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
 					"url": "https://music.apple.com/fr/playlist/best-xtrack-of-the-week/pl.u-kv9lmKDFDY8qp",
-					"title": "Best ”XTrack“ of the Week par XTrack"
+					"title": "Best ”XTrack“ of the Week by XTrack"
 				},
 				{
 					"url": "https://www.deezer.com/fr/playlist/4099699282",
