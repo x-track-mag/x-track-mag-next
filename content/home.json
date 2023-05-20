@@ -163,17 +163,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-05-13T17:04:14+0000",
+			"publication_date": "2023-05-20T22:23:18+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0d5d0e3b-2ccd-4393-8794-bccfb3e35532_Jorja-Smith%2B%2B.jpg?auto=compress,format",
-				"alt": null,
+				"url": "https://images.prismic.io/x-track-mag/4dba6b95-d4eb-489b-a09b-6ace5bed53c9_Kaytranada+x+Amine%CC%81.jpg?auto=compress,format",
+				"alt": "Kaytranada x Aminé",
 				"copyright": null,
-				"width": 1260,
-				"height": 1301,
-				"ratio": 0.9684857801691007
+				"width": 2500,
+				"height": 2500,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
