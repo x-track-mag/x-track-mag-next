@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-01T23:20:49+0000",
+	"publication_date": "2023-05-26T04:20:27+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
 	"text_color": "inverted",
@@ -79,12 +79,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/fca47e99-3a54-43c7-9eed-b6a381fabe59_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1010,947&w=1024&h=960",
+					"url": "https://images.prismic.io/x-track-mag/470f322f-e3e1-4bb3-9d1a-9ca409f94f63_Jada+Kingdom+.jpg?auto=compress,format&rect=0,0,717,611&w=1024&h=873",
 					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
-					"height": 960,
-					"ratio": 1.0666666666666667
+					"height": 873,
+					"ratio": 1.172966781214204
 				}
 			]
 		},
