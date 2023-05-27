@@ -163,17 +163,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-05-26T04:18:52+0000",
+			"publication_date": "2023-05-27T23:12:07+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
-			"text_color": "orange",
+			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4dba6b95-d4eb-489b-a09b-6ace5bed53c9_Kaytranada+x+Amine%CC%81.jpg?auto=compress,format",
-				"alt": "Kaytranada x Aminé",
+				"url": "https://images.prismic.io/x-track-mag/5bdf8317-80e0-4b2a-8085-87220b01374b_Beyonce.jpg?auto=compress,format",
+				"alt": "Beyonce",
 				"copyright": null,
-				"width": 2500,
-				"height": 2500,
-				"ratio": 1
+				"width": 2000,
+				"height": 1125,
+				"ratio": 1.7777777777777777
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

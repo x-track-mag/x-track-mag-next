@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-26T04:18:52+0000",
+	"publication_date": "2023-05-27T23:12:07+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "orange",
+	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/4dba6b95-d4eb-489b-a09b-6ace5bed53c9_Kaytranada+x+Amine%CC%81.jpg?auto=compress,format",
-		"alt": "Kaytranada x Aminé",
+		"url": "https://images.prismic.io/x-track-mag/5bdf8317-80e0-4b2a-8085-87220b01374b_Beyonce.jpg?auto=compress,format",
+		"alt": "Beyonce",
 		"copyright": null,
-		"width": 2500,
-		"height": 2500,
-		"ratio": 1
+		"width": 2000,
+		"height": 1125,
+		"ratio": 1.7777777777777777
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "NxWorries x Anderson Paak x Knxwledge - Maandy - DJ Tunez x Wizkid x Gimba - Novalima x Dom La Nena - Ruger x Jugglerz - Moha K x Dystinct x Yam - Omah Lay x Ozuna - Bob Marley & the Wailers x Tiwa Savage -  JayO - Kaytraminé x Aminé x Kaytranada - Bodur x Denzel Himself & ++++",
+					"text": "NSG x Meekz - Jitwam x Hadiya eorges -  Fricky - Aminé x Kaytranada - Juls x Ami Faku - Beyonce x Kendrick Lamar - Asake x Olamide - Cruz Cafuné x Boj - Jungle - Adekunble Gold - Lord Echo x Lisa Tomlins - Joe Yorke x The 18th Parallel - Angelo de Augustine & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/13ab8fc8-829f-457e-8f4d-6d5536560ec6_Anderson+Paak+.jpg?auto=compress,format&rect=0,0,1497,1330&w=1024&h=910",
-					"alt": "Anderson Paak",
+					"url": "https://images.prismic.io/x-track-mag/99e56055-ae3b-4f0e-87d2-90ebfb882621_NSG.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "NSG",
 					"copyright": null,
 					"width": 1024,
-					"height": 910,
-					"ratio": 1.1252747252747253
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/08dd4218-adf6-4a65-a8d5-4aaa5e96777b_Maandy+.jpg?auto=compress,format&rect=0,0,1077,960&w=1024&h=913",
-					"alt": "Maandy",
+					"url": "https://images.prismic.io/x-track-mag/00d2a96e-c939-4178-9f04-6c98383ec9ab_Ami+Faku.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ami Faku",
 					"copyright": null,
 					"width": 1024,
-					"height": 913,
-					"ratio": 1.12157721796276
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/91539a5f-8a25-48aa-931d-a2a117a52fb0_Moha+K.jpg?auto=compress,format&rect=0,0,500,500&w=1024&h=1024",
-					"alt": "Moha K",
+					"url": "https://images.prismic.io/x-track-mag/014075cb-b24c-496e-8cad-ceb4bd51ff0a_Jitwam.jpg?auto=compress,format&rect=0,0,1440,1402&w=1024&h=997",
+					"alt": "Jitwam",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 997,
+					"ratio": 1.0270812437311936
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/1650bfdb-a4c4-4dff-ae96-ccc527f91e8a_Dom+La+Nena.jpg?auto=compress,format&rect=0,0,1080,1043&w=1024&h=989",
-					"alt": "Dom La Nena",
-					"copyright": null,
-					"width": 1024,
-					"height": 989,
-					"ratio": 1.0353892821031345
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/9f548e5d-749a-4874-804c-23eed5287dbe_Wizkid.jpg?auto=compress,format&rect=0,0,1242,1523&w=1024&h=1256",
-					"alt": "Wizkid",
-					"copyright": null,
-					"width": 1024,
-					"height": 1256,
-					"ratio": 0.8152866242038217
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/683e0eaa-355b-4a6c-8337-9370d9bedd58_Bodur.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Bodur",
+					"url": "https://images.prismic.io/x-track-mag/c5e30155-17c8-4e28-9168-8679b103d130_Juls.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Juls",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8d3177f1-a72d-4584-be06-6264e9e7d09a_Hadiya+Georges.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Hadiya Georges",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/12eb9f83-6630-405a-a011-78f632b2d12c_Adekunle+Gold.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Adekunle Gold",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
