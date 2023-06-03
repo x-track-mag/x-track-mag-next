@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-27T23:13:30+0000",
+	"publication_date": "2023-06-03T14:24:02+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/5bdf8317-80e0-4b2a-8085-87220b01374b_Beyonce.jpg?auto=compress,format",
-		"alt": "Beyonce",
+		"url": "https://images.prismic.io/x-track-mag/af134fb9-1cc7-4293-a02b-0ace465fcf06_janelle-monae.jpg?auto=compress,format",
+		"alt": "Janelle Monae",
 		"copyright": null,
-		"width": 2000,
-		"height": 1125,
-		"ratio": 1.7777777777777777
+		"width": 1581,
+		"height": 1054,
+		"ratio": 1.5
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "NSG x Meekz - Jitwam x Hadiya Georges -  Fricky - Aminé x Kaytranada - Juls x Ami Faku - Beyonce x Kendrick Lamar - Asake x Olamide - Cruz Cafuné x Boj - Jungle - Adekunble Gold - Lord Echo x Lisa Tomlins - Joe Yorke x The 18th Parallel - Angelo de Augustine & ++++",
+					"text": "Neil Frances x St. Panther - Choplife SoundSystem x Mr Eazi x Ami Faku - Jitwam - Tom Mouchi - Dave x Centrall Cee - Speech Debelle - Leisure - Daft Punk x Pharrell Williams - Burna Boy - Janelle Monae - Steel Bangles x NSG x Rimzee - Arlo Parks - Jelly Crystal & ++++",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/99e56055-ae3b-4f0e-87d2-90ebfb882621_NSG.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "NSG",
+					"url": "https://images.prismic.io/x-track-mag/6ca0756a-799f-47ee-ba52-951fec79592a_Neil+Frances+x+St+Panther.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Neil Frances x St Panther",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/00d2a96e-c939-4178-9f04-6c98383ec9ab_Ami+Faku.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/35fbd2c6-b2d2-43b0-a335-dbe4d0f11b12_Ami-Faku+.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
 					"alt": "Ami Faku",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/014075cb-b24c-496e-8cad-ceb4bd51ff0a_Jitwam.jpg?auto=compress,format&rect=0,0,1440,1402&w=1024&h=997",
-					"alt": "Jitwam",
+					"url": "https://images.prismic.io/x-track-mag/2af2d8ae-c10a-4745-b00c-bee7fa0140ba_Mr+Eazi.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Mr Eazi",
 					"copyright": null,
 					"width": 1024,
-					"height": 997,
-					"ratio": 1.0270812437311936
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -68,24 +68,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c5e30155-17c8-4e28-9168-8679b103d130_Juls.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Juls",
+					"url": "https://images.prismic.io/x-track-mag/0ce2b0fa-0fe9-40f4-a1cd-15b936b67a25_Daft+Punk+.jpg?auto=compress,format&rect=0,0,1080,1081&w=1024&h=1025",
+					"alt": "Daft Punk",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8d3177f1-a72d-4584-be06-6264e9e7d09a_Hadiya+Georges.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Hadiya Georges",
+					"url": "https://images.prismic.io/x-track-mag/86e74617-eb78-49a4-9006-777302d32a27_Speech+Debelle.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Speech Debelle",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/12eb9f83-6630-405a-a011-78f632b2d12c_Adekunle+Gold.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Adekunle Gold",
+					"url": "https://images.prismic.io/x-track-mag/dadaab53-4479-4b70-9d01-732b855f1c5e_Dave+x+Central+Cee.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Dave x Central Cee",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -97,7 +97,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=c1e45b9d43a34ef0",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=6de955048ff2442f",
 					"title": "Best ”XTrack“ of The Week"
 				},
 				{
