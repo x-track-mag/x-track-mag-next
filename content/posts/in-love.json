@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-26T04:22:07+0000",
+	"publication_date": "2023-06-03T21:05:01+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/a005d181-b196-4433-95c9-f04729152db9_Kali+Uchis.jpg?auto=compress,format",
-		"alt": "Kali Uchis",
+		"url": "https://images.prismic.io/x-track-mag/182085f6-fd18-4439-9268-1096959cc72e_Billie+Eilish+.jpg?auto=compress,format",
+		"alt": "Billie Eilish",
 		"copyright": null,
-		"width": 3000,
-		"height": 3000,
+		"width": 1440,
+		"height": 1440,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Tresor - Galimatias - Thomas Caruso Aragona - Jenevieve - Amaria - Khruangbin - Common Saints - Rosalia - Gabi Hartmann - Rhye - Cigarettes After Sex - Oklou - Chiiild - Arlo Parks - Yehra - Kali Uchis - Mustafa - Gabriels - Rum.Gold - Sault - Tsew The Kid - Disiz x Yseult - Mounika x Ocie Elliot - James Blake - The O'My's - Youth Lagoon - Men I Trust - Celeste x Jeshi - Hope Tala - Kyle Dion - Yaya Bey & +++ ",
+					"text": "Angelo de Augustine - NxWorries x Anderson Paak x Knxledge - Yuna - Thomas Caruso Aragona - Billie Eilish  - Galimatias - Jenevieve - Amaria - Khruangbin - Common Saints - Rosalia - Gabi Hartmann - Rhye - Cigarettes After Sex - Oklou - Chiiild - Arlo Parks - Yehra - Mustafa - Gabriels - rum.gold - Sault - Diziz x Yseult - Mounika x Ocie Eliot - James Blake - The O'My's - Youth Lagoon - Men I Trust - Celeste x Jeshi - Kyle Dion & +++ ",
 					"spans": []
 				}
 			]
@@ -44,20 +44,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/516afc32-ed90-45be-b02e-4296372d003c_Gabriels.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Gabriels",
+					"url": "https://images.prismic.io/x-track-mag/f9cd9443-07f1-41f3-9955-1483ea7ad86f_Yuna.++.jpg?auto=compress,format&rect=0,0,868,1085&w=1024&h=1280",
+					"alt": "Yuna",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f21682f9-c781-4642-b6d6-8311f2ac9f1c_Rosalia+.jpg?auto=compress,format&rect=0,0,1038,1374&w=1024&h=1355",
-					"alt": "Rosalia",
-					"copyright": null,
-					"width": 1024,
-					"height": 1355,
-					"ratio": 0.7557195571955719
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/1ae0af90-56c5-4863-9e8a-b0af154982d1_Thomas+Caruso+Aragona.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
@@ -66,6 +58,14 @@
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/c581a0e9-dab4-4186-aaa1-c6b2e9fab517_Rosalia.--.jpg?auto=compress,format&rect=0,0,1317,1318&w=1024&h=1025",
+					"alt": "Rosalia",
+					"copyright": null,
+					"width": 1024,
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				}
 			]
 		},
@@ -81,8 +81,8 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9a15c368-f073-4992-970f-01a34366a0b0_Youth+Lagoon.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Youth Lagoon",
+					"url": "https://images.prismic.io/x-track-mag/516afc32-ed90-45be-b02e-4296372d003c_Gabriels.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Gabriels",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
