@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-26T04:38:34+0000",
+	"publication_date": "2023-06-04T13:31:55+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/dc523324-1e03-440a-8e48-6132c45939a5_Rema+.jpg?auto=compress,format",
-		"alt": "Rema",
+		"url": "https://images.prismic.io/x-track-mag/5f345f18-5085-48fd-86a9-2ca4169214a1_Tiwa+Savage+.jpg?auto=compress,format",
+		"alt": "Tiwa Savage",
 		"copyright": null,
-		"width": 1548,
-		"height": 1024,
-		"ratio": 1.51171875
+		"width": 1080,
+		"height": 1350,
+		"ratio": 0.8
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Burna Boy  x Ed Sheeran - Popcaan x Burna Boy x Drake -Sam Smith x Koffee x jessie Reyez - Teni - Juls x Fireboy DML - Wizkid - Rema x Selena Gomez - DJ Tunez x Amexin - Spinall x Olamide x Kemuel - Kida Kudz -  Major Lazer x Bianca Costa x Tiwa Savage x Major League Djz x DJ Maphorisa x Julio Massidi - Cupidon x Lil Manna - Juls Niniola - Tekno & ++++ Enjoy",
+					"text": "Stonebwoy x Oxlade x Tiwa Savage - Burna Boy - Adekunle Gold -  Stormzy x Rema - DJ tunez x Wizkid x Gimba - ChopLife SoundSystem x Mr Eazi x Ami Faku - Major Lazer x Major League DJz x Gaba Cannal x Russel Zuma -  Tiwa Savage x Ayra Starr x Young John - Kida Kudz - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Blaq Jerzee x Tekno - Fireboy DML - Sefflon Don x Spice - Jobo x Bogo & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/daf99cbf-26c8-4d1f-8084-f41f3ee3562a_Teni--.jpg?auto=compress,format&rect=0,0,1668,1137&w=1024&h=698",
-					"alt": "Teni",
+					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 698,
-					"ratio": 1.4670487106017192
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -50,12 +50,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8a9979d2-39a5-4a4c-a1c7-819624f6735b_Tiwa-Savage-.jpg?auto=compress,format&rect=0,0,1440,1318&w=1024&h=937",
-					"alt": "Tiwa Savage",
+					"url": "https://images.prismic.io/x-track-mag/8ece50b1-765d-4dd3-9720-8bb2bb265108_Ami-Faku..jpg?auto=compress,format&rect=0,0,1362,1140&w=1024&h=857",
+					"alt": "Ami Faku",
 					"copyright": null,
 					"width": 1024,
-					"height": 937,
-					"ratio": 1.0928495197438635
+					"height": 857,
+					"ratio": 1.1948658109684946
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=compress,format&rect=0,0,1200,900&w=1024&h=768",
-					"alt": "Wizkid ",
+					"url": "https://images.prismic.io/x-track-mag/e2f67a84-732b-4d5d-b6c5-727627696ca0_Wizkid.jpg?auto=compress,format&rect=0,0,1507,942&w=1024&h=640",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 640,
+					"ratio": 1.6
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6df6a7e4-e43d-4d72-8646-94d43b4b88ea_Ayra+Starr+.jpeg?auto=compress,format&rect=0,0,960,960&w=1024&h=1024",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/8fcdeb48-0a1c-4f72-850d-0527da7a1c69_Stefflon-Don.jpg?auto=compress,format&rect=0,0,847,1024&w=1024&h=1238",
+					"alt": "Stefflon Don",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1238,
+					"ratio": 0.827140549273021
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4755790b-e4c3-4863-ad67-f05d64aaec4f_Popcaan.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Popcaan",
+					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
+					"alt": "Juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1021,
+					"ratio": 1.0029382957884427
 				}
 			]
 		},
@@ -106,5 +106,5 @@
 			]
 		}
 	],
-	"description": "Burna Boy  x Ed Sheeran - Popcaan x Burna Boy x Drake -Sam Smith x Koffee x jessie Reyez - Teni - Juls x Fireboy DML - Wizkid - Rema x Selena Gomez - DJ Tunez x Amexin - Spinall x Olamide x Kemuel - Kida Kudz -  Major Lazer x Bianca Costa x Tiwa Savage x Major League Djz x DJ Maphorisa x Julio Massidi - Cupidon x Lil Manna - Juls Niniola - Tekno & ++++ Enjoy"
+	"description": "Stonebwoy x Oxlade x Tiwa Savage - Burna Boy - Adekunle Gold -  Stormzy x Rema - DJ tunez x Wizkid x Gimba - ChopLife SoundSystem x Mr Eazi x Ami Faku - Major Lazer x Major League DJz x Gaba Cannal x Russel Zuma -  Tiwa Savage x Ayra Starr x Young John - Kida Kudz - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Blaq Jerzee x Tekno - Fireboy DML - Sefflon Don x Spice - Jobo x Bogo & ++++ Enjoy"
 }
