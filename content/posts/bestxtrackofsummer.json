@@ -1,0 +1,115 @@
+{
+	"uid": "bestxtrackofsummer",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2023-06-17T10:26:53+0000",
+	"title": "Best ”XTrack“ of Summer",
+	"subtitle": "Les meilleurs sons de l'Été",
+	"text_color": "inverted",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/722e5545-b4ab-40b8-b9a7-baf12fb6e518_Vagabon+.jpg?auto=compress,format",
+		"alt": "Vagabon",
+		"copyright": null,
+		"width": 1855,
+		"height": 1330,
+		"ratio": 1.394736842105263
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading3",
+					"text": "Les meilleurs sons de l'été",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Amore x Dinamarca - Skillibeng x Markkk x Mally IVS - Waterbaby - Jitwam - The Wekknd x Playboi Carti x Madonna - Maandy x Drop Boy - Sahy Lia - Konshens x DJ Smo x Reid Waters - Vagabon x Killer Mike x Andre 3000 x Eryn Allen Kane x Future  & ++++ Enjoy",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/7690fa75-b8f8-4c84-84d3-ec15e41495f5_Amore.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amore",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/02356794-4e39-4786-b16a-5ad95fc46c87_The+Weeknd.jpg?auto=compress,format&rect=0,0,1080,715&w=1024&h=678",
+					"alt": "The Weeknd",
+					"copyright": null,
+					"width": 1024,
+					"height": 678,
+					"ratio": 1.5103244837758112
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/99660154-2fa1-4653-9349-83c715635e24_Madonna.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Madonna",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/0f63dfb5-3c24-4b6c-8f90-34f7f24c8e82_Shay+Lia.jpg?auto=compress,format&rect=0,0,1600,2397&w=1024&h=1534",
+					"alt": "Shay Lia",
+					"copyright": null,
+					"width": 1024,
+					"height": 1534,
+					"ratio": 0.6675358539765319
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/bb838b1c-d5b4-4959-945b-6805e2c06814_Andre+3000++.jpg?auto=compress,format&rect=0,0,1395,1353&w=1024&h=993",
+					"alt": "Andre 3000",
+					"copyright": null,
+					"width": 1024,
+					"height": 993,
+					"ratio": 1.0312185297079557
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5ff60a90-5af1-4e1d-bbaf-ff3d935bde3d_Eryn+Allen+Kane.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Eryn Allen Kane",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=2e6f8c73c30f4022",
+					"title": "Best ”XTrack“ of The Week"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of the Week"
+				}
+			]
+		}
+	],
+	"description": "Playlist des meilleurs sons de l'été"
+}
