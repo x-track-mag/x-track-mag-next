@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-26T04:37:33+0000",
+	"publication_date": "2023-06-19T08:35:40+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
-		"alt": "Enny",
+		"url": "https://images.prismic.io/x-track-mag/24d27273-e4b7-448f-9178-5ab1c0333bda_Metro+Boomin+.jpg?auto=compress,format",
+		"alt": "Metro Boomin",
 		"copyright": null,
 		"width": 4096,
-		"height": 2958,
-		"ratio": 1.3847194050033806
+		"height": 4096,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Enny - Jitwam x Jaydonclover x Yungmorpheus - Aminé x Kaytranada x Pharrell Williams - Kida Kudz - Central Cee- Tion Wayne - Jorja Smith Biig Piig - Raghd - FKA Twigs x Pa Salieu - Sudan Archives x Odesza -  Yaya Bey x DJ Nativesun - Vacra - Ghetto Boy & +++ Enjoy & +++ Enjoy",
+					"text": "Metro Boomin x Dontoliver x Wizkid x Beam x Toian - Enny - EI8HT x Offset - Jitwam x Jaydonclover x Yungmorpheus - Aminé x Kaytranada x Pharrell Williams x Amaarae - J Hus x Drake - Kida Kudz - Fricky - Beyoncé x Kendrick Lamar - Rahill x Beck - Central Cee- Tion Wayne - Jorja Smith - Biig Piig - Raghd - Juls x Ami Faku - FKA Twigs x Pa Salieu - Sudan Archives x Odesza -  Yaya Bey x DJ Nativesun - Vacra - Ghetto Boy - Tekno  & +++ Enjoy & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2c30f974-4a9f-446a-98be-aad8eb2a70d8_Sudan-Archives.++.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Sudan Archives",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/15a9cc95-05a8-43e5-9e6e-b04c0992f8aa_Burna+Boy.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/f167e8f8-5bfb-48cf-85b6-8deaea4c042f_Don+Toliver.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Don Toliver",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5f345f18-5085-48fd-86a9-2ca4169214a1_Tiwa+Savage+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Tiwa Savage",
+					"url": "https://images.prismic.io/x-track-mag/afc9ab5c-097b-413f-886a-8b64c7f8a25b_Toian.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Toian",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/9e38206a-ded8-401a-9d31-72613106d19f_Wizkid.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -63,24 +63,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/06432197-bcc1-4c68-94ff-347fb0697733_Central+Cee+.jpg?auto=compress,format&rect=0,0,1640,2048&w=1024&h=1279",
-					"alt": "Central Cee",
+					"url": "https://images.prismic.io/x-track-mag/12235d5b-ef6d-46cf-9233-aa8fe7478ec3_Offset.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Offset",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b4bf1066-2c6c-4e31-9a27-b24eb30c919f_Biig+Piig.jpg?auto=compress,format&rect=0,0,1707,2560&w=1024&h=1536",
-					"alt": "Biig Piig",
+					"url": "https://images.prismic.io/x-track-mag/adaaaa8a-5a57-49fd-933e-4eb43ae92409_Ei8ht.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Ei8ht",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f26c12ff-87f3-480a-849c-7ca9934f888f_Jitwam.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jitwam",
+					"url": "https://images.prismic.io/x-track-mag/c14e85b7-9179-44f9-b777-128bcb7e495f_Beam.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Beam",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,

@@ -133,12 +133,12 @@
 			"uid": "feel-good",
 			"title": "Feel Good",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
-				"alt": "Enny",
+				"url": "https://images.prismic.io/x-track-mag/24d27273-e4b7-448f-9178-5ab1c0333bda_Metro+Boomin+.jpg?auto=compress,format",
+				"alt": "Metro Boomin",
 				"copyright": null,
 				"width": 4096,
-				"height": 2958,
-				"ratio": 1.3847194050033806
+				"height": 4096,
+				"ratio": 1
 			},
 			"video_loop": null
 		},
@@ -230,17 +230,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-05-26T04:37:33+0000",
+			"publication_date": "2023-06-19T08:35:40+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
-				"alt": "Enny",
+				"url": "https://images.prismic.io/x-track-mag/24d27273-e4b7-448f-9178-5ab1c0333bda_Metro+Boomin+.jpg?auto=compress,format",
+				"alt": "Metro Boomin",
 				"copyright": null,
 				"width": 4096,
-				"height": 2958,
-				"ratio": 1.3847194050033806
+				"height": 4096,
+				"ratio": 1
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
