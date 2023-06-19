@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-04T13:37:11+0000",
+	"publication_date": "2023-06-19T14:08:07+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/17c90850-8302-425d-9a94-0e2cb4aaa57d_Ayra+Starr+.jpg?auto=compress,format",
-		"alt": "Ayra Starr",
+		"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
+		"alt": "Lila Iké",
 		"copyright": null,
-		"width": 1440,
-		"height": 1791,
-		"ratio": 0.8040201005025126
+		"width": 2500,
+		"height": 2755,
+		"ratio": 0.9074410163339383
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Busy Signal - Wizkid - Gorillaz x Bad Bunny - Stormzy x Tendai x Ayra Starr x Rema - Dj Tunez x Amexin - Juls x S.O.N. - Ghetto Boy  - The Cavemen - Tekno - Juls x Twich 4EVA x Quamina MP x Sauti Sol - Lila Iké - Yaya Bey - Maandy x Mejja -Jada Kingdom - Popcaan - Jobo x Bogo - Yung L - The Cavemen - Skip Marley -  Blundetto x Voilaaa - Fireboy DML - Asa - Juniper x Sango x Vhoor - Oshun - Simi - Teni - Mr Easi x Lady Donli - Samthing Soweto & +++",
+					"text": "Busy Signal - Tay Iwar x Juls - Wizkid - Gorillaz x Bad Bunny - Stormzy x Tendai x Ayra Starr x Rema - Dj Tunez x Amexin - Juls x S.O.N. - Ghetto Boy  - The Cavemen - Tekno - Juls x Twich 4EVA x Quamina MP x Sauti Sol - Lila Iké - Yaya Bey - Maandy x Mejja -Jada Kingdom - Popcaan - Jobo x Bogo - Yung L - The Cavemen - Skip Marley -  Blundetto x Voilaaa - Fireboy DML - Asa - Juniper x Sango x Vhoor - Oshun - Simi - Teni - Mr Easi x Lady Donli - Samthing Soweto & +++",
 					"spans": []
 				}
 			]
@@ -42,12 +42,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ff2387be-51c0-46f6-b09a-ad169565e537_LILA+IKE++.jpg?auto=compress,format&rect=0,0,800,1200&w=1024&h=1536",
-					"alt": "Lila Iké",
+					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/91b2f609-32eb-4cb3-a688-a5b82d939ad6_Wizkid.jpg?auto=compress,format&rect=0,0,1623,1957&w=1024&h=1235",

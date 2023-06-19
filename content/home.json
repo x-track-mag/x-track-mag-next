@@ -433,17 +433,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-06-04T13:37:11+0000",
+			"publication_date": "2023-06-19T14:08:07+0000",
 			"title": "Tropical",
 			"subtitle": "Sweet & Happy",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/17c90850-8302-425d-9a94-0e2cb4aaa57d_Ayra+Starr+.jpg?auto=compress,format",
-				"alt": "Ayra Starr",
+				"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
+				"alt": "Lila Iké",
 				"copyright": null,
-				"width": 1440,
-				"height": 1791,
-				"ratio": 0.8040201005025126
+				"width": 2500,
+				"height": 2755,
+				"ratio": 0.9074410163339383
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
