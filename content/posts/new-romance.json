@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-05-26T04:21:34+0000",
+	"publication_date": "2023-06-19T09:12:18+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Blick Bassy - Neil Frances x PawPaw Rod - Raury - Ami Faku x Gallo Remixed x Black Coffee - Bakar - Arlo Parks - Ocevne x MadeInParis - 6Lack - Hamza x Damso - Vagabon - Stormzy x Rema x Tendai x ayra Starr - Juls x Tay Iwar x P-Rallel x Fireboy DML- Destin Conrad - Tamae x Lyric Le'Son - Leisure x Sumac Dub - Jungle - Gabriels - Khruangbin - Hope Tala - Benny Sings x Remi Wolf - Ezechiel Paihès - Patchworks x Pat Kalla - Sudan Archives - Oshun - Chaton - Chiiild - Toro Y Moi - Greentea Peng & +++ enjoy",
+					"text": "Vagabon - Metro Boomin x James Blake - Blick Bassy - Amore x Dinamarca - Neil Frances x PawPaw Rod - The Weeknd x Playboi Carti x Madonna - Raury - Ami Faku x Gallo Remixed x Black Coffee - Daft Punk x Pharrell x Williams - Arlo Parks - Leisure - 6Lack - Waterbaby - Speech Debelle - Chenayder  & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
+					"url": "https://images.prismic.io/x-track-mag/ef9c4b2f-fa8a-436f-8421-68690c2ad92e_Vagabon.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Vagabon",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/c1b66fc7-68b7-41a0-b762-904e02a89d36_James+Blake.jpg?auto=compress,format&rect=0,0,1080,1344&w=1024&h=1274",
+					"alt": "James Blake",
+					"copyright": null,
+					"width": 1024,
+					"height": 1274,
+					"ratio": 0.8037676609105181
+				},
+				{
 					"url": "https://images.prismic.io/x-track-mag/f30eda31-be61-4d00-9ff5-f857706f85ce_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
 					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f15f8638-f3b3-485e-af3f-f8ef75dd517a_Bakar.jpg?auto=compress,format&rect=0,0,2645,3508&w=1024&h=1358",
-					"alt": "Bakar",
-					"copyright": null,
-					"width": 1024,
-					"height": 1358,
-					"ratio": 0.7540500736377025
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d16eda46-9ff9-4ef1-8fe2-abc6ca591fb4_Ocevne+.jpg?auto=compress,format&rect=0,0,1613,1352&w=1024&h=858",
-					"alt": "Ocevne",
-					"copyright": null,
-					"width": 1024,
-					"height": 858,
-					"ratio": 1.1934731934731935
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e37974d0-d85a-430b-96e8-ed4f8c41388c_Greentea+Peng+.jpg?auto=compress,format&rect=0,0,957,956&w=1024&h=1023",
-					"alt": "Greentea Peng ",
+					"url": "https://images.prismic.io/x-track-mag/7690fa75-b8f8-4c84-84d3-ec15e41495f5_Amore.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amore",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c11adcf0-1dca-497c-9b09-68d55f3bebfc_Raury.jpg?auto=compress,format&rect=0,0,2000,3000&w=1024&h=1536",
-					"alt": "Raury",
+					"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
+					"alt": "PawPaw Rod",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/58f89932-679d-47a3-97a4-a7a591858ca7_Hope+Tala.jpg?auto=compress,format&rect=0,0,1080,1205&w=1024&h=1143",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/f1c94d50-9689-4a0b-8992-9712fa684746_Waterbaby.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Waterbaby",
 					"copyright": null,
 					"width": 1024,
-					"height": 1143,
-					"ratio": 0.8958880139982502
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
