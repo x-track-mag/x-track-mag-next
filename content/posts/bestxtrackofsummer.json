@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-22T09:10:50+0000",
+	"publication_date": "2023-06-22T09:13:36+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "inverted",
@@ -47,12 +47,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/cc163e0a-ac7a-4630-aece-897143f4ef2e_Toian.jpg?auto=compress,format&rect=0,0,1080,1261&w=1024&h=1196",
-					"alt": "Toian",
+					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1196,
-					"ratio": 0.8561872909698997
+					"height": 740,
+					"ratio": 1.3837837837837839
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/1e92d44d-ec50-421b-810d-e769fac58231_James+Blake.jpg?auto=compress,format&rect=0,0,1333,1675&w=1024&h=1287",
@@ -76,20 +76,20 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/cc163e0a-ac7a-4630-aece-897143f4ef2e_Toian.jpg?auto=compress,format&rect=0,0,1080,1261&w=1024&h=1196",
+					"alt": "Toian",
 					"copyright": null,
 					"width": 1024,
-					"height": 740,
-					"ratio": 1.3837837837837839
+					"height": 1196,
+					"ratio": 0.8561872909698997
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/91b2f609-32eb-4cb3-a688-a5b82d939ad6_Wizkid.jpg?auto=compress,format&rect=0,0,1623,1957&w=1024&h=1235",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/809b3fbd-6efb-4e8e-b70b-f6411983858c_wizkid.jpg?auto=compress,format&rect=0,0,1920,1080&w=1024&h=576",
+					"alt": "wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1235,
-					"ratio": 0.8291497975708502
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
