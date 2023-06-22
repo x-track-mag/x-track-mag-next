@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-17T10:28:30+0000",
+	"publication_date": "2023-06-22T08:56:16+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "inverted",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Amore x Dinamarca - Skillibeng x Markkk x Mally IVS - Waterbaby - Jitwam - The Wekknd x Playboi Carti x Madonna - Maandy x Drop Boy - Sahy Lia - Konshens x DJ Smo x Reid Waters - Vagabon - Killer Mike x Andre 3000 x Eryn Allen Kane x Future  & ++++ Enjoy",
+					"text": "Amore x Dinamarca -  Vagabon - Waterbaby - Jitwam -Metro Boomin x James Blake x Don Toliver x Wizkid x Beam x Toian - Burna Boy - J Hus x Drake -  EI8HT x Offset - Jitwam x Jaydonclover x Yungmorpheus - Aminé x Kaytranada - Enny - Speech Debelle & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/7690fa75-b8f8-4c84-84d3-ec15e41495f5_Amore.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amore",
+					"url": "https://images.prismic.io/x-track-mag/24d27273-e4b7-448f-9178-5ab1c0333bda_Metro+Boomin+.jpg?auto=compress,format&rect=0,0,4096,4096&w=1024&h=1024",
+					"alt": "Metro Boomin",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/02356794-4e39-4786-b16a-5ad95fc46c87_The+Weeknd.jpg?auto=compress,format&rect=0,0,1080,715&w=1024&h=678",
-					"alt": "The Weeknd",
+					"url": "https://images.prismic.io/x-track-mag/afc9ab5c-097b-413f-886a-8b64c7f8a25b_Toian.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Toian",
 					"copyright": null,
 					"width": 1024,
-					"height": 678,
-					"ratio": 1.5103244837758112
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/99660154-2fa1-4653-9349-83c715635e24_Madonna.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Madonna",
+					"url": "https://images.prismic.io/x-track-mag/2a93040e-978b-488d-b8b6-b065e78e0766_James+Blake.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "James Blake",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/0f63dfb5-3c24-4b6c-8f90-34f7f24c8e82_Shay+Lia.jpg?auto=compress,format&rect=0,0,1600,2397&w=1024&h=1534",
-					"alt": "Shay Lia",
+					"url": "https://images.prismic.io/x-track-mag/f167e8f8-5bfb-48cf-85b6-8deaea4c042f_Don+Toliver.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Don Toliver",
 					"copyright": null,
 					"width": 1024,
-					"height": 1534,
-					"ratio": 0.6675358539765319
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bb838b1c-d5b4-4959-945b-6805e2c06814_Andre+3000++.jpg?auto=compress,format&rect=0,0,1395,1353&w=1024&h=993",
-					"alt": "Andre 3000",
+					"url": "https://images.prismic.io/x-track-mag/adaaaa8a-5a57-49fd-933e-4eb43ae92409_Ei8ht.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Ei8ht",
 					"copyright": null,
 					"width": 1024,
-					"height": 993,
-					"ratio": 1.0312185297079557
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5ff60a90-5af1-4e1d-bbaf-ff3d935bde3d_Eryn+Allen+Kane.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Eryn Allen Kane",
+					"url": "https://images.prismic.io/x-track-mag/9e38206a-ded8-401a-9d31-72613106d19f_Wizkid.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
