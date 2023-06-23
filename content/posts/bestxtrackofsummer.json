@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-22T09:13:36+0000",
+	"publication_date": "2023-06-23T10:33:49+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/722e5545-b4ab-40b8-b9a7-baf12fb6e518_Vagabon+.jpg?auto=compress,format",
-		"alt": "Vagabon",
+		"url": "https://images.prismic.io/x-track-mag/6a0441c2-9b37-4e66-ab0d-2961de6fe3e5_Pomme.jpg?auto=compress,format",
+		"alt": "Pomme",
 		"copyright": null,
-		"width": 1855,
-		"height": 1330,
-		"ratio": 1.394736842105263
+		"width": 2972,
+		"height": 3715,
+		"ratio": 0.8
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Amore x Dinamarca -  Vagabon - Waterbaby - Jitwam -Metro Boomin x James Blake x Don Toliver x Wizkid x Beam x Toian - Burna Boy - J Hus x Drake -  EI8HT x Offset - Jitwam x Jaydonclover x Yungmorpheus - Aminé x Kaytranada - Enny - Speech Debelle & ++++ Enjoy",
+					"text": "Ckay - Jungle x Channel Tres - Philip Uzo x The Cavemen x Imike Anyasodo -  Fredo - Stormzy - Asake - Odeal x Brazy - Coileray x David Guetta - Amindi - Michael Brun x Saint Levant x Lolo Zouaï - Waxx x Pomme - Chaton - Rum.Gold - Thee Marloes & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +39,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/707a9001-b035-4ee4-b5d2-7e5f525277c8_metro+Boomin-.jpg?auto=compress,format&rect=0,0,4486,4486&w=1024&h=1024",
-					"alt": "Metro Boomin",
+					"url": "https://images.prismic.io/x-track-mag/aaa2c375-d473-460c-9d64-e0b7d1f508b6_Ckay.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ckay",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/bf8d8659-8d3d-4bea-82c3-fe4ef1723c18_Coi+Leray.jpg?auto=compress,format&rect=0,0,1580,1054&w=1024&h=683",
+					"alt": "Coi Leray",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a61d4573-2a30-4746-a13e-5295aaeb2d30_The+Cavemen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "The Cavemen",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
-					"alt": "Enny",
-					"copyright": null,
-					"width": 1024,
-					"height": 740,
-					"ratio": 1.3837837837837839
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/1e92d44d-ec50-421b-810d-e769fac58231_James+Blake.jpg?auto=compress,format&rect=0,0,1333,1675&w=1024&h=1287",
-					"alt": "James Blake",
-					"copyright": null,
-					"width": 1024,
-					"height": 1287,
-					"ratio": 0.7956487956487956
 				}
 			]
 		},
@@ -68,28 +68,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/cf095332-66ab-4ae9-9521-efdf13aca73c_Don+toliver.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Don Toliver",
+					"url": "https://images.prismic.io/x-track-mag/79a5cb55-06c1-45cb-b446-530069dcb636_Amindi.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amindi",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/cc163e0a-ac7a-4630-aece-897143f4ef2e_Toian.jpg?auto=compress,format&rect=0,0,1080,1261&w=1024&h=1196",
-					"alt": "Toian",
+					"url": "https://images.prismic.io/x-track-mag/83f5751e-8bd7-410a-896f-83491939dc29_Jungle.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Jungle",
 					"copyright": null,
 					"width": 1024,
-					"height": 1196,
-					"ratio": 0.8561872909698997
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/809b3fbd-6efb-4e8e-b70b-f6411983858c_wizkid.jpg?auto=compress,format&rect=0,0,1920,1080&w=1024&h=576",
-					"alt": "wizkid",
+					"url": "https://images.prismic.io/x-track-mag/796fdec5-9853-4ca0-a26c-d4f95016fc58_Lolo+Zouai%CC%88.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Lolo Zouaï",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
