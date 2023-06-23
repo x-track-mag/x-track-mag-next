@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-23T22:37:48+0000",
+	"publication_date": "2023-06-23T22:52:02+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "inverted",
@@ -30,7 +30,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Ckay - Jungle x Channel Tres - Philip Uzo x The Cavemen x Imike Anyasodo -  Stormzy - Fredo - Asake - Bakar - Odeal x Brazy - Amindi - Michael Brun x Saint Levant x Lolo Zouaï - Waxx x Pomme - Chaton - Rum.Gold - Thee Marloes & ++++ Enjoy",
+					"text": "Ckay - Jungle x Channel Tres - Philip Uzo x The Cavemen x Imike Anyasodo -  Bakar - Stormzy - Fredo - Asake - Odeal x Brazy - Amindi - Michael Brun x Saint Levant x Lolo Zouaï - Waxx x Pomme - Chaton - Rum.Gold - Thee Marloes & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,7 +39,7 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aaa2c375-d473-460c-9d64-e0b7d1f508b6_Ckay.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/e08eeab8-3bf1-4af0-968e-49e586cc5e5d_Ckay+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
 					"alt": "Ckay",
 					"copyright": null,
 					"width": 1024,
@@ -55,12 +55,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a61d4573-2a30-4746-a13e-5295aaeb2d30_The+Cavemen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "The Cavemen",
+					"url": "https://images.prismic.io/x-track-mag/f22c447d-763b-49bc-901b-5a54cc917667_Bakar.+jpg.jpg?auto=compress,format&rect=0,0,1998,1124&w=1024&h=576",
+					"alt": "Bakar",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -68,12 +68,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/7758fa89-2c8b-4f67-b0a2-3d60b17a9e3a_Fredo+x+Stormzy.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
-					"alt": "Fredo x Stormzy",
+					"url": "https://images.prismic.io/x-track-mag/a61d4573-2a30-4746-a13e-5295aaeb2d30_The+Cavemen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "The Cavemen",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/796fdec5-9853-4ca0-a26c-d4f95016fc58_Lolo+Zouai%CC%88.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
