@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-23T10:33:49+0000",
+	"publication_date": "2023-06-23T10:44:36+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "inverted",
@@ -47,12 +47,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bf8d8659-8d3d-4bea-82c3-fe4ef1723c18_Coi+Leray.jpg?auto=compress,format&rect=0,0,1580,1054&w=1024&h=683",
-					"alt": "Coi Leray",
+					"url": "https://images.prismic.io/x-track-mag/79a5cb55-06c1-45cb-b446-530069dcb636_Amindi.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amindi",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/a61d4573-2a30-4746-a13e-5295aaeb2d30_The+Cavemen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
@@ -68,8 +68,16 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/79a5cb55-06c1-45cb-b446-530069dcb636_Amindi.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amindi",
+					"url": "https://images.prismic.io/x-track-mag/7758fa89-2c8b-4f67-b0a2-3d60b17a9e3a_Fredo+x+Stormzy.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
+					"alt": "Fredo x Stormzy",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/796fdec5-9853-4ca0-a26c-d4f95016fc58_Lolo+Zouai%CC%88.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Lolo Zouaï",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -78,14 +86,6 @@
 				{
 					"url": "https://images.prismic.io/x-track-mag/83f5751e-8bd7-410a-896f-83491939dc29_Jungle.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
 					"alt": "Jungle",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/796fdec5-9853-4ca0-a26c-d4f95016fc58_Lolo+Zouai%CC%88.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Lolo Zouaï",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
