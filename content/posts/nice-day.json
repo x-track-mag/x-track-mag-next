@@ -1,0 +1,110 @@
+{
+	"uid": "nice-day",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2023-06-24T14:20:18+0000",
+	"title": "Nice Day",
+	"subtitle": "Old & New Best ”XTrack“ Compiled",
+	"text_color": "inverted",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/a9b1a04b-58b8-4e56-9fc0-f3045d7392f7_Amore-.jpg?auto=compress,format",
+		"alt": "Amore",
+		"copyright": null,
+		"width": 1500,
+		"height": 1500,
+		"ratio": 1
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Amore x Dinamarca - Vagabon - Hare Squad - Speech Debelle - Metro Boomin x James Blake x Don Toliver x Wizkid x Beam x Toian - Bakar - Yaya Bey - Neil Francis x PawPaw Rod - Raury - DJ Tunez x Amexin - Gorilaz x Bad Bunny - Wizkid x Major Lazer - Ami Faku x Gallo Remixed x Black Coffee - Victony x Rema x Tempoe x Don Toliver - PawPaw Rod - Aminé x Kaytranada x Pharrell Williams - FKJ - Juls x Baby Son - Ghetto Boy - The Cavemen - Crayon x Bella Smurda - Major Lazer x Major League Djz x Bianca Costa x Tiwa Savage x DJ Maphorisa x Julio Masidi - Kida Kudz - Blaq Jerzee x Tekno - Biig Piig - PinkPantheress x Ice Spice - Swae Lee x Drake",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/707a9001-b035-4ee4-b5d2-7e5f525277c8_metro+Boomin-.jpg?auto=compress,format&rect=0,0,4486,4486&w=1024&h=1024",
+					"alt": "Metro Boomin",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/55050276-76cf-4f2d-95cc-997284e3eb29_Vagabon.jpg?auto=compress,format&rect=0,0,1238,1354&w=1024&h=1120",
+					"alt": "Vagabon",
+					"copyright": null,
+					"width": 1024,
+					"height": 1120,
+					"ratio": 0.9142857142857143
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/cf34155e-7602-46cf-93cb-e66aff6dff7f_James+Blake.jpg?auto=compress,format&rect=0,0,798,1200&w=1024&h=1540",
+					"alt": "James Blake",
+					"copyright": null,
+					"width": 1024,
+					"height": 1540,
+					"ratio": 0.6649350649350649
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/f22c447d-763b-49bc-901b-5a54cc917667_Bakar.+jpg.jpg?auto=compress,format&rect=0,0,1998,1124&w=1024&h=576",
+					"alt": "Bakar",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/35fbd2c6-b2d2-43b0-a335-dbe4d0f11b12_Ami-Faku+.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
+					"alt": "Ami Faku",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/36wLfHJCs61Godz0ULhNwa?si=e255ec5d410b4611",
+					"title": "Nice Day"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/11484310504",
+					"title": "Nice Day"
+				},
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMCSBS32kS-Xm6832KBV1lxc",
+					"title": "Nice Day"
+				}
+			]
+		}
+	],
+	"description": "Amore x Dinamarca - Vagabon - Hare Squad - Speech Debelle - Metro Boomin x James Blake x Don Toliver x Wizkid x Beam x Toian - Bakar - Yaya Bey - Neil Francis x PawPaw Rod - Raury - DJ Tunez x Amexin - Gorilaz x Bad Bunny - Wizkid x Major Lazer - Ami Faku x Gallo Remixed x Black Coffee - Victony x Rema x Tempoe x Don Toliver - PawPaw Rod - Aminé x Kaytranada x Pharrell Williams - FKJ - Juls x Baby Son - Ghetto Boy - The Cavemen - Crayon x Bella Smurda - Major Lazer x Major League Djz x Bianca Costa x Tiwa Savage x DJ Maphorisa x Julio Masidi - Kida Kudz - Blaq Jerzee x Tekno - Biig Piig - PinkPantheress x Ice Spice - Swae Lee x Drake"
+}

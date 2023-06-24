@@ -694,6 +694,29 @@
 			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
+			"uid": "nice-day",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-06-24T14:20:18+0000",
+			"title": "Nice Day",
+			"subtitle": "Old & New Best ”XTrack“ Compiled",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/a9b1a04b-58b8-4e56-9fc0-f3045d7392f7_Amore-.jpg?auto=compress,format",
+				"alt": "Amore",
+				"copyright": null,
+				"width": 1500,
+				"height": 1500,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Amore x Dinamarca - Vagabon - Hare Squad - Speech Debelle - Metro Boomin x James Blake x Don Toliver x Wizkid x Beam x Toian - Bakar - Yaya Bey - Neil Francis x PawPaw Rod - Raury - DJ Tunez x Amexin - Gorilaz x Bad Bunny - Wizkid x Major Lazer - Ami Faku x Gallo Remixed x Black Coffee - Victony x Rema x Tempoe x Don Toliver - PawPaw Rod - Aminé x Kaytranada x Pharrell Williams - FKJ - Juls x Baby Son - Ghetto Boy - The Cavemen - Crayon x Bella Smurda - Major Lazer x Major League Djz x Bianca Costa x Tiwa Savage x DJ Maphorisa x Julio Masidi - Kida Kudz - Blaq Jerzee x Tekno - Biig Piig - PinkPantheress x Ice Spice - Swae Lee x Drake"
+		},
+		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
