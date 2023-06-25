@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-03T21:05:01+0000",
+	"publication_date": "2023-06-25T09:22:09+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/182085f6-fd18-4439-9268-1096959cc72e_Billie+Eilish+.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/f4ad14a6-65bc-4395-b257-e408e0eecfce_Billie+Eilish.jpg?auto=compress,format",
 		"alt": "Billie Eilish",
 		"copyright": null,
-		"width": 1440,
-		"height": 1440,
-		"ratio": 1
+		"width": 2048,
+		"height": 1478,
+		"ratio": 1.3856562922868743
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
