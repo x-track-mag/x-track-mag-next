@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-24T14:06:44+0000",
+	"publication_date": "2023-07-03T07:23:47+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/6a0441c2-9b37-4e66-ab0d-2961de6fe3e5_Pomme.jpg?auto=compress,format",
-		"alt": "Pomme",
+		"url": "https://images.prismic.io/x-track-mag/8db94bcd-639e-4b5c-805b-222e286b613c_Libianca+.jpeg?auto=compress,format",
+		"alt": "Libianca",
 		"copyright": null,
-		"width": 2972,
-		"height": 3715,
-		"ratio": 0.8
+		"width": 2152,
+		"height": 1926,
+		"ratio": 1.1173416407061267
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -24,13 +24,8 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "heading3",
-					"text": "Les meilleurs sons de l'été",
-					"spans": []
-				},
-				{
 					"type": "paragraph",
-					"text": "CKay - Victony - Jungle x Channel Tres - Philip Uzo x The Cavemen x Imike Anyasodo -  Bakar - Stormzy - Fredo - Asake - Odeal x Brazy - Amindi - Michael Brun x Saint Levant x Lolo Zouaï - Waxx x Pomme - Chaton - Rum.Gold - Thee Marloes & ++++ Enjoy",
+					"text": "Libianca - Byron Messia - Burna Boy x 21 Savage - Asake - Spinall x Wizkid - PinkPantheress - Omah Lay - Speech Debelle - Victony - Stormzy - Aylo x Minz - Rad Cartier x Slimka x Squidji x Benjay - Waterbaby - Lil Uzy Vert x Don Toliver - Angelo De Augustine & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,57 +34,57 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e08eeab8-3bf1-4af0-968e-49e586cc5e5d_Ckay+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "CKay",
+					"url": "https://images.prismic.io/x-track-mag/55569387-a640-4808-a7cd-43d03f2726ae_Byron+Messia+.jpg?auto=compress,format&rect=0,0,1923,1512&w=1024&h=805",
+					"alt": "Byron Messia",
+					"copyright": null,
+					"width": 1024,
+					"height": 805,
+					"ratio": 1.2720496894409938
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/cb36a88e-46a9-4aaf-9daf-e2543ac44436_Pinkpantheress.jpg?auto=compress,format&rect=0,0,1004,1200&w=1024&h=1224",
+					"alt": "PinkPantheress",
+					"copyright": null,
+					"width": 1024,
+					"height": 1224,
+					"ratio": 0.8366013071895425
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/15a9cc95-05a8-43e5-9e6e-b04c0992f8aa_Burna+Boy.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Burna Boy",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/d255ae33-7033-4030-a31c-e345637861dc_Asake.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Asake",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/86e74617-eb78-49a4-9006-777302d32a27_Speech+Debelle.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Speech Debelle",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/79a5cb55-06c1-45cb-b446-530069dcb636_Amindi.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amindi",
+					"url": "https://images.prismic.io/x-track-mag/5c645d91-133a-4d6a-88fe-bb116dce28ef_Rad+Cartier.++.jpg?auto=compress,format&rect=0,0,1617,1124&w=1024&h=712",
+					"alt": "Rad Cartier",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f22c447d-763b-49bc-901b-5a54cc917667_Bakar.+jpg.jpg?auto=compress,format&rect=0,0,1998,1124&w=1024&h=576",
-					"alt": "Bakar",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/a61d4573-2a30-4746-a13e-5295aaeb2d30_The+Cavemen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "The Cavemen",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/796fdec5-9853-4ca0-a26c-d4f95016fc58_Lolo+Zouai%CC%88.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Lolo Zouaï",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/83f5751e-8bd7-410a-896f-83491939dc29_Jungle.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jungle",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 712,
+					"ratio": 1.4382022471910112
 				}
 			]
 		},
