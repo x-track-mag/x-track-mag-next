@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-07-03T07:27:36+0000",
+	"publication_date": "2023-07-08T09:48:27+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/8db94bcd-639e-4b5c-805b-222e286b613c_Libianca+.jpeg?auto=compress,format",
-		"alt": "Libianca",
+		"url": "https://images.prismic.io/x-track-mag/99692fae-0d05-41f8-9d31-eeb5a69611ec_Amaarae.jpg?auto=compress,format",
+		"alt": "Amaarae",
 		"copyright": null,
-		"width": 2152,
-		"height": 1926,
-		"ratio": 1.1173416407061267
+		"width": 1440,
+		"height": 1440,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Libianca - Byron Messia - Burna Boy x 21 Savage - Asake - Spinall x Wizkid - PinkPantheress - Omah Lay - Speech Debelle - Victony - Stormzy - Aylo x Minz - Rad Cartier x Slimka x Squidji x Benjay - Waterbaby - Lil Uzy Vert x Don Toliver - Angelo De Augustine & ++++ Enjoy",
+					"text": "Courtesy x Erika de Casier x August Rosenbaum - Tainy x Young Miko x The Marias - Odumodublvck x Fireboy DML - Cadenza x Beam x Amaarae -  L'Impératrice x Cuco - Jorja Smith - Gabriels x Ché Wilson x Greg Wilson - Yemi Alade - Majeeed x Bnxn - Blundetto x Pupajim - Nasty C - Robin -Lass - Metro Boomin x Swae Lee x Lil Wayne x Offset - Angelo De Augustine - Delaney Bailey & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/55569387-a640-4808-a7cd-43d03f2726ae_Byron+Messia+.jpg?auto=compress,format&rect=0,0,1923,1512&w=1024&h=805",
-					"alt": "Byron Messia",
+					"url": "https://images.prismic.io/x-track-mag/85dc6cf1-427f-4ccc-9153-4ebaf14daf7b_Delaney+Bailey.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Delaney Bailey",
 					"copyright": null,
 					"width": 1024,
-					"height": 805,
-					"ratio": 1.2720496894409938
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/cb36a88e-46a9-4aaf-9daf-e2543ac44436_Pinkpantheress.jpg?auto=compress,format&rect=0,0,1004,1200&w=1024&h=1224",
-					"alt": "PinkPantheress",
+					"url": "https://images.prismic.io/x-track-mag/f99b9234-7ce7-4d53-9ee8-294db0135e28_Robin.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Robin",
 					"copyright": null,
 					"width": 1024,
-					"height": 1224,
-					"ratio": 0.8366013071895425
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/15a9cc95-05a8-43e5-9e6e-b04c0992f8aa_Burna+Boy.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/d85c1bf8-ce44-43fb-8a0d-7007d2def703_The+Marias.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "The Marias",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d255ae33-7033-4030-a31c-e345637861dc_Asake.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Asake",
+					"url": "https://images.prismic.io/x-track-mag/7608f4d8-0449-41a0-905a-314746f0d8c2_Courtesy.jpg?auto=compress,format&rect=0,0,1080,734&w=1024&h=696",
+					"alt": "Courtesy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 696,
+					"ratio": 1.471264367816092
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/86e74617-eb78-49a4-9006-777302d32a27_Speech+Debelle.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Speech Debelle",
+					"url": "https://images.prismic.io/x-track-mag/ce6c5778-5e63-4842-9b71-6eb5f5879bba_Tainy.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tainy",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5c645d91-133a-4d6a-88fe-bb116dce28ef_Rad+Cartier.++.jpg?auto=compress,format&rect=0,0,1617,1124&w=1024&h=712",
-					"alt": "Rad Cartier",
+					"url": "https://images.prismic.io/x-track-mag/6d879cdd-9ad6-4178-805e-6a7eed780ad5_Young+Miko.jpg?auto=compress,format&rect=0,0,1064,1332&w=1024&h=1282",
+					"alt": "Young Miko",
 					"copyright": null,
 					"width": 1024,
-					"height": 712,
-					"ratio": 1.4382022471910112
+					"height": 1282,
+					"ratio": 0.7987519500780031
 				}
 			]
 		},
