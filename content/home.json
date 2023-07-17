@@ -167,17 +167,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-07-08T09:48:27+0000",
+			"publication_date": "2023-07-17T09:18:21+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'Été",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/99692fae-0d05-41f8-9d31-eeb5a69611ec_Amaarae.jpg?auto=compress,format",
-				"alt": "Amaarae",
+				"url": "https://images.prismic.io/x-track-mag/ac9c203e-5e51-4f99-9966-da130e5a0015_Lala+%26ce.jpg?auto=compress,format",
+				"alt": "Lala &ce",
 				"copyright": null,
-				"width": 1440,
-				"height": 1440,
-				"ratio": 1
+				"width": 2000,
+				"height": 1333,
+				"ratio": 1.5003750937734435
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
