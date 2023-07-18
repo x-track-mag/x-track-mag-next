@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-19T14:08:07+0000",
+	"publication_date": "2023-07-18T11:23:21+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Busy Signal - Tay Iwar x Juls - Wizkid - Gorillaz x Bad Bunny - Stormzy x Tendai x Ayra Starr x Rema - Dj Tunez x Amexin - Juls x S.O.N. - Ghetto Boy  - The Cavemen - Tekno - Juls x Twich 4EVA x Quamina MP x Sauti Sol - Lila Iké - Yaya Bey - Maandy x Mejja -Jada Kingdom - Popcaan - Jobo x Bogo - Yung L - The Cavemen - Skip Marley -  Blundetto x Voilaaa - Fireboy DML - Asa - Juniper x Sango x Vhoor - Oshun - Simi - Teni - Mr Easi x Lady Donli - Samthing Soweto & +++",
+					"text": "The Cavemen - Busy Signal - Tay Iwar x Juls - Maandy x Drop Boy x Mejja- J Hus x Nayra Marley - Wizkid - Gorillaz x Bad Bunny - Odumodublvck x Fireboy DML - Stormzy x Tendai x Ayra Starr x Rema - Dj Tunez x Amexin - Juls x S.O.N. - Ghetto Boy  - Tekno - Juls x Twich 4EVA x Quamina MP x Sauti Sol - Lila Iké - Yaya Bey - Jada Kingdom - Popcaan - Jobo x Bogo - Yung L - Skip Marley -  Blundetto x Voilaaa - Asa - Juniper x Sango x Vhoor - Oshun - Simi - Teni - Mr Easi x Lady Donli - Samthing Soweto & +++",
 					"spans": []
 				}
 			]
@@ -71,12 +71,12 @@
 					"ratio": 0.6675358539765319
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2b85670e-479e-43a6-85a0-db647e8769c5_Juls.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Juls",
+					"url": "https://images.prismic.io/x-track-mag/a61d4573-2a30-4746-a13e-5295aaeb2d30_The+Cavemen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "The Cavemen",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/470f322f-e3e1-4bb3-9d1a-9ca409f94f63_Jada+Kingdom+.jpg?auto=compress,format&rect=0,0,717,611&w=1024&h=873",
