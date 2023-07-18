@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-04T13:31:55+0000",
+	"publication_date": "2023-07-18T09:00:34+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Stonebwoy x Oxlade x Tiwa Savage - Burna Boy - Adekunle Gold -  Stormzy x Rema - DJ tunez x Wizkid x Gimba - ChopLife SoundSystem x Mr Eazi x Ami Faku - Major Lazer x Major League DJz x Gaba Cannal x Russel Zuma -  Tiwa Savage x Ayra Starr x Young John - Kida Kudz - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Blaq Jerzee x Tekno - Fireboy DML - Sefflon Don x Spice - Jobo x Bogo & ++++ Enjoy",
+					"text": "Stonebwoy x Oxlade x Tiwa Savage - Burna Boy - Odumodublvck x Fireboy DML - Ei8ht x Offset - Stormzy x Rema - DJ tunez x Wizkid x Gimba - J Hus x Drake - Asake - ChopLife SoundSystem x Mr Eazi x Ami Faku - Boj - Tiwa Savage x Ayra Starr x Young John - Kida Kudz - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Jobo x Bogo & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -33,14 +33,6 @@
 		{
 			"template": "section-gallery",
 			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
-					"alt": "Ayra Starr",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
 					"alt": "Burna Boy",
@@ -50,12 +42,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8ece50b1-765d-4dd3-9720-8bb2bb265108_Ami-Faku..jpg?auto=compress,format&rect=0,0,1362,1140&w=1024&h=857",
-					"alt": "Ami Faku",
+					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 857,
-					"ratio": 1.1948658109684946
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/dc523324-1e03-440a-8e48-6132c45939a5_Rema+.jpg?auto=compress,format&rect=0,0,1548,1023&w=1024&h=677",
+					"alt": "Rema",
+					"copyright": null,
+					"width": 1024,
+					"height": 677,
+					"ratio": 1.5125553914327918
 				}
 			]
 		},
@@ -71,12 +71,12 @@
 					"ratio": 1.6
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8fcdeb48-0a1c-4f72-850d-0527da7a1c69_Stefflon-Don.jpg?auto=compress,format&rect=0,0,847,1024&w=1024&h=1238",
-					"alt": "Stefflon Don",
+					"url": "https://images.prismic.io/x-track-mag/8ece50b1-765d-4dd3-9720-8bb2bb265108_Ami-Faku..jpg?auto=compress,format&rect=0,0,1362,1140&w=1024&h=857",
+					"alt": "Ami Faku",
 					"copyright": null,
 					"width": 1024,
-					"height": 1238,
-					"ratio": 0.827140549273021
+					"height": 857,
+					"ratio": 1.1948658109684946
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
@@ -106,5 +106,5 @@
 			]
 		}
 	],
-	"description": "Stonebwoy x Oxlade x Tiwa Savage - Burna Boy - Adekunle Gold -  Stormzy x Rema - DJ tunez x Wizkid x Gimba - ChopLife SoundSystem x Mr Eazi x Ami Faku - Major Lazer x Major League DJz x Gaba Cannal x Russel Zuma -  Tiwa Savage x Ayra Starr x Young John - Kida Kudz - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Blaq Jerzee x Tekno - Fireboy DML - Sefflon Don x Spice - Jobo x Bogo & ++++ Enjoy"
+	"description": "Stonebwoy x Oxlade x Tiwa Savage - Burna Boy - Odumodublvck x Fireboy DML - Ei8ht x Offset - Stormzy x Rema - DJ tunez x Wizkid x Gimba - J Hus x Drake - Asake - ChopLife SoundSystem x Mr Eazi x Ami Faku - Boj - Tiwa Savage x Ayra Starr x Young John - Kida Kudz - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Jobo x Bogo & ++++ Enjoy"
 }
