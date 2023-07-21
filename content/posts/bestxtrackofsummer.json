@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-07-18T08:12:01+0000",
+	"publication_date": "2023-07-21T09:47:18+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
-	"text_color": "green",
+	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/ac9c203e-5e51-4f99-9966-da130e5a0015_Lala+%26ce.jpg?auto=compress,format",
-		"alt": "Lala &ce",
+		"url": "https://images.prismic.io/x-track-mag/15a9cc95-05a8-43e5-9e6e-b04c0992f8aa_Burna+Boy.jpg?auto=compress,format",
+		"alt": "Burna Boy",
 		"copyright": null,
-		"width": 2000,
-		"height": 1333,
-		"ratio": 1.5003750937734435
+		"width": 1080,
+		"height": 1080,
+		"ratio": 1
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Amore x Dinamarca - Vagabon - Lala &ce - Byron Messia - BurnaBoy x 21 Savage - Patoranking x Popcaan - Odumodublvck x Fireboy DML - PinkPantheress - Jorja Smith - Boj - Jungle x Channel Tres - Jitwam x Jaydonclover x  Yungmorpheus - j Hus x Drake - Aminé x Kaytranada -  kida Kudz & ++++ Enjoy",
+					"text": "J Hus x Burna Boy - Stormzy x Raye - Tentendo x Annaliza Fernandez - Rochelle Jordan x Keys N Krates -  Disclosure - Mr Eazi - Burna Boy x Byron Messia - Leisure x Night Tapes - The Cavemen - Jada Kingdom x Gold Up - Phantom Tunes x Black Sherif - Cigarettes After Sex - Feu! Chatterton - Partynextdoor & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,24 +34,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a9b1a04b-58b8-4e56-9fc0-f3045d7392f7_Amore-.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
-					"alt": "Amore",
+					"url": "https://images.prismic.io/x-track-mag/afc891bc-afda-40c7-bf2a-e241f3a24a8d_Rochelle+Jordan.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Rochelle Jordan",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/15a9cc95-05a8-43e5-9e6e-b04c0992f8aa_Burna+Boy.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/64fddc7d-ecd8-4d8d-97f6-fb3db67febf2_Raye+x+Stormzy.jpg?auto=compress,format&rect=0,0,1080,1104&w=1024&h=1047",
+					"alt": "Raye x Stormzy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1047,
+					"ratio": 0.9780324737344794
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ef9c4b2f-fa8a-436f-8421-68690c2ad92e_Vagabon.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Vagabon",
+					"url": "https://images.prismic.io/x-track-mag/d80817c0-a827-46ab-92f6-01a079c5e94b_Annalisa+Fernandez.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Annalisa Fernandez",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -63,24 +63,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f26c12ff-87f3-480a-849c-7ca9934f888f_Jitwam.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jitwam",
+					"url": "https://images.prismic.io/x-track-mag/69813586-4c5a-4b2f-892f-53b5f208b801_J+Hus+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "J Hus",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/48bc780d-d2b7-4251-9db5-7d1ed1acb4f2_Jorja+Smith+.jpg?auto=compress,format&rect=0,0,1500,2000&w=1024&h=1365",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/d441012e-d689-4416-ba12-545ca4aa7710_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b4515b89-d814-46ff-a22a-f47baec62fb2_Drake.jpeg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Drake",
+					"url": "https://images.prismic.io/x-track-mag/f8780e46-5465-4edf-8c6d-4d29ece9ed9e_Disclosure.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Disclosure",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
