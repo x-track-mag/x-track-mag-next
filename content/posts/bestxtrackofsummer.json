@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-07-21T11:28:15+0000",
+	"publication_date": "2023-07-21T13:37:08+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "orange",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "J Hus x Burna Boy - Stormzy x Raye - Tentendo x Annaliza Fernandez - Rochelle Jordan x Keys N Krates -  Disclosure - Mr Eazi - Burna Boy x Byron Messia - Leisure x Night Tapes - The Cavemen - Jada Kingdom x Gold Up - Cigarettes After Sex - Feu! Chatterton - Partynextdoor & ++++ Enjoy",
+					"text": "J Hus x Burna Boy - Stormzy x Raye - Tentendo x Annaliza Fernandez - Rochelle Jordan x Keys N Krates -  Disclosure - Mr Eazi - Burna Boy x Byron Messia - Ice Spice - Leisure x Night Tapes - The Cavemen - Jada Kingdom x Gold Up - Cigarettes After Sex - Feu! Chatterton - Partynextdoor & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -71,12 +71,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d441012e-d689-4416-ba12-545ca4aa7710_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Jada Kingdom",
+					"url": "https://images.prismic.io/x-track-mag/ac7450f7-cc61-435e-aad6-2ad76cf99a00_Ice+Spice.+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f8780e46-5465-4edf-8c6d-4d29ece9ed9e_Disclosure.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
