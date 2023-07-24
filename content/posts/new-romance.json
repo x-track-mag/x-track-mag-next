@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-23T10:49:08+0000",
+	"publication_date": "2023-07-24T12:21:59+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Vagabon - Metro Boomin x James Blake - Blick Bassy - Amore x Dinamarca - Neil Frances x PawPaw Rod - The Weeknd x Playboi Carti x Madonna - Raury - Ami Faku x Gallo Remixed x Black Coffee - Daft Punk x Pharrell x Williams - Arlo Parks - Leisure - 6Lack - Waterbaby - Speech Debelle - Chenayder  & +++ enjoy",
+					"text": "Robin - Vagabon - Metro Boomin x James Blake - Libianca - Blick Bassy - Amore x Dinamarca - Neil Frances x PawPaw Rod - Raury - Arlo Parks - 6Lack - Waterbaby - Speech Debelle - Juls x Tay Iwar x p-rallel x Fireboy DML - Stormzy x Tendai x Ayra Starr - Leisure x Sumac Dub - PawPaw Rod - MadeInParis - Jungle - Gabriels - Khruangbin - Hope Tala - Ezéchiel Pailhes - Patchworks x Pat Kala - Sudan Archives - Odhun - Chaton - Chiiild x Sungudzo - Greentea Peng - Babeheaven - Biig Piig - Lava La Rue - Little Simz - Enny - Varnish La Piscine - Thundercat x Tame Impala & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -34,12 +34,41 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3ad506b9-7f7d-449a-abdb-06b0d49d4e14_Ami+Faku.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Ami Faku",
+					"url": "https://images.prismic.io/x-track-mag/a9b1a04b-58b8-4e56-9fc0-f3045d7392f7_Amore-.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
+					"alt": "Amore",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f99b9234-7ce7-4d53-9ee8-294db0135e28_Robin.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Robin",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8db94bcd-639e-4b5c-805b-222e286b613c_Libianca+.jpeg?auto=compress,format&rect=0,0,2152,1925&w=1024&h=916",
+					"alt": "Libianca",
+					"copyright": null,
+					"width": 1024,
+					"height": 916,
+					"ratio": 1.1179039301310043
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/f30eda31-be61-4d00-9ff5-f857706f85ce_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Arlo Parks",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/c1b66fc7-68b7-41a0-b762-904e02a89d36_James+Blake.jpg?auto=compress,format&rect=0,0,1080,1344&w=1024&h=1274",
@@ -48,35 +77,6 @@
 					"width": 1024,
 					"height": 1274,
 					"ratio": 0.8037676609105181
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f30eda31-be61-4d00-9ff5-f857706f85ce_Arlo+Parks.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Arlo Parks",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/7690fa75-b8f8-4c84-84d3-ec15e41495f5_Amore.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amore",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/8bc8145c-1d24-4a80-a9e8-d152e859e08b_Pawpaw+Rod.jpg?auto=compress,format&rect=0,0,3000,3000&w=1024&h=1024",
-					"alt": "PawPaw Rod",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f1c94d50-9689-4a0b-8992-9712fa684746_Waterbaby.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
