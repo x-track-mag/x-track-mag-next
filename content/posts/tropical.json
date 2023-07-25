@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-07-18T11:23:21+0000",
+	"publication_date": "2023-07-25T09:56:26+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "The Cavemen - Busy Signal - Tay Iwar x Juls - Maandy x Drop Boy x Mejja- J Hus x Nayra Marley - Wizkid - Gorillaz x Bad Bunny - Odumodublvck x Fireboy DML - Stormzy x Tendai x Ayra Starr x Rema - Dj Tunez x Amexin - Juls x S.O.N. - Ghetto Boy  - Tekno - Juls x Twich 4EVA x Quamina MP x Sauti Sol - Lila Iké - Yaya Bey - Jada Kingdom - Popcaan - Jobo x Bogo - Yung L - Skip Marley -  Blundetto x Voilaaa - Asa - Juniper x Sango x Vhoor - Oshun - Simi - Teni - Mr Easi x Lady Donli - Samthing Soweto & +++",
+					"text": "The Cavemen - Busy Signal - Maandy x Mejja - Boutross x Juicee Man - Patorankin x Popcaan -  J Hus x Nayra Marley - Odumodublvck x Fireboy DML - DJ Tunez x Amexin - - Stormzy x Tendai x Ayra Starr x Rema - Juls x S.O.N. - Ghetto Boy - Tekno - Juls x Twich 4EVA x Quamina MP x Sauti Sol x Tai Iwar - Yaya Bey - Lila Iké - Jada Kingdom - Yung L - Jobo x Bogo - Skip Marley -  Blundetto x Voilaaa - Juniper x Sango x Vhoor - Oshun - Wizkid - Asa - Teni - Samthing Soweto & +++",
 					"spans": []
 				}
 			]
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/84c5c1ad-af19-4506-bcfd-6624c640b8f5_Busy+Signal.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Busy Signal",
+					"url": "https://images.prismic.io/x-track-mag/a61d4573-2a30-4746-a13e-5295aaeb2d30_The+Cavemen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "The Cavemen",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
@@ -50,12 +50,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/91b2f609-32eb-4cb3-a688-a5b82d939ad6_Wizkid.jpg?auto=compress,format&rect=0,0,1623,1957&w=1024&h=1235",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/84c5c1ad-af19-4506-bcfd-6624c640b8f5_Busy+Signal.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Busy Signal",
 					"copyright": null,
 					"width": 1024,
-					"height": 1235,
-					"ratio": 0.8291497975708502
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -71,12 +71,12 @@
 					"ratio": 0.6675358539765319
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a61d4573-2a30-4746-a13e-5295aaeb2d30_The+Cavemen.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "The Cavemen",
+					"url": "https://images.prismic.io/x-track-mag/9f548e5d-749a-4874-804c-23eed5287dbe_Wizkid.jpg?auto=compress,format&rect=0,0,1242,1523&w=1024&h=1256",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1256,
+					"ratio": 0.8152866242038217
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/470f322f-e3e1-4bb3-9d1a-9ca409f94f63_Jada+Kingdom+.jpg?auto=compress,format&rect=0,0,717,611&w=1024&h=873",
