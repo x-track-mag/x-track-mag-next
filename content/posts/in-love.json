@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-25T09:22:09+0000",
+	"publication_date": "2023-07-25T11:24:26+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs",
 	"text_color": "inverted",
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Angelo de Augustine - NxWorries x Anderson Paak x Knxledge - Yuna - Thomas Caruso Aragona - Billie Eilish  - Galimatias - Jenevieve - Amaria - Khruangbin - Common Saints - Rosalia - Gabi Hartmann - Rhye - Cigarettes After Sex - Oklou - Chiiild - Arlo Parks - Yehra - Mustafa - Gabriels - rum.gold - Sault - Diziz x Yseult - Mounika x Ocie Eliot - James Blake - The O'My's - Youth Lagoon - Men I Trust - Celeste x Jeshi - Kyle Dion & +++ ",
+					"text": "Feu Chatterton - Partynextdoor - Angelo de Augustine - Yuna - Thomas Caruso Aragona - Billie Eilish  - Galimatias - Cigarettes After Sex - Rum.Gold - Waterbaby - Waxx x Pomme - Jenevieve - Amaria - Khruangbin - Common Saints - Rosalia - Gabi Hartmann - Rhye - Oklou - Chiiild - Arlo Parks - Yehra - Mustafa - Gabriels - Sault - Diziz x Yseult - Mounika x Ocie Eliot - James Blake - The O'My's - NxWorries x Anderson Paak x Knxwledge - Men I Trust - Celeste x Jeshi - Kyle Dion & +++ ",
 					"spans": []
 				}
 			]
@@ -52,12 +52,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1ae0af90-56c5-4863-9e8a-b0af154982d1_Thomas+Caruso+Aragona.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Thomas Caruso Aragona",
+					"url": "https://images.prismic.io/x-track-mag/a107dda6-c166-4c8a-847c-996a278a89a4_Feu%21%21+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 819,
+					"ratio": 1.2503052503052503
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/c581a0e9-dab4-4186-aaa1-c6b2e9fab517_Rosalia.--.jpg?auto=compress,format&rect=0,0,1317,1318&w=1024&h=1025",
