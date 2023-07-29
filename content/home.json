@@ -167,17 +167,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-07-23T21:53:20+0000",
+			"publication_date": "2023-07-29T09:59:21+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'Été",
 			"text_color": "orange",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/15a9cc95-05a8-43e5-9e6e-b04c0992f8aa_Burna+Boy.jpg?auto=compress,format",
-				"alt": "Burna Boy",
+				"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format",
+				"alt": "Amaria BB",
 				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
+				"width": 1500,
+				"height": 844,
+				"ratio": 1.7772511848341233
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
