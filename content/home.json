@@ -137,12 +137,12 @@
 			"uid": "feel-good",
 			"title": "Feel Good",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/24d27273-e4b7-448f-9178-5ab1c0333bda_Metro+Boomin+.jpg?auto=compress,format",
-				"alt": "Metro Boomin",
+				"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
+				"alt": "Burna Boy",
 				"copyright": null,
-				"width": 4096,
-				"height": 4096,
-				"ratio": 1
+				"width": 1080,
+				"height": 1350,
+				"ratio": 0.8
 			},
 			"video_loop": null
 		},
@@ -234,17 +234,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-07-18T13:04:58+0000",
+			"publication_date": "2023-07-31T09:37:24+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/24d27273-e4b7-448f-9178-5ab1c0333bda_Metro+Boomin+.jpg?auto=compress,format",
-				"alt": "Metro Boomin",
+				"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
+				"alt": "Burna Boy",
 				"copyright": null,
-				"width": 4096,
-				"height": 4096,
-				"ratio": 1
+				"width": 1080,
+				"height": 1350,
+				"ratio": 0.8
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

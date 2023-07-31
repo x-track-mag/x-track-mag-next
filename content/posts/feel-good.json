@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-07-18T13:04:58+0000",
+	"publication_date": "2023-07-31T09:37:24+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/24d27273-e4b7-448f-9178-5ab1c0333bda_Metro+Boomin+.jpg?auto=compress,format",
-		"alt": "Metro Boomin",
+		"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
+		"alt": "Burna Boy",
 		"copyright": null,
-		"width": 4096,
-		"height": 4096,
-		"ratio": 1
+		"width": 1080,
+		"height": 1350,
+		"ratio": 0.8
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Byron Messia - Burna Boy x 21 Savage - Metro Boomin x Dontoliver x Wizkid x Beam x Toian - Patoranking x Popcaan - Enny - EI8HT x Offset - Jitwam x Jaydonclover x Yungmorpheus - Jungle x Channel Tres - Aminé x Kaytranada x Pharrell Williams x Amaarae - J Hus x Drake - Kida Kudz - Fricky - Beyoncé x Kendrick Lamar - Central Cee - Tion Wayne - Jorja Smith - Biig Piig - Odeal x Brazy - Raghd - Juls x Ami Faku - FKA Twigs x Pa Salieu - Sudan Archives x Odesza -  Yaya Bey x DJ Nativesun - Vacra - Ghetto Boy - Tekno  & +++ Enjoy & +++ Enjoy",
+					"text": "J Hus x Burna Boy x Naira Marley - Byron Messia - Stormzy x Raye - Aka x Kddo - Amaria BB - Burna Boy x 21 Savage - Metro Boomin x Dontoliver x Wizkid x Beam x Toian - Patoranking x Popcaan - Boutros x Juicee Mann - Feiertag x oshun x Niambi Sala - Enny - EI8HT x Offset - Jitwam x Jaydonclover x Yungmorpheus - Aminé x Kaytranada x Pharrell Williams x Amaarae - J Hus x Drake - Kida Kudz - Ice Spice - Beyoncé x Kendrick Lamar - Central Cee - Tion Wayne - Stormzy x Fredo - Biig Piig - Jorja Smith - Odeal x Brazy - FKA Twigs x Pa Salieu - Yaya Bey x DJ Nativesun - Ghetto Boy - Juls x Baby S.O.N. - Odumodublvck x Fireboy DML - Stefflon Don x Spice  & +++ Enjoy & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f167e8f8-5bfb-48cf-85b6-8deaea4c042f_Don+Toliver.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Don Toliver",
+					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
+					"alt": "Amaria BB",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/afc9ab5c-097b-413f-886a-8b64c7f8a25b_Toian.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Toian",
+					"url": "https://images.prismic.io/x-track-mag/64fddc7d-ecd8-4d8d-97f6-fb3db67febf2_Raye+x+Stormzy.jpg?auto=compress,format&rect=0,0,1080,1104&w=1024&h=1047",
+					"alt": "Raye x Stormzy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1047,
+					"ratio": 0.9780324737344794
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9e38206a-ded8-401a-9d31-72613106d19f_Wizkid.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/30008908-2f2f-47bc-9e51-7c498610a8d2_Ice+Spice.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
+					"alt": "Ice Spice",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -63,24 +63,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/12235d5b-ef6d-46cf-9233-aa8fe7478ec3_Offset.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Offset",
+					"url": "https://images.prismic.io/x-track-mag/c0054def-21e1-48d0-b206-669a46821cf6_Central+Cee+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Central Cee",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/adaaaa8a-5a57-49fd-933e-4eb43ae92409_Ei8ht.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Ei8ht",
+					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 740,
+					"ratio": 1.3837837837837839
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c14e85b7-9179-44f9-b777-128bcb7e495f_Beam.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Beam",
+					"url": "https://images.prismic.io/x-track-mag/f26c12ff-87f3-480a-849c-7ca9934f888f_Jitwam.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Jitwam",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
