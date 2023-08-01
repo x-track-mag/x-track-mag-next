@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-24T14:20:18+0000",
+	"publication_date": "2023-08-01T14:55:38+0000",
 	"title": "Nice Day",
 	"subtitle": "Old & New Best ”XTrack“ Compiled",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/a9b1a04b-58b8-4e56-9fc0-f3045d7392f7_Amore-.jpg?auto=compress,format",
-		"alt": "Amore",
+		"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+		"alt": "Sudan Archives",
 		"copyright": null,
-		"width": 1500,
-		"height": 1500,
+		"width": 3000,
+		"height": 3000,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -25,37 +25,8 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Amore x Dinamarca - Vagabon - Hare Squad - Speech Debelle - Metro Boomin x James Blake x Don Toliver x Wizkid x Beam x Toian - Bakar - Yaya Bey - Neil Francis x PawPaw Rod - Raury - DJ Tunez x Amexin - Gorilaz x Bad Bunny - Wizkid x Major Lazer - Ami Faku x Gallo Remixed x Black Coffee - Victony x Rema x Tempoe x Don Toliver - PawPaw Rod - Aminé x Kaytranada x Pharrell Williams - FKJ - Juls x Baby Son - Ghetto Boy - The Cavemen - Crayon x Bella Smurda - Major Lazer x Major League Djz x Bianca Costa x Tiwa Savage x DJ Maphorisa x Julio Masidi - Kida Kudz - Blaq Jerzee x Tekno - Biig Piig - PinkPantheress x Ice Spice - Swae Lee x Drake",
+					"text": "Hare Squead - Speech Debelle - Bakar - Yaya Bey - Neil Francis x PawPaw Rod - Raury - DJ Tunez x Amexin - Wizkid x Major Lazer - Ami Faku x Gallo Remixed x Black Coffee - Victony x Rema x Tempoe x Don Toliver - PawPaw Rod - Aminé x Kaytranada x Pharrell Williams - FKJ - Juls x Baby Son x Twich 4EVA x Quamina Mp - Vagabon - Ghetto Boy - The Cavemen -  Swae Lee x Drake - Temptations x FKJ - Blundetto x Voilaaa - Skip Marley x Popcann - Parcels x Breakbot - Jitwam x Jaydonclover x Yungmorpheus - Calvin Harris x Young thug x Pharrell Williams x Ariana Grande - Sudan Archives - Amber Mark - Tekno ",
 					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/707a9001-b035-4ee4-b5d2-7e5f525277c8_metro+Boomin-.jpg?auto=compress,format&rect=0,0,4486,4486&w=1024&h=1024",
-					"alt": "Metro Boomin",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/55050276-76cf-4f2d-95cc-997284e3eb29_Vagabon.jpg?auto=compress,format&rect=0,0,1238,1354&w=1024&h=1120",
-					"alt": "Vagabon",
-					"copyright": null,
-					"width": 1024,
-					"height": 1120,
-					"ratio": 0.9142857142857143
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/cf34155e-7602-46cf-93cb-e66aff6dff7f_James+Blake.jpg?auto=compress,format&rect=0,0,798,1200&w=1024&h=1540",
-					"alt": "James Blake",
-					"copyright": null,
-					"width": 1024,
-					"height": 1540,
-					"ratio": 0.6649350649350649
 				}
 			]
 		},
@@ -71,12 +42,41 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/35fbd2c6-b2d2-43b0-a335-dbe4d0f11b12_Ami-Faku+.jpg?auto=compress,format&rect=0,0,1365,1364&w=1024&h=1023",
-					"alt": "Ami Faku",
+					"url": "https://images.prismic.io/x-track-mag/55050276-76cf-4f2d-95cc-997284e3eb29_Vagabon.jpg?auto=compress,format&rect=0,0,1238,1354&w=1024&h=1120",
+					"alt": "Vagabon",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1120,
+					"ratio": 0.9142857142857143
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/b43c2963-ac58-441b-a095-fc7e56d2a11a_PawPaw+Rod.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
+					"alt": "PawPaw Rod",
+					"copyright": null,
+					"width": 1024,
+					"height": 682,
+					"ratio": 1.501466275659824
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/effdc617-df31-4983-a603-72553f2da3e2_FKJ.jpg?auto=compress,format&rect=0,0,1100,684&w=1024&h=637",
+					"alt": "FKJ",
+					"copyright": null,
+					"width": 1024,
+					"height": 637,
+					"ratio": 1.6075353218210362
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/db4f8544-3290-40df-ba25-c597074f96ef_Amber+Mark+.jpg?auto=compress,format&rect=0,0,1080,1269&w=1024&h=1203",
+					"alt": "Amber Mark",
+					"copyright": null,
+					"width": 1024,
+					"height": 1203,
+					"ratio": 0.8512053200332502
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
@@ -106,5 +106,5 @@
 			]
 		}
 	],
-	"description": "Amore x Dinamarca - Vagabon - Hare Squad - Speech Debelle - Metro Boomin x James Blake x Don Toliver x Wizkid x Beam x Toian - Bakar - Yaya Bey - Neil Francis x PawPaw Rod - Raury - DJ Tunez x Amexin - Gorilaz x Bad Bunny - Wizkid x Major Lazer - Ami Faku x Gallo Remixed x Black Coffee - Victony x Rema x Tempoe x Don Toliver - PawPaw Rod - Aminé x Kaytranada x Pharrell Williams - FKJ - Juls x Baby Son - Ghetto Boy - The Cavemen - Crayon x Bella Smurda - Major Lazer x Major League Djz x Bianca Costa x Tiwa Savage x DJ Maphorisa x Julio Masidi - Kida Kudz - Blaq Jerzee x Tekno - Biig Piig - PinkPantheress x Ice Spice - Swae Lee x Drake"
+	"description": "Hare Squead - Speech Debelle - Bakar - Yaya Bey - Neil Francis x PawPaw Rod - Raury - DJ Tunez x Amexin - Wizkid x Major Lazer - Ami Faku x Gallo Remixed x Black Coffee - Victony x Rema x Tempoe x Don Toliver - PawPaw Rod - Aminé x Kaytranada x Pharrell Williams - FKJ - Juls x Baby Son x Twich 4EVA x Quamina Mp - Vagabon - Ghetto Boy - The Cavemen -  Swae Lee x Drake - Temptations x FKJ - Blundetto x Voilaaa - Skip Marley x Popcann - Parcels x Breakbot - Jitwam x Jaydonclover x Yungmorpheus - Calvin Harris x Young thug x Pharrell Williams x Ariana Grande - Sudan Archives - Amber Mark - Tekno "
 }
