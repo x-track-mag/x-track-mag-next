@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-07-29T09:59:21+0000",
+	"publication_date": "2023-08-04T20:14:27+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "orange",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format",
-		"alt": "Amaria BB",
+		"url": "https://images.prismic.io/x-track-mag/48bc780d-d2b7-4251-9db5-7d1ed1acb4f2_Jorja+Smith+.jpg?auto=compress,format",
+		"alt": "Jorja Smith",
 		"copyright": null,
 		"width": 1500,
-		"height": 844,
-		"ratio": 1.7772511848341233
+		"height": 2000,
+		"ratio": 0.75
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Skeete - Bas x J. cole -  Adekunle Gold x Pharrell Williams x Nile Rodgers - Travis Scott x Bad Bunny x The Weeknd - Jungl - Feiertag x Oshun x Niambi Sala - Ice Spice - Boutros x Juicee Man - Amaria BB - Ruger - J Hus x Naira Marley - Aka x Kddo - Burna Boy x Byron Messia - Chika x Freddie Gibbs - Ragz Originale x Bakar - Ceee & ++++ Enjoy",
+					"text": "J Hus x Jorja Smith x Naira Marley - Nasty C - Burna Boy - Amaria BB - Skeete - Yaadman fka Yung L - Billie Eilish - Jungle - Ice Spice - Boutros x Juicee Man - Bas x J. cole - Aka x Kddo - Stormzy x Raye - Byron Messia -  & ++++ Enjoy ",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/30008908-2f2f-47bc-9e51-7c498610a8d2_Ice+Spice.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Ice Spice",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/9a78d611-86f9-439c-a10f-7650d457424c_Travis+Scott.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Travis Scott",
+					"url": "https://images.prismic.io/x-track-mag/403e6331-4489-43a5-8022-6c267c6601e0_Nasty+C.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "Nasty C",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5c4028df-6f94-41dc-b20b-a0472a3b1d31_Ceee++.jpg?auto=compress,format&rect=0,0,1614,1344&w=1024&h=853",
-					"alt": "Ceee",
+					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
+					"alt": "Amaria BB",
 					"copyright": null,
 					"width": 1024,
-					"height": 853,
-					"ratio": 1.2004689331770222
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/69813586-4c5a-4b2f-892f-53b5f208b801_J+Hus+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "J Hus",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
+					"url": "https://images.prismic.io/x-track-mag/2fd94e20-895f-43a0-aa4e-b66cda5f3ae6_Burna+Boy.jpg?auto=compress,format&rect=0,0,1092,1092&w=1024&h=1024",
+					"alt": "Burna Boy",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/bd54c25f-2740-491b-a346-99c4f13ed116_Billie+Eilish.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Billie Eilish",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
 					"url": "https://images.prismic.io/x-track-mag/5e04acde-fbd8-41cf-bcfe-b6420a118c6a_Skeete+.jpg?auto=compress,format&rect=0,0,1501,1161&w=1024&h=792",
 					"alt": "Skeete",
 					"copyright": null,
 					"width": 1024,
 					"height": 792,
 					"ratio": 1.292929292929293
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f9f25633-9f90-49f0-b8a4-32ebdab99604_Oshun+.jpg?auto=compress,format&rect=0,0,1454,966&w=1024&h=680",
-					"alt": "Oshun",
-					"copyright": null,
-					"width": 1024,
-					"height": 680,
-					"ratio": 1.5058823529411764
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/14012c2c-caee-406c-9e68-30d6004bbd97_Bad+Bunny.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Bad Bunny",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
 				}
 			]
 		},
