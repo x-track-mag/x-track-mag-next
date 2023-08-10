@@ -721,6 +721,27 @@
 			"description": "Old & New Mixed"
 		},
 		{
+			"uid": "chill-hip-hop-from-90s",
+			"tags": [],
+			"publication_date": "2023-08-10T09:21:35+0000",
+			"title": "Old School Hip Hop",
+			"subtitle": "Chill Hip Hop from 90's",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/74d61f3c-b782-4053-9dd8-ecb8abb112b1_Notorious-B.I.G.jpg?auto=compress,format",
+				"alt": "Notorious B.I.G",
+				"copyright": null,
+				"width": 2430,
+				"height": 2880,
+				"ratio": 0.84375
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Chill Hip Hop from 90's"
+		},
+		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"

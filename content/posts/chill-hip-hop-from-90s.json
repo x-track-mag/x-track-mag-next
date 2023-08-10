@@ -1,0 +1,118 @@
+{
+	"uid": "chill-hip-hop-from-90s",
+	"tags": [],
+	"publication_date": "2023-08-10T09:21:35+0000",
+	"title": "Old School Hip Hop",
+	"subtitle": "Chill Hip Hop from 90's",
+	"text_color": "inverted",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/74d61f3c-b782-4053-9dd8-ecb8abb112b1_Notorious-B.I.G.jpg?auto=compress,format",
+		"alt": "Notorious B.I.G",
+		"copyright": null,
+		"width": 2430,
+		"height": 2880,
+		"ratio": 0.84375
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Mos Def - Slum Village x Dwele - The Parcyde - Pete Rock x Inl - Blackstreet x Dr Dre x Queen Pen - The Notorious Big x Diddy x Nelly x Jagged Edge x Avery Storm - Warren G Nate Dogg - Gang Star - Digables Planets - Bahamadia - Nas - Method Man x Mary J. Blige - The Game x 50 Cent - Cypress Hill - De La Soul - Snoop Dog Pharrell Williams x Charlie Wilson x Justin Timberlake- Kendrick Lamar - De La Soul x Q-Tips x Vinia Mojica - Foxy Brown x Spragga Benz - A Tribe Call Quest - Ms. Lauryn Hill - 2Pac - Outkast & +++ Enjoy",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/9e54a93d-e9e1-441f-8a17-925167bffeb7_Mos+Def.jpg?auto=compress,format&rect=0,0,820,430&w=1024&h=537",
+					"alt": "Mos Def",
+					"copyright": null,
+					"width": 1024,
+					"height": 537,
+					"ratio": 1.9068901303538175
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/672c22ee-c789-43cf-bee0-d599664ace95_Lauryn+Hill.jpg?auto=compress,format&rect=0,0,1499,1000&w=1024&h=683",
+					"alt": "Lauryn Hill",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d770030b-3e27-4195-a6e7-42d3416edb93_Gang+Star.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Gang Star",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/67c87d89-1d9f-4308-83ed-b56250ea1605_Dr+Dre.jpg?auto=compress,format&rect=0,0,1000,1005&w=1024&h=1029",
+					"alt": "Dr Dre",
+					"copyright": null,
+					"width": 1024,
+					"height": 1029,
+					"ratio": 0.9951409135082604
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/efcd4cd6-476f-478d-afd8-c97f33c566db_Foxy+Brown.jpg?auto=compress,format&rect=0,0,743,570&w=1024&h=786",
+					"alt": "Foxy Brown",
+					"copyright": null,
+					"width": 1024,
+					"height": 786,
+					"ratio": 1.3027989821882953
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/89076659-ff51-491f-a058-da9daad46bfb_Snoop+Dog.jpg?auto=compress,format&rect=0,0,1260,708&w=1024&h=575",
+					"alt": "Snoop Dog",
+					"copyright": null,
+					"width": 1024,
+					"height": 575,
+					"ratio": 1.7808695652173914
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/2M3ZgC2JMXYx4JVqf5rjgt?si=1366588660e44e1a",
+					"title": "Old School Hip Hop"
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.deezer.com/en/playlist/11619959604",
+					"title": "Old School Hip Hop"
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMAkv8VcW8ZKoxlQmeM1aDd7",
+					"title": "Old School Hip Hop"
+				}
+			]
+		}
+	],
+	"description": "Chill Hip Hop from 90's"
+}
