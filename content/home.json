@@ -787,17 +787,17 @@
 		{
 			"uid": "chill-hip-hop-from-90s",
 			"tags": [],
-			"publication_date": "2023-08-10T09:33:43+0000",
+			"publication_date": "2023-08-10T09:42:20+0000",
 			"title": "Old School Hip Hop",
 			"subtitle": "Chill Hip Hop from 90's",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/74d61f3c-b782-4053-9dd8-ecb8abb112b1_Notorious-B.I.G.jpg?auto=compress,format",
-				"alt": "Notorious B.I.G",
+				"url": "https://images.prismic.io/x-track-mag/9d7891d9-8d8c-4c4f-b28a-94817fa431c0_Notorious+Big.jpg?auto=compress,format",
+				"alt": "Notorious Big",
 				"copyright": null,
-				"width": 2430,
-				"height": 2880,
-				"ratio": 0.84375
+				"width": 1137,
+				"height": 1305,
+				"ratio": 0.871264367816092
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
