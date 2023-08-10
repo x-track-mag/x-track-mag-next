@@ -654,9 +654,9 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-08-10T09:28:55+0000",
+			"publication_date": "2023-08-10T09:30:54+0000",
 			"title": "Supersoul",
-			"subtitle": "Old School Hip Hop & Soul Music From 00's",
+			"subtitle": "Hip Hop & Soul Music From 00's",
 			"text_color": "green",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/f4b5ccb4-2a45-4158-8c4a-f3e20d7c0240_Outkast.jpg?auto=compress,format",
@@ -670,7 +670,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Old School Hip Hop & Soul Music"
+			"description": "Hip Hop & Soul Music"
 		},
 		{
 			"uid": "boys-noize-resonne-toujours-plus-fort",
