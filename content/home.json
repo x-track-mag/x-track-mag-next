@@ -187,17 +187,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-08-04T20:22:16+0000",
+			"publication_date": "2023-08-11T16:49:36+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'Été",
 			"text_color": "inverted",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/48bc780d-d2b7-4251-9db5-7d1ed1acb4f2_Jorja+Smith+.jpg?auto=compress,format",
-				"alt": "Jorja Smith",
+				"url": "https://images.prismic.io/x-track-mag/83584c89-2ee7-4834-85f6-08cbf4740cb7_JNR+Williams+.jpg?auto=compress,format",
+				"alt": "JNR Williams",
 				"copyright": null,
-				"width": 1500,
-				"height": 2000,
-				"ratio": 0.75
+				"width": 1497,
+				"height": 1317,
+				"ratio": 1.1366742596810935
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

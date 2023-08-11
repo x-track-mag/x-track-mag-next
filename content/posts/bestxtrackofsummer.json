@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-08-04T20:22:16+0000",
+	"publication_date": "2023-08-11T16:49:36+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/48bc780d-d2b7-4251-9db5-7d1ed1acb4f2_Jorja+Smith+.jpg?auto=compress,format",
-		"alt": "Jorja Smith",
+		"url": "https://images.prismic.io/x-track-mag/83584c89-2ee7-4834-85f6-08cbf4740cb7_JNR+Williams+.jpg?auto=compress,format",
+		"alt": "JNR Williams",
 		"copyright": null,
-		"width": 1500,
-		"height": 2000,
-		"ratio": 0.75
+		"width": 1497,
+		"height": 1317,
+		"ratio": 1.1366742596810935
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "J Hus x Jorja Smith x Naira Marley - Nasty C - Burna Boy - Amaria BB - Skeete - Yaadman fka Yung L - Billie Eilish - Jungle - Ice Spice - Boutross x Juicee Man - Bas x J. cole - Aka x Kddo - Stormzy x Raye - Byron Messia -  & ++++ Enjoy ",
+					"text": "Jungle x JNR Williams - Ghetto Boy x Sico Vox x Deserno - Mahalia - Olamide x Rema - Leisure - Azekel x Nao -  Lifesize Teddy - Black Sherif - Stefflon Don x Bnxn - Feu! Chatterton & ++++ Enjoy ",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/403e6331-4489-43a5-8022-6c267c6601e0_Nasty+C.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
-					"alt": "Nasty C",
+					"url": "https://images.prismic.io/x-track-mag/0420069d-92f6-4eaa-b3b0-bcfaa5208e3e_Lifesize+Teddy.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Lifesize Teddy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
-					"alt": "Amaria BB",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/69813586-4c5a-4b2f-892f-53b5f208b801_J+Hus+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "J Hus",
+					"url": "https://images.prismic.io/x-track-mag/17751d8e-6f85-4ef1-a7f1-4da639759817_Jungle+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jungle",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/7f01ba26-f906-4db1-8ebd-218e98f77cd4_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Stefflon Don",
+					"copyright": null,
+					"width": 1024,
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2fd94e20-895f-43a0-aa4e-b66cda5f3ae6_Burna+Boy.jpg?auto=compress,format&rect=0,0,1092,1092&w=1024&h=1024",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/470e7b5c-553c-4e2a-822b-19b570e16cdb_Black+Sherif.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Black Sherif",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bd54c25f-2740-491b-a346-99c4f13ed116_Billie+Eilish.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Billie Eilish",
+					"url": "https://images.prismic.io/x-track-mag/4cba4bc4-3ab8-409b-a0c6-72822f42cdc0_Mahalia.jpg?auto=compress,format&rect=0,0,1599,790&w=1024&h=506",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 506,
+					"ratio": 2.0237154150197627
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5e04acde-fbd8-41cf-bcfe-b6420a118c6a_Skeete+.jpg?auto=compress,format&rect=0,0,1501,1161&w=1024&h=792",
-					"alt": "Skeete",
+					"url": "https://images.prismic.io/x-track-mag/d0bfc4a2-f93f-4188-87b2-dd1d967b58a9_Azekel.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Azekel",
 					"copyright": null,
 					"width": 1024,
-					"height": 792,
-					"ratio": 1.292929292929293
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
