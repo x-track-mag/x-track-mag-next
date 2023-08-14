@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-08-11T16:58:35+0000",
+	"publication_date": "2023-08-14T10:47:40+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jungle x JNR Williams - Ghetto Boy x Sico Vox x Deserno - Mahalia - Olamide x Rema - Leisure - Azekel x Nao -  Lifesize Teddy - Black Sherif - Stefflon Don x Bnxn - Feu! Chatterton & ++++ Enjoy ",
+					"text": "Nasty C - Mahalia - Byron Messia - Amaria BB - Jungle x JNR Williams - Burna Boy x 21 Savage - Boutros x Juicee Man - Patoranking x Popcaan - Olamide x Rema - Tentendo x Annalisa Fernandez - Ghetto Boy x Sico Vox x Deserno - Bas x J Cole - PinkPantheress - Jorja Smith - Boj & ++++ Enjoy ",
 					"spans": []
 				}
 			]
@@ -34,41 +34,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/0420069d-92f6-4eaa-b3b0-bcfaa5208e3e_Lifesize+Teddy.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Lifesize Teddy",
+					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
+					"alt": "Amaria BB",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/17751d8e-6f85-4ef1-a7f1-4da639759817_Jungle+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jungle",
+					"url": "https://images.prismic.io/x-track-mag/403e6331-4489-43a5-8022-6c267c6601e0_Nasty+C.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "Nasty C",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/7f01ba26-f906-4db1-8ebd-218e98f77cd4_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Stefflon Don",
-					"copyright": null,
-					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/470e7b5c-553c-4e2a-822b-19b570e16cdb_Black+Sherif.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Black Sherif",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/4cba4bc4-3ab8-409b-a0c6-72822f42cdc0_Mahalia.jpg?auto=compress,format&rect=0,0,1599,790&w=1024&h=506",
@@ -77,14 +56,35 @@
 					"width": 1024,
 					"height": 506,
 					"ratio": 2.0237154150197627
-				},
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d0bfc4a2-f93f-4188-87b2-dd1d967b58a9_Azekel.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Azekel",
+					"url": "https://images.prismic.io/x-track-mag/15a9cc95-05a8-43e5-9e6e-b04c0992f8aa_Burna+Boy.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ce93c238-f583-410f-8354-bca1aed6c6b8_jorja-smith_e4a85_1000%402x.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Jorja Smith",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/dc523324-1e03-440a-8e48-6132c45939a5_Rema+.jpg?auto=compress,format&rect=0,0,1548,1023&w=1024&h=677",
+					"alt": "Rema",
+					"copyright": null,
+					"width": 1024,
+					"height": 677,
+					"ratio": 1.5125553914327918
 				}
 			]
 		},
