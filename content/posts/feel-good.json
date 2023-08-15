@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-08-15T15:45:55+0000",
+	"publication_date": "2023-08-15T15:48:59+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
@@ -42,12 +42,12 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8d1592b6-f1f0-4229-914d-920046eba66f_J+Hus.jpg?auto=compress,format&rect=0,0,1439,960&w=1024&h=683",
-					"alt": "J Hus",
+					"url": "https://images.prismic.io/x-track-mag/64fddc7d-ecd8-4d8d-97f6-fb3db67febf2_Raye+x+Stormzy.jpg?auto=compress,format&rect=0,0,1080,1104&w=1024&h=1047",
+					"alt": "Raye x Stormzy",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1047,
+					"ratio": 0.9780324737344794
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/30008908-2f2f-47bc-9e51-7c498610a8d2_Ice+Spice.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
@@ -63,12 +63,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c0054def-21e1-48d0-b206-669a46821cf6_Central+Cee+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Central Cee",
+					"url": "https://images.prismic.io/x-track-mag/403e6331-4489-43a5-8022-6c267c6601e0_Nasty+C.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "Nasty C",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
@@ -79,12 +79,12 @@
 					"ratio": 1.3837837837837839
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f26c12ff-87f3-480a-849c-7ca9934f888f_Jitwam.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jitwam",
+					"url": "https://images.prismic.io/x-track-mag/8d1592b6-f1f0-4229-914d-920046eba66f_J+Hus.jpg?auto=compress,format&rect=0,0,1439,960&w=1024&h=683",
+					"alt": "J Hus",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
