@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-07-24T12:21:59+0000",
+	"publication_date": "2023-08-15T11:04:01+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes",
 	"text_color": "green",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Robin - Vagabon - Metro Boomin x James Blake - Libianca - Blick Bassy - Amore x Dinamarca - Neil Frances x PawPaw Rod - Raury - Arlo Parks - 6Lack - Waterbaby - Speech Debelle - Juls x Tay Iwar x p-rallel x Fireboy DML - Stormzy x Tendai x Ayra Starr - Leisure x Sumac Dub - PawPaw Rod - MadeInParis - Jungle - Gabriels - Khruangbin - Hope Tala - Ezéchiel Pailhes - Patchworks x Pat Kala - Sudan Archives - Odhun - Chaton - Chiiild x Sungudzo - Greentea Peng - Babeheaven - Biig Piig - Lava La Rue - Little Simz - Enny - Varnish La Piscine - Thundercat x Tame Impala & +++ enjoy",
+					"text": "Robin - Vagabon -Mahalia - Leisure - Amaria BB -  Neil Frances x PawPaw Rod - Arlo Parks x Phoebe Bridgers - Jungle x JNR Williams - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - 6Lack - Waterbaby - Speech Debelle - Juls x Tay Iwar x p-rallel x Fireboy DML - Stormzy x Tendai x Ayra Starr - MadeInParis - Gabriels - Khruangbin - Raury - Hope Tala - Ezéchiel Pailhes - Patchworks x Pat Kala - Sudan Archives - Oshun - Chaton - Chiiild x Sungudzo - Greentea Peng - Babeheaven - Biig Piig - Lava La Rue - Little Simz - Enny - Varnish La Piscine - Vblick Bassy - Thundercat x Tame Impala & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a9b1a04b-58b8-4e56-9fc0-f3045d7392f7_Amore-.jpg?auto=compress,format&rect=0,0,1500,1500&w=1024&h=1024",
-					"alt": "Amore",
+					"url": "https://images.prismic.io/x-track-mag/4cba4bc4-3ab8-409b-a0c6-72822f42cdc0_Mahalia.jpg?auto=compress,format&rect=0,0,1599,790&w=1024&h=506",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 506,
+					"ratio": 2.0237154150197627
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f99b9234-7ce7-4d53-9ee8-294db0135e28_Robin.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -50,12 +50,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8db94bcd-639e-4b5c-805b-222e286b613c_Libianca+.jpeg?auto=compress,format&rect=0,0,2152,1925&w=1024&h=916",
-					"alt": "Libianca",
+					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
+					"alt": "Amaria BB",
 					"copyright": null,
 					"width": 1024,
-					"height": 916,
-					"ratio": 1.1179039301310043
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -71,12 +71,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c1b66fc7-68b7-41a0-b762-904e02a89d36_James+Blake.jpg?auto=compress,format&rect=0,0,1080,1344&w=1024&h=1274",
-					"alt": "James Blake",
+					"url": "https://images.prismic.io/x-track-mag/bce69f21-59c5-418b-b577-9a16dd10d53b_Leisure.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Leisure",
 					"copyright": null,
 					"width": 1024,
-					"height": 1274,
-					"ratio": 0.8037676609105181
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f1c94d50-9689-4a0b-8992-9712fa684746_Waterbaby.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
