@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-08-18T16:09:29+0000",
+	"publication_date": "2023-08-26T17:40:39+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'Été",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/98f9c23c-e1b3-4777-b689-7f0d15d42363_Noname.+.jpg?auto=compress,format",
-		"alt": "Noname",
+		"url": "https://images.prismic.io/x-track-mag/ac1300a9-8c9f-4fb0-b7e8-9be546345f54_Burna+Boy.+.jpg?auto=compress,format",
+		"alt": "Burna Boy",
 		"copyright": null,
-		"width": 1548,
-		"height": 1024,
-		"ratio": 1.51171875
+		"width": 1463,
+		"height": 1517,
+		"ratio": 0.964403427818062
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Noname - Kida Kudz - Jungle x Roots Manuva x JNR Williams - Mahalia - Jyellowl - Chike - Yaadman fka Yung L - Ragz Originale x Bakar - Blaqbonez - Yehra - Jessie Reyez x Miguel - Black Sherif - Nasty C - Byron Messia - Amaria BB - Burna Boy x 21 Savage - Boutros x Juicee Man - Patoranking x Popcaan - Olamide x Rema - Tentendo x Annalisa Fernandez - Bas x J Cole - PinkPantheress - Jorja Smith - Boj & ++++ Enjoy ",
+					"text": "Kaestyle x LeriQ - Burna Boy x Dave - Jime Legxacy - Asake - Bakar - Blanco - Mejja - Benny Sings - Prince Fatty x Shniece McMenamin - Gotts Street Park x Enny - Samia x Maya Hawke & ++++ Enjoy ",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/14b2cb04-f750-4fc9-8ff4-e15ca7659b00_Kida-Kudz.jpg?auto=compress,format&rect=0,0,1200,900&w=1024&h=768",
-					"alt": "Kida Kudz",
+					"url": "https://images.prismic.io/x-track-mag/17ff8141-5ae0-4c9a-9bc3-70ae824e07df_Jim+Legxacy.jpg?auto=compress,format&rect=0,0,1080,1181&w=1024&h=1120",
+					"alt": "Jim Legxacy",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 1120,
+					"ratio": 0.9142857142857143
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4cba4bc4-3ab8-409b-a0c6-72822f42cdc0_Mahalia.jpg?auto=compress,format&rect=0,0,1599,790&w=1024&h=506",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/2970b514-8c6d-4dd8-b51d-28f0dc390d50_Enny.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 506,
-					"ratio": 2.0237154150197627
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/531a0b94-1be6-4942-bdc1-ec6d9e8e0bc8_Ragz-Originale.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Ragz-Originale",
+					"url": "https://images.prismic.io/x-track-mag/3bf1b4d6-6873-44dd-a9a7-d1b85c0dec7b_Kaestyle+x+Leriq.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Kaestyle x Leriq",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f1edc6cd-bda8-4742-ba92-637bd54ecbf3_Jyellowl.jpg?auto=compress,format&rect=0,0,683,455&w=1024&h=682",
-					"alt": "Jyellowl",
-					"copyright": null,
-					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/92d4b8bc-ff12-4954-b5c4-698ea0c12efb_Jessie+Reyez+.jpg?auto=compress,format&rect=0,0,1617,1315&w=1024&h=833",
-					"alt": "Jessie Reyez",
-					"copyright": null,
-					"width": 1024,
-					"height": 833,
-					"ratio": 1.2292917166866746
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/470e7b5c-553c-4e2a-822b-19b570e16cdb_Black+Sherif.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Black Sherif",
+					"url": "https://images.prismic.io/x-track-mag/0a991c3d-c368-48a9-b484-7435d0a20252_Asake.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Asake",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d122177c-52d5-4e3f-ad6a-fe2cffaf88b6_Maya+Hawke.jpg?auto=compress,format&rect=0,0,1080,1348&w=1024&h=1278",
+					"alt": "Maya Hawke",
+					"copyright": null,
+					"width": 1024,
+					"height": 1278,
+					"ratio": 0.8012519561815337
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/df79247b-ef5a-40a5-aa03-ea6817db2ac4_Bakar.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Bakar",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
