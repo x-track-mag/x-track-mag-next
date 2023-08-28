@@ -156,12 +156,12 @@
 			"uid": "feel-good",
 			"title": "Feel Good",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
-				"alt": "Burna Boy",
+				"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format",
+				"alt": "Amaria BB",
 				"copyright": null,
-				"width": 1080,
-				"height": 1350,
-				"ratio": 0.8
+				"width": 1500,
+				"height": 844,
+				"ratio": 1.7772511848341233
 			},
 			"video_loop": null
 		},
@@ -253,17 +253,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-08-15T15:48:59+0000",
+			"publication_date": "2023-08-28T13:30:32+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format",
-				"alt": "Burna Boy",
+				"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format",
+				"alt": "Amaria BB",
 				"copyright": null,
-				"width": 1080,
-				"height": 1350,
-				"ratio": 0.8
+				"width": 1500,
+				"height": 844,
+				"ratio": 1.7772511848341233
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
