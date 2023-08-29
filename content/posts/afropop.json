@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-07-18T09:00:34+0000",
+	"publication_date": "2023-08-29T09:58:54+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/5f345f18-5085-48fd-86a9-2ca4169214a1_Tiwa+Savage+.jpg?auto=compress,format",
-		"alt": "Tiwa Savage",
+		"url": "https://images.prismic.io/x-track-mag/c54d5090-51da-4a52-aa6b-a6f5340a82fa_Asake.jpg?auto=compress,format",
+		"alt": "Asake",
 		"copyright": null,
-		"width": 1080,
-		"height": 1350,
-		"ratio": 0.8
+		"width": 1280,
+		"height": 717,
+		"ratio": 1.7852161785216178
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Stonebwoy x Oxlade x Tiwa Savage - Burna Boy - Odumodublvck x Fireboy DML - Ei8ht x Offset - Stormzy x Rema - DJ tunez x Wizkid x Gimba - J Hus x Drake - Asake - ChopLife SoundSystem x Mr Eazi x Ami Faku - Boj - Tiwa Savage x Ayra Starr x Young John - Kida Kudz - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Jobo x Bogo & ++++ Enjoy",
+					"text": "Nasty C - Byron Messia - Kida Kudz - Amaria BB - Asake - Burna Boy - Mejja - Ei8ht x Offset - Stormzy x Rema - J Hus x Drake - Blanco - Bas x J Cole - Boj - Tiwa Savage x Ayra Starr x Young John - ChopLife SoundSystem x Mr Eazi x Ami Faku - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Jobo x Bogo - Tekno & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,12 +34,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/2fd94e20-895f-43a0-aa4e-b66cda5f3ae6_Burna+Boy.jpg?auto=compress,format&rect=0,0,1092,1092&w=1024&h=1024",
 					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/90dd865a-eb0c-4851-bad6-7698920a59fc_Ayra+Starr.jpeg?auto=compress,format&rect=0,0,400,400&w=1024&h=1024",
@@ -50,12 +50,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/dc523324-1e03-440a-8e48-6132c45939a5_Rema+.jpg?auto=compress,format&rect=0,0,1548,1023&w=1024&h=677",
-					"alt": "Rema",
+					"url": "https://images.prismic.io/x-track-mag/403e6331-4489-43a5-8022-6c267c6601e0_Nasty+C.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "Nasty C",
 					"copyright": null,
 					"width": 1024,
-					"height": 677,
-					"ratio": 1.5125553914327918
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e2f67a84-732b-4d5d-b6c5-727627696ca0_Wizkid.jpg?auto=compress,format&rect=0,0,1507,942&w=1024&h=640",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/97c1abf7-6b4e-4a0c-a2a3-911c5c07b7f7_Tiwa+Savage.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 640,
-					"ratio": 1.6
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8ece50b1-765d-4dd3-9720-8bb2bb265108_Ami-Faku..jpg?auto=compress,format&rect=0,0,1362,1140&w=1024&h=857",
-					"alt": "Ami Faku",
+					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
+					"alt": "Kida Kudz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1025,
+					"ratio": 0.9990243902439024
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/49724fea-d88e-4eb3-b3a0-f82beb011c99_Amaria+BB.jpg?auto=compress,format&rect=0,0,1614,1351&w=1024&h=857",
+					"alt": "Amaria BB",
 					"copyright": null,
 					"width": 1024,
 					"height": 857,
 					"ratio": 1.1948658109684946
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=compress,format&rect=0,0,1440,1436&w=1024&h=1021",
-					"alt": "Juls",
-					"copyright": null,
-					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
 				}
 			]
 		},
@@ -106,5 +106,5 @@
 			]
 		}
 	],
-	"description": "Stonebwoy x Oxlade x Tiwa Savage - Burna Boy - Odumodublvck x Fireboy DML - Ei8ht x Offset - Stormzy x Rema - DJ tunez x Wizkid x Gimba - J Hus x Drake - Asake - ChopLife SoundSystem x Mr Eazi x Ami Faku - Boj - Tiwa Savage x Ayra Starr x Young John - Kida Kudz - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Jobo x Bogo & ++++ Enjoy"
+	"description": "Nasty C - Byron Messia - Kida Kudz - Amaria BB - Asake - Burna Boy - Mejja - Ei8ht x Offset - Stormzy x Rema - J Hus x Drake - Blanco - Bas x J Cole - Boj - Tiwa Savage x Ayra Starr x Young John - ChopLife SoundSystem x Mr Eazi x Ami Faku - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Jobo x Bogo - Tekno & ++++ Enjoy"
 }
