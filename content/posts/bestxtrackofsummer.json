@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-08-26T17:40:39+0000",
-	"title": "Best ”XTrack“ of Summer",
-	"subtitle": "Les meilleurs sons de l'Été",
+	"publication_date": "2023-09-02T09:14:37+0000",
+	"title": "Best ”XTrack“ of the Week",
+	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/ac1300a9-8c9f-4fb0-b7e8-9be546345f54_Burna+Boy.+.jpg?auto=compress,format",
-		"alt": "Burna Boy",
+		"url": "https://images.prismic.io/x-track-mag/2170d3f5-4dee-408f-9f1e-95b077a9a832_Tamera+.jpg?auto=compress,format",
+		"alt": "Tamera",
 		"copyright": null,
-		"width": 1463,
-		"height": 1517,
-		"ratio": 0.964403427818062
+		"width": 1638,
+		"height": 2048,
+		"ratio": 0.7998046875
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Kaestyle x LeriQ - Burna Boy x Dave - Jime Legxacy - Asake - Bakar - Blanco - Mejja - Benny Sings - Prince Fatty x Shniece McMenamin - Gotts Street Park x Enny - Samia x Maya Hawke & ++++ Enjoy ",
+					"text": "Jorja Smith - Burna Boy - Jim Legxacy - ChopLife SoundSystem x Mr Eazi - Tekno - Tamera - Donzer - Giggs x Lojay - JAE5 x Bnxn - Juls - Yaadman - Nana Fofie & ++++ Enjoy ",
 					"spans": []
 				}
 			]
@@ -34,28 +34,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/17ff8141-5ae0-4c9a-9bc3-70ae824e07df_Jim+Legxacy.jpg?auto=compress,format&rect=0,0,1080,1181&w=1024&h=1120",
+					"url": "https://images.prismic.io/x-track-mag/e0c33572-e321-4cc1-ac95-ad774cfd4fbe_Jim+Legxacy.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
 					"alt": "Jim Legxacy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1120,
-					"ratio": 0.9142857142857143
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2970b514-8c6d-4dd8-b51d-28f0dc390d50_Enny.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/7284a2d4-efca-415f-b3ec-128f6614170e_Jorja-Smith.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 650,
+					"ratio": 1.5753846153846154
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3bf1b4d6-6873-44dd-a9a7-d1b85c0dec7b_Kaestyle+x+Leriq.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Kaestyle x Leriq",
+					"url": "https://images.prismic.io/x-track-mag/96f90f4c-8a43-427f-a270-ab348c6f38d6_Burna+Boy.jpg?auto=compress,format&rect=0,0,1080,1203&w=1024&h=1141",
+					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1141,
+					"ratio": 0.8974583698510079
 				}
 			]
 		},
@@ -63,28 +63,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/0a991c3d-c368-48a9-b484-7435d0a20252_Asake.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Asake",
+					"url": "https://images.prismic.io/x-track-mag/0dfe77a7-c21e-4f32-9742-853b2988db55_Donzer.jpg?auto=compress,format&rect=0,0,1262,1262&w=1024&h=1024",
+					"alt": "Donzer",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/319046f4-748b-44b7-840c-952181c090e4_Nana+Fofie.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Nana Fofie",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d122177c-52d5-4e3f-ad6a-fe2cffaf88b6_Maya+Hawke.jpg?auto=compress,format&rect=0,0,1080,1348&w=1024&h=1278",
-					"alt": "Maya Hawke",
+					"url": "https://images.prismic.io/x-track-mag/10f40136-c11e-47e2-9112-70b86d6dcc2b_Tekno.jpg?auto=compress,format&rect=0,0,1080,1250&w=1024&h=1185",
+					"alt": "Tekno",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/df79247b-ef5a-40a5-aa03-ea6817db2ac4_Bakar.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Bakar",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1185,
+					"ratio": 0.8641350210970464
 				}
 			]
 		},
@@ -106,5 +106,5 @@
 			]
 		}
 	],
-	"description": "Playlist des meilleurs sons de l'été"
+	"description": "Playlist des meilleurs sons de la semaine"
 }

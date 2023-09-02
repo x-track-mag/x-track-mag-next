@@ -186,23 +186,23 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-08-26T17:40:39+0000",
-			"title": "Best ”XTrack“ of Summer",
-			"subtitle": "Les meilleurs sons de l'Été",
+			"publication_date": "2023-09-02T09:14:37+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ac1300a9-8c9f-4fb0-b7e8-9be546345f54_Burna+Boy.+.jpg?auto=compress,format",
-				"alt": "Burna Boy",
+				"url": "https://images.prismic.io/x-track-mag/2170d3f5-4dee-408f-9f1e-95b077a9a832_Tamera+.jpg?auto=compress,format",
+				"alt": "Tamera",
 				"copyright": null,
-				"width": 1463,
-				"height": 1517,
-				"ratio": 0.964403427818062
+				"width": 1638,
+				"height": 2048,
+				"ratio": 0.7998046875
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de l'été"
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "live-session-amaru",
