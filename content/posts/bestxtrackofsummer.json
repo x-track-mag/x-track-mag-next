@@ -3,16 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-09-08T18:39:49+0000",
+	"publication_date": "2023-09-15T23:29:21+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/93f60650-4580-4323-9b6a-55631d16c895_Mahalia.jpg?auto=compress,format",
-		"alt": "Mahalia",
+		"url": "https://images.prismic.io/x-track-mag/62830492-f0af-401b-8e74-a7c2fe1fdc19_Cleo+Sol.jpg?auto=compress,format",
+		"alt": "Cleo Sol",
 		"copyright": null,
-		"width": 2044,
-		"height": 2044,
+		"width": 2048,
+		"height": 2048,
 		"ratio": 1
 	},
 	"video_loop": null,
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "MAHALIA - BURNA BOY - ASAKE - ROMY - MURA MASA x DANIELA LATITA - JAMES BLAKE - KOJAQUE x BIIG PIIG - TIMAYA - BLANCO - MNELIA x MIRAA MAY x JOYCE WRICE x BELLAH - CLAVISH x AITCH - BAKAR - LEISURE - C.S. ARMSTRONG x K.A.A.N. & ++++ ENJOY ",
+					"text": "Frank Ekwa - Jalen Ngonda - Cleo Sol - Vagabon - Ayra Starr - Burna Boy - Juls x R2Bees x Sarkodie x Kidi - Midas the Jagaban x Tayc - Tekno - Nate Brazier - Sango x Masego - Diddy x The Weeknd x French Montana x 21 Savage - Konyikeh & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,24 +34,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a0e76dad-c748-414f-ab15-6b25e5a8f549_Mnelia.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Mnelia",
+					"url": "https://images.prismic.io/x-track-mag/b8b7828d-b6c2-413f-bc43-680ac461c5c0_Midas+the+Jagaban.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Midas the Jagaban",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/15a9cc95-05a8-43e5-9e6e-b04c0992f8aa_Burna+Boy.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/5347cfb5-c48a-4237-bc5d-f54e0d682cbf_Jalen+Ngonda.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Jalen Ngonda",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c110d61e-3d4d-4239-a3fb-c419bc5272b5_Bellah.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Bellah",
+					"url": "https://images.prismic.io/x-track-mag/7bb1fbf3-b19a-40a1-b182-92880d3d87eb_Vagabon.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Vagabon",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -63,24 +63,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/fed1c785-7e91-4c98-b041-20e30dc1f359_Romy.jpg?auto=compress,format&rect=0,0,1080,1348&w=1024&h=1278",
-					"alt": "Romy",
+					"url": "https://images.prismic.io/x-track-mag/9e7896a5-566d-4e42-8d6e-5bb0c79515bc_Frank+Ekwa.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "Frank Ekwa",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2447c4a3-aae3-4eb0-8289-e67c0eca0652_Bakar.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Bakar",
+					"url": "https://images.prismic.io/x-track-mag/6b3285c4-6855-4f71-a81e-6e7ce4b551f3_Ayra+Starr+.jpg?auto=compress,format&rect=0,0,1617,1350&w=1024&h=855",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 855,
+					"ratio": 1.1976608187134503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bb18d437-c970-432d-8037-b54f7691f147_Daniela+Latita.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Daniela Latita",
+					"url": "https://images.prismic.io/x-track-mag/ffc10782-d956-422c-91c6-a662982fda78_Tayc.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Tayc",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
