@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-09-15T23:29:21+0000",
+	"publication_date": "2023-09-23T16:51:29+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/62830492-f0af-401b-8e74-a7c2fe1fdc19_Cleo+Sol.jpg?auto=compress,format",
-		"alt": "Cleo Sol",
+		"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=compress,format",
+		"alt": "Tems",
 		"copyright": null,
-		"width": 2048,
-		"height": 2048,
-		"ratio": 1
+		"width": 2240,
+		"height": 1260,
+		"ratio": 1.7777777777777777
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Frank Ekwa - Jalen Ngonda - Cleo Sol - Vagabon - Ayra Starr - Burna Boy - Juls x R2Bees x Sarkodie x Kidi - Midas the Jagaban x Tayc - Tekno - Nate Brazier - Sango x Masego - Diddy x The Weeknd x French Montana x 21 Savage - Konyikeh & +++ Enjoy",
+					"text": "Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar - Juls x Pure Akan - Bekar x Myth Syzer - Vagabon - Pson - Myra x Sancho & Pancho - Bakar x Summer Walker - Cleo Sol - Rosehardt x Masego - James Blake & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,20 +34,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b8b7828d-b6c2-413f-bc43-680ac461c5c0_Midas+the+Jagaban.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Midas the Jagaban",
+					"url": "https://images.prismic.io/x-track-mag/15c790ca-6789-4763-b83b-e9f8803dad05_Amaarae++.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5347cfb5-c48a-4237-bc5d-f54e0d682cbf_Jalen+Ngonda.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Jalen Ngonda",
+					"url": "https://images.prismic.io/x-track-mag/4fe3bec8-3177-477f-a308-071b6e4ea0c1_Show+Dem+Camp.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Show Dem Camp",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7bb1fbf3-b19a-40a1-b182-92880d3d87eb_Vagabon.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
@@ -63,24 +63,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9e7896a5-566d-4e42-8d6e-5bb0c79515bc_Frank+Ekwa.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
-					"alt": "Frank Ekwa",
+					"url": "https://images.prismic.io/x-track-mag/c999e139-ca25-404d-b86d-11634be70ed0_Bekar.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Bekar",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6b3285c4-6855-4f71-a81e-6e7ce4b551f3_Ayra+Starr+.jpg?auto=compress,format&rect=0,0,1617,1350&w=1024&h=855",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/04b69712-6add-414e-a592-02bfbfea9f5a_Cleo+Sol+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Cleo Sol",
 					"copyright": null,
 					"width": 1024,
-					"height": 855,
-					"ratio": 1.1976608187134503
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ffc10782-d956-422c-91c6-a662982fda78_Tayc.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Tayc",
+					"url": "https://images.prismic.io/x-track-mag/3fe4f417-0ee5-4b0c-ba69-4157cb46826b_Myth+Syzer.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Myth Syzer",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,

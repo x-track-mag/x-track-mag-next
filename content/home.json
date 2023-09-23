@@ -186,17 +186,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-09-15T23:29:21+0000",
+			"publication_date": "2023-09-23T16:51:29+0000",
 			"title": "Best ”XTrack“ of the Week",
 			"subtitle": "Les meilleurs sons de la semaine",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/62830492-f0af-401b-8e74-a7c2fe1fdc19_Cleo+Sol.jpg?auto=compress,format",
-				"alt": "Cleo Sol",
+				"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=compress,format",
+				"alt": "Tems",
 				"copyright": null,
-				"width": 2048,
-				"height": 2048,
-				"ratio": 1
+				"width": 2240,
+				"height": 1260,
+				"ratio": 1.7777777777777777
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
