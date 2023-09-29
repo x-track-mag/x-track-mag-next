@@ -3,19 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-09-23T16:58:43+0000",
+	"publication_date": "2023-09-29T22:51:07+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "green",
-	"image": {
-		"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=compress,format",
-		"alt": "Tems",
-		"copyright": null,
-		"width": 2240,
-		"height": 1260,
-		"ratio": 1.7777777777777777
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "Saya Gray.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c01d69da-6a5c-42ea-acbe-c38064931962_Saya+Gray.mp4",
+		"size": "602420"
 	},
-	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
 	"internal_link": null,
@@ -25,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar - Juls x Pure Akan - Bekar x Myth Syzer - Vagabon - Pson - Myra x Sancho & Pancho - Bakar x Summer Walker - Cleo Sol - Rosehardt x Masego - James Blake & +++ Enjoy",
+					"text": "Saya Gray - Jorja Smith x J Hus - Bakar - 53 Thieves - Juls x Worlasi x Cina Soul x Pure Akan - Popcaan x Anju Blaxx - Yerha - Cleo Sol - Nasty C  - Mahalia - Show Dem Camp x  Amaarae x Tems x DJ Sudi x No Nazar - Bekar x Myth Syzer & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,24 +31,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f532a9a6-7b3f-4bdd-9b19-c58e64044c45_Amaarae.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/baad7b6e-0f2f-4cfc-9332-7f3aec35c3a1_Saya+Gray.+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Saya Gray",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4fe3bec8-3177-477f-a308-071b6e4ea0c1_Show+Dem+Camp.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Show Dem Camp",
+					"url": "https://images.prismic.io/x-track-mag/5878682f-d9f2-4cd7-bcf7-d7e3c9f6edb7_J.+Hus.jpg?auto=compress,format&rect=0,0,2048,2158&w=1024&h=1079",
+					"alt": "J. Hus",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1079,
+					"ratio": 0.9490268767377201
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ef9c4b2f-fa8a-436f-8421-68690c2ad92e_Vagabon.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Vagabon",
+					"url": "https://images.prismic.io/x-track-mag/ce93c238-f583-410f-8354-bca1aed6c6b8_jorja-smith_e4a85_1000%402x.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -63,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c999e139-ca25-404d-b86d-11634be70ed0_Bekar.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Bekar",
+					"url": "https://images.prismic.io/x-track-mag/3acdca91-2cd9-41e6-8b6a-5baa2b0d5364_Juls.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Juls",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/04b69712-6add-414e-a592-02bfbfea9f5a_Cleo+Sol+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Cleo Sol",
+					"url": "https://images.prismic.io/x-track-mag/5df9e3f7-a91d-46ec-8cd0-828bb1291d69_Yehra.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
+					"alt": "Yehra",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/b45edfe8-ec3c-4354-bf76-333411450f41_Popcaan.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Popcaan",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/3fe4f417-0ee5-4b0c-ba69-4157cb46826b_Myth+Syzer.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Myth Syzer",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -92,8 +89,8 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=2e6f8c73c30f4022",
-					"title": "Best ”XTrack“ of The Week"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=6cbc27b5188e44a5",
+					"title": "Best ”XTrack“ of the Week"
 				},
 				{
 					"url": "https://www.deezer.com/fr/playlist/4099699282",
