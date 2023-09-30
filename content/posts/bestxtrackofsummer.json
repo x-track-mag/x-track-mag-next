@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-09-29T22:51:07+0000",
+	"publication_date": "2023-09-30T09:08:41+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine",
 	"text_color": "inverted",
@@ -68,12 +68,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5df9e3f7-a91d-46ec-8cd0-828bb1291d69_Yehra.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
-					"alt": "Yehra",
+					"url": "https://images.prismic.io/x-track-mag/dd1d328c-c961-4e0d-8a3c-ce8bbb62d5a6_Cina+Soul.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Cina Soul",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/b45edfe8-ec3c-4354-bf76-333411450f41_Popcaan.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
