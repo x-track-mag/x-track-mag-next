@@ -156,12 +156,12 @@
 			"uid": "feel-good",
 			"title": "Feel Good",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format",
-				"alt": "Amaria BB",
+				"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
+				"alt": "Enny",
 				"copyright": null,
-				"width": 1500,
-				"height": 844,
-				"ratio": 1.7772511848341233
+				"width": 4096,
+				"height": 2958,
+				"ratio": 1.3847194050033806
 			},
 			"video_loop": null
 		},
@@ -250,17 +250,17 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-09-03T11:38:05+0000",
+			"publication_date": "2023-10-05T04:47:21+0000",
 			"title": "Feel Good",
 			"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 			"text_color": "green",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format",
-				"alt": "Amaria BB",
+				"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
+				"alt": "Enny",
 				"copyright": null,
-				"width": 1500,
-				"height": 844,
-				"ratio": 1.7772511848341233
+				"width": 4096,
+				"height": 2958,
+				"ratio": 1.3847194050033806
 			},
 			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",

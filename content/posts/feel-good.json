@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-09-03T11:38:05+0000",
+	"publication_date": "2023-10-05T04:47:21+0000",
 	"title": "Feel Good",
 	"subtitle": "100% Positive Energy Hip Hop x Afrobeat x Reggae x RnB x Electro x Pop",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format",
-		"alt": "Amaria BB",
+		"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format",
+		"alt": "Enny",
 		"copyright": null,
-		"width": 1500,
-		"height": 844,
-		"ratio": 1.7772511848341233
+		"width": 4096,
+		"height": 2958,
+		"ratio": 1.3847194050033806
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Burna Boy x Dave x 21 savage - Nasty C - Jim Legxacy - £Ragz Originale x Bakar - Byron Messia - Amaria BB -Metro Boomin x Dontoliver x Wizkid x Beam x Toian - Patoranking x Popcaan - J Hus x Naire Marley x Drake - Boutros x Juicee Mann - Asake - Enny - Bakar - Jungle - Jungle - PinkPantheress - Feiertag x Oshun x Niambi Sala - EI8HT x Offset - Jitwam x Jaydonclover x Yungmorpheus - Aminé x Kaytranada x Pharrell Williams x Amaarae - Kida Kudz - Ice Spice  & +++ Enjoy",
+					"text": "Nasty C - Frank Ekwa - Feiertag x Oshun x Niambi Sala - Burna Boy x 21 Savage - Jim Legxacy - Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -34,42 +34,34 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/39ba5e01-163d-4dd5-a76c-2db729f7bb32_Burna+Boy-++.jpg?auto=compress,format&rect=0,0,1979,1345&w=1024&h=696",
+					"url": "https://images.prismic.io/x-track-mag/7284a2d4-efca-415f-b3ec-128f6614170e_Jorja-Smith.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
+					"alt": "Jorja Smith",
+					"copyright": null,
+					"width": 1024,
+					"height": 650,
+					"ratio": 1.5753846153846154
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/3d863737-8cdd-45d9-b1ef-0bbf0885b90e_Burna+Boy.++.jpg?auto=compress,format&rect=0,0,768,768&w=1024&h=1024",
 					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 696,
-					"ratio": 1.471264367816092
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2970b514-8c6d-4dd8-b51d-28f0dc390d50_Enny.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/62830492-f0af-401b-8e74-a7c2fe1fdc19_Cleo+Sol.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Cleo Sol",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/17ff8141-5ae0-4c9a-9bc3-70ae824e07df_Jim+Legxacy.jpg?auto=compress,format&rect=0,0,1080,1181&w=1024&h=1120",
-					"alt": "Jim Legxacy",
-					"copyright": null,
-					"width": 1024,
-					"height": 1120,
-					"ratio": 0.9142857142857143
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
 		{
 			"template": "section-gallery",
 			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/403e6331-4489-43a5-8022-6c267c6601e0_Nasty+C.jpg?auto=compress,format&rect=0,0,1024,1024&w=1024&h=1024",
-					"alt": "Nasty C",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f9f25633-9f90-49f0-b8a4-32ebdab99604_Oshun+.jpg?auto=compress,format&rect=0,0,1454,966&w=1024&h=680",
 					"alt": "Oshun",
@@ -79,12 +71,20 @@
 					"ratio": 1.5058823529411764
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8d1592b6-f1f0-4229-914d-920046eba66f_J+Hus.jpg?auto=compress,format&rect=0,0,1439,960&w=1024&h=683",
-					"alt": "J Hus",
+					"url": "https://images.prismic.io/x-track-mag/3acdca91-2cd9-41e6-8b6a-5baa2b0d5364_Juls.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ef9c4b2f-fa8a-436f-8421-68690c2ad92e_Vagabon.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Vagabon",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
