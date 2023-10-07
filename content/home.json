@@ -183,15 +183,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-10-05T05:00:49+0000",
+			"publication_date": "2023-10-07T22:08:11+0000",
 			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine         -       Video : Saya Gray",
+			"subtitle": "Les meilleurs sons de la semaine         -       Video : Tems",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Saya Gray.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c01d69da-6a5c-42ea-acbe-c38064931962_Saya+Gray.mp4",
-				"size": "602420"
+				"name": "Tems. .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4da37578-43f8-4cbf-8a45-870fc270707f_Tems.+.mp4",
+				"size": "1530814"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
