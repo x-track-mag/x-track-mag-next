@@ -29,11 +29,11 @@
 		},
 		{
 			"position": 6,
-			"uid": "new-romance"
+			"uid": "page"
 		},
 		{
 			"position": 7,
-			"uid": "page"
+			"uid": "new-romance"
 		},
 		{
 			"position": 8,
@@ -44,7 +44,7 @@
 			"uid": "x-track-studio---biaziouka"
 		},
 		{
-			"position": 9,
+			"position": 8,
 			"uid": "la-muse--une-icone-feministe-"
 		},
 		{
@@ -286,26 +286,6 @@
 			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
 		},
 		{
-			"uid": "new-romance",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-10-08T10:33:58+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes - Cover : Saya Gray",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Saya Gray.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c01d69da-6a5c-42ea-acbe-c38064931962_Saya+Gray.mp4",
-				"size": "602420"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
-		},
-		{
 			"uid": "page",
 			"tags": [
 				"article",
@@ -330,25 +310,24 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "x-track-studio---biaziouka",
+			"uid": "new-romance",
 			"tags": [
-				"music",
-				"live session"
+				"music"
 			],
-			"publication_date": "2023-10-08T09:54:07+0000",
-			"title": "BIAZIOUKA ",
-			"subtitle": "Live Session",
+			"publication_date": "2023-10-08T10:33:58+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes - Cover : Saya Gray",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
-				"size": "922100"
+				"name": "Saya Gray.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c01d69da-6a5c-42ea-acbe-c38064931962_Saya+Gray.mp4",
+				"size": "602420"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": null,
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "live session Biaziouka Plug x-track mag"
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
@@ -372,6 +351,27 @@
 			"author": "Aphelandra Siassa",
 			"internal_link": null,
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
+		},
+		{
+			"uid": "x-track-studio---biaziouka",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2023-10-08T09:54:07+0000",
+			"title": "BIAZIOUKA ",
+			"subtitle": "Live Session",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "BIAZOUKA - XTRACKMAG - V3_3.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/63fe0231-d4fa-4f5d-b2db-f00653806ba6_BIAZOUKA+-+XTRACKMAG+-+V3_3.mp4",
+				"size": "922100"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": null,
+			"internal_link": null,
+			"description": "live session Biaziouka Plug x-track mag"
 		},
 		{
 			"uid": "afropop",
