@@ -290,19 +290,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-08-15T11:04:01+0000",
+			"publication_date": "2023-10-08T10:33:58+0000",
 			"title": "New Romance",
-			"subtitle": "100% Chill Vibes",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/722e5545-b4ab-40b8-b9a7-baf12fb6e518_Vagabon+.jpg?auto=compress,format",
-				"alt": "Vagabon",
-				"copyright": null,
-				"width": 1855,
-				"height": 1330,
-				"ratio": 1.394736842105263
+			"subtitle": "100% Chill Vibes - Cover : Saya Gray",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Saya Gray.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c01d69da-6a5c-42ea-acbe-c38064931962_Saya+Gray.mp4",
+				"size": "602420"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
