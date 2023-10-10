@@ -446,19 +446,16 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-07-25T09:56:26+0000",
+			"publication_date": "2023-10-10T10:18:40+0000",
 			"title": "Tropical",
-			"subtitle": "Sweet & Happy",
+			"subtitle": "Sweet & Happy - Cover : Lila Iké",
 			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format",
-				"alt": "Lila Iké",
-				"copyright": null,
-				"width": 2500,
-				"height": 2755,
-				"ratio": 0.9074410163339383
+			"image": null,
+			"video_loop": {
+				"name": "Lila Iké.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/041c2b6d-d820-4c26-a2ed-14fc6d56fee2_Lila+Ike%CC%81.mp4",
+				"size": "14535105"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
