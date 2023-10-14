@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-07T22:11:11+0000",
+	"publication_date": "2023-10-14T15:10:25+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Tems",
+	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Jamila Woods",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Tems. .mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4da37578-43f8-4cbf-8a45-870fc270707f_Tems.+.mp4",
-		"size": "1530814"
+		"name": "Jamila Woods.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c491df80-49f1-4517-9eb3-663ea2ab539b_Jamila+Woods.mp4",
+		"size": "2551130"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jorja Smith - Amaria - Leisure - Tems - Drake x Bad Bunny - Juls x KWW x Quamina MP x Kofi Mole x Twich 4EVA x Dayonthetrack - 808vic - Blxst x Bino Rideaux - Burna Boy - Dj Tunez x Amexin -  Iyamah & +++ Enjoy",
+					"text": "Jamila Woods x Saba - Jorja Smith - Muzi - Bayanni - Boj x Ajebutter22 - Offset x Don Toliver -  Naomi Sharon - Nasty C - Goots Street Park x Olive Jones & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/448148fa-3b18-4f59-a829-8f577124f6a4_Drake.jpg?auto=compress,format&rect=0,0,1080,1065&w=1024&h=1010",
-					"alt": "Drake",
+					"url": "https://images.prismic.io/x-track-mag/98fac7db-436e-4356-bb15-a4e1ba628630_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1347&w=1024&h=1277",
+					"alt": "Naomi Sharon",
 					"copyright": null,
 					"width": 1024,
-					"height": 1010,
-					"ratio": 1.0138613861386139
+					"height": 1277,
+					"ratio": 0.8018794048551292
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8905291f-d4e9-427c-a8fa-848e42ea9c30_Jorja+Smith.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/15b179e9-8bbf-4407-9c9b-089f445258d8_Muzi+Portrait.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
 					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/14012c2c-caee-406c-9e68-30d6004bbd97_Bad+Bunny.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Bad Bunny",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/3acdca91-2cd9-41e6-8b6a-5baa2b0d5364_Juls.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Juls",
+					"url": "https://images.prismic.io/x-track-mag/623b3f74-c690-4227-9584-64168cf05b65_Gotts+Street+Park.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
+					"alt": "Gotts Street Park",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f7c2d6d2-9f3a-41c1-b2f2-f41e26fb7607_Olive+Jones.jpg?auto=compress,format&rect=0,0,1079,607&w=1024&h=576",
+					"alt": "Olive Jones",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/680ea21b-7a9b-4018-a029-675a2baed820_Offset.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Offset",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b03afd6d-76bc-4f6c-9992-eef124dc8d2e_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amaria",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/bce69f21-59c5-418b-b577-9a16dd10d53b_Leisure.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": "Leisure",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -89,7 +89,7 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=6cbc27b5188e44a5",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=dc117147b6744b23",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
