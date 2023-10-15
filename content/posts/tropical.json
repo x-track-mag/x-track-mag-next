@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-10T10:18:40+0000",
+	"publication_date": "2023-10-15T08:40:23+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Lila Iké",
 	"text_color": "inverted",
@@ -89,15 +89,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=d42f08f0068d4cd3",
-					"title": "Tropical "
-				},
-				{
-					"url": "https://www.deezer.com/us/playlist/4930107344",
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMC1CzGVtkqvVDwuS6EABM_A",
 					"title": "Tropical"
 				},
 				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMC1CzGVtkqvVDwuS6EABM_A",
+					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=61dce271f72a4864",
+					"title": "Tropical "
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4930107344",
 					"title": "Tropical"
 				}
 			]
