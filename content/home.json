@@ -62,6 +62,18 @@
 		{
 			"position": 14,
 			"uid": "in-love"
+		},
+		{
+			"position": 15,
+			"uid": "les-klon-hydre-pop-a-sept-tetes"
+		},
+		{
+			"position": 16,
+			"uid": "live-session-donzer-bleu-pisicne"
+		},
+		{
+			"position": 17,
+			"uid": "chill-hip-hop-from-90s"
 		}
 	],
 	"selected_reads": [
@@ -330,27 +342,6 @@
 			"description": "Tropical"
 		},
 		{
-			"uid": "chill-hip-hop-from-90s",
-			"tags": [],
-			"publication_date": "2023-10-11T11:32:05+0000",
-			"title": "Old School Hip Hop",
-			"subtitle": "Chill Hip Hop from 90's",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d7891d9-8d8c-4c4f-b28a-94817fa431c0_Notorious+Big.jpg?auto=compress,format",
-				"alt": "Notorious Big",
-				"copyright": null,
-				"width": 1137,
-				"height": 1305,
-				"ratio": 0.871264367816092
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Chill Hip Hop from 90's"
-		},
-		{
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
 			"tags": [
 				"article"
@@ -412,6 +403,51 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
+			"uid": "les-klon-hydre-pop-a-sept-tetes",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2021-09-11T21:19:37+0000",
+			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
+			"subtitle": "",
+			"text_color": "green",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
+		},
+		{
+			"uid": "live-session-donzer-bleu-pisicne",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-04-09T09:45:00+0000",
+			"title": "DONZER",
+			"subtitle": "LIVE SESSION",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LoopDonzer.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
+				"size": "5895339"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session Donzer bleu piscine x-track mag"
+		},
+		{
 			"uid": "la-muse--une-icone-feministe-",
 			"tags": [
 				"article"
@@ -433,6 +469,27 @@
 			"author": "Aphelandra Siassa",
 			"internal_link": null,
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
+		},
+		{
+			"uid": "chill-hip-hop-from-90s",
+			"tags": [],
+			"publication_date": "2023-10-11T11:32:05+0000",
+			"title": "Old School Hip Hop",
+			"subtitle": "Chill Hip Hop from 90's",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d7891d9-8d8c-4c4f-b28a-94817fa431c0_Notorious+Big.jpg?auto=compress,format",
+				"alt": "Notorious Big",
+				"copyright": null,
+				"width": 1137,
+				"height": 1305,
+				"ratio": 0.871264367816092
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Chill Hip Hop from 90's"
 		},
 		{
 			"uid": "lhysterie",
@@ -759,27 +816,6 @@
 			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
-			"uid": "live-session-donzer-bleu-pisicne",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-04-09T09:45:00+0000",
-			"title": "DONZER",
-			"subtitle": "LIVE SESSION",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LoopDonzer.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
-				"size": "5895339"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session Donzer bleu piscine x-track mag"
-		},
-		{
 			"uid": "misterkay--welcome-to-nigeria",
 			"tags": [
 				"music",
@@ -845,30 +881,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
-		},
-		{
-			"uid": "les-klon-hydre-pop-a-sept-tetes",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2021-09-11T21:19:37+0000",
-			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
-			"subtitle": "",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
 			"uid": "polycool",
