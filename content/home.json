@@ -342,6 +342,26 @@
 			"description": "Tropical"
 		},
 		{
+			"uid": "afropop",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-10-15T08:36:07+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Burna Boy. .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/2b8aad76-532f-4b07-94c8-59c60481c4d3_Burna+Boy.+.mp4",
+				"size": "4684746"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Burna Boy - Bayanni - Boj x Ajebutter22 - Tamera - Kida Kudz - Drake x Bad Bunny - Tems - Ayra Starr -  Tiwa Savage x Ayra Starr x Young Jonn - Asake - Choplife SoundSystem x Mr Eazi  - J Hus x Drake - Blanco - Tekno  - Muzi - EI8HT x Offset & ++++ Enjoy"
+		},
+		{
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
 			"tags": [
 				"article"
@@ -448,6 +468,27 @@
 			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
+			"uid": "chill-hip-hop-from-90s",
+			"tags": [],
+			"publication_date": "2023-10-11T11:32:05+0000",
+			"title": "Old School Hip Hop",
+			"subtitle": "Chill Hip Hop from 90's",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d7891d9-8d8c-4c4f-b28a-94817fa431c0_Notorious+Big.jpg?auto=compress,format",
+				"alt": "Notorious Big",
+				"copyright": null,
+				"width": 1137,
+				"height": 1305,
+				"ratio": 0.871264367816092
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Chill Hip Hop from 90's"
+		},
+		{
 			"uid": "la-muse--une-icone-feministe-",
 			"tags": [
 				"article"
@@ -469,27 +510,6 @@
 			"author": "Aphelandra Siassa",
 			"internal_link": null,
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
-		},
-		{
-			"uid": "chill-hip-hop-from-90s",
-			"tags": [],
-			"publication_date": "2023-10-11T11:32:05+0000",
-			"title": "Old School Hip Hop",
-			"subtitle": "Chill Hip Hop from 90's",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d7891d9-8d8c-4c4f-b28a-94817fa431c0_Notorious+Big.jpg?auto=compress,format",
-				"alt": "Notorious Big",
-				"copyright": null,
-				"width": 1137,
-				"height": 1305,
-				"ratio": 0.871264367816092
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Chill Hip Hop from 90's"
 		},
 		{
 			"uid": "lhysterie",
@@ -531,29 +551,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "live session Biaziouka Plug x-track mag"
-		},
-		{
-			"uid": "afropop",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-08-29T09:58:54+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c54d5090-51da-4a52-aa6b-a6f5340a82fa_Asake.jpg?auto=compress,format",
-				"alt": "Asake",
-				"copyright": null,
-				"width": 1280,
-				"height": 717,
-				"ratio": 1.7852161785216178
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Nasty C - Byron Messia - Kida Kudz - Amaria BB - Asake - Burna Boy - Mejja - Ei8ht x Offset - Stormzy x Rema - J Hus x Drake - Blanco - Bas x J Cole - Boj - Tiwa Savage x Ayra Starr x Young John - ChopLife SoundSystem x Mr Eazi x Ami Faku - The Cavemen - Swae Lee x Drake - Juls x Ami Faku - Jobo x Bogo - Tekno & ++++ Enjoy"
 		},
 		{
 			"uid": "supersoul",
