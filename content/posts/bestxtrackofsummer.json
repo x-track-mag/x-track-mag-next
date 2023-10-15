@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-14T15:12:57+0000",
+	"publication_date": "2023-10-15T08:37:04+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Jamila Woods",
 	"text_color": "inverted",
@@ -89,15 +89,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=b16be9a169f344f1",
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
 					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/4vcp9k3nl0gFzXOjhimDJq?si=17482586d7a346bc",
+					"title": "Afropop"
 				},
 				{
 					"url": "https://www.deezer.com/fr/playlist/4099699282",
-					"title": "Best ”XTrack“ of the Week"
-				},
-				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
 					"title": "Best ”XTrack“ of the Week"
 				}
 			]
