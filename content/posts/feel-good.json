@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-08T09:46:57+0000",
+	"publication_date": "2023-10-15T07:42:56+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Enny",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Nasty C - Frank Ekwa - Feiertag x Oshun x Niambi Sala - Burna Boy x 21 Savage - Jim Legxacy - Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon  & +++ Enjoy",
+					"text": "Frank Ekwa - Feiertag x Oshun x Niambi Sala - Burna Boy x 21 Savage - Jim Legxacy - Drake x Bad Bunny - Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -68,12 +68,12 @@
 					"ratio": 1.5058823529411764
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3acdca91-2cd9-41e6-8b6a-5baa2b0d5364_Juls.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Juls",
+					"url": "https://images.prismic.io/x-track-mag/448148fa-3b18-4f59-a829-8f577124f6a4_Drake.jpg?auto=compress,format&rect=0,0,1080,1065&w=1024&h=1010",
+					"alt": "Drake",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1010,
+					"ratio": 1.0138613861386139
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ef9c4b2f-fa8a-436f-8421-68690c2ad92e_Vagabon.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
