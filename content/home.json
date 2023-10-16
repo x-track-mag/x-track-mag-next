@@ -33,19 +33,19 @@
 		},
 		{
 			"position": 7,
-			"uid": "15minutes-avec-jacques"
-		},
-		{
-			"position": 8,
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
-		},
-		{
-			"position": 9,
 			"uid": "new-romance"
 		},
 		{
-			"position": 10,
+			"position": 8,
 			"uid": "martin-parr"
+		},
+		{
+			"position": 9,
+			"uid": "yayayayoutube-ep-2--fatima-antoinette"
+		},
+		{
+			"position": 10,
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		},
 		{
 			"position": 11,
@@ -53,27 +53,7 @@
 		},
 		{
 			"position": 12,
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
-		},
-		{
-			"position": 13,
-			"uid": "yayayayoutube-ep-2--fatima-antoinette"
-		},
-		{
-			"position": 14,
-			"uid": "in-love"
-		},
-		{
-			"position": 15,
-			"uid": "les-klon-hydre-pop-a-sept-tetes"
-		},
-		{
-			"position": 16,
-			"uid": "live-session-donzer-bleu-pisicne"
-		},
-		{
-			"position": 17,
-			"uid": "chill-hip-hop-from-90s"
+			"uid": "la-muse--une-icone-feministe-"
 		}
 	],
 	"selected_reads": [
@@ -258,27 +238,6 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
-			"uid": "15minutes-avec-jacques",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2022-04-18T07:45:52+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "jacques interview"
-		},
-		{
 			"uid": "new-romance",
 			"tags": [
 				"music"
@@ -322,44 +281,22 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "tropical",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-10-15T08:40:23+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy - Cover : Lila Iké",
+			"uid": "yayayayoutube-ep-2--fatima-antoinette",
+			"tags": [],
+			"publication_date": "2021-07-03T07:49:51+0000",
+			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
+			"subtitle": "Sexion Gaming",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Lila Iké.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/041c2b6d-d820-4c26-a2ed-14fc6d56fee2_Lila+Ike%CC%81.mp4",
-				"size": "14535105"
+				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
+				"size": "1717559"
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"template": "3: Image + Titre",
+			"author": null,
 			"internal_link": null,
-			"description": "Tropical"
-		},
-		{
-			"uid": "afropop",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-10-15T08:36:07+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Burna Boy. .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/2b8aad76-532f-4b07-94c8-59c60481c4d3_Burna+Boy.+.mp4",
-				"size": "4684746"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Burna Boy - Bayanni - Boj x Ajebutter22 - Tamera - Kida Kudz - Drake x Bad Bunny - Tems - Ayra Starr -  Tiwa Savage x Ayra Starr x Young Jonn - Asake - Choplife SoundSystem x Mr Eazi  - J Hus x Drake - Blanco - Tekno  - Muzi - EI8HT x Offset & ++++ Enjoy"
+			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
@@ -385,108 +322,24 @@
 			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
-			"uid": "yayayayoutube-ep-2--fatima-antoinette",
-			"tags": [],
-			"publication_date": "2021-07-03T07:49:51+0000",
-			"title": "Yayayayoutube                                                                                                                                     EP 2 : Fatima Antoinette ",
-			"subtitle": "Sexion Gaming",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/18da5c9a-2661-4243-aed2-612b52244634_0302_FATIMA_ANTOINETTE_ONLINE_mp4_1.mp4",
-				"size": "1717559"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
-		},
-		{
-			"uid": "in-love",
+			"uid": "tropical",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-10-09T09:39:37+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
-			"text_color": "green",
+			"publication_date": "2023-10-15T08:40:23+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy - Cover : Lila Iké",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Billie Eilish.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
-				"size": "3550642"
+				"name": "Lila Iké.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/041c2b6d-d820-4c26-a2ed-14fc6d56fee2_Lila+Ike%CC%81.mp4",
+				"size": "14535105"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
-		},
-		{
-			"uid": "les-klon-hydre-pop-a-sept-tetes",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2021-09-11T21:19:37+0000",
-			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
-			"subtitle": "",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
-		},
-		{
-			"uid": "live-session-donzer-bleu-pisicne",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2022-04-09T09:45:00+0000",
-			"title": "DONZER",
-			"subtitle": "LIVE SESSION",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LoopDonzer.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
-				"size": "5895339"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session Donzer bleu piscine x-track mag"
-		},
-		{
-			"uid": "chill-hip-hop-from-90s",
-			"tags": [],
-			"publication_date": "2023-10-11T11:32:05+0000",
-			"title": "Old School Hip Hop",
-			"subtitle": "Chill Hip Hop from 90's",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d7891d9-8d8c-4c4f-b28a-94817fa431c0_Notorious+Big.jpg?auto=compress,format",
-				"alt": "Notorious Big",
-				"copyright": null,
-				"width": 1137,
-				"height": 1305,
-				"ratio": 0.871264367816092
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Chill Hip Hop from 90's"
+			"description": "Tropical"
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
@@ -510,6 +363,67 @@
 			"author": "Aphelandra Siassa",
 			"internal_link": null,
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
+		},
+		{
+			"uid": "afropop",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-10-15T08:36:07+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Burna Boy. .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/2b8aad76-532f-4b07-94c8-59c60481c4d3_Burna+Boy.+.mp4",
+				"size": "4684746"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Burna Boy - Bayanni - Boj x Ajebutter22 - Tamera - Kida Kudz - Drake x Bad Bunny - Tems - Ayra Starr -  Tiwa Savage x Ayra Starr x Young Jonn - Asake - Choplife SoundSystem x Mr Eazi  - J Hus x Drake - Blanco - Tekno  - Muzi - EI8HT x Offset & ++++ Enjoy"
+		},
+		{
+			"uid": "chill-hip-hop-from-90s",
+			"tags": [],
+			"publication_date": "2023-10-11T11:32:05+0000",
+			"title": "Old School Hip Hop",
+			"subtitle": "Chill Hip Hop from 90's",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d7891d9-8d8c-4c4f-b28a-94817fa431c0_Notorious+Big.jpg?auto=compress,format",
+				"alt": "Notorious Big",
+				"copyright": null,
+				"width": 1137,
+				"height": 1305,
+				"ratio": 0.871264367816092
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Chill Hip Hop from 90's"
+		},
+		{
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-10-09T09:39:37+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Billie Eilish.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
+				"size": "3550642"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "lhysterie",
@@ -772,6 +686,27 @@
 			"description": "live session flowery beard mawon x-track mag"
 		},
 		{
+			"uid": "15minutes-avec-jacques",
+			"tags": [
+				"interview",
+				"music"
+			],
+			"publication_date": "2022-04-18T07:45:52+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "jacques interview"
+		},
+		{
 			"uid": "interview-moment-amaru",
 			"tags": [
 				"interview",
@@ -811,6 +746,27 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Comment préparer un martini dry tout en larguant son amant"
+		},
+		{
+			"uid": "live-session-donzer-bleu-pisicne",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2022-04-09T09:45:00+0000",
+			"title": "DONZER",
+			"subtitle": "LIVE SESSION",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LoopDonzer.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/cf135690-59df-474a-a8c1-6b66588be31a_LoopDonzer.mp4",
+				"size": "5895339"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",
@@ -878,6 +834,30 @@
 			"author": null,
 			"internal_link": null,
 			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
+		},
+		{
+			"uid": "les-klon-hydre-pop-a-sept-tetes",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2021-09-11T21:19:37+0000",
+			"title": "LES KLON, HYDRE POP À SEPT TÊTES",
+			"subtitle": "",
+			"text_color": "green",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/982e2b91-ff6a-46cf-9885-3a21a3f2fe78_KLON_NouveauGenre.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "LES KLON, HYDRE POP À SEPT TÊTES"
 		},
 		{
 			"uid": "polycool",
