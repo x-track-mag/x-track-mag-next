@@ -54,6 +54,14 @@
 		{
 			"position": 12,
 			"uid": "la-muse--une-icone-feministe-"
+		},
+		{
+			"position": 13,
+			"uid": "15minutes-avec-jacques"
+		},
+		{
+			"position": 14,
+			"uid": "in-love"
 		}
 	],
 	"selected_reads": [
@@ -365,6 +373,47 @@
 			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
 		},
 		{
+			"uid": "15minutes-avec-jacques",
+			"tags": [
+				"interview",
+				"music"
+			],
+			"publication_date": "2022-04-18T07:45:52+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "jacques interview"
+		},
+		{
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-10-09T09:39:37+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Billie Eilish.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
+				"size": "3550642"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs"
+		},
+		{
 			"uid": "nice-day",
 			"tags": [
 				"music"
@@ -427,26 +476,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Chill Hip Hop from 90's"
-		},
-		{
-			"uid": "in-love",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-10-09T09:39:37+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Billie Eilish.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
-				"size": "3550642"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "lhysterie",
@@ -684,27 +713,6 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "live session flowery beard mawon x-track mag"
-		},
-		{
-			"uid": "15minutes-avec-jacques",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2022-04-18T07:45:52+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "jacques interview"
 		},
 		{
 			"uid": "interview-moment-amaru",
