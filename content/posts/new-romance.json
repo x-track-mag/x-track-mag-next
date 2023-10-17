@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-15T08:44:07+0000",
+	"publication_date": "2023-10-17T13:14:33+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Cover : Saya Gray",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Saya Gray - Amaria - Mahalia - Cleo sol - Leisure - Bakar x Summer Walker - Bekar x Myth Syzer - Amaria BB - Jungle x JNR Williams x 33,3  - Vagabon - 53 Thieves - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - show Dem Camps x Amaarae x Tems x DJ Sudi x No Nazar & +++ enjoy",
+					"text": "Benny Sings - Saya Gray - Amaria - Mahalia - Cleo sol - Leisure - Bakar x Summer Walker - Bekar x Myth Syzer - Amaria BB - Jungle x JNR Williams x 33,3  - Vagabon - 53 Thieves - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - show Dem Camps x Amaarae x Tems x DJ Sudi x No Nazar & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -68,12 +68,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bce69f21-59c5-418b-b577-9a16dd10d53b_Leisure.jpg?auto=compress,format&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": "Leisure",
+					"url": "https://images.prismic.io/x-track-mag/72c92cdd-c453-410d-9802-637a0ea44626_Benny+Sings.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Benny Sings",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ef9c4b2f-fa8a-436f-8421-68690c2ad92e_Vagabon.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
