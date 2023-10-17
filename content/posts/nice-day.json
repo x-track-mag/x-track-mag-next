@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-17T11:38:52+0000",
+	"publication_date": "2023-10-17T11:39:42+0000",
 	"title": "Nice Day",
 	"subtitle": "Old & New Mixed",
 	"text_color": "inverted",
@@ -71,12 +71,12 @@
 					"ratio": 1.6075353218210362
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4e1c6abb-c31e-4103-9269-488d77973237_Ariana-Grande-Dave-Meyers.jpg?auto=compress,format&rect=0,0,1180,1303&w=1024&h=1131",
-					"alt": "Ariana Grande",
+					"url": "https://images.prismic.io/x-track-mag/8297802a-5ca6-4800-a95c-8d810360abfd_Erykah+Badu.jpg?auto=compress,format&rect=0,0,1133,715&w=1024&h=646",
+					"alt": "Erykah Badu",
 					"copyright": null,
 					"width": 1024,
-					"height": 1131,
-					"ratio": 0.905393457117595
+					"height": 646,
+					"ratio": 1.585139318885449
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=compress,format&rect=0,0,1400,1400&w=1024&h=1024",
