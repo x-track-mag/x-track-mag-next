@@ -61,6 +61,10 @@
 		},
 		{
 			"position": 14,
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
+		},
+		{
+			"position": 15,
 			"uid": "in-love"
 		}
 	],
@@ -392,6 +396,29 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "jacques interview"
+		},
+		{
+			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2021-04-09T11:31:17+0000",
+			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
+			"subtitle": "",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
 			"uid": "in-love",
@@ -910,29 +937,6 @@
 			"author": "Manon Pelinq",
 			"internal_link": null,
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
-		},
-		{
-			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2021-04-09T11:31:17+0000",
-			"title": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c0d22060-e15a-4605-979c-04dee713233f_Copie+de+Sans+titre+%282%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
