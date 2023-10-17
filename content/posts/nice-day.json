@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-17T11:39:42+0000",
+	"publication_date": "2023-10-17T11:45:44+0000",
 	"title": "Nice Day",
 	"subtitle": "Old & New Mixed",
 	"text_color": "inverted",
@@ -50,12 +50,12 @@
 					"ratio": 0.8512053200332502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b43c2963-ac58-441b-a095-fc7e56d2a11a_PawPaw+Rod.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
-					"alt": "PawPaw Rod",
+					"url": "https://images.prismic.io/x-track-mag/d804a365-c346-43c7-b640-8152a1880ab6_HARE+SQUEAD.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "HARE SQUEAD",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
