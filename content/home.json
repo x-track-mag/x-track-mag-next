@@ -45,7 +45,7 @@
 		},
 		{
 			"position": 10,
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
 			"position": 11,
@@ -66,6 +66,18 @@
 		{
 			"position": 15,
 			"uid": "in-love"
+		},
+		{
+			"position": 16,
+			"uid": "lhysterie"
+		},
+		{
+			"position": 17,
+			"uid": "lavenir-de-la-mode-est-il-virtuel"
+		},
+		{
+			"position": 18,
+			"uid": "afropop"
 		}
 	],
 	"selected_reads": [
@@ -311,27 +323,27 @@
 			"description": "Dans cet épisode de Yayayayoutube, Fatima Antoinette se lance dans un live stream qui s'avère être plutôt torride."
 		},
 		{
-			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 			"tags": [
 				"article"
 			],
-			"publication_date": "2023-10-15T07:27:09+0000",
-			"title": "La Muse, une icône féministe ?  Volet 2",
-			"subtitle": "La femme artiste, d’objet à sujet créateur ",
-			"text_color": "orange",
+			"publication_date": "2023-10-17T12:04:45+0000",
+			"title": "La mode éthique, ou l’explosion de l’upcycling",
+			"subtitle": "",
+			"text_color": "white",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
+				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
 				"alt": null,
 				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
+				"width": 744,
+				"height": 1080,
+				"ratio": 0.6888888888888889
 			},
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassa",
+			"template": "5: 2 colonnes Titre + Image",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
+			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
 			"uid": "tropical",
@@ -441,6 +453,26 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
+			"uid": "lhysterie",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2023-10-08T09:54:23+0000",
+			"title": "DON'T CALL ME BABE",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": {
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
+			},
+			"template": "3: Image + Titre",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+		},
+		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
 			"tags": [
 				"article",
@@ -465,27 +497,24 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+			"uid": "afropop",
 			"tags": [
-				"article"
+				"music"
 			],
-			"publication_date": "2023-10-17T12:04:45+0000",
-			"title": "La mode éthique, ou l’explosion de l’upcycling",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 744,
-				"height": 1080,
-				"ratio": 0.6888888888888889
+			"publication_date": "2023-10-15T08:36:07+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Burna Boy. .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/2b8aad76-532f-4b07-94c8-59c60481c4d3_Burna+Boy.+.mp4",
+				"size": "4684746"
 			},
-			"video_loop": null,
-			"template": "5: 2 colonnes Titre + Image",
-			"author": "Camille Laurens",
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "La mode éthique, ou l’explosion de l’upcycling "
+			"description": "Burna Boy - Bayanni - Boj x Ajebutter22 - Tamera - Kida Kudz - Drake x Bad Bunny - Tems - Ayra Starr -  Tiwa Savage x Ayra Starr x Young Jonn - Asake - Choplife SoundSystem x Mr Eazi  - J Hus x Drake - Blanco - Tekno  - Muzi - EI8HT x Offset & ++++ Enjoy"
 		},
 		{
 			"uid": "nice-day",
@@ -511,24 +540,27 @@
 			"description": "Old & New Mixed"
 		},
 		{
-			"uid": "afropop",
+			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
 			"tags": [
-				"music"
+				"article"
 			],
-			"publication_date": "2023-10-15T08:36:07+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Burna Boy. .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/2b8aad76-532f-4b07-94c8-59c60481c4d3_Burna+Boy.+.mp4",
-				"size": "4684746"
+			"publication_date": "2023-10-15T07:27:09+0000",
+			"title": "La Muse, une icône féministe ?  Volet 2",
+			"subtitle": "La femme artiste, d’objet à sujet créateur ",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/033154ef-4250-4703-9535-f79036654398_image_6487327.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
 			},
+			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"author": "Aphelandra Siassa",
 			"internal_link": null,
-			"description": "Burna Boy - Bayanni - Boj x Ajebutter22 - Tamera - Kida Kudz - Drake x Bad Bunny - Tems - Ayra Starr -  Tiwa Savage x Ayra Starr x Young Jonn - Asake - Choplife SoundSystem x Mr Eazi  - J Hus x Drake - Blanco - Tekno  - Muzi - EI8HT x Offset & ++++ Enjoy"
+			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
 			"uid": "chill-hip-hop-from-90s",
@@ -550,26 +582,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Chill Hip Hop from 90's"
-		},
-		{
-			"uid": "lhysterie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2023-10-08T09:54:23+0000",
-			"title": "DON'T CALL ME BABE",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
-			},
-			"template": "3: Image + Titre",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "x-track-studio---biaziouka",
