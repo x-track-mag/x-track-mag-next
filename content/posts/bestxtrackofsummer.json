@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-15T08:41:28+0000",
+	"publication_date": "2023-10-21T09:49:11+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Jamila Woods",
+	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Kali Uchis",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Jamila Woods.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c491df80-49f1-4517-9eb3-663ea2ab539b_Jamila+Woods.mp4",
-		"size": "2551130"
+		"name": "Kali Uchis.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/01df8bc7-18de-4898-a7ea-1f046bdcbb86_Kali+Uchis.mp4",
+		"size": "4125135"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jamila Woods x Saba - Jorja Smith - Muzi - Bayanni - Boj x Ajebutter22 - Offset x Don Toliver -  Naomi Sharon - Nasty C - Goots Street Park x Olive Jones & +++ Enjoy",
+					"text": "Benny Sings - Muzi x Madala Kunene - Chenayder x Essosa - Bad Bunny x Young Miko - Janelle Monae x Latto x Quavo - Kali Uchis - Mustafa - drake & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/98fac7db-436e-4356-bb15-a4e1ba628630_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1347&w=1024&h=1277",
-					"alt": "Naomi Sharon",
+					"url": "https://images.prismic.io/x-track-mag/1b950c1d-cbbc-4e0c-a491-58eeedc503ba_Chenayder.jpg?auto=compress,format&rect=0,0,1080,1347&w=1024&h=1277",
+					"alt": "Chenayder",
 					"copyright": null,
 					"width": 1024,
 					"height": 1277,
 					"ratio": 0.8018794048551292
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/15b179e9-8bbf-4407-9c9b-089f445258d8_Muzi+Portrait.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/bb0f1c88-1385-42c1-8413-bfde522c69ca_Benny+Sings.jpg?auto=compress,format&rect=0,0,1080,904&w=1024&h=857",
+					"alt": "Benny Sings",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 857,
+					"ratio": 1.1948658109684946
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/d4f93cbc-d070-4be1-80c6-ff690dd98e5d_Younk+Miko.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Younk Miko",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -60,24 +60,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/623b3f74-c690-4227-9584-64168cf05b65_Gotts+Street+Park.jpg?auto=compress,format&rect=0,0,1079,720&w=1024&h=683",
-					"alt": "Gotts Street Park",
+					"url": "https://images.prismic.io/x-track-mag/72b8d5d9-58bb-44a1-adbf-49a57cfa65b6_Muzi.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Muzi",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/af134fb9-1cc7-4293-a02b-0ace465fcf06_janelle-monae.jpg?auto=compress,format&rect=0,0,1580,1054&w=1024&h=683",
+					"alt": "Janelle Monae",
 					"copyright": null,
 					"width": 1024,
 					"height": 683,
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f7c2d6d2-9f3a-41c1-b2f2-f41e26fb7607_Olive+Jones.jpg?auto=compress,format&rect=0,0,1079,607&w=1024&h=576",
-					"alt": "Olive Jones",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/680ea21b-7a9b-4018-a029-675a2baed820_Offset.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Offset",
+					"url": "https://images.prismic.io/x-track-mag/14012c2c-caee-406c-9e68-30d6004bbd97_Bad+Bunny.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Bad Bunny",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -93,7 +93,7 @@
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=0a4147b4cb164512",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=de79b7bcf52a480f",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
