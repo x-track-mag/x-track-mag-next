@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-15T08:38:27+0000",
+	"publication_date": "2023-10-22T10:22:59+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Enny",
-	"text_color": "green",
+	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Enny.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/b76da369-4ab0-4171-b2a9-f920a5910e06_Enny.mp4",
-		"size": "7994577"
+		"name": "Janelle monae.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ba21c438-4111-4b43-80e9-bed62396e2f7_Janelle+monae.mp4",
+		"size": "5071966"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Frank Ekwa - Feiertag x Oshun x Niambi Sala - Burna Boy x 21 Savage - Jim Legxacy - Drake x Bad Bunny - Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon  & +++ Enjoy",
+					"text": "Frank Ekwa - Janelle Monae x Latto x Quavo - Bad Bunny x Young Miko - Burna Boy x 21 Savage - Feiertag x Oshun x Niambi Sala - Jim Legxacy - Drake x Bad Bunny - Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,12 +31,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/7284a2d4-efca-415f-b3ec-128f6614170e_Jorja-Smith.jpg?auto=compress,format&rect=0,0,2000,1270&w=1024&h=650",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 650,
-					"ratio": 1.5753846153846154
+					"height": 740,
+					"ratio": 1.3837837837837839
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/3d863737-8cdd-45d9-b1ef-0bbf0885b90e_Burna+Boy.++.jpg?auto=compress,format&rect=0,0,768,768&w=1024&h=1024",
@@ -47,12 +47,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/62830492-f0af-401b-8e74-a7c2fe1fdc19_Cleo+Sol.jpg?auto=compress,format&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Cleo Sol",
+					"url": "https://images.prismic.io/x-track-mag/9905b115-8be9-4f46-9a1f-fb35b0e31b47_Latto.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Latto",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -60,24 +60,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f9f25633-9f90-49f0-b8a4-32ebdab99604_Oshun+.jpg?auto=compress,format&rect=0,0,1454,966&w=1024&h=680",
-					"alt": "Oshun",
+					"url": "https://images.prismic.io/x-track-mag/892f33cd-cafe-4188-87e7-67cc13bd2132_Bad+Bunny.jpeg?auto=compress,format&rect=0,0,1634,2047&w=1024&h=1283",
+					"alt": "Bad Bunny",
 					"copyright": null,
 					"width": 1024,
-					"height": 680,
-					"ratio": 1.5058823529411764
+					"height": 1283,
+					"ratio": 0.7981293842556508
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/448148fa-3b18-4f59-a829-8f577124f6a4_Drake.jpg?auto=compress,format&rect=0,0,1080,1065&w=1024&h=1010",
+					"url": "https://images.prismic.io/x-track-mag/d4f93cbc-d070-4be1-80c6-ff690dd98e5d_Younk+Miko.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Younk Miko",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/67fbdae8-ea29-4b3c-9346-5782e94f3f17_Drake.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
 					"alt": "Drake",
-					"copyright": null,
-					"width": 1024,
-					"height": 1010,
-					"ratio": 1.0138613861386139
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ef9c4b2f-fa8a-436f-8421-68690c2ad92e_Vagabon.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Vagabon",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,

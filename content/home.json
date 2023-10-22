@@ -125,9 +125,9 @@
 			"title": "Feel Good",
 			"image": null,
 			"video_loop": {
-				"name": "Enny.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/b76da369-4ab0-4171-b2a9-f920a5910e06_Enny.mp4",
-				"size": "7994577"
+				"name": "Janelle monae.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ba21c438-4111-4b43-80e9-bed62396e2f7_Janelle+monae.mp4",
+				"size": "5071966"
 			}
 		},
 		{
@@ -239,15 +239,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-10-15T08:38:27+0000",
+			"publication_date": "2023-10-22T10:22:59+0000",
 			"title": "Feel Good",
 			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Enny",
-			"text_color": "green",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Enny.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/b76da369-4ab0-4171-b2a9-f920a5910e06_Enny.mp4",
-				"size": "7994577"
+				"name": "Janelle monae.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ba21c438-4111-4b43-80e9-bed62396e2f7_Janelle+monae.mp4",
+				"size": "5071966"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
