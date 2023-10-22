@@ -4,8 +4,8 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2021-01-18T16:19:00+0000",
-	"title": "Nola Cherri",
+	"publication_date": "2023-10-22T10:26:32+0000",
+	"title": "Nola Cherri ",
 	"subtitle": "Live Session",
 	"text_color": "white",
 	"image": null,
@@ -20,7 +20,7 @@
 	"sections": [
 		{
 			"template": "section-video-launcher",
-			"display_article_title": null,
+			"display_article_title": true,
 			"text": [
 				{
 					"type": "paragraph",
@@ -71,9 +71,9 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/w83pC4rGGFM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": null,
-			"disposition": null
+			"disposition": "Texte | Video"
 		}
 	],
 	"description": "Live session - Nola Cherri- French music"
