@@ -615,6 +615,29 @@
 			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
+			"uid": "nice-day",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-10-23T19:49:28+0000",
+			"title": "Nice Day",
+			"subtitle": "Happy Crossover",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+				"alt": "Sudan Archives",
+				"copyright": null,
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Happy Crossover"
+		},
+		{
 			"uid": "nola-cherri",
 			"tags": [
 				"music",
@@ -634,29 +657,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Live session - Nola Cherri- French music"
-		},
-		{
-			"uid": "nice-day",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-10-17T11:45:44+0000",
-			"title": "Nice Day",
-			"subtitle": "Old & New Mixed",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-				"alt": "Sudan Archives",
-				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Old & New Mixed"
 		},
 		{
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
