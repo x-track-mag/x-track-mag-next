@@ -485,29 +485,6 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "nice-day",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-10-23T19:49:28+0000",
-			"title": "Nice Day",
-			"subtitle": "Happy Crossover",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-				"alt": "Sudan Archives",
-				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Happy Crossover"
-		},
-		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
@@ -570,13 +547,36 @@
 			"description": "Chill Hip Hop from 90's"
 		},
 		{
+			"uid": "nice-day",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-10-23T19:49:28+0000",
+			"title": "Nice Day",
+			"subtitle": "Happy Crossover",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+				"alt": "Sudan Archives",
+				"copyright": null,
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Happy Crossover"
+		},
+		{
 			"uid": "live-session-donzer-bleu-pisicne",
 			"tags": [
 				"music",
 				"live session"
 			],
-			"publication_date": "2022-04-09T09:45:00+0000",
-			"title": "DONZER",
+			"publication_date": "2023-10-24T15:03:04+0000",
+			"title": "DONZER ",
 			"subtitle": "LIVE SESSION",
 			"text_color": "inverted",
 			"image": null,
