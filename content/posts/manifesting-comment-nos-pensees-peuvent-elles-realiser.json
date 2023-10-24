@@ -1,8 +1,8 @@
 {
 	"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 	"tags": [],
-	"publication_date": "2021-03-18T18:01:34+0000",
-	"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? ",
+	"publication_date": "2023-10-24T15:03:24+0000",
+	"title": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves?  ",
 	"subtitle": "",
 	"text_color": "white",
 	"image": {
@@ -154,7 +154,7 @@
 		},
 		{
 			"template": "section-video-launcher",
-			"display_article_title": null,
+			"display_article_title": true,
 			"text": [
 				{
 					"type": "paragraph",
@@ -179,7 +179,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/OlV26ouCn5w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/fd79e566-3c52-477e-b945-3dab5e102e75_Capture+d%E2%80%99e%CC%81cran+2021-03-18+a%CC%80+14.06.08.png?auto=compress,format",
 				"alt": null,
@@ -188,7 +188,7 @@
 				"height": 1026,
 				"ratio": 1.8167641325536061
 			},
-			"disposition": null
+			"disposition": "Texte | Video"
 		},
 		{
 			"template": "section-gallery",
