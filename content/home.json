@@ -65,34 +65,26 @@
 		},
 		{
 			"position": 15,
-			"uid": "in-love"
+			"uid": "afropop"
 		},
 		{
 			"position": 16,
-			"uid": "lhysterie"
-		},
-		{
-			"position": 17,
 			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
 			"position": 18,
-			"uid": "afropop"
+			"uid": "lhysterie"
 		},
 		{
 			"position": 19,
-			"uid": "2023-is-the-year"
-		},
-		{
-			"position": 20,
 			"uid": "live-session-badbiche"
 		},
 		{
-			"position": 21,
+			"position": 20,
 			"uid": "chill-hip-hop-from-90s"
 		},
 		{
-			"position": 22,
+			"position": 21,
 			"uid": "live-session-donzer-bleu-pisicne"
 		}
 	],
@@ -449,44 +441,24 @@
 			"description": "Le gaming : nouveau terrain de jeu pour l’industrie de la mode ?"
 		},
 		{
-			"uid": "in-love",
+			"uid": "afropop",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-10-09T09:39:37+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
-			"text_color": "green",
+			"publication_date": "2023-10-15T08:36:07+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Billie Eilish.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
-				"size": "3550642"
+				"name": "Burna Boy. .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/2b8aad76-532f-4b07-94c8-59c60481c4d3_Burna+Boy.+.mp4",
+				"size": "4684746"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
-		},
-		{
-			"uid": "lhysterie",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2023-10-08T09:54:23+0000",
-			"title": "DON'T CALL ME BABE",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
-				"size": "2231626"
-			},
-			"template": "3: Image + Titre",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+			"description": "Burna Boy - Bayanni - Boj x Ajebutter22 - Tamera - Kida Kudz - Drake x Bad Bunny - Tems - Ayra Starr -  Tiwa Savage x Ayra Starr x Young Jonn - Asake - Choplife SoundSystem x Mr Eazi  - J Hus x Drake - Blanco - Tekno  - Muzi - EI8HT x Offset & ++++ Enjoy"
 		},
 		{
 			"uid": "lavenir-de-la-mode-est-il-virtuel",
@@ -513,43 +485,47 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "afropop",
+			"uid": "nice-day",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-10-15T08:36:07+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
+			"publication_date": "2023-10-23T19:49:28+0000",
+			"title": "Nice Day",
+			"subtitle": "Happy Crossover",
 			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Burna Boy. .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/2b8aad76-532f-4b07-94c8-59c60481c4d3_Burna+Boy.+.mp4",
-				"size": "4684746"
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
+				"alt": "Sudan Archives",
+				"copyright": null,
+				"width": 3000,
+				"height": 3000,
+				"ratio": 1
 			},
+			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Burna Boy - Bayanni - Boj x Ajebutter22 - Tamera - Kida Kudz - Drake x Bad Bunny - Tems - Ayra Starr -  Tiwa Savage x Ayra Starr x Young Jonn - Asake - Choplife SoundSystem x Mr Eazi  - J Hus x Drake - Blanco - Tekno  - Muzi - EI8HT x Offset & ++++ Enjoy"
+			"description": "Happy Crossover"
 		},
 		{
-			"uid": "2023-is-the-year",
+			"uid": "lhysterie",
 			"tags": [
 				"article"
 			],
-			"publication_date": "2022-11-27T16:13:08+0000",
-			"title": "2023 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"publication_date": "2023-10-08T09:54:23+0000",
+			"title": "DON'T CALL ME BABE",
 			"subtitle": "",
 			"text_color": "white",
 			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"video_loop": {
+				"name": "DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/72d494d7-a826-4d68-9f17-83aea7bef9bf_DONTCALLMEFBABEMAGAZINECULTUREFEMINISME.mov",
+				"size": "2231626"
 			},
-			"description": "2023 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
+			"template": "3: Image + Titre",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
 		},
 		{
 			"uid": "live-session-badbiche",
@@ -615,29 +591,6 @@
 			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
-			"uid": "nice-day",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-10-23T19:49:28+0000",
-			"title": "Nice Day",
-			"subtitle": "Happy Crossover",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-				"alt": "Sudan Archives",
-				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Happy Crossover"
-		},
-		{
 			"uid": "nola-cherri",
 			"tags": [
 				"music",
@@ -680,6 +633,26 @@
 			"author": "Aphelandra Siassa",
 			"internal_link": null,
 			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
+		},
+		{
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-10-09T09:39:37+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Billie Eilish.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
+				"size": "3550642"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "x-track-studio---biaziouka",
@@ -812,6 +785,25 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
+		},
+		{
+			"uid": "2023-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2022-11-27T16:13:08+0000",
+			"title": "2023 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": "2023 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		},
 		{
 			"uid": "boys-noize-resonne-toujours-plus-fort",
