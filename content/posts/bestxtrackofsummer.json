@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-27T19:36:51+0000",
+	"publication_date": "2023-10-27T19:38:08+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Kali Uchis",
 	"text_color": "inverted",
@@ -31,12 +31,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/6edb7ef3-7e39-43d3-8a68-6459711ef4d6_Bloody+Civilian.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Bloody Civilian",
+					"url": "https://images.prismic.io/x-track-mag/98fac7db-436e-4356-bb15-a4e1ba628630_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1347&w=1024&h=1277",
+					"alt": "Naomi Sharon",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1277,
+					"ratio": 0.8018794048551292
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/c0cf9a47-e231-45cf-9833-b6fb736ab8db_Drake+x+Adonis.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
@@ -47,8 +47,8 @@
 					"ratio": 1.501466275659824
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5a3944b6-6619-4af4-b78f-7e5d096a887d_Jamila+Woods.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jamila Woods",
+					"url": "https://images.prismic.io/x-track-mag/6edb7ef3-7e39-43d3-8a68-6459711ef4d6_Bloody+Civilian.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Bloody Civilian",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
