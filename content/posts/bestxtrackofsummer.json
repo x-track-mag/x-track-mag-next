@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-27T19:43:57+0000",
+	"publication_date": "2023-10-28T01:57:19+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Bad Bunny",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Kirk Diamond x Finn x Tiishy - Bad Bunny - Naomi Sharon - Odumodublvck x Bloody Civilian x Wale - OLV x Rad Cartier - Jyellowl x Harrysong - Rema - Jamila Woods x Duendita - Blaqbonez x Victony - Drake - Adonis - Jorja Smith x Lia Iké & +++ Enjoy",
+					"text": "Kirk Diamond x Finn x Tiishy - Bad Bunny - Naomi Sharon - Odumodublvck x Bloody Civilian x Wale - OLV x Rad Cartier - Jyellowl x Harrysong - Rema - Jamila Woods x Duendita - Blaqbonez x Victony - Jorja Smith x Lia Iké & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,12 +39,12 @@
 					"ratio": 0.8018794048551292
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c0cf9a47-e231-45cf-9833-b6fb736ab8db_Drake+x+Adonis.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
-					"alt": "Drake x Adonis",
+					"url": "https://images.prismic.io/x-track-mag/12d66270-057f-410c-a789-c99b92db1ac6_Rema.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Rema",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/6edb7ef3-7e39-43d3-8a68-6459711ef4d6_Bloody+Civilian.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -76,12 +76,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/12d66270-057f-410c-a789-c99b92db1ac6_Rema.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Rema",
+					"url": "https://images.prismic.io/x-track-mag/dd66fea7-11fd-402d-8b78-b810d08b6a42_Kirk+Diamond.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Kirk Diamond",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
