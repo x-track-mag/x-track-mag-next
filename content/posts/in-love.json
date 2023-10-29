@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-09T09:39:37+0000",
+	"publication_date": "2023-10-29T09:27:20+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
 	"text_color": "green",
@@ -32,7 +32,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Feu Chatterton - Partynextdoor - C.S. Armstrong x K.A.A.N. - Angelo de Augustine - Yuna - Konyikeh - Thomas Caruso Aragona - Billie Eilish  Courtesy x Erika de Casier - August Rosenbaum - James Blake - Galimatias - Cigarettes After Sex - Rum.Gold - Iyamah - Waterbaby - Waxx x Pomme - Jenevieve - Amaria - Khruangbin - Common Saints - Rosalia - Gabi Hartmann - Rhye - Oklou - Chiiild - Arlo Parks - Yehra - Mustafa - Gabriels - Sault - Diziz x Yseult - Mounika x Ocie Eliot - The O'My's - NxWorries x Anderson Paak x Knxwledge - Men I Trust - Celeste x Jeshi - Kyle Dion & +++ ",
+					"text": "Feu Chatterton - Partynextdoor - Drake - Angelo de Augustine - Yuna - Konyikeh - Thomas Caruso Aragona - Mustafa - Billie Eilish  - Courtesy x Erika de Casier x August Rosenbaum - James Blake - Galimatias - Cigarettes After Sex - Rum.Gold - Iyamah - Waterbaby - Waxx x Pomme - Jenevieve - Amaria - Khruangbin - Common Saints - Rosalia - Gabi Hartmann - Rhye - Oklou - Chiiild - Arlo Parks - Yehra - Gabriels - Sault - Diziz x Yseult - Mounika x Ocie Eliot - The O'My's - NxWorries x Anderson Paak x Knxwledge - Men I Trust - Celeste x Jeshi - Kyle Dion & +++ ",
 					"spans": []
 				}
 			]
@@ -70,24 +70,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/815ff4da-eba6-47e3-a6c2-dae9a61a9770_Oklou.jpg?auto=compress,format&rect=0,0,2560,2560&w=1024&h=1024",
-					"alt": "Oklou",
+					"url": "https://images.prismic.io/x-track-mag/96f3a0be-3e92-4b7a-8f13-7504cbc1933f_Partynextdoor.jpg?auto=compress,format&rect=0,0,1363,1363&w=1024&h=1024",
+					"alt": "Partynextdoor.",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/516afc32-ed90-45be-b02e-4296372d003c_Gabriels.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Gabriels",
+					"url": "https://images.prismic.io/x-track-mag/b03afd6d-76bc-4f6c-9992-eef124dc8d2e_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e027cb4b-4d86-473d-a7c2-763284319048_Amaria.+.jpg?auto=compress,format&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Amaria",
+					"url": "https://images.prismic.io/x-track-mag/67fbdae8-ea29-4b3c-9346-5782e94f3f17_Drake.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Drake",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
