@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-11-05T10:17:55+0000",
+	"publication_date": "2023-11-12T17:21:48+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Facesoul",
+	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Tierra Whack",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Facesoul.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9b405584-c73a-4478-ae5e-b4406dd0c479_Facesoul.mp4",
-		"size": "3855181"
+		"name": "Tierra Whack.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/d2eaefd8-af8b-4196-9195-20ba132b4561_Tierra+Whack.mp4",
+		"size": "12243820"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Facesoul  - Maandy - Naomi Sharon x Omah Lay - Rema- Chris Brown x Davido x Lojay - Masego x Wale x Enny - Sampha - HXRX x Chromonicci - Searows & +++ Enjoy",
+					"text": "Protoje x Zion I Kings x Lila Iké - Juls x Kota the Friend - Baaba J - DijahSB - Naomi Sharon - Chris Brown x Byron Messia - Arlo Parks - Enny x Smino - Tierra Whack - Black Sherif - Yaya Bey - Mahalia  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/71c2abd0-d40d-4a27-8c88-a3c71e3138f1_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1024,1278&w=1024&h=1278",
-					"alt": "Naomi Sharon",
+					"url": "https://images.prismic.io/x-track-mag/4eddb836-8d38-461b-a689-e96475a5d3e4_Enny.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/12d66270-057f-410c-a789-c99b92db1ac6_Rema.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Rema",
+					"url": "https://images.prismic.io/x-track-mag/30726c5d-6ca9-4148-bab1-f822044ee879_Protoje.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Protoje",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2e2cddc7-f59a-46f9-ba8d-141dd64fa74a_Maandy+.jpg?auto=compress,format&rect=0,0,1080,1066&w=1024&h=1011",
-					"alt": "Maandy",
+					"url": "https://images.prismic.io/x-track-mag/01a4be9e-4210-46bf-9e91-ea1400897e25_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 1011,
-					"ratio": 1.012858555885262
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/abb97925-09f9-4af5-a3d2-2d536fa7b83b_Chris+Brown.jpg?auto=compress,format&rect=0,0,1080,987&w=1024&h=936",
-					"alt": "Chris Brown",
-					"copyright": null,
-					"width": 1024,
-					"height": 936,
-					"ratio": 1.0940170940170941
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/2970b514-8c6d-4dd8-b51d-28f0dc390d50_Enny.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/957925d6-1f91-4ea3-88bd-3a564aa507bc_Mahalia.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e56f1940-238b-43bb-9fb2-7657b0335c5f_Sampha.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Sampha",
+					"url": "https://images.prismic.io/x-track-mag/03ed9abf-bbcb-4261-bb9c-af7e15dc200d_Chris+Brown.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Chris Brown",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/82e5a9e8-5fd9-4102-a036-ea57be225a89_Yaya+Bey.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Yaya Bey",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
