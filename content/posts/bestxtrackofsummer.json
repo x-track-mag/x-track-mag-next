@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-11-12T17:21:48+0000",
+	"publication_date": "2023-11-18T09:55:01+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Tierra Whack",
+	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Teni",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Tierra Whack.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/d2eaefd8-af8b-4196-9195-20ba132b4561_Tierra+Whack.mp4",
-		"size": "12243820"
+		"name": "Teni.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/039fe3ca-ffb7-4df2-9ca1-3dd7b6ea2140_Teni.mp4",
+		"size": "7925313"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x Zion I Kings x Lila Iké - Juls x Kota the Friend - Baaba J - DijahSB - Naomi Sharon - Chris Brown x Byron Messia - Arlo Parks - Enny x Smino - Tierra Whack - Black Sherif - Yaya Bey - Mahalia  & +++ Enjoy",
+					"text": "Teni x Odumodublvck - Boj x Ajebutter22 - Esty - Rema -  Chaton - Joe Yorke - Stacy N.K.R. -  Eyedress x The Marias - Emotional Orange x Nonso mamdi - Beirut & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4eddb836-8d38-461b-a689-e96475a5d3e4_Enny.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Enny",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/30726c5d-6ca9-4148-bab1-f822044ee879_Protoje.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Protoje",
+					"url": "https://images.prismic.io/x-track-mag/af325274-3a82-4648-a8f4-279f32378cc9_The+Marias.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "The Marias",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/01a4be9e-4210-46bf-9e91-ea1400897e25_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/e3aa62af-3fc2-4690-b43e-22732595d613_Odumodublvck.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Odumodublvck",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/079bf9c2-4d46-4a03-b06d-52ad745d94df_Stacy+N.K.R..jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Stacy N.K.R.",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/957925d6-1f91-4ea3-88bd-3a564aa507bc_Mahalia.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/dbb7d61e-cacd-4bf0-9317-76fb44475d94_Boj.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Boj",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/03ed9abf-bbcb-4261-bb9c-af7e15dc200d_Chris+Brown.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Chris Brown",
+					"url": "https://images.prismic.io/x-track-mag/94b1c8d2-06fb-4e22-a6bc-6da6d444636a_Esty.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Esty",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/82e5a9e8-5fd9-4102-a036-ea57be225a89_Yaya+Bey.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Yaya Bey",
+					"url": "https://images.prismic.io/x-track-mag/12d66270-057f-410c-a789-c99b92db1ac6_Rema.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Rema",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
