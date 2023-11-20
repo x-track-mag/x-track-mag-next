@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-17T13:14:33+0000",
+	"publication_date": "2023-11-20T18:32:23+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Cover : Saya Gray",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Benny Sings - Saya Gray - Amaria - Mahalia - Cleo sol - Leisure - Bakar x Summer Walker - Bekar x Myth Syzer - Amaria BB - Jungle x JNR Williams x 33,3  - Vagabon - 53 Thieves - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - show Dem Camps x Amaarae x Tems x DJ Sudi x No Nazar & +++ enjoy",
+					"text": "Saya Gray - Amaria - Facesoul - Cleo sol - Leisure - Bakar x Summer Walker - Amaria BB - Jamila Woods x Saba - Chenayder x Essosa - Aka x Nasty C - Chris Brown x Davido x Lojay - Jungle x JNR Williams x 33,3  - Naomi sharon - Bekar x Myth Syzer - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - show Dem Camps x Amaarae x Tems x DJ Sudi x No Nazar & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -47,12 +47,12 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8265c654-39e2-4975-9ddc-6dc830888d99_Mahalia.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
+					"alt": "Amaria BB",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -68,20 +68,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/72c92cdd-c453-410d-9802-637a0ea44626_Benny+Sings.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Benny Sings",
+					"url": "https://images.prismic.io/x-track-mag/bbbea3f2-74af-4ffd-817f-8414d2ba41f4_Facesoul.jpg?auto=compress,format&rect=0,0,1373,2047&w=1024&h=1527",
+					"alt": "Facesoul",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1527,
+					"ratio": 0.6705959397511461
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ef9c4b2f-fa8a-436f-8421-68690c2ad92e_Vagabon.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Vagabon",
+					"url": "https://images.prismic.io/x-track-mag/71c2abd0-d40d-4a27-8c88-a3c71e3138f1_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1024,1278&w=1024&h=1278",
+					"alt": "Naomi Sharon",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1278,
+					"ratio": 0.8012519561815337
 				}
 			]
 		},
