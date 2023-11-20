@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-22T10:28:06+0000",
+	"publication_date": "2023-11-20T09:22:56+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Janelle Monae",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Frank Ekwa - Janelle Monae x Latto x Quavo - Bad Bunny x Young Miko - Burna Boy x 21 Savage - Feiertag x Oshun x Niambi Sala - Jim Legxacy - Drake x Bad Bunny - Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon  & +++ Enjoy",
+					"text": "Frank Ekwa - Kirk Diamond x Finn x Tiishy - Teni x Odumodublvck - Juls x Kota the Friend - Janelle Monae x Latto x Quavo - Bad Bunny x Young Miko - Esty - Burna Boy x 21 Savage - Jim Legxacy - Drake x Bad Bunny - Tems - Maandy - Odumodublvck x Bloody Civilian x Wale - Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon - Naomi Sharon   & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -47,12 +47,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9905b115-8be9-4f46-9a1f-fb35b0e31b47_Latto.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Latto",
+					"url": "https://images.prismic.io/x-track-mag/0733fafc-234a-4a22-a163-b71410956879_Teni+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Teni",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -68,12 +68,12 @@
 					"ratio": 0.7981293842556508
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d4f93cbc-d070-4be1-80c6-ff690dd98e5d_Younk+Miko.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Younk Miko",
+					"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=compress,format&rect=0,0,2240,1260&w=1024&h=576",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/67fbdae8-ea29-4b3c-9346-5782e94f3f17_Drake.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
