@@ -143,15 +143,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-11-18T09:55:01+0000",
+			"publication_date": "2023-11-26T10:12:01+0000",
 			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine         -       Cover : Teni",
+			"subtitle": "Les meilleurs sons de la semaine         -       Cover : Bjork & Rosalia",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Teni.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/039fe3ca-ffb7-4df2-9ca1-3dd7b6ea2140_Teni.mp4",
-				"size": "7925313"
+				"name": "Bjork x Rosalia.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/746b8812-1191-4f51-98bf-149737006b1b_Bjork+x+Rosalia.mp4",
+				"size": "1206333"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",

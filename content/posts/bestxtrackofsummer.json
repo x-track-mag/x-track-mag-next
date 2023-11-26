@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-11-18T09:55:01+0000",
+	"publication_date": "2023-11-26T10:12:01+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Teni",
+	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Bjork & Rosalia",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Teni.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/039fe3ca-ffb7-4df2-9ca1-3dd7b6ea2140_Teni.mp4",
-		"size": "7925313"
+		"name": "Bjork x Rosalia.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/746b8812-1191-4f51-98bf-149737006b1b_Bjork+x+Rosalia.mp4",
+		"size": "1206333"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Teni x Odumodublvck - Boj x Ajebutter22 - Esty - Rema -  Chaton - Joe Yorke - Stacy N.K.R. -  Eyedress x The Marias - Emotional Orange x Nonso mamdi - Beirut & +++ Enjoy",
+					"text": "Facesoul - Bjork x Rosalia - Khalia - Teni - Protoje x Zion I Kings x Koffee - YellowStraps - Mystic Marle- Joe Yorke x Solo Banton - Jelly Cristal - Blick Bassy & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/af325274-3a82-4648-a8f4-279f32378cc9_The+Marias.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "The Marias",
+					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Mystic Marley",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e3aa62af-3fc2-4690-b43e-22732595d613_Odumodublvck.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Odumodublvck",
+					"url": "https://images.prismic.io/x-track-mag/47d5d20c-3d9b-484e-870d-08486466374b_Facesoul.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Facesoul",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/079bf9c2-4d46-4a03-b06d-52ad745d94df_Stacy+N.K.R..jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Stacy N.K.R.",
+					"url": "https://images.prismic.io/x-track-mag/1312df1f-9c07-4d20-938a-e1d4a37052b3_Teni.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Teni",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/dbb7d61e-cacd-4bf0-9317-76fb44475d94_Boj.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Boj",
+					"url": "https://images.prismic.io/x-track-mag/2d375bfc-87f7-4211-8397-3185bced3c57_Khalia.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Khalia",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/94b1c8d2-06fb-4e22-a6bc-6da6d444636a_Esty.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Esty",
+					"url": "https://images.prismic.io/x-track-mag/cc593540-df6c-4192-a107-11062567aaff_YellowStraps.jpg?auto=compress,format&rect=0,0,1000,666&w=1024&h=682",
+					"alt": "YellowStraps",
+					"copyright": null,
+					"width": 1024,
+					"height": 682,
+					"ratio": 1.501466275659824
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
+					"alt": "Koffee",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/12d66270-057f-410c-a789-c99b92db1ac6_Rema.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Rema",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
 				}
 			]
 		},
