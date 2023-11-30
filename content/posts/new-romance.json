@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-11-20T18:32:23+0000",
+	"publication_date": "2023-11-30T12:08:23+0000",
 	"title": "New Romance",
-	"subtitle": "100% Chill Vibes - Cover : Saya Gray",
+	"subtitle": "100% Chill Vibes - Cover : Jamila Woods",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Saya Gray.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c01d69da-6a5c-42ea-acbe-c38064931962_Saya+Gray.mp4",
-		"size": "602420"
+		"name": "Jamila Woods.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c491df80-49f1-4517-9eb3-663ea2ab539b_Jamila+Woods.mp4",
+		"size": "2551130"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Saya Gray - Amaria - Facesoul - Cleo sol - Leisure - Bakar x Summer Walker - Amaria BB - Jamila Woods x Saba - Chenayder x Essosa - Aka x Nasty C - Chris Brown x Davido x Lojay - Jungle x JNR Williams x 33,3  - Naomi sharon - Bekar x Myth Syzer - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - show Dem Camps x Amaarae x Tems x DJ Sudi x No Nazar & +++ enjoy",
+					"text": "Enny x Smino - Facesoul - Baaba J Teni - Chaton - Cleo sol - Leisure - Bakar x Summer Walker - Amaria BB - Jamila Woods x Saba - Chenayder x Essosa - Aka x Nasty C - Jungle x JNR Williams x 33,3  - Naomi sharon - Bekar x Myth Syzer - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - Show Dem Camps x Amaarae x Tems x DJ Sudi x No Nazar - Stormzy x Tendai x Ayra Starr & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -31,20 +31,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b03afd6d-76bc-4f6c-9992-eef124dc8d2e_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amaria",
+					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
+					"alt": "Enny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 740,
+					"ratio": 1.3837837837837839
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f22c447d-763b-49bc-901b-5a54cc917667_Bakar.+jpg.jpg?auto=compress,format&rect=0,0,1998,1124&w=1024&h=576",
-					"alt": "Bakar",
+					"url": "https://images.prismic.io/x-track-mag/fc664c61-b9be-4f22-a293-47fe09355b0d_Facesoul+.jpg?auto=compress,format&rect=0,0,1960,1962&w=1024&h=1025",
+					"alt": "Facesoul ",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/04b69712-6add-414e-a592-02bfbfea9f5a_Cleo+Sol+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Cleo Sol",
+					"url": "https://images.prismic.io/x-track-mag/f22c447d-763b-49bc-901b-5a54cc917667_Bakar.+jpg.jpg?auto=compress,format&rect=0,0,1998,1124&w=1024&h=576",
+					"alt": "Bakar",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/95379784-5ed5-414a-a929-8788bbd8993c_Baaba+J.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Baaba J",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bbbea3f2-74af-4ffd-817f-8414d2ba41f4_Facesoul.jpg?auto=compress,format&rect=0,0,1373,2047&w=1024&h=1527",
-					"alt": "Facesoul",
+					"url": "https://images.prismic.io/x-track-mag/3fe4f417-0ee5-4b0c-ba69-4157cb46826b_Myth+Syzer.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Myth Syzer",
 					"copyright": null,
 					"width": 1024,
-					"height": 1527,
-					"ratio": 0.6705959397511461
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/71c2abd0-d40d-4a27-8c88-a3c71e3138f1_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1024,1278&w=1024&h=1278",
-					"alt": "Naomi Sharon",
-					"copyright": null,
-					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
