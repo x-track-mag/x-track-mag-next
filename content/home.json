@@ -9,7 +9,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestxtrackofsummer"
+			"uid": "bestxtrackof2023"
 		},
 		{
 			"position": 2,
@@ -139,24 +139,24 @@
 	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "bestxtrackofsummer",
+			"uid": "bestxtrackof2023",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-11-26T10:14:15+0000",
-			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine         -       Cover : Bjork & Rosalia",
+			"publication_date": "2023-12-03T09:45:28+0000",
+			"title": "Best ”XTrack“ of 2023",
+			"subtitle": "Les meilleurs sons de 2023         -       Cover : Naomi Sharon",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Bjork x Rosalia.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/746b8812-1191-4f51-98bf-149737006b1b_Bjork+x+Rosalia.mp4",
-				"size": "1206333"
+				"name": "Naomi Sharon.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/e92baf2b-6084-456f-8f5a-7891f227a926_Naomi+Sharon.mp4",
+				"size": "5319620"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "Playlist des meilleurs sons de 2023"
 		},
 		{
 			"uid": "page",

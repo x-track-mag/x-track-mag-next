@@ -1,0 +1,107 @@
+{
+	"uid": "bestxtrackof2023",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2023-12-03T09:45:28+0000",
+	"title": "Best ”XTrack“ of 2023",
+	"subtitle": "Les meilleurs sons de 2023         -       Cover : Naomi Sharon",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "Naomi Sharon.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/e92baf2b-6084-456f-8f5a-7891f227a926_Naomi+Sharon.mp4",
+		"size": "5319620"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Rubii - Frank Ekwa - Protoje x Zion I King x Lila Ike - Baaba J - Teni - Enny - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar - Juls x Pure Akan - Maandy - Odumodublvck x Bloody Civilian x Wale - Naomi Sharon x Omah Lay - Cleo Sol - Chenayder x Essosa - Ragz Original x Bakar - Mejja - Patoranking x Popcaan - Jitwam x Jaydonclover x Yungmorpheus - Jorja Smith - Jim Legxacy - Busy signal - Drake x Bad Bunny - Vagabon - Romy - Mura Masa x Daniela Lalita - Khalia - Mystic Marley & +++ Enjoy",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1139&w=1024&h=1080",
+					"alt": "Naomi Sharon",
+					"copyright": null,
+					"width": 1024,
+					"height": 1080,
+					"ratio": 0.9481481481481482
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e0342a3b-8633-4a2b-8ad6-71e71374236e_Protoje+%26+Lila-Ike.jpg?auto=compress,format&rect=0,0,471,395&w=1024&h=859",
+					"alt": "Protoje & Lila Ike",
+					"copyright": null,
+					"width": 1024,
+					"height": 859,
+					"ratio": 1.1920838183934808
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/937258dc-1109-465e-9ffc-4728413cb6f3_Rubii+.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Rubii",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Mystic Marley",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/f22c447d-763b-49bc-901b-5a54cc917667_Bakar.+jpg.jpg?auto=compress,format&rect=0,0,1998,1124&w=1024&h=576",
+					"alt": "Bakar",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
+					"alt": "Enny",
+					"copyright": null,
+					"width": 1024,
+					"height": 740,
+					"ratio": 1.3837837837837839
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=de79b7bcf52a480f",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"title": "Best ”XTrack“ of the Week"
+				}
+			]
+		}
+	],
+	"description": "Playlist des meilleurs sons de 2023"
+}
