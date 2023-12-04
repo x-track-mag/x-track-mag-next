@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-12-03T09:45:28+0000",
+	"publication_date": "2023-12-04T14:21:23+0000",
 	"title": "Best ”XTrack“ of 2023",
 	"subtitle": "Les meilleurs sons de 2023         -       Cover : Naomi Sharon",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Rubii - Frank Ekwa - Protoje x Zion I King x Lila Ike - Baaba J - Teni - Enny - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar - Juls x Pure Akan - Maandy - Odumodublvck x Bloody Civilian x Wale - Naomi Sharon x Omah Lay - Cleo Sol - Chenayder x Essosa - Ragz Original x Bakar - Mejja - Patoranking x Popcaan - Jitwam x Jaydonclover x Yungmorpheus - Jorja Smith - Jim Legxacy - Busy signal - Drake x Bad Bunny - Vagabon - Romy - Mura Masa x Daniela Lalita - Khalia - Mystic Marley & +++ Enjoy",
+					"text": "Rubii - Frank Ekwa - Protoje x Zion I King x Lila Ike - Baaba J - Teni - Lary x Patrice - Enny - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar - Juls x Pure Akan - Maandy - Odumodublvck x Bloody Civilian x Wale - Naomi Sharon x Omah Lay - Cleo Sol - Chenayder x Essosa - Ragz Original x Bakar - Mejja - Patoranking x Popcaan - Jitwam x Jaydonclover x Yungmorpheus - Jorja Smith - Jim Legxacy - Busy signal - Drake x Bad Bunny - Vagabon - Romy - Mura Masa x Daniela Lalita - Khalia - Mystic Marley & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -76,12 +76,12 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/9bbe0cf3-20c0-4252-aec9-c90b969cf021_Lary.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Lary",
 					"copyright": null,
 					"width": 1024,
-					"height": 740,
-					"ratio": 1.3837837837837839
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
