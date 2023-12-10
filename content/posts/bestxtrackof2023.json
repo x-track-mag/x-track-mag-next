@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-12-10T09:33:07+0000",
+	"publication_date": "2023-12-10T09:42:43+0000",
 	"title": "Best ”XTrack“ of 2023",
-	"subtitle": "Les meilleurs sons de 2023         -       Cover : Tems",
+	"subtitle": "Les meilleurs sons de 2023         -       Cover : Tyla",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Tems. .mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4da37578-43f8-4cbf-8a45-870fc270707f_Tems.+.mp4",
-		"size": "1530814"
+		"name": "Tyla.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/616aca82-5b6d-4e73-bcd9-fc992db5fb09_Tyla.mp4",
+		"size": "11656749"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -61,12 +61,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f2e91e8d-0b72-41a0-99bc-e9fe086e5c31_Tyla.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
-					"alt": "Tyla",
+					"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=compress,format&rect=0,0,2240,1260&w=1024&h=576",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1273,
-					"ratio": 0.8043990573448547
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/e0342a3b-8633-4a2b-8ad6-71e71374236e_Protoje+%26+Lila-Ike.jpg?auto=compress,format&rect=0,0,471,395&w=1024&h=859",
