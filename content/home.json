@@ -72,16 +72,16 @@
 			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
-			"position": 18,
+			"position": 17,
 			"uid": "lhysterie"
+		},
+		{
+			"position": 18,
+			"uid": "chill-hip-hop-from-90s"
 		},
 		{
 			"position": 19,
 			"uid": "live-session-badbiche"
-		},
-		{
-			"position": 20,
-			"uid": "chill-hip-hop-from-90s"
 		},
 		{
 			"position": 21,
@@ -485,26 +485,6 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "in-love",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-10-29T09:27:20+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Billie Eilish.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
-				"size": "3550642"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
-		},
-		{
 			"uid": "lhysterie",
 			"tags": [
 				"article"
@@ -523,6 +503,27 @@
 			"author": "Sylsphée Bertili",
 			"internal_link": null,
 			"description": "L’expression « féministe hystérique » : un oxymore à bannir "
+		},
+		{
+			"uid": "chill-hip-hop-from-90s",
+			"tags": [],
+			"publication_date": "2023-10-11T11:32:05+0000",
+			"title": "Old School Hip Hop",
+			"subtitle": "Chill Hip Hop from 90's",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d7891d9-8d8c-4c4f-b28a-94817fa431c0_Notorious+Big.jpg?auto=compress,format",
+				"alt": "Notorious Big",
+				"copyright": null,
+				"width": 1137,
+				"height": 1305,
+				"ratio": 0.871264367816092
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Chill Hip Hop from 90's"
 		},
 		{
 			"uid": "live-session-badbiche",
@@ -546,25 +547,24 @@
 			"description": "live session bad biche lilith x-track mag"
 		},
 		{
-			"uid": "chill-hip-hop-from-90s",
-			"tags": [],
-			"publication_date": "2023-10-11T11:32:05+0000",
-			"title": "Old School Hip Hop",
-			"subtitle": "Chill Hip Hop from 90's",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d7891d9-8d8c-4c4f-b28a-94817fa431c0_Notorious+Big.jpg?auto=compress,format",
-				"alt": "Notorious Big",
-				"copyright": null,
-				"width": 1137,
-				"height": 1305,
-				"ratio": 0.871264367816092
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-10-29T09:27:20+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Billie Eilish.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
+				"size": "3550642"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Chill Hip Hop from 90's"
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "live-session-donzer-bleu-pisicne",
