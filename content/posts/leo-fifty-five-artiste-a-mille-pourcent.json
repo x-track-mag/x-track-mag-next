@@ -77,6 +77,13 @@
 					"dimensions": {
 						"width": 1086,
 						"height": 724
+					},
+					"id": "YYFYpRMAACUACgHm",
+					"edit": {
+						"x": 0,
+						"y": 0,
+						"zoom": 1,
+						"background": "#fff"
 					}
 				}
 			]
@@ -201,6 +208,13 @@
 					"dimensions": {
 						"width": 724,
 						"height": 1086
+					},
+					"id": "YYFYphMAACYACgHv",
+					"edit": {
+						"x": 0,
+						"y": 0,
+						"zoom": 1,
+						"background": "#fff"
 					}
 				}
 			]

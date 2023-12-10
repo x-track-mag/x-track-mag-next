@@ -88,6 +88,13 @@
 					"dimensions": {
 						"width": 2518,
 						"height": 3600
+					},
+					"id": "YbI-ehAAACAAAdLx",
+					"edit": {
+						"x": 0,
+						"y": 0,
+						"zoom": 1,
+						"background": "#fff"
 					}
 				}
 			]
@@ -170,6 +177,13 @@
 					"dimensions": {
 						"width": 2160,
 						"height": 3240
+					},
+					"id": "YbI-gBAAAIUFAdMO",
+					"edit": {
+						"x": 0,
+						"y": 0,
+						"zoom": 1,
+						"background": "#fff"
 					}
 				}
 			]
