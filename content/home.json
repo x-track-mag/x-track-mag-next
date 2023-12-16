@@ -143,15 +143,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-12-10T09:49:32+0000",
+			"publication_date": "2023-12-16T15:46:45+0000",
 			"title": "Best ”XTrack“ of 2023",
-			"subtitle": "Les meilleurs sons de 2023         -       Cover : Tyla",
+			"subtitle": "Les meilleurs sons de 2023         -       Cover : Bob Marley",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Tyla.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/616aca82-5b6d-4e73-bcd9-fc992db5fb09_Tyla.mp4",
-				"size": "11656749"
+				"name": "Bob Marley.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/f91819eb-35b5-4ffc-818b-87147d4f0944_Bob+Marley.mp4",
+				"size": "12803088"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
