@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-12-16T15:46:45+0000",
+	"publication_date": "2023-12-16T15:49:37+0000",
 	"title": "Best ”XTrack“ of 2023",
 	"subtitle": "Les meilleurs sons de 2023         -       Cover : Bob Marley",
 	"text_color": "inverted",
@@ -22,8 +22,9 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Bob Marley & the Wailers - Skeete x Jada Kingdom -   Fantasia x Shenseea x Missy Elliot - Protoje x Zion I Kings - enny - Show Dem Camps x Amarrae x Tems x D+J Sudi x No Nazar - Juls x Pure Akan - Maandy - Odumodublvck x Bloody Civilian x Wale - Naomi sharon x Omah Lay - Cleo Sol - Chenayder x Essosa - Ragz Originale x Bakar - Mejja - Patoranking x Popcaan Jitwam x Jaydonclover x Yungmorpheus - Jorja Smith - Jim legxacy - Busy signal & +++ Enjoy",
-					"spans": []
+					"text": "Bob Marley & the Wailers - Skeete x Jada Kingdom -   Fantasia x Shenseea x Missy Elliot - Protoje x Zion I Kings - enny - Show Dem Camps x Amarrae x Tems x D+J Sudi x No Nazar - Juls x Pure Akan - Maandy - Odumodublvck x Bloody Civilian x Wale - Naomi sharon x Omah Lay - Cleo Sol - Chenayder x Essosa - Ragz Originale x Bakar - Mejja - Patoranking x Popcaan - Jitwam x Jaydonclover x Yungmorpheus - Jorja Smith - Jim legxacy - Busy signal & +++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
