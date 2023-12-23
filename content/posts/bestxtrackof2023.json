@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-12-16T15:49:37+0000",
+	"publication_date": "2023-12-23T10:18:54+0000",
 	"title": "Best ”XTrack“ of 2023",
 	"subtitle": "Les meilleurs sons de 2023         -       Cover : Bob Marley",
 	"text_color": "inverted",
@@ -22,9 +22,8 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Bob Marley & the Wailers - Skeete x Jada Kingdom -   Fantasia x Shenseea x Missy Elliot - Protoje x Zion I Kings - enny - Show Dem Camps x Amarrae x Tems x D+J Sudi x No Nazar - Juls x Pure Akan - Maandy - Odumodublvck x Bloody Civilian x Wale - Naomi sharon x Omah Lay - Cleo Sol - Chenayder x Essosa - Ragz Originale x Bakar - Mejja - Patoranking x Popcaan - Jitwam x Jaydonclover x Yungmorpheus - Jorja Smith - Jim legxacy - Busy signal & +++ Enjoy",
-					"spans": [],
-					"direction": "ltr"
+					"text": "Bob Marley & the Wailers - Skeete x Jada Kingdom -   Fantasia x Shenseea x Missy Elliot - Protoje x Zion I Kings - Wizkid x Wanda Coal - Phyno x Burna boy - Yemi Alade - Bina - Tyla x Travis Scott - Enny - Show Dem Camps x Amarrae x Tems x D+J Sudi x No Nazar - Juls x Pure Akan - Maandy - Odumodublvck x Bloody Civilian x Wale - Naomi sharon x Omah Lay - Cleo Sol - Chenayder x Essosa - Ragz Originale x Bakar - Mejja - Patoranking x Popcaan - Jitwam x Jaydonclover x Yungmorpheus - Jorja Smith - Jim legxacy - Busy signal & +++ Enjoy",
+					"spans": []
 				}
 			]
 		},
@@ -32,20 +31,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/477398c4-be7c-4fba-8bc8-ba1faa8dc2d3_Missy+Elliot.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Missy Elliot",
+					"url": "https://images.prismic.io/x-track-mag/af0813c8-af94-4409-818b-38ad79f2544a_Yemi+Alade.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Yemi Alade",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5c0fffdd-6e75-4426-9a1c-f5bdab607b77_Odumoblvck.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Odumoblvck",
+					"url": "https://images.prismic.io/x-track-mag/91b2f609-32eb-4cb3-a688-a5b82d939ad6_Wizkid.jpg?auto=compress,format&rect=0,0,1623,1957&w=1024&h=1235",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1235,
+					"ratio": 0.8291497975708502
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/5ffa34fa-0fde-4de9-8a43-f3e101fe6b78_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1080,1327&w=1024&h=1258",
@@ -69,8 +68,8 @@
 					"ratio": 1.3837837837837839
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/db05203c-7591-46ac-97b2-9758fe540c05_Skeete.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Skeete",
+					"url": "https://images.prismic.io/x-track-mag/46e672ba-6b32-46fb-9438-12ba3e8e8558_Burna+Boy+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
