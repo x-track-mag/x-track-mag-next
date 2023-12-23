@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-12-23T10:23:29+0000",
+	"publication_date": "2023-12-23T10:28:01+0000",
 	"title": "Best ”XTrack“ of 2023",
 	"subtitle": "Les meilleurs sons de 2023         -       Cover : Bob Marley",
 	"text_color": "inverted",
@@ -47,12 +47,12 @@
 					"ratio": 0.8291497975708502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/5ffa34fa-0fde-4de9-8a43-f3e101fe6b78_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1080,1327&w=1024&h=1258",
-					"alt": "Jada Kingdom",
+					"url": "https://images.prismic.io/x-track-mag/477398c4-be7c-4fba-8bc8-ba1faa8dc2d3_Missy+Elliot.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
+					"alt": "Missy Elliot",
 					"copyright": null,
 					"width": 1024,
-					"height": 1258,
-					"ratio": 0.8139904610492846
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
