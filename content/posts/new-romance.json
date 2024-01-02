@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-11-30T12:08:23+0000",
+	"publication_date": "2024-01-02T18:48:16+0000",
 	"title": "New Romance",
-	"subtitle": "100% Chill Vibes - Cover : Jamila Woods",
+	"subtitle": "100% Chill Vibes - Cover : Enny",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Jamila Woods.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/c491df80-49f1-4517-9eb3-663ea2ab539b_Jamila+Woods.mp4",
-		"size": "2551130"
+		"name": "Enny.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/b76da369-4ab0-4171-b2a9-f920a5910e06_Enny.mp4",
+		"size": "7994577"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Enny x Smino - Facesoul - Baaba J Teni - Chaton - Cleo sol - Leisure - Bakar x Summer Walker - Amaria BB - Jamila Woods x Saba - Chenayder x Essosa - Aka x Nasty C - Jungle x JNR Williams x 33,3  - Naomi sharon - Bekar x Myth Syzer - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - Show Dem Camps x Amaarae x Tems x DJ Sudi x No Nazar - Stormzy x Tendai x Ayra Starr & +++ enjoy",
+					"text": "Enny x Smino - Skeete x Jada Kingdom - Arlo Parks x Lous & the Yakuza - Facesoul - Teni - Cleo sol - Leisure - Amaria BB - Jamila Woods x Saba - Chenayder x Essosa - Aka x Nasty C - Jungle x JNR Williams x 33,3  - Naomi sharon - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - Show Dem Camps x Amaarae x Tems x DJ Sudi x No Nazar - Stormzy x Tendai x Ayra Starr & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -31,12 +31,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
-					"alt": "Enny",
+					"url": "https://images.prismic.io/x-track-mag/b77e7d4b-7633-4991-86f4-5cdae4db86f5_Lous+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Lous & the Yakuza",
 					"copyright": null,
 					"width": 1024,
-					"height": 740,
-					"ratio": 1.3837837837837839
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/fc664c61-b9be-4f22-a293-47fe09355b0d_Facesoul+.jpg?auto=compress,format&rect=0,0,1960,1962&w=1024&h=1025",
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f22c447d-763b-49bc-901b-5a54cc917667_Bakar.+jpg.jpg?auto=compress,format&rect=0,0,1998,1124&w=1024&h=576",
-					"alt": "Bakar",
+					"url": "https://images.prismic.io/x-track-mag/5ffa34fa-0fde-4de9-8a43-f3e101fe6b78_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1080,1327&w=1024&h=1258",
+					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1258,
+					"ratio": 0.8139904610492846
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/95379784-5ed5-414a-a929-8788bbd8993c_Baaba+J.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Baaba J",
+					"url": "https://images.prismic.io/x-track-mag/db05203c-7591-46ac-97b2-9758fe540c05_Skeete.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Skeete",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3fe4f417-0ee5-4b0c-ba69-4157cb46826b_Myth+Syzer.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Myth Syzer",
+					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1139&w=1024&h=1080",
+					"alt": "Naomi Sharon",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1080,
+					"ratio": 0.9481481481481482
 				}
 			]
 		},
