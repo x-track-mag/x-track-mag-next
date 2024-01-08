@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-12-12T05:42:05+0000",
+	"publication_date": "2024-01-08T19:40:28+0000",
 	"title": "Afropop",
-	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
+	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Phyno x Burna Boy",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Burna Boy.   .mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/198a14c3-e52d-45a2-8c52-b6a51863e17c_Burna+Boy.+++.mp4",
-		"size": "4241802"
+		"name": "Phyno x Burna Boy.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/24856ba9-8ddf-48de-8c67-c2e523608c00_Phyno+x+Burna+Boy.mp4",
+		"size": "5608341"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Burna Boy - Bayanni - Boj x Ajebutter22 - Tamera - Kida Kudz - Drake x Bad Bunny - Tems - Ayra Starr -  Tiwa Savage x Ayra Starr x Young Jonn - Asake - Choplife SoundSystem x Mr Eazi  - J Hus x Drake - Blanco - Tekno  - Muzi - EI8HT x Offset & ++++ Enjoy",
+					"text": "Burna Boy - Wizkid x Wande Coal-  Kida Kudz - Rema - Drake x Bad Bunny - Tems - Odumodublvck x Bloody Civilain x Wale - Phyno -  Swae Lee x Drake - The Cavemen - Blanco - Yemi Alade -  Ayra Starr - Tiwa Savage x Young John - Asake & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,20 +39,20 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/c54d5090-51da-4a52-aa6b-a6f5340a82fa_Asake.jpg?auto=compress,format&rect=0,0,1279,717&w=1024&h=574",
-					"alt": "Asake",
+					"url": "https://images.prismic.io/x-track-mag/73c040a4-aea2-4fb6-87da-270112d55337_Wizkid.jpg?auto=compress,format&rect=0,0,1463,2047&w=1024&h=1433",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 574,
-					"ratio": 1.78397212543554
+					"height": 1433,
+					"ratio": 0.7145847871598046
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/6b3285c4-6855-4f71-a81e-6e7ce4b551f3_Ayra+Starr+.jpg?auto=compress,format&rect=0,0,1617,1350&w=1024&h=855",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/af0813c8-af94-4409-818b-38ad79f2544a_Yemi+Alade.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Yemi Alade",
 					"copyright": null,
 					"width": 1024,
-					"height": 855,
-					"ratio": 1.1976608187134503
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/6d8321c9-0626-4143-b6f7-0d04f42209b4_Bayanni.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Bayanni",
+					"url": "https://images.prismic.io/x-track-mag/e91b7187-ae41-4eb9-be41-745895f82d5f_Ayra+Starr.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Ayra Starr",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/12d66270-057f-410c-a789-c99b92db1ac6_Rema.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Rema",
 					"copyright": null,
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2170d3f5-4dee-408f-9f1e-95b077a9a832_Tamera+.jpg?auto=compress,format&rect=0,0,1638,2048&w=1024&h=1280",
-					"alt": "Tamera",
+					"url": "https://images.prismic.io/x-track-mag/06952e56-c30d-4690-8452-b6148b346b09_tiwa-savage.jpg?auto=compress,format&rect=0,0,500,570&w=1024&h=1167",
+					"alt": "Tiwa Savage",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b7e57ff0-4a1a-4b0c-9680-0728f99897bd_Boj.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Boj",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1167,
+					"ratio": 0.8774635818337618
 				}
 			]
 		},
@@ -103,5 +103,5 @@
 			]
 		}
 	],
-	"description": "Burna Boy - Bayanni - Boj x Ajebutter22 - Tamera - Kida Kudz - Drake x Bad Bunny - Tems - Ayra Starr -  Tiwa Savage x Ayra Starr x Young Jonn - Asake - Choplife SoundSystem x Mr Eazi  - J Hus x Drake - Blanco - Tekno  - Muzi - EI8HT x Offset & ++++ Enjoy"
+	"description": "Burna Boy - Wizkid x Wande Coal-  Kida Kudz - Rema - Drake x Bad Bunny - Tems - Odumodublvck x Bloody Civilain x Wale - Phyno -  Swae Lee x Drake - The Cavemen - Blanco - Yemi Alade -  Ayra Starr - Tiwa Savage x Young John - Asake & ++++ Enjoy"
 }
