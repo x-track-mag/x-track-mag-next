@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-11-20T09:22:56+0000",
+	"publication_date": "2024-01-08T18:39:05+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Janelle Monae",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Frank Ekwa - Kirk Diamond x Finn x Tiishy - Teni x Odumodublvck - Juls x Kota the Friend - Janelle Monae x Latto x Quavo - Bad Bunny x Young Miko - Esty - Burna Boy x 21 Savage - Jim Legxacy - Drake x Bad Bunny - Tems - Maandy - Odumodublvck x Bloody Civilian x Wale - Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon - Naomi Sharon   & +++ Enjoy",
+					"text": "Kida Kudz - Frank Ekwa - Kirk Diamond x Finn x Tiishy - Teni x Odumodublvck - Chris Brown x Davido x Lojay - Juls x Kota the Friend - Janelle Monae x Latto x Quavo - Bad Bunny x Young Miko - Esty - Burna Boy x 21 Savage - Jim Legxacy - Drake x Bad Bunny - Tems - Maandy - Odumodublvck x Bloody Civilian x Wale -Naomi Sharon x Omah Lay -  Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -47,12 +47,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0733fafc-234a-4a22-a163-b71410956879_Teni+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Teni",
+					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1139&w=1024&h=1080",
+					"alt": "Naomi Sharon",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1080,
+					"ratio": 0.9481481481481482
 				}
 			]
 		},
@@ -60,12 +60,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/892f33cd-cafe-4188-87e7-67cc13bd2132_Bad+Bunny.jpeg?auto=compress,format&rect=0,0,1634,2047&w=1024&h=1283",
-					"alt": "Bad Bunny",
+					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
+					"alt": "Kida Kudz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1283,
-					"ratio": 0.7981293842556508
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=compress,format&rect=0,0,2240,1260&w=1024&h=576",
@@ -76,12 +76,12 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/67fbdae8-ea29-4b3c-9346-5782e94f3f17_Drake.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Drake",
+					"url": "https://images.prismic.io/x-track-mag/892f33cd-cafe-4188-87e7-67cc13bd2132_Bad+Bunny.jpeg?auto=compress,format&rect=0,0,1634,2047&w=1024&h=1283",
+					"alt": "Bad Bunny",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1283,
+					"ratio": 0.7981293842556508
 				}
 			]
 		},
