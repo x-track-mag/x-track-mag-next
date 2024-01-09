@@ -20,6 +20,10 @@
 			"uid": "live-session-amaru"
 		},
 		{
+			"position": 3,
+			"uid": "nice-day"
+		},
+		{
 			"position": 4,
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
@@ -183,25 +187,24 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "live-session-amaru",
+			"uid": "nice-day",
 			"tags": [
-				"music",
-				"live session"
+				"music"
 			],
-			"publication_date": "2023-11-05T10:29:01+0000",
-			"title": "AMARU ",
-			"subtitle": "LIVE SESSION",
+			"publication_date": "2024-01-09T15:48:27+0000",
+			"title": "Nice Day",
+			"subtitle": "Happy Crossover",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "IMG_3340.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
-				"size": "16282848"
+				"name": "Yaya Bey - 'keisha' (Official Video).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/20b7af23-50cc-4dcd-9de6-c714530a943d_Yaya+Bey+-+%27keisha%27+%28Official+Video%29.mp4",
+				"size": "36830011"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "live session amaru karma x-track mag"
+			"description": "Nice & Happy"
 		},
 		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
@@ -547,24 +550,25 @@
 			"description": "live session bad biche lilith x-track mag"
 		},
 		{
-			"uid": "nice-day",
+			"uid": "live-session-amaru",
 			"tags": [
-				"music"
+				"music",
+				"live session"
 			],
-			"publication_date": "2024-01-09T15:48:27+0000",
-			"title": "Nice Day",
-			"subtitle": "Happy Crossover",
+			"publication_date": "2023-11-05T10:29:01+0000",
+			"title": "AMARU ",
+			"subtitle": "LIVE SESSION",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Yaya Bey - 'keisha' (Official Video).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/20b7af23-50cc-4dcd-9de6-c714530a943d_Yaya+Bey+-+%27keisha%27+%28Official+Video%29.mp4",
-				"size": "36830011"
+				"name": "IMG_3340.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
+				"size": "16282848"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"author": "X-TRACK TEAM",
 			"internal_link": null,
-			"description": "Nice & Happy"
+			"description": "live session amaru karma x-track mag"
 		},
 		{
 			"uid": "live-session-donzer-bleu-pisicne",
