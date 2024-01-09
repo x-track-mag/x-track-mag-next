@@ -3,19 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-23T19:49:28+0000",
+	"publication_date": "2024-01-09T15:48:27+0000",
 	"title": "Nice Day",
 	"subtitle": "Happy Crossover",
 	"text_color": "inverted",
-	"image": {
-		"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-		"alt": "Sudan Archives",
-		"copyright": null,
-		"width": 3000,
-		"height": 3000,
-		"ratio": 1
+	"image": null,
+	"video_loop": {
+		"name": "Yaya Bey - 'keisha' (Official Video).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/20b7af23-50cc-4dcd-9de6-c714530a943d_Yaya+Bey+-+%27keisha%27+%28Official+Video%29.mp4",
+		"size": "36830011"
 	},
-	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
 	"internal_link": null,
@@ -25,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Hare Squead - Speech Debelle - Bakar - Guru x Erykah Badu - Yaya Bey - Neil Francis x PawPaw Rod - the Herbaliser x What What - Raury - Freedom Satellite - DJ Tunez x Amexin - Wizkid x Major Lazer - The Game x 50 Cent - FKJ - Parcels x Breakbot - Jitwam x Jaydonclover x Yungmorpheus - Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande - Amber Mark - Sudan Archives & ++++ Enjoy",
+					"text": "Hare Squead - Speech Debelle - Bakar - Guru x Erykah Badu - Yaya Bey - Amadou & Mariam - DJ Tunez x Amexin - Wizkid x Major Lazer - The Game x 50 Cent - PawPaw Rod - Jitwam x Jaydonclover x Yungmorpheus - Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande - Varnish La Piscine x  Bonnie Banane - The Temptations x FKJ - Toro y Moi - Prince - Patchworks x Pat kalla - tom Misch - Amber Mark   & ++++ Enjoy",
 					"spans": []
 				}
 			]
@@ -42,12 +39,12 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/db4f8544-3290-40df-ba25-c597074f96ef_Amber+Mark+.jpg?auto=compress,format&rect=0,0,1080,1269&w=1024&h=1203",
-					"alt": "Amber Mark",
+					"url": "https://images.prismic.io/x-track-mag/2f9b1e48-0949-4c47-9250-aa948aafa540_Amadou+%26+Mariam.jpg?auto=compress,format&rect=0,0,1080,718&w=1024&h=681",
+					"alt": "Amadou & Mariam",
 					"copyright": null,
 					"width": 1024,
-					"height": 1203,
-					"ratio": 0.8512053200332502
+					"height": 681,
+					"ratio": 1.5036710719530102
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/d804a365-c346-43c7-b640-8152a1880ab6_HARE+SQUEAD.jpg?auto=compress,format&rect=0,0,2048,1152&w=1024&h=576",
@@ -63,14 +60,6 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/effdc617-df31-4983-a603-72553f2da3e2_FKJ.jpg?auto=compress,format&rect=0,0,1100,684&w=1024&h=637",
-					"alt": "FKJ",
-					"copyright": null,
-					"width": 1024,
-					"height": 637,
-					"ratio": 1.6075353218210362
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/8297802a-5ca6-4800-a95c-8d810360abfd_Erykah+Badu.jpg?auto=compress,format&rect=0,0,1133,715&w=1024&h=646",
 					"alt": "Erykah Badu",
 					"copyright": null,
@@ -85,6 +74,14 @@
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d520ad70-36fc-4c18-8462-cf7d0ef8e532_Amber+Mark.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Amber Mark",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -106,5 +103,5 @@
 			]
 		}
 	],
-	"description": "Happy Crossover"
+	"description": "Nice & Happy"
 }

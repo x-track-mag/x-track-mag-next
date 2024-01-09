@@ -547,24 +547,24 @@
 			"description": "live session bad biche lilith x-track mag"
 		},
 		{
-			"uid": "in-love",
+			"uid": "nice-day",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2023-10-29T09:27:20+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
-			"text_color": "green",
+			"publication_date": "2024-01-09T15:48:27+0000",
+			"title": "Nice Day",
+			"subtitle": "Happy Crossover",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Billie Eilish.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
-				"size": "3550642"
+				"name": "Yaya Bey - 'keisha' (Official Video).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/20b7af23-50cc-4dcd-9de6-c714530a943d_Yaya+Bey+-+%27keisha%27+%28Official+Video%29.mp4",
+				"size": "36830011"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
+			"description": "Nice & Happy"
 		},
 		{
 			"uid": "live-session-donzer-bleu-pisicne",
@@ -588,6 +588,26 @@
 			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2023-10-29T09:27:20+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Billie Eilish.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/4727007e-d1ac-4da7-a514-19e3a0b31a10_Billie+Eilish.mp4",
+				"size": "3550642"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs"
+		},
+		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 			"tags": [],
 			"publication_date": "2023-10-24T15:03:24+0000",
@@ -607,29 +627,6 @@
 			"author": "MANON PELINQ",
 			"internal_link": null,
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
-		},
-		{
-			"uid": "nice-day",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-10-23T19:49:28+0000",
-			"title": "Nice Day",
-			"subtitle": "Happy Crossover",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/6091b45b-ef34-47ed-84dd-e4a6a09f140a_Sudan+Archives.jpg?auto=compress,format",
-				"alt": "Sudan Archives",
-				"copyright": null,
-				"width": 3000,
-				"height": 3000,
-				"ratio": 1
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Happy Crossover"
 		},
 		{
 			"uid": "nola-cherri",
