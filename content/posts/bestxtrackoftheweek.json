@@ -3,19 +3,16 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-06-10T22:45:54+0000",
+	"publication_date": "2024-01-14T12:37:19+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine",
-	"text_color": "green",
-	"image": {
-		"url": "https://images.prismic.io/x-track-mag/24d27273-e4b7-448f-9178-5ab1c0333bda_Metro+Boomin+.jpg?auto=compress,format",
-		"alt": "Metro Boomin",
-		"copyright": null,
-		"width": 4096,
-		"height": 4096,
-		"ratio": 1
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Kali Uchis",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "Kali Uchis.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/a50b5ebc-8198-4468-b282-1cf311007762_Kali+Uchis.mp4",
+		"size": "400881"
 	},
-	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
 	"internal_link": null,
@@ -24,13 +21,8 @@
 			"template": "section-full-text",
 			"text": [
 				{
-					"type": "heading3",
-					"text": "Les meilleurs sons de la semaine",
-					"spans": []
-				},
-				{
 					"type": "paragraph",
-					"text": "Metro Boomin x James Blake x Don Toliver x Wizkid x Beam x Toian - J Hus x Drake - Ei8ht x Offset - Guchi - Skillibeng x Markkk x Mally IVS - Aminé x Kaytranada - Jitwam - Tiwa Savage - Tai Iwar x Juls & ++++",
+					"text": "Black sherif - YG Marley - Jada Kingdom - Iman Europe x Kaelin Ellis - Sarz x Asake x Gunna - The Smile - Youth Lagoon - Yaadman x Sarkodie x Ice Prince - Iotosh x Protoje x Kdagreat - Biga Ranx - 21 Savage x Burna Boy x Metro Boomin - Kali Uchis & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2a93040e-978b-488d-b8b6-b065e78e0766_James+Blake.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "James Blake",
+					"url": "https://images.prismic.io/x-track-mag/de8f5258-0ec5-47a2-a38b-6e4c570c8482_Black+Sherif.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Black Sherif",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/afc9ab5c-097b-413f-886a-8b64c7f8a25b_Toian.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Toian",
+					"url": "https://images.prismic.io/x-track-mag/d6910518-f450-4640-abba-04eeab6e12bd_Iman+Europe.jpg?auto=compress,format&rect=0,0,1080,1256&w=1024&h=1191",
+					"alt": "Iman Europe",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1191,
+					"ratio": 0.8597816960537363
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/f167e8f8-5bfb-48cf-85b6-8deaea4c042f_Don+Toliver.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Don Toliver",
+					"url": "https://images.prismic.io/x-track-mag/5028d012-0c45-4668-b8ca-f2987ddee591_YG-Marley+.jpg?auto=compress,format&rect=0,0,620,413&w=1024&h=682",
+					"alt": "YG Marley",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 682,
+					"ratio": 1.501466275659824
 				}
 			]
 		},
@@ -68,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9e38206a-ded8-401a-9d31-72613106d19f_Wizkid.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/2237c734-cc56-4b1c-8a49-6c24b3ce12f3_Sarz+x+Asake+x+Gunna.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Sarz x Gunna x Asake ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/adaaaa8a-5a57-49fd-933e-4eb43ae92409_Ei8ht.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Ei8ht",
+					"url": "https://images.prismic.io/x-track-mag/d91e2000-041e-4df2-9cff-b9a2f1f5ac03_Jada+Kingdom+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/12235d5b-ef6d-46cf-9233-aa8fe7478ec3_Offset.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Offset",
+					"url": "https://images.prismic.io/x-track-mag/7f92937c-806f-4b17-ab56-37c08079153b_The+Smile.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "The Smile",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -97,15 +89,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=2e6f8c73c30f4022",
-					"title": "Best ”XTrack“ of The Week"
-				},
-				{
-					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
 					"title": "Best ”XTrack“ of the Week"
 				},
 				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=de79b7bcf52a480f",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
 					"title": "Best ”XTrack“ of the Week"
 				}
 			]
