@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-01-14T12:37:19+0000",
+	"publication_date": "2024-01-22T17:20:17+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Kali Uchis",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Lala &ce",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Kali Uchis.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/a50b5ebc-8198-4468-b282-1cf311007762_Kali+Uchis.mp4",
-		"size": "400881"
+		"name": "Lala &ce.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/1c2ed350-24e7-48f0-b782-63ef7c2c96fd_Lala+%26ce.mp4",
+		"size": "8931058"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Black sherif - YG Marley - Jada Kingdom - Iman Europe x Kaelin Ellis - Sarz x Asake x Gunna - The Smile - Youth Lagoon - Yaadman x Sarkodie x Ice Prince - Iotosh x Protoje x Kdagreat - Biga Ranx - 21 Savage x Burna Boy x Metro Boomin - Kali Uchis & +++ Enjoy",
+					"text": "Lala &ce - Stefflon Don - Tyla - Asake -  Popcaan - Jack harlow - Black sherif - Kyle Dion - Serpentwithfeet - 4batz & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
+					"url": "https://images.prismic.io/x-track-mag/c54d5090-51da-4a52-aa6b-a6f5340a82fa_Asake.jpg?auto=compress,format&rect=0,0,1279,717&w=1024&h=574",
+					"alt": "Asake",
+					"copyright": null,
+					"width": 1024,
+					"height": 574,
+					"ratio": 1.78397212543554
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/3a8d318e-a2d0-43f8-98a9-4932f5b579fd_Stefflon+Don+.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
+					"alt": "Stefflon Don",
+					"copyright": null,
+					"width": 1024,
+					"height": 682,
+					"ratio": 1.501466275659824
+				},
+				{
 					"url": "https://images.prismic.io/x-track-mag/de8f5258-0ec5-47a2-a38b-6e4c570c8482_Black+Sherif.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
 					"alt": "Black Sherif",
 					"copyright": null,
 					"width": 1024,
 					"height": 1276,
 					"ratio": 0.8025078369905956
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d6910518-f450-4640-abba-04eeab6e12bd_Iman+Europe.jpg?auto=compress,format&rect=0,0,1080,1256&w=1024&h=1191",
-					"alt": "Iman Europe",
-					"copyright": null,
-					"width": 1024,
-					"height": 1191,
-					"ratio": 0.8597816960537363
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5028d012-0c45-4668-b8ca-f2987ddee591_YG-Marley+.jpg?auto=compress,format&rect=0,0,620,413&w=1024&h=682",
-					"alt": "YG Marley",
-					"copyright": null,
-					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2237c734-cc56-4b1c-8a49-6c24b3ce12f3_Sarz+x+Asake+x+Gunna.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Sarz x Gunna x Asake ",
+					"url": "https://images.prismic.io/x-track-mag/beb921f9-895b-44f3-bb07-ab2941ed230c_Serpentwithfeet.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Serpentwithfeet",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d91e2000-041e-4df2-9cff-b9a2f1f5ac03_Jada+Kingdom+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jada Kingdom",
+					"url": "https://images.prismic.io/x-track-mag/d2153cd6-032e-4ac7-a844-47c34aed6dce_Tyla++.jpg?auto=compress,format&rect=0,0,930,1060&w=1024&h=1167",
+					"alt": "Tyla",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1167,
+					"ratio": 0.8774635818337618
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7f92937c-806f-4b17-ab56-37c08079153b_The+Smile.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "The Smile",
+					"url": "https://images.prismic.io/x-track-mag/d2260c3b-d69b-4d20-ae55-086c466a4511_Jack+Harlow.jpg?auto=compress,format&rect=0,0,1080,1098&w=1024&h=1041",
+					"alt": "Jack Harlow",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1041,
+					"ratio": 0.983669548511047
 				}
 			]
 		},
