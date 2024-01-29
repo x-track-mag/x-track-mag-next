@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-01-22T17:20:17+0000",
+	"publication_date": "2024-01-29T15:04:40+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Lala &ce",
-	"text_color": "inverted",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Tierra Whack",
+	"text_color": "green",
 	"image": null,
 	"video_loop": {
-		"name": "Lala &ce.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/1c2ed350-24e7-48f0-b782-63ef7c2c96fd_Lala+%26ce.mp4",
-		"size": "8931058"
+		"name": "Tierra Whack.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/41f0c821-22c1-4107-a039-a67bdc09e845_Tierra+Whack.mp4",
+		"size": "3682521"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Lala &ce - Stefflon Don - Tyla - Asake -  Popcaan - Jack harlow - Black sherif - Kyle Dion - Serpentwithfeet - 4batz & +++ Enjoy",
+					"text": "Jada Kingdom - Tierra Whack - C Kay - Blick Bassy - Protoje - Kelela x Shygirl x JD Reid - Lala &ce - Stefflon Don - Tyla - Asake -  Popcaan - Jack harlow & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,41 +31,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c54d5090-51da-4a52-aa6b-a6f5340a82fa_Asake.jpg?auto=compress,format&rect=0,0,1279,717&w=1024&h=574",
-					"alt": "Asake",
+					"url": "https://images.prismic.io/x-track-mag/e3b73ecf-a05d-4995-bbd6-dfb815c8d40a_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
-					"height": 574,
-					"ratio": 1.78397212543554
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3a8d318e-a2d0-43f8-98a9-4932f5b579fd_Stefflon+Don+.jpg?auto=compress,format&rect=0,0,1080,719&w=1024&h=682",
-					"alt": "Stefflon Don",
+					"url": "https://images.prismic.io/x-track-mag/b08b1852-a32a-4ad3-9f79-5f46875159de_C+Kay.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "C Kay",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/de8f5258-0ec5-47a2-a38b-6e4c570c8482_Black+Sherif.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Black Sherif",
-					"copyright": null,
-					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/beb921f9-895b-44f3-bb07-ab2941ed230c_Serpentwithfeet.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Serpentwithfeet",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/d2153cd6-032e-4ac7-a844-47c34aed6dce_Tyla++.jpg?auto=compress,format&rect=0,0,930,1060&w=1024&h=1167",
@@ -74,14 +53,35 @@
 					"width": 1024,
 					"height": 1167,
 					"ratio": 0.8774635818337618
-				},
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d2260c3b-d69b-4d20-ae55-086c466a4511_Jack+Harlow.jpg?auto=compress,format&rect=0,0,1080,1098&w=1024&h=1041",
-					"alt": "Jack Harlow",
+					"url": "https://images.prismic.io/x-track-mag/12b4fd0d-936e-4da6-9ac4-59431db92ad2_Shy+Girl+x+Kelela.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Shy Girl x Kelela",
 					"copyright": null,
 					"width": 1024,
-					"height": 1041,
-					"ratio": 0.983669548511047
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=compress,format&rect=0,0,1612,2015&w=1024&h=1280",
+					"alt": "Protoje",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/08424b6c-4245-420f-a076-29f7856d7e34_Lala+%26ce.jpg?auto=compress,format&rect=0,0,1264,711&w=1024&h=576",
+					"alt": "Lala &ce",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},

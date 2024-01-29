@@ -147,15 +147,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-01-22T17:20:17+0000",
+			"publication_date": "2024-01-29T15:04:40+0000",
 			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine        -       Cover : Lala &ce",
-			"text_color": "inverted",
+			"subtitle": "Les meilleurs sons de la semaine        -       Cover : Tierra Whack",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Lala &ce.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/1c2ed350-24e7-48f0-b782-63ef7c2c96fd_Lala+%26ce.mp4",
-				"size": "8931058"
+				"name": "Tierra Whack.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/41f0c821-22c1-4107-a039-a67bdc09e845_Tierra+Whack.mp4",
+				"size": "3682521"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
