@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-01-29T15:04:40+0000",
+	"publication_date": "2024-02-05T18:58:34+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Tierra Whack",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : ASA",
 	"text_color": "green",
 	"image": null,
 	"video_loop": {
-		"name": "Tierra Whack.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/41f0c821-22c1-4107-a039-a67bdc09e845_Tierra+Whack.mp4",
-		"size": "3682521"
+		"name": "Asa.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/0bf17122-254a-44bb-98a9-5122f642d0ae_Asa.mp4",
+		"size": "988178"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jada Kingdom - Tierra Whack - C Kay - Blick Bassy - Protoje - Kelela x Shygirl x JD Reid - Lala &ce - Stefflon Don - Tyla - Asake -  Popcaan - Jack harlow & +++ Enjoy",
+					"text": "Asa - Jada Kingdom - Soul Sugar x  Jolly Joseph - C Kay - Keys the Prince - TMI x MadeInParis - Yaya Bey - Tierra Whack - Blick Bassy - Lala &ce - Protoje - Stefflon Don - Tyla - Asake -  Popcaan - Jack harlow & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e3b73ecf-a05d-4995-bbd6-dfb815c8d40a_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"url": "https://images.prismic.io/x-track-mag/8be21bb3-14e3-44ef-b22b-c859e744112c_Asa+.jpg?auto=compress,format&rect=0,0,1054,1125&w=1024&h=1093",
+					"alt": "Asa",
+					"copyright": null,
+					"width": 1024,
+					"height": 1093,
+					"ratio": 0.9368709972552608
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/651c91e3-46fe-42ab-b8f2-2d516a31a529_MadeInParis.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "MadeInParis",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/646ebf29-26c2-4c30-a58b-abd5f52dbadc_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
 					"alt": "Jada Kingdom",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b08b1852-a32a-4ad3-9f79-5f46875159de_C+Kay.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "C Kay",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d2153cd6-032e-4ac7-a844-47c34aed6dce_Tyla++.jpg?auto=compress,format&rect=0,0,930,1060&w=1024&h=1167",
-					"alt": "Tyla",
-					"copyright": null,
-					"width": 1024,
-					"height": 1167,
-					"ratio": 0.8774635818337618
 				}
 			]
 		},
@@ -60,20 +60,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/12b4fd0d-936e-4da6-9ac4-59431db92ad2_Shy+Girl+x+Kelela.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Shy Girl x Kelela",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=compress,format&rect=0,0,1612,2015&w=1024&h=1280",
-					"alt": "Protoje",
+					"url": "https://images.prismic.io/x-track-mag/0f51d158-1d95-4c6a-9da3-9208f6b71704_Yaya+Bey.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Yaya Bey",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/5bb1fc79-ab51-4038-b21a-23ffbdf24b98_Soul+Sugar+.jpg?auto=compress,format&rect=0,0,750,750&w=1024&h=1024",
+					"alt": "Soul Sugar ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/08424b6c-4245-420f-a076-29f7856d7e34_Lala+%26ce.jpg?auto=compress,format&rect=0,0,1264,711&w=1024&h=576",

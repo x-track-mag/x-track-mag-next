@@ -147,15 +147,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-01-29T15:04:40+0000",
+			"publication_date": "2024-02-05T18:58:34+0000",
 			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine        -       Cover : Tierra Whack",
+			"subtitle": "Les meilleurs sons de la semaine        -       Cover : ASA",
 			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Tierra Whack.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/41f0c821-22c1-4107-a039-a67bdc09e845_Tierra+Whack.mp4",
-				"size": "3682521"
+				"name": "Asa.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/0bf17122-254a-44bb-98a9-5122f642d0ae_Asa.mp4",
+				"size": "988178"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
