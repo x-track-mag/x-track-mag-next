@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-02-11T09:19:08+0000",
+	"publication_date": "2024-02-11T09:25:30+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Lila Iké",
 	"text_color": "green",
@@ -60,8 +60,16 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e18083b7-1095-4e7e-9f85-fd303b327ee4_Amaarae+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Amaarae ",
+					"url": "https://images.prismic.io/x-track-mag/bbd4b2ca-cd39-4841-b91f-9197f1eab9a2_YG+Marley.jpg?auto=compress,format&rect=0,0,640,430&w=1024&h=688",
+					"alt": "YG Marley",
+					"copyright": null,
+					"width": 1024,
+					"height": 688,
+					"ratio": 1.4883720930232558
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Mystic Marley",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -74,14 +82,6 @@
 					"width": 1024,
 					"height": 1276,
 					"ratio": 0.8025078369905956
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Mystic Marley",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
 				}
 			]
 		},
