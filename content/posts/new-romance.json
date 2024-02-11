@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-01-02T18:50:09+0000",
+	"publication_date": "2024-02-11T14:03:36+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Cover : Enny",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Enny x Smino - Skeete x Jada Kingdom - Arlo Parks x Lous & the Yakuza - Facesoul - Teni - Cleo sol - Leisure - Amaria BB - Jamila Woods x Saba - Chenayder x Essosa - Aka x Nasty C - Jungle x JNR Williams x 33,3  - Naomi sharon - Tentendo x Annalisa Fernandez - Rochelle Jordan x Keys N Krates - Show Dem Camps x Amaarae x Tems x DJ Sudi x No Nazar - Stormzy x Tendai x Ayra Starr & +++ enjoy",
+					"text": "Enny x Smino - Daniel Caesar - Skeete x Jada Kingdom - Facesoul - Cleo sol - Leisure - Amaria BB - IAMDDB - Chenayder x Essosa - Teni - Zaho de Zagazan - Serpentwithfeet - Jamila Woods x Saba - Aka x Nasty C - Naomi sharon - Stormzy x Tendai x Ayra Starr - Juls x Tay Iwar x p-rallel. - Vagabon - Chiiild - 6LACK - waterbaby & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -31,12 +31,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b77e7d4b-7633-4991-86f4-5cdae4db86f5_Lous+%26+the+Yakuza.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Lous & the Yakuza",
+					"url": "https://images.prismic.io/x-track-mag/8112f68c-4a3a-4ad1-b583-3e9a277b088d_Chenayder.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Chenayder",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/fc664c61-b9be-4f22-a293-47fe09355b0d_Facesoul+.jpg?auto=compress,format&rect=0,0,1960,1962&w=1024&h=1025",
@@ -47,12 +47,12 @@
 					"ratio": 0.9990243902439024
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=compress,format&rect=0,0,1500,844&w=1024&h=576",
-					"alt": "Amaria BB",
+					"url": "https://images.prismic.io/x-track-mag/76933da3-e984-46da-b832-cea71680f3e6_Zaho+de+Sagazan.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Zaho de Sagazan",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -60,20 +60,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/5ffa34fa-0fde-4de9-8a43-f3e101fe6b78_Jada+Kingdom.jpg?auto=compress,format&rect=0,0,1080,1327&w=1024&h=1258",
-					"alt": "Jada Kingdom",
+					"url": "https://images.prismic.io/x-track-mag/f78bcb4b-a308-4ebd-8b1f-dc94d97ac32a_Iamddb.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Iamddb",
 					"copyright": null,
 					"width": 1024,
-					"height": 1258,
-					"ratio": 0.8139904610492846
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/174c0990-e114-47a6-98b5-b919495230cd_Stormzy+++.jpg?auto=compress,format&rect=0,0,2000,2400&w=1024&h=1229",
-					"alt": "Stormzy",
+					"url": "https://images.prismic.io/x-track-mag/a34a8a81-e2ff-4bef-93d8-14b38c2f359d_Daniel+Caesar.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Daniel Caesar",
 					"copyright": null,
 					"width": 1024,
-					"height": 1229,
-					"ratio": 0.8331977217249796
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1139&w=1024&h=1080",
