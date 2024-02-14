@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-10-29T09:27:20+0000",
+	"publication_date": "2024-02-14T16:34:59+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
 	"text_color": "green",
@@ -23,17 +23,20 @@
 				{
 					"type": "heading3",
 					"text": "Our favorite Love & Cool Songs… Enjoy",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
 					"text": "",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
-					"text": "Feu Chatterton - Partynextdoor - Drake - Angelo de Augustine - Yuna - Konyikeh - Thomas Caruso Aragona - Mustafa - Billie Eilish  - Courtesy x Erika de Casier x August Rosenbaum - James Blake - Galimatias - Cigarettes After Sex - Rum.Gold - Iyamah - Waterbaby - Waxx x Pomme - Jenevieve - Amaria - Khruangbin - Common Saints - Rosalia - Gabi Hartmann - Rhye - Oklou - Chiiild - Arlo Parks - Yehra - Gabriels - Sault - Diziz x Yseult - Mounika x Ocie Eliot - The O'My's - NxWorries x Anderson Paak x Knxwledge - Men I Trust - Celeste x Jeshi - Kyle Dion & +++ ",
-					"spans": []
+					"text": "Feu Chatterton - 4batz - Gotts Street Park x Olive Jones - Angelo de Augustine - Thomas Caruso Aragona - Mustafa - Billie Eilish  - Courtesy x Erika de Casier x August Rosenbaum - Galimatias - Kali Uchis - Rubii - rum.gold - Waterbaby - Jenevieve - Amaria - Khruangbin - Common Saints - Cigarettes After Sex - Rosalia - Gabi Hartmann - Rhye - Oklou - Chiiild - Arlo Parks - Yehra - Gabriels - Sault - Diziz x Yseult - Mounika x Ocie Eliot - James Blake - The O'My's - Asa - NxWorries x Anderson Paak x Knxwledge - Men I Trust - Celeste x Jeshi - Kyle Dion & +++ ",
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
@@ -41,8 +44,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f9cd9443-07f1-41f3-9955-1483ea7ad86f_Yuna.++.jpg?auto=compress,format&rect=0,0,868,1085&w=1024&h=1280",
-					"alt": "Yuna",
+					"url": "https://images.prismic.io/x-track-mag/36849149-e494-4055-989d-281df286f839_Kali+Uchis.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Kali Uchis",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -50,7 +53,7 @@
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/a107dda6-c166-4c8a-847c-996a278a89a4_Feu%21%21+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
-					"alt": null,
+					"alt": "Feu! Chatterton",
 					"copyright": null,
 					"width": 1024,
 					"height": 819,
@@ -70,8 +73,16 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/96f3a0be-3e92-4b7a-8f13-7504cbc1933f_Partynextdoor.jpg?auto=compress,format&rect=0,0,1363,1363&w=1024&h=1024",
-					"alt": "Partynextdoor.",
+					"url": "https://images.prismic.io/x-track-mag/f1c94d50-9689-4a0b-8992-9712fa684746_Waterbaby.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Waterbaby",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/1ae0af90-56c5-4863-9e8a-b0af154982d1_Thomas+Caruso+Aragona.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Thomas Caruso Aragona",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -80,14 +91,6 @@
 				{
 					"url": "https://images.prismic.io/x-track-mag/b03afd6d-76bc-4f6c-9992-eef124dc8d2e_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
 					"alt": "Amaria",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/67fbdae8-ea29-4b3c-9346-5782e94f3f17_Drake.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Drake",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
