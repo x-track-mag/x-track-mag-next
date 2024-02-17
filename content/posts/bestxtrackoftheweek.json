@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-02-10T14:32:19+0000",
+	"publication_date": "2024-02-17T17:48:04+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Little Simz",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Beyounce",
 	"text_color": "orange",
 	"image": null,
 	"video_loop": {
-		"name": "Little Simz.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/7b5e2a28-6b44-4cc1-8afa-a46624f50a73_Little+Simz.mp4",
-		"size": "12827270"
+		"name": "Beyoncé - TEXAS HOLD 'EM (Official Visualizer).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/991a4f3e-25b3-446c-9a3b-85b6742df040_Beyonce%CC%81+-+TEXAS+HOLD+%27EM+%28Official+Visualizer%29.mp4",
+		"size": "29844239"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Chenayder - Bob Marley & the Wailers - IAMDDB - Little Simz - Zaho de Sagazan - Kaa La Moto x Boutros - Yaadman x 1da Banton - Raye - Jada Kingdom - Soul Sugar x Jolly Joseph - Tierra Whack - Stefflon Don - Tyla - Asake - Popcaan - Fantasia x Shensea x Missy Elliot - YG Marley & +++ Enjoy",
+					"text": "Sean Paul - Beyouncé -  Skip Marley - Jessie Reyez - Yung Filly x Aitch - - Yaadman - Wizkid - Leon Bridges - IAMDDB x Masego - Chenayder - Jada Kingdom - Soul sugar x Jolly Joseph - Tierra Whack - Stefflon Don - Tyla - Asake - Popcaan - Fantasia x Shenseea x Missy Eliot - YG Marley & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,20 +31,41 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/8112f68c-4a3a-4ad1-b583-3e9a277b088d_Chenayder.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Chenayder",
+					"url": "https://images.prismic.io/x-track-mag/e29e3627-d3b8-4564-af33-b79387f94abe_Skip+Marley.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Skip Marley",
 					"copyright": null,
 					"width": 1024,
 					"height": 1276,
 					"ratio": 0.8025078369905956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0e605028-52a5-452b-8062-09613d312daf_Bob+Marley+.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Bob Marley",
+					"url": "https://images.prismic.io/x-track-mag/82094585-abf3-4f07-bf4c-fa9c59a29e95_Jessie+Reyez.jpg?auto=compress,format&rect=0,0,2000,2400&w=1024&h=1229",
+					"alt": "Jessie Reyez",
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 1229,
+					"ratio": 0.8331977217249796
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e5ece1be-5a15-4275-90f0-bba475a92f6a_Sean+Paul.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Sean Paul",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/f29b6e0c-0799-40ba-ab6d-f80592974788_Wizkid.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/f78bcb4b-a308-4ebd-8b1f-dc94d97ac32a_Iamddb.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -53,31 +74,10 @@
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/a407195b-8908-4e4c-a570-40b56e8c3344_Little+Simz.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Little Simz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d219ccf8-2a17-412b-955a-86f8d28c455e_Yaadman.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Yaadman",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/76933da3-e984-46da-b832-cea71680f3e6_Zaho+de+Sagazan.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Zaho de Sagazan",
+					"url": "https://images.prismic.io/x-track-mag/993befd4-94d5-4294-9374-c509b352bf2b_Le%CC%81on+Bridges.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Léon Bridges",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
