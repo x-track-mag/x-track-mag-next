@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-02-11T09:26:21+0000",
+	"publication_date": "2024-02-25T00:32:32+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Lila Iké",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x zion I King x Lila Iké - Mystic Marley - Fantasia x Shenseea x Missy Elliot - YG Marley - Soul Sugar x  Jolly Joseph - Yaya Bey - Bob Marley & the Wailers - Prince Fatty x Shniece McMenamin - Popcaan - Boutros x Juicee Man - Patoranking x Popcaan - Juls x Pure Akan - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar - Mejja - Timaya - The Cavemen - & +++ Enjoy",
+					"text": "Protoje x Zion I King x Lila Iké - YG Marley - Soul Sugar x  Jolly Joseph - Mystic Marley - Sean Paul - Liam Bailey -  Yaya Bey - Yaadman - Bob Marley & the Wailers - Fantasia x Shenseea x Missy Elliot - Skip Marley - Boutros x Juicee Man - Patoranking x Popcaan - Juls x Pure Akan - Mejja - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar -Timaya - The Cavemen - Tekno - Juls x Twich 4EVA x Quamina MP & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,12 +39,12 @@
 					"ratio": 0.9078014184397163
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=compress,format&rect=0,0,1799,1200&w=1024&h=683",
-					"alt": "juls",
+					"url": "https://images.prismic.io/x-track-mag/bbd4b2ca-cd39-4841-b91f-9197f1eab9a2_YG+Marley.jpg?auto=compress,format&rect=0,0,640,430&w=1024&h=688",
+					"alt": "YG Marley",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 688,
+					"ratio": 1.4883720930232558
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/82e5a9e8-5fd9-4102-a036-ea57be225a89_Yaya+Bey.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
@@ -60,12 +60,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/bbd4b2ca-cd39-4841-b91f-9197f1eab9a2_YG+Marley.jpg?auto=compress,format&rect=0,0,640,430&w=1024&h=688",
-					"alt": "YG Marley",
+					"url": "https://images.prismic.io/x-track-mag/363b7f53-bed1-4041-85a0-c77a50f8d515_Skip+Marley.++.jpg?auto=compress,format&rect=0,0,710,710&w=1024&h=1024",
+					"alt": "Skip Marley",
 					"copyright": null,
 					"width": 1024,
-					"height": 688,
-					"ratio": 1.4883720930232558
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
