@@ -316,6 +316,25 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
+			"uid": "2024-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2024-02-25T09:48:38+0000",
+			"title": "2024 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": "2024 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
+		},
+		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
 			"tags": [],
 			"publication_date": "2024-02-25T09:38:33+0000",
@@ -745,25 +764,6 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "live session bad biche lilith x-track mag"
-		},
-		{
-			"uid": "2023-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2022-11-27T16:13:08+0000",
-			"title": "2023 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": "2023 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		},
 		{
 			"uid": "boys-noize-resonne-toujours-plus-fort",
