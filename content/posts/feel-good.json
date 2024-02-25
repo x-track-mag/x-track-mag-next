@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-01-08T22:15:19+0000",
+	"publication_date": "2024-02-25T09:33:54+0000",
 	"title": "Feel Good",
-	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Janelle Monae",
+	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Tierra Whack",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Janelle monae.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ba21c438-4111-4b43-80e9-bed62396e2f7_Janelle+monae.mp4",
-		"size": "5071966"
+		"name": "Tierra Whack - SHOWER SONG (Official Music Video).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/da78ca6d-aece-43da-9719-412a132701ca_Tierra+Whack+-+SHOWER+SONG+%28Official+Music+Video%29.mp4",
+		"size": "5410356"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,9 +22,8 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Kida Kudz - Frank Ekwa - Kirk Diamond x Finn x Tiishy - Teni x Odumodublvck - Chris Brown x Davido x Lojay - Juls x Kota the Friend - Janelle Monae x Latto x Quavo - Fantasia x Shensea x Missy Elliot - Bad Bunny x Young Miko - Esty - Burna Boy x 21 Savage - Jim Legxacy - Drake x Bad Bunny - Tems - Maandy - Odumodublvck x Bloody Civilian x Wale -Naomi Sharon x Omah Lay -  Enny - Jorja Smith - Mejja - Juls x Pure Akan - Cleo Sol - Kaytranada x Aminé x Pharrell Williams - Jitwam x Jaydonclover x Yungmorpheus - Romy - Mura Masa x Daniela Lalita - James Blake - Vagabon & +++ Enjoy",
-					"spans": [],
-					"direction": "ltr"
+					"text": "Kida Kudz - Frank Ekwa - Kirk Diamond x Finn x Tiishy - YG Marley - Teni x Odumodublvck - Central Cee - Stefflon Don - Tierra Whack - Liam Bailey - Skip Marley - Romy - Mura Masa x Daniela Lalita - James Blake - Little Simz - Blanco - Iman europe x Kaelin Ellis - Chenayder - Vagabon - Odeal x Brazy - Naomi Sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake  & +++ Enjoy",
+					"spans": []
 				}
 			]
 		},
@@ -32,57 +31,57 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a184f7d3-dd04-4297-9485-7d710451a0a8_Enny.jpg?auto=compress,format&rect=0,0,4093,2958&w=1024&h=740",
-					"alt": "Enny",
-					"copyright": null,
-					"width": 1024,
-					"height": 740,
-					"ratio": 1.3837837837837839
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/3d863737-8cdd-45d9-b1ef-0bbf0885b90e_Burna+Boy.++.jpg?auto=compress,format&rect=0,0,768,768&w=1024&h=1024",
-					"alt": "Burna Boy",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1139&w=1024&h=1080",
-					"alt": "Naomi Sharon",
-					"copyright": null,
-					"width": 1024,
-					"height": 1080,
-					"ratio": 0.9481481481481482
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/9d9346e8-f6ab-47d1-bb40-9b8a8fcb629a_Kida+Kudz.jpg?auto=compress,format&rect=0,0,1186,1187&w=1024&h=1025",
+					"url": "https://images.prismic.io/x-track-mag/14b2cb04-f750-4fc9-8ff4-e15ca7659b00_Kida-Kudz.jpg?auto=compress,format&rect=0,0,1200,900&w=1024&h=768",
 					"alt": "Kida Kudz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 768,
+					"ratio": 1.3333333333333333
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/477398c4-be7c-4fba-8bc8-ba1faa8dc2d3_Missy+Elliot.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
-					"alt": "Missy Elliot",
+					"url": "https://images.prismic.io/x-track-mag/52362e75-1026-4658-be1f-7b1c600e2924_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Stefflon Don",
 					"copyright": null,
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/892f33cd-cafe-4188-87e7-67cc13bd2132_Bad+Bunny.jpeg?auto=compress,format&rect=0,0,1634,2047&w=1024&h=1283",
-					"alt": "Bad Bunny",
+					"url": "https://images.prismic.io/x-track-mag/bbd4b2ca-cd39-4841-b91f-9197f1eab9a2_YG+Marley.jpg?auto=compress,format&rect=0,0,640,430&w=1024&h=688",
+					"alt": "YG Marley",
 					"copyright": null,
 					"width": 1024,
-					"height": 1283,
-					"ratio": 0.7981293842556508
+					"height": 688,
+					"ratio": 1.4883720930232558
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/c0054def-21e1-48d0-b206-669a46821cf6_Central+Cee+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Central Cee",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/a407195b-8908-4e4c-a570-40b56e8c3344_Little+Simz.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Little Simz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d6bba158-ad31-477e-a2f8-ddc10951a909_Liam+Bailey.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Liam Bailey.",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
