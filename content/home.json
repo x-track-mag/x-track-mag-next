@@ -33,7 +33,7 @@
 		},
 		{
 			"position": 7,
-			"uid": "tropical"
+			"uid": "live-session-amaru"
 		},
 		{
 			"position": 8,
@@ -41,7 +41,7 @@
 		},
 		{
 			"position": 9,
-			"uid": "live-session-amaru"
+			"uid": "tropical"
 		},
 		{
 			"position": 10,
@@ -261,24 +261,25 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
-			"uid": "tropical",
+			"uid": "live-session-amaru",
 			"tags": [
-				"music"
+				"music",
+				"live session"
 			],
-			"publication_date": "2024-02-25T10:09:48+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy - Cover : Lila Iké",
-			"text_color": "green",
+			"publication_date": "2023-11-05T10:29:01+0000",
+			"title": "AMARU ",
+			"subtitle": "LIVE SESSION",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Lila Iké .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/fe09ad7d-0ed7-4abc-9dc4-4ae61182a168_Lila+Ike%CC%81+.mp4",
-				"size": "1452764"
+				"name": "IMG_3340.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
+				"size": "16282848"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"author": "X-TRACK TEAM",
 			"internal_link": null,
-			"description": "Tropical"
+			"description": "live session amaru karma x-track mag"
 		},
 		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
@@ -304,25 +305,24 @@
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
 		},
 		{
-			"uid": "live-session-amaru",
+			"uid": "tropical",
 			"tags": [
-				"music",
-				"live session"
+				"music"
 			],
-			"publication_date": "2023-11-05T10:29:01+0000",
-			"title": "AMARU ",
-			"subtitle": "LIVE SESSION",
-			"text_color": "inverted",
+			"publication_date": "2024-02-25T10:09:48+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy - Cover : Lila Iké",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "IMG_3340.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
-				"size": "16282848"
+				"name": "Lila Iké .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/fe09ad7d-0ed7-4abc-9dc4-4ae61182a168_Lila+Ike%CC%81+.mp4",
+				"size": "1452764"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "live session amaru karma x-track mag"
+			"description": "Tropical"
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
