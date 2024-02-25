@@ -25,7 +25,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "tropical"
+			"uid": "nice-day"
 		},
 		{
 			"position": 6,
@@ -33,7 +33,7 @@
 		},
 		{
 			"position": 7,
-			"uid": "nice-day"
+			"uid": "tropical"
 		},
 		{
 			"position": 8,
@@ -218,24 +218,24 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "tropical",
+			"uid": "nice-day",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-02-25T00:32:32+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy - Cover : Lila Iké",
-			"text_color": "green",
+			"publication_date": "2024-02-19T12:59:11+0000",
+			"title": "Nice Day",
+			"subtitle": "Happy Crossover",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Lila Iké .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/fe09ad7d-0ed7-4abc-9dc4-4ae61182a168_Lila+Ike%CC%81+.mp4",
-				"size": "1452764"
+				"name": "Yaya Bey - 'keisha' (Official Video).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/20b7af23-50cc-4dcd-9de6-c714530a943d_Yaya+Bey+-+%27keisha%27+%28Official+Video%29.mp4",
+				"size": "36830011"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Tropical"
+			"description": "Nice & Happy"
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
@@ -261,24 +261,24 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
-			"uid": "nice-day",
+			"uid": "tropical",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-02-19T12:59:11+0000",
-			"title": "Nice Day",
-			"subtitle": "Happy Crossover",
-			"text_color": "inverted",
+			"publication_date": "2024-02-25T00:32:32+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy - Cover : Lila Iké",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Yaya Bey - 'keisha' (Official Video).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/20b7af23-50cc-4dcd-9de6-c714530a943d_Yaya+Bey+-+%27keisha%27+%28Official+Video%29.mp4",
-				"size": "36830011"
+				"name": "Lila Iké .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/fe09ad7d-0ed7-4abc-9dc4-4ae61182a168_Lila+Ike%CC%81+.mp4",
+				"size": "1452764"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Nice & Happy"
+			"description": "Tropical"
 		},
 		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
