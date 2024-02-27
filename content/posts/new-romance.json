@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-02-11T14:03:36+0000",
+	"publication_date": "2024-02-27T11:56:49+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Cover : Enny",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Enny x Smino - Daniel Caesar - Skeete x Jada Kingdom - Facesoul - Cleo sol - Leisure - Amaria BB - IAMDDB - Chenayder x Essosa - Teni - Zaho de Zagazan - Serpentwithfeet - Jamila Woods x Saba - Aka x Nasty C - Naomi sharon - Stormzy x Tendai x Ayra Starr - Juls x Tay Iwar x p-rallel. - Vagabon - Chiiild - 6LACK - waterbaby & +++ enjoy",
+					"text": "Jungle x Full Crate - Khruangbin - Enny x Smino - Daniel Caesar - Skeete x Jada Kingdom - Facesoul - Leon Bridges - Cleo sol - Amaria BB - IAMDDB - Chenayder x Essosa - Zaho de Sagazan - Teni - Serpentwithfeet - Jamila Woods x Saba - Aka x Nasty C - Naomi sharon - Stormzy x Tendai x Ayra Starr - Juls x Tay Iwar x p-rallel. - Vagabon - Chiiild - 6LACK - Waterbaby & +++ enjoy",
 					"spans": []
 				}
 			]
@@ -31,24 +31,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/8112f68c-4a3a-4ad1-b583-3e9a277b088d_Chenayder.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Chenayder",
+					"url": "https://images.prismic.io/x-track-mag/d928e21c-7730-4347-8689-87185a94fbe2_Jungle.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jungle",
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/fc664c61-b9be-4f22-a293-47fe09355b0d_Facesoul+.jpg?auto=compress,format&rect=0,0,1960,1962&w=1024&h=1025",
-					"alt": "Facesoul ",
+					"url": "https://images.prismic.io/x-track-mag/ad74fd7b-52a2-41b4-ac95-be65d257a6a4_Khruangbin.jpg?auto=compress,format&rect=0,0,674,843&w=1024&h=1281",
+					"alt": "Khruangbin",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 1281,
+					"ratio": 0.7993754879000781
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/76933da3-e984-46da-b832-cea71680f3e6_Zaho+de+Sagazan.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Zaho de Sagazan",
+					"url": "https://images.prismic.io/x-track-mag/dcc719a8-6015-49d5-b5d9-d94598422173_Skeete.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Skeete",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
