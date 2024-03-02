@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-02-24T10:03:02+0000",
+	"publication_date": "2024-03-02T14:27:36+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Teezo Touchdown",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Foushée",
 	"text_color": "green",
 	"image": null,
 	"video_loop": {
-		"name": "Teezo Touchdown.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/52784e67-0856-4fb8-940f-e296ab25dc74_Teezo+Touchdown.mp4",
-		"size": "6808960"
+		"name": "Fousheé - i'm fine (Official Video).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f71a8a7-0ba7-4379-9886-e33eec7d9abf_Foushee%CC%81+-+i%27m+fine+%28Official+Video%29.mp4",
+		"size": "15999895"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jungle x Full Crate - Khruangbin - Bloody Civilian - Liam Bailey - Yaadman - Central Cee - Teezo Touchdown - Mystic Marley - Chop Daily x Torann x Skondtrack - Soul Sugar x Leo Carmichael - Cash Cobain RY X - French Montana x Jeremih - PDOT O x Ami Faku - Erika de Casier x Blood Orange & +++ Enjoy",
+					"text": "Liam Bailey - Young Paris x Stonebwoy - Teezo Touchdown x Foushée - Anaiis x Chronixx x Luigie Nunez x DJ Lulo - Protoje - Biga Ranx - Chaton - Jaz Karis x Tone Smith - Cigarettes After Sex - 4batz - Pomme & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d928e21c-7730-4347-8689-87185a94fbe2_Jungle.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jungle",
+					"url": "https://images.prismic.io/x-track-mag/2bdbacc8-ccae-48ca-8077-496a7ff23157_Liam+Bailey.jpg?auto=compress,format&rect=0,0,1079,1078&w=1024&h=1023",
+					"alt": "Liam Bailey",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/86f46dfb-9372-4b19-b7a7-218a1eb448c4_Pomme.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Pomme",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a785e648-7a02-4921-8362-08ec79846661_Bloody+Civilian+.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Bloody Civilian",
+					"url": "https://images.prismic.io/x-track-mag/a0cd9d01-eccd-4ab1-a215-4fbecf44d403_Young+Paris+.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
+					"alt": "Young Paris",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d6bba158-ad31-477e-a2f8-ddc10951a909_Liam+Bailey.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Liam Bailey.",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1273,
+					"ratio": 0.8043990573448547
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Mystic Marley",
+					"url": "https://images.prismic.io/x-track-mag/738eaac7-c733-453a-90db-d9a7bb843899_Jaz+Karis.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Jaz Karis",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/318cad84-ecbd-4303-8ee4-f33abda34a3e_Central+Cee.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Central Cee",
+					"url": "https://images.prismic.io/x-track-mag/e9092667-03af-44da-a5b8-d7d99fdd968a_Teezo+Touchdown.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Teezo Touchdown",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b9291825-982f-4858-a4ef-2bc680e9bdd2_khruangbin-Band.jpg?auto=compress,format&rect=0,0,1200,795&w=1024&h=678",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/c075fc25-0f24-4132-8d1a-656d1ce4ff64_Anaiis.jpg?auto=compress,format&rect=0,0,715,715&w=1024&h=1024",
+					"alt": "Anaiis",
 					"copyright": null,
 					"width": 1024,
-					"height": 678,
-					"ratio": 1.5103244837758112
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
