@@ -666,6 +666,29 @@
 			"description": "Hip Hop & Soul Music"
 		},
 		{
+			"uid": "old-school-reggae",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2024-03-03T10:15:14+0000",
+			"title": "Reggae",
+			"subtitle": "Old School Reggae",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 777,
+				"ratio": 1.5444015444015444
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Old School Reggae"
+		},
+		{
 			"uid": "15minutes-avec-jacques",
 			"tags": [
 				"interview",
@@ -729,29 +752,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "live session Biaziouka Plug x-track mag"
-		},
-		{
-			"uid": "old-school-reggae",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2023-05-26T04:19:17+0000",
-			"title": "Reggae",
-			"subtitle": "Old School Reggae",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 777,
-				"ratio": 1.5444015444015444
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Old School Reggae"
 		},
 		{
 			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
