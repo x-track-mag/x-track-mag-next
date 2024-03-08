@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-02T14:27:36+0000",
+	"publication_date": "2024-03-08T20:50:09+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Foushée",
-	"text_color": "green",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Yaya Bey",
+	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Fousheé - i'm fine (Official Video).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f71a8a7-0ba7-4379-9886-e33eec7d9abf_Foushee%CC%81+-+i%27m+fine+%28Official+Video%29.mp4",
-		"size": "15999895"
+		"name": "Yaya Bey - 'sir princess bad bitch' (Official Video).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zet0-HUurf2G3OIf_YayaBey-%27sirprincessbadbitch%27-OfficialVideo-.mp4",
+		"size": "21080248"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Liam Bailey - Young Paris x Stonebwoy - Teezo Touchdown x Foushée - Anaiis x Chronixx x Luigie Nunez x DJ Lulo - Protoje - Biga Ranx - Chaton - Jaz Karis x Tone Smith - Cigarettes After Sex - 4batz - Pomme & +++ Enjoy",
+					"text": "4Batz x Drake - Ley Soul - Liam Bailey - Tamada - Yaya Bey - Smallgod x Darkoo - Layzee Ella x r.dOwn - Alpha Steppa x Joe Yorke - Strandz - Cash Cobain x Bay Swag - Ki Alexis - Blundetto x Pupajim - Yellow Days - Waxx x Ibeyi & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -30,6 +30,43 @@
 		{
 			"template": "section-gallery",
 			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zet0knUurf2G3OIY_LeySoul.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Ley Soul",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zet0h3Uurf2G3OIN_4Batz.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "4Batz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zet0j3Uurf2G3OIV_Darkoo.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Darkoo",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zet0i3Uurf2G3OIR_KiAlexis.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Ki Alexis",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/2bdbacc8-ccae-48ca-8077-496a7ff23157_Liam+Bailey.jpg?auto=compress,format&rect=0,0,1079,1078&w=1024&h=1023",
 					"alt": "Liam Bailey",
@@ -39,49 +76,12 @@
 					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/86f46dfb-9372-4b19-b7a7-218a1eb448c4_Pomme.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Pomme",
+					"url": "https://images.prismic.io/x-track-mag/Zet0iHUurf2G3OIO_Ibeyi.jpg?auto=compress,format&rect=0,0,608,760&w=1024&h=1280",
+					"alt": "Ibeyi",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a0cd9d01-eccd-4ab1-a215-4fbecf44d403_Young+Paris+.jpg?auto=compress,format&rect=0,0,1080,1343&w=1024&h=1273",
-					"alt": "Young Paris",
-					"copyright": null,
-					"width": 1024,
-					"height": 1273,
-					"ratio": 0.8043990573448547
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/738eaac7-c733-453a-90db-d9a7bb843899_Jaz+Karis.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Jaz Karis",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e9092667-03af-44da-a5b8-d7d99fdd968a_Teezo+Touchdown.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Teezo Touchdown",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/c075fc25-0f24-4132-8d1a-656d1ce4ff64_Anaiis.jpg?auto=compress,format&rect=0,0,715,715&w=1024&h=1024",
-					"alt": "Anaiis",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
