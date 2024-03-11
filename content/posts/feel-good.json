@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-02-25T09:36:59+0000",
+	"publication_date": "2024-03-11T14:49:57+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Tierra Whack",
 	"text_color": "green",
@@ -22,8 +22,9 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Kida Kudz - Frank Ekwa - Kirk Diamond x Finn x Tiishy - YG Marley - Teni x Odumodublvck - Central Cee - Stefflon Don - Tierra Whack - Liam Bailey - Skip Marley - Romy - Mura Masa x Daniela Lalita - James Blake - Little Simz - Blanco - Iman europe x Kaelin Ellis - Chenayder - Vagabon - Odeal x Brazy - Naomi Sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake  & +++ Enjoy",
-					"spans": []
+					"text": "Strandz - Cash Cobain x Bay Swag - Central Cee - Tierra Whack - Stefflon Don - Skip Marley - Liam Bailey - Tamada - Yaya Bey - Romy - Mura Masa x Daniela Lalita - James Blake - Little Simz - Blanco - Iman europe x Kaelin Ellis - Chenayder - Vagabon - Odeal x Brazy - Naomi Sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake  & +++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
@@ -31,12 +32,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/14b2cb04-f750-4fc9-8ff4-e15ca7659b00_Kida-Kudz.jpg?auto=compress,format&rect=0,0,1200,900&w=1024&h=768",
-					"alt": "Kida Kudz",
+					"url": "https://images.prismic.io/x-track-mag/Zet0kXUurf2G3OIX_CashCobain.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Cash Cobain",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/52362e75-1026-4658-be1f-7b1c600e2924_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
@@ -47,12 +48,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bbd4b2ca-cd39-4841-b91f-9197f1eab9a2_YG+Marley.jpg?auto=compress,format&rect=0,0,640,430&w=1024&h=688",
-					"alt": "YG Marley",
+					"url": "https://images.prismic.io/x-track-mag/Zet0jHUurf2G3OIS_Strandz.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Strandz",
 					"copyright": null,
 					"width": 1024,
-					"height": 688,
-					"ratio": 1.4883720930232558
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
