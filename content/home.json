@@ -25,7 +25,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "nice-day"
+			"uid": "in-love"
 		},
 		{
 			"position": 6,
@@ -97,7 +97,7 @@
 		},
 		{
 			"position": 23,
-			"uid": "in-love"
+			"uid": "nice-day"
 		},
 		{
 			"position": 24,
@@ -242,24 +242,24 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "nice-day",
+			"uid": "in-love",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-02-19T12:59:11+0000",
-			"title": "Nice Day",
-			"subtitle": "Happy Crossover",
-			"text_color": "inverted",
+			"publication_date": "2024-03-09T10:46:43+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Yaya Bey - 'keisha' (Official Video).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/20b7af23-50cc-4dcd-9de6-c714530a943d_Yaya+Bey+-+%27keisha%27+%28Official+Video%29.mp4",
-				"size": "36830011"
+				"name": "Billie Eilish.  .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZewtJHUurf2G3OUN_BillieEilish..mp4",
+				"size": "6829694"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Nice & Happy"
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
@@ -623,24 +623,24 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "in-love",
+			"uid": "nice-day",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-03-09T10:46:43+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
-			"text_color": "green",
+			"publication_date": "2024-02-19T12:59:11+0000",
+			"title": "Nice Day",
+			"subtitle": "Happy Crossover",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Billie Eilish.  .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZewtJHUurf2G3OUN_BillieEilish..mp4",
-				"size": "6829694"
+				"name": "Yaya Bey - 'keisha' (Official Video).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/20b7af23-50cc-4dcd-9de6-c714530a943d_Yaya+Bey+-+%27keisha%27+%28Official+Video%29.mp4",
+				"size": "36830011"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
+			"description": "Nice & Happy"
 		},
 		{
 			"uid": "supersoul",
