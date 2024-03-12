@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-11T14:59:11+0000",
+	"publication_date": "2024-03-12T11:17:17+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Tierra Whack",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Cash Cobain x Bay Swag - Strandz - Central Cee - Tierra Whack - Stefflon Don - Skip Marley - Liam Bailey - Tamada - Yaya Bey - Romy - Mura Masa x Daniela Lalita - James Blake - Little Simz - Blanco - Iman europe x Kaelin Ellis - Chenayder - Vagabon - Odeal x Brazy - Naomi Sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake  & +++ Enjoy",
+					"text": "Cash Cobain x Bay Swag - Tierra Whack - Liam Bailey - Skip Marley - Tamada - Vagabon - Yaya Bey - Odeal x Brazy - Naomi sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake - Romy - Mura Masa x Daniela Lalita - James Blake - Little Simz - Blanco - Iman europe x Kaelin Ellis - Chenayder - Tyla - Jitwam x Jaydonclover x Yungmorpheus - Juls x Kota the Friend - Fantasia x Shensea x Missy Elliot -  Janelle Moane x Latto x Quavo - YG Marley  & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -39,20 +39,20 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/52362e75-1026-4658-be1f-7b1c600e2924_Stefflon+Don.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Stefflon Don",
+					"url": "https://images.prismic.io/x-track-mag/722e5545-b4ab-40b8-b9a7-baf12fb6e518_Vagabon+.jpg?auto=compress,format&rect=0,0,1855,1330&w=1024&h=734",
+					"alt": "Vagabon",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 734,
+					"ratio": 1.3950953678474114
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0jHUurf2G3OIS_Strandz.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Strandz",
+					"url": "https://images.prismic.io/x-track-mag/2bdbacc8-ccae-48ca-8077-496a7ff23157_Liam+Bailey.jpg?auto=compress,format&rect=0,0,1079,1078&w=1024&h=1023",
+					"alt": "Liam Bailey",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				}
 			]
 		},
@@ -60,24 +60,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/c0054def-21e1-48d0-b206-669a46821cf6_Central+Cee+.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Central Cee",
+					"url": "https://images.prismic.io/x-track-mag/Zet0k3Uurf2G3OIZ_YayaBey.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Yaya Bey",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a407195b-8908-4e4c-a570-40b56e8c3344_Little+Simz.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/4dba6b95-d4eb-489b-a09b-6ace5bed53c9_Kaytranada+x+Amine%CC%81.jpg?auto=compress,format&rect=0,0,2500,2500&w=1024&h=1024",
+					"alt": "Kaytranada x Aminé",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d6bba158-ad31-477e-a2f8-ddc10951a909_Liam+Bailey.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Liam Bailey.",
+					"url": "https://images.prismic.io/x-track-mag/a407195b-8908-4e4c-a570-40b56e8c3344_Little+Simz.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
