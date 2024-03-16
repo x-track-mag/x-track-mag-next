@@ -666,6 +666,27 @@
 			"description": "Hip Hop & Soul Music"
 		},
 		{
+			"uid": "interview-moment-amaru",
+			"tags": [
+				"interview",
+				"music"
+			],
+			"publication_date": "2024-03-16T19:05:41+0000",
+			"title": "AMARU ",
+			"subtitle": "A LITTLE MOMENT ",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "ITW 1304.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
+				"size": "4462848"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "interview amaru a little moment x-track mag"
+		},
+		{
 			"uid": "live-session-flowerybeard",
 			"tags": [
 				"music",
@@ -883,27 +904,6 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "live session bad biche lilith x-track mag"
-		},
-		{
-			"uid": "interview-moment-amaru",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2022-04-18T07:44:51+0000",
-			"title": "AMARU",
-			"subtitle": "A LITTLE MOMENT ",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "ITW 1304.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4",
-				"size": "4462848"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "interview amaru a little moment x-track mag"
 		},
 		{
 			"uid": "yayayayoutube-ep-1-samantha-deep",
