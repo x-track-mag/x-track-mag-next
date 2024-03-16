@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-08T20:50:09+0000",
+	"publication_date": "2024-03-16T18:56:54+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Yaya Bey",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Lava La Rue",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Yaya Bey - 'sir princess bad bitch' (Official Video).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zet0-HUurf2G3OIf_YayaBey-%27sirprincessbadbitch%27-OfficialVideo-.mp4",
-		"size": "21080248"
+		"name": "Lava La Rue.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZfXk4cmUzjad_Td1_LavaLaRue.mp4",
+		"size": "9217144"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "4Batz x Drake - Ley Soul - Liam Bailey - Tamada - Yaya Bey - Smallgod x Darkoo - Layzee Ella x r.dOwn - Alpha Steppa x Joe Yorke - Strandz - Cash Cobain x Bay Swag - Ki Alexis - Blundetto x Pupajim - Yellow Days - Waxx x Ibeyi & +++ Enjoy",
+					"text": "Tierra Whack - Lava La Rue - Chase Chakur - Adi Oasis x Jitwam - Clue Ashavisha Track x Big Yasa x Maandy - Kida Kudz - Galdive - Soul sugar x Jolly Joseph - Don Toliver - Lil Yatchy - Partynextdoor & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0knUurf2G3OIY_LeySoul.jpg?auto=compress,format&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Ley Soul",
+					"url": "https://images.prismic.io/x-track-mag/ZfXk4smUzjad_Td2_TierraWhack.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0h3Uurf2G3OIN_4Batz.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "4Batz",
+					"url": "https://images.prismic.io/x-track-mag/ZfXk2smUzjad_Tdr_KidaKudz.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Kida Kudz",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0j3Uurf2G3OIV_Darkoo.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Darkoo",
+					"url": "https://images.prismic.io/x-track-mag/ZfXk3MmUzjad_Tdt_AdiOasis.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "Adi Oasis",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				}
 			]
 		},
@@ -60,24 +60,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0i3Uurf2G3OIR_KiAlexis.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Ki Alexis",
+					"url": "https://images.prismic.io/x-track-mag/ZfXk2smUzjad_Tdr_KidaKudz.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Kida Kudz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2bdbacc8-ccae-48ca-8077-496a7ff23157_Liam+Bailey.jpg?auto=compress,format&rect=0,0,1079,1078&w=1024&h=1023",
-					"alt": "Liam Bailey",
+					"url": "https://images.prismic.io/x-track-mag/ZfXk38mUzjad_Tdx_LavaLaRue.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Lava La Rue",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0iHUurf2G3OIO_Ibeyi.jpg?auto=compress,format&rect=0,0,608,760&w=1024&h=1280",
-					"alt": "Ibeyi",
+					"url": "https://images.prismic.io/x-track-mag/ZfXk2MmUzjad_Tdp_DonToliver.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Don Toliver",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
