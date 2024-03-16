@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-16T18:58:51+0000",
+	"publication_date": "2024-03-16T19:03:42+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Lava La Rue",
 	"text_color": "inverted",
@@ -31,12 +31,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZfXk4smUzjad_Td2_TierraWhack.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/af512b4f-6a26-4c2b-9bf7-4692d8db0aa9_tierra-whack-.jpg?auto=compress,format&rect=0,0,1400,790&w=1024&h=578",
+					"alt": "Tierra Whack",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 578,
+					"ratio": 1.7716262975778547
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZfXk3cmUzjad_Tdu_ChaseShakur.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
