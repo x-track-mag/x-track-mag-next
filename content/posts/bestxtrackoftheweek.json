@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-16T18:56:54+0000",
+	"publication_date": "2024-03-16T18:58:51+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Lava La Rue",
 	"text_color": "inverted",
@@ -39,12 +39,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZfXk2smUzjad_Tdr_KidaKudz.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Kida Kudz",
+					"url": "https://images.prismic.io/x-track-mag/ZfXk3cmUzjad_Tdu_ChaseShakur.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Chase Shakur",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZfXk3MmUzjad_Tdt_AdiOasis.jpg?auto=compress,format&rect=0,0,1080,1079&w=1024&h=1023",
@@ -68,12 +68,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZfXk38mUzjad_Tdx_LavaLaRue.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Lava La Rue",
+					"url": "https://images.prismic.io/x-track-mag/ZfXk1smUzjad_Tdn_Maandy.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZfXk2MmUzjad_Tdp_DonToliver.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
