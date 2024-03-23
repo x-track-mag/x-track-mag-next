@@ -666,6 +666,27 @@
 			"description": "Hip Hop & Soul Music"
 		},
 		{
+			"uid": "slow-dance",
+			"tags": [],
+			"publication_date": "2024-03-23T10:00:30+0000",
+			"title": "Slow Dance",
+			"subtitle": "Old School Down Tempo - Cover : Grace Jones",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/Zf6g1McYqOFdyC1a_GraceJones.jpg?auto=compress,format",
+				"alt": "Grace Jones",
+				"copyright": null,
+				"width": 2558,
+				"height": 1435,
+				"ratio": 1.7825783972125435
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Zero 7 x Sophie Barker - Cody Chesnutt - Cat Power x Karen Elson - Poolside - Lenny Kravitz - Massive Attack - Fun Lovin' Criminal - Leon Bridges x LNK - Dire Straits - John Lee Hooker x Carlos Santana - Daryl Hall x John Oates - Fleetwood Mac - Grace Jones - U2 - America - Simon & Garfunkel - Tom tom Club & +++ enjoy"
+		},
+		{
 			"uid": "polycool",
 			"tags": [
 				"article",
