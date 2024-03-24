@@ -3,8 +3,8 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2021-09-29T15:18:54+0000",
-	"title": "Yayayayoutube EP 3                                                                                                                                      Ophelie Summer",
+	"publication_date": "2024-03-24T08:28:38+0000",
+	"title": "Yayayayoutube EP 3                                                                                                                                 Ophelie Summer",
 	"subtitle": "The Ophelie Summer show : relooking d'une sugar mummy  ",
 	"text_color": "inverted",
 	"image": null,
@@ -44,7 +44,7 @@
 				"thumbnail_height": 360,
 				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/aBU9TbFyIN8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 			},
-			"ratio": null,
+			"ratio": "16/9",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/aaf46264-f2ea-4280-808f-3c2f6e4ede45_Capture+d%E2%80%99e%CC%81cran+2021-09-23+a%CC%80+15.55.12.png?auto=compress,format",
 				"alt": null,
