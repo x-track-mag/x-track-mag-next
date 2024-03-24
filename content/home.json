@@ -133,9 +133,9 @@
 			"title": "Feel Good",
 			"image": null,
 			"video_loop": {
-				"name": "Tierra Whack - SHOWER SONG (Official Music Video).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/da78ca6d-aece-43da-9719-412a132701ca_Tierra+Whack+-+SHOWER+SONG+%28Official+Music+Video%29.mp4",
-				"size": "5410356"
+				"name": "Lava La Rue.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZfXk4cmUzjad_Td1_LavaLaRue.mp4",
+				"size": "9217144"
 			}
 		},
 		{
@@ -203,15 +203,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-03-12T11:17:17+0000",
+			"publication_date": "2024-03-24T18:23:59+0000",
 			"title": "Feel Good",
-			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Tierra Whack",
+			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Lava La Rue",
 			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Tierra Whack - SHOWER SONG (Official Music Video).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/da78ca6d-aece-43da-9719-412a132701ca_Tierra+Whack+-+SHOWER+SONG+%28Official+Music+Video%29.mp4",
-				"size": "5410356"
+				"name": "Lava La Rue.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZfXk4cmUzjad_Td1_LavaLaRue.mp4",
+				"size": "9217144"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
