@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-02-27T11:56:49+0000",
+	"publication_date": "2024-03-25T14:22:26+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Cover : Enny",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Enny.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/b76da369-4ab0-4171-b2a9-f920a5910e06_Enny.mp4",
-		"size": "7994577"
+		"name": "enny .mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZgGFpscYqOFdyEEq_enny.mp4",
+		"size": "14057651"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,8 +22,9 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jungle x Full Crate - Khruangbin - Enny x Smino - Daniel Caesar - Skeete x Jada Kingdom - Facesoul - Leon Bridges - Cleo sol - Amaria BB - IAMDDB - Chenayder x Essosa - Zaho de Sagazan - Teni - Serpentwithfeet - Jamila Woods x Saba - Aka x Nasty C - Naomi sharon - Stormzy x Tendai x Ayra Starr - Juls x Tay Iwar x p-rallel. - Vagabon - Chiiild - 6LACK - Waterbaby & +++ enjoy",
-					"spans": []
+					"text": "Enny x Smino - Jungle x Full Crate - Don Toliver - Cash Cobain - Daniel Caesar - Khruangbin - Skeete x Jada Kingdom - Facesoul - Cleo sol - Amaria BB - Teni - Naomi sharon - Stormzy x Tendai x Ayra Starr - Juls x Tay Iwar x p-rallel. - Chiiild - 6LACK - Waterbaby & +++ enjoy",
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
@@ -60,12 +61,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/f78bcb4b-a308-4ebd-8b1f-dc94d97ac32a_Iamddb.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Iamddb",
+					"url": "https://images.prismic.io/x-track-mag/62830492-f0af-401b-8e74-a7c2fe1fdc19_Cleo+Sol.jpg?auto=format%2Ccompress&rect=0%2C0%2C2048%2C2048&w=1024&h=1024",
+					"alt": "Cleo Sol",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/a34a8a81-e2ff-4bef-93d8-14b38c2f359d_Daniel+Caesar.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
