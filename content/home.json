@@ -666,6 +666,30 @@
 			"description": "Hip Hop & Soul Music"
 		},
 		{
+			"uid": "misterkay--welcome-to-nigeria",
+			"tags": [
+				"music",
+				"article"
+			],
+			"publication_date": "2024-03-25T10:34:11+0000",
+			"title": "MisterKay : ”Welcome to Nigeria“",
+			"subtitle": "",
+			"text_color": "orange",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/c85e4827-1408-4f5a-96a3-25ffcb413d0e_Y1.JPG?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 2160,
+				"height": 3240,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "MisterKay : ”Welcome to Nigeria“ "
+		},
+		{
 			"uid": "leo-fifty-five-artiste-a-mille-pourcent",
 			"tags": [
 				"article"
@@ -1058,30 +1082,6 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "live session bad biche lilith x-track mag"
-		},
-		{
-			"uid": "misterkay--welcome-to-nigeria",
-			"tags": [
-				"music",
-				"article"
-			],
-			"publication_date": "2021-12-10T16:40:28+0000",
-			"title": "MisterKay : ”Welcome to Nigeria“ ",
-			"subtitle": "",
-			"text_color": "orange",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/c85e4827-1408-4f5a-96a3-25ffcb413d0e_Y1.JPG?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 2160,
-				"height": 3240,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "MisterKay : ”Welcome to Nigeria“ "
 		}
 	]
 }
