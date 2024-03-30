@@ -148,7 +148,7 @@
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
-			"title": "La muse : une icône féministe ? ",
+			"title": "La muse : une icône féministe ?",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
 				"alt": "Photo ©Rebecca Dorothy",
@@ -717,6 +717,29 @@
 			"description": "Cat Power - Zero 7 x Sophie Barker - Cody Chesnutt - Olu Dara x Mayanna Lee - - Lenny Kravitz - Massive Attack - Fun Lovin' Criminal - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac -  Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - Tom Tom Club - Leisure & +++ enjoy"
 		},
 		{
+			"uid": "la-muse--une-icone-feministe-",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2024-03-30T23:57:32+0000",
+			"title": "La muse : une icône féministe ?",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassa",
+			"internal_link": null,
+			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
+		},
+		{
 			"uid": "x-track-studio---biaziouka",
 			"tags": [
 				"music",
@@ -1067,29 +1090,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "jacques interview"
-		},
-		{
-			"uid": "la-muse--une-icone-feministe-",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2023-10-08T09:55:01+0000",
-			"title": "La muse : une icône féministe ? ",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassa",
-			"internal_link": null,
-			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
 		}
 	]
 }
