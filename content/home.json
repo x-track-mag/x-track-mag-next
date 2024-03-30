@@ -717,6 +717,27 @@
 			"description": "Cat Power - Zero 7 x Sophie Barker - Cody Chesnutt - Olu Dara x Mayanna Lee - - Lenny Kravitz - Massive Attack - Fun Lovin' Criminal - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac -  Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - Tom Tom Club - Leisure & +++ enjoy"
 		},
 		{
+			"uid": "interview-moment-badbiche",
+			"tags": [
+				"interview",
+				"music"
+			],
+			"publication_date": "2024-03-30T09:59:59+0000",
+			"title": "BAD BICHE",
+			"subtitle": "A LITTLE MOMENT ",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "ITW BADBICHE ST HD.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d8328c7-bb21-45fa-b477-761838f35862_ITW+BADBICHE+ST+HD.mp4",
+				"size": "4895916"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "interview bad biche a little moment x-track mag"
+		},
+		{
 			"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
 			"tags": [
 				"article"
@@ -1069,27 +1090,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "live session Biaziouka Plug x-track mag"
-		},
-		{
-			"uid": "interview-moment-badbiche",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2023-03-11T08:21:37+0000",
-			"title": "BAD BICHE ",
-			"subtitle": "A LITTLE MOMENT ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "ITW BADBICHE ST HD.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d8328c7-bb21-45fa-b477-761838f35862_ITW+BADBICHE+ST+HD.mp4",
-				"size": "4895916"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "interview bad biche a little moment x-track mag"
 		}
 	]
 }
