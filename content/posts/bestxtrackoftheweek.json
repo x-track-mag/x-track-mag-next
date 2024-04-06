@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-31T09:34:29+0000",
+	"publication_date": "2024-04-06T10:37:29+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Beyonce",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Yaya Bey",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Beyoncé - TEXAS HOLD 'EM (Official Visualizer).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/991a4f3e-25b3-446c-9a3b-85b6742df040_Beyonce%CC%81+-+TEXAS+HOLD+%27EM+%28Official+Visualizer%29.mp4",
-		"size": "29844239"
+		"name": "yt1s.com - Yaya Bey  me and all my niggas Official Video.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZhElAxrFxhpPBWQ4_yt1s.com-YayaBeymeandallmyniggasOfficialVideo.mp4",
+		"size": "17827715"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,9 +22,8 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Beyonce - Shenseea - Sean Paul x Notnice - Vampire Weekend - Nep - Charlotte Day Wilson - Future x Metro Boomin x Rick ross - 1010benja & +++ Enjoy",
-					"spans": [],
-					"direction": "ltr"
+					"text": "Hope Tala - Yaya Bey - 4batz - Burna Boy x Prince Swanny - Beyoncé - Tyla x Gunna x Skillibeng - Mo Koulours - Black Sherif -  Yellow Days - Odeal & +++ Enjoy",
+					"spans": []
 				}
 			]
 		},
@@ -32,57 +31,57 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZginKMt2UUcvBSwv_Beyonce.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Beyonce",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/8b4ebff6-afe8-40bb-b222-6c5c657a8df0_Sean+Paul.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
-					"alt": "Sean Paul",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZginJ8t2UUcvBSwu_Shenseea.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1346&w=1024&h=1276",
-					"alt": "Shenseea",
-					"copyright": null,
-					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZginIct2UUcvBSwo_FuturexMetroBoomin.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Future x Metro Boomin",
+					"url": "https://images.prismic.io/x-track-mag/ZhEf4BrFxhpPBWQm_HopeTala.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Hope Tala",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZginIst2UUcvBSwp_CharlotteDayWilson.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Charlotte Day Wilson",
+					"url": "https://images.prismic.io/x-track-mag/ZhEf1hrFxhpPBWQj_4batz.jpg?auto=compress,format&rect=0,0,788,1024&w=1024&h=1331",
+					"alt": "4batz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1331,
+					"ratio": 0.7693463561232157
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZhEf0xrFxhpPBWQg_Beyonce.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Beyonce",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZginJct2UUcvBSws_VampireWeek-End.jpg?auto=format%2Ccompress&rect=0%2C0%2C1079%2C720&w=1024&h=683",
-					"alt": "Vampire Week-End",
+					"url": "https://images.prismic.io/x-track-mag/ZhEf1RrFxhpPBWQi_BurnaBoy.jpg?auto=compress,format&rect=0,0,1080,1231&w=1024&h=1167",
+					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1167,
+					"ratio": 0.8774635818337618
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZhEf0hrFxhpPBWQf_Tyla.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Tyla",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZhEfzRrFxhpPBWQa_YellowDays.jpg?auto=compress,format&rect=0,0,965,1206&w=1024&h=1280",
+					"alt": "Yellow Days",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
