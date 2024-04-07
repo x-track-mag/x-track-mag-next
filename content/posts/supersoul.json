@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-12T11:18:31+0000",
+	"publication_date": "2024-04-07T11:32:47+0000",
 	"title": "Supersoul ",
 	"subtitle": "Hip Hop x Soul Music From 00's",
 	"text_color": "green",
@@ -25,8 +25,9 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Outkast - Kanye West x Paul Wall x GLC - Mos Def - Method Man x Mary J Blidge - Maxwell - The Game x 50 Cent - Roy Ayers - Snoop Dog x Charlie Wilson x Justin Timberlake - Sleepy Brown x Pharrell x Big Boi - Outkast - Nile Rodgers - Bill Ben & Bagio - Gnarls Barkley - Michael Jackson - Usher - Zapp - Patrice Rushen - Fine Young Cannibals - Silk Rhodes - Sault - NERD - Space Invadas - Dan Electro - YBU - Nas x Lauryn Hill - 2pac - Timbaland & Magoo - Soul II Soul x Caron Wheeler - Massive Attack - Kendrick Lamar - Notorious Big - A Tribe Call Quest - Gang Starr - Digable Planets - Busta Rhymes x Pete Rock - Jay Z - Warren G x Nate Dogg - Fugees - Blackstreet x Dr Dre x Queen Pen - Erykah Badu - Will.I.Am - Missy Elliot - Thundercat - Luniz - Coolio - Janet Jackson - D'Angelo - Ms. Dynamite & ++++",
-					"spans": []
+					"text": "D'Angelo - Kanye West x Paul Wall x GLC - Slum Village x Dwele - Mos Def - Raphael Saadiq x Q-Tips - Ms. Lauryn Hill - Method Man x Mary J Blidge - The Game x 50 Cent - Roy Ayers - Snoop Dog x Charlie Wilson x Justin Timberlake - Sleepy Brown x Pharrell Williams x Big Boi - Outkast x Kelis - Gnarls Barkley - Michael Jackson - Zapp - Nile Rodgers - Fine Young Cannibals - Massive Attacks - Sault - N.E.R.D. - Dan Electro - YBU x Hans Grottheim - Kendrick Lamar - The Notorious Big  & ++++",
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
