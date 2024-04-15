@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-15T09:59:38+0000",
+	"publication_date": "2024-04-15T10:06:25+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Amaarae",
 	"text_color": "inverted",
@@ -22,8 +22,9 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Celeste - Amaarae x Juls - Saint Levant x MC Abdul - Baby Rose x Badbadnotgood - Tobes44 - Young John x Sean Paul - Doctor Spice x Kida Kudz - Future x Metro Boomin x J Cole - Mc Pose do Rodo x Neo Beats x Mainstreet - Madison McFerrin x Pachyman - Neil Francis x PawPaw Rod - Blick Bassy x RY X - NXRY x Rini - JEG & +++ Enjoy",
-					"spans": []
+					"text": "Celeste - Amaarae x Juls - Saint Levant x MC Abdul - Baby Rose x Badbadnotgood - Tobes44 - Young John x Sean Paul - Doctor Spice x Kida Kudz - Mc Pose do Rodo x Neo Beats x Mainstreet - Madison McFerrin x Pachyman - Neil Francis x PawPaw Rod - Blick Bassy x RY X - NXRY x Rini - JEG & +++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
