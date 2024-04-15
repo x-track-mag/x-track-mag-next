@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-06T10:37:29+0000",
+	"publication_date": "2024-04-15T09:59:38+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Yaya Bey",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Amaarae",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "yt1s.com - Yaya Bey  me and all my niggas Official Video.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZhElAxrFxhpPBWQ4_yt1s.com-YayaBeymeandallmyniggasOfficialVideo.mp4",
-		"size": "17827715"
+		"name": "Ammarae.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zhz4DTjCgu4jz0Rb_Ammarae.mp4",
+		"size": "9725522"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Hope Tala - Yaya Bey - 4batz - Burna Boy x Prince Swanny - Beyoncé - Tyla x Gunna x Skillibeng - Mo Koulours - Black Sherif -  Yellow Days - Odeal & +++ Enjoy",
+					"text": "Celeste - Amaarae x Juls - Saint Levant x MC Abdul - Baby Rose x Badbadnotgood - Tobes44 - Young John x Sean Paul - Doctor Spice x Kida Kudz - Future x Metro Boomin x J Cole - Mc Pose do Rodo x Neo Beats x Mainstreet - Madison McFerrin x Pachyman - Neil Francis x PawPaw Rod - Blick Bassy x RY X - NXRY x Rini - JEG & +++ Enjoy",
 					"spans": []
 				}
 			]
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZhEf4BrFxhpPBWQm_HopeTala.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/Zhz4EDjCgu4jz0Re_Celeste.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Celeste",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zhz4DzjCgu4jz0Rd_SaintLevant.jpg?auto=compress,format&rect=0,0,1080,1209&w=1024&h=1146",
+					"alt": "Saint Levant",
+					"copyright": null,
+					"width": 1024,
+					"height": 1146,
+					"ratio": 0.893542757417103
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/8464a427-5cd8-446b-859d-d4c1a32fe2ab_Amaarae+.jpg?auto=compress,format&rect=0,0,1920,1920&w=1024&h=1024",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZhEf1hrFxhpPBWQj_4batz.jpg?auto=compress,format&rect=0,0,788,1024&w=1024&h=1331",
-					"alt": "4batz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1331,
-					"ratio": 0.7693463561232157
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZhEf0xrFxhpPBWQg_Beyonce.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Beyonce",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZhEf1RrFxhpPBWQi_BurnaBoy.jpg?auto=compress,format&rect=0,0,1080,1231&w=1024&h=1167",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/Zhz4AzjCgu4jz0RR_PawPawrod.jpg?auto=compress,format&rect=0,0,1080,1063&w=1024&h=1008",
+					"alt": "PawPaw Rod",
 					"copyright": null,
 					"width": 1024,
-					"height": 1167,
-					"ratio": 0.8774635818337618
+					"height": 1008,
+					"ratio": 1.0158730158730158
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZhEf0hrFxhpPBWQf_Tyla.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Tyla",
+					"url": "https://images.prismic.io/x-track-mag/Zhz4ADjCgu4jz0RL_MadispnMcFerrin.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Madison McFerrin",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZhEfzRrFxhpPBWQa_YellowDays.jpg?auto=compress,format&rect=0,0,965,1206&w=1024&h=1280",
-					"alt": "Yellow Days",
+					"url": "https://images.prismic.io/x-track-mag/Zhz4ADjCgu4jz0RN_Jeg.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Jeg",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
