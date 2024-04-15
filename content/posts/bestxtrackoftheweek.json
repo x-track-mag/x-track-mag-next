@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-15T10:06:25+0000",
+	"publication_date": "2024-04-15T10:11:58+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Amaarae",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Celeste - Amaarae x Juls - Saint Levant x MC Abdul - Baby Rose x Badbadnotgood - Tobes44 - Young John x Sean Paul - Doctor Spice x Kida Kudz - Mc Pose do Rodo x Neo Beats x Mainstreet - Madison McFerrin x Pachyman - Neil Francis x PawPaw Rod - Blick Bassy x RY X - NXRY x Rini - JEG & +++ Enjoy",
+					"text": "Celeste - Amaarae x Juls - Saint Levant x MC Abdul - Baby Rose x Badbadnotgood - Tobes44 - Young John x Sean Paul - Doctor Spice x Kida Kudz - Mc Pose do Rodo x Neo Beats x Mainstreet - Neil Francis x PawPaw Rod - Blick Bassy x RY X - NXRY x Rini - JEG & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,15 +32,7 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zhz4EDjCgu4jz0Re_Celeste.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Celeste",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zhz4DzjCgu4jz0Rd_SaintLevant.jpg?auto=compress,format&rect=0,0,1080,1209&w=1024&h=1146",
+					"url": "https://images.prismic.io/x-track-mag/Zhz4DzjCgu4jz0Rd_SaintLevant.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1209&w=1024&h=1146",
 					"alt": "Saint Levant",
 					"copyright": null,
 					"width": 1024,
@@ -48,8 +40,16 @@
 					"ratio": 0.893542757417103
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8464a427-5cd8-446b-859d-d4c1a32fe2ab_Amaarae+.jpg?auto=compress,format&rect=0,0,1920,1920&w=1024&h=1024",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/Zhz4EDjCgu4jz0Re_Celeste.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
+					"alt": "Celeste",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zhz4DjjCgu4jz0Rc_McAbdul.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Mc Abdul",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -69,8 +69,8 @@
 					"ratio": 1.0158730158730158
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zhz4ADjCgu4jz0RL_MadispnMcFerrin.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Madison McFerrin",
+					"url": "https://images.prismic.io/x-track-mag/8464a427-5cd8-446b-859d-d4c1a32fe2ab_Amaarae+.jpg?auto=format%2Ccompress&rect=0%2C0%2C1920%2C1920&w=1024&h=1024",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
