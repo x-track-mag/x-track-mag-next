@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-26T12:30:05+0000",
+	"publication_date": "2024-04-16T23:10:38+0000",
 	"title": "Slow Dance",
 	"subtitle": "Old School Down Tempo - Cover : Grace Jones",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Cat Power - Zero 7 x Sophie Barker - Cody Chesnutt - Olu Dara x Mayanna Lee - - Lenny Kravitz - Massive Attack - Fun Lovin' Criminal - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac -  Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - Tom Tom Club - Leisure & +++ enjoy",
+					"text": "Zero 7 x Sophie Barker - Lenny Kravitz - Massive Attack - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac - Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - The Neville Brothers - Tom Tom Club - Leisure - John Lee Hooker x Santana - Jamie xx - & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -43,12 +43,12 @@
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zf6gzscYqOFdyC1U_Cat-Power.jpg?auto=compress,format&rect=0,0,2100,1575&w=1024&h=768",
-					"alt": "Cat Power",
+					"url": "https://images.prismic.io/x-track-mag/Zh8E1kaI3ufuUPXR_Angus%26JuliaStone.jpg?auto=format%2Ccompress&rect=0%2C0%2C2048%2C1672&w=1024&h=836",
+					"alt": "Angus & Julia Stone",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 836,
+					"ratio": 1.2248803827751196
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zf6gyscYqOFdyC1Q_TomTomClub.jpg?auto=compress,format&rect=0,0,870,654&w=1024&h=770",
@@ -64,12 +64,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zf6gz8cYqOFdyC1V_CodyChesnutt.jpg?auto=compress,format&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Cody Chesnutt",
+					"url": "https://images.prismic.io/x-track-mag/Zh8E10aI3ufuUPXS_DarylHall%26JohnOates.jpg?auto=format%2Ccompress&rect=0%2C0%2C960%2C997&w=1024&h=1063",
+					"alt": "Daryl Hall & John Oates",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1063,
+					"ratio": 0.9633113828786454
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zf6g0ccYqOFdyC1X_FleetwoodMac.jpg?auto=compress,format&rect=0,0,1580,1054&w=1024&h=683",
@@ -107,5 +107,5 @@
 			]
 		}
 	],
-	"description": "Cat Power - Zero 7 x Sophie Barker - Cody Chesnutt - Olu Dara x Mayanna Lee - - Lenny Kravitz - Massive Attack - Fun Lovin' Criminal - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac -  Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - Tom Tom Club - Leisure & +++ enjoy"
+	"description": "Zero 7 x Sophie Barker - Lenny Kravitz - Massive Attack - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac - Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - The Neville Brothers - Tom Tom Club - Leisure - John Lee Hooker x Santana - Jamie xx - & +++ enjoy"
 }
