@@ -49,7 +49,7 @@
 		},
 		{
 			"position": 11,
-			"uid": "new-romance"
+			"uid": "afropop"
 		},
 		{
 			"position": 12,
@@ -65,7 +65,7 @@
 		},
 		{
 			"position": 15,
-			"uid": "afropop"
+			"uid": "new-romance"
 		},
 		{
 			"position": 16,
@@ -400,24 +400,24 @@
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
 		},
 		{
-			"uid": "new-romance",
+			"uid": "afropop",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-03-25T14:22:26+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes - Cover : Enny",
+			"publication_date": "2024-04-17T09:34:19+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "enny .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZgGFpscYqOFdyEEq_enny.mp4",
-				"size": "14057651"
+				"name": "Burna Boy.    .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zh-W5EaI3ufuUP2L_BurnaBoy..mp4",
+				"size": "4912994"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "Skeete x Jada Kingdom - Burna Boy x Prince Swanny - Black Sherif - Doctor Spice x Kida Kudz - Tyla x Gunna x Skillibeng x Tems x Travis Scott - Amaarae x Juls - Wizkid x Wanda Coal - Boj -  Naomi Sharon x Omah Lay - Asake - Swae Lee x Drake x Tekno - The Cavemen - Ayra Starr - Killbeatz x Stonebwoy - Young John x Sean Paul - Drake x Bad Bunny - Odumodublvck x Bllody Civilian x Wale - J Hus x Drake & ++++ Enjoy"
 		},
 		{
 			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
@@ -484,24 +484,24 @@
 			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
-			"uid": "afropop",
+			"uid": "new-romance",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-04-17T09:34:19+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
+			"publication_date": "2024-03-25T14:22:26+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes - Cover : Enny",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Burna Boy.    .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zh-W5EaI3ufuUP2L_BurnaBoy..mp4",
-				"size": "4912994"
+				"name": "enny .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZgGFpscYqOFdyEEq_enny.mp4",
+				"size": "14057651"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Skeete x Jada Kingdom - Burna Boy x Prince Swanny - Black Sherif - Doctor Spice x Kida Kudz - Tyla x Gunna x Skillibeng x Tems x Travis Scott - Amaarae x Juls - Wizkid x Wanda Coal - Boj -  Naomi Sharon x Omah Lay - Asake - Swae Lee x Drake x Tekno - The Cavemen - Ayra Starr - Killbeatz x Stonebwoy - Young John x Sean Paul - Drake x Bad Bunny - Odumodublvck x Bllody Civilian x Wale - J Hus x Drake & ++++ Enjoy"
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
