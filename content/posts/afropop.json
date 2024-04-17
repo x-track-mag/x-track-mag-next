@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-17T09:32:15+0000",
+	"publication_date": "2024-04-17T09:34:19+0000",
 	"title": "Afropop",
 	"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
 	"text_color": "inverted",
@@ -69,12 +69,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/67fbdae8-ea29-4b3c-9346-5782e94f3f17_Drake.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Drake",
+					"url": "https://images.prismic.io/x-track-mag/f29b6e0c-0799-40ba-ab6d-f80592974788_Wizkid.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C2240%2C1260&w=1024&h=576",
