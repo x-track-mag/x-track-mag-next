@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-25T14:22:26+0000",
+	"publication_date": "2024-04-18T18:03:15+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Cover : Enny",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Enny x Smino - Jungle x Full Crate - Don Toliver - Cash Cobain - Daniel Caesar - Khruangbin - Skeete x Jada Kingdom - Facesoul - Cleo sol - Amaria BB - Teni - Naomi sharon - Stormzy x Tendai x Ayra Starr - Juls x Tay Iwar x p-rallel. - Chiiild - 6LACK - Waterbaby & +++ enjoy",
+					"text": "4batz - Jungle x Full Crate - Enny x Smino - Hope Tala - Cash Cobain - Daniel Caesar - Khruangbin - Facesoul - Yaya Bey - Cleo sol - Jones x Aaron Taylor - Patchwork x Pat Kalla - Ézechiel Pailhes - Nep - Saint Levant x Mc Abdul - Waterbaby - 6lack - Chiiild x Shungudzo - Chaton - Babeheaven - Teni - Rum.gold - Mavi -Baaba J - Q - Neil Frances x PawPaw Rod - Naomi sharon - Amaria BB   & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/d928e21c-7730-4347-8689-87185a94fbe2_Jungle.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jungle",
+					"url": "https://images.prismic.io/x-track-mag/ZhEf4BrFxhpPBWQm_HopeTala.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Hope Tala",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ad74fd7b-52a2-41b4-ac95-be65d257a6a4_Khruangbin.jpg?auto=compress,format&rect=0,0,674,843&w=1024&h=1281",
-					"alt": "Khruangbin",
+					"url": "https://images.prismic.io/x-track-mag/ZhEf1hrFxhpPBWQj_4batz.jpg?auto=format%2Ccompress&rect=0%2C0%2C788%2C1024&w=1024&h=1331",
+					"alt": "4batz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1281,
-					"ratio": 0.7993754879000781
+					"height": 1331,
+					"ratio": 0.7693463561232157
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/dcc719a8-6015-49d5-b5d9-d94598422173_Skeete.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Skeete",
+					"url": "https://images.prismic.io/x-track-mag/3d59aa1b-52c8-4823-9ac9-d91ae12e2ca7_Jones.jpg?auto=format%2Ccompress&rect=0%2C0%2C1366%2C1471&w=1024&h=1103",
+					"alt": "Jones",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1103,
+					"ratio": 0.928377153218495
 				}
 			]
 		},
