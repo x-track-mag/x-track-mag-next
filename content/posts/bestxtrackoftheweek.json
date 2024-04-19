@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-19T09:33:22+0000",
+	"publication_date": "2024-04-19T09:44:20+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Chris Brown",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Cigarettes After Sex - Vintage Culture x Maverick Sabre x Tom Breu - Chris Brown x Davido - Odumodublvck x Blaqbonez x Lekaa Beats - Juls x Odeal - CKay x Olazmide - Jones x Aaron Taylor - Baby rose x Badbadnotgood - Chaton - 1da Banton x Bella Shmurda - Headie One x Stormzy x Tayu Keith - Jorja Smith - Solo Banton x Joe Yorke x Irie Ites & +++ Enjoy",
+					"text": "Cigarettes After Sex - Vintage Culture x Maverick Sabre x Tom Breu - Chris Brown x Davido - Odumodublvck x Blaqbonez x Lekaa Beats - Juls x Odeal - Baby rose x Badbadnotgood - Chaton - 1da Banton x Bella Shmurda - Headie One x Stormzy x Tayu Keith - Jorja Smith - Solo Banton x Joe Yorke x Irie Ites & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -40,8 +40,8 @@
 					"ratio": 1.501466275659824
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4bb69ec9-d180-41b3-87a8-816614df6b10_Jones.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Jones",
+					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -77,12 +77,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b08b1852-a32a-4ad3-9f79-5f46875159de_C+Kay.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "C Kay",
+					"url": "https://images.prismic.io/x-track-mag/ZiIz6fPdc1huKoZI_Juls.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1149&w=1024&h=1089",
+					"alt": "Juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1089,
+					"ratio": 0.9403122130394858
 				}
 			]
 		},
