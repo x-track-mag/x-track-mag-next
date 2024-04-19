@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-15T10:11:58+0000",
+	"publication_date": "2024-04-19T09:33:22+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Amaarae",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Chris Brown",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Ammarae.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zhz4DTjCgu4jz0Rb_Ammarae.mp4",
-		"size": "9725522"
+		"name": "Chris Brown  Go Girlfriend Visualizer.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZiIx7fPdc1huKoYD_yt1s.com-ChrisBrownGoGirlfriendVisualizer.mp4",
+		"size": "35574023"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Celeste - Amaarae x Juls - Saint Levant x MC Abdul - Baby Rose x Badbadnotgood - Tobes44 - Young John x Sean Paul - Doctor Spice x Kida Kudz - Mc Pose do Rodo x Neo Beats x Mainstreet - Neil Francis x PawPaw Rod - Blick Bassy x RY X - NXRY x Rini - JEG & +++ Enjoy",
+					"text": "Cigarettes After Sex - Vintage Culture x Maverick Sabre x Tom Breu - Chris Brown x Davido - Odumodublvck x Blaqbonez x Lekaa Beats - Juls x Odeal - CKay x Olazmide - Jones x Aaron Taylor - Baby rose x Badbadnotgood - Chaton - 1da Banton x Bella Shmurda - Headie One x Stormzy x Tayu Keith - Jorja Smith - Solo Banton x Joe Yorke x Irie Ites & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zhz4DzjCgu4jz0Rd_SaintLevant.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1209&w=1024&h=1146",
-					"alt": "Saint Levant",
+					"url": "https://images.prismic.io/x-track-mag/ZiIz7fPdc1huKoZM_CigarettesAfterSex.jpg?auto=format%2Ccompress&rect=0%2C0%2C1250%2C833&w=1024&h=682",
+					"alt": "Cigarettes After Sex",
 					"copyright": null,
 					"width": 1024,
-					"height": 1146,
-					"ratio": 0.893542757417103
+					"height": 682,
+					"ratio": 1.501466275659824
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zhz4EDjCgu4jz0Re_Celeste.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
-					"alt": "Celeste",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zhz4DjjCgu4jz0Rc_McAbdul.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Mc Abdul",
+					"url": "https://images.prismic.io/x-track-mag/4bb69ec9-d180-41b3-87a8-816614df6b10_Jones.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Jones",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZiI4R_Pdc1huKoc-_VintageCulture.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Vintage Culture",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zhz4AzjCgu4jz0RR_PawPawrod.jpg?auto=compress,format&rect=0,0,1080,1063&w=1024&h=1008",
-					"alt": "PawPaw Rod",
+					"url": "https://images.prismic.io/x-track-mag/ZiIz6vPdc1huKoZJ_Odumodublvck.jpg?auto=format%2Ccompress&rect=0%2C0%2C822%2C1024&w=1024&h=1276",
+					"alt": "Odumodublvck",
 					"copyright": null,
 					"width": 1024,
-					"height": 1008,
-					"ratio": 1.0158730158730158
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8464a427-5cd8-446b-859d-d4c1a32fe2ab_Amaarae+.jpg?auto=format%2Ccompress&rect=0%2C0%2C1920%2C1920&w=1024&h=1024",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/ZiIz5PPdc1huKoZD_BabyRose.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Baby Rose",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zhz4ADjCgu4jz0RN_Jeg.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jeg",
+					"url": "https://images.prismic.io/x-track-mag/b08b1852-a32a-4ad3-9f79-5f46875159de_C+Kay.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "C Kay",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
