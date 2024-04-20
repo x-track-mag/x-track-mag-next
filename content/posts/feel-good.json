@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-20T09:11:47+0000",
+	"publication_date": "2024-04-20T09:31:22+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Tyla",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Cash Cobain x Bay Swag - Frank Ekwa - Byron Messia - Tyla x Gunna x Skillibeng x Tems - Juls x Odeal - Black Sherif - Saint Levant x MC Abdul - Vintage Culture x Maverick Sabre x Tom Breu - Adi Oasis x Jitwam - Amaarae x Juls - Liam Bailey - Jorja smith x Josman - Odeal x Brazy - Naomi sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake - Iman Europe x Kaelin Ellis - Maandy - Fantasia x Shenseea x Missy Elliot & +++ Enjoy",
+					"text": "Cash Cobain x Bay Swag - Frank Ekwa - Byron Messia - Tyla x Gunna x Skillibeng x Tems - Saint Levant x MC Abdul - Vintage Culture x Maverick Sabre x Tom Breu -  Amaarae x Juls - Liam Bailey - Jorja smith x Josman - Odeal x Brazy - Naomi sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake - Iman Europe x Kaelin Ellis - Maandy - Fantasia x Shenseea x Missy Elliot & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -40,12 +40,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZfXk3MmUzjad_Tdt_AdiOasis.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1079&w=1024&h=1023",
-					"alt": "Adi Oasis",
+					"url": "https://images.prismic.io/x-track-mag/8464a427-5cd8-446b-859d-d4c1a32fe2ab_Amaarae+.jpg?auto=format%2Ccompress&rect=0%2C0%2C1920%2C1920&w=1024&h=1024",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zhz4DzjCgu4jz0Rd_SaintLevant.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1209&w=1024&h=1146",
@@ -61,12 +61,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/15c790ca-6789-4763-b83b-e9f8803dad05_Amaarae++.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C2240%2C1260&w=1024&h=576",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=format%2Ccompress&rect=0%2C0%2C1799%2C1200&w=1024&h=683",
