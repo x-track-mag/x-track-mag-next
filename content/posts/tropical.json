@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-02-28T15:39:55+0000",
+	"publication_date": "2024-04-21T10:04:52+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Lila Iké",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x Zion I King x Lila Iké - YG Marley - Soul Sugar x  Jolly Joseph - Chronixx - Yaya Bey - Liam Bailey -  Yaadman - Sean Paul - Mystic Marley - Fantasia x Shenseea x Missy Elliot - Wizkid x HER - Skip Marley - Boutros x Juicee Man - Patoranking x Popcaan - Juls x Pure Akan - Mejja - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar -Timaya - The Cavemen - Tekno - Juls x Twich 4EVA x Quamina MP & +++ Enjoy",
+					"text": "Protoje x Zion I King x Lila Iké - YG Marley - Mystic Marley - Soul Sugar x  Jolly Joseph - Chronixx - Yaya Bey - Liam Bailey - Yaadman - Sean Paul -  Patoranking x Popcaan - Juls x Pure Akan - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar -Timaya - The Cavemen - Tekno - Juls x Twich 4EVA x Quamina MP -Boutros x Juicee Mann - Jobo x Bogo - J Hus x Drake - Ghetto Boy - Skip Marley x Popcaan - Blundetto x Voilaaa & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -48,8 +48,8 @@
 					"ratio": 1.4883720930232558
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/82e5a9e8-5fd9-4102-a036-ea57be225a89_Yaya+Bey.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Yaya Bey",
+					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Mystic Marley",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -69,20 +69,20 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Mystic Marley",
+					"url": "https://images.prismic.io/x-track-mag/82e5a9e8-5fd9-4102-a036-ea57be225a89_Yaya+Bey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Yaya Bey",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0e605028-52a5-452b-8062-09613d312daf_Bob+Marley+.jpg?auto=compress,format&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Bob Marley",
+					"url": "https://images.prismic.io/x-track-mag/ZiTkhPPdc1huKqHs_Chronixx.jpg?auto=format%2Ccompress&rect=0%2C0%2C2560%2C1440&w=1024&h=576",
+					"alt": "Chronixx",
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
