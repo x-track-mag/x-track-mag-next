@@ -3,17 +3,17 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-07T11:32:47+0000",
+	"publication_date": "2024-04-29T04:44:35+0000",
 	"title": "Supersoul ",
 	"subtitle": "Hip Hop x Soul Music From 00's",
 	"text_color": "green",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/f4b5ccb4-2a45-4158-8c4a-f3e20d7c0240_Outkast.jpg?auto=compress,format",
+		"url": "https://images.prismic.io/x-track-mag/Zi8lod3JpQ5PTOv3_Outkast..jpg?auto=format,compress",
 		"alt": "Outkast",
 		"copyright": null,
-		"width": 2016,
-		"height": 1350,
-		"ratio": 1.4933333333333334
+		"width": 2400,
+		"height": 1600,
+		"ratio": 1.5
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
