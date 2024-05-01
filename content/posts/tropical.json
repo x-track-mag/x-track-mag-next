@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-21T10:04:52+0000",
+	"publication_date": "2024-05-01T08:10:34+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Lila Iké",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x Zion I King x Lila Iké - YG Marley - Mystic Marley - Soul Sugar x  Jolly Joseph - Chronixx - Yaya Bey - Liam Bailey - Yaadman - Sean Paul -  Patoranking x Popcaan - Juls x Pure Akan - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar -Timaya - The Cavemen - Tekno - Juls x Twich 4EVA x Quamina MP -Boutros x Juicee Mann - Jobo x Bogo - J Hus x Drake - Ghetto Boy - Skip Marley x Popcaan - Blundetto x Voilaaa & +++ Enjoy",
+					"text": "Protoje x Zion I King x Lila Iké - Mystic Marley - Soul Sugar x  Jolly Joseph - Chronixx - Sean Pauk - Yaya Bey - Liam Bailey - Yaadman - Patoranking x Popcaan - Juls x Pure Akan - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar -Timaya - The Cavemen - Tekno - Juls x Twich 4EVA x Quamina MP - Boutros x Juicee Mann - Amaarae x Juls - Jobo x Bogo - J Hus x Drake - Ghetto Boy - Skip Marley x Popcaan - Blundetto x Voilaaa & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -40,12 +40,12 @@
 					"ratio": 0.9078014184397163
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/bbd4b2ca-cd39-4841-b91f-9197f1eab9a2_YG+Marley.jpg?auto=compress,format&rect=0,0,640,430&w=1024&h=688",
-					"alt": "YG Marley",
+					"url": "https://images.prismic.io/x-track-mag/ZiTkhPPdc1huKqHs_Chronixx.jpg?auto=format%2Ccompress&rect=0%2C0%2C2560%2C1440&w=1024&h=576",
+					"alt": "Chronixx",
 					"copyright": null,
 					"width": 1024,
-					"height": 688,
-					"ratio": 1.4883720930232558
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
@@ -77,12 +77,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZiTkhPPdc1huKqHs_Chronixx.jpg?auto=format%2Ccompress&rect=0%2C0%2C2560%2C1440&w=1024&h=576",
-					"alt": "Chronixx",
+					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=format%2Ccompress&rect=0%2C0%2C1612%2C2015&w=1024&h=1280",
+					"alt": "Protoje",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
