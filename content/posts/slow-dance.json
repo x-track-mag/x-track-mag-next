@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-16T23:10:38+0000",
+	"publication_date": "2024-05-01T09:06:16+0000",
 	"title": "Slow Dance",
 	"subtitle": "Old School Down Tempo - Cover : Grace Jones",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Zero 7 x Sophie Barker - Lenny Kravitz - Massive Attack - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac - Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - The Neville Brothers - Tom Tom Club - Leisure - John Lee Hooker x Santana - Jamie xx - & +++ enjoy",
+					"text": "Baby Fox - Portishead - Lenny Kravitz - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac - Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - The Neville Brothers - Tom Tom Club - Leisure - John Lee Hooker x Santana - Jamie xx - Massive Attack - Flash & The Pan & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -35,12 +35,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zf6g0McYqOFdyC1W_Zero7.jpg?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
-					"alt": "Zero 7",
+					"url": "https://images.prismic.io/x-track-mag/ZjIFp0MTzAJOCdnz_Portishead.jpg?auto=format%2Ccompress&rect=0%2C0%2C1200%2C900&w=1024&h=768",
+					"alt": "Portishead",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 768,
+					"ratio": 1.3333333333333333
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zh8E1kaI3ufuUPXR_Angus%26JuliaStone.jpg?auto=format%2Ccompress&rect=0%2C0%2C2048%2C1672&w=1024&h=836",
@@ -80,12 +80,12 @@
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zf6nRMcYqOFdyC12_MassiveAttack..jpg?auto=compress,format&rect=0,0,1199,630&w=1024&h=538",
-					"alt": "Massive Attack",
+					"url": "https://images.prismic.io/x-track-mag/ZjIFpkMTzAJOCdny_BabyFox.jpg?auto=format%2Ccompress&rect=0%2C0%2C668%2C668&w=1024&h=1024",
+					"alt": "Baby Fox",
 					"copyright": null,
 					"width": 1024,
-					"height": 538,
-					"ratio": 1.903345724907063
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -107,5 +107,5 @@
 			]
 		}
 	],
-	"description": "Zero 7 x Sophie Barker - Lenny Kravitz - Massive Attack - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac - Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - The Neville Brothers - Tom Tom Club - Leisure - John Lee Hooker x Santana - Jamie xx - & +++ enjoy"
+	"description": "Baby Fox - Portishead - Lenny Kravitz - St Germain - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac - Angus & Julia Stone - I:Cube - Davis Bowie - Shakarchi & Stranéus x HNNY - Suzanne Vega x DNA - The Neville Brothers - Tom Tom Club - Leisure - John Lee Hooker x Santana - Jamie xx - Massive Attack - Flash & The Pan & +++ enjoy"
 }
