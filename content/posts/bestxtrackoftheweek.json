@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-27T09:44:27+0000",
+	"publication_date": "2024-05-04T09:58:35+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Cash Cobain",
+	"subtitle": "Les meilleurs sons de la semaine        -       Cover : Caius",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Cash Cobain.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Ziy7R93JpQ5PTOJT_CashCobain.mp4",
-		"size": "2122943"
+		"name": "Caius.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZjX9ykMTzAJOCh_0_Caius.mp4",
+		"size": "4430041"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Alain Chamfort - Cash Cobain x Ice Spice x Bay Swag - Mosty x Lala Ace - Malik Djoudi - Future x Metro Boomin x The Weeknd - AJ Tracey - Tems - Y-Ali - Partynextdoor - Chenayder x Mavi - Aitch - Anicya - Ley Soul - Nascent x PawPaw Rod x Knucks - Babyrose x Badbadnotgood - Chase Shakur & +++ Enjoy",
+					"text": "4batz - Vibez Inc x Seyi Vibez x Tion Wayne - Caius x Jesse Ayo - April Maey - Yimeeka - Govana x Jada Kingdom - Chaton - Jorja Smith - Nnavy x Karun x Msaki x Hendrick Sam - Charlotte Day Wilson & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZizG7N3JpQ5PTOLC_IceSpice.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1322&w=1024&h=1253",
-					"alt": "Ice Spice",
+					"url": "https://images.prismic.io/x-track-mag/ZjX9zUMTzAJOCh_3_4Batz.jpg?auto=format%2Ccompress&rect=0%2C0%2C750%2C750&w=1024&h=1024",
+					"alt": "4Batz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1253,
-					"ratio": 0.8172386272944933
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Ziy7V93JpQ5PTOJk_AlainChamfort.jpg?auto=format%2Ccompress&rect=0%2C0%2C533%2C355&w=1024&h=682",
-					"alt": "Alain Chamfort",
-					"copyright": null,
-					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZizIwd3JpQ5PTOLF_Mosty..jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Mosty",
+					"url": "https://images.prismic.io/x-track-mag/ZjX9yEMTzAJOCh_y_AprilMaey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "April Maey",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZjX9xEMTzAJOCh_u_GovanaxJadaKingdom.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1214&w=1024&h=1151",
+					"alt": "Govana x Jada Kingdom",
+					"copyright": null,
+					"width": 1024,
+					"height": 1151,
+					"ratio": 0.889661164205039
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Ziy7Ud3JpQ5PTOJe_TheWeeknd.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C725&w=1024&h=687",
-					"alt": "The Weeknd",
+					"url": "https://images.prismic.io/x-track-mag/ZjX9x0MTzAJOCh_x_Yimeeka.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Yimeeka",
 					"copyright": null,
 					"width": 1024,
-					"height": 687,
-					"ratio": 1.490538573508006
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Ziy7T93JpQ5PTOJc_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/ZjX9zEMTzAJOCh_2_TionWayne.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Tion Wayne",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Ziy7U93JpQ5PTOJg_MalickDjoudi.jpg?auto=format%2Ccompress&rect=0%2C0%2C828%2C684&w=1024&h=846",
-					"alt": "Malick Djoudi",
+					"url": "https://images.prismic.io/x-track-mag/ZjX9w0MTzAJOCh_t_Karun.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1045&w=1024&h=991",
+					"alt": "Karun",
 					"copyright": null,
 					"width": 1024,
-					"height": 846,
-					"ratio": 1.210401891252955
+					"height": 991,
+					"ratio": 1.0332996972754793
 				}
 			]
 		},
