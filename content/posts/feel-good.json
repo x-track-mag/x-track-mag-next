@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-20T09:31:22+0000",
+	"publication_date": "2024-05-05T08:35:34+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Tyla",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Cash Cobain x Bay Swag - Frank Ekwa - Byron Messia - Tyla x Gunna x Skillibeng x Tems - Saint Levant x MC Abdul - Vintage Culture x Maverick Sabre x Tom Breu -  Amaarae x Juls - Liam Bailey - Jorja smith x Josman - Odeal x Brazy - Naomi sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake - Iman Europe x Kaelin Ellis - Maandy - Fantasia x Shenseea x Missy Elliot & +++ Enjoy",
+					"text": "Cash Cobain x Bay Swag - Frank Ekwa - Byron Messia - Tyla x Gunna x Skillibeng x Tems - Saint Levant x MC Abdul -  Seyi Vibez x Tion Wayne - Amaarae x Juls - Liam Bailey - Odeal x Brazy - Caius x Jesse Ayo - Naomi sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake - AJ Tracey - Dave x Central Cee - Iman Europe x Kaelin Ellis - Future x Metro Boomin x The Weeknd - Maandy - YG Marley & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -69,20 +69,20 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=format%2Ccompress&rect=0%2C0%2C1799%2C1200&w=1024&h=683",
-					"alt": "juls",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e95efbf5-04a5-45ec-8ee6-1a49dfee06e9_Jorja+Smith.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/ZjX9zEMTzAJOCh_2_TionWayne.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Tion Wayne",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1139&w=1024&h=1080",
+					"alt": "Naomi Sharon",
+					"copyright": null,
+					"width": 1024,
+					"height": 1080,
+					"ratio": 0.9481481481481482
 				}
 			]
 		},
