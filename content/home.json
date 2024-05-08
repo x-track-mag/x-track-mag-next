@@ -41,7 +41,7 @@
 		},
 		{
 			"position": 9,
-			"uid": "tropical"
+			"uid": "afropop"
 		},
 		{
 			"position": 10,
@@ -65,7 +65,7 @@
 		},
 		{
 			"position": 15,
-			"uid": "afropop"
+			"uid": "tropical"
 		},
 		{
 			"position": 16,
@@ -357,24 +357,24 @@
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
 		},
 		{
-			"uid": "tropical",
+			"uid": "afropop",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-05-01T08:10:34+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy - Cover : Lila Iké",
-			"text_color": "green",
+			"publication_date": "2024-04-17T09:34:19+0000",
+			"title": "Afropop",
+			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Lila Iké .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/fe09ad7d-0ed7-4abc-9dc4-4ae61182a168_Lila+Ike%CC%81+.mp4",
-				"size": "1452764"
+				"name": "Burna Boy.    .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zh-W5EaI3ufuUP2L_BurnaBoy..mp4",
+				"size": "4912994"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Tropical"
+			"description": "Skeete x Jada Kingdom - Burna Boy x Prince Swanny - Black Sherif - Doctor Spice x Kida Kudz - Tyla x Gunna x Skillibeng x Tems x Travis Scott - Amaarae x Juls - Wizkid x Wanda Coal - Boj -  Naomi Sharon x Omah Lay - Asake - Swae Lee x Drake x Tekno - The Cavemen - Ayra Starr - Killbeatz x Stonebwoy - Young John x Sean Paul - Drake x Bad Bunny - Odumodublvck x Bllody Civilian x Wale - J Hus x Drake & ++++ Enjoy"
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
@@ -484,24 +484,24 @@
 			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
-			"uid": "afropop",
+			"uid": "tropical",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-04-17T09:34:19+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
-			"text_color": "inverted",
+			"publication_date": "2024-05-01T08:10:34+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy - Cover : Lila Iké",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Burna Boy.    .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zh-W5EaI3ufuUP2L_BurnaBoy..mp4",
-				"size": "4912994"
+				"name": "Lila Iké .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/fe09ad7d-0ed7-4abc-9dc4-4ae61182a168_Lila+Ike%CC%81+.mp4",
+				"size": "1452764"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Skeete x Jada Kingdom - Burna Boy x Prince Swanny - Black Sherif - Doctor Spice x Kida Kudz - Tyla x Gunna x Skillibeng x Tems x Travis Scott - Amaarae x Juls - Wizkid x Wanda Coal - Boj -  Naomi Sharon x Omah Lay - Asake - Swae Lee x Drake x Tekno - The Cavemen - Ayra Starr - Killbeatz x Stonebwoy - Young John x Sean Paul - Drake x Bad Bunny - Odumodublvck x Bllody Civilian x Wale - J Hus x Drake & ++++ Enjoy"
+			"description": "Tropical"
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
