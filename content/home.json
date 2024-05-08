@@ -17,7 +17,7 @@
 		},
 		{
 			"position": 3,
-			"uid": "feel-good"
+			"uid": "new-romance"
 		},
 		{
 			"position": 4,
@@ -65,7 +65,7 @@
 		},
 		{
 			"position": 15,
-			"uid": "new-romance"
+			"uid": "feel-good"
 		},
 		{
 			"position": 16,
@@ -227,24 +227,24 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "feel-good",
+			"uid": "new-romance",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-05-05T08:35:34+0000",
-			"title": "Feel Good",
-			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Tyla",
-			"text_color": "green",
+			"publication_date": "2024-05-08T11:26:35+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes - Cover : Rachel Chinouriri",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Tyla  ART Official Music Video.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZiOBTvPdc1huKptz_TylaARTOfficialMusicVideo.mp4",
-				"size": "61867769"
+				"name": "Rachel Chinouriri  All I Ever Asked.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zjten0MTzAJOCoW-_RachelChinouririAllIEverAsked.mp4",
+				"size": "79079955"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "martin-parr",
@@ -484,24 +484,24 @@
 			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
-			"uid": "new-romance",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-05-08T11:26:35+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes - Cover : Rachel Chinouriri",
-			"text_color": "inverted",
+			"publication_date": "2024-05-05T08:35:34+0000",
+			"title": "Feel Good",
+			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Cover : Tyla",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Rachel Chinouriri  All I Ever Asked.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zjten0MTzAJOCoW-_RachelChinouririAllIEverAsked.mp4",
-				"size": "79079955"
+				"name": "Tyla  ART Official Music Video.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZiOBTvPdc1huKptz_TylaARTOfficialMusicVideo.mp4",
+				"size": "61867769"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
