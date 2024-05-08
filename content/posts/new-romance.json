@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-04-22T05:59:44+0000",
+	"publication_date": "2024-05-08T11:26:35+0000",
 	"title": "New Romance",
-	"subtitle": "100% Chill Vibes - Cover : Enny",
+	"subtitle": "100% Chill Vibes - Cover : Rachel Chinouriri",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "enny .mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZgGFpscYqOFdyEEq_enny.mp4",
-		"size": "14057651"
+		"name": "Rachel Chinouriri  All I Ever Asked.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zjten0MTzAJOCoW-_RachelChinouririAllIEverAsked.mp4",
+		"size": "79079955"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "4batz - Jungle x Full Crate - Enny x Smino - Hope Tala - Cash Cobain - Daniel Caesar - Khruangbin - Facesoul - Yaya Bey - Cleo sol - Patchwork x Pat Kalla - Ézechiel Pailhes - Nep - Saint Levant x Mc Abdul - Waterbaby - 6lack - Chiiild x Shungudzo - Chaton - Babeheaven - Teni - Rum.gold - Mavi -Baaba J - Q - Neil Frances x PawPaw Rod - Naomi sharon - Amaria BB   & +++ enjoy",
+					"text": "4batz x Kanye West- Hope Tala - Jungle x Full Crate - Cash Cobain - Rachel Chinouriri - Niki - Ley Soul - Jorja Smith - Khruangbin - Nep - Ézechiel Pailhès - Patchworks x Pat kalla - Saint Levant x MC Abdul - 6lack - Waterbaby - Chiiild x Shungudzo - Cleo Sol - Chaton - Teni - Mavi - Rum.Gold - Baaba J   & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -40,12 +40,12 @@
 					"ratio": 0.7693463561232157
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZhEf4BrFxhpPBWQm_HopeTala.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/Zjtel0MTzAJOCoW7_Niki.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Niki",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/d928e21c-7730-4347-8689-87185a94fbe2_Jungle.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/62830492-f0af-401b-8e74-a7c2fe1fdc19_Cleo+Sol.jpg?auto=format%2Ccompress&rect=0%2C0%2C2048%2C2048&w=1024&h=1024",
-					"alt": "Cleo Sol",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a34a8a81-e2ff-4bef-93d8-14b38c2f359d_Daniel+Caesar.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Daniel Caesar",
+					"url": "https://images.prismic.io/x-track-mag/Zjtel0MTzAJOCoW6_JorjaSmith.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=compress,format&rect=0,0,1080,1139&w=1024&h=1080",
-					"alt": "Naomi Sharon",
+					"url": "https://images.prismic.io/x-track-mag/Zhz4DzjCgu4jz0Rd_SaintLevant.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1209&w=1024&h=1146",
+					"alt": "Saint Levant",
 					"copyright": null,
 					"width": 1024,
-					"height": 1080,
-					"ratio": 0.9481481481481482
+					"height": 1146,
+					"ratio": 0.893542757417103
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZjtemEMTzAJOCoW8_RachelChinouri.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Rachel Chinouri",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
