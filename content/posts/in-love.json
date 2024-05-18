@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-03-09T10:46:43+0000",
+	"publication_date": "2024-05-18T09:57:48+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
 	"text_color": "green",
@@ -23,17 +23,20 @@
 				{
 					"type": "heading3",
 					"text": "Our favorite Love & Cool Songs… Enjoy",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
 					"text": "",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
-					"text": "Feu Chatterton - 4batz - French Montana x Jeremih - Gotts Street Park x Olive Jones - Ley Soul - Angelo de Augustine - Thomas Caruso Aragona - Mustafa - Billie Eilish  - Courtesy x Erika de Casier x August Rosenbaum - Galimatias - Kali Uchis - Rubii - rum.gold - Waterbaby - Jenevieve - Amaria - Khruangbin - Common Saints - Cigarettes After Sex - Rosalia - Gabi Hartmann - Rhye - Oklou - Chiiild - Arlo Parks - Yehra - Gabriels - Sault - Diziz x Yseult - Mounika x Ocie Eliot - James Blake - The O'My's - Asa - NxWorries x Anderson Paak x Knxwledge - Men I Trust - Celeste x Jeshi - Kyle Dion & +++ ",
-					"spans": []
+					"text": "Celeste - French Montana x Jeremih - 4batz - Ley Soul - Cigarettes After Sex - Gotts Street Park x Olive Jones - Angelo de Augustine - Hope Tala - Alain Chamfort - Thomas Caruso Aragona - Odeal - 6lack - Beyoncé - Mustafa - Billie Eilish  - Courtesy x Erika de Casier x August Rosenbaum - Galimatias - Kali Uchis - Rubii - rum.gold - Feu Chatterton ! - Waterbaby - Amaria - Khruangbin - Common Saints - Jenevieve - Rosalia - Gabi Hartmann - Rhye - Oklou - Chiiild - Arlo Parks  & +++ ",
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
@@ -41,12 +44,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/36849149-e494-4055-989d-281df286f839_Kali+Uchis.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Kali Uchis",
+					"url": "https://images.prismic.io/x-track-mag/Zhz4EDjCgu4jz0Re_Celeste.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
+					"alt": "Celeste",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/a107dda6-c166-4c8a-847c-996a278a89a4_Feu%21%21+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
@@ -78,12 +81,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1ae0af90-56c5-4863-9e8a-b0af154982d1_Thomas+Caruso+Aragona.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Thomas Caruso Aragona",
+					"url": "https://images.prismic.io/x-track-mag/Ziy7V93JpQ5PTOJk_AlainChamfort.jpg?auto=format%2Ccompress&rect=0%2C0%2C533%2C355&w=1024&h=682",
+					"alt": "Alain Chamfort",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 682,
+					"ratio": 1.501466275659824
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/b03afd6d-76bc-4f6c-9992-eef124dc8d2e_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
