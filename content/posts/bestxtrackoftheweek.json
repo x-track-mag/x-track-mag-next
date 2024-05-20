@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-05-10T23:19:00+0000",
+	"publication_date": "2024-05-20T15:45:31+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -   Raveena on Cover",
+	"subtitle": "Les meilleurs sons de la semaine        -   Diany Dior x Nav x Cash Cobain on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Raveena  Pluto.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zj6os0FLKBtrWymG_RaveenaPluto.mp4",
-		"size": "59771646"
+		"name": "Diany Dior x Nav x Cash Cobain.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZktpUyol0Zci9Sdi_DianyDiorxNavxCashCobain.mp4",
+		"size": "8700739"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "4batz x Kanye West - Raveena - Yaya Bey - Tiwa Savage - Boj x Adekunle Gold - Amindi x Mavi - Niki - Rachel Chinouriri - Safe - Jorja Smith - Charlotte Day Wilson - 808vic & +++ Enjoy",
+					"text": "Blick Bassy x Yamé - Yaya Bey - Diany Dior x Nav x Cash Cobain - The Cavemen - Billie Eilish - Tamada - Ruger x Bnxn - YG Marley - Lila Iké x H.E.R. - Rayvanny x DreamDoll - NxWorries x Anderson Paak x Knxwoledge - Isaiah Falls & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zj6otUFLKBtrWymH_YayaBey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1440%2C1080&w=1024&h=768",
+					"url": "https://images.prismic.io/x-track-mag/ZktpViol0Zci9Sdm_BlickBassy.jpg?auto=format%2Ccompress&rect=0%2C0%2C1079%2C721&w=1024&h=684",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 684,
+					"ratio": 1.4970760233918128
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZktpVCol0Zci9Sdj_YayaBey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
 					"alt": "Yaya Bey",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZhEf1hrFxhpPBWQj_4batz.jpg?auto=format%2Ccompress&rect=0%2C0%2C788%2C1024&w=1024&h=1331",
-					"alt": "4batz",
+					"url": "https://images.prismic.io/x-track-mag/ZktpVSol0Zci9Sdk_Yame%CC%81.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Yamé",
 					"copyright": null,
 					"width": 1024,
-					"height": 1331,
-					"ratio": 0.7693463561232157
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zj6or0FLKBtrWymF_TiwaSavage.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
-					"alt": "Tiwa Savage",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZjtemEMTzAJOCoW8_RachelChinouri.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Rachel Chinouri",
+					"url": "https://images.prismic.io/x-track-mag/ZktpTSol0Zci9Sdb_LilaIke%CC%81H.E.R..jpg?auto=format%2Ccompress&rect=0%2C0%2C1580%2C1054&w=1024&h=683",
+					"alt": "Lila Iké H.E.R.",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zj6orUFLKBtrWymD_AdekunleGold.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Adekunle Gold",
+					"url": "https://images.prismic.io/x-track-mag/ZktpUCol0Zci9Sde_Ruger.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Ruger",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1fbc8a64-5442-447d-9d62-19f6259f33cc_Charlotte+Day+Wilson.jpg?auto=format%2Ccompress&rect=0%2C0%2C1426%2C745&w=1024&h=535",
-					"alt": "Charlotte Day Wilson",
+					"url": "https://images.prismic.io/x-track-mag/ZktpUSol0Zci9Sdf_BillieEilish.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Billie Eilish",
 					"copyright": null,
 					"width": 1024,
-					"height": 535,
-					"ratio": 1.9140186915887851
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
