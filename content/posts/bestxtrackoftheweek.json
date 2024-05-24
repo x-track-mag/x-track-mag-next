@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-05-20T15:45:31+0000",
+	"publication_date": "2024-05-24T22:28:08+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -   Diany Dior x Nav x Cash Cobain on Cover",
+	"subtitle": "Les meilleurs sons de la semaine        -  Jorja Smith on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Diany Dior x Nav x Cash Cobain.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZktpUyol0Zci9Sdi_DianyDiorxNavxCashCobain.mp4",
-		"size": "8700739"
+		"name": "Jorja Smith.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZlEPKSol0Zci9cDR_JorjaSmith.mp4",
+		"size": "1123158"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Blick Bassy x Yamé - Yaya Bey - Diany Dior x Nav x Cash Cobain - The Cavemen - Billie Eilish - Tamada - Ruger x Bnxn - YG Marley - Lila Iké x H.E.R. - Rayvanny x DreamDoll - NxWorries x Anderson Paak x Knxwoledge - Isaiah Falls & +++ Enjoy",
+					"text": "Don Toliver x Charlie Wilson x Cash Cobain - Kaytranada xRochelle Jordan - Jorja Smith x Dirty Danger - Yaya Bey - Shenseea x Wizkid -  Rapsody x Bee-B - Limandi - Cash Cobain x J Cole - Vince Staples - TiwaSavage & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,24 +32,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZktpViol0Zci9Sdm_BlickBassy.jpg?auto=format%2Ccompress&rect=0%2C0%2C1079%2C721&w=1024&h=684",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 684,
-					"ratio": 1.4970760233918128
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZktpVCol0Zci9Sdj_YayaBey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Yaya Bey",
+					"url": "https://images.prismic.io/x-track-mag/ZlEPKiol0Zci9cDS_RochelleJordan.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Rochelle Jordan",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZktpVSol0Zci9Sdk_Yame%CC%81.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Yamé",
+					"url": "https://images.prismic.io/x-track-mag/ZlEPLSol0Zci9cDW_DonToliver.jpg?auto=format%2Ccompress&rect=0%2C0%2C1900%2C1900&w=1024&h=1024",
+					"alt": "Don Toliver",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZlEPLiol0Zci9cDX_Shenseea.jpg?auto=format%2Ccompress&rect=0%2C0%2C1024%2C1024&w=1024&h=1024",
+					"alt": "Shenseea",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZktpTSol0Zci9Sdb_LilaIke%CC%81H.E.R..jpg?auto=format%2Ccompress&rect=0%2C0%2C1580%2C1054&w=1024&h=683",
-					"alt": "Lila Iké H.E.R.",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZktpUCol0Zci9Sde_Ruger.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Ruger",
+					"url": "https://images.prismic.io/x-track-mag/ZlEPKCol0Zci9cDQ_Wizkid.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZktpUSol0Zci9Sdf_BillieEilish.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Billie Eilish",
+					"url": "https://images.prismic.io/x-track-mag/ZlEPJyol0Zci9cDP_Rapsody.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Rapsody",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4898754e-c730-415e-9957-0719b8e5614d_Kaytranada.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Kaytranada",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
