@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-05-09T10:01:18+0000",
+	"publication_date": "2024-05-26T08:04:30+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Cash Cobain x Bay Swag - Frank Ekwa - Byron Messia - Tyla x Gunna x Skillibeng x Tems - Saint Levant x MC Abdul -  Seyi Vibez x Tion Wayne - Amaarae x Juls - Liam Bailey - Odeal x Brazy - Caius x Jesse Ayo - Naomi sharon x Omah Lay - Aminé x Kaytranada - J Hus x Drake - AJ Tracey - Dave x Central Cee - Iman Europe x Kaelin Ellis - Future x Metro Boomin x The Weeknd - Maandy - YG Marley & +++ Enjoy",
+					"text": "Cash Cobain x Bay Swag - Frank Ekwa - Byron Messia - Don Toliver x Charlie Wilson x Cash Cobain - Tyla x Gunna x Skillibeng x Tems - Saint Levant x MC Abdul -  Seyi Vibez x Tion Wayne - Amaarae x Juls - Kaytranada x Rochelle Jordan x Aminé - Yaya Bey -  Liam Bailey - Jorja Smith x Dirty Danger - Odeal x Brazy - Caius x Jesse Ayo - Naomi sharon x Omah Lay - J Hus x Drake - AJ Tracey - Dave x Central Cee - Iman Europe x Kaelin Ellis - Future x Metro Boomin x The Weeknd - Maandy - YG Marley & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -69,20 +69,20 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZjX9zEMTzAJOCh_2_TionWayne.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Tion Wayne",
+					"url": "https://images.prismic.io/x-track-mag/ZlEPLSol0Zci9cDW_DonToliver.jpg?auto=format%2Ccompress&rect=0%2C0%2C1900%2C1900&w=1024&h=1024",
+					"alt": "Don Toliver",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/479372d5-48b7-474e-92ac-7ee7a5450e82_Naomi+Sharon.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1139&w=1024&h=1080",
-					"alt": "Naomi Sharon",
+					"url": "https://images.prismic.io/x-track-mag/ZlEPKiol0Zci9cDS_RochelleJordan.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Rochelle Jordan",
 					"copyright": null,
 					"width": 1024,
-					"height": 1080,
-					"ratio": 0.9481481481481482
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
