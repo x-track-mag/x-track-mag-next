@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-05-11T21:54:58+0000",
+	"publication_date": "2024-05-30T04:55:21+0000",
 	"title": "Nice Day",
 	"subtitle": "Happy Crossover",
 	"text_color": "inverted",
@@ -22,9 +22,8 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Nohidea x Ben Beal x Sophie Meiers - Hare Squead - Khalis x Megan Thee Stallion x Yo Gotti - Jamie XX x Young Thug x Popcaan - Michael Kiwanuka x Tom Mish - FKJ - Guru x Ronny Jordan x DC Lee - Sharam x Kid Cudi - Parcels x Breakbot - Seven Dub - Crayon x KLP x Darius - SG Lewis x J Warner - Asap Rocky - Jungle - A Band Called Succes -  Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande - Amber Mark - Dornik x Jungle - Vic Mensa - Yaya Bey - Amadou & Mariam - Kendrick Lamar x SZA & ++++ Enjoy",
-					"spans": [],
-					"direction": "ltr"
+					"text": "Nohidea x Ben Beal x Sophie Meiers - Hare Squead - Jamie XX x Young Thug x Popcaan - Lenny Kravitz - Michael Kiwanuka x Tom Mish - FKJ - Guru x Ronny Jordan x DC Lee - Parcels x Breakbot - Daft Punk x Pharrell Williams x Nile Rodgers - Crayon x KLP x Darius - SG Lewis x J Warner - Asap Rocky - Jungle - Sharam x Kid Cudi - Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande - Amber Mark - Dornik - Vic Mensa - Yaya Bey - Amadou & Mariam - Kendrick Lamar x SZA & ++++ Enjoy",
+					"spans": []
 				}
 			]
 		},
@@ -61,12 +60,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZjJ7Q0MTzAJOCeNP_Khalid.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1347&w=1024&h=1277",
-					"alt": "Khalid",
+					"url": "https://images.prismic.io/x-track-mag/Zf6g08cYqOFdyC1Z_Lenny-Kravitz.jpg?auto=format,compress?auto=compress,format&rect=0,0,2375,3600&w=1024&h=1552",
+					"alt": "Lenny Kravitz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1277,
-					"ratio": 0.8018794048551292
+					"height": 1552,
+					"ratio": 0.6597938144329897
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZjJ7b0MTzAJOCeNg_MeganTheeStallion.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
