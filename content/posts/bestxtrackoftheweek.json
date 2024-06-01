@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-05-24T22:30:26+0000",
+	"publication_date": "2024-06-01T08:42:05+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -  Jorja Smith on Cover",
+	"subtitle": "Les meilleurs sons de la semaine        -  Zeauxi on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Jorja Smith.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZlEPKSol0Zci9cDR_JorjaSmith.mp4",
-		"size": "1123158"
+		"name": "Zeauxi.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZlrdRKWtHYXtT_Uw_Zeauxi.mp4",
+		"size": "62816206"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Don Toliver x Charlie Wilson x Cash Cobain - Kaytranada x Rochelle Jordan - Jorja Smith x Dirty Danger - Yaya Bey - Shenseea x Wizkid -  Rapsody x Bee-B - Limandi - Cash Cobain x J Cole - Vince Staples - Tiwa Savage & +++ Enjoy",
+					"text": "Zeauxi x Galimatias - Ayra Starr - James Blake - Lulu -  Crate Classics x Liam Bailey - A Boogie Wit da Hoodie x Cash Cobain - Amber Mark & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZlEPKiol0Zci9cDS_RochelleJordan.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Rochelle Jordan",
+					"url": "https://images.prismic.io/x-track-mag/ZlrdPqWtHYXtT_Ut_AyraStarr.jpg?auto=format,compress?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Ayra Starr",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZlrdP6WtHYXtT_Uu_Galimatias.jpg?auto=format,compress?auto=compress,format&rect=0,0,1199,800&w=1024&h=683",
+					"alt": "Galimatias",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZlrdPaWtHYXtT_Us_Lulu.jpg?auto=format,compress?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Lulu",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZlEPLSol0Zci9cDW_DonToliver.jpg?auto=format%2Ccompress&rect=0%2C0%2C1900%2C1900&w=1024&h=1024",
-					"alt": "Don Toliver",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZlEPLiol0Zci9cDX_Shenseea.jpg?auto=format%2Ccompress&rect=0%2C0%2C1024%2C1024&w=1024&h=1024",
-					"alt": "Shenseea",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -61,24 +61,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZlEPKCol0Zci9cDQ_Wizkid.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/Zet0kXUurf2G3OIX_CashCobain.jpg?auto=format,compress?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Cash Cobain",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZlEPJyol0Zci9cDP_Rapsody.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Rapsody",
+					"url": "https://images.prismic.io/x-track-mag/ZlrdO6WtHYXtT_Uq_AmbertMark.jpg?auto=format,compress?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Ambert Mark",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4898754e-c730-415e-9957-0719b8e5614d_Kaytranada.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Kaytranada",
+					"url": "https://images.prismic.io/x-track-mag/ZlrdPKWtHYXtT_Ur_JamesBlake.jpg?auto=format,compress?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "James Blake",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
