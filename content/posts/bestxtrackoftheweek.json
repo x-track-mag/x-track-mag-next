@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-06-01T08:42:05+0000",
+	"publication_date": "2024-06-04T04:53:35+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine        -  Zeauxi on Cover",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Zeauxi x Galimatias - Ayra Starr - James Blake - Lulu -  Crate Classics x Liam Bailey - A Boogie Wit da Hoodie x Cash Cobain - Amber Mark & +++ Enjoy",
+					"text": "Zeauxi x Galimatias - Ayra Starr - James Blake - Lulu -  Crate Classics x Liam Bailey  - A Boogie Wit dz Hoodie x Cash Cobain - Tyla x Gunna x Skillibeng - Saint Levant x MC Abdul - Kaytranada x Rochelle Jordan - Jorja Smith x Dirty Danger & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -69,12 +69,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZlrdO6WtHYXtT_Uq_AmbertMark.jpg?auto=format,compress?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Ambert Mark",
+					"url": "https://images.prismic.io/x-track-mag/d2153cd6-032e-4ac7-a844-47c34aed6dce_Tyla++.jpg?auto=format,compress?auto=compress,format&rect=0,0,930,1060&w=1024&h=1167",
+					"alt": "Tyla",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1167,
+					"ratio": 0.8774635818337618
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZlrdPKWtHYXtT_Ur_JamesBlake.jpg?auto=format,compress?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
