@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-05-26T07:50:28+0000",
+	"publication_date": "2024-06-16T18:19:18+0000",
 	"title": "New Romance",
-	"subtitle": "100% Chill Vibes - Rachel Chinouriri on Cover",
+	"subtitle": "100% Chill Vibes - Raveena on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Rachel Chinouriri  All I Ever Asked.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zjten0MTzAJOCoW-_RachelChinouririAllIEverAsked.mp4",
-		"size": "79079955"
+		"name": "Raveena  Pluto.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zj6os0FLKBtrWymG_RaveenaPluto.mp4",
+		"size": "59771646"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "4batz x Kanye West- Hope Tala - Limandi - Blick Bassy x Yamé - Skeete - Yaya Bey - Jungle x Full Crate - Cash Cobain - Rachel Chinouriri - Niki - Ley Soul - Jorja Smith - Khruangbin - Nep - Ézechiel Pailhès - Patchworks x Pat kalla - Saint Levant x MC Abdul - 6lack - Waterbaby - Chiiild x Shungudzo - Cleo Sol - Chaton - Teni - Mavi - Rum.Gold - Baaba J   & +++ enjoy",
+					"text": "4batz x Kanye West- Hope Tala - Limandi - Blick Bassy x Yamé - Skeete - Yaya Bey - Jungle x Full Crate - Cash Cobain -Raveena x JpegMafia - Cigarettes After Sex - Jorja Smith - Khruangbin - Nep - Ézechiel Pailhès - Patchworks x Pat kalla - Saint Levant x MC Abdul - 6lack - Waterbaby - Chiiild x Shungudzo - Cleo Sol - Chaton - Teni - Mavi - Rum.Gold - Baaba J   & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -40,12 +40,12 @@
 					"ratio": 0.7693463561232157
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zjtel0MTzAJOCoW7_Niki.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Niki",
+					"url": "https://images.prismic.io/x-track-mag/Zj6otUFLKBtrWymH_YayaBey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1440%2C1080&w=1024&h=768",
+					"alt": "Yaya Bey",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 768,
+					"ratio": 1.3333333333333333
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZktpVSol0Zci9Sdk_Yame%CC%81.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
@@ -69,12 +69,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zhz4DzjCgu4jz0Rd_SaintLevant.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1209&w=1024&h=1146",
+					"url": "https://images.prismic.io/x-track-mag/Zm7S7Jm069VX1yF__SaintLevant.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
 					"alt": "Saint Levant",
 					"copyright": null,
 					"width": 1024,
-					"height": 1146,
-					"ratio": 0.893542757417103
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZhEf4BrFxhpPBWQm_HopeTala.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
