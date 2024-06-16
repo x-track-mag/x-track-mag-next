@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-06-08T08:52:07+0000",
+	"publication_date": "2024-06-16T12:09:08+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine        -  Tems on Cover",
+	"subtitle": "Les meilleurs sons de la semaine        -  Ayra Starr x Seyi Vibez on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Tems.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZmQOjJm069VX1kdT_Tems.mp4",
-		"size": "8989708"
+		"name": "Ayra Starr  Bad Vibes ft Seyi Vibez Official Music Video.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zm7S55m069VX1yF7_AyraStarrBadVibesftSeyiVibezOfficialMusicVideo.mp4",
+		"size": "76884013"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Tems x J Cole - Ayra Starr -  Juls x JayO - Cigarettes After Sex - Saint Levant x Kehlani - Ruger  - Raveena x JpegMafia - Kaytranada x Don Toliver - Cash Cobain - Cruza & +++ Enjoy",
+					"text": "Haile Supreme - Young T & Bugsey - Ayra Starr x  Seyi Vibez - Shenseea - Odeal - Tems x Asake - K Camp - Stonebwoy - Kaytranada x Rayvin Lenae - Kenya Vaun x Hunna G - Nxworries : Andeson Paak x Knxwledge - Don Toliver x Travis Scott - Oxlade - Saint Levant - Kyle Dion - Smino - Mustafa - Weslee - Khalid & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZlrdPqWtHYXtT_Ut_AyraStarr.jpg?auto=format,compress?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/Zm7S9Jm069VX1yGH_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4898754e-c730-415e-9957-0719b8e5614d_Kaytranada.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Kaytranada",
+					"url": "https://images.prismic.io/x-track-mag/Zm7S-Zm069VX1yGN_YoungT%26Bugsey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
+					"alt": "Young T & Bugsey",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZmQYFJm069VX1kd7_Raveena.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Raveena",
+					"url": "https://images.prismic.io/x-track-mag/Zm7S9pm069VX1yGJ_Shenseea.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1346&w=1024&h=1276",
+					"alt": "Shenseea",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/81c212dd-b9a1-4577-aecd-38829cba0764_Saint+Levant.jpg?auto=format%2Ccompress&rect=0%2C0%2C1024%2C1024&w=1024&h=1024",
-					"alt": "Saint Levant",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZmQZlJm069VX1keC_Kehlani.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Kehlani",
+					"url": "https://images.prismic.io/x-track-mag/Zm7S8Zm069VX1yGE_KenyaVaun.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Kenya Vaun",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZmQYFZm069VX1kd8_Ruger.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Ruger",
+					"url": "https://images.prismic.io/x-track-mag/Zm7VS5m069VX1yGR_Weslee.jpg?auto=format%2Ccompress&rect=1%2C0%2C2047%2C1365&w=1024&h=683",
+					"alt": "Weslee",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zm7S7Zm069VX1yGA_Asake.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Asake",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
