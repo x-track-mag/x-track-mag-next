@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2023-11-26T10:14:15+0000",
-	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine         -       Cover : Bjork & Rosalia",
+	"publication_date": "2024-06-28T18:09:09+0000",
+	"title": "Best ”XTrack“ of Summer",
+	"subtitle": "Les meilleurs sons de l'été        -  Burna Boy on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Bjork x Rosalia.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/746b8812-1191-4f51-98bf-149737006b1b_Bjork+x+Rosalia.mp4",
-		"size": "1206333"
+		"name": "Burna Boy.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zn71Jh5LeNNTwor2_BurnaBoy.mp4",
+		"size": "19469288"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,8 +22,9 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Facesoul - Bjork x Rosalia - Khalia - Teni - Protoje x Zion I Kings x Koffee - YellowStraps - Mystic Marley- Joe Yorke x Solo Banton - Jelly Cristal - Blick Bassy & +++ Enjoy",
-					"spans": []
+					"text": "NxWorries x Anderson Paak x Knxwledge x Dave Chappelle -  Victony x Saint Jhn - Headie One x Aitch - Burna Boy - Hope Tala - Amber Mark - Teezo Touchdown - Tems - Shenseea - Protoje x Zion I King -  Tommy Richman - Amaarae - Bay Swag - Lil Yachty - Byron Messia x Lil Baby x Rvssian & +++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
@@ -31,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Mystic Marley",
+					"url": "https://images.prismic.io/x-track-mag/Zn71LB5LeNNTwosC_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/47d5d20c-3d9b-484e-870d-08486466374b_Facesoul.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Facesoul",
+					"url": "https://images.prismic.io/x-track-mag/Zm7S8Jm069VX1yGD_NxWorries-AndersonPaakxKnxwledge.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "NxWorries : Knxwledge x Anderson Paak",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1312df1f-9c07-4d20-938a-e1d4a37052b3_Teni.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Teni",
+					"url": "https://images.prismic.io/x-track-mag/Zm7S9pm069VX1yGJ_Shenseea.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1346&w=1024&h=1276",
+					"alt": "Shenseea",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				}
 			]
 		},
@@ -60,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/2d375bfc-87f7-4211-8397-3185bced3c57_Khalia.jpg?auto=compress,format&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Khalia",
+					"url": "https://images.prismic.io/x-track-mag/Zn71MB5LeNNTwosG_Victony.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Victony",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/cc593540-df6c-4192-a107-11062567aaff_YellowStraps.jpg?auto=compress,format&rect=0,0,1000,666&w=1024&h=682",
-					"alt": "YellowStraps",
+					"url": "https://images.prismic.io/x-track-mag/Zn71LR5LeNNTwosD_AmberMark.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
+					"alt": "Amber Mark",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/0a22ec8a-0ce8-4e4e-a69a-d5a2a5db1eef_Koffee.jpg?auto=compress,format&rect=0,0,1440,1800&w=1024&h=1280",
-					"alt": "Koffee",
+					"url": "https://images.prismic.io/x-track-mag/Zn747x5LeNNTwot0_TeezoTouchdown.jpg?auto=format%2Ccompress&rect=0%2C0%2C1018%2C1272&w=1024&h=1279",
+					"alt": "Teezo Touchdown",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},

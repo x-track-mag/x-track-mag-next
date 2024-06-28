@@ -8,7 +8,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestxtrackoftheweek"
+			"uid": "bestxtrackofsummer"
 		},
 		{
 			"position": 2,
@@ -182,11 +182,11 @@
 	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "bestxtrackoftheweek",
+			"uid": "bestxtrackofsummer",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-06-28T18:01:41+0000",
+			"publication_date": "2024-06-28T18:09:09+0000",
 			"title": "Best ”XTrack“ of Summer",
 			"subtitle": "Les meilleurs sons de l'été        -  Burna Boy on Cover",
 			"text_color": "inverted",
