@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-06-30T08:27:01+0000",
+	"publication_date": "2024-07-06T09:56:37+0000",
 	"title": "Best ”XTrack“ of Summer",
-	"subtitle": "Les meilleurs sons de l'été        -  Burna Boy on Cover",
+	"subtitle": "Les meilleurs sons de l'été        -  Enchantée Julia on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Burna Boy.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zn71Jh5LeNNTwor2_BurnaBoy.mp4",
-		"size": "19469288"
+		"name": "Enchantee Julia.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZokSSh5LeNNTw2CB_EnchanteeJulia.mp4",
+		"size": "1353098"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "NxWorries x Anderson Paak x Knxwledge x Dave Chappelle -  Victony x Saint Jhn - Headie One x Aitch - Burna Boy - Hope Tala - Amber Mark - Teezo Touchdown - Tems - Shenseea - Protoje x Zion I King -  Tommy Richman - Amaarae - Bay Swag - Lil Yachty - Byron Messia x Lil Baby x Rvssian - Cash Cobain - Ayra Starr x Asake - Saint Levant x MC Abdul - Amaarae x Juls - Yaya Bey & +++ Enjoy",
+					"text": "Enchantée julia - Victony x Saint Jhn - Ashidapoe x Asake - Headie One x Aitch - Burna Boy - Hope Tala - Amber Mark - Teezo Touchdown - James Blake x Lil Yachty - Tems - Shenseea - Amaarae x Juls - Bay Swag - Byron Messia x Lil Baby x Rvssian - Cash Cobain - Tyla x Gunna x Skilibeng - Ayra Starr x Asake - Saint Levant x MC Abdul - Yaya Bey x Grand Daddy I.U. & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -40,12 +40,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zm7S8Jm069VX1yGD_NxWorries-AndersonPaakxKnxwledge.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "NxWorries : Knxwledge x Anderson Paak",
+					"url": "https://images.prismic.io/x-track-mag/ZokSSx5LeNNTw2CD_JamesBlakexLilYachty.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1077&w=1024&h=1021",
+					"alt": "James Blake x Lil Yachty ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1021,
+					"ratio": 1.0029382957884427
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zm7S9pm069VX1yGJ_Shenseea.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1346&w=1024&h=1276",
