@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-05-30T04:55:21+0000",
+	"publication_date": "2024-07-13T09:09:34+0000",
 	"title": "Nice Day",
 	"subtitle": "Happy Crossover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Yaya Bey - 'keisha' (Official Video).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/20b7af23-50cc-4dcd-9de6-c714530a943d_Yaya+Bey+-+%27keisha%27+%28Official+Video%29.mp4",
-		"size": "36830011"
+		"name": "Snoop Dogg  Signs Justin Timberlake Charlie Wilson.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZpI8uR5LeNNTxIS7_SnoopDoggSignsJustinTimberlakeCharlieWilson.mp4",
+		"size": "31106328"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,8 +22,9 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Nohidea x Ben Beal x Sophie Meiers - Hare Squead - Jamie XX x Young Thug x Popcaan - Lenny Kravitz - Michael Kiwanuka x Tom Mish - FKJ - Guru x Ronny Jordan x DC Lee - Parcels x Breakbot - Daft Punk x Pharrell Williams x Nile Rodgers - Crayon x KLP x Darius - SG Lewis x J Warner - Asap Rocky - Jungle - Sharam x Kid Cudi - Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande - Amber Mark - Dornik - Vic Mensa - Yaya Bey - Amadou & Mariam - Kendrick Lamar x SZA & ++++ Enjoy",
-					"spans": []
+					"text": "Kendrick Lamar - Guru x Paul Ferguson x Baybe - Kanye West x Paul Wall x GLC - Method Man x Mary J Blidge - Snoop Dog x Charlie Wilson x Justin Timberlake -  Sleepy Brown x Pharrell Williams x Big Boi - Michael jackson - Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande - Parcels x Breakbot - Daft Punk - Pharrell Williams - Sharam x Kid Cudi - Estelle x Kanye West - Asap Rocky - Outkast x Sleepy Brown - Crayon x KLP - Gnarls Barkley - Sault - Jungle - Dornik - & ++++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
@@ -31,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZjJ7PkMTzAJOCeNI_AmberMark.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Amber Mark ",
+					"url": "https://images.prismic.io/x-track-mag/ZpJDfh5LeNNTxITU_MichaelJackson.jpg?auto=format%2Ccompress&rect=0%2C0%2C683%2C1024&w=1024&h=1535",
+					"alt": "Michael Jackson",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1535,
+					"ratio": 0.6671009771986971
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d804a365-c346-43c7-b640-8152a1880ab6_HARE+SQUEAD.jpg?auto=format%2Ccompress&rect=0%2C0%2C2048%2C1152&w=1024&h=576",
-					"alt": "HARE SQUEAD",
+					"url": "https://images.prismic.io/x-track-mag/ZpJDeR5LeNNTxITP_MaryJBlidge.jpg?auto=format%2Ccompress&rect=0%2C0%2C800%2C540&w=1024&h=691",
+					"alt": "Mary J Blidge",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 691,
+					"ratio": 1.4819102749638204
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZjJ7REMTzAJOCeNQ_SophieMeiers.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Sophie Meiers",
+					"url": "https://images.prismic.io/x-track-mag/ZpJDgR5LeNNTxITX_KendrickLamar.jpg?auto=format%2Ccompress&rect=0%2C0%2C800%2C990&w=1024&h=1267",
+					"alt": "Kendrick Lamar",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1267,
+					"ratio": 0.8082083662194159
 				}
 			]
 		},
@@ -60,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zf6g08cYqOFdyC1Z_Lenny-Kravitz.jpg?auto=format,compress?auto=compress,format&rect=0,0,2375,3600&w=1024&h=1552",
-					"alt": "Lenny Kravitz",
+					"url": "https://images.prismic.io/x-track-mag/ZpJDeh5LeNNTxITQ_Daft-Punk.jpg?auto=format%2Ccompress&rect=0%2C0%2C748%2C420&w=1024&h=575",
+					"alt": "Daft-Punk",
 					"copyright": null,
 					"width": 1024,
-					"height": 1552,
-					"ratio": 0.6597938144329897
+					"height": 575,
+					"ratio": 1.7808695652173914
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZjJ7b0MTzAJOCeNg_MeganTheeStallion.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Megan Thee Stalion",
+					"url": "https://images.prismic.io/x-track-mag/ZpJDex5LeNNTxITR_Ariana-Grande.jpeg?auto=format%2Ccompress&rect=0%2C0%2C942%2C623&w=1024&h=677",
+					"alt": "Ariana Grande",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 677,
+					"ratio": 1.5125553914327918
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/effdc617-df31-4983-a603-72553f2da3e2_FKJ.jpg?auto=format%2Ccompress&rect=0%2C0%2C1100%2C684&w=1024&h=637",
-					"alt": "FKJ",
+					"url": "https://images.prismic.io/x-track-mag/ZpJDfR5LeNNTxITT_PharrellWilliamsxKanyeWest.jpg?auto=format%2Ccompress&rect=0%2C0%2C1100%2C620&w=1024&h=577",
+					"alt": "Pharrell Williams x Kanye West",
 					"copyright": null,
 					"width": 1024,
-					"height": 637,
-					"ratio": 1.6075353218210362
+					"height": 577,
+					"ratio": 1.7746967071057191
 				}
 			]
 		},
