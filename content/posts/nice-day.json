@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-07-14T08:53:50+0000",
+	"publication_date": "2024-07-14T09:30:23+0000",
 	"title": "Nice Day",
 	"subtitle": "Happy Crossover",
 	"text_color": "inverted",
@@ -90,15 +90,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/36wLfHJCs61Godz0ULhNwa?si=e255ec5d410b4611",
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMCkRPuVb2YJ4XdLQXpgsE-b",
 					"title": "Nice Day"
 				},
 				{
-					"url": "https://www.deezer.com/fr/playlist/11484310504",
+					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=69de2f37bdad47fb",
 					"title": "Nice Day"
 				},
 				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMCSBS32kS-Xm6832KBV1lxc",
+					"url": "https://www.deezer.com/fr/playlist/4936380104",
 					"title": "Nice Day"
 				}
 			]
