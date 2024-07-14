@@ -39,8 +39,7 @@
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
 		{
-			"position": 9,
-			"uid": "afropop"
+			"position": 9
 		},
 		{
 			"position": 10,
@@ -354,26 +353,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
-		},
-		{
-			"uid": "afropop",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2024-04-17T09:34:19+0000",
-			"title": "Afropop",
-			"subtitle": "Afropop x Afrobeat  x Reggae x Dancehall - Cover : Burna Boy",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Burna Boy.    .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zh-W5EaI3ufuUP2L_BurnaBoy..mp4",
-				"size": "4912994"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Skeete x Jada Kingdom - Burna Boy x Prince Swanny - Black Sherif - Doctor Spice x Kida Kudz - Tyla x Gunna x Skillibeng x Tems x Travis Scott - Amaarae x Juls - Wizkid x Wanda Coal - Boj -  Naomi Sharon x Omah Lay - Asake - Swae Lee x Drake x Tekno - The Cavemen - Ayra Starr - Killbeatz x Stonebwoy - Young John x Sean Paul - Drake x Bad Bunny - Odumodublvck x Bllody Civilian x Wale - J Hus x Drake & ++++ Enjoy"
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
@@ -713,6 +692,27 @@
 			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
+			"uid": "15minutes-avec-jacques",
+			"tags": [
+				"interview",
+				"music"
+			],
+			"publication_date": "2024-04-15T09:46:46+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "jacques interview"
+		},
+		{
 			"uid": "slow-dance",
 			"tags": [
 				"music"
@@ -844,27 +844,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
-		},
-		{
-			"uid": "15minutes-avec-jacques",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2024-04-15T09:46:46+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "jacques interview"
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
