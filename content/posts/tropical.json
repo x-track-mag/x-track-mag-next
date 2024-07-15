@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-05-01T08:10:34+0000",
+	"publication_date": "2024-07-15T11:00:08+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Lila Iké",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x Zion I King x Lila Iké - Mystic Marley - Soul Sugar x  Jolly Joseph - Chronixx - Sean Pauk - Yaya Bey - Liam Bailey - Yaadman - Patoranking x Popcaan - Juls x Pure Akan - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar -Timaya - The Cavemen - Tekno - Juls x Twich 4EVA x Quamina MP - Boutros x Juicee Mann - Amaarae x Juls - Jobo x Bogo - J Hus x Drake - Ghetto Boy - Skip Marley x Popcaan - Blundetto x Voilaaa & +++ Enjoy",
+					"text": "Protoje x Zion I King x Lila Iké - Damian Marley - YG Marley - Chronixx - Sean Paul - Yaya Bey - Liam Bailey - Soul sugar x Jolly Joseph - Yaadman fka Yung L - Timaya - Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar - Juls x Pure Akan - The Cavemen - Tekno & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,12 +32,41 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/1964067c-8ce8-4aa0-b06f-f54ca6fc806f_LILA+IKE+.jpg?auto=compress,format&rect=0,0,2500,2754&w=1024&h=1128",
-					"alt": "Lila Iké",
+					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=format%2Ccompress&rect=0%2C0%2C1612%2C2015&w=1024&h=1280",
+					"alt": "Protoje",
 					"copyright": null,
 					"width": 1024,
-					"height": 1128,
-					"ratio": 0.9078014184397163
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zj6otUFLKBtrWymH_YayaBey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1440%2C1080&w=1024&h=768",
+					"alt": "Yaya Bey",
+					"copyright": null,
+					"width": 1024,
+					"height": 768,
+					"ratio": 1.3333333333333333
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZpT8yh5LeNNTxJ4E_DamianMarley.jpg?auto=format%2Ccompress&rect=0%2C0%2C1000%2C1333&w=1024&h=1365",
+					"alt": "Damian Marley",
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/15c790ca-6789-4763-b83b-e9f8803dad05_Amaarae++.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Amaarae",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZiTkhPPdc1huKqHs_Chronixx.jpg?auto=format%2Ccompress&rect=0%2C0%2C2560%2C1440&w=1024&h=576",
@@ -48,41 +77,12 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/34810276-c78a-48bd-b090-41570cd78634_Mystic+Marley.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Mystic Marley",
+					"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C2240%2C1260&w=1024&h=576",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/363b7f53-bed1-4041-85a0-c77a50f8d515_Skip+Marley.++.jpg?auto=compress,format&rect=0,0,710,710&w=1024&h=1024",
-					"alt": "Skip Marley",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/82e5a9e8-5fd9-4102-a036-ea57be225a89_Yaya+Bey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Yaya Bey",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=format%2Ccompress&rect=0%2C0%2C1612%2C2015&w=1024&h=1280",
-					"alt": "Protoje",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
