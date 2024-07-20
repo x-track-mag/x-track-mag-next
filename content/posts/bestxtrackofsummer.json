@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-07-12T15:52:19+0000",
+	"publication_date": "2024-07-20T13:54:32+0000",
 	"title": "Best ”XTrack“ of Summer",
-	"subtitle": "Les meilleurs sons de l'été        -  Orion Sun on Cover",
+	"subtitle": "Les meilleurs sons de l'été        -  Childish Gambino on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Orion Sun.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZpFNNB5LeNNTxHfS_OrionSun.mp4",
-		"size": "1378459"
+		"name": "Childish Gambino.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zpu-6h5LeNNTxUh9_ChildishGambino.mp4",
+		"size": "3652231"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Orion Sun - Victony x Saint Jhn - Michael Kiwanuka - Amaraae x Juls - Ashidapoe x Asake - Headie One x Aitch - Burna Boy - Hope Tala - Amber Mark - Teezo Touchdown - James Blake x Lil Yachty - Chenayder - Tems - Shenseea - Bay Swag - Byron Messia x Lil Baby x Rvssian - Headie One x Sampha - NxWorries x Anderson Paak x Knowledge - Cash Cobain - Tyla x Gunna x Skilibeng - Ayra Starr x Asake - Saint Levant x MC Abdul - Yaya Bey x Grand Daddy I.U. & +++ Enjoy",
+					"text": "Orion Sun - Greatson - Victony x Saint Jhn - Michael Kiwanuka - Childish Gambino x Jorja Smith x Amaraae - Nia Smith - Judeline - Spinall x Omah Lay x  Tyla - Craig Isto - Ravyn Lenae x Ty Dolla Sign - Lava La Rue x Cuco & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zn71LB5LeNNTwosC_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Tems",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZokSSx5LeNNTw2CD_JamesBlakexLilYachty.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1077&w=1024&h=1021",
-					"alt": "James Blake x Lil Yachty ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/ZpFNMR5LeNNTxHfL_OrionSun.jpg?auto=format%2Ccompress&rect=0%2C0%2C1070%2C1254&w=1024&h=1200",
 					"alt": "Orion Sun",
 					"copyright": null,
 					"width": 1024,
 					"height": 1200,
 					"ratio": 0.8533333333333334
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zpu-5R5LeNNTxUh3_OmahLay.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Omah Lay",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zpu-6R5LeNNTxUh8_Amaarae.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Amaarae",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zn71MB5LeNNTwosG_Victony.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Victony",
+					"url": "https://images.prismic.io/x-track-mag/Zpu-5x5LeNNTxUh6_Judeline.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Judeline",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zpu-5B5LeNNTxUh2_CraigIsto.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Craig Isto",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZpFNMR5LeNNTxHfN_Chenayder.jpg?auto=format%2Ccompress&rect=0%2C0%2C1049%2C1309&w=1024&h=1278",
-					"alt": "Chenayder",
+					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZpFNMh5LeNNTxHfP_MichaelKiwanuka.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1331&w=1024&h=1262",
-					"alt": "Michael Kiwanuka",
-					"copyright": null,
-					"width": 1024,
-					"height": 1262,
-					"ratio": 0.8114104595879557
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
