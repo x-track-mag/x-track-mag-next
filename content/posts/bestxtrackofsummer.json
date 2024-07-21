@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-07-20T13:54:32+0000",
+	"publication_date": "2024-07-21T07:44:46+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été        -  Childish Gambino on Cover",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Orion Sun - Greatson - Victony x Saint Jhn - Michael Kiwanuka - Childish Gambino x Jorja Smith x Amaraae - Nia Smith - Judeline - Spinall x Omah Lay x  Tyla - Craig Isto - Ravyn Lenae x Ty Dolla Sign - Lava La Rue x Cuco & +++ Enjoy",
+					"text": "Victony x Saint Jhn - Michael Kiwanuka - Childish Gambino x Jorja Smith x Amaraae - Nia Smith - Judeline - Spinall x Omah Lay x  Tyla - Craig Isto - Ravyn Lenae x Ty Dolla Sign - Lava La Rue x Cuco & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,24 +32,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZpFNMR5LeNNTxHfL_OrionSun.jpg?auto=format%2Ccompress&rect=0%2C0%2C1070%2C1254&w=1024&h=1200",
-					"alt": "Orion Sun",
+					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1200,
-					"ratio": 0.8533333333333334
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zpu-5R5LeNNTxUh3_OmahLay.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Omah Lay",
+					"url": "https://images.prismic.io/x-track-mag/Zn71MB5LeNNTwosG_Victony.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Victony",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zpu-6R5LeNNTxUh8_Amaarae.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/Zpu-5h5LeNNTxUh4_Tyla.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Tyla",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -61,14 +61,6 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zpu-5x5LeNNTxUh6_Judeline.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Judeline",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/Zpu-5B5LeNNTxUh2_CraigIsto.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
 					"alt": "Craig Isto",
 					"copyright": null,
@@ -77,12 +69,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/Zpy8Nx5LeNNTxU2I_NiaSmith.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1079&w=1024&h=1023",
+					"alt": "Nia Smith ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1023,
+					"ratio": 1.0009775171065494
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZpFNMh5LeNNTxHfP_MichaelKiwanuka.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1331&w=1024&h=1262",
+					"alt": "Michael Kiwanuka",
+					"copyright": null,
+					"width": 1024,
+					"height": 1262,
+					"ratio": 0.8114104595879557
 				}
 			]
 		},
