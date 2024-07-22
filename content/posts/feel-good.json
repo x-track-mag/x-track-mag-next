@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-07-22T08:40:05+0000",
+	"publication_date": "2024-07-22T08:52:04+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
 	"text_color": "green",
@@ -69,20 +69,20 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zm7S-Zm069VX1yGN_YoungT%26Bugsey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
-					"alt": "Young T & Bugsey",
+					"url": "https://images.prismic.io/x-track-mag/Zn71JB5LeNNTworz_Burnaboy.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
+					"alt": "Burna Boy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zm7S9pm069VX1yGJ_Shenseea.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1346&w=1024&h=1276",
-					"alt": "Shenseea",
+					"url": "https://images.prismic.io/x-track-mag/6df6a7e4-e43d-4d72-8646-94d43b4b88ea_Ayra+Starr+.jpeg?auto=format%2Ccompress&rect=0%2C0%2C960%2C960&w=1024&h=1024",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
