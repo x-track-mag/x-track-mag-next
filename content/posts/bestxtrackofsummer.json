@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-07-29T14:36:22+0000",
+	"publication_date": "2024-08-05T10:00:01+0000",
 	"title": "Best ”XTrack“ of Summer",
-	"subtitle": "Les meilleurs sons de l'été        -  Childish Gambino on Cover",
+	"subtitle": "Les meilleurs sons de l'été        - Fousheé on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Childish Gambino.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zpu-6h5LeNNTxUh9_ChildishGambino.mp4",
-		"size": "3652231"
+		"name": "Foushée.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZrCg5EaF0TcGIrgC_Foushe%CC%81e.mp4",
+		"size": "17398697"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Victony x Saint Jhn - Michael Kiwanuka - Childish Gambino x Jorja Smith x Amaraae - Nia Smith - Hope Tala - Boj x Blaqbonez - Judeline - Spinall x Omah Lay x  Tyla - Craig Isto - Amaarae - Ashipado x Asake - Headie One x Aitch - Burna Boy - Young T & Bugsey - Gordo x Drake - Jorja Smith & +++ Enjoy",
+					"text": "Victony x Saint Jhn - Hope Tala - Childish Gambino x Jorja Smith x Amaraae - Donzer x LCams - Craig Isto - Ashipado x Asake - Headie One x Aitch - Burna Boy - Young T & Bugsey - Gordo x Drake - Jorja Smith - Fousheé - James Blake x Lil Yachty - Bay Swag - Tems - Shenseea & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -69,20 +69,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zpy8Nx5LeNNTxU2I_NiaSmith.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1079&w=1024&h=1023",
-					"alt": "Nia Smith ",
+					"url": "https://images.prismic.io/x-track-mag/Zpu-6R5LeNNTxUh8_Amaarae.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZpFNMh5LeNNTxHfP_MichaelKiwanuka.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1331&w=1024&h=1262",
-					"alt": "Michael Kiwanuka",
+					"url": "https://images.prismic.io/x-track-mag/898f8dad-9e16-4060-8747-2ad03a1b2d4f_Childish+Gambino.jpg?auto=format,compress&rect=0,0,1439,1440&w=1024&h=1025",
+					"alt": "Childish Gambino",
 					"copyright": null,
 					"width": 1024,
-					"height": 1262,
-					"ratio": 0.8114104595879557
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				}
 			]
 		},
