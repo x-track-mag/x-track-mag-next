@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-08-13T09:30:50+0000",
+	"publication_date": "2024-08-13T09:37:45+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été        -Kali Uchis on Cover",
 	"text_color": "inverted",
@@ -32,8 +32,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZrshB0aF0TcGI4tG_ShowDemCampxTheCavemenxNsikakDavid.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Show Dem Camp x The Cavemen x Nsikak David",
+					"url": "https://images.prismic.io/x-track-mag/Zm7S7Zm069VX1yGA_Asake.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Asake",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -48,12 +48,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZrshBEaF0TcGI4tD_DarkooxRema.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Darkoo x Rema",
+					"url": "https://images.prismic.io/x-track-mag/9a78d611-86f9-439c-a10f-7650d457424c_Travis+Scott.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Travis Scott",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -61,8 +61,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zm7S7Zm069VX1yGA_Asake.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Asake",
+					"url": "https://images.prismic.io/x-track-mag/ZrshB0aF0TcGI4tG_ShowDemCampxTheCavemenxNsikakDavid.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Show Dem Camp x The Cavemen x Nsikak David",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -77,12 +77,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9a78d611-86f9-439c-a10f-7650d457424c_Travis+Scott.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Travis Scott",
+					"url": "https://images.prismic.io/x-track-mag/ZrshBEaF0TcGI4tD_DarkooxRema.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Darkoo x Rema",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
