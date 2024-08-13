@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-08-13T09:37:45+0000",
+	"publication_date": "2024-08-13T18:01:53+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été        -Kali Uchis on Cover",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Show Dem Camp x The Cavemen x Ruti x Nsikak David - Kali Uchis x Kaytranada - Asake x Travis Scott - Craig Isto - Darkoo x Rema - Gordo x Drake - Jorja Smith - Fousheé - James Blake x Lil Yachty - Young T & Bugsey - Burna boy - Ashidapo x Asake - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
+					"text": "Show Dem Camp x The Cavemen x Ruti x Nsikak David - Fousheé - Kali Uchis x Kaytranada - Childish Gambino x Jorja Smith x Amaraae - Hope Tala - Craig Isto - Darkoo x Rema - Young T & Bugsey - Gordo x Drake - Jorja Smith - Asake x Travis Scott - Bay Swag - Nia Smith - Burna boy - Ashidapo x Asake - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -40,12 +40,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/ZrufT0aF0TcGI529_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,2240,1260&w=1024&h=576",
+					"alt": "Fousheé",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/9a78d611-86f9-439c-a10f-7650d457424c_Travis+Scott.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
