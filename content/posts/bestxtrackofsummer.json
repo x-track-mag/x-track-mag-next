@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-08-13T18:01:53+0000",
+	"publication_date": "2024-08-19T22:06:10+0000",
 	"title": "Best ”XTrack“ of Summer",
-	"subtitle": "Les meilleurs sons de l'été        -Kali Uchis on Cover",
+	"subtitle": "Les meilleurs sons de l'été - Nia Smith x  Popcaan on cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Kali Uchis.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/a50b5ebc-8198-4468-b282-1cf311007762_Kali+Uchis.mp4",
-		"size": "400881"
+		"name": "Nia Smith x Popcaan.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZsPAeEaF0TcGJEwX_NiaSmithxPopcaan.mp4",
+		"size": "7347242"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Show Dem Camp x The Cavemen x Ruti x Nsikak David - Fousheé - Kali Uchis x Kaytranada - Childish Gambino x Jorja Smith x Amaraae - Hope Tala - Craig Isto - Darkoo x Rema - Young T & Bugsey - Gordo x Drake - Jorja Smith - Asake x Travis Scott - Bay Swag - Nia Smith - Burna boy - Ashidapo x Asake - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
+					"text": "Asake x Wizkid - Show Dem Camp x The Cavemen x Ruti x Nsikak David - Fousheé - Nia Smith x Popcaan - Billie Eilish - Kali Uchis x Kaytranada - Childish Gambino x Jorja Smith x Amaraae - Hope Tala - Craig Isto - Darkoo x Rema - Young T & Bugsey - Gordo x Drake - Jorja Smith - Asake x Travis Scott - Bay Swag - Nia Smith - Burna boy - Ashidapo x Asake - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -48,12 +48,12 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/9a78d611-86f9-439c-a10f-7650d457424c_Travis+Scott.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Travis Scott",
+					"url": "https://images.prismic.io/x-track-mag/ZsPAdkaF0TcGJEwV_Wizkid.jpg?auto=format,compress&rect=0,0,1080,1171&w=1024&h=1110",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1110,
+					"ratio": 0.9225225225225225
 				}
 			]
 		},
@@ -61,20 +61,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZrshB0aF0TcGI4tG_ShowDemCampxTheCavemenxNsikakDavid.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Show Dem Camp x The Cavemen x Nsikak David",
+					"url": "https://images.prismic.io/x-track-mag/ZsPAd0aF0TcGJEwW_Asake.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
+					"alt": "Asake",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1262,
+					"ratio": 0.8114104595879557
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZrshBkaF0TcGI4tF_Ruti.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Ruti",
+					"url": "https://images.prismic.io/x-track-mag/ZsPAekaF0TcGJEwZ_BillieEilish.jpg?auto=format,compress&rect=0,0,1024,680&w=1024&h=680",
+					"alt": "Billie Eilish",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 680,
+					"ratio": 1.5058823529411764
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZrshBEaF0TcGI4tD_DarkooxRema.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
