@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-07-23T08:42:09+0000",
+	"publication_date": "2024-08-24T13:55:19+0000",
 	"title": "Nice Day",
 	"subtitle": "Happy Crossover",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Kendrick Lamar - Guru x Paul Ferguson x Baybe - Kanye West x Paul Wall x GLC - Method Man x Mary J Blidge - Snoop Dog x Charlie Wilson x Justin Timberlake -  Sleepy Brown x Pharrell Williams x Big Boi - Michael jackson - Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande - Parcels x Breakbot - Daft Punk - Pharrell Williams - Sharam x Kid Cudi - Estelle x Kanye West - Asap Rocky - Bryan Ferry - Outkast x Sleepy Brown - Crayon x KLP - Gnarls Barkley - Wham! - Sault - Jungle - Dornik - & ++++ Enjoy",
+					"text": "Kendrick Lamar - Nohidea x Ben Beal x Sophie Meiers - Hare Squad - Janet Jackson x Q Tips x Joni Mitchell - Guru x Paul Ferguson x Baybe - Kanye West x Paul Wall x GLC - Method Man x Mary J Blidge - Snoop Dog x Charlie Wilson x Justin Timberlake -  Sleepy Brown x Pharrell Williams x Big Boi - Michael jackson - Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande - Parcels - Daft Punk - Pharrell Williams - Estelle x Kanye West - Asap Rocky - Sharam x Kid Cudi - Bryan Ferry - Outkast x Sleepy Brown - Parcels x Breakbot - Crayon x KLP - Sault - Jungle - Dornik - & ++++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZpJDfh5LeNNTxITU_MichaelJackson.jpg?auto=format%2Ccompress&rect=0%2C0%2C683%2C1024&w=1024&h=1535",
-					"alt": "Michael Jackson",
+					"url": "https://images.prismic.io/x-track-mag/051e7416-c97b-444f-b059-e63d6dcffe18_Sophie+Meiers.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Sophie Meiers",
 					"copyright": null,
 					"width": 1024,
-					"height": 1535,
-					"ratio": 0.6671009771986971
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZpJDeR5LeNNTxITP_MaryJBlidge.jpg?auto=format%2Ccompress&rect=0%2C0%2C800%2C540&w=1024&h=691",
-					"alt": "Mary J Blidge",
-					"copyright": null,
-					"width": 1024,
-					"height": 691,
-					"ratio": 1.4819102749638204
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZpJDgR5LeNNTxITX_KendrickLamar.jpg?auto=format%2Ccompress&rect=0%2C0%2C800%2C990&w=1024&h=1267",
+					"url": "https://images.prismic.io/x-track-mag/ZpJDgR5LeNNTxITX_KendrickLamar.jpg?auto=format,compress&rect=0,0,800,990&w=1024&h=1267",
 					"alt": "Kendrick Lamar",
 					"copyright": null,
 					"width": 1024,
 					"height": 1267,
 					"ratio": 0.8082083662194159
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/d804a365-c346-43c7-b640-8152a1880ab6_HARE+SQUEAD.jpg?auto=format,compress&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "HARE SQUEAD",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
