@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-08-19T22:06:10+0000",
+	"publication_date": "2024-08-24T10:48:45+0000",
 	"title": "Best ”XTrack“ of Summer",
-	"subtitle": "Les meilleurs sons de l'été - Nia Smith x  Popcaan on cover",
+	"subtitle": "Les meilleurs sons de l'été - Fousheé on cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Nia Smith x Popcaan.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZsPAeEaF0TcGJEwX_NiaSmithxPopcaan.mp4",
-		"size": "7347242"
+		"name": "Fousheé.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zsm3g0aF0TcGJXzc_Foushee%CC%81.mp4",
+		"size": "27305001"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Asake x Wizkid - Show Dem Camp x The Cavemen x Ruti x Nsikak David - Fousheé - Nia Smith x Popcaan - Billie Eilish - Kali Uchis x Kaytranada - Childish Gambino x Jorja Smith x Amaraae - Hope Tala - Craig Isto - Darkoo x Rema - Young T & Bugsey - Gordo x Drake - Jorja Smith - Asake x Travis Scott - Bay Swag - Nia Smith - Burna boy - Ashidapo x Asake - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
+					"text": "Fousheé - Nia Smith x Popcaan - Young T & Bugsey - The Cavemen - Rejjie Snow x Dana Williams - Kali Uchis - Asake x Travis Scott - Darkoo x Rema - Craig Isto -  Isong x Romzy x Tion Wayne - Burna boy - Hope Tala - YG x Ty Dolla Sign - Bay Swag - Ashidapo x Asake - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zm7S7Zm069VX1yGA_Asake.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Asake",
+					"url": "https://images.prismic.io/x-track-mag/ZsPAeUaF0TcGJEwY_NiaSmithxPopcaan.jpg?auto=format,compress&rect=0,0,1080,1114&w=1024&h=1056",
+					"alt": "Nia Smith x Popcaan",
+					"copyright": null,
+					"width": 1024,
+					"height": 1056,
+					"ratio": 0.9696969696969697
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZrshBUaF0TcGI4tE_KaliUchis.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Kali Uchis",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZrufT0aF0TcGI529_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,2240,1260&w=1024&h=576",
-					"alt": "Fousheé",
+					"url": "https://images.prismic.io/x-track-mag/Zsm3h0aF0TcGJXzh_YoungT%26Bugsey.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Young T & Bugsey",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZsPAdkaF0TcGJEwV_Wizkid.jpg?auto=format,compress&rect=0,0,1080,1171&w=1024&h=1110",
-					"alt": "Wizkid",
-					"copyright": null,
-					"width": 1024,
-					"height": 1110,
-					"ratio": 0.9225225225225225
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -61,24 +61,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZsPAd0aF0TcGJEwW_Asake.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
-					"alt": "Asake",
+					"url": "https://images.prismic.io/x-track-mag/Zsm3hkaF0TcGJXzg_TheCavemen.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "The Cavemen",
 					"copyright": null,
 					"width": 1024,
-					"height": 1262,
-					"ratio": 0.8114104595879557
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZsPAekaF0TcGJEwZ_BillieEilish.jpg?auto=format,compress&rect=0,0,1024,680&w=1024&h=680",
-					"alt": "Billie Eilish",
+					"url": "https://images.prismic.io/x-track-mag/Zsm3hEaF0TcGJXze_DanaWilliams.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Dana Williams",
 					"copyright": null,
 					"width": 1024,
-					"height": 680,
-					"ratio": 1.5058823529411764
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZrshBEaF0TcGI4tD_DarkooxRema.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Darkoo x Rema",
+					"url": "https://images.prismic.io/x-track-mag/Zsm3hUaF0TcGJXzf_RejjieSnow.jpg?auto=format,compress&rect=0,0,960,1200&w=1024&h=1280",
+					"alt": "Rejjie Snow",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
