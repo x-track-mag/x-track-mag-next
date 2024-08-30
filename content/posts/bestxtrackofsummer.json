@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-08-24T10:48:45+0000",
+	"publication_date": "2024-08-30T16:45:59+0000",
 	"title": "Best ”XTrack“ of Summer",
-	"subtitle": "Les meilleurs sons de l'été - Fousheé on cover",
-	"text_color": "inverted",
+	"subtitle": "Les meilleurs sons de l'été - Jamie xx on cover",
+	"text_color": "orange",
 	"image": null,
 	"video_loop": {
-		"name": "Fousheé.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zsm3g0aF0TcGJXzc_Foushee%CC%81.mp4",
-		"size": "27305001"
+		"name": "Jamie xx.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZtHwBkaF0TcGJmZQ_Jamiexx.mp4",
+		"size": "24946869"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Fousheé - Nia Smith x Popcaan - Young T & Bugsey - The Cavemen - Rejjie Snow x Dana Williams - Kali Uchis - Asake x Travis Scott - Darkoo x Rema - Craig Isto -  Isong x Romzy x Tion Wayne - Burna boy - Hope Tala - YG x Ty Dolla Sign - Bay Swag - Ashidapo x Asake - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
+					"text": "Mustafa - Fousheé - Nia Smith x Popcaan - Young T & Bugsey - The Cavemen - Rejjie Snow x Dana Williams - Jamie xx x Kelsey Lu x John Glacier x Panda Bear - Jyelowl x Holly - Kali Uchis - Asake x Travis Scott - Darkoo x Rema - Craig Isto -  Isong x Romzy x Tion Wayne - Burna boy - Hope Tala - Ashidapo x Asake - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,20 +32,41 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZsPAeUaF0TcGJEwY_NiaSmithxPopcaan.jpg?auto=format,compress&rect=0,0,1080,1114&w=1024&h=1056",
-					"alt": "Nia Smith x Popcaan",
+					"url": "https://images.prismic.io/x-track-mag/ZtH09UaF0TcGJma7_jamiexx.jpg?auto=format,compress&rect=0,0,1200,900&w=1024&h=768",
+					"alt": "jamie xx",
 					"copyright": null,
 					"width": 1024,
-					"height": 1056,
-					"ratio": 0.9696969696969697
+					"height": 768,
+					"ratio": 1.3333333333333333
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZrshBUaF0TcGI4tE_KaliUchis.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Kali Uchis",
+					"url": "https://images.prismic.io/x-track-mag/Zsm3gUaF0TcGJXzb_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Fousheé",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZtHwB0aF0TcGJmZR_Mustafa.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Mustafa",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZtHwBEaF0TcGJmZP_KelseyLu.jpg?auto=format,compress&rect=0,0,1080,1341&w=1024&h=1271",
+					"alt": "Kelsey Lu",
+					"copyright": null,
+					"width": 1024,
+					"height": 1271,
+					"ratio": 0.8056648308418568
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zsm3h0aF0TcGJXzh_YoungT%26Bugsey.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
@@ -54,31 +75,10 @@
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zsm3hkaF0TcGJXzg_TheCavemen.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "The Cavemen",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zsm3hEaF0TcGJXze_DanaWilliams.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Dana Williams",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zsm3hUaF0TcGJXzf_RejjieSnow.jpg?auto=format,compress&rect=0,0,960,1200&w=1024&h=1280",
-					"alt": "Rejjie Snow",
+					"url": "https://images.prismic.io/x-track-mag/ZtHwA0aF0TcGJmZO_JohnGlacier.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "John Glacier",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
