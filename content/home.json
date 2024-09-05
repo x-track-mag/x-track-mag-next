@@ -8,7 +8,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestxtrackofsummer"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 2,
@@ -178,13 +178,13 @@
 	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "bestxtrackofsummer",
+			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-08-30T16:45:59+0000",
-			"title": "Best ”XTrack“ of Summer",
-			"subtitle": "Les meilleurs sons de l'été - Jamie xx on cover",
+			"publication_date": "2024-09-05T17:07:17+0000",
+			"title": "Best ”XTrack“ of the Week",
+			"subtitle": "Les meilleurs sons de la semaine - Jamie xx on cover",
 			"text_color": "orange",
 			"image": null,
 			"video_loop": {
@@ -195,7 +195,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de l'été"
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "page",

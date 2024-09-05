@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-06-28T18:01:41+0000",
-	"title": "Best ”XTrack“ of Summer",
-	"subtitle": "Les meilleurs sons de l'été        -  Burna Boy on Cover",
-	"text_color": "inverted",
+	"publication_date": "2024-09-05T17:07:17+0000",
+	"title": "Best ”XTrack“ of the Week",
+	"subtitle": "Les meilleurs sons de la semaine - Jamie xx on cover",
+	"text_color": "orange",
 	"image": null,
 	"video_loop": {
-		"name": "Burna Boy.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zn71Jh5LeNNTwor2_BurnaBoy.mp4",
-		"size": "19469288"
+		"name": "Jamie xx.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZtHwBkaF0TcGJmZQ_Jamiexx.mp4",
+		"size": "24946869"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "NxWorries x Anderson Paak x Knxwledge x Dave Chappelle -  Victony x Saint Jhn - Headie One x Aitch - Burna Boy - Hope Tala - Amber Mark - Teezo Touchdown - Tems - Shenseea - Protoje x Zion I King -  Tommy Richman - Amaarae - Bay Swag - Lil Yachty - Byron Messia x Lil Baby x Rvssian & +++ Enjoy",
+					"text": "Mustafa - Fousheé - Nia Smith x Popcaan - Young T & Bugsey - The Cavemen - Rejjie Snow x Dana Williams - Jamie xx x Kelsey Lu x John Glacier x Panda Bear - Jyelowl x Holly - Kali Uchis - Asake x Travis Scott - Darkoo x Rema - Craig Isto -  Isong x Romzy x Tion Wayne - Burna boy - Hope Tala - Ashidapo x Asake - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zn71LB5LeNNTwosC_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/ZtH09UaF0TcGJma7_jamiexx.jpg?auto=format,compress&rect=0,0,1200,900&w=1024&h=768",
+					"alt": "jamie xx",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 768,
+					"ratio": 1.3333333333333333
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zm7S8Jm069VX1yGD_NxWorries-AndersonPaakxKnxwledge.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1080&w=1024&h=1024",
-					"alt": "NxWorries : Knxwledge x Anderson Paak",
+					"url": "https://images.prismic.io/x-track-mag/Zsm3gUaF0TcGJXzb_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Fousheé",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZtHwB0aF0TcGJmZR_Mustafa.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Mustafa",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zm7S9pm069VX1yGJ_Shenseea.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1346&w=1024&h=1276",
-					"alt": "Shenseea",
-					"copyright": null,
-					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zn71MB5LeNNTwosG_Victony.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Victony",
+					"url": "https://images.prismic.io/x-track-mag/ZtHwBEaF0TcGJmZP_KelseyLu.jpg?auto=format,compress&rect=0,0,1080,1341&w=1024&h=1271",
+					"alt": "Kelsey Lu",
+					"copyright": null,
+					"width": 1024,
+					"height": 1271,
+					"ratio": 0.8056648308418568
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zsm3h0aF0TcGJXzh_YoungT%26Bugsey.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Young T & Bugsey",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zn71LR5LeNNTwosD_AmberMark.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1349&w=1024&h=1279",
-					"alt": "Amber Mark",
+					"url": "https://images.prismic.io/x-track-mag/ZtHwA0aF0TcGJmZO_JohnGlacier.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "John Glacier",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zn747x5LeNNTwot0_TeezoTouchdown.jpg?auto=format%2Ccompress&rect=0%2C0%2C1018%2C1272&w=1024&h=1279",
-					"alt": "Teezo Touchdown",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
