@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-09-07T15:03:45+0000",
+	"publication_date": "2024-09-14T17:56:03+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Leon Bridges on cover",
+	"subtitle": "Les meilleurs sons de la semaine - Fousheé on cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Leon Bridges.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZtxoRRoQrfVKlz8A_LeonBridges.mp4",
-		"size": "12243159"
+		"name": "Fousheé.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZuXMTLVsGrYSvXo-_Foushee%CC%81.mp4",
+		"size": "9739271"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Blundetto x Juliette Magnevasoa - Leon Bridges - Jungle - Jyelowl x Holly - Kali Uchis - The Cavemen - Jamie xx x Kelsey Lu x John Glacier x Panda Bear - Ashidapo x Asake - Fousheé - Bugle x Barrington Levy - Nia Smith x Popcaan - Tion Wayne x Shallipopi - Young T & Bugsey - Darkoo x Rema - Craig Isto -  Isong x Romzy x Tion Wayne - Burna boy - Hope Tala - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
+					"text": "Michael Kiwanuka - Leon Bridges - Fousheé - Bronski Beat x The Knocks x Perfume Genius - Jungle - Jyelowl x Holly - Jorja Smith x MJ Cole - Kali Uchis - The Cavemen - Jamie xx x Kelsey Lu x John Glacier x Panda Bear - Ashidapo x Asake - Fousheé - Bugle x Barrington Levy - Nia Smith x Popcaan - Tion Wayne x Shallipopi - Young T & Bugsey - Darkoo x Rema - Craig Isto -  Isong x Romzy x Tion Wayne - Burna boy - Hope Tala - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,20 +32,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0inUurf2G3OIQ_Blundetto.jpg?auto=format,compress&rect=0,0,1400,934&w=1024&h=683",
-					"alt": "Blundetto",
+					"url": "https://images.prismic.io/x-track-mag/ZpFNMh5LeNNTxHfP_MichaelKiwanuka.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
+					"alt": "Michael Kiwanuka",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1262,
+					"ratio": 0.8114104595879557
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZtxoQBoQrfVKlz77_JulietteMagnevasoa.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Juliette Magnevasoa",
+					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZtxoQhoQrfVKlz7-_Jungle.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
