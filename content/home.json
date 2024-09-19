@@ -95,8 +95,7 @@
 			"uid": "lavenir-de-la-mode-est-il-virtuel"
 		},
 		{
-			"position": 24,
-			"uid": "supersoul"
+			"position": 24
 		},
 		{
 			"position": 25,
@@ -646,27 +645,25 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "supersoul",
+			"uid": "15minutes-avec-jacques",
 			"tags": [
+				"interview",
 				"music"
 			],
-			"publication_date": "2024-04-29T04:48:00+0000",
-			"title": "Supersoul ",
-			"subtitle": "Hip Hop x Soul Music From 00's Cover : Outkast",
+			"publication_date": "2024-04-15T09:46:46+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
 			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/Zi8lod3JpQ5PTOv3_Outkast..jpg?auto=format,compress",
-				"alt": "Outkast",
-				"copyright": null,
-				"width": 2400,
-				"height": 1600,
-				"ratio": 1.5
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Hip Hop & Soul Music"
+			"description": "jacques interview"
 		},
 		{
 			"uid": "yayayayoutube-ep-1-samantha-deep",
@@ -689,25 +686,27 @@
 			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
-			"uid": "15minutes-avec-jacques",
+			"uid": "la-muse--une-icone-feministe-",
 			"tags": [
-				"interview",
-				"music"
+				"article"
 			],
-			"publication_date": "2024-04-15T09:46:46+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
+			"publication_date": "2024-03-30T23:57:32+0000",
+			"title": "La muse : une icône féministe ?",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassa",
 			"internal_link": null,
-			"description": "jacques interview"
+			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
 		},
 		{
 			"uid": "slow-dance",
@@ -841,29 +840,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
-		},
-		{
-			"uid": "la-muse--une-icone-feministe-",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2024-03-30T23:57:32+0000",
-			"title": "La muse : une icône féministe ?",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassa",
-			"internal_link": null,
-			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
 		},
 		{
 			"uid": "interview-moment-badbiche",
