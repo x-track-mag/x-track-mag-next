@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-09-14T18:01:46+0000",
+	"publication_date": "2024-09-21T17:56:41+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Fousheé on cover",
+	"subtitle": "Les meilleurs sons de la semaine - 4batz  x Lil Baby on cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Fousheé.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZuXMTLVsGrYSvXo-_Foushee%CC%81.mp4",
-		"size": "9739271"
+		"name": "4Batz x Lil Baby.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zu8Et7VsGrYSvpel_4BatzxLilBaby.mp4",
+		"size": "3610236"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Michael Kiwanuka - Leon Bridges - Fousheé - Bronski Beat x The Knocks x Perfume Genius - Jungle - Jyelowl x Holly - Jorja Smith x MJ Cole - Kali Uchis - The Cavemen - Jamie xx x Kelsey Lu x John Glacier x Panda Bear - Ashidapo x Asake - Bugle x Barrington Levy - Nia Smith x Popcaan - Tion Wayne x Shallipopi - Young T & Bugsey - Darkoo x Rema - Craig Isto -  Isong x Romzy x Tion Wayne - Burna boy - Hope Tala - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
+					"text": "4bats x Lil Baby - Fousheé - Oxlade x Fally Loupa - Tkay Maidza - Oklou - Chiiild - Orion Sun - Leon Bridges - Michael Kiwanuka - Bronski Beat x The Knocks x Perfume Genius - Jungle - Jyelowl x Holly - Jorja Smith x MJ Cole - Kali Uchis - The Cavemen - Jamie xx x Kelsey Lu x John Glacier x Panda Bear - Ashidapo x Asake - Bugle x Barrington Levy - Nia Smith x Popcaan - Young T & Bugsey - Darkoo x Rema - Craig Isto - Burna boy - Hope Tala - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZpFNMh5LeNNTxHfP_MichaelKiwanuka.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
-					"alt": "Michael Kiwanuka",
-					"copyright": null,
-					"width": 1024,
-					"height": 1262,
-					"ratio": 0.8114104595879557
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/ZuXMSbVsGrYSvXo8_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Fousheé",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZtxoQhoQrfVKlz7-_Jungle.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jungle",
+					"url": "https://images.prismic.io/x-track-mag/Zu8GrrVsGrYSvpe-_Oxlade.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Oxlade",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zu8EtbVsGrYSvpej_MiraaMay.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Miraa May",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZtHwBEaF0TcGJmZP_KelseyLu.jpg?auto=format,compress&rect=0,0,1080,1341&w=1024&h=1271",
-					"alt": "Kelsey Lu",
-					"copyright": null,
-					"width": 1024,
-					"height": 1271,
-					"ratio": 0.8056648308418568
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZtH09UaF0TcGJma7_jamiexx.jpg?auto=format,compress&rect=0,0,1200,900&w=1024&h=768",
-					"alt": "jamie xx",
-					"copyright": null,
-					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZtHwA0aF0TcGJmZO_JohnGlacier.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "John Glacier",
+					"url": "https://images.prismic.io/x-track-mag/Zu8Es7VsGrYSvpeh_Oklou.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Oklou ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4337b3ed-2e49-4964-a53a-c44471d9f952_Leon+Bridges.jpg?auto=format,compress&rect=0,0,1280,800&w=1024&h=640",
+					"alt": "Leon Bridges",
+					"copyright": null,
+					"width": 1024,
+					"height": 640,
+					"ratio": 1.6
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zu8EtLVsGrYSvpei_TkayMaidza.jpg?auto=format,compress&rect=0,0,1080,1166&w=1024&h=1106",
+					"alt": "Tkay Maidza",
+					"copyright": null,
+					"width": 1024,
+					"height": 1106,
+					"ratio": 0.9258589511754068
 				}
 			]
 		},
