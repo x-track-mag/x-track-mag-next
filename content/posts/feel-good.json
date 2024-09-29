@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-09-11T06:51:03+0000",
+	"publication_date": "2024-09-29T12:09:01+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Cash Cobain x Bay Swag - Nia Smith x Popcaan - Tyla x Gunna x Skillibeng - Craig Isto - Jungle - JyellowL x Holly - Jamie XX x Kelsey Lu x John Glacier x Panda Bear - The Cavemen - Darkoo x Rema -  Kali Uchis - Young T & Bugsey - Seyi Vibez x Tion Wayne - Lil Yachty - James Blake - Tems x Asake - Ayra Starr - Burna Boy & +++ Enjoy",
+					"text": "Cash Cobain x Bay Swag - 4 Batz x Lil Baby - Nia Smith x Popcaan - Tyla x Gunna x Skillibeng - Show Dem Camp x Amaraae x Tems x DJ Sudi x No Nazar - Craig Isto - Jungle - JyellowL x Holly - Maz x Antdot x Giton x Layefa - Young T & Bugsey  -  Kali Uchis -  Burna Boy x Ashidapo x Asake - Miraa May - Tems x Asake - Jaz karis x Juls - Fousheé & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -48,12 +48,12 @@
 					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/dc523324-1e03-440a-8e48-6132c45939a5_Rema+.jpg?auto=format,compress&rect=0,0,1548,1023&w=1024&h=677",
-					"alt": "Rema",
+					"url": "https://images.prismic.io/x-track-mag/ZhEf1hrFxhpPBWQj_4batz.jpg?auto=format,compress&rect=0,0,788,1024&w=1024&h=1331",
+					"alt": "4batz",
 					"copyright": null,
 					"width": 1024,
-					"height": 677,
-					"ratio": 1.5125553914327918
+					"height": 1331,
+					"ratio": 0.7693463561232157
 				}
 			]
 		},
@@ -61,12 +61,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C2240%2C1260&w=1024&h=576",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/ZvkyvbVsGrYSwG3X_Layefa.jpg?auto=format,compress&rect=0,0,1080,1296&w=1024&h=1229",
+					"alt": "Layefa",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1229,
+					"ratio": 0.8331977217249796
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zn71JB5LeNNTworz_Burnaboy.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
@@ -77,12 +77,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZrshBUaF0TcGI4tE_KaliUchis.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Kali Uchis",
+					"url": "https://images.prismic.io/x-track-mag/ZuXMSbVsGrYSvXo8_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Fousheé",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
