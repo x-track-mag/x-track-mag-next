@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-09-21T17:56:41+0000",
+	"publication_date": "2024-09-29T11:24:05+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - 4batz  x Lil Baby on cover",
+	"subtitle": "Les meilleurs sons de la semaine - Omah Lay",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "4Batz x Lil Baby.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zu8Et7VsGrYSvpel_4BatzxLilBaby.mp4",
-		"size": "3610236"
+		"name": "Omah Lay.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZvkxFrVsGrYSwG23_OmahLay.mp4",
+		"size": "2609490"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "4bats x Lil Baby - Fousheé - Oxlade x Fally Loupa - Tkay Maidza - Oklou - Chiiild - Orion Sun - Leon Bridges - Michael Kiwanuka - Bronski Beat x The Knocks x Perfume Genius - Jungle - Jyelowl x Holly - Jorja Smith x MJ Cole - Kali Uchis - The Cavemen - Jamie xx x Kelsey Lu x John Glacier x Panda Bear - Ashidapo x Asake - Bugle x Barrington Levy - Nia Smith x Popcaan - Young T & Bugsey - Darkoo x Rema - Craig Isto - Burna boy - Hope Tala - Headie One x Aitch - Donzer x Lcams +++ Enjoy ",
+					"text": "Leon Bridges - Omah Lay - Maz x Antdot x Giton x Layefa - Tekno - Jaz Karis x Juls - Mustafa - Popcann - Lala &ce - The Artist x Vontee the Singer - 4bats x Lil Baby - Michael Kiwannuka - Fousheé - The Cavemen - Jamie xx x Kelsey Lu x John Glacier x Panda Bear - Jungle  - Miraa May - Kali Uchis - +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZuXMSbVsGrYSvXo8_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Fousheé",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zu8GrrVsGrYSvpe-_Oxlade.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Oxlade",
+					"url": "https://images.prismic.io/x-track-mag/ZvkyvrVsGrYSwG3Y_LeonBridges.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Leon Bridges",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zu8EtbVsGrYSvpej_MiraaMay.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Miraa May",
+					"url": "https://images.prismic.io/x-track-mag/ZvkyvbVsGrYSwG3X_Layefa.jpg?auto=format,compress&rect=0,0,1080,1296&w=1024&h=1229",
+					"alt": "Layefa",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1229,
+					"ratio": 0.8331977217249796
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zvkyu7VsGrYSwG3V_Giton.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Giton",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zu8Es7VsGrYSvpeh_Oklou.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Oklou ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/4337b3ed-2e49-4964-a53a-c44471d9f952_Leon+Bridges.jpg?auto=format,compress&rect=0,0,1280,800&w=1024&h=640",
-					"alt": "Leon Bridges",
+					"url": "https://images.prismic.io/x-track-mag/7cadd287-6bd4-4361-be39-d108791bd67c_Popcaan.png?auto=format,compress&rect=0,0,1080,675&w=1024&h=640",
+					"alt": "Popcaan",
 					"copyright": null,
 					"width": 1024,
 					"height": 640,
 					"ratio": 1.6
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zu8EtLVsGrYSvpei_TkayMaidza.jpg?auto=format,compress&rect=0,0,1080,1166&w=1024&h=1106",
-					"alt": "Tkay Maidza",
+					"url": "https://images.prismic.io/x-track-mag/ZvkyurVsGrYSwG3U_JazKaris.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jaz Karis",
 					"copyright": null,
 					"width": 1024,
-					"height": 1106,
-					"ratio": 0.9258589511754068
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zvkyt7VsGrYSwG3R_TheArtist.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "The Artist",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
