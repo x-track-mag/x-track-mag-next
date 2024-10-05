@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-09-29T11:24:05+0000",
+	"publication_date": "2024-10-05T14:59:47+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Omah Lay",
+	"subtitle": "Les meilleurs sons de la semaine - Yamé",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Omah Lay.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZvkxFrVsGrYSwG23_OmahLay.mp4",
-		"size": "2609490"
+		"name": "Yamé.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZwFK7LVsGrYSwaW9_Yame%CC%81.mp4",
+		"size": "5212568"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Leon Bridges - Omah Lay - Maz x Antdot x Giton x Layefa - Tekno - Jaz Karis x Juls - Mustafa - Popcann - Lala &ce - The Artist x Vontee the Singer - 4bats x Lil Baby - Michael Kiwannuka - Fousheé - The Cavemen - Jamie xx x Kelsey Lu x John Glacier x Panda Bear - Jungle  - Miraa May - Kali Uchis - +++ Enjoy ",
+					"text": "Tinix x Yamé - Nasty C x Lekaa Beats x Daliwonga c Zee Nxumalo x  Yumbs - Justice x Tame Impala x Rampa -  Kaytranada x Childish Gambino - Fousheé - Leon Bridges - Juls x black Sherif x Projexx - Thee Sacred Soul - Slenderbodies - +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZvkyvrVsGrYSwG3Y_LeonBridges.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Leon Bridges",
+					"url": "https://images.prismic.io/x-track-mag/ZwFK67VsGrYSwaW8_NastyC.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Nasty C",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZvkyvbVsGrYSwG3X_Layefa.jpg?auto=format,compress&rect=0,0,1080,1296&w=1024&h=1229",
-					"alt": "Layefa",
+					"url": "https://images.prismic.io/x-track-mag/ZuXMSbVsGrYSvXo8_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Fousheé",
 					"copyright": null,
 					"width": 1024,
-					"height": 1229,
-					"ratio": 0.8331977217249796
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zvkyu7VsGrYSwG3V_Giton.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Giton",
+					"url": "https://images.prismic.io/x-track-mag/ZwFTo7VsGrYSwaYB_Justice.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Justice",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/7cadd287-6bd4-4361-be39-d108791bd67c_Popcaan.png?auto=format,compress&rect=0,0,1080,675&w=1024&h=640",
-					"alt": "Popcaan",
+					"url": "https://images.prismic.io/x-track-mag/ZwFTorVsGrYSwaX__Kaytranada.jpg?auto=format,compress&rect=0,0,1080,1347&w=1024&h=1277",
+					"alt": "Kaytranada",
 					"copyright": null,
 					"width": 1024,
-					"height": 640,
-					"ratio": 1.6
+					"height": 1277,
+					"ratio": 0.8018794048551292
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZvkyurVsGrYSwG3U_JazKaris.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jaz Karis",
+					"url": "https://images.prismic.io/x-track-mag/ZwFK6rVsGrYSwaW7_ZeeNxumalo.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Zee Nxumalo",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zvkyt7VsGrYSwG3R_TheArtist.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "The Artist",
+					"url": "https://images.prismic.io/x-track-mag/4dd76294-6d2f-416e-9084-a6a9f87795bc_Tame+Impala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tame Impala",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},

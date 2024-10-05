@@ -181,15 +181,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-09-29T11:24:05+0000",
+			"publication_date": "2024-10-05T14:59:47+0000",
 			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine - Omah Lay",
+			"subtitle": "Les meilleurs sons de la semaine - Yamé",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Omah Lay.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZvkxFrVsGrYSwG23_OmahLay.mp4",
-				"size": "2609490"
+				"name": "Yamé.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZwFK7LVsGrYSwaW9_Yame%CC%81.mp4",
+				"size": "5212568"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
