@@ -16,7 +16,7 @@
 		},
 		{
 			"position": 3,
-			"uid": "feel-good"
+			"uid": "new-romance"
 		},
 		{
 			"position": 4,
@@ -24,7 +24,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "new-romance"
+			"uid": "feel-good"
 		},
 		{
 			"position": 6,
@@ -221,24 +221,24 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "feel-good",
+			"uid": "new-romance",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-09-29T12:09:01+0000",
-			"title": "Feel Good",
-			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
-			"text_color": "green",
+			"publication_date": "2024-10-05T16:10:16+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes - Nia Smith on Cover",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Tyla .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZoPZzh5LeNNTwtLc_Tyla.mp4",
-				"size": "3704996"
+				"name": "Nia Smith.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zt2bYxoQrfVKl0dZ_NiaSmith.mp4",
+				"size": "12726398"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "martin-parr",
@@ -264,24 +264,24 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "new-romance",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-10-05T16:10:16+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes - Nia Smith on Cover",
-			"text_color": "inverted",
+			"publication_date": "2024-09-29T12:09:01+0000",
+			"title": "Feel Good",
+			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Nia Smith.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zt2bYxoQrfVKl0dZ_NiaSmith.mp4",
-				"size": "12726398"
+				"name": "Tyla .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZoPZzh5LeNNTwtLc_Tyla.mp4",
+				"size": "3704996"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
