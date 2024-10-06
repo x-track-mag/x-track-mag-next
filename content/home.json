@@ -645,25 +645,27 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "15minutes-avec-jacques",
+			"uid": "old-school-reggae",
 			"tags": [
-				"interview",
 				"music"
 			],
-			"publication_date": "2024-04-15T09:46:46+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
+			"publication_date": "2024-10-06T07:06:33+0000",
+			"title": "Reggae",
+			"subtitle": "Old School Reggae ",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 777,
+				"ratio": 1.5444015444015444
 			},
+			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
+			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "jacques interview"
+			"description": "Old School Reggae"
 		},
 		{
 			"uid": "yayayayoutube-ep-1-samantha-deep",
@@ -686,27 +688,25 @@
 			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
-			"uid": "la-muse--une-icone-feministe-",
+			"uid": "15minutes-avec-jacques",
 			"tags": [
-				"article"
+				"interview",
+				"music"
 			],
-			"publication_date": "2024-03-30T23:57:32+0000",
-			"title": "La muse : une icône féministe ?",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
+			"publication_date": "2024-04-15T09:46:46+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
 			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassa",
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
 			"internal_link": null,
-			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
+			"description": "jacques interview"
 		},
 		{
 			"uid": "slow-dance",
@@ -840,6 +840,29 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
+		},
+		{
+			"uid": "la-muse--une-icone-feministe-",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2024-03-30T23:57:32+0000",
+			"title": "La muse : une icône féministe ?",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
+			},
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassa",
+			"internal_link": null,
+			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
 		},
 		{
 			"uid": "interview-moment-badbiche",
@@ -1038,29 +1061,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Boys Noize"
-		},
-		{
-			"uid": "old-school-reggae",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2024-03-03T10:30:26+0000",
-			"title": "Reggae",
-			"subtitle": "Old School Reggae",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 777,
-				"ratio": 1.5444015444015444
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Old School Reggae"
 		}
 	]
 }
