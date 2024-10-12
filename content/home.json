@@ -181,15 +181,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-10-06T07:05:40+0000",
+			"publication_date": "2024-10-12T18:38:06+0000",
 			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine - Yamé",
+			"subtitle": "Les meilleurs sons de la semaine - Uma",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Yamé.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZwFK7LVsGrYSwaW9_Yame%CC%81.mp4",
-				"size": "5212568"
+				"name": "Uma.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZwphNIF3NbkBXXIm_Uma.mp4",
+				"size": "12671306"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",

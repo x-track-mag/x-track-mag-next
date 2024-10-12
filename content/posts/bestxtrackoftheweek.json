@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-10-06T07:05:40+0000",
+	"publication_date": "2024-10-12T18:38:06+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Yamé",
+	"subtitle": "Les meilleurs sons de la semaine - Uma",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Yamé.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZwFK7LVsGrYSwaW9_Yame%CC%81.mp4",
-		"size": "5212568"
+		"name": "Uma.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZwphNIF3NbkBXXIm_Uma.mp4",
+		"size": "12671306"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Tinix x Yamé - Nasty C x Lekaa Beats x Daliwonga c Zee Nxumalo x  Yumbs - Justice x Tame Impala x Rampa -  Kaytranada x Childish Gambino - Fousheé - Leon Bridges - Jaden - Juls x black Sherif x Projexx - Thee Sacred Soul - Slenderbodies +++ Enjoy ",
+					"text": "Jorja Smith x Mortimer - Uma - Jim Legxacy - Obongjayar - Tyla - Mortimer - Isaiah Falls x Joyce Wrice - Amaria - +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwFK67VsGrYSwaW8_NastyC.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Nasty C",
+					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Jorja Smith",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZwphOYF3NbkBXXIs_Mortimer.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Mortimer",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZuXMSbVsGrYSvXo8_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Fousheé",
+					"url": "https://images.prismic.io/x-track-mag/ZwphMoF3NbkBXXIk_Tyla.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
+					"alt": "Tyla",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZwFTo7VsGrYSwaYB_Justice.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Justice",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1278,
+					"ratio": 0.8012519561815337
 				}
 			]
 		},
@@ -61,24 +61,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwFTorVsGrYSwaX__Kaytranada.jpg?auto=format,compress&rect=0,0,1080,1347&w=1024&h=1277",
-					"alt": "Kaytranada",
+					"url": "https://images.prismic.io/x-track-mag/ZwphOoF3NbkBXXIt_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1277,
-					"ratio": 0.8018794048551292
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwFK6rVsGrYSwaW7_ZeeNxumalo.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Zee Nxumalo",
+					"url": "https://images.prismic.io/x-track-mag/ZwphNYF3NbkBXXIo_Amaria.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwI2hrVsGrYSwakr_Jaden.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jaden",
+					"url": "https://images.prismic.io/x-track-mag/ZwphNoF3NbkBXXIp_JimLegxacy.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jim Legxacy",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
