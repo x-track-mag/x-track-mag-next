@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-10-12T18:38:59+0000",
+	"publication_date": "2024-10-19T18:39:34+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Uma",
+	"subtitle": "Les meilleurs sons de la semaine - Bnxn x Rema",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Uma.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZwphNIF3NbkBXXIm_Uma.mp4",
-		"size": "12671306"
+		"name": "Bnxn x Rema.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZxPzL4F3NbkBXvOf_BnxnxRema.mp4",
+		"size": "4590633"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jorja Smith x Mortimer - Uma - Jim Legxacy - Obongjayar - Tyla - Mortimer - Isaiah Falls x Joyce Wrice - Amaria & +++ Enjoy ",
+					"text": "Jeremih x 4batz - Hope Tala - Bnxn x Rema - Skiifall - Wizkid x Brent Fayaz - Saya Gray - Michael Kiwanuka - Lubiana x Gaël Faye - Jorja Smith x Mortimer & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/ZxPzLYF3NbkBXvOd_4BatzxJeremih.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "4Batz x Jeremih",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwphOYF3NbkBXXIs_Mortimer.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Mortimer",
+					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Hope Tala",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwphMoF3NbkBXXIk_Tyla.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
-					"alt": "Tyla",
+					"url": "https://images.prismic.io/x-track-mag/ZxPzLIF3NbkBXvOc_WizkidxBrentFayaz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Wizkid x Brent Fayaz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwphOoF3NbkBXXIt_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZwphNYF3NbkBXXIo_Amaria.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amaria",
+					"url": "https://images.prismic.io/x-track-mag/ZxPzK4F3NbkBXvOb_SayaGray.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Saya Gray",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwphNoF3NbkBXXIp_JimLegxacy.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jim Legxacy",
+					"url": "https://images.prismic.io/x-track-mag/ZxPzKoF3NbkBXvOa_GabrielFayexLubiana.jpg?auto=format,compress&rect=0,0,1080,1344&w=1024&h=1274",
+					"alt": "Gabriel Faye x Lubiana",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1274,
+					"ratio": 0.8037676609105181
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Jorja Smith",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
