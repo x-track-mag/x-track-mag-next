@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-10-21T20:05:38+0000",
+	"publication_date": "2024-10-21T20:08:23+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Nia Smith on Cover",
 	"text_color": "inverted",
@@ -61,12 +61,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwphOoF3NbkBXXIt_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Obongjayar",
+					"url": "https://images.prismic.io/x-track-mag/4337b3ed-2e49-4964-a53a-c44471d9f952_Leon+Bridges.jpg?auto=format,compress&rect=0,0,1280,800&w=1024&h=640",
+					"alt": "Leon Bridges",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 640,
+					"ratio": 1.6
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
