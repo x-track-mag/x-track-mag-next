@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-10-19T18:39:34+0000",
+	"publication_date": "2024-10-25T18:42:47+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Bnxn x Rema",
+	"subtitle": "Les meilleurs sons de la semaine - On Cover : Tobi",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Bnxn x Rema.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZxPzL4F3NbkBXvOf_BnxnxRema.mp4",
-		"size": "4590633"
+		"name": "Tobi.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZxvXOYF3NbkBYC4D_Tobi.mp4",
+		"size": "11532308"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jeremih x 4batz - Hope Tala - Bnxn x Rema - Skiifall - Wizkid x Brent Fayaz - Saya Gray - Michael Kiwanuka - Lubiana x Gaël Faye - Jorja Smith x Mortimer & +++ Enjoy ",
+					"text": "Tobi x YKB x Mojam - Amber Mark - Parcels - Biig Piig - Liya x Olamide - Juls x Tendai - CKay x The Cavemen - Eric IV x Skeete - Loe Shimmy x Cash Cobain JaySoCold - Amaria & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzLYF3NbkBXvOd_4BatzxJeremih.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "4Batz x Jeremih",
+					"url": "https://images.prismic.io/x-track-mag/ZxvXSYF3NbkBYC4W_AmberMark.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amber Mark ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/ZxvXRoF3NbkBYC4S_Parcels.jpg?auto=format,compress&rect=0,0,1080,810&w=1024&h=768",
+					"alt": "Parcels",
+					"copyright": null,
+					"width": 1024,
+					"height": 768,
+					"ratio": 1.3333333333333333
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZxvXRYF3NbkBYC4R_BiigPiig.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Biig Piig ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzLIF3NbkBXvOc_WizkidxBrentFayaz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Wizkid x Brent Fayaz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -61,24 +61,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzK4F3NbkBXvOb_SayaGray.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Saya Gray",
+					"url": "https://images.prismic.io/x-track-mag/ZxvXQ4F3NbkBYC4P_Olamide.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Olamide",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzKoF3NbkBXvOa_GabrielFayexLubiana.jpg?auto=format,compress&rect=0,0,1080,1344&w=1024&h=1274",
-					"alt": "Gabriel Faye x Lubiana",
+					"url": "https://images.prismic.io/x-track-mag/ZxvXRIF3NbkBYC4Q_Liya.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Liya",
 					"copyright": null,
 					"width": 1024,
-					"height": 1274,
-					"ratio": 0.8037676609105181
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/ZxvXPoF3NbkBYC4K_JaySoCold.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "JaySoCold ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
