@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-10-25T20:15:05+0000",
+	"publication_date": "2024-10-26T17:35:59+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine - Cover : Tobi",
 	"text_color": "inverted",
@@ -61,12 +61,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxvXQ4F3NbkBYC4P_Olamide.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Olamide",
+					"url": "https://images.prismic.io/x-track-mag/ZxvXPoF3NbkBYC4K_JaySoCold.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "JaySoCold ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZxvXRIF3NbkBYC4Q_Liya.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
@@ -77,12 +77,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxvXPoF3NbkBYC4K_JaySoCold.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "JaySoCold ",
+					"url": "https://images.prismic.io/x-track-mag/ZxvXQ4F3NbkBYC4P_Olamide.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Olamide",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
