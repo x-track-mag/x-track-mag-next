@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-11-02T10:58:45+0000",
+	"publication_date": "2024-11-02T11:04:22+0000",
 	"title": "Best ”XTrack“ of the Week",
 	"subtitle": "Les meilleurs sons de la semaine - Cover : Pa Salieu",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Tobi x YKB x Mojam - Amber Mark - Parcels - Biig Piig - Liya x Olamide - Juls x Tendai - CKay x The Cavemen - Eric IV x Skeete - Loe Shimmy x Cash Cobain JaySoCold - Amaria & +++ Enjoy ",
+					"text": "The Majeek - Kizz Daniel - Pa Salieu - Juls x Worlasi x Falz - Amaria - Djely Tapa x Vieux Farka Touré - Roseaux x Melissa Laveaux - Enchantée Julia  & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxvXSYF3NbkBYC4W_AmberMark.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amber Mark ",
+					"url": "https://images.prismic.io/x-track-mag/ZyX72q8jQArT0Ivz_TheMajeek.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "The Majeek",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/34ba99df-750b-40b7-bbbf-161d0c414383_Amaria+.jpg?auto=format,compress&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxvXRoF3NbkBYC4S_Parcels.jpg?auto=format,compress&rect=0,0,1080,810&w=1024&h=768",
-					"alt": "Parcels",
+					"url": "https://images.prismic.io/x-track-mag/ZyX72a8jQArT0Ivy_KizzDaniel.jpg?auto=format,compress&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Kizz Daniel",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZxvXRYF3NbkBYC4R_BiigPiig.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Biig Piig ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -61,24 +61,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxvXPoF3NbkBYC4K_JaySoCold.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "JaySoCold ",
+					"url": "https://images.prismic.io/x-track-mag/ZyX70a8jQArT0Ivq_MelissaLaveaux.jpg?auto=format,compress&rect=0,0,767,767&w=1024&h=1024",
+					"alt": "Melissa Laveaux",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxvXRIF3NbkBYC4Q_Liya.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Liya",
+					"url": "https://images.prismic.io/x-track-mag/ZyX7068jQArT0Ivs_VieuxFarkaToure%CC%81.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Vieux Farka Touré",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxvXQ4F3NbkBYC4P_Olamide.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Olamide",
+					"url": "https://images.prismic.io/x-track-mag/ZyX7z68jQArT0Ivo_Enchante%CC%81eJulia.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Enchantée Julia",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
