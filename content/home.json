@@ -181,15 +181,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-11-02T11:04:22+0000",
+			"publication_date": "2024-11-09T11:44:48+0000",
 			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine - Cover : Pa Salieu",
+			"subtitle": "Les meilleurs sons de la semaine - Cover : Major Lazer x M.I.A.",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Pa Salieu.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZyX72K8jQArT0Ivx_PaSalieu.mp4",
-				"size": "7010212"
+				"name": "Major Lazer x M.I.A.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zy9I8q8jQArT0p6R_MajorLazerxM.I.A.mp4",
+				"size": "3005086"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",

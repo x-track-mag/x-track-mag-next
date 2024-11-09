@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-11-02T11:04:22+0000",
+	"publication_date": "2024-11-09T11:44:48+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Pa Salieu",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Major Lazer x M.I.A.",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Pa Salieu.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZyX72K8jQArT0Ivx_PaSalieu.mp4",
-		"size": "7010212"
+		"name": "Major Lazer x M.I.A.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zy9I8q8jQArT0p6R_MajorLazerxM.I.A.mp4",
+		"size": "3005086"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "The Majeek - Kizz Daniel - Pa Salieu - Juls x Worlasi x Falz - Amaria - Djely Tapa x Vieux Farka Touré - Roseaux x Melissa Laveaux - Enchantée Julia  & +++ Enjoy ",
+					"text": "Mortimer - Triplego - Fido - Major Lazer x M.I.A. - Juls x Taves - The O'My's x  Konny Kon - Amaria - Gabi Hartmann & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,15 +32,15 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZyX72q8jQArT0Ivz_TheMajeek.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "The Majeek",
+					"url": "https://images.prismic.io/x-track-mag/Zy9I7K8jQArT0p6L_TRIPLEGO.jpg?auto=format,compress&rect=0,0,1079,779&w=1024&h=739",
+					"alt": "TRIPLEGO",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 739,
+					"ratio": 1.3856562922868743
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/34ba99df-750b-40b7-bbbf-161d0c414383_Amaria+.jpg?auto=format,compress&rect=0,0,500,500&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/ba21f75d-1299-4847-96ad-f58a3ebcdb72_Amaria.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
 					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
@@ -48,12 +48,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZyX72a8jQArT0Ivy_KizzDaniel.jpg?auto=format,compress&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Kizz Daniel",
+					"url": "https://images.prismic.io/x-track-mag/Zy9I7q8jQArT0p6N_Mortimer.jpg?auto=format,compress&rect=0,0,1080,969&w=1024&h=919",
+					"alt": "Mortimer",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 919,
+					"ratio": 1.1142546245919478
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZyX70a8jQArT0Ivq_MelissaLaveaux.jpg?auto=format,compress&rect=0,0,767,767&w=1024&h=1024",
-					"alt": "Melissa Laveaux",
+					"url": "https://images.prismic.io/x-track-mag/Zy9I6q8jQArT0p6J_Taves.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Taves",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZyX7068jQArT0Ivs_VieuxFarkaToure%CC%81.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Vieux Farka Touré",
+					"url": "https://images.prismic.io/x-track-mag/Zy9I6a8jQArT0p6I_GabiHartmann.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Gabi Hartmann",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZyX7z68jQArT0Ivo_Enchante%CC%81eJulia.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Enchantée Julia",
+					"url": "https://images.prismic.io/x-track-mag/Zy9I668jQArT0p6K_Fido.jpg?auto=format,compress&rect=0,0,1080,1073&w=1024&h=1017",
+					"alt": "Fido",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1017,
+					"ratio": 1.0068829891838742
 				}
 			]
 		},
