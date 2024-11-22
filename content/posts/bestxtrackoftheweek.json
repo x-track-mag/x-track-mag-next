@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-11-16T09:45:37+0000",
+	"publication_date": "2024-11-22T20:38:53+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Rauw Alejandro",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Amber Mark",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Rauw Alejandro.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZzhmEa8jQArT07-N_RauwAlejandro.mp4",
-		"size": "71988874"
+		"name": "Amber Mark.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z0Dg368jQArT1OQf_AmberMark.mp4",
+		"size": "5041373"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Samson - Hope Tala - DJ Snake x Naomi Sharon -  Wizkid - Rauw Alejandro x Pharrell Williams - Kida Kudz - Pa Salieu x Black Sherif - Tyler, The Creator & +++ Enjoy ",
+					"text": "Amber Mark - Wizkid x Asake - Kizz Daniel x Adekunlegold - Aminé - Damas x Jaz Karis - Jack Harlow - Nasty C Lekaa Beats x Tiwa Savage - Michael Kiwanuka - Lia Iké x Joey Bada$$ - Skeete - Baby Rose - Oklou - Omar Apollo x Trent Reznor & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,24 +32,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZzhouK8jQArT07-f_Samson.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Samson ",
+					"url": "https://images.prismic.io/x-track-mag/ZlEPKCol0Zci9cDQ_Wizkid.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZzhlDq8jQArT07-H_NaomiSharon.jpg?auto=format,compress&rect=0,0,1080,833&w=1024&h=790",
-					"alt": "Naomi Sharon",
+					"url": "https://images.prismic.io/x-track-mag/Z0Dmi68jQArT1OR4_Damas.jpg?auto=format,compress&rect=0,0,1051,996&w=1024&h=970",
+					"alt": "Damas",
 					"copyright": null,
 					"width": 1024,
-					"height": 790,
-					"ratio": 1.2962025316455696
+					"height": 970,
+					"ratio": 1.0556701030927835
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZzhkyK8jQArT079-_Tyler%2CTheCreator.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Tyler, The Creator",
+					"url": "https://images.prismic.io/x-track-mag/ZyX72a8jQArT0Ivy_KizzDaniel.jpg?auto=format,compress&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Kizz Daniel",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -61,24 +61,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zzhky68jQArT07-B_Wizkid.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/Z0Dmia8jQArT1OR0_JazKaris.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Jaz Karis",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z0DmhK8jQArT1ORv_JoeyBada%24%24xLilaIke%CC%81.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Joey Bada$$ x Lila Iké",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Hope Tala",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zzhkxq8jQArT0798_PaSalieu.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Pa Salieu",
+					"url": "https://images.prismic.io/x-track-mag/Z0Dmg68jQArT1ORu_OmarApollo.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Omar Apollo",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
