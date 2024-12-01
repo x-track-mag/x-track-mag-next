@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-11-22T20:38:53+0000",
+	"publication_date": "2024-12-01T13:49:04+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Amber Mark",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Greentea Peng",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Amber Mark.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z0Dg368jQArT1OQf_AmberMark.mp4",
-		"size": "5041373"
+		"name": "Greentea Peng .mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z0xm-5bqstJ977Ct_GreenteaPeng.mp4",
+		"size": "1768829"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Amber Mark - Wizkid x Asake - Kizz Daniel x Adekunlegold - Aminé - Damas x Jaz Karis - Jack Harlow - Nasty C Lekaa Beats x Tiwa Savage - Michael Kiwanuka - Lia Iké x Joey Bada$$ - Skeete - Baby Rose - Oklou - Omar Apollo x Trent Reznor & +++ Enjoy ",
+					"text": "4batz - Greentea Peng - Turich Benjy - Wizkid - Saint Levant x 47Soul x Shadi Alborini x Qasem AlNajjar - Amber Mark - Kendrick Lamar - Lefty Gunplay x Jeremih - Dayo Bello & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZlEPKCol0Zci9cDQ_Wizkid.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Wizkid",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z0Dmi68jQArT1OR4_Damas.jpg?auto=format,compress&rect=0,0,1051,996&w=1024&h=970",
-					"alt": "Damas",
-					"copyright": null,
-					"width": 1024,
-					"height": 970,
-					"ratio": 1.0556701030927835
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZyX72a8jQArT0Ivy_KizzDaniel.jpg?auto=format,compress&rect=0,0,2048,2048&w=1024&h=1024",
-					"alt": "Kizz Daniel",
+					"url": "https://images.prismic.io/x-track-mag/Z0xoyJbqstJ977Cz_4batz.jpg?auto=format,compress&rect=0,0,540,540&w=1024&h=1024",
+					"alt": "4batz",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z0xm3ZbqstJ977Cr_GreenteaPeng.jpg?auto=format,compress&rect=0,0,1079,723&w=1024&h=686",
+					"alt": "Greentea Peng ",
+					"copyright": null,
+					"width": 1024,
+					"height": 686,
+					"ratio": 1.4927113702623906
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z0xm3JbqstJ977Cq_Wizkid.jpg?auto=format,compress&rect=0,0,1079,720&w=1024&h=683",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z0Dmia8jQArT1OR0_JazKaris.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Jaz Karis",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z0DmhK8jQArT1ORv_JoeyBada%24%24xLilaIke%CC%81.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Joey Bada$$ x Lila Iké",
+					"url": "https://images.prismic.io/x-track-mag/Z0xm25bqstJ977Cp_SaintLevant.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Saint Levant",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z0Dmg68jQArT1ORu_OmarApollo.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Omar Apollo",
+					"url": "https://images.prismic.io/x-track-mag/Z0xm2pbqstJ977Co_AmberMark.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Amber Mark",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z0xm2JbqstJ977Cm_TurichBenjy.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Turich Benjy",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},

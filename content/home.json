@@ -181,15 +181,15 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-11-22T20:38:53+0000",
+			"publication_date": "2024-12-01T13:49:04+0000",
 			"title": "Best ”XTrack“ of the Week",
-			"subtitle": "Les meilleurs sons de la semaine - Cover : Amber Mark",
+			"subtitle": "Les meilleurs sons de la semaine - Cover : Greentea Peng",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Amber Mark.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z0Dg368jQArT1OQf_AmberMark.mp4",
-				"size": "5041373"
+				"name": "Greentea Peng .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z0xm-5bqstJ977Ct_GreenteaPeng.mp4",
+				"size": "1768829"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
