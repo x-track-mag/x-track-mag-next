@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-09-29T12:09:01+0000",
+	"publication_date": "2024-12-04T16:46:20+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Cash Cobain x Bay Swag - 4 Batz x Lil Baby - Nia Smith x Popcaan - Tyla x Gunna x Skillibeng - Show Dem Camp x Amaraae x Tems x DJ Sudi x No Nazar - Craig Isto - Jungle - JyellowL x Holly - Maz x Antdot x Giton x Layefa - Young T & Bugsey  -  Kali Uchis -  Burna Boy x Ashidapo x Asake - Miraa May - Tems x Asake - Jaz karis x Juls - Fousheé & +++ Enjoy",
+					"text": "Cash Cobain x Bay Swag - Nia Smith x Popcaan - 4 Batz - Greentea Peng - Tyla x Gunna x Skillibeng - Triplego - Show Dem Camp x Amaraae x Tems x DJ Sudi x No Nazar - Pa Salieu - Kali Uchis - Wizkid -  Saint Levant x 47Soul x Shadi Alborini x Quasem alNajjar - Turich Benjy - Jungle - JyellowL x Holly - Amber Mark - Jim Legxacy -  Burna Boy - Ashidapo x Asake - Tems x Asake - fido - Young t & Bugsey -  Yaya Bey - Fousheé - YG Marley & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZvkyvbVsGrYSwG3X_Layefa.jpg?auto=format,compress&rect=0,0,1080,1296&w=1024&h=1229",
-					"alt": "Layefa",
+					"url": "https://images.prismic.io/x-track-mag/Z0xm3ZbqstJ977Cr_GreenteaPeng.jpg?auto=format,compress&rect=0,0,1079,723&w=1024&h=686",
+					"alt": "Greentea Peng ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1229,
-					"ratio": 0.8331977217249796
+					"height": 686,
+					"ratio": 1.4927113702623906
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zn71JB5LeNNTworz_Burnaboy.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Burna Boy",
+					"url": "https://images.prismic.io/x-track-mag/Z0xm25bqstJ977Cp_SaintLevant.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Saint Levant",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZuXMSbVsGrYSvXo8_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Fousheé",
+					"url": "https://images.prismic.io/x-track-mag/4f54ecad-4c2d-4342-a865-fa77c4cb6bed_Tems.+.jpg?auto=format,compress&rect=0,0,1107,1661&w=1024&h=1536",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
