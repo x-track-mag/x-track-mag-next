@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-12-08T10:31:02+0000",
+	"publication_date": "2024-12-08T10:56:33+0000",
 	"title": "Best ”XTrack“ of 2024",
 	"subtitle": "Les meilleurs sons de la semaine - Cover : Anaïs Cardot",
 	"text_color": "inverted",
@@ -48,12 +48,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z0xm3ZbqstJ977Cr_GreenteaPeng.jpg?auto=format,compress&rect=0,0,1079,723&w=1024&h=686",
-					"alt": "Greentea Peng ",
+					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Hope Tala",
 					"copyright": null,
 					"width": 1024,
-					"height": 686,
-					"ratio": 1.4927113702623906
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -61,16 +61,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Hope Tala",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z0xm25bqstJ977Cp_SaintLevant.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Saint Levant",
+					"url": "https://images.prismic.io/x-track-mag/Zzhky68jQArT07-B_Wizkid.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -79,6 +71,14 @@
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZjJ7PkMTzAJOCeNI_AmberMark.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
 					"alt": "Amber Mark ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z0xm25bqstJ977Cp_SaintLevant.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Saint Levant",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
