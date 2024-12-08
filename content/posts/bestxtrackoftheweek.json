@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-12-01T13:49:04+0000",
-	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Greentea Peng",
+	"publication_date": "2024-12-08T10:31:02+0000",
+	"title": "Best ”XTrack“ of 2024",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Anaïs Cardot",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Greentea Peng .mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z0xm-5bqstJ977Ct_GreenteaPeng.mp4",
-		"size": "1768829"
+		"name": "Anaïs Cardot.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z1Vx7pbqstJ98M86_Anai%CC%88sCardot.mp4",
+		"size": "4815101"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "4batz - Greentea Peng - Turich Benjy - Wizkid - Saint Levant x 47Soul x Shadi Alborini x Qasem AlNajjar - Amber Mark - Kendrick Lamar - Lefty Gunplay x Jeremih - Dayo Bello & +++ Enjoy",
+					"text": "Anaïs Cardot - Cash Cobain x Ice Spice x Bay Swag - Jeremih x 4batz - Nia Smith - Greentea Peng - Hope Tala  - Amber Mark - Jungle - JyellowL x Holly - Saint Levant x MC Abdul - Wizkid - Kali Uchis - Dinos x Rimon - Tyla - Ayra Starr - Young T & Bugsey x JAE5 - Fousheé - Jorja Smith x Mortimer - Yaya Bey x Gand Daddy I.U. & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,12 +32,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z0xoyJbqstJ977Cz_4batz.jpg?auto=format,compress&rect=0,0,540,540&w=1024&h=1024",
-					"alt": "4batz",
+					"url": "https://images.prismic.io/x-track-mag/ZsPAdUaF0TcGJEwU_NiaSmith.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Nia Smith ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zet0kXUurf2G3OIX_CashCobain.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Cash Cobain",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Z0xm3ZbqstJ977Cr_GreenteaPeng.jpg?auto=format,compress&rect=0,0,1079,723&w=1024&h=686",
@@ -46,20 +54,20 @@
 					"width": 1024,
 					"height": 686,
 					"ratio": 1.4927113702623906
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z0xm3JbqstJ977Cq_Wizkid.jpg?auto=format,compress&rect=0,0,1079,720&w=1024&h=683",
-					"alt": "Wizkid",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
 				}
 			]
 		},
 		{
 			"template": "section-gallery",
 			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Hope Tala",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Z0xm25bqstJ977Cp_SaintLevant.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
 					"alt": "Saint Levant",
@@ -69,20 +77,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z0xm2pbqstJ977Co_AmberMark.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amber Mark",
+					"url": "https://images.prismic.io/x-track-mag/ZjJ7PkMTzAJOCeNI_AmberMark.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Amber Mark ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z0xm2JbqstJ977Cm_TurichBenjy.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Turich Benjy",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
