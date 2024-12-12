@@ -1,0 +1,108 @@
+{
+	"uid": "bestxtrackof2024",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2024-12-12T12:14:44+0000",
+	"title": "Best ”XTrack“ of 2024",
+	"subtitle": "Les meilleurs sons de 2024 - Cover : Anaïs Cardot",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "Anaïs Cardot.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z1Vx7pbqstJ98M86_Anai%CC%88sCardot.mp4",
+		"size": "4815101"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Anaïs Cardot - Jeremih x 4batz - Nia Smith - Hope Tala  - Amber Mark - Jungle - JyellowL x Holly - Saint Levant x MC Abdul - Wizkid - Kali Uchis - Dinos x Rimon - Tyla - Ayra Starr - Young T & Bugsey x JAE5 - Fousheé - Jorja Smith x Mortimer - Yaya Bey x Gand Daddy I.U. & +++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZsPAdUaF0TcGJEwU_NiaSmith.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Nia Smith ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z0xoyJbqstJ977Cz_4batz.jpg?auto=format,compress&rect=0,0,540,540&w=1024&h=1024",
+					"alt": "4batz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Hope Tala",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zzhky68jQArT07-B_Wizkid.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Wizkid",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZjJ7PkMTzAJOCeNI_AmberMark.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Amber Mark ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z0xm25bqstJ977Cp_SaintLevant.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Saint Levant",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=de79b7bcf52a480f",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"title": "Best ”XTrack“ of the Week"
+				}
+			]
+		}
+	],
+	"description": "Playlist des meilleurs sons de la semaine"
+}
