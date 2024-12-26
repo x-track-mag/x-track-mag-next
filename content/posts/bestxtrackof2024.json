@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-12-13T11:49:12+0000",
+	"publication_date": "2024-12-26T22:54:45+0000",
 	"title": "Best ”XTrack“ of 2024",
 	"subtitle": "Les meilleurs sons de 2024 - Cover : Anaïs Cardot",
 	"text_color": "inverted",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Anaïs Cardot - Jeremih x 4batz - Nia Smith - Wizkid x Tiakola - Aaron Childs - Hope Tala  - Amber Mark - Jungle - JyellowL x Holly - Saint Levant x MC Abdul -  Kali Uchis - Dinos x Rimon - Tyla - Ayra Starr - Young T & Bugsey x JAE5 - Fousheé - Jorja Smith x Mortimer - Yaya Bey x Gand Daddy I.U. & +++ Enjoy",
+					"text": "Anaïs Cardot - Jeremih x 4batz - Nia Smith - Wizkid x Tiakola - Aaron Childs - Hope Tala  - Smino x Ravyn Lenae - Sault x Tom Misch - Amber Mark - Jungle - JyellowL x Holly - Saint Levant x MC Abdul -  Kali Uchis - Dinos x Rimon - Tyla - Ayra Starr - Young T & Bugsey x JAE5 - Fousheé - Jorja Smith x Mortimer - Yaya Bey x Gand Daddy I.U. & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -40,12 +40,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z1we7pbqstJ98eT4_AaronChilds.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Aaron Childs",
+					"url": "https://images.prismic.io/x-track-mag/Z23eNpbqstJ982BS_Smino.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Smino",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
@@ -69,12 +69,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZjJ7PkMTzAJOCeNI_AmberMark.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Amber Mark ",
+					"url": "https://images.prismic.io/x-track-mag/62830492-f0af-401b-8e74-a7c2fe1fdc19_Cleo+Sol.jpg?auto=format,compress&rect=0,0,2048,2048&w=1024&h=1024",
+					"alt": "Cleo Sol / Sault",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Z1we75bqstJ98eT5_Tiakola.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
