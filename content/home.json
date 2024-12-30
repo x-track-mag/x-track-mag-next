@@ -7,6 +7,10 @@
 	],
 	"pinned_posts": [
 		{
+			"position": 0,
+			"uid": "2025-is-the-year"
+		},
+		{
 			"position": 1,
 			"uid": "bestxtrackof2024"
 		},
@@ -73,10 +77,6 @@
 		{
 			"position": 17,
 			"uid": "live-session-donzer-bleu-pisicne"
-		},
-		{
-			"position": 18,
-			"uid": "2025-is-the-year"
 		},
 		{
 			"position": 19,
@@ -540,23 +540,27 @@
 			"description": "live session Donzer bleu piscine x-track mag"
 		},
 		{
-			"uid": "2025-is-the-year",
+			"uid": "old-school-reggae",
 			"tags": [
-				"article"
+				"music"
 			],
-			"publication_date": "2024-12-30T12:57:47+0000",
-			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"publication_date": "2024-11-19T13:35:50+0000",
+			"title": "Reggae",
+			"subtitle": "Old School Reggae ",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 777,
+				"ratio": 1.5444015444015444
 			},
-			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Old School Reggae"
 		},
 		{
 			"uid": "lhysterie",
@@ -645,29 +649,6 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "old-school-reggae",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2024-11-19T13:35:50+0000",
-			"title": "Reggae",
-			"subtitle": "Old School Reggae ",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 777,
-				"ratio": 1.5444015444015444
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Old School Reggae"
-		},
-		{
 			"uid": "boys-noize-resonne-toujours-plus-fort",
 			"tags": [
 				"article",
@@ -710,6 +691,27 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Comment préparer un martini dry tout en larguant son amant"
+		},
+		{
+			"uid": "15minutes-avec-jacques",
+			"tags": [
+				"interview",
+				"music"
+			],
+			"publication_date": "2024-04-15T09:46:46+0000",
+			"title": "15 minutes avec Jacques",
+			"subtitle": "INTERVIEW",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "LOOP JACQUES.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
+				"size": "12731983"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "jacques interview"
 		},
 		{
 			"uid": "slow-dance",
@@ -843,27 +845,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
-		},
-		{
-			"uid": "15minutes-avec-jacques",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2024-04-15T09:46:46+0000",
-			"title": "15 minutes avec Jacques",
-			"subtitle": "INTERVIEW",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "LOOP JACQUES.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/9f3b9dd6-3bfb-4751-b62b-a8840d72edd1_LOOP+JACQUES.mp4",
-				"size": "12731983"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "jacques interview"
 		},
 		{
 			"uid": "la-muse--une-icone-feministe-",
@@ -1061,6 +1042,25 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "live session flowery beard mawon x-track mag"
+		},
+		{
+			"uid": "2025-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2024-12-30T12:57:47+0000",
+			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		}
 	]
 }
