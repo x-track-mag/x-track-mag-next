@@ -1,6 +1,6 @@
 {
 	"uid": "about-us",
-	"publication_date": "2024-03-31T08:20:38+0000",
+	"publication_date": "2024-12-30T12:59:15+0000",
 	"title": "About Us ",
 	"subtitle": "",
 	"sections": [
@@ -10,27 +10,32 @@
 				{
 					"type": "heading2",
 					"text": "X-TRACK MAG EST UNE PLATEFORME CRÉATIVE DONT LE DÉSIR EST LA MISE EN VALEUR DE LA SINGULARITÉ ARTISTIQUE À TRAVERS DIFFÉRENTS MEDIUMS.",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "heading2",
 					"text": "DU DÉCRYPTAGE, DES LIVE SESSIONS, DES CAPSULES VIDÉOS & DES PLAYLISTS  EXCLUSIVES, LE TOUT SOIGNEUSEMENT CONFECTIONNÉS PAR NOS SOINS.",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "heading2",
 					"text": "X-TRACK MAG EST LE FRUIT D’UNE VISION SENSIBLE AUX DIFFÉRENTES DYNAMIQUES DIGITALES.",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "heading2",
 					"text": "CÉLÉBRONS  ENSEMBLE CETTE NOUVELLE ÈRE QUI INVITE À DÉCONSTRUIRE ET RECONSTRUIRE. ",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "heading2",
 					"text": "ALL OVER THE WORLD.",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "heading2",
@@ -41,7 +46,8 @@
 							"end": 19,
 							"type": "strong"
 						}
-					]
+					],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
@@ -57,7 +63,8 @@
 							"end": 36,
 							"type": "strong"
 						}
-					]
+					],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
@@ -73,23 +80,25 @@
 							"end": 38,
 							"type": "strong"
 						}
-					]
+					],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
-					"text": "Production X-Track : Emile Roy / Valérie Carré / Marie Prouvé / Jean-Jacques hertz ",
+					"text": "Production X-Track / Emile Roy / Khedija Dhaoui",
 					"spans": [
 						{
 							"start": 0,
-							"end": 83,
+							"end": 47,
 							"type": "em"
 						},
 						{
 							"start": 0,
-							"end": 83,
+							"end": 47,
 							"type": "strong"
 						}
-					]
+					],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
@@ -105,7 +114,8 @@
 							"end": 26,
 							"type": "strong"
 						}
-					]
+					],
+					"direction": "ltr"
 				}
 			],
 			"image": {
