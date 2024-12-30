@@ -11,71 +11,71 @@
 			"uid": "2025-is-the-year"
 		},
 		{
-			"position": 1,
+			"position": 2,
 			"uid": "bestxtrackof2024"
 		},
 		{
-			"position": 2,
+			"position": 3,
 			"uid": "page"
 		},
 		{
-			"position": 3,
+			"position": 4,
 			"uid": "new-romance"
 		},
 		{
-			"position": 4,
+			"position": 5,
 			"uid": "martin-parr"
 		},
 		{
-			"position": 5,
+			"position": 6,
 			"uid": "feel-good"
 		},
 		{
-			"position": 6,
+			"position": 7,
 			"uid": "les-apparences-trompeuses-du-pretty-privilege"
 		},
 		{
-			"position": 7,
+			"position": 8,
 			"uid": "live-session-amaru"
 		},
 		{
-			"position": 8,
+			"position": 9,
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
 		{
-			"position": 9,
+			"position": 10,
 			"uid": "nice-day"
 		},
 		{
-			"position": 10,
+			"position": 11,
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
-			"position": 11,
+			"position": 12,
 			"uid": "in-love"
 		},
 		{
-			"position": 12,
+			"position": 13,
 			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie"
 		},
 		{
-			"position": 13,
+			"position": 14,
 			"uid": "yayayayoutube-ep-2--fatima-antoinette"
 		},
 		{
-			"position": 14,
+			"position": 15,
 			"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle"
 		},
 		{
-			"position": 15,
+			"position": 16,
 			"uid": "tropical"
 		},
 		{
-			"position": 16,
+			"position": 17,
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser"
 		},
 		{
-			"position": 17,
+			"position": 18,
 			"uid": "live-session-donzer-bleu-pisicne"
 		},
 		{
@@ -176,6 +176,25 @@
 	],
 	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
+		{
+			"uid": "2025-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2024-12-30T12:57:47+0000",
+			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
+		},
 		{
 			"uid": "bestxtrackof2024",
 			"tags": [
@@ -538,25 +557,6 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "live session Donzer bleu piscine x-track mag"
-		},
-		{
-			"uid": "2025-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2024-12-30T12:57:47+0000",
-			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		},
 		{
 			"uid": "lhysterie",
