@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-12-30T12:48:54+0000",
+	"publication_date": "2025-01-03T13:00:48+0000",
 	"title": "Best ”XTrack“ of 2024",
-	"subtitle": "Les meilleurs sons de 2024 - Cover : Anaïs Cardot",
+	"subtitle": "Les meilleurs sons de 2024 - Cover : Darkoo",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Anaïs Cardot.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z1Vx7pbqstJ98M86_Anai%CC%88sCardot.mp4",
-		"size": "4815101"
+		"name": "Darkoo.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z3fdY5bqstJ99BJV_Darkoo.mp4",
+		"size": "5486670"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Anaïs Cardot - Little Simz - Lola Young x Lil Yachty - Jeremih x 4batz - Nia Smith - Wizkid x Tiakola - Aaron Childs - Hope Tala  - Smino x Ravyn Lenae - Sault - Tom Misch - Amber Mark - Jungle -  Saint Levant x MC Abdul - Kali Uchis - Dinos x Rimon - Tyla - Ayra Starr - Young T & Bugsey x JAE5 - Fousheé - Jorja Smith x Mortimer - Yaya Bey x Grand Daddy I.U. & +++ Enjoy",
+					"text": "Little Simz - Nia Smith - Hope Tala  - Darkoo - Coldplay x Little Simz x Burna boy x Elyanna x Tini - Burna boy - Merveille - Smino x Ravyn Lenae - Sault - Tom Misch - Amber Mark - Jungle -  Saint Levant x MC Abdul - Kali Uchis - Dinos x Rimon - Tyla - Ayra Starr - Young T & Bugsey x JAE5 - Wizkid x Tiakola - Fousheé - Jorja Smith x Mortimer - Yaya Bey x Grand Daddy I.U. & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -40,8 +40,8 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z23eNpbqstJ982BS_Smino.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Smino",
+					"url": "https://images.prismic.io/x-track-mag/Z3fe4pbqstJ99BJq_Coldplay..jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Coldplay. ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -69,20 +69,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z3KUXpbqstJ9843j_LolaYoung.jpg?auto=format,compress&rect=0,0,1080,1197&w=1024&h=1135",
-					"alt": "Lola Young",
-					"copyright": null,
-					"width": 1024,
-					"height": 1135,
-					"ratio": 0.9022026431718062
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z1we75bqstJ98eT5_Tiakola.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Tiakola",
+					"url": "https://images.prismic.io/x-track-mag/Z3fdYJbqstJ99BJS_Merveille.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Merveille",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/15a9cc95-05a8-43e5-9e6e-b04c0992f8aa_Burna+Boy.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Burna Boy",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
