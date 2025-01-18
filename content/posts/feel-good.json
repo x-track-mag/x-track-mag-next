@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-12-04T16:46:20+0000",
+	"publication_date": "2025-01-18T10:31:23+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Cash Cobain x Bay Swag - Nia Smith x Popcaan - 4 Batz - Greentea Peng - Tyla x Gunna x Skillibeng - Triplego - Show Dem Camp x Amaraae x Tems x DJ Sudi x No Nazar - Pa Salieu - Kali Uchis - Wizkid -  Saint Levant x 47Soul x Shadi Alborini x Quasem alNajjar - Turich Benjy - Jungle - JyellowL x Holly - Amber Mark - Jim Legxacy -  Burna Boy - Ashidapo x Asake - Tems x Asake - fido - Young t & Bugsey -  Yaya Bey - Fousheé - YG Marley & +++ Enjoy",
+					"text": "Litle Simz + Nia Smith x Popcaan + Smino x Ravyn Lenae + Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar + Tyla x Gunna x Skillibeng + Hope Tala + Bawo x Jordy +  Wizkid + Kali Uchis + Jungle + Amber Mark + Kaytranada x Aminé x Pharrell Williams + Burna Boy + Saint Levant x MC Abdul & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0kXUurf2G3OIX_CashCobain.jpg?auto=compress,format&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Cash Cobain",
+					"url": "https://images.prismic.io/x-track-mag/a407195b-8908-4e4c-a570-40b56e8c3344_Little+Simz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zpy8Nx5LeNNTxU2I_NiaSmith.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1079&w=1024&h=1023",
+					"url": "https://images.prismic.io/x-track-mag/Z23eNpbqstJ982BS_Smino.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Smino",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZsPAdUaF0TcGJEwU_NiaSmith.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
 					"alt": "Nia Smith ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZhEf1hrFxhpPBWQj_4batz.jpg?auto=format,compress&rect=0,0,788,1024&w=1024&h=1331",
-					"alt": "4batz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1331,
-					"ratio": 0.7693463561232157
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -61,16 +61,16 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z0xm3ZbqstJ977Cr_GreenteaPeng.jpg?auto=format,compress&rect=0,0,1079,723&w=1024&h=686",
-					"alt": "Greentea Peng ",
+					"url": "https://images.prismic.io/x-track-mag/Zet0j3Uurf2G3OIV_Darkoo.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Darkoo",
 					"copyright": null,
 					"width": 1024,
-					"height": 686,
-					"ratio": 1.4927113702623906
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z0xm25bqstJ977Cp_SaintLevant.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Saint Levant",
+					"url": "https://images.prismic.io/x-track-mag/Z4qLNZbqstJ99lO__Bawo.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Bawo",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
