@@ -668,6 +668,26 @@
 			"description": "Old School Reggae"
 		},
 		{
+			"uid": "yayayayoutube-ep-1-samantha-deep",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2024-03-16T19:05:59+0000",
+			"title": "Yayayayoutube EP 1  : Samantha Deep",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
+				"size": "5514615"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Comment préparer un martini dry tout en larguant son amant"
+		},
+		{
 			"uid": "boys-noize-resonne-toujours-plus-fort",
 			"tags": [
 				"article",
@@ -692,31 +712,11 @@
 			"description": "Boys Noize"
 		},
 		{
-			"uid": "yayayayoutube-ep-1-samantha-deep",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2024-03-16T19:05:59+0000",
-			"title": "Yayayayoutube EP 1  : Samantha Deep",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4",
-				"size": "5514615"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Comment préparer un martini dry tout en larguant son amant"
-		},
-		{
 			"uid": "slow-dance",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-09-04T11:08:00+0000",
+			"publication_date": "2025-01-26T19:35:08+0000",
 			"title": "Slow Dance",
 			"subtitle": "Old School Down Tempo - Cover : Grace Jones",
 			"text_color": "inverted",
@@ -732,7 +732,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Lenny Kravitz - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac - Angus & Julia Stone - Boz Scags - Donald Fagen - Patrice Rushen - The Doobie Brothers - Steely Dan - Mayer Hawthorne - Dr. Hook -  Toto - DNA x Suzanne Vega - The Neville Brothers - America - David Bowie - Chris Isaac - John Lee Hooker x Santana - Dennis Edwards x Siedah Garrett - Leisure - Massive Attack & +++ enjoy"
+			"description": "Lenny Kravitz + Daryl Hall x John Oates + Grace Jones + Fleetwood Mac + Metronomy + Donald Fagen + Steely Dan + Boz Scags + Patrice Rushen + Sade + The Doobie Brothers + Mayer Hawthorne + DNA x Suzanne Vega + The Neville Brothers + David Bowie + Chris Isaac + John Lee Hooker x Santana + Dennis Edwards x Siedah Garrett + Leisure - Massive Attack x Tricky & +++ enjoy"
 		},
 		{
 			"uid": "x-track-studio---biaziouka",

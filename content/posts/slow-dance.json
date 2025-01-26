@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-09-04T11:08:00+0000",
+	"publication_date": "2025-01-26T19:35:08+0000",
 	"title": "Slow Dance",
 	"subtitle": "Old School Down Tempo - Cover : Grace Jones",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Lenny Kravitz - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac - Angus & Julia Stone - Boz Scags - Donald Fagen - Patrice Rushen - The Doobie Brothers - Steely Dan - Mayer Hawthorne - Dr. Hook -  Toto - DNA x Suzanne Vega - The Neville Brothers - America - David Bowie - Chris Isaac - John Lee Hooker x Santana - Dennis Edwards x Siedah Garrett - Leisure - Massive Attack & +++ enjoy",
+					"text": "Lenny Kravitz + Daryl Hall x John Oates + Grace Jones + Fleetwood Mac + Metronomy + Donald Fagen + Steely Dan + Boz Scags + Patrice Rushen + Sade + The Doobie Brothers + Mayer Hawthorne + DNA x Suzanne Vega + The Neville Brothers + David Bowie + Chris Isaac + John Lee Hooker x Santana + Dennis Edwards x Siedah Garrett + Leisure - Massive Attack x Tricky & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -80,12 +80,12 @@
 					"ratio": 1.1770114942528735
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zh8E1kaI3ufuUPXR_Angus%26JuliaStone.jpg?auto=format,compress&rect=0,0,2048,1672&w=1024&h=836",
-					"alt": "Angus & Julia Stone",
+					"url": "https://images.prismic.io/x-track-mag/Z5aOT5bqstJ9927u_SteelyDan.jpg?auto=format,compress&rect=0,0,2999,1687&w=1024&h=576",
+					"alt": "Steely Dan",
 					"copyright": null,
 					"width": 1024,
-					"height": 836,
-					"ratio": 1.2248803827751196
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -107,5 +107,5 @@
 			]
 		}
 	],
-	"description": "Lenny Kravitz - Daryl Hall x John Oates - Grace Jones - Fleetwood Mac - Angus & Julia Stone - Boz Scags - Donald Fagen - Patrice Rushen - The Doobie Brothers - Steely Dan - Mayer Hawthorne - Dr. Hook -  Toto - DNA x Suzanne Vega - The Neville Brothers - America - David Bowie - Chris Isaac - John Lee Hooker x Santana - Dennis Edwards x Siedah Garrett - Leisure - Massive Attack & +++ enjoy"
+	"description": "Lenny Kravitz + Daryl Hall x John Oates + Grace Jones + Fleetwood Mac + Metronomy + Donald Fagen + Steely Dan + Boz Scags + Patrice Rushen + Sade + The Doobie Brothers + Mayer Hawthorne + DNA x Suzanne Vega + The Neville Brothers + David Bowie + Chris Isaac + John Lee Hooker x Santana + Dennis Edwards x Siedah Garrett + Leisure - Massive Attack x Tricky & +++ enjoy"
 }
