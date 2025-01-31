@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-12-08T10:56:51+0000",
-	"title": "Best ”XTrack“ of 2024",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Anaïs Cardot",
+	"publication_date": "2025-01-31T18:49:01+0000",
+	"title": "Best ”XTrack“ of the Week",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Hope Tala",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Anaïs Cardot.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z1Vx7pbqstJ98M86_Anai%CC%88sCardot.mp4",
-		"size": "4815101"
+		"name": "Hope Tala.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z50UgJbqstJ9-GzG_HopeTala.mp4",
+		"size": "8398723"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Anaïs Cardot - Cash Cobain x Ice Spice x Bay Swag - Jeremih x 4batz - Nia Smith - Hope Tala  - Amber Mark - Jungle - JyellowL x Holly - Saint Levant x MC Abdul - Wizkid - Kali Uchis - Dinos x Rimon - Tyla - Ayra Starr - Young T & Bugsey x JAE5 - Fousheé - Jorja Smith x Mortimer - Yaya Bey x Gand Daddy I.U. & +++ Enjoy",
+					"text": "Hope Tala + Skiifall  + Nick Hustles + Mahalia x Lila Iké + Mortimer + Quing madi + Haile + Cherise x Meduulla + The Weeknd + Greentea Peng + Niambi + Lila Frascara x Jamaican Reggae Cuts + Black Sherif x Fireboy DML + Knowsun x Theodor + Jessie Reyez + Jorja Smith + Teni & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZsPAdUaF0TcGJEwU_NiaSmith.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Nia Smith ",
+					"url": "https://images.prismic.io/x-track-mag/Z50UeJbqstJ9-GzD_Mahalia.jpg?auto=format,compress&rect=0,0,658,658&w=1024&h=1024",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0kXUurf2G3OIX_CashCobain.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Cash Cobain",
+					"url": "https://images.prismic.io/x-track-mag/Z50UepbqstJ9-GzF_Skiifall.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Skiifall",
 					"copyright": null,
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/ff2387be-51c0-46f6-b09a-ad169565e537_LILA+IKE++.jpg?auto=format,compress&rect=0,0,800,1200&w=1024&h=1536",
+					"alt": "Lila Iké",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zzhky68jQArT07-B_Wizkid.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Wizkid",
+					"url": "https://images.prismic.io/x-track-mag/Z50UeZbqstJ9-GzE_NickHustles.jpg?auto=format,compress&rect=0,0,686,386&w=1024&h=576",
+					"alt": "Nick Hustles",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZjJ7PkMTzAJOCeNI_AmberMark.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Amber Mark ",
+					"url": "https://images.prismic.io/x-track-mag/Z50UcJbqstJ9-Gy7_Cherise.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Cherise",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z0xm25bqstJ977Cp_SaintLevant.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Saint Levant",
+					"url": "https://images.prismic.io/x-track-mag/Z50UdpbqstJ9-GzB_Mortimer.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Mortimer",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
