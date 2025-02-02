@@ -3,15 +3,15 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-01-31T22:54:49+0000",
+	"publication_date": "2025-02-02T09:43:30+0000",
 	"title": "Best ”XTrack“ of the Week",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Hope Tala",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Baby Nova",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Hope Tala.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z50UgJbqstJ9-GzG_HopeTala.mp4",
-		"size": "8398723"
+		"name": "Baby Nova.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z5897ZbqstJ9-IJP_BabyNova.mp4",
+		"size": "801515"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Hope Tala + Skiifall  + Nick Hustles + Mahalia x Lila Iké + Mortimer + Quing madi + Haile + Cherise x Meduulla + The Weeknd + Greentea Peng + Niambi + Lila Frascara x Jamaican Reggae Cuts + Black Sherif x Fireboy DML + Knowsun x Theodor + Jessie Reyez + Jorja Smith + Teni & +++ Enjoy",
+					"text": "Baby Nova + Hope Tala + Skiifall  + Nick Hustles + Mahalia x Lila Iké + Mortimer + Quing madi + Haile + Cherise x Meduulla + The Weeknd + Greentea Peng + Niambi + Lila Frascara x Jamaican Reggae Cuts + Black Sherif x Fireboy DML + Knowsun x Theodor + Jessie Reyez + Jorja Smith + Teni & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,12 +32,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z50UeJbqstJ9-GzD_Mahalia.jpg?auto=format,compress&rect=0,0,658,658&w=1024&h=1024",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Hope Tala",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Z50UepbqstJ9-GzF_Skiifall.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
@@ -48,12 +48,12 @@
 					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ff2387be-51c0-46f6-b09a-ad169565e537_LILA+IKE++.jpg?auto=format,compress&rect=0,0,800,1200&w=1024&h=1536",
-					"alt": "Lila Iké",
+					"url": "https://images.prismic.io/x-track-mag/Z50UeJbqstJ9-GzD_Mahalia.jpg?auto=format,compress&rect=0,0,658,658&w=1024&h=1024",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
