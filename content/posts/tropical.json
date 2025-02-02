@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-12-04T18:21:21+0000",
+	"publication_date": "2025-02-02T14:27:34+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Lila Iké",
 	"text_color": "green",
@@ -22,7 +22,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x Zion I King x Lila Iké - Damian Marley - Mortimer - Nia Smith x Popcaan - Bugle x Barrington Levy - Jorja Smith x Mortimer - Chronixx - Skiifall - Sean paul - Yaya Bey -  Liam Bailey - Ayra Starr x Asake - Burna Boy - Ashidapo x Asake - Wizkid - Young T & Bugsey - Timaya -  Tekno - Juls x Twitch 4EVA x Quamina Mp - The Cavemen - Jobo x Bogo - Show Dem Camp x Amaraae x Tems x DJ Sudi x No Nazar & +++ Enjoy",
+					"text": "Protoje x Zion I King x Lila Iké + Skiifall x Jorja Smith + Mortimer + Kofi + Chronixx + Haile + Mahalia x Lila Iké + Yaya Bey + Greentea Peng + Roro + Yaadmann fka Yung L x R2Bees + Stefflon Don x Spice + Nesta + Young T & Bugsey x Peruzzi x Jae5 + Burna Boy + Ashidapo x Asake + Wizkid  & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -32,28 +32,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/26c5750d-e720-47d7-8d99-e044d136b982_Protoje.jpg?auto=format%2Ccompress&rect=0%2C0%2C1612%2C2015&w=1024&h=1280",
-					"alt": "Protoje",
+					"url": "https://images.prismic.io/x-track-mag/89452a59-be07-465e-ad3d-30019bb1d53b_Jorja+Smith.jpg?auto=format,compress&rect=0,0,1250,1750&w=1024&h=1434",
+					"alt": "Jorja Smith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1434,
+					"ratio": 0.7140864714086471
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zj6otUFLKBtrWymH_YayaBey.jpg?auto=format%2Ccompress&rect=0%2C0%2C1440%2C1080&w=1024&h=768",
+					"url": "https://images.prismic.io/x-track-mag/e0342a3b-8633-4a2b-8ad6-71e71374236e_Protoje+%26+Lila-Ike.jpg?auto=format,compress&rect=0,0,471,395&w=1024&h=859",
+					"alt": "Protoje & Lila Ike",
+					"copyright": null,
+					"width": 1024,
+					"height": 859,
+					"ratio": 1.1920838183934808
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zj6otUFLKBtrWymH_YayaBey.jpg?auto=format,compress&rect=0,0,1440,1080&w=1024&h=768",
 					"alt": "Yaya Bey",
 					"copyright": null,
 					"width": 1024,
 					"height": 768,
 					"ratio": 1.3333333333333333
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZpT8yh5LeNNTxJ4E_DamianMarley.jpg?auto=format%2Ccompress&rect=0%2C0%2C1000%2C1333&w=1024&h=1365",
-					"alt": "Damian Marley",
-					"copyright": null,
-					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
 				}
 			]
 		},
@@ -61,28 +61,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/15c790ca-6789-4763-b83b-e9f8803dad05_Amaarae++.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/Z50UdpbqstJ9-GzB_Mortimer.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Mortimer",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZiTkhPPdc1huKqHs_Chronixx.jpg?auto=format%2Ccompress&rect=0%2C0%2C2560%2C1440&w=1024&h=576",
-					"alt": "Chronixx",
+					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=format,compress&rect=1,0,2046,1229&w=1024&h=615",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 615,
+					"ratio": 1.665040650406504
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/16ec6241-195f-4daa-a549-650dc5a4b6a6_Tems.jpg?auto=format%2Ccompress&rect=0%2C0%2C2240%2C1260&w=1024&h=576",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/Z50Uc5bqstJ9-Gy-_Haile.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Haile",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
