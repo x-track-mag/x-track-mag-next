@@ -1,6 +1,7 @@
 import { Box } from "@chakra-ui/react";
-import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
-import HeroText from "@components/base/HeroText";
+import { Background, HeroText } from "@components/base";
+import { FC } from "react";
+import { type SectionHeroProps } from "src/data/types";
 
 /**
  * A fullscreen image or loop with big hero text
@@ -12,22 +13,22 @@ import HeroText from "@components/base/HeroText";
  * @param {Object} [props.image] Background image
  * @param {Object} [props.video_loop] Background video loop (if no background image)
  */
-const SectionHero = ({
-	article = {},
+export const SectionHero: FC<SectionHeroProps> = ({
+	article,
 	title,
 	subtitle,
 	text_color,
-	image,
-	video_loop,
-	display_credits = false,
+	image = null,
+	video_loop = null,
+	displayCredits = false,
 	...moreStyle
 }) => {
 	return (
 		<Box as="section" className="hero-section" {...moreStyle}>
-			<BackgroundImageContainer
+			<Background
 				className="hero-image"
 				image={image || article.image}
-				display_credits={display_credits}
+				displayCredits={displayCredits}
 				video_loop={video_loop || article.video_loop}
 			/>
 			<HeroText
@@ -38,5 +39,3 @@ const SectionHero = ({
 		</Box>
 	);
 };
-
-export default SectionHero;

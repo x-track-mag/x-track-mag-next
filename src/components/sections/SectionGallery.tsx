@@ -1,6 +1,5 @@
-import { Box, Grid, GridItem, Flex, AspectRatio, SimpleGrid } from "@chakra-ui/react";
-import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
-import Container from "@components/base/Container";
+import { Box, SimpleGrid } from "@chakra-ui/react";
+import { BackgroundImage } from "@components/base";
 
 const isImageFirst = (columnsOrder) =>
 	columnsOrder.toLowerCase().split(" | ")[0] === "image";
@@ -13,7 +12,7 @@ const isImageFirst = (columnsOrder) =>
  * @param {Boolean} [props.fullPage=false] Use the full page width instead of the responsive container
  *
  */
-const SectionGallery = ({ gallery }) => (
+export const SectionGallery = ({ gallery }) => (
 	<Box as="section" className="section-gallery" margin="0.5rem 0">
 		<SimpleGrid
 			columns={3}
@@ -28,11 +27,9 @@ const SectionGallery = ({ gallery }) => (
 					height="100%"
 					key={`gallery-column-${i}`}
 				>
-					<BackgroundImageContainer image={image} display_credits={true} />
+					<BackgroundImage image={image} displayCredits={true} />
 				</Box>
 			))}
 		</SimpleGrid>
 	</Box>
 );
-
-export default SectionGallery;

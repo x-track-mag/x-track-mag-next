@@ -1,10 +1,8 @@
 import { useState } from "react";
 import clsx from "clsx";
-import { useViewportSize } from "@components/ViewportSizeProvider";
-import BackgroundImage from "@components/base/BackgroundImage";
-import HeroText from "@components/base/HeroText";
+import { useViewportSize } from "@components/providers/ViewportSizeProvider";
+import { BackgroundImage, HeroText, HeroLink } from "@components/base";
 
-import { HeroLink } from "@components/base/Links";
 import ArticleInfo from "@components/ArticleInfo";
 
 const template1 = {
@@ -13,7 +11,7 @@ const template1 = {
 	displaySubtitle: true,
 	displayInfo: true,
 	focusOnHover: true,
-	displayFooter: false
+	displayFooter: false,
 };
 const template2 = {
 	displayImage: true,
@@ -21,7 +19,7 @@ const template2 = {
 	displayInfo: true,
 	displaySubtitle: true,
 	focusOnHover: false,
-	displayFooter: false
+	displayFooter: false,
 };
 const template3 = {
 	displayImage: true,
@@ -29,7 +27,7 @@ const template3 = {
 	displaySubtitle: true,
 	displayInfo: false,
 	focusOnHover: true,
-	displayFooter: false
+	displayFooter: false,
 };
 const template4 = {
 	displayImage: false,
@@ -39,8 +37,8 @@ const template4 = {
 	focusOnHover: false,
 	displayFooter: false,
 	more: {
-		textColor: "black"
-	}
+		textColor: "black",
+	},
 };
 const template5 = {
 	displayImage: true,
@@ -48,14 +46,14 @@ const template5 = {
 	displaySubtitle: true,
 	displayInfo: false,
 	focusOnHover: true,
-	displayFooter: false
+	displayFooter: false,
 };
 const template6 = {
 	displayImage: true,
 	displayTitle: true,
 	displaySubtitle: true,
 	focusOnHover: true,
-	displayFooter: false
+	displayFooter: false,
 };
 const templates = [
 	null,
@@ -64,7 +62,7 @@ const templates = [
 	template3,
 	template4,
 	template5,
-	template6
+	template6,
 ];
 
 const analyzeTemplate = (templateChoice) => {
@@ -82,7 +80,7 @@ const analyzeTemplate = (templateChoice) => {
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-const SectionPost = ({
+export const SectionPost = ({
 	uid,
 	title = "",
 	subtitle = "",
@@ -99,7 +97,7 @@ const SectionPost = ({
 		displayInfo,
 		focusOnHover,
 		displayFooter,
-		more = {}
+		more = {},
 	} = analyzeTemplate(template);
 
 	return (
@@ -116,7 +114,7 @@ const SectionPost = ({
 					top="12rem"
 				/>
 			)}
-			{displayImage && <BackgroundImage image={image} viewport={viewport} />}
+			{displayImage && <BackgroundImage image={image} />}
 			<HeroLink
 				href={uid}
 				onMouseEnter={() => setBlurred(!focusOnHover)}
@@ -140,5 +138,3 @@ const SectionPost = ({
 		</section>
 	);
 };
-
-export default SectionPost;

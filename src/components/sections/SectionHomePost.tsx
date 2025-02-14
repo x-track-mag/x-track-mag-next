@@ -1,14 +1,55 @@
-import { useState } from "react";
-import clsx from "clsx";
-import ErrorBoundary from "@components/ErrorBoundary.js";
-import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
-import HeroText from "@components/base/HeroText";
-import { HeroLink } from "@components/base/Links";
+import { FC, useState } from "react";
+import { Box, SimpleGrid, AspectRatio, Flex } from "@chakra-ui/react";
+import NextImage from "next/image";
+import {
+	Background,
+	BackgroundImage,
+	BackgroundVideo,
+	Container,
+	HeroText,
+	HeroLink,
+	Subtitle,
+} from "@components/base";
 import ArticleInfo from "@components/ArticleInfo";
-import { Title, Subtitle } from "@components/base/Typography";
-import Container from "@components/base/Container";
-import { Box, SimpleGrid, AspectRatio, Flex, AbsoluteCenter } from "@chakra-ui/react";
-import Image from "next/image";
+import clsx from "clsx";
+import { ArticleSectionProps, HomeSectionProps } from "src/data/types";
+
+export const Template0 = ({
+	uid,
+	link_to,
+	title = "",
+	subtitle = "",
+	text_color,
+	image = null,
+	video_loop = null,
+	style,
+	...articleInfo
+}) => {
+	return (
+		<section
+			className={clsx("hero-section", "template1")}
+			key={uid}
+			id={uid}
+			style={style}
+		>
+			{image && <BackgroundImage image={image} />}
+			{video_loop && <BackgroundVideo url={video_loop.url} />}
+
+			<ArticleInfo
+				position="absolute"
+				{...articleInfo}
+				textColor="white"
+			/>
+			<HeroLink href={link_to}>
+				<HeroText
+					title={title}
+					subtitle={subtitle}
+					text_color={text_color}
+				/>
+			</HeroLink>
+		</section>
+	);
+};
 
 /**
  * Use the first template to display the post entry
@@ -44,10 +85,19 @@ export const Template1 = ({
 			id={uid}
 			style={style}
 		>
-			<BackgroundImageContainer image={image} video_loop={video_loop} />
-			<ArticleInfo position="absolute" {...articleInfo} textColor="white" />
+			{image && <BackgroundImage image={image} />}
+			{video_loop && <BackgroundVideo url={video_loop.url} />}
+			<ArticleInfo
+				position="absolute"
+				{...articleInfo}
+				textColor="white"
+			/>
 			<HeroLink href={link_to}>
-				<HeroText title={title} subtitle={subtitle} text_color={text_color} />
+				<HeroText
+					title={title}
+					subtitle={subtitle}
+					text_color={text_color}
+				/>
 			</HeroLink>
 		</section>
 	);
@@ -89,8 +139,13 @@ export const Template2 = ({
 			key={uid}
 			id={uid}
 		>
-			<BackgroundImageContainer image={image} video_loop={video_loop} />
-			<ArticleInfo position="absolute" {...articleInfo} textColor="white" />
+			{image && <BackgroundImage image={image} />}
+			{video_loop && <BackgroundVideo url={video_loop.url} />}
+			<ArticleInfo
+				position="absolute"
+				{...articleInfo}
+				textColor="white"
+			/>
 			<HeroLink
 				href={link_to}
 				onMouseEnter={() => setHover(true)}
@@ -125,7 +180,7 @@ export const Template3 = ({
 	text_color,
 	image,
 	video_loop,
-	style
+	style,
 }) => {
 	const [hover, setHover] = useState(false);
 
@@ -136,7 +191,8 @@ export const Template3 = ({
 			key={uid}
 			id={uid}
 		>
-			<BackgroundImageContainer image={image} video_loop={video_loop} />
+			{image && <BackgroundImage image={image} />}
+			{video_loop && <BackgroundVideo url={video_loop.url} />}
 			<HeroLink
 				href={link_to}
 				onMouseEnter={() => setHover(true)}
@@ -164,7 +220,14 @@ export const Template3 = ({
  * @param {ISODate} [props.publication_date]
  * @param {Array<String>} [props.tags]
  */
-export const Template4 = ({ uid, link_to, title = "", image, video_loop, style }) => {
+export const Template4 = ({
+	uid,
+	link_to,
+	title = "",
+	image,
+	video_loop,
+	style,
+}) => {
 	return (
 		<HeroLink href={link_to}>
 			<Flex
@@ -176,14 +239,14 @@ export const Template4 = ({ uid, link_to, title = "", image, video_loop, style }
 				key={uid}
 				id={uid}
 			>
-				<BackgroundImageContainer
-					image={image}
-					video_loop={video_loop}
-					flexGrow="1"
+				<Background image={image} video_loop={video_loop} />
+				<Box
+					as="footer"
+					height="4rem"
+					flexGrow="0"
+					pt="0.5rem"
 					width="100%"
-					position="relative"
-				/>
-				<Box as="footer" height="4rem" flexGrow="0" pt="0.5rem" width="100%">
+				>
 					<Subtitle textColor="black">{title}</Subtitle>
 				</Box>
 			</Flex>
@@ -216,7 +279,11 @@ export const Template5 = ({ uid, link_to, title = "", image, style }) => {
 			style={style}
 		>
 			<HeroLink href={link_to}>
-				<Container as={SimpleGrid} columns={{ base: 1, sm: 2 }} spacing="2rem">
+				<Container
+					as={SimpleGrid}
+					columns={{ base: 1, sm: 2 }}
+					spacing="2rem"
+				>
 					<Flex
 						flexDirection="column"
 						justifyContent="center"
@@ -239,11 +306,16 @@ export const Template5 = ({ uid, link_to, title = "", image, style }) => {
 						display={{ base: "none", sm: "block" }}
 					>
 						<AspectRatio ratio={image.ratio} width="100%">
-							<Image
+							<NextImage
 								src={image.url}
+								sizes="100vw"
+								style={{
+									width: "100%",
+									height: "auto",
+								}}
+								width={image.width}
+								height={image.height}
 								alt={image.alt}
-								layout="fill"
-								objectFit="contain"
 							/>
 						</AspectRatio>
 					</Flex>
@@ -315,7 +387,7 @@ export const Template7 = ({
 			key={uid}
 			id={uid}
 		>
-			<BackgroundImageContainer image={image} />
+			{image && <BackgroundImage image={image} />}
 			<ArticleInfo {...articleInfo} textColor="white" />
 			<HeroLink
 				href={link_to}
@@ -336,7 +408,7 @@ const templates = [
 	Template4,
 	Template5,
 	Template6,
-	Template7
+	Template7,
 ];
 
 /**
@@ -347,7 +419,9 @@ const analyzeTemplate = (templateChoice) => {
 	try {
 		return templates[Number(templateChoice.split(":")[0])] || Template1;
 	} catch (err) {
-		console.error(`analyzeTemplate() : Error on template ${templateChoice}`);
+		console.error(
+			`analyzeTemplate() : Error on template ${templateChoice}`
+		);
 		// Invalid template string or template not specified
 		return Template1;
 	}
@@ -358,14 +432,25 @@ const analyzeTemplate = (templateChoice) => {
  * @param {JsXElement} props
  * @param {String} [props.template] The name of the template to use
  */
-const SectionHomePost = ({ template, uid, internal_link, ...postData }) => {
+export const SectionHomePost: FC<HomeSectionProps> = ({
+	template,
+	uid,
+	internal_link,
+	...postData
+}) => {
 	const Template = analyzeTemplate(template);
 	const link_to = !internal_link ? `/posts/${uid}` : internal_link.uid;
-	return (
-		<ErrorBoundary>
-			<Template link_to={link_to} {...postData} />
-		</ErrorBoundary>
-	);
+	try {
+		// @ts-ignore
+		return <Template link_to={link_to} {...postData} />;
+	} catch (err) {
+		return (
+			<pre>
+				<code>
+					Error rendering template ${template} for {uid}:{err.message}
+					{JSON.stringify(postData, null, "  ")}
+				</code>
+			</pre>
+		);
+	}
 };
-
-export default SectionHomePost;

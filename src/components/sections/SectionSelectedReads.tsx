@@ -1,7 +1,6 @@
-import { Box, Flex } from "@chakra-ui/react";
-import BackgroundImageContainer from "@components/base/BackgroundImageContainer";
-import { Subtitle } from "@components/base/Typography";
 import Link from "next/link";
+import { Box, Flex } from "@chakra-ui/react";
+import { Background, Subtitle } from "@components/base";
 import ArrayExtensions from "@lib/utils/Arrays"; // this will add the shuffle and move methods to Array prototype
 
 /**
@@ -10,7 +9,7 @@ import ArrayExtensions from "@lib/utils/Arrays"; // this will add the shuffle an
  * @param {String} props.uid the current post uid
  * @param {Object} props.selected_reads a selection of posts to read
  */
-const SectionSelectedReads = ({ uid, selected_reads = [] }) => (
+export const SectionSelectedReads = ({ uid, selected_reads = [] }) => (
 	<Box as="section" className="section-selected-reads">
 		<Subtitle mb="2rem">A Lire aussi</Subtitle>
 		<Flex
@@ -43,7 +42,7 @@ const SectionSelectedReads = ({ uid, selected_reads = [] }) => (
 									{read.title}
 								</Subtitle>
 							</Link>
-							<BackgroundImageContainer
+							<Background
 								image={read.image}
 								video_loop={read.video_loop}
 							/>
@@ -53,5 +52,3 @@ const SectionSelectedReads = ({ uid, selected_reads = [] }) => (
 		</Flex>
 	</Box>
 );
-
-export default SectionSelectedReads;
