@@ -1,8 +1,7 @@
 import { Box, Grid, GridItem, Flex, AspectRatio } from "@chakra-ui/react";
-import Container from "@components/base/Container";
-import { Title, Subtitle, RichText } from "@components/base/Typography";
 import ReactPlayer from "react-player";
-import SvgPlayerIcon from "@components/icons/SvgPlayerIcon.js";
+import { Container, Title, Subtitle, RichText } from "@components/base";
+import { SvgPlayerIcon } from "@components/icons";
 import { calcRatio } from "@lib/utils/ratio";
 
 /**
@@ -12,7 +11,7 @@ import { calcRatio } from "@lib/utils/ratio";
  * @param {String} props.text some rich text content to describe the video
  * @param {String} props.link Youtube or Vimeo media link in the format that Prismic
  */
-const SectionVideoLauncher = ({
+export const SectionVideoLauncher = ({
 	article,
 	display_article_title = true,
 	text,
@@ -24,12 +23,12 @@ const SectionVideoLauncher = ({
 }) => {
 	disposition = disposition || "Texte | Video"; // we receive a null value for old content
 	image = image || article.image;
-	ratio = calcRatio(ratio);
+	const intRatio = calcRatio(ratio);
 
 	const templateColumns = {
-		base: "100%"
+		base: "100%",
 	};
-	const twoColumns = disposition.contains("|");
+	const twoColumns = disposition.includes("|");
 	const textFirst = disposition.indexOf("Texte") === 0;
 	if (twoColumns) {
 		// Add two responsive columns : 'Texte | Video' or 'Video | Texte'
@@ -45,7 +44,10 @@ const SectionVideoLauncher = ({
 				gap={{ base: "0", lg: "2rem" }}
 			>
 				{textFirst && (
-					<GridItem padding="2rem 2rem 0" className="video-description">
+					<GridItem
+						padding="2rem 2rem 0"
+						className="video-description"
+					>
 						{display_article_title && (
 							<>
 								<Title>{article.title}</Title>
@@ -65,7 +67,10 @@ const SectionVideoLauncher = ({
 					maxH="80vh"
 					className="video-player"
 				>
-					<AspectRatio ratio={ratio} width={ratio > 1 ? "80%" : "50%"}>
+					<AspectRatio
+						ratio={intRatio}
+						width={intRatio > 1 ? "80%" : "50%"}
+					>
 						<ReactPlayer
 							url={link.embed_url}
 							light={image ? image.url : false} // display the image as vignette
@@ -78,9 +83,9 @@ const SectionVideoLauncher = ({
 										autoplay: 1,
 										loop: 1,
 										modestbranding: 1,
-										hl: "fr"
-									}
-								}
+										hl: "fr",
+									},
+								},
 							}}
 						/>
 					</AspectRatio>
@@ -102,4 +107,3 @@ const SectionVideoLauncher = ({
 		</Box>
 	);
 };
-export default SectionVideoLauncher;

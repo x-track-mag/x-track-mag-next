@@ -1,6 +1,5 @@
 import { Box, Grid, GridItem, Flex, AspectRatio } from "@chakra-ui/react";
-import Container from "@components/base/Container";
-import { RichText } from "@components/base/Typography";
+import { Container, RichText } from "@components/base";
 import Image from "next/image";
 
 const isImageFirst = (columnsOrder) =>
@@ -14,7 +13,7 @@ const isImageFirst = (columnsOrder) =>
  * @param {Boolean} [props.fullPage=false] Use the full page width instead of the responsive container
  *
  */
-const SectionTwoColumns = ({
+export const SectionTwoColumns = ({
 	image,
 	text,
 	full_page = false,
@@ -41,17 +40,17 @@ const SectionTwoColumns = ({
 				alignItems="center"
 				justifyContent="center"
 			>
-				{image && <AspectRatio ratio={image.ratio} width="100%">
-					<Image
-						src={image.url}
-						alt={image.alt}
-						layout="fill"
-						objectFit="contain"
-					/>
-				</AspectRatio>}
+				{image && (
+					<AspectRatio ratio={image.ratio} width="100%">
+						<Image
+							src={image.url}
+							alt={image.alt}
+							layout="fill"
+							objectFit="contain"
+						/>
+					</AspectRatio>
+				)}
 			</GridItem>
 		</Container>
 	</Box>
 );
-
-export default SectionTwoColumns;
