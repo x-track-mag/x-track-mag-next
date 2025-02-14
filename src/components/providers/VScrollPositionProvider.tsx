@@ -1,22 +1,22 @@
 import { createContext, useContext, useState, useEffect, useRef } from "react";
-import useIsomorphicLayoutEffect from "../../hooks/useIsomorphicLayoutEffect.js";
-
-const VScrollPositionContext = createContext();
+import useSafeLayoutEffect from "@components/hooks/useSafeLayoutEffect";
 
 const INITIAL_POSITION = {
 	scrollY: 0,
-	direction: "none"
+	direction: "none",
 };
+
+const VScrollPositionContext = createContext(INITIAL_POSITION);
 
 /**
  * NOTE : Don't forget the {children} when writing a context provider !
  * @param props
  * @param
  */
-const VScrollPositionProvider = ({ children }) => {
+export const VScrollPositionProvider = ({ children }) => {
 	// Save current viewport size in the state object
 	let [vscrollPosition, setVScrollPosition] = useState(INITIAL_POSITION);
-	const previous = useRef();
+	const previous = useRef(null);
 
 	/**
 	 * Store the previous vscroll position value
@@ -28,13 +28,16 @@ const VScrollPositionProvider = ({ children }) => {
 
 	// This useLayoutEffect will execute only once because
 	// it does not have any dependencies.
-	useIsomorphicLayoutEffect(() => {
+	useSafeLayoutEffect(() => {
 		// Listen to window scroll event
 		const measureVScrollPosition = () => {
 			requestAnimationFrame(() => {
 				const updated = {
 					scrollY: window.scrollY,
-					direction: window.scrollY >= previous.current.scrollY ? "down" : "up"
+					direction:
+						window.scrollY >= previous.current.scrollY
+							? "down"
+							: "up",
 				};
 
 				setVScrollPosition(updated);

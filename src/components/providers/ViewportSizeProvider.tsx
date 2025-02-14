@@ -1,5 +1,5 @@
 import { useSafeLayoutEffect } from "@chakra-ui/react";
-import { createContext, useContext, useState, useLayoutEffect } from "react";
+import { createContext, useContext, useState } from "react";
 
 /**
  * @typedef {Object} ViewportSize
@@ -10,13 +10,13 @@ import { createContext, useContext, useState, useLayoutEffect } from "react";
 /**
  * @return {ViewportSize|null}
  */
-const getViewportSize = () => {
+export const getViewportSize = () => {
 	// There is not viewport when doing Server Side Rendering
 	if (typeof window === "undefined")
 		return {
 			width: 1920,
 			height: 1024,
-			mode: "landscape"
+			mode: "landscape",
 		};
 
 	const width =
@@ -32,14 +32,14 @@ const getViewportSize = () => {
 	return { width, height, mode };
 };
 
-const ViewportSizeContext = createContext();
+const ViewportSizeContext = createContext(getViewportSize());
 
 /**
  * NOTE : Don't forget the {children} when writing a context provider !
  * @param props
  * @param
  */
-const ViewportSizeProvider = ({ children }) => {
+export const ViewportSizeProvider = ({ children }) => {
 	// Save current viewport size in the state object
 	let [viewportSize, setViewportSize] = useState(getViewportSize());
 
@@ -48,13 +48,21 @@ const ViewportSizeProvider = ({ children }) => {
 	useSafeLayoutEffect(() => {
 		// Listen to window resize event
 		const resizeListener = () => {
-			window.requestAnimationFrame(() => setViewportSize(getViewportSize()));
+			window.requestAnimationFrame(() => {
+				const viewport = getViewportSize();
+				console.log(
+					`Viewport size : ${viewport.width}x${viewport.height}`
+				);
+				setViewportSize(viewport);
+			});
 		};
 		window.addEventListener("resize", resizeListener);
+		window.addEventListener("DOMContentLoaded", resizeListener);
 
 		// return the clean up function
 		return () => {
 			window.removeEventListener("resize", resizeListener);
+			window.removeEventListener("DOMContentLoaded", resizeListener);
 		};
 	}, []);
 
@@ -76,7 +84,7 @@ export const useViewportSize = () => {
 			`useViewportSize() hook can only be used from inside a <ViewportSizeProvider/> parent`
 		);
 	}
-	console.log(`Viewport size : ${viewport.width}x${viewport.height}`);
+
 	return viewport;
 };
 
@@ -87,13 +95,7 @@ export const useViewportSize = () => {
  * @return {JSX.Element}
  */
 export const withViewportSize = (Component) => (props) => {
-	let viewport;
-
-	useSafeLayoutEffect(() => {
-		viewport = useViewportSize();
-	}, []);
+	const viewport = useViewportSize();
 
 	return Component({ ...viewport, ...props });
 };
-
-export default ViewportSizeProvider;

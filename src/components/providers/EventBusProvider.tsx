@@ -1,21 +1,24 @@
 import { useContext, createContext } from "react";
 import EventEmitter from "@lib/utils/EventEmitter";
 
-const EventBusContext = createContext();
+const eb = new EventEmitter();
+const EventBusContext = createContext(eb);
 
 /**
  * NOTE : Don't forget the {children} when writing a context provider !
  * @param props
  * @param
  */
-const EventBusProvider = ({ listeners = {}, children }) => {
-	const eb = new EventEmitter();
-
-	Object.keys(listeners).map((eventName) => eb.on(eventName, listeners[eventName]));
-	return <EventBusContext.Provider value={eb}>{children}</EventBusContext.Provider>;
+export const EventBusProvider = ({ listeners = {}, children }) => {
+	Object.keys(listeners).map((eventName) =>
+		eb.on(eventName, listeners[eventName])
+	);
+	return (
+		<EventBusContext.Provider value={eb}>
+			{children}
+		</EventBusContext.Provider>
+	);
 };
-
-export default EventBusProvider;
 
 /**
  * Make en EventBus accessible inside this component
