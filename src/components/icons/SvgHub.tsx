@@ -1,4 +1,5 @@
-import {Icon} from "@chakra-ui/react"
+import { Icon } from "@chakra-ui/react";
+import { type IconComponent } from ".";
 
 /**
  * Takes the height in CSS units and multiply it by 36/20
@@ -16,7 +17,7 @@ const calcWidth = (cssHeight) =>
  * @param {String} [props.color="#000"] a valid CSS color
  * @param {String} [props.size="1rem"] a valid CSS size unit
  */
-const SvgHub = ({ size = "1rem", color = "#000" }) => (
+export const SvgHub: IconComponent = ({ size = "1rem", color = "#000" }) => (
 	<svg viewBox="0 0 36 20" height={size} width={calcWidth(size)}>
 		<g fill="none" stroke={color} strokeWidth="1" strokeLinecap="round">
 			<g id="arrow">
@@ -33,11 +34,16 @@ const SvgHub = ({ size = "1rem", color = "#000" }) => (
 
 /**
  * Try the same thing with Chakra-UI Icon helper
- * @param {JSX.Element} props 
+ * @param {JSX.Element} props
  */
-const SvgHubIcon = ({size="1rem", ...props}) => (
+export const SvgHubIcon = ({ size = "1rem", ...props }) => (
 	<Icon viewBox="0 0 36 20" boxSize={size} {...props}>
-		<g fill="none" stroke="currentColor" strokeWidth="1" strokeLinecap="round">
+		<g
+			fill="none"
+			stroke="currentColor"
+			strokeWidth="1"
+			strokeLinecap="round"
+		>
 			<g id="arrow">
 				<path d="M0.5 0v10h11" />
 				<path strokeLinejoin="round" d="M5.5 15l6-5-6-5" />
@@ -49,5 +55,3 @@ const SvgHubIcon = ({size="1rem", ...props}) => (
 		</g>
 	</Icon>
 );
-
-export default SvgHubIcon;

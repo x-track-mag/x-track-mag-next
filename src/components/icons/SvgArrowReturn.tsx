@@ -1,10 +1,15 @@
+import { IconComponent } from ".";
+
 /**
  * Stylized RETURN Arrow
  * @param {JSXElement} props
  * @param {String} [props.color="#000"] a valid CSS color
  * @param {String} [props.size="1rem"] a valid CSS size unit
  */
-const SvgArrowReturn = ({ color = "#000", size = "1rem" }) => (
+export const SvgArrowReturn: IconComponent = ({
+	color = "#000",
+	size = "1rem",
+}) => (
 	<svg viewBox="-7 0 32 32" width={size} height={size}>
 		<g fill="none" stroke={color} strokeLinejoin="round">
 			<path d="M24 6v13H8" />
@@ -12,5 +17,3 @@ const SvgArrowReturn = ({ color = "#000", size = "1rem" }) => (
 		</g>
 	</svg>
 );
-
-export default SvgArrowReturn;

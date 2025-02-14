@@ -1,12 +1,20 @@
-import { useState } from "react";
+import { type FC, useState } from "react";
 import { Box } from "@chakra-ui/react";
-import SvgArrowReturn from "./SvgArrowReturn.js";
+import { type IconComponent } from ".";
+
+interface IconButtonProps {
+	SvgIcon: IconComponent;
+	color?: string;
+	colorHover?: string;
+	size?: string;
+	as?: "button" | "a";
+}
 
 /**
  * Wrap an SVG icon
  * @param {*} param0
  */
-const IconButton = ({
+export const IconButton: FC<IconButtonProps> = ({
 	SvgIcon,
 	color = "black",
 	colorHover,
@@ -26,5 +34,3 @@ const IconButton = ({
 		</Box>
 	);
 };
-
-export default IconButton;
