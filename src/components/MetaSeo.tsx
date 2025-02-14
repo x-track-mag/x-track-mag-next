@@ -2,7 +2,7 @@ import Head from "next/head";
 import { useRouter } from "next/router";
 import path from "path";
 
-const MetaSEO = ({
+export const MetaSEO = ({
 	keywords,
 	tags = [],
 	title = "ACCUEIL",
@@ -11,7 +11,7 @@ const MetaSEO = ({
 	description = "",
 	author = "X-TRACK MAG",
 	lang = "fr",
-	image
+	image,
 }) => {
 	title = `X-TRACK MAG - ${title}`;
 	const router = useRouter();
@@ -36,12 +36,22 @@ const MetaSEO = ({
 			<meta property="og:url" content={canonicalUrl} />
 			{image && <meta property="og:image" content={image.url} />}
 
-			<meta property="og:type" content={isArticle ? "article" : "website"} />
+			<meta
+				property="og:type"
+				content={isArticle ? "article" : "website"}
+			/>
 			{isArticle && (
-				<meta property="article:modified_time" content={publication_date} />
+				<meta
+					property="article:modified_time"
+					content={publication_date}
+				/>
 			)}
 			{isArticle && author && (
-				<meta key="article:author" property="article:author" content={author} />
+				<meta
+					key="article:author"
+					property="article:author"
+					content={author}
+				/>
 			)}
 
 			<meta name="twitter:card" content="summary" />
@@ -66,10 +76,17 @@ const MetaSEO = ({
 				href="/img/favicon-16x16.png"
 			/>
 			<link rel="manifest" href="/img/site.webmanifest" />
-			<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#5bbad5" />
+			<link
+				rel="mask-icon"
+				href="/img/safari-pinned-tab.svg"
+				color="#5bbad5"
+			/>
 			<link rel="shortcut icon" href="/img/favicon.ico" />
 			<meta name="msapplication-TileColor" content="#ffc40d" />
-			<meta name="msapplication-config" content="/img/browserconfig.xml" />
+			<meta
+				name="msapplication-config"
+				content="/img/browserconfig.xml"
+			/>
 			<meta name="theme-color" content="#ffffff" />
 
 			{gtag && (
@@ -83,11 +100,10 @@ const MetaSEO = ({
 					dangerouslySetInnerHTML={{
 						__html: `window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date()); gtag('config', '${gtag}', {page_path: window.location.pathname});`
+gtag('js', new Date()); gtag('config', '${gtag}', {page_path: window.location.pathname});`,
 					}}
 				/>
 			)}
 		</Head>
 	);
 };
-export default MetaSEO;

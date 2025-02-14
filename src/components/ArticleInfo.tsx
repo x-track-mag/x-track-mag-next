@@ -1,9 +1,8 @@
 import { Box, Flex } from "@chakra-ui/react";
-import { Tag, VerticalText } from "@components/base/Typography";
-import SvgArrowReturn from "@components/icons/SvgArrowReturn.js";
-import IconButton from "@components/icons/IconButton.js";
+import { Tag, VerticalText, navigate } from "@components/base";
+import { IconButton, SvgArrowReturn } from "@components/icons";
 import { colors } from "@styles/theme.js";
-import { navigate } from "@components/base/Links";
+import { FC } from "react";
 
 const BackArrow = () => (
 	<Box as="a" onClick={navigate("back")} cursor="pointer">
@@ -22,22 +21,25 @@ const formatDate = (ISODate) => {
 	return `${day}/${month}/${year}`;
 };
 
+interface ArticleInfoProps {
+	position?: "absolute" | "relative";
+	displayBackArrow?: boolean;
+	author?: string;
+	publication_date?: string;
+	tags?: string[];
+	textColor?: string;
+}
+
 /**
  *
- * @param {JSXElement} props
- * @param {Boolean} [props.displayBackArrow=false] Display the BACK Arrow navigation
- * @param {String} props.author
- * @param {ISODate} props.publication_date
- * @param {Array<String>} props.tags
  */
-const ArticleInfo = ({
+const ArticleInfo: FC<ArticleInfoProps> = ({
 	position = "absolute",
 	displayBackArrow = false,
 	author = "",
 	publication_date = "",
 	tags = [],
 	textColor = "black",
-	...overrideStyle
 }) => (
 	<Flex
 		as="aside"
@@ -51,11 +53,16 @@ const ArticleInfo = ({
 		justifyContent="space-between"
 		alignContent="stretch"
 		alignItems="flex-end"
-		{...overrideStyle}
 	>
 		{displayBackArrow && <BackArrow />}
-		<VerticalText textColor={textColor}>{formatDate(publication_date)}</VerticalText>
-		<VerticalText textColor={textColor} textTransform="uppercase" whiteSpace="nowrap">
+		<VerticalText textColor={textColor}>
+			{formatDate(publication_date)}
+		</VerticalText>
+		<VerticalText
+			textColor={textColor}
+			textTransform="uppercase"
+			whiteSpace="nowrap"
+		>
 			{author}
 		</VerticalText>
 		<div className="tags">
