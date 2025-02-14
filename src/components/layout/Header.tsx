@@ -3,11 +3,11 @@ import {
 	navigate,
 	MobileNavLink,
 	HeaderNavLink,
-	NavButton
+	NavButton,
 } from "@components/base/Links";
 
 import { Heading, Flex } from "@chakra-ui/react";
-import SvgLogo from "@components/icons/SvgLogo";
+import { SvgLogo } from "@components/icons";
 
 const navigation = {
 	links: [
@@ -15,8 +15,8 @@ const navigation = {
 		{ href: "/videos", text: "VIDEOS" },
 		{ href: "/music", text: "MUSIC" },
 		{ href: "/live", text: "LIVE SESSIONS" },
-		{ href: "/about-us", text: "ABOUT US" }
-	]
+		{ href: "/about-us", text: "ABOUT US" },
+	],
 };
 
 /**
@@ -25,7 +25,7 @@ const navigation = {
  * @param {JSXElement} props
  * @param {Array} props.links
  */
-const MobileNav = ({ links, onNavigate, ...moreStyle }) => (
+export const MobileNav = ({ links, onNavigate, ...moreStyle }) => (
 	<Flex
 		as="nav"
 		flexDirection="column"
@@ -41,7 +41,11 @@ const MobileNav = ({ links, onNavigate, ...moreStyle }) => (
 		{...moreStyle} // important to pass display none
 	>
 		{links.map((link, i) => (
-			<MobileNavLink key={`nav-${i}`} href={link.href} onClick={onNavigate}>
+			<MobileNavLink
+				key={`nav-${i}`}
+				href={link.href}
+				onClick={onNavigate}
+			>
 				{link.text}
 			</MobileNavLink>
 		))}
@@ -76,7 +80,7 @@ export const HeaderNav = ({ links, ...moreProps }) => (
 /**
  * The main fixed Header on all the pages
  */
-const Header = () => {
+export const Header = () => {
 	// const enableMobileMenu = useBreakpointValue({ base: true, lg: false });
 	const enableMobileMenu = false;
 	const [showMobileMenu, setShowMobileMenu] = useState(false);
@@ -95,7 +99,9 @@ const Header = () => {
 				justify="space-between"
 				wrap="wrap"
 				padding="0 2rem"
-				style={{ mixBlendMode: showMobileMenu ? "normal" : "difference" }}
+				style={{
+					mixBlendMode: showMobileMenu ? "normal" : "difference",
+				}}
 			>
 				<Heading
 					as="h1"
@@ -127,5 +133,3 @@ const Header = () => {
 		</>
 	);
 };
-
-export default Header;

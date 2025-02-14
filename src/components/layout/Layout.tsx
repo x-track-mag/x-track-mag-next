@@ -1,25 +1,24 @@
 // components/Layout.js
 
-import Header from "./Header";
-import Footer from "./Footer";
 import { useRouter } from "next/router";
 import { motion, AnimatePresence } from "framer-motion";
-import ViewportSizeProvider from "@components/ViewportSizeProvider";
+import { Header, Footer } from "./index";
+import { ViewportSizeProvider } from "@components/providers";
 
 const layoutStyle = {
 	display: "flex",
 	flexdirection: "column",
 	height: "100%",
-	width: "100%"
+	width: "100%",
 };
 
 const contentStyle = {
 	flex: 1,
 	display: "flex",
-	flexdirection: "column"
+	flexdirection: "column",
 };
 
-const Layout = ({ children }) => {
+export const Layout = ({ children }) => {
 	const route = useRouter().route;
 	const isHome = route === "/";
 	return (
@@ -45,5 +44,3 @@ const Layout = ({ children }) => {
 		</ViewportSizeProvider>
 	);
 };
-
-export default Layout;

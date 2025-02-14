@@ -1,7 +1,7 @@
 import { useRouter } from "next/router";
 import { useState, useEffect } from "react";
 
-const ScrollPositionKeeper = () => {
+export const ScrollPositionKeeper = () => {
 	const router = useRouter();
 	const [scrollPosition, rememberScrollPosition] = useState(0);
 
@@ -36,5 +36,3 @@ const ScrollPositionKeeper = () => {
 
 	return null;
 };
-
-export default ScrollPositionKeeper;
