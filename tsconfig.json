@@ -1,0 +1,49 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
+    "paths": {
+      "@lib/*": [
+        "./src/lib/*"
+      ],
+      "@scripts/*": [
+        "./src/scripts/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@styles/*": [
+        "./src/styles/*"
+      ],
+      "@api/*": [
+        "./src/pages/api/*"
+      ],
+      "@content/*": [
+        "./content/*"
+      ]
+    },
+    "target": "ES2017",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "noEmit": true,
+    "incremental": true,
+    "module": "esnext",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

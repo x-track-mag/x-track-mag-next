@@ -1,4 +1,4 @@
-module.exports = {
+const prettierConfig = {
 	useTabs: true,
 	tabWidth: 4,
 	semi: true,
@@ -8,3 +8,5 @@ module.exports = {
 	bracketSpacing: true,
 	printWidth: 90
 };
+
+export default prettierConfig;
