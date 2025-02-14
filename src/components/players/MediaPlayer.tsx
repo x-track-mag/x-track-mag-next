@@ -1,12 +1,12 @@
-import SpotifyPlayer from "./SpotifyPlayer.js";
-import AppleMusicPlayer from "./AppleMusicPlayer.js";
-import BandCampPlayer from "./BandCampPlayer.js";
-import DeezerPlayer from "./DeezerPlayer.js";
-import OpenWhydPlayer from "./OpenWhydPlayer.js";
-import YoutubePlayer from "./YoutubePlayer.js";
 import ReactPlayer from "react-player";
+import { SpotifyPlayer } from "./SpotifyPlayer";
+import { AppleMusicPlayer } from "./AppleMusicPlayer";
+import { BandCampPlayer } from "./BandCampPlayer";
+import { DeezerPlayer } from "./DeezerPlayer";
+import { OpenWhydPlayer } from "./OpenWhydPlayer";
+import { YoutubePlayer } from "./YoutubePlayer";
 import { AspectRatio } from "@chakra-ui/react";
-import { calcRatio } from "@lib/utils/ratio.js";
+import { calcRatio } from "@lib/utils/ratio";
 
 const RawMediaPlayer = ({ url, ...more }) => {
 	if (!url) return null;
@@ -14,8 +14,8 @@ const RawMediaPlayer = ({ url, ...more }) => {
 	if (!url.startsWith("https")) {
 		return (
 			<div>
-				<code>{url}</code> is not a valid media link. Use the shareable link to
-				the media you want to share
+				<code>{url}</code> is not a valid media link. Use the shareable
+				link to the media you want to share
 			</div>
 		);
 	}
@@ -55,18 +55,16 @@ const RawMediaPlayer = ({ url, ...more }) => {
 						autoplay: 0,
 						loop: 1,
 						modestbranding: 1,
-						hl: "fr"
-					}
-				}
+						hl: "fr",
+					},
+				},
 			}}
 		/>
 	);
 };
 
-const MediaPlayer = ({ ratio = "16/9", ...props }) => (
+export const MediaPlayer = ({ url, ratio = "16/9", ...props }) => (
 	<AspectRatio ratio={calcRatio(ratio)} width="100%">
-		<RawMediaPlayer {...props} />
+		<RawMediaPlayer url={url} {...props} />
 	</AspectRatio>
 );
-
-export default MediaPlayer;

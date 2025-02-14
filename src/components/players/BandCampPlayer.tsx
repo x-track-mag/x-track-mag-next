@@ -12,7 +12,12 @@ export const getEmbedUrl = (shareUrl) => {
 	return `https://bandcamp.com/EmbeddedPlayer/${media_type}=${media_id}/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=true/artwork=small/transparent=true/"`;
 };
 
-const BandCampPlayer = ({ url, title = "", width = "100%", height = "800px" }) =>
+export const BandCampPlayer = ({
+	url,
+	title = "",
+	width = "100%",
+	height = "800px",
+}) =>
 	url && (
 		<iframe
 			width={width}
@@ -24,5 +29,3 @@ const BandCampPlayer = ({ url, title = "", width = "100%", height = "800px" }) =
 			<a href={url}>{title}</a>
 		</iframe>
 	);
-
-export default BandCampPlayer;

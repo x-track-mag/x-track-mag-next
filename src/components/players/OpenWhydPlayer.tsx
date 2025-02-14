@@ -5,18 +5,21 @@
  * @param {String} shareUrl
  * @return {String} the embed URL for the iframe
  */
-export const getEmbedUrl = (shareUrl, width) => {
+export const getOpenWhydEmbedUrl = (shareUrl, width) => {
 	return `${shareUrl}?format=embedV2&embedW=${width}`;
 };
 
-const OpenWhydPlayer = ({ url, title = "", width = "100%", height = "800px" }) =>
+export const OpenWhydPlayer = ({
+	url,
+	title = "",
+	width = "100%",
+	height = "800px",
+}) =>
 	url && (
 		<iframe
 			width={width}
 			height={height}
 			frameBorder="0"
-			src={getEmbedUrl(url)}
+			src={getOpenWhydEmbedUrl(url, width)}
 		></iframe>
 	);
-
-export default OpenWhydPlayer;

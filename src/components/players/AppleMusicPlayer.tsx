@@ -6,7 +6,7 @@
  * @param {String} shareUrl
  * @return {String} the embed URL for the iframe
  */
-export const getEmbedUrl = (shareUrl, lang = "fr") => {
+export const getEmbedAppleMusicUrl = (shareUrl, lang = "fr") => {
 	const parts = shareUrl.split(/[\/\:]/);
 	const media_id = parts.pop();
 	const media_name = parts.pop();
@@ -20,20 +20,23 @@ export const getEmbedUrl = (shareUrl, lang = "fr") => {
  * @param {String} url Shared URL
  * @param {String} lang ISO language code of the player
  */
-const AppleMusicPlayer = ({ url, width = "100%", height = "580px", lang = "fr" }) =>
+export const AppleMusicPlayer = ({
+	url,
+	width = "100%",
+	height = "580px",
+	lang = "fr",
+}) =>
 	url && (
 		<iframe
-			src={getEmbedUrl(url, lang)}
+			src={getEmbedAppleMusicUrl(url, lang)}
 			width={width}
 			height={height}
 			allow="autoplay *; encrypted-media *; fullscreen *"
 			frameBorder="0"
 			style={{
 				overflow: "hidden",
-				background: "transparent"
+				background: "transparent",
 			}}
 			sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
 		></iframe>
 	);
-
-export default AppleMusicPlayer;

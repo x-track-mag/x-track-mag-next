@@ -1,11 +1,5 @@
 import { AspectRatio } from "@chakra-ui/react";
 
-String.prototype.contains =
-	String.prototype.contains ||
-	function (str) {
-		return this.indexOf(str) !== -1;
-	};
-
 /**
  * Youtube share URLs comes in a variety of formats
  * Examples :
@@ -16,13 +10,13 @@ String.prototype.contains =
  * @param {String} shareUrl
  * @return {String} the embed URL for the iframe
  */
-export const getEmbedUrl = (shareUrl) => {
+export const getEmbedYoutubeUrl = (shareUrl) => {
 	if (!shareUrl) return null;
-	if (shareUrl.contains("playlist")) {
+	if (shareUrl.includes("playlist")) {
 		const parsedUrl = new URL(shareUrl);
 		const playlistId = parsedUrl.searchParams.get("list");
 		return `https://www.youtube.com/embed/videoseries?list=${playlistId}`;
-	} else if (shareUrl.contains("watch")) {
+	} else if (shareUrl.includes("watch")) {
 		const parsedUrl = new URL(shareUrl);
 		const videoId = parsedUrl.searchParams.get("v");
 		return `https://www.youtube.com/embed/${videoId}`;
@@ -34,11 +28,11 @@ export const getEmbedUrl = (shareUrl) => {
 	}
 };
 
-const YoutubePlayer = ({ url, title = "", width = "100%" }) =>
+export const YoutubePlayer = ({ url, title = "", width = "100%" }) =>
 	url && (
 		<AspectRatio ratio={16 / 9} width={width}>
 			<iframe
-				src={getEmbedUrl(url)}
+				src={getEmbedYoutubeUrl(url)}
 				title={title}
 				width="100%"
 				height="100%"
@@ -48,5 +42,3 @@ const YoutubePlayer = ({ url, title = "", width = "100%" }) =>
 			></iframe>
 		</AspectRatio>
 	);
-
-export default YoutubePlayer;
