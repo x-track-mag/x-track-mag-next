@@ -1,27 +1,32 @@
-import { Container } from "@chakra-ui/react";
-import { Title, Subtitle } from "@components/base/Typography";
 import { useRef } from "react";
+import { Container } from "@chakra-ui/react";
+import { Title, Subtitle } from "@components/base";
 import { useApexPosition } from "@components/hooks/useApexPosition";
 import clsx from "clsx";
 
 /**
  * A centered block of text suited for Hero sections
  */
-const HeroText = ({ title, subtitle, text_color, ...moreStyles }) => {
+export const HeroText = ({
+	title,
+	subtitle = "",
+	text_color = "white",
+	...moreStyles
+}) => {
 	try {
-		const ref = useRef();
+		const ref = useRef(null);
 		const [inView, apexPosition] = useApexPosition(ref);
 
 		if (inView) {
 			moreStyles = {
 				...moreStyles,
 				transition: {
-					ease: "easeOut"
+					ease: "easeOut",
 				},
 				animate: {
 					x: 100 - 100 * apexPosition,
-					opacity: apexPosition
-				}
+					opacity: apexPosition,
+				},
 			};
 		} else {
 			// Don't allow to flicker when entering the viewport
@@ -29,12 +34,12 @@ const HeroText = ({ title, subtitle, text_color, ...moreStyles }) => {
 				...moreStyles,
 				transition: {
 					ease: "easeOut",
-					duration: 0
+					duration: 0,
 				},
 				animate: {
 					x: 100, // Starts 100px from the right
-					opacity: 0 // Starts at opacity 0
-				}
+					opacity: 0, // Starts at opacity 0
+				},
 			};
 		}
 
@@ -46,7 +51,9 @@ const HeroText = ({ title, subtitle, text_color, ...moreStyles }) => {
 				centerContent
 				p="2rem"
 			>
-				{title && title !== "--blank--" && <Title {...moreStyles}>{title}</Title>}
+				{title && title !== "--blank--" && (
+					<Title {...moreStyles}>{title}</Title>
+				)}
 				{subtitle && subtitle !== "--blank--" && (
 					<Subtitle {...moreStyles}>{subtitle}</Subtitle>
 				)}
@@ -71,5 +78,3 @@ const HeroText = ({ title, subtitle, text_color, ...moreStyles }) => {
 		);
 	}
 };
-
-export default HeroText;

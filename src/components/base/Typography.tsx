@@ -1,8 +1,8 @@
 import { Text, Box } from "@chakra-ui/react";
-import MotionBox from "./MotionBox.js";
+import { MotionBox } from "./MotionBox";
 import { RichText as PrismicRichTextRenderer, Elements } from "prismic-reactjs";
 import { fixImage } from "@lib/transform/PrismicDataTransformers";
-import EmbeddedImage from "./EmbeddedImage";
+import { EmbeddedImage } from "./EmbeddedImage";
 import { EmbeddedLink } from "./Links";
 
 /**
@@ -55,7 +55,9 @@ export const Message = ({ children }) => (
 export const Blockquote = ({ text, ...moreStyles }) => (
 	<MotionBox as="blockquote" {...moreStyles}>
 		{Array.isArray(text)
-			? text.map((paragraph, i) => <p key={`blocquote-p-${i}`}>{paragraph.text}</p>)
+			? text.map((paragraph, i) => (
+					<p key={`blocquote-p-${i}`}>{paragraph.text}</p>
+			  ))
 			: { text }}
 	</MotionBox>
 );
@@ -115,7 +117,10 @@ export const Caption = ({ children, ...moreStyles }) => (
 );
 
 export const RichText = ({ children }) => (
-	<PrismicRichTextRenderer render={children} htmlSerializer={htmlSerializer} />
+	<PrismicRichTextRenderer
+		render={children}
+		htmlSerializer={htmlSerializer}
+	/>
 );
 
 /**
@@ -145,7 +150,11 @@ const htmlSerializer = (type, element, content, children, key) => {
 		// Wrap images inside a <figure> with <figurecaption>
 		case Elements.image:
 			return (
-				<EmbeddedImage image={fixImage(element)} key={key} margin="1rem auto" />
+				<EmbeddedImage
+					image={fixImage(element)}
+					key={key}
+					margin="1rem auto"
+				/>
 			);
 
 		// Add a class to hyperlinks
@@ -160,13 +169,4 @@ const htmlSerializer = (type, element, content, children, key) => {
 		default:
 			return null;
 	}
-};
-
-export default {
-	Title,
-	Subtitle,
-	Message,
-	Blockquote,
-	Tag,
-	Caption
 };

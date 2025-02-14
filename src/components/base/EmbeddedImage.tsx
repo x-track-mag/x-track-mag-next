@@ -7,7 +7,7 @@ import { Caption } from "./Typography";
  * @param {JSX.Element} props
  * @param {ImageDescr} props.image
  */
-const EmbeddedImage = ({ image, width = "100%", ...more }) => {
+export const EmbeddedImage = ({ image, width = "100%", ...more }) => {
 	if (!image) return null;
 
 	try {
@@ -22,9 +22,9 @@ const EmbeddedImage = ({ image, width = "100%", ...more }) => {
 						layout="fill"
 					/>
 				</AspectRatio>
-				{image.alt && <Caption as="figurecaption">{image.alt}</Caption>}
+				{image.alt && <Caption as="figcaption">{image.alt}</Caption>}
 				{image.copyright && (
-					<Caption as="figurecaption">{`© ${image.copyright}`}</Caption>
+					<Caption as="figcaption">{`© ${image.copyright}`}</Caption>
 				)}
 			</Box>
 		);
@@ -36,5 +36,3 @@ const EmbeddedImage = ({ image, width = "100%", ...more }) => {
 		);
 	}
 };
-
-export default EmbeddedImage;

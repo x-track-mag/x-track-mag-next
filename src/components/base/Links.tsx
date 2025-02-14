@@ -1,12 +1,11 @@
 import router from "next/router";
-import { Link as ChakraLink } from "@chakra-ui/react";
-import NextLink from "next/link";
+import { ThemableLink } from "./ThemableLink";
 import clsx from "clsx";
 
 const noOutline = {
 	outline: "none",
-	outlineStyle: "none"
-};
+	outlineStyle: "none",
+} as const;
 
 const baseLinkStyles = {
 	textColor: "black",
@@ -14,9 +13,9 @@ const baseLinkStyles = {
 	_active: noOutline,
 	textDecoration: "none",
 	_hover: {
-		textDecoration: "none"
-	}
-};
+		textDecoration: "none",
+	},
+} as const;
 
 /**
  * Style applied when link is inside plain text
@@ -26,9 +25,9 @@ const embeddedLinkStyles = {
 	bgColor: "brand.green",
 	_hover: {
 		lineHeight: "0.3em",
-		fontStyle: "italic"
-	}
-};
+		fontStyle: "italic",
+	},
+} as const;
 
 /**
  * Centered links inside Hero sections
@@ -36,8 +35,8 @@ const embeddedLinkStyles = {
 const heroStyles = {
 	...baseLinkStyles,
 	textColor: "white",
-	fontSize: "xl"
-};
+	fontSize: "xl",
+} as const;
 
 /**
  * Styles used in the navigation (header and footer)
@@ -51,23 +50,23 @@ export const navLinkStyles = {
 	_focus: {
 		lineHeight: "0.3em",
 		bgColor: "brand.orange",
-		...noOutline
+		...noOutline,
 	},
 	_active: {
 		textColor: "brand.green",
-		...noOutline
+		...noOutline,
 	},
 	_hover: {
-		textColor: "brand.green"
-	}
-};
+		textColor: "brand.green",
+	},
+} as const;
 
 /**
  * Header navigation style
  */
 export const headerLinkStyles = {
-	...navLinkStyles
-};
+	...navLinkStyles,
+} as const;
 
 /**
  * Apply these styles for small screens
@@ -79,29 +78,32 @@ export const mobileLinkStyles = {
 	lineHeight: "1.4em",
 	textAlign: "center",
 	padding: "0.5rem 0",
-	margin: "0.25rem 0"
-};
+	margin: "0.25rem 0",
+} as const;
 
 const isExternalLink = (href) => /^http/.test(href);
 
-const isActive = (href) => typeof window !== "undefined" && router.route === href;
+const isActiveLink = (href) =>
+	typeof window !== "undefined" && router.route === href;
 
 /**
  * Use Next.js router to navigate to internal pages
  * or not..
  * @param {String} href
  */
-export const navigate = (href, callback) => (evt) => {
-	if (!isExternalLink(href)) {
-		evt.preventDefault();
-		if (href === "back") {
-			router.back();
-		} else {
-			router.push(href);
+export const navigate =
+	(href, callback = null) =>
+	(evt) => {
+		if (!isExternalLink(href)) {
+			evt.preventDefault();
+			if (href === "back") {
+				router.back();
+			} else {
+				router.push(href);
+			}
 		}
-	}
-	if (typeof callback === "function") callback();
-};
+		if (typeof callback === "function") callback();
+	};
 
 /**
  * Use Chakra-UI to style the link
@@ -109,16 +111,14 @@ export const navigate = (href, callback) => (evt) => {
  * @param {JSXElement} props
  * @param {String} props.href Absolute or relative URL to go by
  */
-export const Link = ({ href = "#", children, ...props }) => (
-	<NextLink href={href} scroll={true} passHref>
-		<ChakraLink
-			target={isExternalLink(href) ? "_blank" : ""}
-			className={clsx({ active: isActive(href) })}
-			{...props}
-		>
-			{children}
-		</ChakraLink>
-	</NextLink>
+export const Link = ({ href = "#", ...props }) => (
+	<ThemableLink
+		href={href}
+		scroll={true}
+		target={isExternalLink(href) ? "_blank" : ""}
+		className={clsx({ active: isActiveLink(href) })}
+		{...props}
+	/>
 );
 
 /**
@@ -126,10 +126,13 @@ export const Link = ({ href = "#", children, ...props }) => (
  * @param {JSX.Element} props
  * @param {String} props.href Absolute or relative URL to go by
  */
-export const NavButton = ({ children, ...props }) => (
-	<ChakraLink as="button" fontSize="inherit" {...navLinkStyles} {...props}>
-		{children}
-	</ChakraLink>
+export const NavButton = ({ ...props }) => (
+	<ThemableLink
+		as="button"
+		fontSize="inherit"
+		{...navLinkStyles}
+		{...props}
+	/>
 );
 
 /**
@@ -137,11 +140,14 @@ export const NavButton = ({ children, ...props }) => (
  * @param {Object} style
  * @return {Link}
  */
-const makeLink = (style) => ({ children, ...props }) => (
-	<Link {...style} {...props}>
-		{children}
-	</Link>
-);
+const makeLink =
+	(style) =>
+	({ children, ...props }) =>
+		(
+			<Link {...style} {...props}>
+				{children}
+			</Link>
+		);
 
 export const EmbeddedLink = makeLink(embeddedLinkStyles);
 export const HeroLink = makeLink(heroStyles);

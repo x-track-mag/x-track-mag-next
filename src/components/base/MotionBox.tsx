@@ -35,5 +35,4 @@ import { Box } from "@chakra-ui/react";
  * @see https://stackoverflow.com/questions/66703410/next-js-framermotion-motion-custom-is-not-a-function
  * Why the trick to manually forward framer property is no longer needed since framer-motion > v3.10
  */
-const MotionBox = motion(Box);
-export default MotionBox;
+export const MotionBox = motion.create(Box);

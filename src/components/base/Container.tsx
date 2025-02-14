@@ -5,7 +5,7 @@ import { Box } from "@chakra-ui/react";
  * @param {JSX.Element} props
  * @param {Boolean} [props.fluid=false] Take the full width
  */
-const Container = ({ children, fluid = false, ...moreStyles }) => (
+export const Container = ({ children, fluid = false, ...moreStyles }) => (
 	<Box
 		className="container"
 		width="100%"
@@ -17,5 +17,3 @@ const Container = ({ children, fluid = false, ...moreStyles }) => (
 		{children}
 	</Box>
 );
-
-export default Container;
