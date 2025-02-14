@@ -1,9 +1,18 @@
 import paths from "@content/paths.json";
-import SectionHero from "@components/sections/SectionHero";
 import ArticleInfo from "@components/ArticleInfo";
-import { SectionResolver, SectionSelectedReads } from "@components/sections/index.js";
+import {
+	SectionHero,
+	SectionResolver,
+	SectionSelectedReads,
+} from "@components/sections";
+import type { ArticleProps, SelectedReadProps } from "src/data/types";
+import { FC } from "react";
 
-export const PostPage = ({
+interface PostPageProps extends ArticleProps {
+	selected_reads: SelectedReadProps[];
+}
+
+const PostPage: FC<PostPageProps> = ({
 	uid,
 	title,
 	subtitle,
@@ -14,7 +23,7 @@ export const PostPage = ({
 	publication_date,
 	tags,
 	sections,
-	selected_reads
+	selected_reads,
 }) => {
 	const article = {
 		title,
@@ -23,8 +32,8 @@ export const PostPage = ({
 		video_loop,
 		author,
 		publication_date,
-		tags
-	};
+		tags,
+	} as ArticleProps;
 	// Automatically redisplay Hero section as first section
 
 	const isMusic = tags.includes("music");
@@ -45,7 +54,7 @@ export const PostPage = ({
 					title={isArticle ? "--blank--" : title}
 					subtitle={isArticle ? "--blank--" : subtitle}
 					text_color={text_color}
-					display_credits={true}
+					displayCredits={true}
 				/>
 			)}
 			{sections.map((section, i) => (
@@ -62,26 +71,26 @@ export const PostPage = ({
 
 /**
  * When in preview mode : Fetch content directly from prismic
- * else, read the serialized JSON file that we extracted inside the @content dir
+ * else, read the serialized JSON file that we extracted inside the content dir
  */
 export const getStaticProps = async ({ params, preview }) => {
 	const uid = params.uid;
-	const { selected_reads } = await import(`@content/home.json`);
-	const { ...postProps } = await import(`@content/posts/${uid}.json`);
+	const { selected_reads } = await import("content/home.json");
+	const { ...postProps } = await import(`content/posts/${uid}.json`);
 	return {
-		props: { selected_reads, ...postProps }
+		props: { selected_reads, ...postProps },
 	};
 };
 
 /**
- * We use the serialized data from the static JSON file @content/paths.json
+ * We use the serialized data from the static JSON file content/paths.json
  */
 export const getStaticPaths = () => {
 	return {
 		paths: paths.map((uid) => ({
-			params: { uid }
+			params: { uid },
 		})),
-		fallback: false
+		fallback: false,
 	};
 };
 

@@ -71,7 +71,7 @@ export const hash = (str, namespace = "") => {
  * Load javascript file by href
  * @param href
  * @param attributes
- * @returns {Promise}
+ * @returns {Promise<void>}
  */
 export const loadScript = (href, attributes = {}) => {
 	const uid = hash(href, "SCRIPT");
@@ -93,7 +93,7 @@ export const loadScript = (href, attributes = {}) => {
 		// Do not load script if already loaded
 		const previousLink = document.getElementById(uid);
 		if (previousLink) {
-			resolve();
+			resolve(true);
 			return previousLink;
 		}
 
@@ -107,7 +107,7 @@ export const loadScript = (href, attributes = {}) => {
 		s.onload = s.onreadystatechange = function () {
 			if (!r && (!this.readyState || this.readyState === "complete")) {
 				r = true;
-				resolve();
+				resolve(true);
 			}
 		};
 		// Add custom attribute added by user
@@ -129,7 +129,7 @@ export const loadStyle = (href) => {
 	_checkFile(href) && appendStyle(href);
 };
 
-const _checkFile = (href) => Boolean(_loadedFiles.indexOf(`[${href}]` === -1));
+const _checkFile = (href) => Boolean(_loadedFiles.indexOf(`[${href}]`) === -1);
 
 const appendStyle = (href) => {
 	if (!isBrowser()) return false;

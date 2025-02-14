@@ -1,5 +1,5 @@
-import paths from "@content/pages.json";
-import { SectionResolver } from "@components/sections/index.js";
+import paths from "content/pages.json";
+import { SectionResolver } from "@components/sections";
 
 /**
  * Render a single static pages (simplified version of a post)
@@ -7,31 +7,35 @@ import { SectionResolver } from "@components/sections/index.js";
  */
 const StaticPage = ({ sections }) => {
 	return sections.map((section, i) => (
-		<SectionResolver key={`section-${i}`} section={section} full_page={true} />
+		<SectionResolver
+			key={`section-${i}`}
+			section={section}
+			full_page={true}
+		/>
 	));
 };
 
 /**
  * When in preview mode : Fetch content directly from prismic
- * else, read the serialized JSON file that we extracted inside the @content dir
+ * else, read the serialized JSON file that we extracted inside the content dir
  */
 export const getStaticProps = async ({ params, preview }) => {
 	const uid = params.uid;
-	const { ...pageProps } = await import(`@content/${uid}.json`);
+	const { ...pageProps } = await import(`content/${uid}.json`);
 	return {
-		props: { ...pageProps }
+		props: { ...pageProps },
 	};
 };
 
 /**
- * We use the serialized data from the static JSON file @content/paths.json
+ * We use the serialized data from the static JSON file content/paths.json
  */
 export const getStaticPaths = () => {
 	return {
 		paths: paths.map((uid) => ({
-			params: { uid }
+			params: { uid },
 		})),
-		fallback: false
+		fallback: false,
 	};
 };
 

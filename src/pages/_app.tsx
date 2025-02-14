@@ -1,8 +1,8 @@
-import global from "../styles/sass/global.scss";
-import MetaSEO from "@components/MetaSeo";
 import { ChakraProvider } from "@chakra-ui/react";
-import theme from "../styles/theme.js";
-import Layout from "@components/layout/Layout";
+import { MetaSEO } from "@components/MetaSeo";
+import { Layout } from "@components/layout";
+import theme from "@styles/theme.js";
+import "@styles/index.css";
 
 const MyApp = ({ Component, pageProps }) => (
 	<ChakraProvider theme={theme}>
