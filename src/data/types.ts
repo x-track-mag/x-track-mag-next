@@ -80,13 +80,13 @@ export interface SectionFullTextProps {
 }
 
 export interface SectionHeroProps {
-	template: "section-hero";
+	template?: "section-hero";
 	article: ArticleProps;
 	title: string;
 	subtitle: string | null;
 	text_color?: string;
-	image: ImageProps | null;
-	video_loop: VideoLoopProps | null;
+	image?: ImageProps | null;
+	video_loop?: VideoLoopProps | null;
 	displayCredits?: boolean;
 }
 

@@ -1,5 +1,5 @@
-import { PostPage } from "../../posts/[uid]";
-import SectionHomePost from "@components/sections/SectionHomePost.js";
+import PostPage from "@pages/posts/[uid]";
+import { SectionHomePost } from "@components/sections/SectionHomePost";
 import { getPost } from "@lib/clients/PrismicClient";
 import { transformPost } from "@lib/transform/PrismicDataTransformers";
 
@@ -37,7 +37,7 @@ export const getServerSideProps = async ({ params, previewData }) => {
 		const niceAndClean = preparePost(rawPostData);
 
 		return {
-			props: { ...niceAndClean } // will be passed to the page component as props
+			props: { ...niceAndClean }, // will be passed to the page component as props
 		};
 	} catch (err) {
 		console.error(err);

@@ -11,15 +11,14 @@ import {
 import { FC } from "react";
 
 interface SectionResolverProps {
-	article: ArticleProps;
+	article?: ArticleProps;
 	section: ArticleSectionProps;
+	// extends this section to the full page's width
+	full_page?: boolean;
 }
 
 /**
  * Render a section using the appropriate template
- * @param {JSX.Element} props
- * @param {Object} props.article
- * @param {Object} props.section
  */
 export const SectionResolver: FC<SectionResolverProps> = ({
 	article,

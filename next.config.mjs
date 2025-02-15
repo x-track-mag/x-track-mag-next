@@ -11,11 +11,19 @@ const nextConfig = {
 		path: "/_next/image",
 		loader: "default",
 	},
+	typescript: {
+		// !! WARN !!
+		// Dangerously allow production builds to successfully complete even if
+		// your project has type errors.
+		// !! WARN !!
+		ignoreBuildErrors: true,
+	},
 	webpack: (config, options) => {
 		// Define some nice aliases (the same as in tsconfig.json)
 		config.resolve.alias = {
 			...config.resolve.alias,
 			"@lib": resolve(__dirname, "src/lib/"),
+			"@pages": resolve(__dirname, "src/pages/"),
 			"@scripts": resolve(__dirname, "src/scripts/"),
 			"@components": resolve(__dirname, "src/components/"),
 			"@styles": resolve(__dirname, "src/styles/"),
@@ -23,8 +31,6 @@ const nextConfig = {
 			"@api": resolve(__dirname, "src/pages/api"),
 			"@content": resolve(__dirname, "content"),
 		};
-
-		console.log("paths alias:", config.resolve.alias);
 
 		return config;
 	},

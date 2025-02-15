@@ -5,6 +5,7 @@
 		"lib": ["ESNext", "DOM"],
 		"paths": {
 			"@lib/*": ["./src/lib/*"],
+			"@pages/*": ["./src/pages/*"],
 			"@scripts/*": ["./src/scripts/*"],
 			"@components/*": ["./src/components/*"],
 			"@styles/*": ["./src/styles/*"],

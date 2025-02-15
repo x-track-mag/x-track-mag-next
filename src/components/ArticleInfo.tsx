@@ -22,7 +22,7 @@ const formatDate = (ISODate) => {
 };
 
 interface ArticleInfoProps {
-	position?: "absolute" | "relative";
+	position?: "absolute" | "relative" | "fixed";
 	displayBackArrow?: boolean;
 	author?: string;
 	publication_date?: string;
