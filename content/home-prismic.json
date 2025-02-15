@@ -3,13 +3,12 @@
 	"uid": "home",
 	"url": null,
 	"type": "home",
-	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=Yk3cSBAAACMAW1sn&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X66vBxIAACAA34jN%22%29+%5D%5D",
+	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=Z7DM-REAACsAIDUb&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X66vBxIAACAA34jN%22%29+%5D%5D",
 	"tags": [],
 	"first_publication_date": "2020-11-13T16:09:33+0000",
-	"last_publication_date": "2022-04-06T18:21:57+0000",
+	"last_publication_date": "2025-02-08T08:39:15+0000",
 	"slugs": [
-		"home",
-		"happy-haloween"
+		"home"
 	],
 	"linked_documents": [],
 	"lang": "fr-fr",
@@ -20,15 +19,12 @@
 		"keywords": "Culture alternative, Musique indépendante, Articles, Webzine, X-TRACK",
 		"scrolling_news": [
 			{
-				"message": "BEST ”XTRACK“ OF THE WEEK : BURNINGFORESTBOY - MADEINPARIS - TORO Y MOI - PRIYA RAGU - TANK AND THE BANGAS - REMA - OXLADE - JOEBOY - SUNNI COLON - KNOW x GIANNI & KYLE"
-			},
-			{
-				"message": "PRINCESS NOKIA - STIEKZ x KALIBWOY - ROSALIA - FATOUMATA DIAWARA - TERRI - ARLO PARKS - VINCE STAPLES - NEZI MOMODU - PEET - SABRINA CLAUDIO & ++++"
+				"message": "+++++  BABY NOVA + HOPE TALA + SKIIFALL + NICK HUSTLES + MAHALIA X LILA IKE + MORTIMER + QUING MADI + HAILE + CHERISE X MEDUULLA + GREENTEA PENG + NIAMBI +  KNOWSUN X THEODOR + JESSIE REYEZ + JORJA SMITH + TENI & +++ ENJOY"
 			}
 		],
 		"pinned_posts": [
 			{
-				"position": 2,
+				"position": 1,
 				"link": {
 					"id": "X8fdvxAAACIAHZYU",
 					"type": "post",
@@ -38,288 +34,52 @@
 					"lang": "fr-fr",
 					"slug": "best-xtrack-of-the-week",
 					"first_publication_date": "2020-12-02T18:36:31+0000",
-					"last_publication_date": "2022-04-01T14:20:11+0000",
+					"last_publication_date": "2025-02-08T16:13:06+0000",
 					"uid": "bestxtrackoftheweek",
 					"link_type": "Document",
+					"key": "b4bde764-134b-4aec-ad98-8e93ea66a971",
 					"isBroken": false
 				}
 			},
 			{
-				"position": 5,
+				"position": 2,
 				"link": {
-					"id": "Yga-PBMAAB8ANeiQ",
+					"id": "X8dzhhAAACMAG6vq",
 					"type": "post",
 					"tags": [
-						"interview"
+						"article"
 					],
 					"lang": "fr-fr",
-					"slug": "15-minutes-avec-jacques",
-					"first_publication_date": "2022-02-12T17:47:29+0000",
-					"last_publication_date": "2022-03-24T23:31:51+0000",
-					"uid": "15minutes-avec-jacques",
+					"slug": "2025-is-the-year.-the-world-is-about-to-change",
+					"first_publication_date": "2020-12-02T10:59:22+0000",
+					"last_publication_date": "2024-12-30T12:57:47+0000",
+					"uid": "2025-is-the-year",
 					"link_type": "Document",
+					"key": "c8288b8c-addc-462e-ad17-0d1becedc1bb",
 					"isBroken": false
 				}
 			},
 			{
-				"position": 4,
+				"position": 3,
 				"link": {
 					"id": "YCkqAxAAACQAwHwo",
-					"type": "post",
-					"tags": [],
-					"lang": "fr-fr",
-					"slug": "mode-ethique--classe-ou-classiste-",
-					"first_publication_date": "2021-02-14T14:13:17+0000",
-					"last_publication_date": "2022-03-25T21:43:52+0000",
-					"uid": "page",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 6,
-				"link": {
-					"id": "YZ-skxEAACEA4eMR",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "paradigmes--entre-savoureux-scandales-et-cafe-theatre-police",
-					"first_publication_date": "2021-11-25T15:33:25+0000",
-					"last_publication_date": "2021-11-25T16:37:46+0000",
-					"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 7,
-				"link": {
-					"id": "YUyGvxEAACIAkvK-",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "yayayayoutube-ep-3--------------------------------------------------------------------------------------------------------------------------------------ophelie-summer",
-					"first_publication_date": "2021-09-23T13:55:50+0000",
-					"last_publication_date": "2021-09-29T15:18:54+0000",
-					"uid": "yayayayoutube-ep-3-ophelie-summer",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 8,
-				"link": {
-					"id": "YEj2QxEAACEArL1S",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "la-muse--une-icone-feministe-",
-					"first_publication_date": "2021-03-10T16:52:04+0000",
-					"last_publication_date": "2021-07-09T13:42:35+0000",
-					"uid": "la-muse--une-icone-feministe-",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 9,
-				"link": {
-					"id": "YEpnHxEAACIAstY0",
-					"type": "post",
-					"tags": [
-						"music"
-					],
-					"lang": "fr-fr",
-					"slug": "x-track-studio---biaziouka",
-					"first_publication_date": "2021-03-11T18:53:57+0000",
-					"last_publication_date": "2021-07-03T07:48:37+0000",
-					"uid": "x-track-studio---biaziouka",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 10,
-				"link": {
-					"id": "YHQcyRMAACIAlhIm",
-					"type": "post",
-					"tags": [
-						"music"
-					],
-					"lang": "fr-fr",
-					"slug": "feel-good",
-					"first_publication_date": "2021-04-12T10:24:45+0000",
-					"last_publication_date": "2022-03-18T22:18:39+0000",
-					"uid": "feel-good",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 11,
-				"link": {
-					"id": "YVRJFBEAACIAtSxK",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
-					"first_publication_date": "2021-09-29T11:12:03+0000",
-					"last_publication_date": "2021-09-29T15:26:49+0000",
-					"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 12,
-				"link": {
-					"id": "X8an0xAAACEAGCVO",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "les-apparences-trompeuses-du-pretty-privilege",
-					"first_publication_date": "2020-12-01T20:30:14+0000",
-					"last_publication_date": "2021-07-03T07:54:50+0000",
-					"uid": "les-apparences-trompeuses-du-pretty-privilege",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 13,
-				"link": {
-					"id": "X626VRIAACAA2uQG",
-					"type": "post",
-					"tags": [
-						"music",
-						"live session"
-					],
-					"lang": "fr-fr",
-					"slug": "nola-cherri",
-					"first_publication_date": "2020-11-12T22:42:44+0000",
-					"last_publication_date": "2021-01-18T16:19:00+0000",
-					"uid": "nola-cherri",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 14,
-				"link": {
-					"id": "X7BifRIAACAA5vti",
 					"type": "post",
 					"tags": [
 						"article",
 						"fashion"
 					],
 					"lang": "fr-fr",
-					"slug": "lavenir-de-la-mode-est-il-virtuel-",
-					"first_publication_date": "2020-11-14T23:04:41+0000",
-					"last_publication_date": "2021-02-02T18:09:17+0000",
-					"uid": "lavenir-de-la-mode-est-il-virtuel",
+					"slug": "mode-ethique--classe-ou-classiste-",
+					"first_publication_date": "2021-02-14T14:13:17+0000",
+					"last_publication_date": "2025-02-15T16:58:57+0000",
+					"uid": "la-mode-ethique-classe-ou-classiste",
 					"link_type": "Document",
+					"key": "60be3b3e-ab19-4c5b-a081-3363cf43f6c9",
 					"isBroken": false
 				}
 			},
 			{
-				"position": 15,
-				"link": {
-					"id": "Yj2a5hEAACAAiduu",
-					"type": "post",
-					"tags": [
-						"music"
-					],
-					"lang": "fr-fr",
-					"slug": "tropical",
-					"first_publication_date": "2022-03-25T10:41:37+0000",
-					"last_publication_date": "2022-03-25T22:08:27+0000",
-					"uid": "tropical",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 16,
-				"link": {
-					"id": "X8ZqGxAAACIAFwil",
-					"type": "post",
-					"tags": [
-						"video"
-					],
-					"lang": "fr-fr",
-					"slug": "yayayayoutube-ep-1---samantha-deep",
-					"first_publication_date": "2020-12-01T16:07:24+0000",
-					"last_publication_date": "2021-09-26T09:44:18+0000",
-					"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 17,
-				"link": {
-					"id": "YRJOCxUAAGJgQ4VA",
-					"type": "post",
-					"tags": [
-						"article",
-						"music"
-					],
-					"lang": "fr-fr",
-					"slug": "les-klon-hydre-pop-a-sept-tetes",
-					"first_publication_date": "2021-08-10T10:01:04+0000",
-					"last_publication_date": "2021-09-11T21:19:37+0000",
-					"uid": "les-klon-hydre-pop-a-sept-tetes",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 18,
-				"link": {
-					"id": "X8Z_bhAAACIAF2w1",
-					"type": "post",
-					"tags": [
-						"article",
-						"music"
-					],
-					"lang": "fr-fr",
-					"slug": "polycool",
-					"first_publication_date": "2020-12-01T17:38:07+0000",
-					"last_publication_date": "2021-08-16T11:40:30+0000",
-					"uid": "polycool",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 19,
-				"link": {
-					"id": "YIAfwxEAACQAWw-1",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "la-muse-une-icone-feministe--volet-2",
-					"first_publication_date": "2021-04-21T12:51:37+0000",
-					"last_publication_date": "2021-07-25T08:44:41+0000",
-					"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 20,
+				"position": 4,
 				"link": {
 					"id": "YCwYWRAAACQAzcqm",
 					"type": "post",
@@ -329,200 +89,15 @@
 					"lang": "fr-fr",
 					"slug": "new-romance",
 					"first_publication_date": "2021-02-16T19:10:37+0000",
-					"last_publication_date": "2022-02-28T11:03:03+0000",
+					"last_publication_date": "2024-11-21T21:43:39+0000",
 					"uid": "new-romance",
 					"link_type": "Document",
+					"key": "e2c82a3d-5b89-4c39-ba17-2c0608b97822",
 					"isBroken": false
 				}
 			},
 			{
-				"position": 21,
-				"link": {
-					"id": "YeA_0hEAACMA7DOm",
-					"type": "post",
-					"tags": [
-						"article",
-						"music"
-					],
-					"lang": "fr-fr",
-					"slug": "boys-noize-resonne-toujours-plus-fort",
-					"first_publication_date": "2022-01-13T15:24:15+0000",
-					"last_publication_date": "2022-01-13T20:19:34+0000",
-					"uid": "boys-noize-resonne-toujours-plus-fort",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 22,
-				"link": {
-					"id": "YUyGvxEAACIAkvK-",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "yayayayoutube-ep-3--------------------------------------------------------------------------------------------------------------------------------------ophelie-summer",
-					"first_publication_date": "2021-09-23T13:55:50+0000",
-					"last_publication_date": "2021-09-29T15:18:54+0000",
-					"uid": "yayayayoutube-ep-3-ophelie-summer",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 23,
-				"link": {
-					"id": "YddJ9BEAACAAlK_u",
-					"type": "post",
-					"tags": [
-						"music"
-					],
-					"lang": "fr-fr",
-					"slug": "afropop",
-					"first_publication_date": "2022-01-06T20:13:46+0000",
-					"last_publication_date": "2022-03-07T12:48:13+0000",
-					"uid": "afropop",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 24,
-				"link": {
-					"id": "YG8vqBMAACQAgEAI",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie-de-la-mode-",
-					"first_publication_date": "2021-04-08T16:32:10+0000",
-					"last_publication_date": "2021-04-09T11:31:17+0000",
-					"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 25,
-				"link": {
-					"id": "YPBPHhAAACEA3dtt",
-					"type": "post",
-					"tags": [],
-					"lang": "fr-fr",
-					"slug": "sam-quealy--nouvelle-papesse-techno-gabber-kitsch",
-					"first_publication_date": "2021-07-15T15:21:49+0000",
-					"last_publication_date": "2021-09-11T21:18:20+0000",
-					"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 26,
-				"link": {
-					"id": "X8dvrBAAACQAG5o2",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-					"first_publication_date": "2020-12-02T10:44:45+0000",
-					"last_publication_date": "2020-12-16T22:52:14+0000",
-					"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 27,
-				"link": {
-					"id": "X-yUFxEAACcAhxE2",
-					"type": "post",
-					"tags": [
-						"music"
-					],
-					"lang": "fr-fr",
-					"slug": "in-love",
-					"first_publication_date": "2020-12-30T14:52:10+0000",
-					"last_publication_date": "2022-03-14T17:47:42+0000",
-					"uid": "in-love",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 28,
-				"link": {
-					"id": "YIAfwxEAACQAWw-1",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "la-muse-une-icone-feministe--volet-2",
-					"first_publication_date": "2021-04-21T12:51:37+0000",
-					"last_publication_date": "2021-07-25T08:44:41+0000",
-					"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 29,
-				"link": {
-					"id": "X8aQShAAACQAF7qT",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "dont-call-me-babe",
-					"first_publication_date": "2020-12-01T18:49:48+0000",
-					"last_publication_date": "2021-09-29T15:04:06+0000",
-					"uid": "lhysterie",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 30,
-				"link": {
-					"id": "YYFgJhMAACUACiQC",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "leo-fifty-five-artiste-a-mille-pourcent",
-					"first_publication_date": "2021-11-02T16:05:53+0000",
-					"last_publication_date": "2021-11-02T16:47:13+0000",
-					"uid": "leo-fifty-five-artiste-a-mille-pourcent",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 31,
-				"link": {
-					"id": "YAcBjBEAACQAHZVv",
-					"type": "post",
-					"tags": [
-						"article"
-					],
-					"lang": "fr-fr",
-					"slug": "comment-les-planetes-se-sont-elles-invitees-sur-nos-ecrans",
-					"first_publication_date": "2021-01-19T16:09:36+0000",
-					"last_publication_date": "2021-07-03T07:47:35+0000",
-					"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 32,
+				"position": 5,
 				"link": {
 					"id": "X6kbAhIAACMAxjbs",
 					"type": "post",
@@ -532,82 +107,51 @@
 					"lang": "fr-fr",
 					"slug": "martin-parr",
 					"first_publication_date": "2020-11-10T12:59:45+0000",
-					"last_publication_date": "2020-12-15T06:20:52+0000",
+					"last_publication_date": "2024-09-08T11:59:27+0000",
 					"uid": "martin-parr",
 					"link_type": "Document",
+					"key": "20434e80-f81b-435a-8d08-79a32e927da4",
 					"isBroken": false
 				}
 			},
 			{
-				"position": 33,
+				"position": 6,
 				"link": {
-					"id": "YbI-oRAAACAAAdOn",
+					"id": "YHQcyRMAACIAlhIm",
 					"type": "post",
 					"tags": [
-						"music",
-						"article"
+						"music"
 					],
 					"lang": "fr-fr",
-					"slug": "misterkay--welcome-to-nigeria",
-					"first_publication_date": "2021-12-09T17:38:46+0000",
-					"last_publication_date": "2021-12-10T16:40:28+0000",
-					"uid": "misterkay--welcome-to-nigeria",
+					"slug": "feel-good",
+					"first_publication_date": "2021-04-12T10:24:45+0000",
+					"last_publication_date": "2025-01-18T10:31:23+0000",
+					"uid": "feel-good",
 					"link_type": "Document",
+					"key": "8c9c2f1e-395e-44be-94df-b5f9d718632e",
 					"isBroken": false
 				}
 			},
 			{
-				"position": 34,
+				"position": 7,
 				"link": {
-					"id": "YFNMQhIAACEAXSxI",
-					"type": "post",
-					"tags": [],
-					"lang": "fr-fr",
-					"slug": "manifesting-comment-nos-pensees-peuvent-elles-realiser-nos-reves",
-					"first_publication_date": "2021-03-18T12:49:32+0000",
-					"last_publication_date": "2021-03-18T18:01:34+0000",
-					"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 35,
-				"link": {
-					"id": "X8dzhhAAACMAG6vq",
+					"id": "X8an0xAAACEAGCVO",
 					"type": "post",
 					"tags": [
 						"article"
 					],
 					"lang": "fr-fr",
-					"slug": "2022-is-the-year.-the-world-is-about-to-change",
-					"first_publication_date": "2020-12-02T10:59:22+0000",
-					"last_publication_date": "2022-03-25T22:11:04+0000",
-					"uid": "2022-is-the-year",
+					"slug": "-",
+					"first_publication_date": "2020-12-01T20:30:14+0000",
+					"last_publication_date": "2024-03-31T08:20:52+0000",
+					"uid": "les-apparences-trompeuses-du-pretty-privilege",
 					"link_type": "Document",
+					"key": "9551e285-e3d2-4f4c-81db-3b12b8ef6bad",
 					"isBroken": false
 				}
 			},
 			{
-				"position": 3,
-				"link": {
-					"id": "Yj0AOBEAAB8Ahx1b",
-					"type": "post",
-					"tags": [
-						"music",
-						"live session"
-					],
-					"lang": "fr-fr",
-					"slug": "donzer",
-					"first_publication_date": "2022-03-24T23:42:13+0000",
-					"last_publication_date": "2022-04-06T18:28:26+0000",
-					"uid": "live-session-donzer-bleu-pisicne",
-					"link_type": "Document",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 1,
+				"position": 8,
 				"link": {
 					"id": "Yk3MhBAAACEAWxOr",
 					"type": "post",
@@ -618,9 +162,404 @@
 					"lang": "fr-fr",
 					"slug": "amaru",
 					"first_publication_date": "2022-04-06T18:08:42+0000",
-					"last_publication_date": "2022-04-06T18:30:32+0000",
+					"last_publication_date": "2024-09-11T07:31:45+0000",
 					"uid": "live-session-amaru",
 					"link_type": "Document",
+					"key": "dc5ad6d4-c1d3-4c7f-aff2-1722977c1120",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 9,
+				"link": {
+					"id": "YZ-skxEAACEA4eMR",
+					"type": "post",
+					"tags": [
+						"article"
+					],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2021-11-25T15:33:25+0000",
+					"last_publication_date": "2024-04-17T09:19:00+0000",
+					"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
+					"link_type": "Document",
+					"key": "ce2fd13a-2de4-40db-879d-5a9f4816b567",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 10,
+				"link": {
+					"id": "ZJb4TBAAACAA9JcV",
+					"type": "post",
+					"tags": [
+						"music"
+					],
+					"lang": "fr-fr",
+					"slug": "nice-day",
+					"first_publication_date": "2023-06-24T14:20:18+0000",
+					"last_publication_date": "2025-01-26T09:55:13+0000",
+					"uid": "nice-day",
+					"link_type": "Document",
+					"key": "621b9d99-0772-459f-aa51-6b863a25f2f0",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 11,
+				"link": {
+					"id": "X8dvrBAAACQAG5o2",
+					"type": "post",
+					"tags": [
+						"article"
+					],
+					"lang": "fr-fr",
+					"slug": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+					"first_publication_date": "2020-12-02T10:44:45+0000",
+					"last_publication_date": "2025-02-15T16:08:54+0000",
+					"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
+					"link_type": "Document",
+					"key": "6ffa383e-c4a1-4a1d-a841-234db50a7de0",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 12,
+				"link": {
+					"id": "X-yUFxEAACcAhxE2",
+					"type": "post",
+					"tags": [
+						"music"
+					],
+					"lang": "fr-fr",
+					"slug": "in-love",
+					"first_publication_date": "2020-12-30T14:52:10+0000",
+					"last_publication_date": "2024-07-22T09:06:51+0000",
+					"uid": "in-love",
+					"link_type": "Document",
+					"key": "f2863396-8468-44ac-b742-8f2c611ab69f",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 13,
+				"link": {
+					"id": "YG8vqBMAACQAgEAI",
+					"type": "post",
+					"tags": [
+						"article"
+					],
+					"lang": "fr-fr",
+					"slug": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie-de-la-mode-",
+					"first_publication_date": "2021-04-08T16:32:10+0000",
+					"last_publication_date": "2024-09-08T11:59:07+0000",
+					"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
+					"link_type": "Document",
+					"key": "61d1416d-d986-4d0e-81f8-3629e2a6b977",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 14,
+				"link": {
+					"id": "YD5ulREAACMAfiI_",
+					"type": "post",
+					"tags": [],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2021-03-02T17:03:19+0000",
+					"last_publication_date": "2024-03-24T08:28:57+0000",
+					"uid": "yayayayoutube-ep-2--fatima-antoinette",
+					"link_type": "Document",
+					"key": "4bd1ac3f-1a32-4485-827b-134915b797d6",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 15,
+				"link": {
+					"id": "YIAfwxEAACQAWw-1",
+					"type": "post",
+					"tags": [
+						"article"
+					],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2021-04-21T12:51:37+0000",
+					"last_publication_date": "2024-03-31T13:54:30+0000",
+					"uid": "si-le-terme-muse-jouit-encore-aujourdhui-dune-belle",
+					"link_type": "Document",
+					"key": "cdebc1a4-ab70-4459-aada-e68bcac3f020",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 16,
+				"link": {
+					"id": "Yj2a5hEAACAAiduu",
+					"type": "post",
+					"tags": [
+						"music"
+					],
+					"lang": "fr-fr",
+					"slug": "tropical",
+					"first_publication_date": "2022-03-25T10:41:37+0000",
+					"last_publication_date": "2025-02-06T15:47:19+0000",
+					"uid": "tropical",
+					"link_type": "Document",
+					"key": "2833775c-d5d8-4366-a34e-a9a389d31402",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 17,
+				"link": {
+					"id": "YFNMQhIAACEAXSxI",
+					"type": "post",
+					"tags": [],
+					"lang": "fr-fr",
+					"slug": "manifesting-comment-nos-pensees-peuvent-elles-realiser-nos-reves",
+					"first_publication_date": "2021-03-18T12:49:32+0000",
+					"last_publication_date": "2024-07-23T08:48:43+0000",
+					"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
+					"link_type": "Document",
+					"key": "c465bdf0-3ab2-4411-9084-35804ad0e41c",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 18,
+				"link": {
+					"id": "Yj0AOBEAAB8Ahx1b",
+					"type": "post",
+					"tags": [
+						"music",
+						"live session"
+					],
+					"lang": "fr-fr",
+					"slug": "donzer",
+					"first_publication_date": "2022-03-24T23:42:13+0000",
+					"last_publication_date": "2024-10-06T07:06:19+0000",
+					"uid": "live-session-donzer-bleu-pisicne",
+					"link_type": "Document",
+					"key": "2a908c3e-6292-4bd7-b2db-08b59076a3e9",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 19,
+				"link": {
+					"id": "X8aQShAAACQAF7qT",
+					"type": "post",
+					"tags": [
+						"article"
+					],
+					"lang": "fr-fr",
+					"slug": "dont-call-me-babe",
+					"first_publication_date": "2020-12-01T18:49:48+0000",
+					"last_publication_date": "2024-10-06T07:06:49+0000",
+					"uid": "lhysterie",
+					"link_type": "Document",
+					"key": "3c618cd2-4589-4f19-95a4-d7904f32cd09",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 20,
+				"link": {
+					"id": "ZNSnEhEAACIAV4XK",
+					"type": "post",
+					"tags": [],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2023-08-10T09:21:35+0000",
+					"last_publication_date": "2024-03-30T23:57:48+0000",
+					"uid": "chill-hip-hop-from-90s",
+					"link_type": "Document",
+					"key": "d0fafe62-c11c-4c18-9127-745cddc3a5cc",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 21,
+				"link": {
+					"id": "X626VRIAACAA2uQG",
+					"type": "post",
+					"tags": [
+						"music",
+						"live session"
+					],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2020-11-12T22:42:44+0000",
+					"last_publication_date": "2024-04-16T22:47:56+0000",
+					"uid": "nola-cherri",
+					"link_type": "Document",
+					"key": "2e2059fa-a7e5-46c4-b17f-b5baa4232d22",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 22,
+				"link": {
+					"id": "X7BifRIAACAA5vti",
+					"type": "post",
+					"tags": [
+						"article",
+						"fashion"
+					],
+					"lang": "fr-fr",
+					"slug": "lavenir-de-la-mode-est-il-virtuel-",
+					"first_publication_date": "2020-11-14T23:04:41+0000",
+					"last_publication_date": "2025-02-15T17:20:57+0000",
+					"uid": "lavenir-de-la-mode-est-il-virtuel",
+					"link_type": "Document",
+					"key": "50fb3b96-61a3-4721-82bb-2a9b1fd05e79",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 24,
+				"link": {
+					"id": "Y4N02xEAAB8A_3x8",
+					"type": "broken_type",
+					"tags": [],
+					"lang": null,
+					"slug": "-",
+					"first_publication_date": null,
+					"last_publication_date": null,
+					"link_type": "Document",
+					"key": "e6465ab1-a69a-4036-844c-cd7a8c70e2f4",
+					"isBroken": true
+				}
+			},
+			{
+				"position": 25,
+				"link": {
+					"id": "X8ZqGxAAACIAFwil",
+					"type": "post",
+					"tags": [
+						"video"
+					],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2020-12-01T16:07:24+0000",
+					"last_publication_date": "2024-03-16T19:05:59+0000",
+					"uid": "yayayayoutube-ep-1-samantha-deep",
+					"link_type": "Document",
+					"key": "df76f35b-70b5-4fba-9df6-20e50baf1a4f",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 26,
+				"link": {
+					"id": "Zf6jYRcAALMY4kOc",
+					"type": "post",
+					"tags": [
+						"music"
+					],
+					"lang": "fr-fr",
+					"slug": "slow-dance",
+					"first_publication_date": "2024-03-23T10:00:30+0000",
+					"last_publication_date": "2025-01-26T19:40:29+0000",
+					"uid": "slow-dance",
+					"link_type": "Document",
+					"key": "855f84ab-0ef7-4573-a721-a6e16f8c8a0c",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 27,
+				"link": {
+					"id": "YEpnHxEAACIAstY0",
+					"type": "post",
+					"tags": [
+						"music",
+						"live session"
+					],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2021-03-11T18:53:57+0000",
+					"last_publication_date": "2024-03-30T10:00:16+0000",
+					"uid": "x-track-studio---biaziouka",
+					"link_type": "Document",
+					"key": "f2bcee55-f566-4ba0-a9ce-361366e577c8",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 28,
+				"link": {
+					"id": "YRJOCxUAAGJgQ4VA",
+					"type": "post",
+					"tags": [
+						"article",
+						"music"
+					],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2021-08-10T10:01:04+0000",
+					"last_publication_date": "2024-03-25T10:33:30+0000",
+					"uid": "les-klon-hydre-pop-a-sept-tetes",
+					"link_type": "Document",
+					"key": "7571693c-cec1-4c78-a4d0-408360bb04bd",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 29,
+				"link": {
+					"id": "Yn1xrRAAACMAxEmV",
+					"type": "post",
+					"tags": [
+						"music",
+						"live session"
+					],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2022-05-12T21:25:23+0000",
+					"last_publication_date": "2024-03-27T05:41:25+0000",
+					"uid": "live-session-badbiche",
+					"link_type": "Document",
+					"key": "2ed21a6b-800a-45ae-96d9-0cd4c6c3a079",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 30,
+				"link": {
+					"id": "YPBPHhAAACEA3dtt",
+					"type": "post",
+					"tags": [
+						"article",
+						"music"
+					],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2021-07-15T15:21:49+0000",
+					"last_publication_date": "2024-03-27T05:41:46+0000",
+					"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
+					"link_type": "Document",
+					"key": "2ef24129-f2ee-405d-915f-47909fad8826",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 31,
+				"link": {
+					"id": "YVRJFBEAACIAtSxK",
+					"type": "post",
+					"tags": [
+						"article"
+					],
+					"lang": "fr-fr",
+					"slug": "-",
+					"first_publication_date": "2021-09-29T11:12:03+0000",
+					"last_publication_date": "2024-03-27T05:42:07+0000",
+					"uid": "braqueurs-la-serie-de-julien-leclercq--une-musique-fracassante-signee-x-track",
+					"link_type": "Document",
+					"key": "85f0d46b-8c7c-4be0-9a44-d867b9e833b3",
 					"isBroken": false
 				}
 			}
@@ -634,11 +573,12 @@
 						"video"
 					],
 					"lang": "fr-fr",
-					"slug": "yayayayoutube-ep-1---samantha-deep",
+					"slug": "-",
 					"first_publication_date": "2020-12-01T16:07:24+0000",
-					"last_publication_date": "2021-09-26T09:44:18+0000",
-					"uid": "episode-1--tuto--comment-preparer-un-martini-dry",
+					"last_publication_date": "2024-03-16T19:05:59+0000",
+					"uid": "yayayayoutube-ep-1-samantha-deep",
 					"link_type": "Document",
+					"key": "5a7d6ad3-9a0a-427b-97d9-be6f98b9ccac",
 					"isBroken": false
 				}
 			},
@@ -653,9 +593,10 @@
 					"lang": "fr-fr",
 					"slug": "lavenir-de-la-mode-est-il-virtuel-",
 					"first_publication_date": "2020-11-14T23:04:41+0000",
-					"last_publication_date": "2021-02-02T18:09:17+0000",
+					"last_publication_date": "2025-02-15T17:20:57+0000",
 					"uid": "lavenir-de-la-mode-est-il-virtuel",
 					"link_type": "Document",
+					"key": "6473cacc-18a8-4834-b8db-10277b241696",
 					"isBroken": false
 				}
 			},
@@ -669,9 +610,10 @@
 					"lang": "fr-fr",
 					"slug": "feel-good",
 					"first_publication_date": "2021-04-12T10:24:45+0000",
-					"last_publication_date": "2022-03-18T22:18:39+0000",
+					"last_publication_date": "2025-01-18T10:31:23+0000",
 					"uid": "feel-good",
 					"link_type": "Document",
+					"key": "236031c9-1246-4b03-b960-a3e834a8b6e9",
 					"isBroken": false
 				}
 			},
@@ -683,12 +625,18 @@
 						"article"
 					],
 					"lang": "fr-fr",
-					"slug": "la-muse--une-icone-feministe-",
+					"slug": "-",
 					"first_publication_date": "2021-03-10T16:52:04+0000",
-					"last_publication_date": "2021-07-09T13:42:35+0000",
+					"last_publication_date": "2024-03-30T23:57:32+0000",
 					"uid": "la-muse--une-icone-feministe-",
 					"link_type": "Document",
+					"key": "44cc5745-1452-41e2-ab8f-331d4491b1d3",
 					"isBroken": false
+				}
+			},
+			{
+				"link": {
+					"link_type": "Any"
 				}
 			}
 		]
