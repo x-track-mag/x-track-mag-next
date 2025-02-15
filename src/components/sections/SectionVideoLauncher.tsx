@@ -1,8 +1,21 @@
-import { Box, Grid, GridItem, Flex, AspectRatio } from "@chakra-ui/react";
-import ReactPlayer from "react-player";
+import {
+	Box,
+	Grid,
+	GridItem,
+	Flex,
+	AspectRatio,
+	type ResponsiveObject,
+	type SystemProps,
+} from "@chakra-ui/react";
+import dynamic from "next/dynamic";
 import { Container, Title, Subtitle, RichText } from "@components/base";
 import { SvgPlayerIcon } from "@components/icons";
 import { calcRatio } from "@lib/utils/ratio";
+
+/**
+ * Avoid an hydration error with ReactPlayer
+ */
+const ReactPlayer = dynamic(() => import("react-player"), { ssr: false });
 
 /**
  * A two columns/responsive container with a rich text column and a video media player
@@ -27,7 +40,7 @@ export const SectionVideoLauncher = ({
 
 	const templateColumns = {
 		base: "100%",
-	};
+	} as ResponsiveObject<SystemProps["gridTemplateColumns"]>;
 	const twoColumns = disposition.includes("|");
 	const textFirst = disposition.indexOf("Texte") === 0;
 	if (twoColumns) {
