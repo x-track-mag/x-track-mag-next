@@ -4,7 +4,7 @@
 		"article",
 		"fashion"
 	],
-	"publication_date": "2024-04-07T11:15:17+0000",
+	"publication_date": "2025-02-15T17:20:57+0000",
 	"title": "L’Avenir de la Mode est-il virtuel ?",
 	"subtitle": "",
 	"text_color": "white",
@@ -53,7 +53,8 @@
 				{
 					"type": "paragraph",
 					"text": "À l’heure où la crise sanitaire est au plus fort, le secteur de la mode est, lui aussi, en mutation profonde. ",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
@@ -64,7 +65,8 @@
 							"end": 448,
 							"type": "strong"
 						}
-					]
+					],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
@@ -75,32 +77,31 @@
 							"end": 501,
 							"type": "em"
 						}
-					]
+					],
+					"direction": "ltr"
 				},
 				{
 					"type": "heading2",
 					"text": "Imaginer un monde virtuel, une solution viable ? ",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
 					"text": "",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
-					"text": "Pour Lena Novello, créatrice du studio Infinity: « À partir du moment ou l’on peut animer du vêtement et créer de l’environnement virtuel, tout type de contenu est possible à réaliser. Les logiciels de visualisation, modélisation et simulation de vêtements 3D sont des outils extrêmement précis. Ils constituent également un vrai accélérateur dans le process de pré-production et de validation des samples. La mode est un catalyseur de création et le match avec virtuel semble évident en ce qu'il offre de nouveaux moyens d’expression, de story- telling et de narration ».",
-					"spans": []
-				}
-			]
-		},
-		{
-			"template": "section-full-text",
-			"text": [
+					"text": "Pour Lena Novello, créatrice du studio Infinity: « À partir du moment ou l’on peut animer du vêtement et créer de l’environnement virtuel, tout type de contenu est possible à réaliser. Les logiciels de visualisation, modélisation et simulation de vêtements 3D sont des outils extrêmement précis. Ils constituent également un vrai accélérateur dans le process de pré-production et de validation des samples. La mode est un catalyseur de création et le match avec virtuel semble évident en ce qu'il offre de nouveaux moyens d’expression, de story- telling et de narration ».\n\n",
+					"spans": [],
+					"direction": "ltr"
+				},
 				{
 					"type": "image",
-					"url": "https://images.prismic.io/x-track-mag/97a5cd6d-49ba-4fb6-a9b9-33e11be887d9_CYBER-FASHION-XTRACK-.jpg?auto=compress,format",
-					"alt": " ",
+					"url": "https://images.prismic.io/x-track-mag/97a5cd6d-49ba-4fb6-a9b9-33e11be887d9_CYBER-FASHION-XTRACK-.jpg?auto=format,compress",
+					"alt": "Cyber Fashion",
 					"copyright": null,
 					"dimensions": {
 						"width": 1080,
@@ -111,7 +112,7 @@
 						"x": 0,
 						"y": 0,
 						"zoom": 1,
-						"background": "#fff"
+						"background": "transparent"
 					}
 				}
 			]

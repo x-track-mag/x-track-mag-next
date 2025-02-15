@@ -3,13 +3,13 @@
 	"tags": [
 		"article"
 	],
-	"publication_date": "2024-09-11T07:31:22+0000",
+	"publication_date": "2025-02-15T16:08:54+0000",
 	"title": "La mode éthique, ou l’explosion de l’upcycling",
 	"subtitle": "",
 	"text_color": "white",
 	"image": {
 		"url": "https://images.prismic.io/x-track-mag/2942d99e-735f-4bf5-bf92-58ab44f3828c_000+%281%29.jpg?auto=compress,format",
-		"alt": null,
+		"alt": "Sac à main",
 		"copyright": null,
 		"width": 744,
 		"height": 1080,
@@ -26,17 +26,14 @@
 				{
 					"type": "heading2",
 					"text": "La mode éthique, ou l’explosion de l’upcycling ",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
 					"text": "",
-					"spans": []
-				},
-				{
-					"type": "paragraph",
-					"text": "",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
@@ -47,12 +44,14 @@
 							"end": 357,
 							"type": "em"
 						}
-					]
+					],
+					"direction": "ltr"
 				},
 				{
 					"type": "paragraph",
 					"text": "Mais alors comment les marques envisagent l’intégration de valeurs éthiques - devenues gage de confiance- pour des clients en quête de sens ? ",
-					"spans": []
+					"spans": [],
+					"direction": "ltr"
 				}
 			]
 		},
@@ -281,7 +280,7 @@
 			"subtitle": null,
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/4aa54843-9370-4038-af60-cf2c0e2449de_MAISON+MOUCEL.jpg?auto=compress,format",
-				"alt": null,
+				"alt": "Big Trouble",
 				"copyright": null,
 				"width": 1800,
 				"height": 1200,

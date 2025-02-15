@@ -1,0 +1,378 @@
+{
+	"uid": "la-mode-ethique-classe-ou-classiste",
+	"tags": [
+		"article",
+		"fashion"
+	],
+	"publication_date": "2025-02-15T16:58:57+0000",
+	"title": "Mode éthique : classe ou classiste ?",
+	"subtitle": "",
+	"text_color": "white",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+		"alt": "Pink glow",
+		"copyright": null,
+		"width": 1920,
+		"height": 1400,
+		"ratio": 1.3714285714285714
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "Camille Laurens",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "La mode éthique : classe ou classiste ?                              ",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Upcycler, digitaliser, dénoncer, autant de termes qui ont le vent en poupe avec le boom d’une mode durable. Si les nouvelles initiatives du luxe et prêt à penser pour penser éco-responsable explosent, elles creusent encore plus les disparités sociales. Pourquoi la mode éthique est-elle l’apanage des classes aisées  ?   ",
+					"spans": [
+						{
+							"start": 0,
+							"end": 321,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Consommer moins pour vivre mieux ? Une évidence. Qui ne préférerait pas profiter d’un produit de qualité, fait de manière pensée et réfléchie pour qu’il réponde au label trendy du moment : “éthique”. Les marques comme le Slip Français se targuent de leur appellation Made In France, ou les baskets Veja, fabriquées en coton agro-écologique au Brésil qui ont vu leur vente décoller -si bien qu’une boutique vient d’ouvrir à Paris- ou encore Ninety Percent, qui propose des pièces fabriquées à partir de fibres durables (polyester recyclé ou coton biologique). ",
+					"spans": [
+						{
+							"start": 221,
+							"end": 235,
+							"type": "em"
+						},
+						{
+							"start": 267,
+							"end": 281,
+							"type": "em"
+						},
+						{
+							"start": 298,
+							"end": 302,
+							"type": "em"
+						},
+						{
+							"start": 440,
+							"end": 454,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Des initiatives remarquées et remarquables sauf qu’un point reste notifiable : les prix. Pour des baskets Veja compter 125€, une combinaison jogging Ninety Percent, presque 200€, et un slip entre 25 et 35€ pour qu’ils soient durables. ",
+					"spans": [
+						{
+							"start": 106,
+							"end": 111,
+							"type": "em"
+						},
+						{
+							"start": 149,
+							"end": 165,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "Lorsque Virgil Abloh déclare à l’Officiel en 2019, “Je pense que nous sommes à l'aube d'une nouvelle renaissance. Avec internet et tous les médiums d'aujourd'hui, notre regard sur le passé évolue, nos opinions se forgent autrement et chacun peut inventer son propre destin.\", sans nul doute, il s’adresse à une strate précise de citoyens. S’habiller de manière consciente a un prix. Même s’il ne s’agit pas de produits de luxe, les vêtements sont le fruit d’une distinction sociale. Or, tout comme dans le choix d’une alimentation plus saine, certains ont accès à des articles que d’autres ne peuvent acquérir. La mise en parallèle est simple. Culpabiliser les adeptes de la fast-fashion, c’est mettre en exergue une réalité : l’élitisme et le snobisme des classes aisées.  ",
+					"spans": [
+						{
+							"start": 52,
+							"end": 274,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "heading2",
+					"text": "",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "La mode durable : un miroir aux alouettes ?",
+					"spans": [
+						{
+							"start": 0,
+							"end": 43,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/8ef35ae8-da4e-4b3e-8e67-7d9ed131c34e_XTRAKC+ALICE+ET+CAMILLE.png?auto=compress,format&rect=0,0,1442,1664&w=1024&h=1182",
+					"alt": "Vidéo call",
+					"copyright": null,
+					"width": 1024,
+					"height": 1182,
+					"ratio": 0.8663282571912013
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Il y a un énorme gap entre une toute petite élite qui peut consommer mieux, avoir une charte de valeur accrochée à leur produit qui coûte beaucoup plus cher, et la plus grosse partie de la population qui représente la masse consommatoire qui ne peut absolument pas se le permettre. On peut accuser la mode éthique de classisme",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "C'est ce que nous dit, Alice Pfeiffer, sociologue et journaliste de la mode, écrivaine de Je ne suis pas parisienne. De la même manière qu’avoir accès à des produits locaux, bio, 100% terroir français, la condition d’une personne aisée classique dépend de deux facteurs : le temps et l’argent. Ils lui permettent de consommer mieux. Mais au prisme de ces deux postulats, cela reflète des écarts réels entre deux classes de la population, ceux qui ont la possibilité, et ceux qui ne l’ont pas ",
+					"spans": [
+						{
+							"start": 90,
+							"end": 117,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Il y a un fossé entre une bourgeoisie que l'on' félicite, et le reste de la population qui subit un processus de shaming, alors que l’offre actuelle n’est destinée qu’à une frange minime",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Une affirmation d’autant plus accentuée depuis que la fast-fashion est pointée du doigt en raison des méthodes employées pour produire cette consommation de masse : condition de travail inhumaine, pollution et impact écologique conséquent, ces condamnations sont recevables mais elles accentuent une sensation de honte pour les acheteurs de ces produits, qui sont désignés comme responsables. “Il n’y a qu’un pan des marques qui peut se vanter d’être 100% éthique, comme Patagonia, Manifeste011 ou Vivienne Westwood. Pour le reste c’est beaucoup de Greenwashing, censée embellir l’image mais sans réelles intentions derrière ».",
+					"spans": [
+						{
+							"start": 54,
+							"end": 66,
+							"type": "em"
+						},
+						{
+							"start": 394,
+							"end": 627,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": " Le problème viendrait donc autant des marques que des consommateurs. Mais alors comment produire mieux sans pour autant exclure les citoyens qui n’ont pas le privilège de dépenser dans des marques durables au coût élevé ?",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": true,
+			"text": [],
+			"link": {
+				"height": 150,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=PTDBYbphrSM",
+				"type": "video",
+				"version": "1.0",
+				"title": "Entretien avec Alice Pfeiffer. La mode éthique classe ou classiste ?",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
+				"thumbnail_url": "https://i.ytimg.com/vi/PTDBYbphrSM/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/PTDBYbphrSM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+			},
+			"ratio": "16/9",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/eae432f7-aa37-456c-99c0-5d22607874d4_Capture+d%E2%80%99e%CC%81cran+2021-02-14+a%CC%80+15.03.08.png?auto=compress,format",
+				"alt": "Vidéo call",
+				"copyright": null,
+				"width": 1456,
+				"height": 1674,
+				"ratio": 0.8697729988052568
+			},
+			"disposition": "Texte | Video"
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "heading2",
+					"text": "Des solutions concrètes : entre influence et upcycling",
+					"spans": [
+						{
+							"start": 0,
+							"end": 54,
+							"type": "strong"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Car le problème de fond se cristallise également autour de notre rapport à la consommation. Pour donner un exemple, une femme achète en moyenne 30 kg de textile par an. Mieux encore, 60 % des Français déclarent posséder des vêtements qu’ils ne portent jamais. Rubi Pigeon, influenceuse et créatrice de mode éthique appuie :",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Si la mode est la deuxième industrie la plus polluante au monde, c’est aussi à cause du réflexe consommatoire inculqué par la société. On achète de manière compulsive, sans réfléchir aux conséquences. Il faut définitivement changer les mentalités par l’éducation mais aussi le savoir-faire",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Apprendre à acheter de la deuxième main, puis coudre et styliser ses habits grâce à des tutos, voici le défi de taille que s’est lancé Rubi. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Et surtout bannir les marques de type “usine” qui produisent sans interruption et condamnent la mode à être responsable d’un quart du budget carbone mondial d'ici 2050. Aujourd’hui, avec internet et notamment Instagram, le processus de création est plus rapide que jamais, changer les méthodes, voilà la clé de voûte d’une mode éthique. ",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-quote",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Aujourd’hui il faut prôner plus le faire que l’acheter. L’influence et les réseaux permettent d'ouvrir des champs de possibilités qui mettent à mal les institutions démodées, comme la Fashion Week. Mon but n’est absolument pas de culpabiliser les gens mais de leur apprendre à être rock and roll avec pas grand chose. Pas besoin d’être Karl Lagerfeld pour avoir du style",
+					"spans": []
+				}
+			]
+		},
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Et c’est peu dire, avec le confinement et la fermeture des boutiques, son compte a pris 20 000 followers, la période pousse à la créativité. Et depuis, sa communauté s’intéresse aux conseils pratiques de la créatrice : “assembler des matières, oser l’oversize, mixer les boutons, le champ des possibles est immense mais il faut surtout s’amuser, la mode c’est du fun avant tout !” Loin des boutiques traditionnelles, et home-made, les habitudes évoluent. Un nouveau rapport au style, à la mode et aux vêtements, voilà l’une des solutions viables d’un monde durable.“Un conseil ? Se lancer, même si cela demande du temps, et un peu d’audace, se fabriquer une ou deux pièces c’est super plaisant !” s’amuse Rubi. Et c’est un beau début, car oui, fabriquer ses vêtements demande un certain investissement, luxe qui encore une fois, est possible pour une classe de population distincte. ",
+					"spans": [
+						{
+							"start": 219,
+							"end": 379,
+							"type": "em"
+						},
+						{
+							"start": 566,
+							"end": 696,
+							"type": "em"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"text": "",
+					"spans": []
+				},
+				{
+					"type": "paragraph",
+					"text": "Si la solution miracle semble encore loin d’être évidente, les pensées évoluent et permettent peu à peu l’émergence d’actions ayant un impact direct sur notre mode de consommation et donc la mode. Même si le chemin semble long au vue des skills coutures de certain.es, on y croit, pour la bonne cause ! ",
+					"spans": [
+						{
+							"start": 238,
+							"end": 244,
+							"type": "em"
+						}
+					]
+				}
+			]
+		},
+		{
+			"template": "section-video-launcher",
+			"display_article_title": true,
+			"text": [],
+			"link": {
+				"height": 150,
+				"width": 200,
+				"embed_url": "https://www.youtube.com/watch?v=2HJpuIS8lh8",
+				"type": "video",
+				"version": "1.0",
+				"title": "Entretien avec Rubi pigeon. La mode éthique classe ou classiste ?",
+				"author_name": "XTrack Mag",
+				"author_url": "https://www.youtube.com/user/TheRadioXtrack",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"cache_age": null,
+				"thumbnail_url": "https://i.ytimg.com/vi/2HJpuIS8lh8/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/2HJpuIS8lh8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+			},
+			"ratio": "16/9",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/bed88fa3-2204-4b7d-843a-1a564f40010a_Capture+d%E2%80%99e%CC%81cran+2021-03-24+a%CC%80+19.28.03.png?auto=compress,format",
+				"alt": "Vidéo call",
+				"copyright": null,
+				"width": 1418,
+				"height": 1632,
+				"ratio": 0.8688725490196079
+			},
+			"disposition": "Texte | Video"
+		}
+	],
+	"description": "La mode éthique : classe ou classiste ?                              "
+}
