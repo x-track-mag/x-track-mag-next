@@ -3,10 +3,10 @@
 	"uid": "home",
 	"url": null,
 	"type": "home",
-	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=Z7DM-REAACsAIDUb&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X66vBxIAACAA34jN%22%29+%5D%5D",
+	"href": "https://x-track-mag.cdn.prismic.io/api/v2/documents/search?ref=Z7EhfhEAACcAILEL&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22X66vBxIAACAA34jN%22%29+%5D%5D",
 	"tags": [],
 	"first_publication_date": "2020-11-13T16:09:33+0000",
-	"last_publication_date": "2025-02-08T08:39:15+0000",
+	"last_publication_date": "2025-02-15T23:21:34+0000",
 	"slugs": [
 		"home"
 	],
@@ -56,25 +56,6 @@
 					"uid": "2025-is-the-year",
 					"link_type": "Document",
 					"key": "c8288b8c-addc-462e-ad17-0d1becedc1bb",
-					"isBroken": false
-				}
-			},
-			{
-				"position": 3,
-				"link": {
-					"id": "YCkqAxAAACQAwHwo",
-					"type": "post",
-					"tags": [
-						"article",
-						"fashion"
-					],
-					"lang": "fr-fr",
-					"slug": "mode-ethique--classe-ou-classiste-",
-					"first_publication_date": "2021-02-14T14:13:17+0000",
-					"last_publication_date": "2025-02-15T16:58:57+0000",
-					"uid": "la-mode-ethique-classe-ou-classiste",
-					"link_type": "Document",
-					"key": "60be3b3e-ab19-4c5b-a081-3363cf43f6c9",
 					"isBroken": false
 				}
 			},
@@ -166,6 +147,25 @@
 					"uid": "live-session-amaru",
 					"link_type": "Document",
 					"key": "dc5ad6d4-c1d3-4c7f-aff2-1722977c1120",
+					"isBroken": false
+				}
+			},
+			{
+				"position": 3,
+				"link": {
+					"id": "YCkqAxAAACQAwHwo",
+					"type": "post",
+					"tags": [
+						"article",
+						"fashion"
+					],
+					"lang": "fr-fr",
+					"slug": "mode-ethique--classe-ou-classiste-",
+					"first_publication_date": "2021-02-14T14:13:17+0000",
+					"last_publication_date": "2025-02-15T16:58:57+0000",
+					"uid": "la-mode-ethique-classe-ou-classiste",
+					"link_type": "Document",
+					"key": "60be3b3e-ab19-4c5b-a081-3363cf43f6c9",
 					"isBroken": false
 				}
 			},
