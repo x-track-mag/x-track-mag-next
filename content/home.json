@@ -16,7 +16,7 @@
 		},
 		{
 			"position": 3,
-			"uid": "page"
+			"uid": "la-mode-ethique-classe-ou-classiste"
 		},
 		{
 			"position": 4,
@@ -216,18 +216,18 @@
 			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		},
 		{
-			"uid": "page",
+			"uid": "la-mode-ethique-classe-ou-classiste",
 			"tags": [
 				"article",
 				"fashion"
 			],
-			"publication_date": "2024-07-23T08:48:23+0000",
-			"title": "Mode éthique : classe ou classiste ?            ",
+			"publication_date": "2025-02-15T16:58:57+0000",
+			"title": "Mode éthique : classe ou classiste ?",
 			"subtitle": "",
 			"text_color": "white",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": null,
+				"alt": "Pink glow",
 				"copyright": null,
 				"width": 1920,
 				"height": 1400,
