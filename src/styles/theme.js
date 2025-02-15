@@ -1,14 +1,13 @@
 // 1. Import the extendTheme function
 import { extendTheme } from "@chakra-ui/react";
-import { createBreakpoints } from "@chakra-ui/theme-tools";
 
 // 2. Update the breakpoints as key-value pairs
-const breakpoints = createBreakpoints({
+const breakpoints = {
 	sm: "640px",
 	md: "1024px",
 	lg: "1400px",
 	xl: "1920px"
-});
+};
 
 const brandGreen = "#58ff00";
 const brandOrange = "#f70";

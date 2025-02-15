@@ -1,0 +1,44 @@
+/* Typography
+/* --------------------------------------- */
+
+@font-face {
+	font-family: UnbProLight;
+	src: url("/fonts/UnbProLight.woff2") format("woff2"),
+		url("/fonts/UnbProLight.woff") format("woff"),
+		url("/fonts/UnbProLight.otf") format("otf");
+	font-weight: 300;
+}
+@font-face {
+	font-family: UnbProRegular;
+	src: url("/fonts/UnbProRegular.woff2") format("woff2"),
+		url("/fonts/UnbProRegular.woff") format("woff"),
+		url("/fonts/UnbProRegular.otf") format("otf");
+	font-weight: 500;
+}
+@font-face {
+	font-family: UnbProItalicRegular;
+	src: url("/fonts/UnbProItalicRegular.woff2") format("woff2"),
+		url("/fonts/UnbProItalicRegular.woff") format("woff"),
+		url("/fonts/UnbProItalicRegular.otf") format("otf");
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: Arachne;
+	src: url("/fonts/Arachne.woff2") format("woff2"),
+		url("/fonts/Arachne.woff") format("woff");
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: PressGothicPro;
+	src: url("/fonts/PressGothicPro.woff2") format("woff2"),
+		url("/fonts/PressGothicPro.woff") format("woff"),
+		url("/fonts/PressGothicPro.otf") format("otf");
+	font-weight: 700;
+}
+
+::selection {
+	color: #f70;
+	background-color: #58ff00;
+}
