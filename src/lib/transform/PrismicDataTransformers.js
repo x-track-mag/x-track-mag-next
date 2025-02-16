@@ -56,12 +56,12 @@ export const fixMediaLink = ({ link }) => {
  *  "video_loop": {
 		"type": "Media"
 	}
- * @param {Object} videoProp 
- * @return {VideoDescr}
+ * Drop uneeded props like size type
+ * @param {PrimicVideoDescr} videoProp 
  */
-export const fixVideo = ({ name, url, size }) => {
+export const fixVideo = ({ name, url }) => {
 	if (!url) return null;
-	return { name, url, size };
+	return { name, url };
 };
 
 /**
@@ -73,7 +73,7 @@ const textColors = [
 	"black", // 2. Noir
 	"green", // 3. Vert
 	"orange", // 4. Orange
-	"inverted" // 5. Inversé
+	"inverted", // 5. Inversé
 ];
 
 export const decodeTextColor = (choice) =>
@@ -101,12 +101,14 @@ export const transformSection = (sectionData) => {
 		sectionFields.playlist = sectionData.items.map(fixMediaLink);
 	}
 	if (template === "section-gallery") {
-		sectionFields.gallery = sectionData.items.map(({ image }) => fixImage(image));
+		sectionFields.gallery = sectionData.items.map(({ image }) =>
+			fixImage(image)
+		);
 	}
 
 	return {
 		template,
-		...sectionFields
+		...sectionFields,
 	};
 };
 
@@ -117,72 +119,79 @@ export const transformSection = (sectionData) => {
  * @param {Boolean} [options.withSections=false] Include the sections
  * @return {Function}
  */
-export const transformPost = ({ withSections = false }) => (postData) => {
-	// Optimization : check to see if postData has allready be flattened
-	if (postData.data === undefined) {
-		if (withSections) return postData;
-		const { sections, ...resume } = postData;
-		return { ...resume };
-	}
-
-	// Extract the relevant metadata first
-	const { uid, tags, last_publication_date, data } = postData;
-
-	// Extract the main body informations
-	let {
-		title,
-		subtitle,
-		text_color,
-		description = "",
-		image,
-		video_loop,
-		template,
-		author,
-		internal_link
-	} = data;
-
-	// Flatten the title and subtitle as they are (useless) StructuredText
-	title = title[0] ? title[0].text : "";
-	subtitle = subtitle[0] ? subtitle[0].text : "";
-	internal_link = fixLink(internal_link);
-
-	const post = template // only posts have the `template` property while static pages have not
-		? {
-				uid,
-				tags,
-				publication_date: last_publication_date,
-				title,
-				subtitle,
-				text_color: decodeTextColor(text_color),
-				image: fixImage(image),
-				video_loop: fixVideo(video_loop),
-				template,
-				author,
-				internal_link
-		  }
-		: {
-				uid,
-				publication_date: last_publication_date,
-				title,
-				subtitle
-		  };
-
-	if (withSections) {
-		const sections = (post.sections = data.sections.map(transformSection));
-		if (description) {
-			post.description = description;
-		} else {
-			// Try to extract the first chapter text as description
-			const firstTextChapter = sections.find(
-				(section) => section.text && section.text.length > 0
-			);
-			post.description = firstTextChapter ? firstTextChapter.text[0].text : "";
+export const transformPost =
+	({ withSections = false }) =>
+	(postData) => {
+		// Optimization : check to see if postData has allready be flattened
+		if (postData.data === undefined) {
+			if (withSections) return postData;
+			const { sections, ...resume } = postData;
+			return { ...resume };
 		}
-		console.log(`Extracted the description : ${post.description} for post ${uid}`);
-	}
 
-	return post;
-};
+		// Extract the relevant metadata first
+		const { uid, tags, last_publication_date, data } = postData;
+
+		// Extract the main body informations
+		let {
+			title,
+			subtitle,
+			text_color,
+			description = "",
+			image,
+			video_loop,
+			template,
+			author,
+			internal_link,
+		} = data;
+
+		// Flatten the title and subtitle as they are (useless) StructuredText
+		title = title[0] ? title[0].text : "";
+		subtitle = subtitle[0] ? subtitle[0].text : "";
+		internal_link = fixLink(internal_link);
+
+		const post = template // only posts have the `template` property while static pages have not
+			? {
+					uid,
+					tags,
+					publication_date: last_publication_date,
+					title,
+					subtitle,
+					text_color: decodeTextColor(text_color),
+					image: fixImage(image),
+					video_loop: fixVideo(video_loop),
+					template,
+					author,
+					internal_link,
+			  }
+			: {
+					uid,
+					publication_date: last_publication_date,
+					title,
+					subtitle,
+			  };
+
+		if (withSections) {
+			const sections = (post.sections =
+				data.sections.map(transformSection));
+			if (description) {
+				post.description = description;
+			} else {
+				// Try to extract the first chapter text as description
+				const firstTextChapter = sections.find(
+					(section) => section.text && section.text.length > 0
+				);
+				post.description = firstTextChapter
+					? firstTextChapter.text[0].text
+					: "";
+			}
+			console.log(
+				`Extracted the description : ${post.description} for post ${uid}`
+			);
+		}
+
+		return post;
+	};
 
 /**
  * Transform the Prismic format of the home page to retrieve only what we need
@@ -201,13 +210,14 @@ export const transformHome = (homeData, posts) => {
 		keywords = "",
 		scrolling_news,
 		pinned_posts,
-		selected_reads
+		selected_reads,
 	} = data;
 
 	// Keep only relevant post data
 	let sections = posts.map(transformPost({ withSections: false })).sort(
 		// Sort posts by latest publication date
-		(p1, p2) => Date.parse(p2.publication_date) - Date.parse(p1.publication_date)
+		(p1, p2) =>
+			Date.parse(p2.publication_date) - Date.parse(p1.publication_date)
 	);
 	console.log(`Home sections before pin : ${sections.map((s) => s.uid)}`);
 
@@ -215,7 +225,7 @@ export const transformHome = (homeData, posts) => {
 	pinned_posts = pinned_posts
 		.map(({ position, link }) => ({
 			position,
-			uid: link.uid
+			uid: link.uid,
 		}))
 		.sort((a, b) => a.position - b.position);
 	console.log(
@@ -241,7 +251,7 @@ export const transformHome = (homeData, posts) => {
 				uid: link.uid,
 				title: relatedPost.title,
 				image: relatedPost.image,
-				video_loop: relatedPost.video_loop
+				video_loop: relatedPost.video_loop,
 			};
 		});
 	// Find an image for the SEO
@@ -256,6 +266,6 @@ export const transformHome = (homeData, posts) => {
 		pinned_posts,
 		selected_reads,
 		image,
-		sections
+		sections,
 	};
 };

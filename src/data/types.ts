@@ -10,7 +10,6 @@ export interface ImageProps {
 export interface VideoLoopProps {
 	url: string;
 	name?: string;
-	size?: string;
 }
 
 enum HomeSectionTemplate {
