@@ -11,8 +11,7 @@
 	"image": null,
 	"video_loop": {
 		"name": "LOOPFIN.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4",
-		"size": "8315849"
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": null,
