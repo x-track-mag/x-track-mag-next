@@ -1,10 +1,9 @@
-import { memo, useEffect, useState } from "react";
+import { memo, useState } from "react";
 import { SectionHomePost } from "@components/sections";
 import { ScrollingNews } from "@components/ScrollingNews";
 import homeData from "content/home.json";
 import { FullWindowVariableList } from "react-recycled-list";
 import { useViewportSize } from "@components/providers";
-import Script from "next/script";
 import useSafeLayoutEffect from "@components/hooks/useSafeLayoutEffect";
 
 const getSectionHeight =
@@ -34,32 +33,59 @@ const VirtualizedSectionHomePost = memo(({ data, dataIndex, top, height }) => {
 	return SectionHomePost({ ...postData, style });
 });
 
-export const HomePage = ({ scrolling_news, sections = [] }) => {
-	const { width, height } = useViewportSize();
-	const rowHeights = sections.map(getSectionHeight(height));
-
+/**
+ * On the client side, we want to virtualize the list of sections
+ * to only load the ressource if the section enter into the viewport
+ * */
+const SectionList = ({
+	sections = [],
+	useVirtualization = false,
+	...props
+}) => {
+	const { height } = useViewportSize();
 	const [virtualized, setVirtualized] = useState(false);
 
+	// Keep only the first 3 to inline
+	const inlinedSections = sections.filter((_v, i) => i >= 2);
+
 	useSafeLayoutEffect(() => {
-		// Toggle to virtualized list (this is to avoid hydration error)
-		setVirtualized(window !== undefined);
+		// Toggle to virtualized list _after_ first DOM rendered to avoid hydration error
+		setVirtualized(useVirtualization);
 	}, []);
 
 	return (
 		<>
-			<ScrollingNews messages={scrolling_news} />
 			{!virtualized &&
-				sections.map(({ uid, ...sectionProps }) => (
-					<SectionHomePost key={uid} uid={uid} {...sectionProps} />
+				inlinedSections.map(({ uid, ...sectionProps }) => (
+					<SectionHomePost
+						key={uid}
+						uid={uid}
+						{...sectionProps}
+						suppressHydrationWarning
+					/>
 				))}
+
 			{virtualized && (
 				<FullWindowVariableList
 					data={sections}
 					rowComponent={VirtualizedSectionHomePost}
 					rowHeight={Math.round(height * 0.9)}
-					rowHeights={rowHeights}
+					rowHeights={sections.map(getSectionHeight(height))}
 				/>
 			)}
+		</>
+	);
+};
+
+export const HomePage = ({ scrolling_news, sections = [] }) => {
+	return (
+		<>
+			<ScrollingNews messages={scrolling_news} />
+			<SectionList
+				sections={sections}
+				useVirtualization={typeof window !== "undefined"}
+				suppressHydrationWarning={true}
+			/>
 		</>
 	);
 };
