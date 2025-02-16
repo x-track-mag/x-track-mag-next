@@ -8,7 +8,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "new-romance"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 2,
@@ -16,15 +16,15 @@
 		},
 		{
 			"position": 3,
-			"uid": "bestxtrackoftheweek"
+			"uid": "new-romance"
 		},
 		{
 			"position": 4,
-			"uid": "feel-good"
+			"uid": "martin-parr"
 		},
 		{
 			"position": 5,
-			"uid": "martin-parr"
+			"uid": "feel-good"
 		},
 		{
 			"position": 6,
@@ -175,23 +175,23 @@
 	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "new-romance",
+			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-11-21T21:43:39+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes - Nia Smith on Cover",
+			"publication_date": "2025-02-08T16:13:06+0000",
+			"title": "Best ”XTrack“ of the Week ",
+			"subtitle": "Les meilleurs sons de la semaine - Cover : Baby Nova",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Nia Smith.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zt2bYxoQrfVKl0dZ_NiaSmith.mp4"
+				"name": "Baby Nova.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z5897ZbqstJ9-IJP_BabyNova.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
 			"uid": "2025-is-the-year",
@@ -213,42 +213,23 @@
 			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		},
 		{
-			"uid": "bestxtrackoftheweek",
+			"uid": "new-romance",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-02-08T16:13:06+0000",
-			"title": "Best ”XTrack“ of the Week ",
-			"subtitle": "Les meilleurs sons de la semaine - Cover : Baby Nova",
+			"publication_date": "2024-11-21T21:43:39+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes - Nia Smith on Cover",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Baby Nova.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z5897ZbqstJ9-IJP_BabyNova.mp4"
+				"name": "Nia Smith.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zt2bYxoQrfVKl0dZ_NiaSmith.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
-		},
-		{
-			"uid": "feel-good",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2025-01-18T10:31:23+0000",
-			"title": "Feel Good",
-			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Tyla .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZoPZzh5LeNNTwtLc_Tyla.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "martin-parr",
@@ -272,6 +253,25 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "Un monde à Parr"
+		},
+		{
+			"uid": "feel-good",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2025-01-18T10:31:23+0000",
+			"title": "Feel Good",
+			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Tyla .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZoPZzh5LeNNTwtLc_Tyla.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
 		},
 		{
 			"uid": "live-session-amaru",
