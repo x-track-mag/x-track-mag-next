@@ -4,6 +4,7 @@ import NextImage from "next/image.js";
 import { Caption } from "./Typography";
 import { clsx } from "clsx";
 import { ImageProps } from "src/data/types";
+import { basename, extname } from "path";
 
 const backgroundStyle = {
 	position: "absolute",
@@ -20,14 +21,23 @@ interface BackgroundImageProps {
 	className?: string;
 }
 
+const extractImageName = (url: string) => {
+	const ext = extname(url);
+	let fileName = basename(url, ext).trim();
+	return fileName.split("_").pop();
+};
+
 /**
  * Merge together the title and the copyright mentions of the image
  * @param {ImageProps} image:
  */
-const figureCredits = ({ alt = "", copyright = "" }: ImageProps) => {
+const figureCredits = ({ url, alt = "", copyright = "" }: ImageProps) => {
 	let credits = alt;
 	if (copyright) {
 		credits = !credits ? `© ${copyright}` : `${credits} - © ${copyright}`;
+	}
+	if (!credits) {
+		credits = extractImageName(url);
 	}
 	return credits;
 };
