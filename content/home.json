@@ -8,7 +8,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestxtrackoftheweek"
+			"uid": "new-romance"
 		},
 		{
 			"position": 2,
@@ -16,11 +16,11 @@
 		},
 		{
 			"position": 3,
-			"uid": "la-mode-ethique-classe-ou-classiste"
+			"uid": "bestxtrackoftheweek"
 		},
 		{
 			"position": 4,
-			"uid": "new-romance"
+			"uid": "feel-good"
 		},
 		{
 			"position": 5,
@@ -28,7 +28,7 @@
 		},
 		{
 			"position": 6,
-			"uid": "feel-good"
+			"uid": "live-session-amaru"
 		},
 		{
 			"position": 7,
@@ -36,11 +36,11 @@
 		},
 		{
 			"position": 8,
-			"uid": "live-session-amaru"
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
 		{
 			"position": 9,
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
+			"uid": "la-mode-ethique-classe-ou-classiste"
 		},
 		{
 			"position": 10,
@@ -48,11 +48,11 @@
 		},
 		{
 			"position": 11,
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+			"uid": "in-love"
 		},
 		{
 			"position": 12,
-			"uid": "in-love"
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
 			"position": 13,
@@ -177,6 +177,45 @@
 	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "new-romance",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2024-11-21T21:43:39+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes - Nia Smith on Cover",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Nia Smith.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zt2bYxoQrfVKl0dZ_NiaSmith.mp4",
+				"size": "12726398"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist Chill, Cool, Love"
+		},
+		{
+			"uid": "2025-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2024-12-30T12:57:47+0000",
+			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
+		},
+		{
 			"uid": "bestxtrackoftheweek",
 			"tags": [
 				"music"
@@ -197,23 +236,114 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
-			"uid": "2025-is-the-year",
+			"uid": "feel-good",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2025-01-18T10:31:23+0000",
+			"title": "Feel Good",
+			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Tyla .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZoPZzh5LeNNTwtLc_Tyla.mp4",
+				"size": "3704996"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
+		},
+		{
+			"uid": "martin-parr",
 			"tags": [
 				"article"
 			],
-			"publication_date": "2024-12-30T12:57:47+0000",
-			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"publication_date": "2024-09-08T11:59:27+0000",
+			"title": "Martin Parr",
+			"subtitle": "Un Monde à Parr",
+			"text_color": "white",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": "Plage de Nice",
+				"copyright": "Martin Parr",
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Aphelandra Siassia",
+			"internal_link": null,
+			"description": "Un monde à Parr"
+		},
+		{
+			"uid": "live-session-amaru",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2024-09-11T07:31:45+0000",
+			"title": "AMARU",
+			"subtitle": "LIVE SESSION ",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "IMG_3340.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
+				"size": "16282848"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session amaru karma x-track mag"
+		},
+		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2024-03-31T08:20:52+0000",
+			"title": "Les apparences trompeuses du Pretty Privilege",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": "Nadia Lee Cohen",
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "Les apparences trompeuses du pretty privilege"
+		},
+		{
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2024-04-17T09:19:00+0000",
+			"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
 			"subtitle": "",
 			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1876,
+				"height": 1104,
+				"ratio": 1.6992753623188406
 			},
-			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
 		},
 		{
 			"uid": "la-mode-ethique-classe-ou-classiste",
@@ -240,136 +370,6 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "new-romance",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2024-11-21T21:43:39+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes - Nia Smith on Cover",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Nia Smith.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zt2bYxoQrfVKl0dZ_NiaSmith.mp4",
-				"size": "12726398"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
-		},
-		{
-			"uid": "martin-parr",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2024-09-08T11:59:27+0000",
-			"title": "Martin Parr",
-			"subtitle": "Un Monde à Parr",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": "Plage de Nice",
-				"copyright": "Martin Parr",
-				"width": 1280,
-				"height": 854,
-				"ratio": 1.4988290398126465
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "Un monde à Parr"
-		},
-		{
-			"uid": "feel-good",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2025-01-18T10:31:23+0000",
-			"title": "Feel Good",
-			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - Tyla on Cover",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Tyla .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZoPZzh5LeNNTwtLc_Tyla.mp4",
-				"size": "3704996"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
-		},
-		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2024-03-31T08:20:52+0000",
-			"title": "Les apparences trompeuses du Pretty Privilege",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": null,
-				"copyright": "Nadia Lee Cohen",
-				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "Les apparences trompeuses du pretty privilege"
-		},
-		{
-			"uid": "live-session-amaru",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2024-09-11T07:31:45+0000",
-			"title": "AMARU",
-			"subtitle": "LIVE SESSION ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "IMG_3340.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4",
-				"size": "16282848"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session amaru karma x-track mag"
-		},
-		{
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2024-04-17T09:19:00+0000",
-			"title": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ead0b06a-8195-4856-8a25-213113f7b8ee_Capture+d%E2%80%99e%CC%81cran+2021-11-22+a%CC%80+12.00.10.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1876,
-				"height": 1104,
-				"ratio": 1.6992753623188406
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
-		},
-		{
 			"uid": "nice-day",
 			"tags": [
 				"music"
@@ -388,6 +388,26 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Nice & Happy"
+		},
+		{
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2024-07-22T09:06:51+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Billie Eilish.  .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZewtJHUurf2G3OUN_BillieEilish..mp4",
+				"size": "6829694"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
@@ -411,26 +431,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
-		},
-		{
-			"uid": "in-love",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2024-07-22T09:06:51+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Billie Eilish.  .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZewtJHUurf2G3OUN_BillieEilish..mp4",
-				"size": "6829694"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
