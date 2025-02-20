@@ -12,7 +12,7 @@
 		},
 		{
 			"position": 2,
-			"uid": "2025-is-the-year"
+			"uid": "la-mode-ethique-classe-ou-classiste"
 		},
 		{
 			"position": 3,
@@ -40,7 +40,7 @@
 		},
 		{
 			"position": 9,
-			"uid": "la-mode-ethique-classe-ou-classiste"
+			"uid": "2025-is-the-year"
 		},
 		{
 			"position": 10,
@@ -194,23 +194,28 @@
 			"description": "Playlist des meilleurs sons de la semaine"
 		},
 		{
-			"uid": "2025-is-the-year",
+			"uid": "la-mode-ethique-classe-ou-classiste",
 			"tags": [
-				"article"
+				"article",
+				"fashion"
 			],
-			"publication_date": "2024-12-30T12:57:47+0000",
-			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"publication_date": "2025-02-15T16:58:57+0000",
+			"title": "Mode éthique : classe ou classiste ?",
 			"subtitle": "",
 			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
+				"alt": "Pink glow",
+				"copyright": null,
+				"width": 1920,
+				"height": 1400,
+				"ratio": 1.3714285714285714
 			},
-			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
 			"uid": "new-romance",
@@ -340,28 +345,23 @@
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
 		},
 		{
-			"uid": "la-mode-ethique-classe-ou-classiste",
+			"uid": "2025-is-the-year",
 			"tags": [
-				"article",
-				"fashion"
+				"article"
 			],
-			"publication_date": "2025-02-15T16:58:57+0000",
-			"title": "Mode éthique : classe ou classiste ?",
+			"publication_date": "2024-12-30T12:57:47+0000",
+			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
 			"subtitle": "",
 			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1f048c47-9dad-4f58-9af6-49c5c12b5457_Copie+de+Sans+titre.png?auto=compress,format",
-				"alt": "Pink glow",
-				"copyright": null,
-				"width": 1920,
-				"height": 1400,
-				"ratio": 1.3714285714285714
-			},
+			"image": null,
 			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "La mode éthique : classe ou classiste ?                              "
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
+			},
+			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		},
 		{
 			"uid": "nice-day",
