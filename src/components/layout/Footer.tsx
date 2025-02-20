@@ -39,7 +39,9 @@ export const Footer = () => {
 			<Box
 				display={{ base: "none", sm: "block" }}
 				id="copyright"
-				{...navLinkStyles}
+				fontFamily="body"
+				fontWeight={600}
+				textTransform="uppercase"
 			>
 				(c) X-TRACK MAG {new Date().getFullYear()}
 			</Box>
