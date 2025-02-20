@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-02-08T16:13:06+0000",
+	"publication_date": "2025-02-20T17:06:22+0000",
 	"title": "Best ”XTrack“ of the Week ",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Baby Nova",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : AJ Tracey x Jorja Smith",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Baby Nova.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z5897ZbqstJ9-IJP_BabyNova.mp4"
+		"name": "AJ Tracey - Crush (feat. Jorja Smith).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7JcFp7c43Q3f1nj_AJTracey-Crush-feat.JorjaSmith-.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Baby Nova + Hope Tala + Skiifall  + Nick Hustles + Mahalia x Lila Iké + Mortimer + Quing madi + Haile + Cherise x Meduulla +  Greentea Peng + Niambi +  Knowsun x Theodor + Jessie Reyez + Jorja Smith + Teni & +++ Enjoy ",
+					"text": "AJ Tracey x Jorja Smith + Jah Lil x XTM Nation + Tyla x Sean paul + Rema + Central Cee x Young Miko + Jordan Adetunji x Bryson Tyler + Sirens of Lesbos + Nick Hustles + Mahalia x Lila Iké Smino x Ravyn Lenae + Darkoo + Nia Smith + Skiifall x Jorja Smith & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/Z7deoJ7c43Q3gB2E_JahLil.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jah Lil ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z50UepbqstJ9-GzF_Skiifall.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Skiifall",
+					"url": "https://images.prismic.io/x-track-mag/ZwphMoF3NbkBXXIk_Tyla.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
+					"alt": "Tyla",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1278,
+					"ratio": 0.8012519561815337
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z50UeJbqstJ9-GzD_Mahalia.jpg?auto=format,compress&rect=0,0,658,658&w=1024&h=1024",
-					"alt": "Mahalia",
+					"url": "https://images.prismic.io/x-track-mag/Z7deo57c43Q3gB2I_CentralCee.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Central Cee",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -60,24 +60,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z50UeZbqstJ9-GzE_NickHustles.jpg?auto=format,compress&rect=0,0,686,386&w=1024&h=576",
-					"alt": "Nick Hustles",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z50UcJbqstJ9-Gy7_Cherise.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Cherise",
+					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Sirens of Lesbos",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z50UdpbqstJ9-GzB_Mortimer.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Mortimer",
+					"url": "https://images.prismic.io/x-track-mag/Z7depZ7c43Q3gB2L_Rema.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Rema",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z50UeJbqstJ9-GzD_Mahalia.jpg?auto=format,compress&rect=0,0,658,658&w=1024&h=1024",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
