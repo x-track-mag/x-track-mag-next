@@ -5,14 +5,21 @@ import { colors } from "@styles/theme.js";
 import { FC } from "react";
 
 const BackArrow = () => (
-	<Box as="a" onClick={navigate("back")} cursor="pointer">
-		<IconButton
-			size="4rem"
-			SvgIcon={SvgArrowReturn}
-			color="black"
-			colorHover={`${colors.brand.green}`}
-		/>
-	</Box>
+	<nav aria-label="top-navigation">
+		<Box
+			as="a"
+			onClick={navigate("back")}
+			cursor="pointer"
+			aria-label="back"
+		>
+			<IconButton
+				size="4rem"
+				SvgIcon={SvgArrowReturn}
+				color="black"
+				colorHover={`${colors.brand.green}`}
+			/>
+		</Box>
+	</nav>
 );
 
 const formatDate = (ISODate) => {
