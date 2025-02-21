@@ -7,6 +7,7 @@
 		url("/fonts/UnbProLight.woff") format("woff"),
 		url("/fonts/UnbProLight.otf") format("otf");
 	font-weight: 300;
+	font-display: swap;
 }
 @font-face {
 	font-family: UnbProRegular;
@@ -14,6 +15,7 @@
 		url("/fonts/UnbProRegular.woff") format("woff"),
 		url("/fonts/UnbProRegular.otf") format("otf");
 	font-weight: 500;
+	font-display: swap;
 }
 @font-face {
 	font-family: UnbProItalicRegular;
@@ -21,6 +23,7 @@
 		url("/fonts/UnbProItalicRegular.woff") format("woff"),
 		url("/fonts/UnbProItalicRegular.otf") format("otf");
 	font-weight: 500;
+	font-display: swap;
 }
 
 @font-face {
@@ -28,6 +31,7 @@
 	src: url("/fonts/Arachne.woff2") format("woff2"),
 		url("/fonts/Arachne.woff") format("woff");
 	font-weight: 600;
+	font-display: swap;
 }
 
 @font-face {
@@ -36,6 +40,7 @@
 		url("/fonts/PressGothicPro.woff") format("woff"),
 		url("/fonts/PressGothicPro.otf") format("otf");
 	font-weight: 700;
+	font-display: swap;
 }
 
 ::selection {
