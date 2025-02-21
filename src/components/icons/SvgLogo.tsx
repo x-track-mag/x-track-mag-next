@@ -7,12 +7,7 @@ import { type IconComponent } from ".";
  * @param {String} [props.size="300px"] a valid CSS size unit
  */
 export const SvgLogo: IconComponent = ({ size = 390, color = "#000" }) => (
-	<svg
-		xmlns="http://www.w3.org/2000/svg"
-		viewBox="0 0 480 80"
-		width={size}
-		height="auto"
-	>
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 80" width={size}>
 		<g transform="translate(-21 -62)" fill={color}>
 			<g id="x-track-letters">
 				<path
