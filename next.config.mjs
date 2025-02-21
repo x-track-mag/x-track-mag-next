@@ -11,6 +11,13 @@ const nextConfig = {
 		path: "/_next/image",
 		loader: "default",
 	},
+	redirects: async () => [
+		{
+			source: "/posts/page",
+			destination: "/posts/la-mode-ethique-classe-ou-classiste",
+			permanent: true,
+		},
+	],
 	typescript: {
 		// !! WARN !!
 		// Dangerously allow production builds to successfully complete even if
