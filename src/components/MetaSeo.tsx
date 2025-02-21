@@ -91,12 +91,13 @@ export const MetaSEO = ({
 
 			{gtag && (
 				<script
-					async
+					defer
 					src={`https://www.googletagmanager.com/gtag/js?id=${gtag}`}
 				/>
 			)}
 			{gtag && (
 				<script
+					defer
 					dangerouslySetInnerHTML={{
 						__html: `window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
