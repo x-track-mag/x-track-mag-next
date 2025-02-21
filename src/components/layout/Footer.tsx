@@ -26,13 +26,19 @@ export const Footer = () => {
 
 	return (
 		<Flex as="footer" id="page-footer" {...footerStyle}>
-			<NavLink href="https://x-track.net">
+			<NavLink aria-label="Home page" href="https://x-track.net">
 				<SvgHub size="3rem" _hover={{ stroke: "brand.green" }} />
 			</NavLink>
-			<NavLink href="https://www.instagram.com/xtrackmag">
+			<NavLink
+				aria-label="Notre Instagram"
+				href="https://www.instagram.com/xtrackmag"
+			>
 				Instagram
 			</NavLink>
-			<NavLink href="https://open.spotify.com/user/x2swd5kbhnscczttswze3y9gy">
+			<NavLink
+				aria-label="Spotify"
+				href="https://open.spotify.com/user/x2swd5kbhnscczttswze3y9gy"
+			>
 				Spotify
 			</NavLink>
 
