@@ -1,6 +1,11 @@
 /** @type {import('next').NextConfig} */
 import { resolve } from "path";
 import __dirname from "./dirname.cjs";
+import bundlerAnalyzer from "@next/bundle-analyzer";
+
+const withBundleAnalyzer = bundlerAnalyzer({
+	enabled: process.env.ANALYZE_BUNDLE === "true",
+});
 
 const nextConfig = {
 	i18n: {
@@ -47,4 +52,4 @@ const nextConfig = {
 	},
 };
 
-export default nextConfig;
+export default withBundleAnalyzer(nextConfig);
