@@ -137,15 +137,15 @@
 			}
 		},
 		{
-			"uid": "lavenir-de-la-mode-est-il-virtuel",
-			"title": "L’Avenir de la Mode est-il virtuel ?",
+			"uid": "martin-parr",
+			"title": "Martin Parr",
 			"image": {
-				"url": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
-				"alt": "©",
-				"copyright": null,
-				"width": 1080,
-				"height": 1080,
-				"ratio": 1
+				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+				"alt": "Plage de Nice",
+				"copyright": "Martin Parr",
+				"width": 1280,
+				"height": 854,
+				"ratio": 1.4988290398126465
 			},
 			"video_loop": null
 		},
@@ -159,20 +159,16 @@
 			}
 		},
 		{
-			"uid": "la-muse--une-icone-feministe-",
-			"title": "La muse : une icône féministe ?",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null
+			"uid": "nola-cherri",
+			"title": "Nola Cherri",
+			"image": null,
+			"video_loop": {
+				"name": "LOOPFIN.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4"
+			}
 		}
 	],
-	"image": "https://images.prismic.io/x-track-mag/2392ca45-e55a-4264-b14d-31784c527712_CYBER+FASHION.jpg?auto=compress,format",
+	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
 			"uid": "bestxtrackoftheweek",
