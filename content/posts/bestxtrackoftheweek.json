@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-02-20T17:06:22+0000",
+	"publication_date": "2025-02-22T22:04:41+0000",
 	"title": "Best ”XTrack“ of the Week ",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : AJ Tracey x Jorja Smith",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Burna Boy",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "AJ Tracey - Crush (feat. Jorja Smith).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7JcFp7c43Q3f1nj_AJTracey-Crush-feat.JorjaSmith-.mp4"
+		"name": "Burna Boy  Update .mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7pHAJ7c43Q3gGeV_BurnaBoyUpdate.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "AJ Tracey x Jorja Smith + Jah Lil x XTM Nation + Tyla x Sean paul + Rema + Central Cee x Young Miko + Jordan Adetunji x Bryson Tyler + Sirens of Lesbos + Nick Hustles + Mahalia x Lila Iké Smino x Ravyn Lenae + Darkoo + Nia Smith + Skiifall x Jorja Smith & +++ Enjoy ",
+					"text": "Greentea Peng + Bakar + Sirens of Lesbos + AJ Tracey x Jorja Smith + Burna Boy + Jah Lil x XTM Nation + Central Cee x Young Miko + BH & JB x Young T & Bugsey x Madison B + Tendai + The Streets + Jordan Adetunji x Bryson Tyler + Popcaan + Hadren x Memory of Jane + Odumodublvck x Victony + Saint Levant x Marwan Moussa + Tyla x Sean paul + Rema + Oklou + Smino x Ravyn Lenae + Darkoo + Nia Smith + Skiifall x Jorja Smith + Mahalia x Lila Iké & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,34 +31,21 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7deoJ7c43Q3gB2E_JahLil.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jah Lil ",
+					"url": "https://images.prismic.io/x-track-mag/Z7pIrZ7c43Q3gGe0_GreenteaPeng.jpg?auto=format,compress&rect=0,0,1080,719&w=1024&h=682",
+					"alt": "Greentea Peng",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 682,
+					"ratio": 1.501466275659824
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZwphMoF3NbkBXXIk_Tyla.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
-					"alt": "Tyla",
+					"url": "https://images.prismic.io/x-track-mag/f22c447d-763b-49bc-901b-5a54cc917667_Bakar.+jpg.jpg?auto=format,compress&rect=0,0,1998,1124&w=1024&h=576",
+					"alt": "Bakar",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z7deo57c43Q3gB2I_CentralCee.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Central Cee",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
 					"alt": "Sirens of Lesbos",
@@ -66,22 +53,35 @@
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z7pGN57c43Q3gGeH_MadisonB.jpg?auto=format,compress&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Madison B",
+					"copyright": null,
+					"width": 1024,
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7depZ7c43Q3gB2L_Rema.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Rema",
+					"url": "https://images.prismic.io/x-track-mag/Z7pGNZ7c43Q3gGeF_MikeSkinner.jpg?auto=format,compress&rect=0,0,1200,900&w=1024&h=768",
+					"alt": "Mike skinner / The Streets",
+					"copyright": null,
+					"width": 1024,
+					"height": 768,
+					"ratio": 1.3333333333333333
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z7pGMZ7c43Q3gGeB_Oklou.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Oklou",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z50UeJbqstJ9-GzD_Mahalia.jpg?auto=format,compress&rect=0,0,658,658&w=1024&h=1024",
-					"alt": "Mahalia",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
