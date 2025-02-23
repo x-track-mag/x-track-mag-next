@@ -16,7 +16,7 @@
 		},
 		{
 			"position": 3,
-			"uid": "new-romance"
+			"uid": "feel-good"
 		},
 		{
 			"position": 4,
@@ -24,7 +24,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "feel-good"
+			"uid": "new-romance"
 		},
 		{
 			"position": 6,
@@ -214,23 +214,23 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "new-romance",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2024-11-21T21:43:39+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes - Nia Smith on Cover",
-			"text_color": "inverted",
+			"publication_date": "2025-02-23T14:56:17+0000",
+			"title": "Feel Good",
+			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - AJ Tracey x Jorja smith",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Nia Smith.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zt2bYxoQrfVKl0dZ_NiaSmith.mp4"
+				"name": "AJ Tracey - Crush (feat. Jorja Smith).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7JcFp7c43Q3f1nj_AJTracey-Crush-feat.JorjaSmith-.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
 		},
 		{
 			"uid": "martin-parr",
@@ -256,23 +256,23 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "feel-good",
+			"uid": "new-romance",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-02-23T14:56:17+0000",
-			"title": "Feel Good",
-			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - AJ Tracey x Jorja smith",
-			"text_color": "green",
+			"publication_date": "2024-11-21T21:43:39+0000",
+			"title": "New Romance",
+			"subtitle": "100% Chill Vibes - Nia Smith on Cover",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "AJ Tracey - Crush (feat. Jorja Smith).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7JcFp7c43Q3f1nj_AJTracey-Crush-feat.JorjaSmith-.mp4"
+				"name": "Nia Smith.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zt2bYxoQrfVKl0dZ_NiaSmith.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
+			"description": "Playlist Chill, Cool, Love"
 		},
 		{
 			"uid": "live-session-amaru",
