@@ -1,6 +1,6 @@
 import { FC } from "react";
 import { Box } from "@chakra-ui/react";
-import NextImage from "next/image.js";
+import NextImage, { type ImageProps as NextImageProps } from "next/image";
 import { Caption } from "./Typography";
 import { clsx } from "clsx";
 import { ImageProps } from "src/data/types";
@@ -14,7 +14,7 @@ const backgroundStyle = {
 	zIndex: "-1",
 } as const;
 
-interface BackgroundImageProps {
+interface BackgroundImageProps extends Omit<NextImageProps, "src" | "alt"> {
 	image: ImageProps;
 	// Display the figcaption showing the credits for a photograph
 	displayCredits?: boolean;
@@ -51,6 +51,8 @@ export const BackgroundImage: FC<BackgroundImageProps> = ({
 	image,
 	displayCredits = false,
 	className,
+	// capture other NextImageProps
+	...more
 }) => {
 	const credits = figureCredits(image);
 	return (
@@ -72,6 +74,7 @@ export const BackgroundImage: FC<BackgroundImageProps> = ({
 				height={image.height}
 				sizes="100vw"
 				style={backgroundStyle}
+				{...more}
 			/>
 
 			{displayCredits && (

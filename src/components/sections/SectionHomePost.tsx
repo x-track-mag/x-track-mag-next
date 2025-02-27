@@ -313,6 +313,8 @@ export const Template5 = ({ uid, link_to, title = "", image, style }) => {
 									width: "100%",
 									height: "auto",
 								}}
+								priority={false}
+								loading="lazy"
 								width={image.width}
 								height={image.height}
 								alt={image.alt}
@@ -442,7 +444,7 @@ export const SectionHomePost: FC<HomeSectionProps> = ({
 	const link_to = !internal_link ? `/posts/${uid}` : internal_link.uid;
 	try {
 		// @ts-ignore
-		return <Template link_to={link_to} {...postData} />;
+		return <Template uid={uid} link_to={link_to} {...postData} />;
 	} catch (err) {
 		return (
 			<pre>

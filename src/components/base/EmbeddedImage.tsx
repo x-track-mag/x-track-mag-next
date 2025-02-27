@@ -1,5 +1,5 @@
 import { Box, AspectRatio } from "@chakra-ui/react";
-import Image from "next/image";
+import NextImage from "next/image";
 import { Caption } from "./Typography";
 
 /**
@@ -14,12 +14,15 @@ export const EmbeddedImage = ({ image, width = "100%", ...more }) => {
 		return (
 			<Box as="figure" {...more}>
 				<AspectRatio ratio={image.ratio} width={width}>
-					<Image
+					<NextImage
 						className="embedded-image"
 						src={image.url}
 						alt={image.alt}
-						objectFit="cover"
-						layout="fill"
+						priority={false}
+						loading="lazy"
+						style={{ objectFit: "cover" }}
+						sizes="60vw"
+						fill
 					/>
 				</AspectRatio>
 				{image.alt && <Caption as="figcaption">{image.alt}</Caption>}

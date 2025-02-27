@@ -45,8 +45,11 @@ export const SectionTwoColumns = ({
 						<Image
 							src={image.url}
 							alt={image.alt}
-							layout="fill"
-							objectFit="contain"
+							fill
+							priority={false}
+							loading="lazy"
+							sizes="50vw"
+							style={{ objectFit: "contain" }}
 						/>
 					</AspectRatio>
 				)}

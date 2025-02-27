@@ -27,7 +27,13 @@ export const SectionGallery = ({ gallery }) => (
 					height="100%"
 					key={`gallery-column-${i}`}
 				>
-					<BackgroundImage image={image} displayCredits={true} />
+					<BackgroundImage
+						image={image}
+						displayCredits={true}
+						sizes="33vw"
+						priority={false}
+						loading="lazy"
+					/>
 				</Box>
 			))}
 		</SimpleGrid>
