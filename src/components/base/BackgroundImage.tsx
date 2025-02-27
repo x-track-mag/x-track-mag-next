@@ -50,6 +50,7 @@ const figureCredits = ({ url, alt = "", copyright = "" }: ImageProps) => {
 export const BackgroundImage: FC<BackgroundImageProps> = ({
 	image,
 	displayCredits = false,
+	priority = false,
 	className,
 	// capture other NextImageProps
 	...more
@@ -70,6 +71,8 @@ export const BackgroundImage: FC<BackgroundImageProps> = ({
 				className={clsx("background-image", className)}
 				src={image.url}
 				alt={credits}
+				loading={priority ? "eager" : "lazy"}
+				priority={priority}
 				width={image.width}
 				height={image.height}
 				sizes="100vw"

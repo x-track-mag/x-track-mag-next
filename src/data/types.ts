@@ -86,6 +86,8 @@ export interface SectionHeroProps {
 	text_color?: string;
 	image?: ImageProps | null;
 	video_loop?: VideoLoopProps | null;
+	// Tell to use lazy loading or not
+	priority?: boolean;
 	displayCredits?: boolean;
 }
 

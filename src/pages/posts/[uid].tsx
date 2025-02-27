@@ -55,6 +55,7 @@ const PostPage: FC<PostPageProps> = ({
 					subtitle={isArticle ? "--blank--" : subtitle}
 					text_color={text_color}
 					displayCredits={true}
+					priority={true}
 				/>
 			)}
 			{sections.map((section, i) => (

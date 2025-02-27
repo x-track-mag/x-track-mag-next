@@ -20,6 +20,7 @@ export const SectionHero: FC<SectionHeroProps> = ({
 	text_color,
 	image = null,
 	video_loop = null,
+	priority = false,
 	displayCredits = false,
 	...moreStyle
 }) => {
@@ -29,6 +30,7 @@ export const SectionHero: FC<SectionHeroProps> = ({
 				className="hero-image"
 				image={image || article.image}
 				displayCredits={displayCredits}
+				priority={priority}
 				video_loop={video_loop || article.video_loop}
 			/>
 			<HeroText

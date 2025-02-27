@@ -7,6 +7,7 @@ interface BackgroundProps {
 	image?: ImageProps;
 	video_loop?: BackgroundVideoProps;
 	displayCredits?: boolean;
+	priority?: boolean;
 	className?: string;
 }
 
@@ -16,6 +17,7 @@ interface BackgroundProps {
 export const Background: FC<BackgroundProps> = ({
 	image,
 	displayCredits,
+	priority,
 	video_loop,
 	className,
 }) => (
