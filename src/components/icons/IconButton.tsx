@@ -1,9 +1,10 @@
-import { type FC, useState } from "react";
+import { type FC, MouseEventHandler, useState } from "react";
 import { Box } from "@chakra-ui/react";
 import { type IconComponent } from ".";
 
 interface IconButtonProps {
 	SvgIcon: IconComponent;
+	onClick?: MouseEventHandler;
 	color?: string;
 	colorHover?: string;
 	size?: string;
@@ -11,8 +12,7 @@ interface IconButtonProps {
 }
 
 /**
- * Wrap an SVG icon
- * @param {*} param0
+ * Wrap an SVG icon inside a button
  */
 export const IconButton: FC<IconButtonProps> = ({
 	SvgIcon,
@@ -20,7 +20,7 @@ export const IconButton: FC<IconButtonProps> = ({
 	colorHover,
 	size = "2rem",
 	as = "button",
-	...buttonStyle
+	...more
 }) => {
 	const [iconColor, setIconColor] = useState(color);
 	return (
@@ -28,7 +28,7 @@ export const IconButton: FC<IconButtonProps> = ({
 			as={as}
 			onMouseEnter={() => setIconColor(colorHover || color)}
 			onMouseLeave={() => setIconColor(color)}
-			{...buttonStyle}
+			{...more}
 		>
 			<SvgIcon color={iconColor} size={size} />
 		</Box>

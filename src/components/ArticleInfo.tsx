@@ -6,19 +6,14 @@ import { FC } from "react";
 
 const BackArrow = () => (
 	<nav aria-label="top-navigation">
-		<Box
-			as="a"
-			onClick={navigate("back")}
-			cursor="pointer"
+		<IconButton
 			aria-label="back"
-		>
-			<IconButton
-				size="4rem"
-				SvgIcon={SvgArrowReturn}
-				color="black"
-				colorHover={`${colors.brand.green}`}
-			/>
-		</Box>
+			onClick={navigate("back")}
+			size="4rem"
+			SvgIcon={SvgArrowReturn}
+			color="black"
+			colorHover={`${colors.brand.green}`}
+		/>
 	</nav>
 );
 
