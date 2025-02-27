@@ -27,6 +27,7 @@ export const Background: FC<BackgroundProps> = ({
 				className={className}
 				image={image}
 				displayCredits={displayCredits}
+				priority={priority}
 			/>
 		)}
 		{video_loop && (
