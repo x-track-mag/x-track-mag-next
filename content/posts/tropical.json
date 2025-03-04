@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-02-06T15:47:19+0000",
+	"publication_date": "2025-03-04T16:49:06+0000",
 	"title": "Tropical",
-	"subtitle": "Sweet & Happy - Cover : Lila Iké",
+	"subtitle": "Sweet & Happy - Cover : Mahalia x Lila Iké",
 	"text_color": "green",
 	"image": null,
 	"video_loop": {
-		"name": "Lila Iké .mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/fe09ad7d-0ed7-4abc-9dc4-4ae61182a168_Lila+Ike%CC%81+.mp4"
+		"name": "Mahalia - Pressure Points (feat. Lila Iké).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z8ctkBsAHJWomG0y_Mahalia-PressurePoints-feat.LilaIke%CC%81-.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x Zion I King x Lila Iké + Skiifall x Jorja Smith + Mortimer + Kofi + Samory I x Lila Iké + Chronixx + Haile + Mahalia x Lila Iké + Yaya Bey + Greentea Peng + Roro + Yaadmann fka Yung L x R2Bees + Stefflon Don x Spice + Nesta + Young T & Bugsey x Peruzzi x Jae5 + Burna Boy + Ashidapo x Asake + Wizkid  & +++ Enjoy",
+					"text": "Skiifall x Jorja Smith + Mortimer + Mahalia x Lila Iké + Jah Lil x XTM Nation + Chronixx + Yaya Bey + Greentea Peng + Stefflon Don x Spice + Young T & Bugsey x Peruzzi x Jae5 + Popcaan +  Asake + Odumodublvck + Burna Boy + Ashidapo x Asake + Wizkid & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -39,12 +39,12 @@
 					"ratio": 0.7140864714086471
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e0342a3b-8633-4a2b-8ad6-71e71374236e_Protoje+%26+Lila-Ike.jpg?auto=format,compress&rect=0,0,471,395&w=1024&h=859",
-					"alt": "Protoje & Lila Ike",
+					"url": "https://images.prismic.io/x-track-mag/Z50UdpbqstJ9-GzB_Mortimer.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Mortimer",
 					"copyright": null,
 					"width": 1024,
-					"height": 859,
-					"ratio": 1.1920838183934808
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zj6otUFLKBtrWymH_YayaBey.jpg?auto=format,compress&rect=0,0,1440,1080&w=1024&h=768",
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z50UdpbqstJ9-GzB_Mortimer.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Mortimer",
+					"url": "https://images.prismic.io/x-track-mag/ef9dc2d4-5315-4a95-88cd-c3af33d5a60b_Stefflon+Don.jpeg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Stefflon Don",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=format,compress&rect=1,0,2046,1229&w=1024&h=615",
+					"url": "https://images.prismic.io/x-track-mag/Z7deoJ7c43Q3gB2E_JahLil.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jah Lil ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/7e1974d5-01dc-4a79-9033-5a11192ad22b_Greentea+Peng.jpg?auto=format,compress&rect=0,0,957,956&w=1024&h=1023",
 					"alt": "Greentea Peng",
 					"copyright": null,
 					"width": 1024,
-					"height": 615,
-					"ratio": 1.665040650406504
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z50Uc5bqstJ9-Gy-_Haile.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Haile",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				}
 			]
 		},
