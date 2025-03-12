@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-02-22T22:04:41+0000",
+	"publication_date": "2025-03-12T19:47:55+0000",
 	"title": "Best ”XTrack“ of the Week ",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Burna Boy",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Hope Tala",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Burna Boy  Update .mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7pHAJ7c43Q3gGeV_BurnaBoyUpdate.mp4"
+		"name": "Hope Tala - Magic or Medicine .mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z9HjihsAHJWomdx9_HopeTala-MagicorMedicine.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Greentea Peng + Bakar + Sirens of Lesbos + AJ Tracey x Jorja Smith + Burna Boy + Jah Lil x XTM Nation + Central Cee x Young Miko + BH & JB x Young T & Bugsey x Madison B + Tendai + The Streets + Jordan Adetunji x Bryson Tyler + Popcaan + Hadren x Memory of Jane + Odumodublvck x Victony + Saint Levant x Marwan Moussa + Tyla x Sean paul + Rema + Oklou + Smino x Ravyn Lenae + Darkoo + Nia Smith + Skiifall x Jorja Smith + Mahalia x Lila Iké & +++ Enjoy ",
+					"text": "Masicka x French Montana + Sirens of Lesbos x Zachari + Hope Tala + Jim Legxacy + Joe kay x Iasiah Falls x Cruza + Doechii + Jenni x FKJ & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,20 +31,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7pIrZ7c43Q3gGe0_GreenteaPeng.jpg?auto=format,compress&rect=0,0,1080,719&w=1024&h=682",
-					"alt": "Greentea Peng",
+					"url": "https://images.prismic.io/x-track-mag/Z9HjjhsAHJWomdyB_Masicka.jpg?auto=format,compress&rect=0,0,1080,1186&w=1024&h=1125",
+					"alt": "Masicka",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/f22c447d-763b-49bc-901b-5a54cc917667_Bakar.+jpg.jpg?auto=format,compress&rect=0,0,1998,1124&w=1024&h=576",
-					"alt": "Bakar",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1125,
+					"ratio": 0.9102222222222223
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
@@ -53,6 +45,14 @@
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z9HjhBsAHJWomdx7_JimLegxacy.jpg?auto=format,compress&rect=0,0,1080,810&w=1024&h=768",
+					"alt": "Jim Legxacy",
+					"copyright": null,
+					"width": 1024,
+					"height": 768,
+					"ratio": 1.3333333333333333
 				}
 			]
 		},
@@ -60,24 +60,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7pGN57c43Q3gGeH_MadisonB.jpg?auto=format,compress&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Madison B",
+					"url": "https://images.prismic.io/x-track-mag/Z9HjgBsAHJWomdx3_Doechii.jpg?auto=format,compress&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Doechii",
 					"copyright": null,
 					"width": 1024,
 					"height": 1276,
 					"ratio": 0.8025078369905956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7pGNZ7c43Q3gGeF_MikeSkinner.jpg?auto=format,compress&rect=0,0,1200,900&w=1024&h=768",
-					"alt": "Mike skinner / The Streets",
+					"url": "https://images.prismic.io/x-track-mag/Z9HjgxsAHJWomdx6_JoeKay.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Joe Kay",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7pGMZ7c43Q3gGeB_Oklou.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Oklou",
+					"url": "https://images.prismic.io/x-track-mag/Z9HjfxsAHJWomdx1_Jennie.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jennie",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
