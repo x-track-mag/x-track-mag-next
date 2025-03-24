@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-03-12T19:47:55+0000",
+	"publication_date": "2025-03-24T15:39:53+0000",
 	"title": "Best ”XTrack“ of the Week ",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Hope Tala",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Bon Iver",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Hope Tala - Magic or Medicine .mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z9HjihsAHJWomdx9_HopeTala-MagicorMedicine.mp4"
+		"name": "Bon Iver - If Only I Could Wait (feat. Danielle Haim) .mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z-F2Q3dAxsiBv0UX_BonIver-IfOnlyICouldWait-feat.DanielleHaim-.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Masicka x French Montana + Sirens of Lesbos x Zachari + Hope Tala + Jim Legxacy + Joe kay x Iasiah Falls x Cruza + Doechii + Jenni x FKJ & +++ Enjoy ",
+					"text": "Men I trust + Arooj Aftab x  Khruangbin + Rusowsky + Moliy x Skillibeng + Shenseea x Silent Addy + Miel De Montagne + Bon Iver x Danielle Haim + July 7 + Skeete + Greentea Peng & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z9HjjhsAHJWomdyB_Masicka.jpg?auto=format,compress&rect=0,0,1080,1186&w=1024&h=1125",
-					"alt": "Masicka",
+					"url": "https://images.prismic.io/x-track-mag/Z-F1pXdAxsiBv0Tl_MenITrust.jpg?auto=format,compress&rect=0,0,1920,1080&w=1024&h=576",
+					"alt": "Men I Trust",
 					"copyright": null,
 					"width": 1024,
-					"height": 1125,
-					"ratio": 0.9102222222222223
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Sirens of Lesbos",
+					"url": "https://images.prismic.io/x-track-mag/Z-F1qHdAxsiBv0Tv_Khruangbin.jpg?auto=format,compress&rect=0,0,2999,1687&w=1024&h=576",
+					"alt": "Khruangbin",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z9HjhBsAHJWomdx7_JimLegxacy.jpg?auto=format,compress&rect=0,0,1080,810&w=1024&h=768",
-					"alt": "Jim Legxacy",
+					"url": "https://images.prismic.io/x-track-mag/Z-F2iHdAxsiBv0Ui_AroojAftab.jpg?auto=format,compress&rect=0,0,870,525&w=1024&h=618",
+					"alt": "Arooj Aftab ",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 618,
+					"ratio": 1.656957928802589
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z9HjgBsAHJWomdx3_Doechii.jpg?auto=format,compress&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Doechii",
-					"copyright": null,
-					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z9HjgxsAHJWomdx6_JoeKay.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Joe Kay",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z9HjfxsAHJWomdx1_Jennie.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jennie",
+					"url": "https://images.prismic.io/x-track-mag/Z-F1qndAxsiBv0Tx_DanielleHaim.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Danielle Haim",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z-F1pXdAxsiBv0To_Rusowsky.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Rusowsky",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z-F1p3dAxsiBv0Tr_Moliy.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Moliy",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
