@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-07-22T09:06:51+0000",
+	"publication_date": "2025-03-26T18:17:18+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
 	"text_color": "green",
@@ -33,7 +33,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "French Montana x Jeremih - 4batz - Ley Soul - Cigarettes After Sex - Gotts Street Park x Olive Jones - Angelo de Augustine - Hope Tala - Alain Chamfort - Thomas Caruso Aragona - Odeal - 6lack - Beyoncé - Orion Sun - Limandi - Mustafa - Billie Eilish  - Courtesy x Erika de Casier x August Rosenbaum - Galimatias - Kali Uchis - Rubii - Enchantée Julia - rum.gold - Michael Kiwanuka - Feu Chatterton ! - Waterbaby - Amaria - Khruangbin - Common Saints - Jenevieve - Rosalia - Gabi Hartmann - Rhye - Oklou - Chiiild - Arlo Parks  & +++ ",
+					"text": "Anaïs Cardot + 4batz + French Montana x Jeremih + Men I Trust + Greentea Peng +  Angelo de Augustine +Odie +  Hope Tala + Orion Sun + Billie Eilish +  Oklou  & +++ ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -43,28 +43,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0knUurf2G3OIY_LeySoul.jpg?auto=format%2Ccompress&rect=0%2C0%2C900%2C900&w=1024&h=1024",
-					"alt": "Ley Soul",
+					"url": "https://images.prismic.io/x-track-mag/Z1Vx7ZbqstJ98M85_Anai%CC%88sCardot.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Anaïs Cardot",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a107dda6-c166-4c8a-847c-996a278a89a4_Feu%21%21+Chatterton.jpg?auto=compress,format&rect=0,0,2048,1638&w=1024&h=819",
-					"alt": "Feu! Chatterton",
-					"copyright": null,
-					"width": 1024,
-					"height": 819,
-					"ratio": 1.2503052503052503
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zn71JB5LeNNTwory_HopeTala.jpg?auto=format%2Ccompress&rect=0%2C0%2C1080%2C1350&w=1024&h=1280",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/d6def85a-d793-46d5-9224-5d9338033a8c_4Batz.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "4Batz",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/7f975ad0-713c-4d91-976b-26483bf2bff0_Men+i+Trust.jpg?auto=format,compress&rect=0,0,770,1080&w=1024&h=1436",
+					"alt": "Men i Trust",
+					"copyright": null,
+					"width": 1024,
+					"height": 1436,
+					"ratio": 0.713091922005571
 				}
 			]
 		},
@@ -72,24 +72,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a2eb5c16-2ec0-46c4-9387-5f698e415db6_Beyonce+.jpg?auto=format%2Ccompress&rect=0%2C0%2C1364%2C1365&w=1024&h=1025",
-					"alt": "Beyonce",
+					"url": "https://images.prismic.io/x-track-mag/ZewupXUurf2G3OUU_Jeremih.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jeremih",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Ziy7V93JpQ5PTOJk_AlainChamfort.jpg?auto=format%2Ccompress&rect=0%2C0%2C533%2C355&w=1024&h=682",
-					"alt": "Alain Chamfort",
+					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=format,compress&rect=1,0,2046,1229&w=1024&h=615",
+					"alt": "Greentea Peng",
 					"copyright": null,
 					"width": 1024,
-					"height": 682,
-					"ratio": 1.501466275659824
+					"height": 615,
+					"ratio": 1.665040650406504
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b03afd6d-76bc-4f6c-9992-eef124dc8d2e_Amaria.jpg?auto=compress,format&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Amaria",
+					"url": "https://images.prismic.io/x-track-mag/ZewupHUurf2G3OUT_FrenchMontana.jpg?auto=format,compress&rect=0,0,750,750&w=1024&h=1024",
+					"alt": "French Montana",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
