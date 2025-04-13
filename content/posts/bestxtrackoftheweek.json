@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-03-24T15:39:53+0000",
+	"publication_date": "2025-04-13T16:57:23+0000",
 	"title": "Best ”XTrack“ of the Week ",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Bon Iver",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : 4Batz",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Bon Iver - If Only I Could Wait (feat. Danielle Haim) .mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z-F2Q3dAxsiBv0UX_BonIver-IfOnlyICouldWait-feat.DanielleHaim-.mp4"
+		"name": "4 Batz.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z_vrCuvxEdbNO-mX_4Batz.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Men I trust + Arooj Aftab x  Khruangbin + Rusowsky + Moliy x Skillibeng + Shenseea x Silent Addy + Miel De Montagne + Bon Iver x Danielle Haim + July 7 + Skeete + Greentea Peng & +++ Enjoy ",
+					"text": "4Batz + Polo & Pan x Arthur Teboul + Little Simz + Jim Legxacy + Sirens of Lesbos x SadBoi x Kabusa Oriental Choir + Obongjayar + Yaya Bey x Father Philis & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z-F1pXdAxsiBv0Tl_MenITrust.jpg?auto=format,compress&rect=0,0,1920,1080&w=1024&h=576",
-					"alt": "Men I Trust",
+					"url": "https://images.prismic.io/x-track-mag/Z_vrBuvxEdbNO-mT_LittleSimz.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z-F1qHdAxsiBv0Tv_Khruangbin.jpg?auto=format,compress&rect=0,0,2999,1687&w=1024&h=576",
-					"alt": "Khruangbin",
+					"url": "https://images.prismic.io/x-track-mag/Z_vrCOvxEdbNO-mV_Polo%26Pan.jpg?auto=format,compress&rect=0,0,1080,864&w=1024&h=819",
+					"alt": "Polo & Pan",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 819,
+					"ratio": 1.2503052503052503
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z-F2iHdAxsiBv0Ui_AroojAftab.jpg?auto=format,compress&rect=0,0,870,525&w=1024&h=618",
-					"alt": "Arooj Aftab ",
+					"url": "https://images.prismic.io/x-track-mag/Z_vrA-vxEdbNO-mQ_YayaBey.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Yaya Bey",
 					"copyright": null,
 					"width": 1024,
-					"height": 618,
-					"ratio": 1.656957928802589
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -60,24 +60,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z-F1qndAxsiBv0Tx_DanielleHaim.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Danielle Haim",
+					"url": "https://images.prismic.io/x-track-mag/Z_vrB-vxEdbNO-mU_ArthurTeboul.jpg?auto=format,compress&rect=0,0,923,1154&w=1024&h=1280",
+					"alt": "Arthur Teboul",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z-F1pXdAxsiBv0To_Rusowsky.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Rusowsky",
+					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Sirens of Lesbos",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z-F1p3dAxsiBv0Tr_Moliy.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Moliy",
+					"url": "https://images.prismic.io/x-track-mag/Z_vrBOvxEdbNO-mR_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Obongjayar",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
