@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-04-13T16:57:23+0000",
+	"publication_date": "2025-04-20T10:16:12+0000",
 	"title": "Best ”XTrack“ of the Week ",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : 4Batz",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Smerz",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "4 Batz.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z_vrCuvxEdbNO-mX_4Batz.mp4"
+		"name": "Smerz.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aAS_JFvg_A-GMq7j_Smerz.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "4Batz + Polo & Pan x Arthur Teboul + Little Simz + Jim Legxacy + Sirens of Lesbos x SadBoi x Kabusa Oriental Choir + Obongjayar + Yaya Bey x Father Philis & +++ Enjoy ",
+					"text": "+++ Sault + Logic1000 x Quendresa + Lordkez + Smerz + Girls of the Internet x James Alexander Bright + Deela x Genio Bambino x Vayda + 1tbsp x Cherry chola x Purient + Tim Lyre x Show Dem Camp + Jay Safari + Ossaiofficial x Kida Kudz + Smerz x Allina & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,24 +31,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z_vrBuvxEdbNO-mT_LittleSimz.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/aAS_KFvg_A-GMq7n_Cleosol.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Cleo sol / Sault",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aAS_KVvg_A-GMq7o_Inflo.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Inflo / Sault",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z_vrCOvxEdbNO-mV_Polo%26Pan.jpg?auto=format,compress&rect=0,0,1080,864&w=1024&h=819",
-					"alt": "Polo & Pan",
-					"copyright": null,
-					"width": 1024,
-					"height": 819,
-					"ratio": 1.2503052503052503
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z_vrA-vxEdbNO-mQ_YayaBey.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Yaya Bey",
+					"url": "https://images.prismic.io/x-track-mag/aAS_J1vg_A-GMq7m_Logic1000.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Logic1000",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z_vrB-vxEdbNO-mU_ArthurTeboul.jpg?auto=format,compress&rect=0,0,923,1154&w=1024&h=1280",
-					"alt": "Arthur Teboul",
+					"url": "https://images.prismic.io/x-track-mag/aAS_tVvg_A-GMq7s_Quendresa.jpg?auto=format,compress&rect=0,0,899,899&w=1024&h=1024",
+					"alt": "Quendresa",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aATANlvg_A-GMq7u_JaySafari.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Jay Safari",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Sirens of Lesbos",
+					"url": "https://images.prismic.io/x-track-mag/aAS_IVvg_A-GMq7g_Deela.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Deela",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z_vrBOvxEdbNO-mR_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Obongjayar",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
