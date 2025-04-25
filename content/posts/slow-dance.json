@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-01-26T19:40:29+0000",
+	"publication_date": "2025-04-25T06:30:28+0000",
 	"title": "Slow Dance",
 	"subtitle": "Old School Down Tempo - Cover : Grace Jones",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Lenny Kravitz + Daryl Hall x John Oates + Grace Jones + Fleetwood Mac + Metronomy + Donald Fagen + Steely Dan + Boz Scags + Patrice Rushen + Sade + The Doobie Brothers + Mayer Hawthorne + DNA x Suzanne Vega + The Neville Brothers + David Bowie + Chris Isaac + John Lee Hooker x Santana + Dennis Edwards x Siedah Garrett + Leisure + Massive Attack x Tricky & +++ enjoy",
+					"text": "Lenny Kravitz + PM Dawn + Fleetwood Mac + Donald Fagen + Steely Dan + Boz Scags  + The Doobie Brothers + David Bowie + Chris Isaak + John Lee Hooker x Santana + The Neville Brothers + Grace Jones + Jungle + Daryl Hall & John Oates + The rolling Stones + Toto + Steve Miller Band + Massive Attack x Tricky & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -43,20 +43,20 @@
 					"ratio": 0.6597938144329897
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZtbPRLzzk9ZrW5zb_PatriceRushen.jpg?auto=format,compress&rect=0,0,750,750&w=1024&h=1024",
-					"alt": "Patrice Rushen",
+					"url": "https://images.prismic.io/x-track-mag/Zf6g1McYqOFdyC1a_GraceJones.jpg?auto=format,compress&rect=0,1,2558,1434&w=1024&h=574",
+					"alt": "Grace Jones",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 574,
+					"ratio": 1.78397212543554
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zh8E10aI3ufuUPXS_DarylHall%26JohnOates.jpg?auto=format,compress&rect=0,0,960,997&w=1024&h=1063",
-					"alt": "Daryl Hall & John Oates",
+					"url": "https://images.prismic.io/x-track-mag/Z5aOT5bqstJ9927u_SteelyDan.jpg?auto=format,compress&rect=0,0,2999,1687&w=1024&h=576",
+					"alt": "Steely Dan",
 					"copyright": null,
 					"width": 1024,
-					"height": 1063,
-					"ratio": 0.9633113828786454
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -72,20 +72,20 @@
 					"ratio": 1.0332996972754793
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZtbPQbzzk9ZrW5zY_suzannevega.jpg?auto=format,compress&rect=0,0,1000,850&w=1024&h=870",
-					"alt": "Suzanne Vega",
+					"url": "https://images.prismic.io/x-track-mag/Zf6g0scYqOFdyC1Y_David-Bowie.jpg?auto=format,compress&rect=0,0,600,600&w=1024&h=1024",
+					"alt": "David Bowie",
 					"copyright": null,
 					"width": 1024,
-					"height": 870,
-					"ratio": 1.1770114942528735
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z5aOT5bqstJ9927u_SteelyDan.jpg?auto=format,compress&rect=0,0,2999,1687&w=1024&h=576",
-					"alt": "Steely Dan",
+					"url": "https://images.prismic.io/x-track-mag/Zf6g0ccYqOFdyC1X_FleetwoodMac.jpg?auto=format,compress&rect=0,0,1580,1054&w=1024&h=683",
+					"alt": "Fleetwood Mac",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
@@ -107,5 +107,5 @@
 			]
 		}
 	],
-	"description": "Lenny Kravitz + Daryl Hall x John Oates + Grace Jones + Fleetwood Mac + Metronomy + Donald Fagen + Steely Dan + Boz Scags + Patrice Rushen + Sade + The Doobie Brothers + Mayer Hawthorne + DNA x Suzanne Vega + The Neville Brothers + David Bowie + Chris Isaac + John Lee Hooker x Santana + Dennis Edwards x Siedah Garrett + Leisure + Massive Attack x Tricky & +++ enjoy"
+	"description": "Lenny Kravitz + PM Dawn + Fleetwood Mac + Donald Fagen + Steely Dan + Boz Scags  + The Doobie Brothers + David Bowie + Chris Isaak + John Lee Hooker x Santana + The Neville Brothers + Grace Jones + Jungle + Daryl Hall & John Oates + The rolling Stones + Toto + Steve Miller Band + Massive Attack x Tricky & +++ enjoy"
 }
