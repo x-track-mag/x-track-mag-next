@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-04-20T10:17:44+0000",
+	"publication_date": "2025-05-04T18:52:01+0000",
 	"title": "Best ”XTrack“ of the Week ",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Smerz",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Burna Boy",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Smerz.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aAS_JFvg_A-GMq7j_Smerz.mp4"
+		"name": "Burna Boy - Sweet Love [Official Music Video].mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aBe1yPIqRLdaB2oi_BurnaBoy-SweetLove%5BOfficialMusicVideo%5D.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Sault + Logic1000 x Quendresa + Lordkez + Smerz + Girls of the Internet x James Alexander Bright + Deela x Genio Bambino x Vayda + 1tbsp x Cherry chola x Purient + Tim Lyre x Show Dem Camp + Jay Safari + Ossaiofficial x Kida Kudz + Logic1000 x Smerz x Allina & +++ Enjoy ",
+					"text": "+++ Burna Boy + Wretch 32 x Protoje + Yaya Bey + Olamide x Wizkid + Ayra Starr x Wizkid +  LeoSayTrill x K-Trap + Shallipopi x Burna Boy + Aqyila + Samara Cyn + 4batz & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,24 +31,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aAS_KFvg_A-GMq7n_Cleosol.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Cleo sol / Sault",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aAS_KVvg_A-GMq7o_Inflo.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Inflo / Sault",
+					"url": "https://images.prismic.io/x-track-mag/aBe1yvIqRLdaB2ok_Wretch32.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Wretch 32",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aAS_J1vg_A-GMq7m_Logic1000.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Logic1000",
+					"url": "https://images.prismic.io/x-track-mag/Z_vrA-vxEdbNO-mQ_YayaBey.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Yaya Bey",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aBe1wPIqRLdaB2oh_Olamide.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Olamide",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -60,24 +60,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aAS_tVvg_A-GMq7s_Quendresa.jpg?auto=format,compress&rect=0,0,899,899&w=1024&h=1024",
-					"alt": "Quendresa",
+					"url": "https://images.prismic.io/x-track-mag/aBe1vvIqRLdaB2of_AyraStarr.jpg?auto=format,compress&rect=0,0,1080,1235&w=1024&h=1171",
+					"alt": "Ayra Starr",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1171,
+					"ratio": 0.874466268146883
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aATANlvg_A-GMq7u_JaySafari.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jay Safari",
+					"url": "https://images.prismic.io/x-track-mag/aBe1v_IqRLdaB2og_Wizkid.jpg?auto=format,compress&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aAS_IVvg_A-GMq7g_Deela.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Deela",
+					"url": "https://images.prismic.io/x-track-mag/aBe1uvIqRLdaB2ob_SamaraCyn.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Samara Cyn",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
