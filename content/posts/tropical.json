@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-05-17T10:13:27+0000",
+	"publication_date": "2025-05-17T10:39:14+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Mahalia x Lila Iké",
 	"text_color": "green",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Burna boy + Skiifall x Jorja Smith + Mortimer + Chronixx + Mahalia x Lila Iké + Greentea Peng +  Young T & Bugsey x Peruzzi x Jae5 + Moliy x Silent Addy x Skillibeng x Shensea + Stefflon Don x Spice + Yaya Bey x Father Philis + Asake +  + Ashidapo x Asake + Wizkid & +++ Enjoy",
+					"text": "Burna boy + Skiifall x Jorja Smith + Mortimer + Chronixx + Mahalia x Lila Iké + Greentea Peng +  Young T & Bugsey x Peruzzi x Jae5  + Yaya Bey x Father Philis + Asake +  + Ashidapo x Asake + Wizkid + Tekno + & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -47,12 +47,12 @@
 					"ratio": 0.8025078369905956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zm7S9pm069VX1yGJ_Shenseea.jpg?auto=format,compress&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Shenseea",
+					"url": "https://images.prismic.io/x-track-mag/Z_vrA-vxEdbNO-mQ_YayaBey.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Yaya Bey",
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
