@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-05-03T09:10:44+0000",
+	"publication_date": "2025-05-18T10:06:00+0000",
 	"title": "Slow Dance",
 	"subtitle": "The Power Of Gentle Joy - Cover : Grace Jones",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Lenny Kravitz + Me One + PM Dawn + Fleetwood Mac + Donald Fagen + Steely Dan + Boz Scags  + The Doobie Brothers + David Bowie + Chris Isaak + John Lee Hooker x Santana + The Neville Brothers + Grace Jones + Jungle + Daryl Hall & John Oates + The Rolling Stones + Toto + Color Me Bad + Steve Miller Band + Massive Attack x Tricky & +++ enjoy",
+					"text": "Lenny Kravitz + Me One + PM Dawn + Bryan Ferry + Fleetwood Mac + Donald Fagen + Steely Dan + Boz Scags  + Paul Simon + Joni Mitchell + David Bowie + Chris Isaak + John Lee Hooker x Santana + The Neville Brothers + Grace Jones + Curtis Mayfield + Michael Jackson + Moanday x Gomz + Jungle + Khruangbin x Leon Bridges + Barry White + Daryl Hall & John Oates + Dire Straits + Sophie Zelmani + Angus & Julia Stones + The Rolling Stones + Toto + Dennis Edward + JJ Cale + Sly & the Family Stone + Marvin Gaye + Commodores + Fun Lovin Criminals + Steve Miller Band + Massive Attack x Tricky & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -64,20 +64,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZtbPQ7zzk9ZrW5za_DoobieBrothers.jpg?auto=format,compress&rect=0,0,1600,1548&w=1024&h=991",
-					"alt": "Doobie Brothers",
+					"url": "https://images.prismic.io/x-track-mag/aCmw0ydWJ-7kSQiP_BryanFerry.jpg?auto=format,compress&rect=0,0,445,557&w=1024&h=1282",
+					"alt": "Bryan Ferry",
 					"copyright": null,
 					"width": 1024,
-					"height": 991,
-					"ratio": 1.0332996972754793
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zf6g0scYqOFdyC1Y_David-Bowie.jpg?auto=format,compress&rect=0,0,600,600&w=1024&h=1024",
-					"alt": "David Bowie",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1282,
+					"ratio": 0.7987519500780031
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zf6g0ccYqOFdyC1X_FleetwoodMac.jpg?auto=format,compress&rect=0,0,1580,1054&w=1024&h=683",
@@ -86,6 +78,14 @@
 					"width": 1024,
 					"height": 683,
 					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zf6g0scYqOFdyC1Y_David-Bowie.jpg?auto=format,compress&rect=0,0,600,600&w=1024&h=1024",
+					"alt": "David Bowie",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -107,5 +107,5 @@
 			]
 		}
 	],
-	"description": "Lenny Kravitz + Me One + PM Dawn + Fleetwood Mac + Donald Fagen + Steely Dan + Boz Scags  + The Doobie Brothers + David Bowie + Chris Isaak + John Lee Hooker x Santana + The Neville Brothers + Grace Jones + Jungle + Daryl Hall & John Oates + The Rolling Stones + Toto + Color Me Bad + Steve Miller Band + Massive Attack x Tricky & +++ enjoy"
+	"description": "Lenny Kravitz + Me One + PM Dawn + Bryan Ferry + Fleetwood Mac + Donald Fagen + Steely Dan + Boz Scags  + Paul Simon + Joni Mitchell + David Bowie + Chris Isaak + John Lee Hooker x Santana + The Neville Brothers + Grace Jones + Curtis Mayfield + Michael Jackson + Moanday x Gomz + Jungle + Khruangbin x Leon Bridges + Barry White + Daryl Hall & John Oates + Dire Straits + Sophie Zelmani + Angus & Julia Stones + The Rolling Stones + Toto + Dennis Edward + JJ Cale + Sly & the Family Stone + Marvin Gaye + Commodores + Fun Lovin Criminals + Steve Miller Band + Massive Attack x Tricky & +++ enjoy"
 }
