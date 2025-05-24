@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-05-04T18:52:01+0000",
+	"publication_date": "2025-05-24T09:19:19+0000",
 	"title": "Best ”XTrack“ of the Week ",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : Burna Boy",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : bd Trickz",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Burna Boy - Sweet Love [Official Music Video].mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aBe1yPIqRLdaB2oi_BurnaBoy-SweetLove%5BOfficialMusicVideo%5D.mp4"
+		"name": "Bb trickz - Malvada.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aDGMJSdWJ-7kSg16_Bbtrickz-Malvada.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Burna Boy + Wretch 32 x Protoje + Yaya Bey + Olamide x Wizkid + Ayra Starr x Wizkid +  LeoSayTrill x K-Trap + Shallipopi x Burna Boy + Aqyila + Samara Cyn + 4batz & +++ Enjoy ",
+					"text": "+++ Rubii x amaria BB + Valiant + Semzi x Easyscope x Kida Kudz + The Cavemen + Little Simz + Major Lazer x Vibz Kartel + Roland Decembre + Jvck James x Stormzy & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aBe1yvIqRLdaB2ok_Wretch32.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Wretch 32",
+					"url": "https://images.prismic.io/x-track-mag/aDGMKCdWJ-7kSg18_LittleSimz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Little Simz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aDGOoSdWJ-7kSg2T_Valiant.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
+					"alt": "Valiant",
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aDGMKSdWJ-7kSg19_AmariaBB.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Amaria BB",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z_vrA-vxEdbNO-mQ_YayaBey.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Yaya Bey",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aBe1wPIqRLdaB2oh_Olamide.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Olamide",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aBe1vvIqRLdaB2of_AyraStarr.jpg?auto=format,compress&rect=0,0,1080,1235&w=1024&h=1171",
-					"alt": "Ayra Starr",
+					"url": "https://images.prismic.io/x-track-mag/aDGMISdWJ-7kSg12_SemzyxEasycope.jpg?auto=format,compress&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Semzy x Easycope",
 					"copyright": null,
 					"width": 1024,
-					"height": 1171,
-					"ratio": 0.874466268146883
+					"height": 1276,
+					"ratio": 0.8025078369905956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aBe1v_IqRLdaB2og_Wizkid.jpg?auto=format,compress&rect=0,0,1799,1200&w=1024&h=683",
-					"alt": "Wizkid",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aBe1uvIqRLdaB2ob_SamaraCyn.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Samara Cyn",
+					"url": "https://images.prismic.io/x-track-mag/aDGMKidWJ-7kSg1-_Rubii.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Rubii",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aDGMICdWJ-7kSg11_KidaKudz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Kida Kudz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
