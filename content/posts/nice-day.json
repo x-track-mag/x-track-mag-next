@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-04-26T13:36:28+0000",
+	"publication_date": "2025-05-25T09:10:33+0000",
 	"title": "Nice Day",
 	"subtitle": "Happy Crossover - Sleepy Brown x Pharrell Williams x Big boi on Cover",
 	"text_color": "inverted",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Kanye West x Paul Wall x GLC + Guru x Paul Ferguson x Baybe + Method Man x Mary J Blidge +  Garland Jeffreys + The Brand New Heavies + Snoop Dog x Charlie Wilson x Justin Timberlake +  Sleepy Brown x Pharrell Williams x Big Boi + Michael jackson +  Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande + Bronski Beats + Estelle x Kanye West + Asap Rocky + Outkast x Sleepy Brown + Sault + Jungle + Dornik + Gnarls Barkley & ++++ Enjoy",
+					"text": "Missy Elliot x R. Kelly + Outkast + Kanye West x Paul Wall x GLC + Nas x Chrisette Michele + Guru x Paul Ferguson x Baybe + The 411 x Ghostface Killah + digital Underground + Timbaland x Magoo x Brandy + 2Pac x Dr Dre. x Roger + Kelis x Nas + Method Man x Mary J Blidge +  Garland Jeffreys + The Brand New Heavies + Pharrell Williams x Kanye West + Sergio Mendes x Q-tip x Will.I.Am + Snoop Dog x Charlie Wilson x Justin Timberlake +  Sleepy Brown x Pharrell Williams x Big Boi + Michael jackson +  Calvin Harris x Young Thug x Pharrell Williams x Ariana Grande + Bronski Beats + Estelle x Kanye West + Asap Rocky + Outkast x Sleepy Brown + Sault + Jungle + Dornik + Gnarls Barkley & ++++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,12 +31,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZpJDex5LeNNTxITR_Ariana-Grande.jpeg?auto=format,compress&rect=0,0,942,623&w=1024&h=677",
-					"alt": "Ariana Grande",
+					"url": "https://images.prismic.io/x-track-mag/aDLYxCdWJ-7kShQN_Outkast.jpg?auto=format,compress&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Outkast ",
 					"copyright": null,
 					"width": 1024,
-					"height": 677,
-					"ratio": 1.5125553914327918
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aDLcjidWJ-7kShQo_Kelis.jpg?auto=format,compress&rect=0,0,495,575&w=1024&h=1189",
+					"alt": "Kelis ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1189,
+					"ratio": 0.8612279226240538
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZpJDfR5LeNNTxITT_PharrellWilliamsxKanyeWest.jpg?auto=format,compress&rect=0,0,1100,620&w=1024&h=577",
@@ -45,14 +53,6 @@
 					"width": 1024,
 					"height": 577,
 					"ratio": 1.7746967071057191
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/09bc9984-b06b-465e-b2d7-e28b8a2bc150_Lauryn+Hill.jpg?auto=format,compress&rect=0,0,1050,1050&w=1024&h=1024",
-					"alt": "Lauryn Hill",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				}
 			]
 		},
@@ -60,12 +60,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/89076659-ff51-491f-a058-da9daad46bfb_Snoop+Dog.jpg?auto=format,compress&rect=0,0,1260,708&w=1024&h=575",
-					"alt": "Snoop Dog",
+					"url": "https://images.prismic.io/x-track-mag/aDLaoidWJ-7kShQb_MissyElliot.jpg?auto=format,compress&rect=0,0,640,800&w=1024&h=1280",
+					"alt": "Missy Elliot",
 					"copyright": null,
 					"width": 1024,
-					"height": 575,
-					"ratio": 1.7808695652173914
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aDLdWCdWJ-7kShQx_Nas.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Nas",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zt7OIRoQrfVKl2LO_Estelle.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
@@ -74,14 +82,6 @@
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/c236aa2d-b7ed-401d-95a1-1b0fba256e38_Big+Boi.jpeg?auto=format,compress&rect=1,0,2998,2108&w=1024&h=720",
-					"alt": "Big Boi",
-					"copyright": null,
-					"width": 1024,
-					"height": 720,
-					"ratio": 1.4222222222222223
 				}
 			]
 		},
