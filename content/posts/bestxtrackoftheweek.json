@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-05-24T09:19:19+0000",
+	"publication_date": "2025-06-07T17:50:31+0000",
 	"title": "Best ”XTrack“ of the Week ",
-	"subtitle": "Les meilleurs sons de la semaine - Cover : bd Trickz",
+	"subtitle": "Les meilleurs sons de la semaine - Cover : Little Simz x Obongjayar",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Bb trickz - Malvada.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aDGMJSdWJ-7kSg16_Bbtrickz-Malvada.mp4"
+		"name": "Little Simz x Obongjayar.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aER5e7h8WN-LV2o0_LittleSimzxObongjayar.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Rubii x amaria BB + Valiant + Semzi x Easyscope x Kida Kudz + The Cavemen + Little Simz + Major Lazer x Vibz Kartel + Roland Decembre + Jvck James x Stormzy & +++ Enjoy ",
+					"text": "+++ Little Simz x Lydia Kitto + Obongjayar + DameDame x Jorja Smith + Juls + Valiant  + Bloody Civilian + Nasty C x Usimaname + Pale jay x Conway the Machine + Angelo Leroi & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aDGMKCdWJ-7kSg18_LittleSimz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/aER5dLh8WN-LV2ox_DameDamexJorjaSmith.jpg?auto=format,compress&rect=0,0,1080,810&w=1024&h=768",
+					"alt": "DameDame x JorjaSmith",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 768,
+					"ratio": 1.3333333333333333
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aDGOoSdWJ-7kSg2T_Valiant.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
-					"alt": "Valiant",
+					"url": "https://images.prismic.io/x-track-mag/aER5cbh8WN-LV2ou_FeuChatterton.jpg?auto=format,compress&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "Feu Chatterton",
 					"copyright": null,
 					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aDGMKSdWJ-7kSg19_AmariaBB.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Amaria BB",
+					"url": "https://images.prismic.io/x-track-mag/aER5c7h8WN-LV2ow_BloddyCivilian.jpg?auto=format,compress&rect=0,0,1080,1334&w=1024&h=1265",
+					"alt": "Bloddy Civilian",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1265,
+					"ratio": 0.8094861660079051
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aDGMISdWJ-7kSg12_SemzyxEasycope.jpg?auto=format,compress&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Semzy x Easycope",
+					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Obongjayar",
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aDGMKidWJ-7kSg1-_Rubii.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Rubii",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aDGMICdWJ-7kSg11_KidaKudz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Kida Kudz",
+					"url": "https://images.prismic.io/x-track-mag/aER5bbh8WN-LV2oq_LydiaKitto.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Lydia Kitto",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aER5crh8WN-LV2ov_Valiant.jpg?auto=format,compress&rect=0,0,1499,1000&w=1024&h=683",
+					"alt": "Valiant",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
