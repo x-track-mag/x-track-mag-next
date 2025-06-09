@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-02-23T14:56:17+0000",
+	"publication_date": "2025-06-09T10:03:53+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - AJ Tracey x Jorja smith",
 	"text_color": "green",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Rema + Litle Simz + Nia Smith x Popcaan + Sirens of Lesbos + AJ Tracey x Jorja Smith + BH & JB x Young T & Bugsey x Madison B + Central Cee x Young Miko + Burna boy + Pocaan + Darkoo + Smino x Ravyn Lenae + Mahalia x Lila Iké + Jah Lil x XTM Nation + Jorja Smith x Mortimer + Haile + Tyla x Sean paul + Odumodublvck x Victony + Show Dem Camp x Amaarae x Tems x DJ Sudi x No Nazar + Tyla x Gunna x Skillibeng + Hope Tala + Bawo x Jordy +  Wizkid + Kali Uchis + Jungle + Amber Mark + Kaytranada x Aminé x Pharrell Williams + Saint Levant x MC Abdul & +++ Enjoy",
+					"text": "+++ Rema + Little Simz x Lydia Kitto + Nia Smith x Popcaan + Nasty C x Usimaname + AJ Tracey x Jorja Smith + Obongjayar + Valiant + Sirens of Lesbos x Sadboi x Kabusa Oriental Choir + Central Cee x Young Miko + Burna boy + Ayra Starr + Wretch 32 x Protoje + Bb Trickz  & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -68,20 +68,20 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7deo57c43Q3gB2I_CentralCee.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Central Cee",
+					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Obongjayar",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7deop7c43Q3gB2G_YoungMiko.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Young Miko",
+					"url": "https://images.prismic.io/x-track-mag/aDGMwydWJ-7kSg2F_BbTrickz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Bb Trickz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
