@@ -1,0 +1,107 @@
+{
+	"uid": "bestxtrackofthesummer",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2025-06-21T14:39:18+0000",
+	"title": "Best ”XTrack“ of Summer",
+	"subtitle": "Les meilleurs sons de l'Été - Cover : Little Simz x Obongjayar",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "Little Simz - Lion ft. Obongjayar (Live At The BBC).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aFbCvXfc4bHWilyO_LittleSimz-Lionft.Obongjayar-LiveAtTheBBC-.mp4"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "+++ Joao Selva x Blundetto + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x kadiata + 808vic + Valiant + Bb Trickz + Semzi x Easyscope x Kida Kudz + The Cavemen + Yaya Bey x Father Philis + DameDame x Jorja Smith + Hope Tala + Sirens of Lesbos x Sadboi x Kabusa Oriental Choir + Obongjayar & +++ Enjoy ",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/aFbCuHfc4bHWilyL_JoaoSelva.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Joao Selva",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aFbCt3fc4bHWilyK_AnaisCardot.jpg?auto=format,compress&rect=0,0,1080,771&w=1024&h=731",
+					"alt": "Anais Cardot",
+					"copyright": null,
+					"width": 1024,
+					"height": 731,
+					"ratio": 1.4008207934336525
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=format,compress&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "juls",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z_vrA-vxEdbNO-mQ_YayaBey.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Yaya Bey",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aFbDbHfc4bHWilyU_Valiant.jpg?auto=format,compress&rect=0,0,1080,1439&w=1024&h=1364",
+					"alt": "Valiant",
+					"copyright": null,
+					"width": 1024,
+					"height": 1364,
+					"ratio": 0.750733137829912
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aER5dLh8WN-LV2ox_DameDamexJorjaSmith.jpg?auto=format,compress&rect=0,0,1080,810&w=1024&h=768",
+					"alt": "DameDame x JorjaSmith",
+					"copyright": null,
+					"width": 1024,
+					"height": 768,
+					"ratio": 1.3333333333333333
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=de79b7bcf52a480f",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"title": "Best ”XTrack“ of the Week"
+				}
+			]
+		}
+	],
+	"description": "Playlist des meilleurs sons de la semaine"
+}
