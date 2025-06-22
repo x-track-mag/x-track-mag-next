@@ -16,7 +16,7 @@
 		},
 		{
 			"position": 3,
-			"uid": "feel-good"
+			"uid": "tropical"
 		},
 		{
 			"position": 4,
@@ -24,7 +24,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "tropical"
+			"uid": "feel-good"
 		},
 		{
 			"position": 6,
@@ -214,23 +214,23 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "feel-good",
+			"uid": "tropical",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-06-09T10:04:19+0000",
-			"title": "Feel Good",
-			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - AJ Tracey x Jorja smith",
+			"publication_date": "2025-06-22T14:38:05+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
 			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "AJ Tracey - Crush (feat. Jorja Smith).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7JcFp7c43Q3f1nj_AJTracey-Crush-feat.JorjaSmith-.mp4"
+				"name": "Yaya Bey - merlot and grigio (feat. Father Philis) [Official Video].mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aFgTiXfc4bHWimFo_YayaBey-merlotandgrigio-feat.FatherPhilis-%5BOfficialVideo%5D.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
+			"description": "Tropical"
 		},
 		{
 			"uid": "martin-parr",
@@ -256,23 +256,23 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "tropical",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-06-22T14:38:05+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
+			"publication_date": "2025-06-09T10:04:19+0000",
+			"title": "Feel Good",
+			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - AJ Tracey x Jorja smith",
 			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Yaya Bey - merlot and grigio (feat. Father Philis) [Official Video].mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aFgTiXfc4bHWimFo_YayaBey-merlotandgrigio-feat.FatherPhilis-%5BOfficialVideo%5D.mp4"
+				"name": "AJ Tracey - Crush (feat. Jorja Smith).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7JcFp7c43Q3f1nj_AJTracey-Crush-feat.JorjaSmith-.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Tropical"
+			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
 		},
 		{
 			"uid": "live-session-amaru",
