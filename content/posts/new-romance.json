@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2024-11-21T21:43:39+0000",
+	"publication_date": "2025-06-26T10:42:18+0000",
 	"title": "New Romance",
-	"subtitle": "100% Chill Vibes - Nia Smith on Cover",
+	"subtitle": "100% Chill Vibes - Leon Bridges on Cover",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Nia Smith.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Zt2bYxoQrfVKl0dZ_NiaSmith.mp4"
+		"name": "Leon Bridges - Peaceful Place (Official Video).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aF0ij3fc4bHWivr8_LeonBridges-PeacefulPlace-OfficialVideo-.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jeremih x 4 Batz - Nia Smith - Jorja Smith x Mortimer - Obongjayar - Jungle - Fousheé - Skiifall -  Saint Levant x Mc Abdul - Hope Tala - Chaton - Cleo Sol - Teni - Leon Bridges & +++ enjoy",
+					"text": "Rubii x Amaria BB  + Little Simz x Lydia Kitto + Joao Selva x Blundetto + Juls x Anaïs Cardot x Kadiata + Sault + Chaton + Hope Tala + Leon Bridges + Chiiild x Shungudzo - Arooj Aftab x Khruangbin & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b6f680b8-adb5-4c58-9719-b6eb579c3066_Jorja+Smith+.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Jorja Smith",
+					"url": "https://images.prismic.io/x-track-mag/Z_vrBuvxEdbNO-mT_LittleSimz.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzLYF3NbkBXvOd_4BatzxJeremih.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "4Batz x Jeremih",
+					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=format,compress&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZuXMSbVsGrYSvXo8_Foushee%CC%81.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Fousheé",
+					"url": "https://images.prismic.io/x-track-mag/aDGMKidWJ-7kSg1-_Rubii.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Rubii",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4337b3ed-2e49-4964-a53a-c44471d9f952_Leon+Bridges.jpg?auto=format,compress&rect=0,0,1280,800&w=1024&h=640",
-					"alt": "Leon Bridges",
+					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=format,compress&rect=0,0,1500,844&w=1024&h=576",
+					"alt": "Amaria BB",
 					"copyright": null,
 					"width": 1024,
-					"height": 640,
-					"ratio": 1.6
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzMIF3NbkBXvOg_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Hope Tala",
+					"url": "https://images.prismic.io/x-track-mag/aFbCuHfc4bHWilyL_JoaoSelva.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Joao Selva",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZxPzLoF3NbkBXvOe_Skiifall.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Skiifall",
+					"url": "https://images.prismic.io/x-track-mag/aFbCt3fc4bHWilyK_AnaisCardot.jpg?auto=format,compress&rect=0,0,1080,771&w=1024&h=731",
+					"alt": "Anais Cardot",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 731,
+					"ratio": 1.4008207934336525
 				}
 			]
 		},
