@@ -628,6 +628,26 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
+			"uid": "polycool",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2025-06-26T10:44:10+0000",
+			"title": "Polycool",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": {
+				"name": "Sans titre.mov",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov"
+			},
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassia",
+			"internal_link": null,
+			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
+		},
+		{
 			"uid": "interview-moment-amaru",
 			"tags": [
 				"interview",
@@ -646,26 +666,6 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "interview amaru a little moment x-track mag"
-		},
-		{
-			"uid": "live-session-flowerybeard",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2025-06-26T10:43:15+0000",
-			"title": "FLOWERY BEARD",
-			"subtitle": "LIVE SESSION",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "XTRACK LS JUIN FLOWERY BEARD v2hq.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/6eb26ffb-3d0c-4e97-8d51-a2df1506fc4c_XTRACK+LS+JUIN+FLOWERY+BEARD+v2hq.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session flowery beard mawon x-track mag"
 		},
 		{
 			"uid": "yayayayoutube-ep-1-samantha-deep",
@@ -815,6 +815,26 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
+		},
+		{
+			"uid": "live-session-flowerybeard",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2025-06-26T10:43:15+0000",
+			"title": "FLOWERY BEARD",
+			"subtitle": "LIVE SESSION",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "XTRACK LS JUIN FLOWERY BEARD v2hq.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/6eb26ffb-3d0c-4e97-8d51-a2df1506fc4c_XTRACK+LS+JUIN+FLOWERY+BEARD+v2hq.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session flowery beard mawon x-track mag"
 		},
 		{
 			"uid": "boys-noize-resonne-toujours-plus-fort",
@@ -1014,26 +1034,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "The Ophelie Summer show : relooking d'une sugar mummy"
-		},
-		{
-			"uid": "polycool",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2024-03-23T09:35:21+0000",
-			"title": "Polycool ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": {
-				"name": "Sans titre.mov",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/8796a566-79fa-4a14-918f-895674301f66_Sans+titre.mov"
-			},
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
 		}
 	]
 }
