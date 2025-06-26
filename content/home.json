@@ -628,6 +628,26 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
+			"uid": "interview-moment-amaru",
+			"tags": [
+				"interview",
+				"music"
+			],
+			"publication_date": "2025-06-26T10:43:30+0000",
+			"title": "AMARU",
+			"subtitle": "A LITTLE MOMENT ",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "ITW 1304.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "interview amaru a little moment x-track mag"
+		},
+		{
 			"uid": "live-session-flowerybeard",
 			"tags": [
 				"music",
@@ -646,30 +666,6 @@
 			"author": "X-TRACK TEAM",
 			"internal_link": null,
 			"description": "live session flowery beard mawon x-track mag"
-		},
-		{
-			"uid": "boys-noize-resonne-toujours-plus-fort",
-			"tags": [
-				"article",
-				"music"
-			],
-			"publication_date": "2025-06-26T10:42:48+0000",
-			"title": "Boys Noize résonne toujours plus fort",
-			"subtitle": "",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1616,
-				"height": 1080,
-				"ratio": 1.4962962962962962
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Camille Laurens",
-			"internal_link": null,
-			"description": "Boys Noize"
 		},
 		{
 			"uid": "yayayayoutube-ep-1-samantha-deep",
@@ -819,6 +815,30 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
+		},
+		{
+			"uid": "boys-noize-resonne-toujours-plus-fort",
+			"tags": [
+				"article",
+				"music"
+			],
+			"publication_date": "2025-06-26T10:42:48+0000",
+			"title": "Boys Noize résonne toujours plus fort",
+			"subtitle": "",
+			"text_color": "green",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/1602033e-abfb-47ba-a162-ce347f9e4520_17159272_10154902294100803_7158656895527055611_o.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1616,
+				"height": 1080,
+				"ratio": 1.4962962962962962
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Camille Laurens",
+			"internal_link": null,
+			"description": "Boys Noize"
 		},
 		{
 			"uid": "old-school-reggae",
@@ -1014,26 +1034,6 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
-		},
-		{
-			"uid": "interview-moment-amaru",
-			"tags": [
-				"interview",
-				"music"
-			],
-			"publication_date": "2024-03-16T19:05:41+0000",
-			"title": "AMARU ",
-			"subtitle": "A LITTLE MOMENT ",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "ITW 1304.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/88436cc8-5b03-4c78-9aee-fdde52242855_ITW+1304.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "interview amaru a little moment x-track mag"
 		}
 	]
 }
