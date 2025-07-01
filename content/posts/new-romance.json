@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-06-27T10:29:29+0000",
+	"publication_date": "2025-07-01T18:20:02+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Hope Tala on Cover",
 	"text_color": "inverted",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Rubii x Amaria BB  + Joao Selva x Blundetto + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x Kadiata + Sault + Chaton + Hope Tala + Cleo Sol + Juls x Tendai + Judeline + Partynextdoor + Obongjayar + Wizkid x Tiakola + Amaarae + Babeheaven + Raveena x Jpegmafia & +++ enjoy",
+					"text": "Rubii x Amaria BB  + Joao Selva x Blundetto + ¿Téo? x Jaden Smith + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x Kadiata + Sault + Chaton + Hope Tala + Cleo Sol + Juls x Tendai + Judeline + Partynextdoor + Obongjayar + Wizkid x Tiakola + Amaarae + Babeheaven + Raveena x Jpegmafia & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -60,16 +60,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=format,compress&rect=0,0,1500,844&w=1024&h=576",
-					"alt": "Amaria BB",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aFbCuHfc4bHWilyL_JoaoSelva.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Joao Selva",
+					"url": "https://images.prismic.io/x-track-mag/aGQmnXfc4bHWi7gx_%C2%BFTe%CC%81o%3F.jpg?auto=format,compress&rect=0,0,960,960&w=1024&h=1024",
+					"alt": "¿Téo?",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -82,6 +74,14 @@
 					"width": 1024,
 					"height": 731,
 					"ratio": 1.4008207934336525
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aFbCuHfc4bHWilyL_JoaoSelva.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Joao Selva",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
