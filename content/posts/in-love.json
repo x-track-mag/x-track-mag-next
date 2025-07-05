@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-03-26T18:17:18+0000",
+	"publication_date": "2025-07-05T08:48:10+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
 	"text_color": "green",
@@ -33,7 +33,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Anaïs Cardot + 4batz + French Montana x Jeremih + Men I Trust + Greentea Peng +  Angelo de Augustine +Odie +  Hope Tala + Orion Sun + Billie Eilish +  Oklou  & +++ ",
+					"text": "Anaïs Cardot + 4batz + French Montana x Jeremih + Men I Trust + Hope Tala + Jvck James x Stormzy + Billie Eilish +  Galimatias + Ley soul + Rubii + Orion Sun + Wizkid + Michael Kiwanuka + Feu Chatterton + Amaria & +++ ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -80,12 +80,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/2e5dc801-65fc-44e8-8e49-f7f2e0a67228_Greentea+Peng.jpg?auto=format,compress&rect=1,0,2046,1229&w=1024&h=615",
-					"alt": "Greentea Peng",
+					"url": "https://images.prismic.io/x-track-mag/ZpFNMR5LeNNTxHfL_OrionSun.jpg?auto=format,compress&rect=0,0,1070,1254&w=1024&h=1200",
+					"alt": "Orion Sun",
 					"copyright": null,
 					"width": 1024,
-					"height": 615,
-					"ratio": 1.665040650406504
+					"height": 1200,
+					"ratio": 0.8533333333333334
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ZewupHUurf2G3OUT_FrenchMontana.jpg?auto=format,compress&rect=0,0,750,750&w=1024&h=1024",
