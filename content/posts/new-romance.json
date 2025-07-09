@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-07-09T09:10:15+0000",
+	"publication_date": "2025-07-09T09:18:02+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Hope Tala on Cover",
 	"text_color": "inverted",
@@ -60,12 +60,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aGQmnXfc4bHWi7gx_%C2%BFTe%CC%81o%3F.jpg?auto=format,compress&rect=0,0,960,960&w=1024&h=1024",
-					"alt": "¿Téo?",
+					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Obongjayar",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aFbCt3fc4bHWilyK_AnaisCardot.jpg?auto=format,compress&rect=0,0,1080,771&w=1024&h=731",
