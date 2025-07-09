@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-07-01T18:20:02+0000",
+	"publication_date": "2025-07-09T09:10:15+0000",
 	"title": "New Romance",
 	"subtitle": "100% Chill Vibes - Hope Tala on Cover",
 	"text_color": "inverted",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Rubii x Amaria BB  + Joao Selva x Blundetto + ¿Téo? x Jaden Smith + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x Kadiata + Sault + Chaton + Hope Tala + Cleo Sol + Juls x Tendai + Judeline + Partynextdoor + Obongjayar + Wizkid x Tiakola + Amaarae + Babeheaven + Raveena x Jpegmafia & +++ enjoy",
+					"text": "Jungle + Rubii x Amaria BB  + Obongjayar + Joao Selva x Blundetto + ¿Téo? x Jaden Smith + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x Kadiata x Tendai + Sault + Chaton + Hope Tala + Cleo Sol + Judeline + Wizkid x Tiakola + Amaarae + Jorja Smith x Mortimer + Biga Ranx + Arlo Parks & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -39,12 +39,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=format,compress&rect=0,0,1799,1200&w=1024&h=683",
-					"alt": "juls",
+					"url": "https://images.prismic.io/x-track-mag/83f5751e-8bd7-410a-896f-83491939dc29_Jungle.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Jungle",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aDGMKidWJ-7kSg1-_Rubii.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
