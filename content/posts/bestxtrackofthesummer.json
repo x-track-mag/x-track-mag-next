@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-07-20T12:33:24+0000",
+	"publication_date": "2025-08-09T10:26:28+0000",
 	"title": "Best ”XTrack“ of Summer",
 	"subtitle": "Les meilleurs sons de l'été - Cover : Lila Iké x Masicka",
 	"text_color": "inverted",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Obongjayar +  Azekel x Nao + Joao Selva x Blundetto + Protoje + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x kadiata x Goldlink + Hermanos gutiérrez x Leon Bridges + 808vic + Valiant + Lila Iké x Masicka + Sudan Archives + Bb Trickz + Semzi x Easyscope x Kida Kudz + J Balvin x Stormzy + Jaz Karis + The Cavemen + Yaya Bey x Father Philis + J Hus x Asake + Sirens of Lesbos x Sadboi x Kabusa Oriental Choir  & +++ Enjoy ",
+					"text": "+++ Obongjayar + Joao Selva x Blundetto + Protoje + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x kadiata x Goldlink + Hermanos gutiérrez x Leon Bridges + 808vic + Valiant + Lila Iké x Masicka + Sudan Archives + Bb Trickz + Semzi x Easyscope x Kida Kudz + J Balvin x Stormzy + Jaz Karis + The Cavemen + Yaya Bey x Father Philis + J Hus x Asake + Sirens of Lesbos x Sadboi x Kabusa Oriental Choir  & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,20 +31,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aHzeX0MqNJQqIIF1_Azekel.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Azekel",
+					"url": "https://images.prismic.io/x-track-mag/Z_vrBuvxEdbNO-mT_LittleSimz.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e4349fa5-2bb2-4f4f-8e7e-e0b8edf7f8cb_Little+Simz.jpg?auto=format,compress&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Little Simz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
@@ -53,6 +45,14 @@
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aHzhCUMqNJQqIIF__SudanArchives.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
+					"alt": "Sudan Archives ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1278,
+					"ratio": 0.8012519561815337
 				}
 			]
 		},
@@ -68,12 +68,12 @@
 					"ratio": 1.1920838183934808
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aHzhCUMqNJQqIIF__SudanArchives.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
-					"alt": "Sudan Archives ",
+					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Sirens of Lesbos",
 					"copyright": null,
 					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/4337b3ed-2e49-4964-a53a-c44471d9f952_Leon+Bridges.jpg?auto=format,compress&rect=0,0,1280,800&w=1024&h=640",
