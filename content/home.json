@@ -8,7 +8,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestxtrackofthesummer"
+			"uid": "bestofthesummer"
 		},
 		{
 			"position": 2,
@@ -171,12 +171,12 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "bestxtrackofthesummer",
+			"uid": "bestofthesummer",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-08-09T10:26:28+0000",
-			"title": "Best ”XTrack“ of Summer",
+			"publication_date": "2025-08-09T10:29:15+0000",
+			"title": "Best of Summer",
 			"subtitle": "Les meilleurs sons de l'été - Cover : Lila Iké x Masicka",
 			"text_color": "inverted",
 			"image": null,
@@ -187,7 +187,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de la semaine"
+			"description": "Playlist des meilleurs sons de l'été"
 		},
 		{
 			"uid": "la-mode-ethique-classe-ou-classiste",

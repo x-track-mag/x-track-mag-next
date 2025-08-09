@@ -1,0 +1,107 @@
+{
+	"uid": "bestofthesummer",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2025-08-09T10:29:15+0000",
+	"title": "Best of Summer",
+	"subtitle": "Les meilleurs sons de l'été - Cover : Lila Iké x Masicka",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "Lila Iké - Romantic ft. Masicka (Official Video).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aHzeW0MqNJQqIIFx_LilaIke%CC%81-Romanticft.Masicka-OfficialVideo-.mp4"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "+++ Obongjayar + Joao Selva x Blundetto + Protoje + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x kadiata x Goldlink + Hermanos gutiérrez x Leon Bridges + 808vic + Valiant + Lila Iké x Masicka + Sudan Archives + Bb Trickz + Semzi x Easyscope x Kida Kudz + J Balvin x Stormzy + Jaz Karis + The Cavemen + Yaya Bey x Father Philis + J Hus x Asake + Sirens of Lesbos x Sadboi x Kabusa Oriental Choir  & +++ Enjoy ",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z_vrBuvxEdbNO-mT_LittleSimz.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Little Simz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Obongjayar",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aHzhCUMqNJQqIIF__SudanArchives.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
+					"alt": "Sudan Archives ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1278,
+					"ratio": 0.8012519561815337
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/e0342a3b-8633-4a2b-8ad6-71e71374236e_Protoje+%26+Lila-Ike.jpg?auto=format,compress&rect=0,0,471,395&w=1024&h=859",
+					"alt": "Protoje & Lila Ike",
+					"copyright": null,
+					"width": 1024,
+					"height": 859,
+					"ratio": 1.1920838183934808
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Sirens of Lesbos",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4337b3ed-2e49-4964-a53a-c44471d9f952_Leon+Bridges.jpg?auto=format,compress&rect=0,0,1280,800&w=1024&h=640",
+					"alt": "Leon Bridges",
+					"copyright": null,
+					"width": 1024,
+					"height": 640,
+					"ratio": 1.6
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=de79b7bcf52a480f",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"title": "Best ”XTrack“ of the Week"
+				}
+			]
+		}
+	],
+	"description": "Playlist des meilleurs sons de l'été"
+}
