@@ -68,7 +68,7 @@
 		},
 		{
 			"position": 16,
-			"uid": "new-romance"
+			"uid": "sweet-dreams"
 		},
 		{
 			"position": 17,
@@ -484,13 +484,13 @@
 			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
-			"uid": "new-romance",
+			"uid": "sweet-dreams",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-07-09T09:18:02+0000",
-			"title": "New Romance",
-			"subtitle": "100% Chill Vibes - Hope Tala on Cover",
+			"publication_date": "2025-08-10T09:45:55+0000",
+			"title": "Sweet Dreams",
+			"subtitle": "Best of 100% Happy Chill Vibes - Cover : Hope Tala",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
@@ -500,7 +500,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Chill, Cool, Love"
+			"description": "Best of 100% Happy Chill Vibes - Cover : Hope Tala"
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
