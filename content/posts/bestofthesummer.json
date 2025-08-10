@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-08-09T10:29:15+0000",
+	"publication_date": "2025-08-10T09:03:34+0000",
 	"title": "Best of Summer",
-	"subtitle": "Les meilleurs sons de l'été - Cover : Lila Iké x Masicka",
+	"subtitle": "Les meilleurs sons de l'été - Cover : Enny",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Lila Iké - Romantic ft. Masicka (Official Video).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aHzeW0MqNJQqIIFx_LilaIke%CC%81-Romanticft.Masicka-OfficialVideo-.mp4"
+		"name": "ENNY - Cabin Feva.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aJhcLaTt2nPbaHVK_ENNY-CabinFeva.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,38 +21,9 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Obongjayar + Joao Selva x Blundetto + Protoje + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x kadiata x Goldlink + Hermanos gutiérrez x Leon Bridges + 808vic + Valiant + Lila Iké x Masicka + Sudan Archives + Bb Trickz + Semzi x Easyscope x Kida Kudz + J Balvin x Stormzy + Jaz Karis + The Cavemen + Yaya Bey x Father Philis + J Hus x Asake + Sirens of Lesbos x Sadboi x Kabusa Oriental Choir  & +++ Enjoy ",
+					"text": "+++ Enny  + DJ tunez x Wizkid x Fola + Armanii x Malie Donn + 808vic + Lila Iké x Protoje x Masicka - Juls x Goldlink + The Cavemen + Yaya Bey x Father Philis + Semzi x Kida Kudz x Easyscope + Bd Trickz + Sudan Archives + Valiant + Trinix x Mariana Froes & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z_vrBuvxEdbNO-mT_LittleSimz.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Little Simz",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Obongjayar",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aHzhCUMqNJQqIIF__SudanArchives.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
-					"alt": "Sudan Archives ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1278,
-					"ratio": 0.8012519561815337
 				}
 			]
 		},
@@ -68,20 +39,49 @@
 					"ratio": 1.1920838183934808
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Sirens of Lesbos",
+					"url": "https://images.prismic.io/x-track-mag/aFbCtnfc4bHWilyI_808vic.jpg?auto=format,compress&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "808vic",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aHzhCUMqNJQqIIF__SudanArchives.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
+					"alt": "Sudan Archives ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1278,
+					"ratio": 0.8012519561815337
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z_vrA-vxEdbNO-mQ_YayaBey.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Yaya Bey",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4337b3ed-2e49-4964-a53a-c44471d9f952_Leon+Bridges.jpg?auto=format,compress&rect=0,0,1280,800&w=1024&h=640",
-					"alt": "Leon Bridges",
+					"url": "https://images.prismic.io/x-track-mag/aJhcIaTt2nPbaHVJ_Armanii.jpg?auto=format,compress&rect=0,0,1080,1351&w=1024&h=1281",
+					"alt": "Armanii",
 					"copyright": null,
 					"width": 1024,
-					"height": 640,
-					"ratio": 1.6
+					"height": 1281,
+					"ratio": 0.7993754879000781
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aJhfbqTt2nPbaHWR_MarianaFroes.jpg?auto=format,compress&rect=0,0,1080,1433&w=1024&h=1359",
+					"alt": "Mariana Froes ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1359,
+					"ratio": 0.753495217071376
 				}
 			]
 		},
