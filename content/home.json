@@ -24,7 +24,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "feel-good"
+			"uid": "sweet-dreams"
 		},
 		{
 			"position": 6,
@@ -68,7 +68,7 @@
 		},
 		{
 			"position": 16,
-			"uid": "sweet-dreams"
+			"uid": "feel-good"
 		},
 		{
 			"position": 17,
@@ -256,23 +256,23 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "feel-good",
+			"uid": "sweet-dreams",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-06-09T10:04:19+0000",
-			"title": "Feel Good",
-			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - AJ Tracey x Jorja smith",
-			"text_color": "green",
+			"publication_date": "2025-08-10T09:45:55+0000",
+			"title": "Sweet Dreams",
+			"subtitle": "Best of 100% Happy Chill Vibes - Cover : Hope Tala",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "AJ Tracey - Crush (feat. Jorja Smith).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7JcFp7c43Q3f1nj_AJTracey-Crush-feat.JorjaSmith-.mp4"
+				"name": "Hope Makes The Perfect Smoothie.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aF01XHfc4bHWiv0k_HopeMakesThePerfectSmoothie.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
+			"description": "Best of 100% Happy Chill Vibes - Cover : Hope Tala"
 		},
 		{
 			"uid": "live-session-amaru",
@@ -484,23 +484,23 @@
 			"description": "Volet 2 - La femme artiste, d’objet à sujet créateur "
 		},
 		{
-			"uid": "sweet-dreams",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-08-10T09:45:55+0000",
-			"title": "Sweet Dreams",
-			"subtitle": "Best of 100% Happy Chill Vibes - Cover : Hope Tala",
-			"text_color": "inverted",
+			"publication_date": "2025-06-09T10:04:19+0000",
+			"title": "Feel Good",
+			"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - AJ Tracey x Jorja smith",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Hope Makes The Perfect Smoothie.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aF01XHfc4bHWiv0k_HopeMakesThePerfectSmoothie.mp4"
+				"name": "AJ Tracey - Crush (feat. Jorja Smith).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7JcFp7c43Q3f1nj_AJTracey-Crush-feat.JorjaSmith-.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Best of 100% Happy Chill Vibes - Cover : Hope Tala"
+			"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
 		},
 		{
 			"uid": "manifesting-comment-nos-pensees-peuvent-elles-realiser",
