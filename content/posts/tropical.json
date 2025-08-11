@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-06-22T14:38:05+0000",
+	"publication_date": "2025-08-11T09:59:38+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
 	"text_color": "green",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Burna boy + Jah Lil x XTM Nation + Juls x Anaïs Cardot x Kadiata x Goldlink + 808vic + Yaya Bey x Father Philis + The Cavemen + Little Simz x Obongjayar + Deela x Genio Bambino x Vayda + Bd Trickz + Obongjayar + Valiant +  Wizkid + Tekno & +++ Enjoy",
+					"text": "Protoje x Lila Iké + Courtney  John + Juls x Anaïs Cardot x Kadiata x Goldlink + Obongjayar + Yaya Bey x Father Philis + The Cavemen + Little Simz x Obongjayar + Deela x Genio Bambino x Vayda + Bd Trickz + Valiant + Wizkid + Tekno & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,12 +31,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aBe1y_IqRLdaB2ol_BurnaBoy.jpg?auto=format,compress&rect=0,0,1080,1346&w=1024&h=1276",
-					"alt": "Burna Boy ",
+					"url": "https://images.prismic.io/x-track-mag/e0342a3b-8633-4a2b-8ad6-71e71374236e_Protoje+%26+Lila-Ike.jpg?auto=format,compress&rect=0,0,471,395&w=1024&h=859",
+					"alt": "Protoje & Lila Ike",
 					"copyright": null,
 					"width": 1024,
-					"height": 1276,
-					"ratio": 0.8025078369905956
+					"height": 859,
+					"ratio": 1.1920838183934808
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aFbCt3fc4bHWilyK_AnaisCardot.jpg?auto=format,compress&rect=0,0,1080,771&w=1024&h=731",
@@ -47,12 +47,12 @@
 					"ratio": 1.4008207934336525
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=format,compress&rect=0,0,1440,1436&w=1024&h=1021",
-					"alt": "Juls",
+					"url": "https://images.prismic.io/x-track-mag/aJm7gqTt2nPbaJV0_CourtneyJohn.jpg?auto=format,compress&rect=0,0,960,1212&w=1024&h=1293",
+					"alt": "Courtney John",
 					"copyright": null,
 					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
+					"height": 1293,
+					"ratio": 0.7919566898685229
 				}
 			]
 		},
