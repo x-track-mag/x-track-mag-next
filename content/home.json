@@ -628,24 +628,27 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "interview-moment-badbiche",
+			"uid": "la-muse--une-icone-feministe-",
 			"tags": [
-				"interview",
-				"music"
+				"article"
 			],
-			"publication_date": "2025-07-20T12:15:53+0000",
-			"title": "BAD BICHE",
-			"subtitle": "A LITTLE MOMENT",
+			"publication_date": "2025-08-11T09:46:02+0000",
+			"title": "La muse : une icône féministe ? ",
+			"subtitle": "",
 			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "ITW BADBICHE ST HD.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d8328c7-bb21-45fa-b477-761838f35862_ITW+BADBICHE+ST+HD.mp4"
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
+				"alt": "Photo ©Rebecca Dorothy",
+				"copyright": null,
+				"width": 4480,
+				"height": 6720,
+				"ratio": 0.6666666666666666
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
+			"video_loop": null,
+			"template": "3: Image + Titre",
+			"author": "Aphelandra Siassa",
 			"internal_link": null,
-			"description": "interview bad biche a little moment x-track mag"
+			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
 		},
 		{
 			"uid": "yayayayoutube-ep-1-samantha-deep",
@@ -754,27 +757,24 @@
 			"description": "live session bad biche lilith x-track mag"
 		},
 		{
-			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
+			"uid": "interview-moment-badbiche",
 			"tags": [
-				"article"
+				"interview",
+				"music"
 			],
-			"publication_date": "2025-07-04T20:20:33+0000",
-			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
-			"subtitle": "",
+			"publication_date": "2025-07-20T12:15:53+0000",
+			"title": "BAD BICHE",
+			"subtitle": "A LITTLE MOMENT",
 			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1920,
-				"height": 1080,
-				"ratio": 1.7777777777777777
+			"image": null,
+			"video_loop": {
+				"name": "ITW BADBICHE ST HD.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/5d8328c7-bb21-45fa-b477-761838f35862_ITW+BADBICHE+ST+HD.mp4"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Manon Pelinq",
+			"author": "X-TRACK TEAM",
 			"internal_link": null,
-			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
+			"description": "interview bad biche a little moment x-track mag"
 		},
 		{
 			"uid": "neons-ambiance-design-numerique-et-look-entre-poupee",
@@ -818,6 +818,29 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Braqueurs, la série de Julien Leclercq , une musique fracassante signée X-Track"
+		},
+		{
+			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2025-07-04T20:20:33+0000",
+			"title": "Comment les planètes se sont-elles invitées sur nos écrans? ",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/9d14e56c-875b-4cce-8581-ffd4d4f6cbdd_Ajouter+un+titre+%281%29.png?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1920,
+				"height": 1080,
+				"ratio": 1.7777777777777777
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Manon Pelinq",
+			"internal_link": null,
+			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
 		},
 		{
 			"uid": "yayayayoutube-ep-3-ophelie-summer",
@@ -964,29 +987,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "jacques interview"
-		},
-		{
-			"uid": "la-muse--une-icone-feministe-",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2024-03-30T23:57:32+0000",
-			"title": "La muse : une icône féministe ?",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/4c44ea00-265a-4bf5-ad18-59f3043196c9_REBECCA.JPG?auto=compress,format",
-				"alt": "Photo ©Rebecca Dorothy",
-				"copyright": null,
-				"width": 4480,
-				"height": 6720,
-				"ratio": 0.6666666666666666
-			},
-			"video_loop": null,
-			"template": "3: Image + Titre",
-			"author": "Aphelandra Siassa",
-			"internal_link": null,
-			"description": "Figure mythique, source d’inspiration majeure pour les artistes, la muse a toujours eu une place de choix dans l’histoire de l’art et dans le monde littéraire. Épouses, courtisanes, assistantes d'ateliers dans l'ombre du maître, élèves ou encore simples fantasmes… Elle reste néanmoins un personnage ambivalent, qui oscille entre un statut de subalterne enfermé par le regard des hommes et une figure quasi vénérée. En quoi la muse témoigne de l’évolution du statut de la femme dans la société ? A l’heure du combat féministe, qui occupe cette place aujourd’hui ? Décryptage . "
 		},
 		{
 			"uid": "misterkay--welcome-to-nigeria",
