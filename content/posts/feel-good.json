@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-06-09T10:04:19+0000",
+	"publication_date": "2025-08-11T10:21:39+0000",
 	"title": "Feel Good",
 	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - AJ Tracey x Jorja smith",
 	"text_color": "green",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Rema + Little Simz x Lydia Kitto + Nia Smith x Popcaan + Nasty C x Usimaname + AJ Tracey x Jorja Smith + Obongjayar + Valiant + Sirens of Lesbos x Sadboi x Kabusa Oriental Choir + Central Cee x Young Miko + Burna boy + Ayra Starr + Wretch 32 x Protoje + Bb Trickz  & +++ Enjoy",
+					"text": "+++ Cash Cobain x  Bay Swag + Nasty C x Usimaname +  AJ Tracey x Jorja Smith + Nia Smith x Popcaan + Lila Iké x Protoje + Jah Lil x XTM Nation + Show Dem Camp x Amaarae x Tems x Dj Sudi x No Nazar + Smino x Ravyn Lenae + Little Simz x Obongjayar + Valiant + Armanii x Malie Don + Tyla x Wizkid + Juls x Goldlink  & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7depZ7c43Q3gB2L_Rema.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Rema",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a407195b-8908-4e4c-a570-40b56e8c3344_Little+Simz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/ZsPAdUaF0TcGJEwU_NiaSmith.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Nia Smith ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aER6W7h8WN-LV2pi_NastyC.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Nasty C",
+					"url": "https://images.prismic.io/x-track-mag/Zet0kXUurf2G3OIX_CashCobain.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Cash Cobain",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/4f54ecad-4c2d-4342-a865-fa77c4cb6bed_Tems.+.jpg?auto=format,compress&rect=0,0,1107,1661&w=1024&h=1536",
+					"alt": "Tems",
+					"copyright": null,
+					"width": 1024,
+					"height": 1536,
+					"ratio": 0.6666666666666666
 				}
 			]
 		},
@@ -60,24 +60,24 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z7deoZ7c43Q3gB2F_SirensofLesbos.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Sirens of Lesbos",
+					"url": "https://images.prismic.io/x-track-mag/aHzeXEMqNJQqIIFy_LilaIke%CC%81.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Lila Iké",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/403e6331-4489-43a5-8022-6c267c6601e0_Nasty+C.jpg?auto=format,compress&rect=0,0,1024,1024&w=1024&h=1024",
+					"alt": "Nasty C",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Obongjayar",
-					"copyright": null,
-					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aDGMwydWJ-7kSg2F_BbTrickz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Bb Trickz",
+					"url": "https://images.prismic.io/x-track-mag/8464a427-5cd8-446b-859d-d4c1a32fe2ab_Amaarae+.jpg?auto=format,compress&rect=0,0,1920,1920&w=1024&h=1024",
+					"alt": "Amaarae",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
