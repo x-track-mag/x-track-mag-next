@@ -1,0 +1,107 @@
+{
+	"uid": "best-of-chill",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2025-09-06T09:19:40+0000",
+	"title": "Best of Chill",
+	"subtitle": "Happy Chill Vibes - Cover : Hope Tala",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "Hope Makes The Perfect Smoothie.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aF01XHfc4bHWiv0k_HopeMakesThePerfectSmoothie.mp4"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Pedro Mizutani x Skinshape + Rubii x Amaria BB  + Obongjayar + Lulu + Joao Selva x Bundetto + Mortimer x Paris la Mont + Mahalia x Lila Iké + Ona Dema + Téo x Jaden  + Juls x Anaïs Cardot x Kadiata +  Little Simz x Lydia Kitto + Sault + Hope Tala & +++ enjoy",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/937258dc-1109-465e-9ffc-4728413cb6f3_Rubii+.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Rubii",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aJhqC6Tt2nPbaHWt_PedroMizutani.jpg?auto=format,compress&rect=0,0,733,524&w=1024&h=732",
+					"alt": "Pedro Mizutani",
+					"copyright": null,
+					"width": 1024,
+					"height": 732,
+					"ratio": 1.3989071038251366
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZlrdPaWtHYXtT_Us_Lulu.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Lulu",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Obongjayar",
+					"copyright": null,
+					"width": 1024,
+					"height": 1279,
+					"ratio": 0.800625488663018
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aHzeXEMqNJQqIIFy_LilaIke%CC%81.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Lila Iké",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aFbCuHfc4bHWilyL_JoaoSelva.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Joao Selva",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDMUA9bisL8vy_ZtGzDX7Dd",
+					"title": "Sweet Dreams"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=cd35423ef46f4a40",
+					"title": "Sweet Dreams"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/5281964882",
+					"title": "Sweet Dreams"
+				}
+			]
+		}
+	],
+	"description": "Happy Chill Vibes - Cover : Hope Tala"
+}

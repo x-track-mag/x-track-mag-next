@@ -24,7 +24,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "sweet-dreams"
+			"uid": "best-of-chill"
 		},
 		{
 			"position": 6,
@@ -256,12 +256,12 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "sweet-dreams",
+			"uid": "best-of-chill",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-08-11T09:44:58+0000",
-			"title": "Sweet Dreams",
+			"publication_date": "2025-09-06T09:19:40+0000",
+			"title": "Best of Chill",
 			"subtitle": "Happy Chill Vibes - Cover : Hope Tala",
 			"text_color": "inverted",
 			"image": null,
