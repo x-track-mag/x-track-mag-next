@@ -8,7 +8,7 @@
 	"pinned_posts": [
 		{
 			"position": 1,
-			"uid": "bestofthesummer"
+			"uid": "bestof"
 		},
 		{
 			"position": 2,
@@ -171,13 +171,13 @@
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
 	"sections": [
 		{
-			"uid": "bestofthesummer",
+			"uid": "bestof",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-08-10T09:03:34+0000",
-			"title": "Best of Summer",
-			"subtitle": "Les meilleurs sons de l'été - Cover : Enny",
+			"publication_date": "2025-09-06T09:21:21+0000",
+			"title": "Best of",
+			"subtitle": "Le Meilleur R&B Reggae Hip Hop Pop Afropop - Cover : Enny",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
@@ -187,7 +187,7 @@
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist des meilleurs sons de l'été"
+			"description": "Le Meilleur R&B Reggae Hip Hop Pop Afropop"
 		},
 		{
 			"uid": "la-mode-ethique-classe-ou-classiste",

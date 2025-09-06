@@ -1,0 +1,107 @@
+{
+	"uid": "bestof",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2025-09-06T09:21:21+0000",
+	"title": "Best of",
+	"subtitle": "Le Meilleur R&B Reggae Hip Hop Pop Afropop - Cover : Enny",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "ENNY - Cabin Feva.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aJhcLaTt2nPbaHVK_ENNY-CabinFeva.mp4"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "+++ Enny  + DJ tunez x Wizkid x Fola + Armanii x Malie Donn + 808vic + Lila Iké x Protoje x Masicka - Juls x Goldlink + The Cavemen + Yaya Bey x Father Philis + Semzi x Kida Kudz x Easyscope + Bd Trickz + Sudan Archives + Valiant + Trinix x Mariana Froes & +++ Enjoy ",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/e0342a3b-8633-4a2b-8ad6-71e71374236e_Protoje+%26+Lila-Ike.jpg?auto=format,compress&rect=0,0,471,395&w=1024&h=859",
+					"alt": "Protoje & Lila Ike",
+					"copyright": null,
+					"width": 1024,
+					"height": 859,
+					"ratio": 1.1920838183934808
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aFbCtnfc4bHWilyI_808vic.jpg?auto=format,compress&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "808vic",
+					"copyright": null,
+					"width": 1024,
+					"height": 1023,
+					"ratio": 1.0009775171065494
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aHzhCUMqNJQqIIF__SudanArchives.jpg?auto=format,compress&rect=0,0,1080,1348&w=1024&h=1278",
+					"alt": "Sudan Archives ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1278,
+					"ratio": 0.8012519561815337
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/Z_vrA-vxEdbNO-mQ_YayaBey.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Yaya Bey",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aJhcIaTt2nPbaHVJ_Armanii.jpg?auto=format,compress&rect=0,0,1080,1351&w=1024&h=1281",
+					"alt": "Armanii",
+					"copyright": null,
+					"width": 1024,
+					"height": 1281,
+					"ratio": 0.7993754879000781
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aJhfbqTt2nPbaHWR_MarianaFroes.jpg?auto=format,compress&rect=0,0,1080,1433&w=1024&h=1359",
+					"alt": "Mariana Froes ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1359,
+					"ratio": 0.753495217071376
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=de79b7bcf52a480f",
+					"title": "Best ”XTrack“ of the Week"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"title": "Best ”XTrack“ of the Week"
+				}
+			]
+		}
+	],
+	"description": "Le Meilleur R&B Reggae Hip Hop Pop Afropop"
+}
