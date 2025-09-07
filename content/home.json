@@ -16,7 +16,7 @@
 		},
 		{
 			"position": 3,
-			"uid": "tropical"
+			"uid": "best-of-chill"
 		},
 		{
 			"position": 4,
@@ -24,7 +24,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "best-of-chill"
+			"uid": "tropical"
 		},
 		{
 			"position": 6,
@@ -214,23 +214,23 @@
 			"description": "La mode éthique : classe ou classiste ?                              "
 		},
 		{
-			"uid": "tropical",
+			"uid": "best-of-chill",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-08-11T09:59:38+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
-			"text_color": "green",
+			"publication_date": "2025-09-06T09:19:40+0000",
+			"title": "Best of Chill",
+			"subtitle": "Happy Chill Vibes - Cover : Hope Tala",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Yaya Bey - merlot and grigio (feat. Father Philis) [Official Video].mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aFgTiXfc4bHWimFo_YayaBey-merlotandgrigio-feat.FatherPhilis-%5BOfficialVideo%5D.mp4"
+				"name": "Hope Makes The Perfect Smoothie.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aF01XHfc4bHWiv0k_HopeMakesThePerfectSmoothie.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Tropical"
+			"description": "Happy Chill Vibes - Cover : Hope Tala"
 		},
 		{
 			"uid": "martin-parr",
@@ -256,23 +256,23 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "best-of-chill",
+			"uid": "tropical",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-09-06T09:19:40+0000",
-			"title": "Best of Chill",
-			"subtitle": "Happy Chill Vibes - Cover : Hope Tala",
-			"text_color": "inverted",
+			"publication_date": "2025-08-11T09:59:38+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Hope Makes The Perfect Smoothie.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aF01XHfc4bHWiv0k_HopeMakesThePerfectSmoothie.mp4"
+				"name": "Yaya Bey - merlot and grigio (feat. Father Philis) [Official Video].mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aFgTiXfc4bHWimFo_YayaBey-merlotandgrigio-feat.FatherPhilis-%5BOfficialVideo%5D.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Happy Chill Vibes - Cover : Hope Tala"
+			"description": "Tropical"
 		},
 		{
 			"uid": "live-session-amaru",
