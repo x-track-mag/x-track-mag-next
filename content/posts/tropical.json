@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-08-11T09:59:38+0000",
+	"publication_date": "2025-09-10T08:39:14+0000",
 	"title": "Tropical",
 	"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
 	"text_color": "green",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x Lila Iké + Courtney  John + Juls x Anaïs Cardot x Kadiata x Goldlink + Obongjayar + Yaya Bey x Father Philis + The Cavemen + Little Simz x Obongjayar + Deela x Genio Bambino x Vayda + Bd Trickz + Valiant + Wizkid + Tekno & +++ Enjoy",
+					"text": "Juls x Anaïs Cardot x Kadiata x Goldlink + Trinix x Bonga + Obongjayar + Yaya Bey x Father Philis + The Cavemen + Little Simz  +  Bd Trickz + Valiant + Wizkid + Tekno & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,12 +31,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/e0342a3b-8633-4a2b-8ad6-71e71374236e_Protoje+%26+Lila-Ike.jpg?auto=format,compress&rect=0,0,471,395&w=1024&h=859",
-					"alt": "Protoje & Lila Ike",
+					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=format,compress&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 859,
-					"ratio": 1.1920838183934808
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aFbCt3fc4bHWilyK_AnaisCardot.jpg?auto=format,compress&rect=0,0,1080,771&w=1024&h=731",
@@ -47,12 +47,12 @@
 					"ratio": 1.4008207934336525
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aJm7gqTt2nPbaJV0_CourtneyJohn.jpg?auto=format,compress&rect=0,0,960,1212&w=1024&h=1293",
-					"alt": "Courtney John",
+					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Obongjayar",
 					"copyright": null,
 					"width": 1024,
-					"height": 1293,
-					"ratio": 0.7919566898685229
+					"height": 1279,
+					"ratio": 0.800625488663018
 				}
 			]
 		},
@@ -68,20 +68,20 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Obongjayar",
+					"url": "https://images.prismic.io/x-track-mag/aL1mSWGNHVfTOvMb_Trinix.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Trinix",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aAS_IVvg_A-GMq7g_Deela.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Deela",
+					"url": "https://images.prismic.io/x-track-mag/aDGMwydWJ-7kSg2F_BbTrickz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Bb Trickz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
