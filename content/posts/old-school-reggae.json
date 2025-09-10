@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-01-29T05:44:03+0000",
+	"publication_date": "2025-09-10T08:57:56+0000",
 	"title": "Reggae",
 	"subtitle": "Old School Reggae ",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Pablo Moses - Bob Marley - Junior English - Mortimer - Willie Williams - Shinehead - Sean Paul - Major Lazer x Ezra Koenig - Musical Youth -Soul Sugar x Jolly Joseph - The Pionners - YG Marley - Cornell Campbell -  Linton Kwesi Johnson - Marcia Aitken - Junior Murvin - The Techniques - U-roy - U-Brown - Barrington Levy - Beats International - Steel Pulse - Junior Delahaye - Chaka Demus & Pliers - Lord Echo x Lisa Tomlins - The Congos - Lloyd Charmers - Shelly Thunder - Major Worries - Little john - Tippa Irie - Bob Andy - The Sensations - I Wayne - Leroy Sibbles - The Slickers - Lee Scrath Perry - Courtney John - Lone Ranger - Dawn Penn - Shabba Ranks x Chevelle Franklin - Derrick Lara & Trinity - Bitty Mclean - Sidestepper - Burning Spear - Ras G - Sporto kantes - Kardinal Offishal - alton Ellis - Luciano - Reggie Stepper -Althea and Donna &++++",
+					"text": "+ Sister Nancy + Shinehead + Willie Williams + Musical Youth + the Pioneers + Linton Kwesi Johnson + Junior Murvin + The Techniques + U-Roy + Bob Marley + U Brown + Barrington Levy & ++++",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -35,28 +35,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/0b66bcd9-a7dc-47d4-af84-ddeabd421f58_Bob+Marley+.jpg?auto=compress,format&rect=0,0,1182,1024&w=1024&h=887",
-					"alt": "Bob Marley",
+					"url": "https://images.prismic.io/x-track-mag/aME85mGNHVfTO-Ai_WillieWilliams.jpeg?auto=format,compress&rect=0,0,770,1135&w=1024&h=1509",
+					"alt": "Willie Williams",
 					"copyright": null,
 					"width": 1024,
-					"height": 887,
-					"ratio": 1.1544532130777903
+					"height": 1509,
+					"ratio": 0.6785950960901259
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/20398f57-bf47-4378-b23b-dc54aa5cc385_the+Congos.jpg?auto=compress,format&rect=0,0,748,812&w=1024&h=1112",
-					"alt": "The Congo",
+					"url": "https://images.prismic.io/x-track-mag/aME86GGNHVfTO-Al_SisterNancy.jpg?auto=format%2Ccompress&rect=192%2C28%2C387%2C218&w=1024&h=576",
+					"alt": "Sister Nancy",
 					"copyright": null,
 					"width": 1024,
-					"height": 1112,
-					"ratio": 0.920863309352518
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e9a8f0b3-d905-49a1-9742-f0ff3137e433_Pablo+Moses.jpg?auto=compress,format&rect=0,0,640,910&w=1024&h=1456",
-					"alt": "Pablo Moses",
+					"url": "https://images.prismic.io/x-track-mag/aME852GNHVfTO-Aj_Shinehead.jpg?auto=format,compress&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Shinehead",
 					"copyright": null,
 					"width": 1024,
-					"height": 1456,
-					"ratio": 0.7032967032967034
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -72,12 +72,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e9502433-b0f6-42eb-ba7e-9b519d55ac33_Althea+and+Donna.jpg?auto=compress,format&rect=0,0,1024,1477&w=1024&h=1477",
-					"alt": "Althea and Donna",
+					"url": "https://images.prismic.io/x-track-mag/0b66bcd9-a7dc-47d4-af84-ddeabd421f58_Bob+Marley+.jpg?auto=format,compress&rect=0,0,1182,1024&w=1024&h=887",
+					"alt": "Bob Marley",
 					"copyright": null,
 					"width": 1024,
-					"height": 1477,
-					"ratio": 0.6932972241029113
+					"height": 887,
+					"ratio": 1.1544532130777903
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/abe5b019-4ed4-4ea2-9d97-fca87ba537ac_Junior-Murvin-.jpg?auto=compress,format&rect=0,0,1343,989&w=1024&h=754",
