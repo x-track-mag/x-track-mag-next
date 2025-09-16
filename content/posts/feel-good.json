@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-08-11T10:21:39+0000",
+	"publication_date": "2025-09-16T11:39:26+0000",
 	"title": "Feel Good",
-	"subtitle": "Hip Hop RnB Afrobeat Reggae Electro - AJ Tracey x Jorja smith",
+	"subtitle": "R&B Reggae Hip Hop Pop Afropop - Cover : Enny",
 	"text_color": "green",
 	"image": null,
 	"video_loop": {
-		"name": "AJ Tracey - Crush (feat. Jorja Smith).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/Z7JcFp7c43Q3f1nj_AJTracey-Crush-feat.JorjaSmith-.mp4"
+		"name": "ENNY - No More Naija Men.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aMlKG2GNHVfTPRdD_ENNY-NoMoreNaijaMen.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Cash Cobain x  Bay Swag + Nasty C x Usimaname +  AJ Tracey x Jorja Smith + Nia Smith x Popcaan + Lila Iké x Protoje + Jah Lil x XTM Nation + Show Dem Camp x Amaarae x Tems x Dj Sudi x No Nazar + Smino x Ravyn Lenae + Little Simz x Obongjayar + Valiant + Armanii x Malie Don + Tyla x Wizkid + Juls x Goldlink  & +++ Enjoy",
+					"text": "+++ Raye x Maleek Bery + J Hus + Shura +  Goldlink x Tyler the Creator x Jay Prince + Swae Lee x Drake + Skip Marley x Popcaan + Biig Piig + Disclosure + Tekno + Thundercat + Asap Rocky + Parcels x Breakbot + Sault + Buju Banton x Pharrell Williams & +++ Enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZsPAdUaF0TcGJEwU_NiaSmith.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Nia Smith ",
+					"url": "https://images.prismic.io/x-track-mag/aMlKHGGNHVfTPRdF_Raye.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Raye",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zet0kXUurf2G3OIX_CashCobain.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Cash Cobain",
+					"url": "https://images.prismic.io/x-track-mag/5878682f-d9f2-4cd7-bcf7-d7e3c9f6edb7_J.+Hus.jpg?auto=format,compress&rect=0,0,2048,2158&w=1024&h=1079",
+					"alt": "J. Hus",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1079,
+					"ratio": 0.9490268767377201
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/4f54ecad-4c2d-4342-a865-fa77c4cb6bed_Tems.+.jpg?auto=format,compress&rect=0,0,1107,1661&w=1024&h=1536",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/aMlKGGGNHVfTPRdB_Shura.jpg?auto=format,compress&rect=0,0,1491,1491&w=1024&h=1024",
+					"alt": "Shura",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aHzeXEMqNJQqIIFy_LilaIke%CC%81.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Lila Iké",
-					"copyright": null,
-					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/403e6331-4489-43a5-8022-6c267c6601e0_Nasty+C.jpg?auto=format,compress&rect=0,0,1024,1024&w=1024&h=1024",
-					"alt": "Nasty C",
+					"url": "https://images.prismic.io/x-track-mag/2c9ae9e3-e4b3-463f-b410-9bbf4c729904_Swae+Lee.jpg?auto=format,compress&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/8464a427-5cd8-446b-859d-d4c1a32fe2ab_Amaarae+.jpg?auto=format,compress&rect=0,0,1920,1920&w=1024&h=1024",
-					"alt": "Amaarae",
+					"url": "https://images.prismic.io/x-track-mag/b3832838-d439-48ee-a9b5-5fde6fde1ddb_Biig+Piig+.jpg?auto=format,compress&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "Biig Piig ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1023,
+					"ratio": 1.0009775171065494
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aL1l6GGNHVfTOvMS_Goldlink.jpg?auto=format,compress&rect=0,0,3326,1871&w=1024&h=576",
+					"alt": "Goldlink",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -103,5 +103,5 @@
 			]
 		}
 	],
-	"description": "Playlist Hip Hop RnB Afrobeat Reggae Electro"
+	"description": "Playlist R&B Reggae Hip Hop Pop Afropop"
 }
