@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-09-27T10:08:02+0000",
+	"publication_date": "2025-09-27T10:09:23+0000",
 	"title": "Nice Day",
 	"subtitle": "Happy Crossover - Outkast on Cover",
 	"text_color": "inverted",
@@ -76,12 +76,12 @@
 					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e97b3b23-5e10-4908-995b-4d2f77a3a453_Nas.jpg?auto=format,compress&rect=0,0,1242,1099&w=1024&h=906",
-					"alt": "Nas",
+					"url": "https://images.prismic.io/x-track-mag/3c5be5e7-44da-485c-85a0-15f16dd3019f_2pac.jpg?auto=format,compress&rect=0,0,1280,720&w=1024&h=576",
+					"alt": "2pac",
 					"copyright": null,
 					"width": 1024,
-					"height": 906,
-					"ratio": 1.130242825607064
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
