@@ -32,23 +32,23 @@
 		},
 		{
 			"position": 7,
-			"uid": "live-session-amaru"
-		},
-		{
-			"position": 7,
 			"uid": "les-apparences-trompeuses-du-pretty-privilege"
 		},
 		{
 			"position": 8,
-			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
+			"uid": "live-session-amaru"
 		},
 		{
 			"position": 9,
-			"uid": "2025-is-the-year"
+			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre"
 		},
 		{
 			"position": 10,
 			"uid": "tropical"
+		},
+		{
+			"position": 11,
+			"uid": "2025-is-the-year"
 		},
 		{
 			"position": 11,
@@ -302,6 +302,26 @@
 			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
+			"uid": "live-session-amaru",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2024-09-11T07:31:45+0000",
+			"title": "AMARU",
+			"subtitle": "LIVE SESSION ",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "IMG_3340.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session amaru karma x-track mag"
+		},
+		{
 			"uid": "paradigmes--entre-savoureux-scandales-et-cafe-theatre",
 			"tags": [
 				"article"
@@ -323,25 +343,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "PARADIGMES : ENTRE SAVOUREUX SCANDALES ET CAFÉ-THÉÂTRE POLICÉ "
-		},
-		{
-			"uid": "2025-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2024-12-30T12:57:47+0000",
-			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": {
-				"uid": "about-us",
-				"type": "page"
-			},
-			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		},
 		{
 			"uid": "tropical",
@@ -508,24 +509,23 @@
 			"description": "Manifesting: comment nos pensées peuvent-elles réaliser nos rêves? "
 		},
 		{
-			"uid": "live-session-amaru",
+			"uid": "2025-is-the-year",
 			"tags": [
-				"music",
-				"live session"
+				"article"
 			],
-			"publication_date": "2024-09-11T07:31:45+0000",
-			"title": "AMARU",
-			"subtitle": "LIVE SESSION ",
-			"text_color": "inverted",
+			"publication_date": "2024-12-30T12:57:47+0000",
+			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"subtitle": "",
+			"text_color": "white",
 			"image": null,
-			"video_loop": {
-				"name": "IMG_3340.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4"
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": {
+				"uid": "about-us",
+				"type": "page"
 			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session amaru karma x-track mag"
+			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		},
 		{
 			"uid": "live-session-donzer-bleu-pisicne",
