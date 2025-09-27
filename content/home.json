@@ -24,7 +24,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "tropical"
+			"uid": "nice-day"
 		},
 		{
 			"position": 6,
@@ -44,7 +44,7 @@
 		},
 		{
 			"position": 10,
-			"uid": "nice-day"
+			"uid": "tropical"
 		},
 		{
 			"position": 11,
@@ -256,23 +256,23 @@
 			"description": "Un monde à Parr"
 		},
 		{
-			"uid": "tropical",
+			"uid": "nice-day",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-09-10T08:39:14+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
-			"text_color": "green",
+			"publication_date": "2025-09-27T10:09:23+0000",
+			"title": "Nice Day",
+			"subtitle": "Happy Crossover - Outkast on Cover",
+			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Yaya Bey - merlot and grigio (feat. Father Philis) [Official Video].mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aFgTiXfc4bHWimFo_YayaBey-merlotandgrigio-feat.FatherPhilis-%5BOfficialVideo%5D.mp4"
+				"name": "Outkast - Draculas Wedding (Official Lyric Video) ft. Kelis (1).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aNe1K55xUNkB1LDv_Outkast-DraculasWedding-OfficialLyricVideo-ft.Kelis-1-.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Tropical"
+			"description": "Nice & Happy"
 		},
 		{
 			"uid": "live-session-amaru",
@@ -360,23 +360,23 @@
 			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 		},
 		{
-			"uid": "nice-day",
+			"uid": "tropical",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-09-27T10:09:23+0000",
-			"title": "Nice Day",
-			"subtitle": "Happy Crossover - Outkast on Cover",
-			"text_color": "inverted",
+			"publication_date": "2025-09-10T08:39:14+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Outkast - Draculas Wedding (Official Lyric Video) ft. Kelis (1).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aNe1K55xUNkB1LDv_Outkast-DraculasWedding-OfficialLyricVideo-ft.Kelis-1-.mp4"
+				"name": "Yaya Bey - merlot and grigio (feat. Father Philis) [Official Video].mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aFgTiXfc4bHWimFo_YayaBey-merlotandgrigio-feat.FatherPhilis-%5BOfficialVideo%5D.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Nice & Happy"
+			"description": "Tropical"
 		},
 		{
 			"uid": "in-love",
