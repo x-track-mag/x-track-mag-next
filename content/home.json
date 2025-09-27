@@ -52,11 +52,11 @@
 		},
 		{
 			"position": 11,
-			"uid": "in-love"
+			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
 		},
 		{
 			"position": 12,
-			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling"
+			"uid": "in-love"
 		},
 		{
 			"position": 13,
@@ -363,25 +363,6 @@
 			"description": "Tropical"
 		},
 		{
-			"uid": "in-love",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2025-07-05T08:48:10+0000",
-			"title": "In Love",
-			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Billie Eilish.  .mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZewtJHUurf2G3OUN_BillieEilish..mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Our favorite Love & Cool Songs"
-		},
-		{
 			"uid": "la-mode-ethique-ou-lexplosion-de-lupcycling",
 			"tags": [
 				"article"
@@ -403,6 +384,25 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "La mode éthique, ou l’explosion de l’upcycling "
+		},
+		{
+			"uid": "in-love",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2025-07-05T08:48:10+0000",
+			"title": "In Love",
+			"subtitle": "Our favorite Love & Cool Songs - Cover : Billie Eilish",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Billie Eilish.  .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZewtJHUurf2G3OUN_BillieEilish..mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Our favorite Love & Cool Songs"
 		},
 		{
 			"uid": "le-gaming--nouveau-terrain-de-jeu-pour-lindustrie",
