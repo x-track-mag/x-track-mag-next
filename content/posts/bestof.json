@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-09-07T11:14:35+0000",
-	"title": "Best of - Cover : Mortimer",
-	"subtitle": "R&B Reggae Hip Hop Pop Afropop",
+	"publication_date": "2025-09-28T08:58:58+0000",
+	"title": "Best of - Cover : Thundercat",
+	"subtitle": "R&B Reggae Hip Hop Chill Pop Afropop",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Mortimer - Lightning (Official Music Video).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aL1l8GGNHVfTOvMV_Mortimer-Lightning-OfficialMusicVideo-.mp4"
+		"name": "Thundercat - I Wish I Didn’t Waste Your Time.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aNj3DJ5xUNkB1L-U_Thundercat-IWishIDidn%E2%80%99tWasteYourTime.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Tarrus Riley x XTM Nation + Mortimer x Zion I Kings + Trinix x Bonga x Mariana Froes + Saint Levant x Fares Sokar + Skip Marley + Lila Iké x Protoje + Juls x Goldlink + The Cavemen + Yaya Bey x Father Philips + Semzi x Kida Kudz x Easyscope + Bd trickz & +++ Enjoy ",
+					"text": "+++ Thundercat + Tarrus Riley x XTM Nation + Mesh Marina x Shennell x Mario C + Mortimer x Zion I Kings + Trinix x Bonga x Mariana Froes + Aylo  + Bakar + Benny Sings x Mathilda Homer + Parcels + Skip Marley + Victony x Olamide + Strandz + DJ Boats x Ghetto Boy + 4Batz + Blood Orange + Bd trickz + Lila Iké x Protoje + Juls x Goldlink + The Cavemen + Yaya Bey x Father Philips + Semzi x Kida Kudz x Easyscope  & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -39,20 +39,20 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e0342a3b-8633-4a2b-8ad6-71e71374236e_Protoje+%26+Lila-Ike.jpg?auto=format,compress&rect=0,0,471,395&w=1024&h=859",
-					"alt": "Protoje & Lila Ike",
+					"url": "https://images.prismic.io/x-track-mag/aNj3G55xUNkB1L-k_Shennell.jpg?auto=format,compress&rect=0,0,1080,1079&w=1024&h=1023",
+					"alt": "Shennell",
 					"copyright": null,
 					"width": 1024,
-					"height": 859,
-					"ratio": 1.1920838183934808
+					"height": 1023,
+					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aL1l8mGNHVfTOvMW_Bonga.jpg?auto=format,compress&rect=0,0,639,640&w=1024&h=1026",
-					"alt": "Bonga",
+					"url": "https://images.prismic.io/x-track-mag/aL1l6WGNHVfTOvMT_Mortimer.jpeg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Mortimer",
 					"copyright": null,
 					"width": 1024,
-					"height": 1026,
-					"ratio": 0.9980506822612085
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -60,12 +60,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zj6otUFLKBtrWymH_YayaBey.jpg?auto=format,compress&rect=0,0,1440,1080&w=1024&h=768",
-					"alt": "Yaya Bey",
+					"url": "https://images.prismic.io/x-track-mag/aNj3HJ5xUNkB1L-l_MathildaHomer.jpg?auto=format,compress&rect=0,0,1080,1068&w=1024&h=1013",
+					"alt": "Mathilda Homer",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 1013,
+					"ratio": 1.0108588351431391
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aL1mSWGNHVfTOvMb_Trinix.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
@@ -103,5 +103,5 @@
 			]
 		}
 	],
-	"description": "R&B Reggae Hip Hop Pop Afropop"
+	"description": "R&B Reggae Hip Hop Chill Pop Afropop"
 }
