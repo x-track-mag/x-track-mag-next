@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-09-28T19:39:53+0000",
+	"publication_date": "2025-09-29T10:22:53+0000",
 	"title": "Best of Chill",
-	"subtitle": "Happy Chill Vibes - Cover : Mon Laferte x Nathy Peluso",
+	"subtitle": "Happy Chill Vibes - Cover : Rubii",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Mon Laferte, NATHY PELUSO - La Tirana (Official Video).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aNmHb55xUNkB1MRe_MonLaferte%2CNATHYPELUSO-LaTirana-OfficialVideo-.mp4"
+		"name": "NO LOVE - RUBII (Official Visualiser).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aNpdH55xUNkB1NqS_NOLOVE-RUBII-OfficialVisualiser-.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Pedro Mizutani x Skinshape + 4Sora + Hope Tala + Mon Laferte x Nathy Peluso + The Cavemen + DJ Boat x Ghetto Boy + Rubii x Amaria BB  + Obongjayar + Lulu + Joao Selva x Bundetto + Mortimer x Paris la Mont + Mahalia x Lila Iké + Ona Dema + Téo x Jaden  + Juls x Anaïs Cardot x Kadiata +  Victony x Olamide + Little Simz x Lydia Kitto + Sault  & +++ enjoy",
+					"text": "Pedro Mizutani x Skinshape + The Cavemen + 4Sora + Hope Tala +  Rubii x Amaria BB  + Obongjayar + Thundercat + Lulu + Joao Selva x Bundetto + Mortimer x Paris la Mont + Mahalia x Lila Iké + Ona Dema + Téo x Jaden  + Juls x Anaïs Cardot x Kadiata +  Little Simz x Lydia Kitto + Sault  & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -68,12 +68,12 @@
 					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aDGMKidWJ-7kSg1-_Rubii.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Rubii",
+					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=format,compress&rect=0,0,1500,844&w=1024&h=576",
+					"alt": "Amaria BB",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aMk_gmGNHVfTPRXC_4sora.jpg?auto=format,compress&rect=0,0,204,247&w=1024&h=1240",
