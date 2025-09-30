@@ -24,7 +24,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "nice-day"
+			"uid": "hiphopsoul"
 		},
 		{
 			"position": 6,
@@ -185,11 +185,11 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "nice-day",
+			"uid": "hiphopsoul",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-09-30T10:14:00+0000",
+			"publication_date": "2025-09-30T10:19:20+0000",
 			"title": "Hip Hop / Soul",
 			"subtitle": "Happy Crossover - Outkast on Cover",
 			"text_color": "inverted",

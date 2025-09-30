@@ -1,0 +1,107 @@
+{
+	"uid": "hiphopsoul",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2025-09-30T10:19:20+0000",
+	"title": "Hip Hop / Soul",
+	"subtitle": "Happy Crossover - Outkast on Cover",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "Outkast - Draculas Wedding (Official Lyric Video) ft. Kelis (1).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aNe1K55xUNkB1LDv_Outkast-DraculasWedding-OfficialLyricVideo-ft.Kelis-1-.mp4"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Outkast + Missy Elliot +  Kanye West x Paul Wall x GLC + Guru x Paul Ferguson x Baybe + Nas x Chrisette Michele +  2Pac x Dr Dre. x Roger + Dr Dre x Snoop dog + Kelis x Nas + Method Man x Mary J Blidge +  Garland Jeffreys + The Brand New Heavies + Pharrell Williams x Kanye West + Sergio Mendes x Q-tip x Will.I.Am + Snoop Dog x Charlie Wilson x Justin Timberlake +  Sleepy Brown x Pharrell Williams x Big Boi +Dugeon Family x Sleepy Brown x CeeLo Green x Big Gipp x Backbone x Big Boi x Shuga Luv + Michael jackson + Asap Rocky +  Sault + Gnarls Barkley + Buju Banton x Pharrell Williams & ++++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/aNe1Jp5xUNkB1LDt_MissyElliot..jpg?auto=format,compress&rect=0,0,2500,2461&w=1024&h=1008",
+					"alt": "Missy Elliot",
+					"copyright": null,
+					"width": 1024,
+					"height": 1008,
+					"ratio": 1.0158730158730158
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aNe19p5xUNkB1LD0_Guru.jpg?auto=format,compress&rect=0,0,1487,1500&w=1024&h=1033",
+					"alt": "Guru",
+					"copyright": null,
+					"width": 1024,
+					"height": 1033,
+					"ratio": 0.9912875121006777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aDLcjidWJ-7kShQo_Kelis.jpg?auto=format,compress&rect=0,0,495,575&w=1024&h=1189",
+					"alt": "Kelis ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1189,
+					"ratio": 0.8612279226240538
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZpJDfR5LeNNTxITT_PharrellWilliamsxKanyeWest.jpg?auto=format,compress&rect=0,0,1100,620&w=1024&h=577",
+					"alt": "Pharrell Williams x Kanye West",
+					"copyright": null,
+					"width": 1024,
+					"height": 577,
+					"ratio": 1.7746967071057191
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aNe2655xUNkB1LD-_MaryJBlige.jpeg?auto=format,compress&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "Mary J Blige",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/3c5be5e7-44da-485c-85a0-15f16dd3019f_2pac.jpg?auto=format,compress&rect=0,0,1280,720&w=1024&h=576",
+					"alt": "2pac",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMCkRPuVb2YJ4XdLQXpgsE-b",
+					"title": "Nice Day"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=69de2f37bdad47fb",
+					"title": "Nice Day"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4936380104",
+					"title": "Nice Day"
+				}
+			]
+		}
+	],
+	"description": "Nice & Happy"
+}
