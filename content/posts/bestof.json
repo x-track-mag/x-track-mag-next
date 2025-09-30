@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-09-28T09:04:11+0000",
-	"title": "Best of - Cover : Parcels",
+	"publication_date": "2025-09-30T10:11:16+0000",
+	"title": "Best of - Cover : Thundercat",
 	"subtitle": "R&B Reggae Hip Hop Chill Pop Afropop",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Parcels - Sorry (Lyric Video).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aNj3FJ5xUNkB1L-b_Parcels-Sorry-LyricVideo-.mp4"
+		"name": "Thundercat - I Wish I Didn’t Waste Your Time.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aNj3DJ5xUNkB1L-U_Thundercat-IWishIDidn%E2%80%99tWasteYourTime.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -31,8 +31,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aNj3DZ5xUNkB1L-V_Thundercat.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Thundercat",
+					"url": "https://images.prismic.io/x-track-mag/aL1l82GNHVfTOvMX_Tarrusriley.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tarrus Riley",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
@@ -47,12 +47,12 @@
 					"ratio": 1.0009775171065494
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aL1l82GNHVfTOvMX_Tarrusriley.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Tarrus Riley",
+					"url": "https://images.prismic.io/x-track-mag/aL1mSWGNHVfTOvMb_Trinix.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Trinix",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -68,12 +68,12 @@
 					"ratio": 1.0108588351431391
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aL1mSWGNHVfTOvMb_Trinix.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Trinix",
+					"url": "https://images.prismic.io/x-track-mag/40ec2f7a-d7d6-4ff9-a17c-0a04b0bb33a9_Parcels+.jpg?auto=format,compress&rect=0,0,2560,1698&w=1024&h=679",
+					"alt": "Parcels",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 679,
+					"ratio": 1.508100147275405
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aJhfbqTt2nPbaHWR_MarianaFroes.jpg?auto=format,compress&rect=0,0,1080,1433&w=1024&h=1359",
