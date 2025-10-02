@@ -355,6 +355,29 @@
 			"description": "Mode éthique"
 		},
 		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2025-10-02T08:15:21+0000",
+			"title": "Les apparences trompeuses du Pretty Privilege",
+			"subtitle": "",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": "Nadia Lee Cohen",
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "Sylsphée Bertili",
+			"internal_link": null,
+			"description": "Les apparences trompeuses du pretty privilege"
+		},
+		{
 			"uid": "live-session-badbiche",
 			"tags": [
 				"music",
@@ -567,29 +590,6 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "SAM QUEALY : NOUVELLE PAPESSE TECHNO-GABBER-KITSCH"
-		},
-		{
-			"uid": "les-apparences-trompeuses-du-pretty-privilege",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2025-07-20T12:16:08+0000",
-			"title": "Les apparences trompeuses du Pretty Privilege ",
-			"subtitle": "",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
-				"alt": null,
-				"copyright": "Nadia Lee Cohen",
-				"width": 2000,
-				"height": 1590,
-				"ratio": 1.2578616352201257
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Sylsphée Bertili",
-			"internal_link": null,
-			"description": "Les apparences trompeuses du pretty privilege"
 		},
 		{
 			"uid": "interview-moment-badbiche",
