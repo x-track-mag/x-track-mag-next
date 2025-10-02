@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-09-30T10:52:57+0000",
+	"publication_date": "2025-10-02T08:14:34+0000",
 	"title": "Best of Chill",
 	"subtitle": "Happy Chill Vibes - Cover : Rubii",
 	"text_color": "inverted",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Pedro Mizutani x Skinshape + The Cavemen + 4Sora + Hope Tala +  Rubii x Amaria BB  + Obongjayar + Thundercat + Lulu + Joao Selva x Bundetto + Mortimer x Paris la Mont + Mahalia x Lila Iké + Ona Dema + Téo x Jaden  + Juls x Anaïs Cardot x Kadiata +  Little Simz x Lydia Kitto + Sault  & +++ enjoy",
+					"text": "Pedro Mizutani x Skinshape + 4Sora + Hope Tala +  Rubii x Amaria BB  + Obongjayar + Thundercat + Lulu + Joao Selva x Bundetto + Mortimer x Paris la Mont + Mahalia x Lila Iké + Ona Dema + Téo x Jaden  + Juls x Anaïs Cardot x Kadiata +  Little Simz x Lydia Kitto + Sault  & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,20 +31,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
+					"url": "https://images.prismic.io/x-track-mag/aDGMKidWJ-7kSg1-_Rubii.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Rubii",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
 					"url": "https://images.prismic.io/x-track-mag/aJhqC6Tt2nPbaHWt_PedroMizutani.jpg?auto=format,compress&rect=0,0,733,524&w=1024&h=732",
 					"alt": "Pedro Mizutani",
 					"copyright": null,
 					"width": 1024,
 					"height": 732,
 					"ratio": 1.3989071038251366
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a61d4573-2a30-4746-a13e-5295aaeb2d30_The+Cavemen.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "The Cavemen",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aNmI955xUNkB1MRs_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
@@ -60,8 +60,8 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aNj3GZ5xUNkB1L-i_DJBoat.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "DJ Boat",
+					"url": "https://images.prismic.io/x-track-mag/aNj3DZ5xUNkB1L-V_Thundercat.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Thundercat",
 					"copyright": null,
 					"width": 1024,
 					"height": 1280,
