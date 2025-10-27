@@ -58,7 +58,7 @@
 	"selected_reads": [
 		{
 			"uid": "yayayayoutube-ep-1-samantha-deep",
-			"title": "Yayayayoutube EP 1  : Samantha Deep ",
+			"title": "Yayayayoutube EP 1  : Samantha Deep",
 			"image": null,
 			"video_loop": {
 				"name": "LOOOP YAYA.mp4",
@@ -353,6 +353,25 @@
 			"author": "Camille Laurens",
 			"internal_link": null,
 			"description": "Mode éthique"
+		},
+		{
+			"uid": "yayayayoutube-ep-1-samantha-deep",
+			"tags": [
+				"video"
+			],
+			"publication_date": "2025-10-27T10:20:19+0000",
+			"title": "Yayayayoutube EP 1  : Samantha Deep",
+			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "LOOOP YAYA.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4"
+			},
+			"template": "3: Image + Titre",
+			"author": null,
+			"internal_link": null,
+			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
 			"uid": "les-apparences-trompeuses-du-pretty-privilege",
@@ -732,25 +751,6 @@
 			"author": "Aphelandra Siassia",
 			"internal_link": null,
 			"description": "La truite bisexuelle, la Crampe cagoulée ou encore le Seigneur Citron. Autant de personnages à graviter dans l’imaginaire du quatuor parisien Polycool. Avec leur premier  album “Lemon Lord” sorti en novembre dernier, le groupe déploie l’éventail de son univers musical, savant mélange entre une pop flamboyante et une soul vibrante. Rencontre lunaire avec un “boys band” plus que prometteur. "
-		},
-		{
-			"uid": "yayayayoutube-ep-1-samantha-deep",
-			"tags": [
-				"video"
-			],
-			"publication_date": "2025-06-26T10:43:53+0000",
-			"title": "Yayayayoutube EP 1  : Samantha Deep ",
-			"subtitle": "Comment préparer un martini dry tout en larguant son amant.",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "LOOOP YAYA.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/128aeb39-6f16-48f5-9ccc-58d9841504b9_LOOOP+YAYA.mp4"
-			},
-			"template": "3: Image + Titre",
-			"author": null,
-			"internal_link": null,
-			"description": "Comment préparer un martini dry tout en larguant son amant"
 		},
 		{
 			"uid": "interview-moment-amaru",
