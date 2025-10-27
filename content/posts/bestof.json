@@ -3,8 +3,8 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-10-11T10:23:29+0000",
-	"title": "Best of - Cover : Oklou x FKA Twigs",
+	"publication_date": "2025-10-27T10:12:28+0000",
+	"title": "Best of - Cover : M",
 	"subtitle": "R&B Reggae Hip Hop Chill Hyperpop Afropop",
 	"text_color": "inverted",
 	"image": null,
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Oklou x FKA Twigs + Byron Messia x Kman 6ixx + Yarden x Melissa  + Atili x Davojah  + Sarz x Teni x Libianca + Mortimer x Zion I Kings + Mesh Marina x Shennell x Mario C + Trinix x Bonga x Mariana Froes + Aylo  + Bakar +  Juls x Goldlink + Yaya Bey  x Father Philips + Lila Iké x Massicka & +++ Enjoy ",
+					"text": "+++ Masego + Armanii + Mortimer x Protoje + Chronixx + Show Dem Camp x Joey B x Boj + Juls Tay Iwar + Kokoro + Snazzy + Yazmin Lacey + + Dave x Tems + Rory x Masego x Freddie Gibbs + Nesta + Crayon x Rhye + Daniel Caesar + Rubii & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aOot355xUNkB12Hg_FKAtwigsOklou.jpg?auto=format,compress&rect=0,0,1320,660&w=1024&h=512",
-					"alt": "FKA twigs Oklou",
+					"url": "https://images.prismic.io/x-track-mag/aP9BxrpReVYa3sa4_Masego.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Masego",
 					"copyright": null,
 					"width": 1024,
-					"height": 512,
-					"ratio": 2
+					"height": 1279,
+					"ratio": 0.800625488663018
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aOot3p5xUNkB12He_ByronMessia.jpg?auto=format,compress&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Byron Messia ",
+					"url": "https://images.prismic.io/x-track-mag/aP9BmbpReVYa3sZz_SheilaMauriceGrey%3AKokoroko.jpeg?auto=format,compress&rect=0,0,2048,2560&w=1024&h=1280",
+					"alt": "Sheila Maurice Grey / Kokoroko",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aNj3G55xUNkB1L-k_Shennell.jpg?auto=format,compress&rect=0,0,1080,1079&w=1024&h=1023",
-					"alt": "Shennell",
+					"url": "https://images.prismic.io/x-track-mag/aP9BpLpReVYa3saM_Armanii.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
+					"alt": "Armanii",
 					"copyright": null,
 					"width": 1024,
-					"height": 1023,
-					"ratio": 1.0009775171065494
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aOot2Z5xUNkB12HU_Teni.jpg?auto=format,compress&rect=0,0,1080,1398&w=1024&h=1326",
-					"alt": "Teni",
+					"url": "https://images.prismic.io/x-track-mag/aP9BobpReVYa3saF_Mortimer.heic?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
+					"alt": "Mortimer",
 					"copyright": null,
 					"width": 1024,
-					"height": 1326,
-					"ratio": 0.7722473604826546
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aOot255xUNkB12HY_Atili.jpg?auto=format,compress&rect=0,0,960,948&w=1024&h=1011",
-					"alt": "Atili",
+					"url": "https://images.prismic.io/x-track-mag/aP9BlbpReVYa3sZr_Tems.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Tems",
 					"copyright": null,
 					"width": 1024,
-					"height": 1011,
-					"ratio": 1.012858555885262
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aOot2J5xUNkB12HS_Libianca.jpg?auto=format,compress&rect=0,0,958,1199&w=1024&h=1282",
-					"alt": "Libianca ",
+					"url": "https://images.prismic.io/x-track-mag/aP9Bn7pReVYa3saB_ShowDemCamp.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
+					"alt": "Show Dem Camp",
 					"copyright": null,
 					"width": 1024,
-					"height": 1282,
-					"ratio": 0.7987519500780031
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				}
 			]
 		},
@@ -89,11 +89,11 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMDdotNZcLvSdBenSFTkLmyP",
-					"title": "Best of"
+					"url": "https://www.youtube.com/channel/UCBiFox5jRbUoTNDfFwlE2MQ",
+					"title": "XTrack"
 				},
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=1d078cc6194a4db7",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=45e83c3473654f1b",
 					"title": "Best of"
 				},
 				{
