@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-09-30T10:21:47+0000",
+	"publication_date": "2025-12-28T18:01:52+0000",
 	"title": "Yacht Music",
 	"subtitle": "The Power Of Gentle Joy - Cover : Grace Jones",
 	"text_color": "inverted",
@@ -25,7 +25,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Queen + Lenny Kravitz + Me One + PM Dawn + Sade + Parcels + Drugdealer x Kate Bolinger + Fleetwood Mac + Donald Fagen + Bryan Ferry + Steely Dan + Boz Scags  + Paul Simon + Joni Mitchell + Jimi Hendrix + David Bowie + Chris Isaak + John Lee Hooker x Santana + The Neville Brothers  +  Grace Jones + Curtis Mayfield + Michael Jackson + Daryl Hall & John Oates  & +++ enjoy",
+					"text": "BB King + Johnny Guitar Watson + Soul II Soul + Suzanne Vega x DNA + St Germain + Sade  + Prince + Frank Ocean + Sault + Barry White x Love Unlimited Orchestra + En vogue + Color Me Bad + Digable Planets x Sara Webb + Floetry & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -100,10 +100,7 @@
 					"url": "https://open.spotify.com/playlist/4vcp9k3nl0gFzXOjhimDJq?si=a4bf9b6c0d194e72",
 					"title": "Yacht Music"
 				},
-				{
-					"url": "https://www.deezer.com/fr/playlist/5278301122",
-					"title": "Yacht Music"
-				}
+				null
 			]
 		}
 	],
