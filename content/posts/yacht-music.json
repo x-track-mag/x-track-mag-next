@@ -1,7 +1,7 @@
 {
 	"uid": "yacht-music",
 	"tags": [],
-	"publication_date": "2025-12-28T18:03:46+0000",
+	"publication_date": "2025-12-28T18:42:35+0000",
 	"title": "Yacht Music",
 	"subtitle": "The Power Of Gentle Joy - Cover : Soul II Soul",
 	"text_color": "inverted",
@@ -33,28 +33,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zf6g08cYqOFdyC1Z_Lenny-Kravitz.jpg?auto=format,compress&rect=0,0,2375,3600&w=1024&h=1552",
-					"alt": "Lenny Kravitz",
+					"url": "https://images.prismic.io/x-track-mag/aVF5rnNYClf9oqfW_BBKing.jpg?auto=format,compress&rect=0,0,404,500&w=1024&h=1267",
+					"alt": "BB King",
 					"copyright": null,
 					"width": 1024,
-					"height": 1552,
-					"ratio": 0.6597938144329897
+					"height": 1267,
+					"ratio": 0.8082083662194159
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aNtkX55xUNkB1QAL_Sade.jpg?auto=format,compress&rect=0,0,1500,1500&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/aVF5qnNYClf9oqfS_Sade.jpeg?auto=format,compress&rect=0,0,1600,1484&w=1024&h=950",
 					"alt": "Sade",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 950,
+					"ratio": 1.0778947368421052
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aNEA_J5xUNkB08Nt_Queen.jpg?auto=format,compress&rect=0,0,999,806&w=1024&h=826",
-					"alt": "Queen",
+					"url": "https://images.prismic.io/x-track-mag/aVF5p3NYClf9oqfR_Prince.jpg?auto=format,compress&rect=0,0,1024,768&w=1024&h=768",
+					"alt": "Prince",
 					"copyright": null,
 					"width": 1024,
-					"height": 826,
-					"ratio": 1.2397094430992737
+					"height": 768,
+					"ratio": 1.3333333333333333
 				}
 			]
 		},
@@ -62,28 +62,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aCmw0ydWJ-7kSQiP_BryanFerry.jpg?auto=format,compress&rect=0,0,445,557&w=1024&h=1282",
-					"alt": "Bryan Ferry",
+					"url": "https://images.prismic.io/x-track-mag/aVF5p3NYClf9oqfQ_LoveUnlimited.jpg?auto=format,compress&rect=0,0,2287,2468&w=1024&h=1105",
+					"alt": "Love Unlimited",
 					"copyright": null,
 					"width": 1024,
-					"height": 1282,
-					"ratio": 0.7987519500780031
+					"height": 1105,
+					"ratio": 0.9266968325791856
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aCmxYydWJ-7kSQiY_JoniMitchell.jpg?auto=format,compress&rect=0,0,1000,784&w=1024&h=803",
-					"alt": "Joni Mitchell",
+					"url": "https://images.prismic.io/x-track-mag/aVF5rXNYClf9oqfV_JohnnyGuitarWatson.jpg?auto=format,compress&rect=0,0,1900,1900&w=1024&h=1024",
+					"alt": "Johnny Guitar Watson",
 					"copyright": null,
 					"width": 1024,
-					"height": 803,
-					"ratio": 1.2752179327521793
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Zf6g0ccYqOFdyC1X_FleetwoodMac.jpg?auto=format,compress&rect=0,0,1580,1054&w=1024&h=683",
-					"alt": "Fleetwood Mac",
+					"url": "https://images.prismic.io/x-track-mag/ZtbPQbzzk9ZrW5zY_suzannevega.jpg?auto=format,compress&rect=0,0,1000,850&w=1024&h=870",
+					"alt": "Suzanne Vega",
 					"copyright": null,
 					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
+					"height": 870,
+					"ratio": 1.1770114942528735
 				}
 			]
 		},
