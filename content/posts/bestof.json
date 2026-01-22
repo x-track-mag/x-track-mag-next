@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-12-28T17:57:28+0000",
-	"title": "Best of 2025 - Cover : Lila Iké x Masicka",
+	"publication_date": "2026-01-22T13:20:01+0000",
+	"title": "Best of - Cover : Doechii",
 	"subtitle": "Trap Soul / Afroswing / Reggae Roots / Rap",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Lila Iké - Romantic ft. Masicka (Official Video).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aTP833NYClf9n4Rp_LilaIke%CC%81-Romanticft.Masicka-OfficialVideo-.mp4"
+		"name": "Doechii - girl, get up. (Feat. SZA).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aXIiAQIvOtkhB0Oi_Doechii-girl%2Cgetup.-Feat.SZA-.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Odeal x Wizkid + Haile + Yarden x Mellissa + Little Simz + Valiant + Lila Iké x Masicka + Obongjayar + Juls x Goldlink + 808vic + Bakar + Tems + Yaya Bey x Father Philis +Bd Trickz & +++ Enjoy ",
+					"text": "+++ Arc Icons + Sault + Dechii x SZA + Armanii + Asap Rocky + Kali Uchis + Re:Um + Snazzy  + Judeline x Pa Saulieu + J Us + Protoje x Damian Marley + Russian x Moliy x ayetian x Tyga + Wizkid x Asake + Valiant x DJ Mac x Crash Dummy + Nas x DJ Premier x Steve Miller + Nonso Amadi + Amindi & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aTP6HnNYClf9n4Rg_iamodeal.avif?auto=format,compress&rect=0,0,500,500&w=1024&h=1024",
-					"alt": "Odeal",
+					"url": "https://images.prismic.io/x-track-mag/aXIiAgIvOtkhB0Oj_CleoSol.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
+					"alt": "Cleo Sol / Sault",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a407195b-8908-4e4c-a570-40b56e8c3344_Little+Simz.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/aXIh1QIvOtkhB0OR_AsapRocky.jpeg?auto=format,compress&rect=0,0,800,450&w=1024&h=576",
+					"alt": "Asap Rocky",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/3a000303-17dc-4629-91a1-e46f1276876e_Wizkid+.jpg?auto=format,compress&rect=0,0,1200,900&w=1024&h=768",
-					"alt": "Wizkid ",
+					"url": "https://images.prismic.io/x-track-mag/aXIh3gIvOtkhB0Ob_SZA.jpeg?auto=format,compress&rect=0,0,2560,1440&w=1024&h=576",
+					"alt": "SZA",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 576,
+					"ratio": 1.7777777777777777
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/4f54ecad-4c2d-4342-a865-fa77c4cb6bed_Tems.+.jpg?auto=format,compress&rect=0,0,1107,1661&w=1024&h=1536",
-					"alt": "Tems",
+					"url": "https://images.prismic.io/x-track-mag/aXIiBwIvOtkhB0Op_Judeline2.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Judeline",
 					"copyright": null,
 					"width": 1024,
-					"height": 1536,
-					"ratio": 0.6666666666666666
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Obongjayar",
+					"url": "https://images.prismic.io/x-track-mag/aXIh1gIvOtkhB0OS_Armanii.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Armanii",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aXIh1AIvOtkhB0OP_KaliUchis.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
+					"alt": "Kali Uchis",
 					"copyright": null,
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zj6otUFLKBtrWymH_YayaBey.jpg?auto=format,compress&rect=0,0,1440,1080&w=1024&h=768",
-					"alt": "Yaya Bey",
-					"copyright": null,
-					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
 				}
 			]
 		},
