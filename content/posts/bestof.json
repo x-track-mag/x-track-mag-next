@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-01-22T13:20:01+0000",
+	"publication_date": "2026-01-22T13:21:12+0000",
 	"title": "Best of - Cover : Doechii",
 	"subtitle": "Trap Soul / Afroswing / Reggae Roots / Rap",
 	"text_color": "inverted",
@@ -93,10 +93,13 @@
 					"title": "Best of"
 				},
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=9afa3b4be5204ede",
-					"title": "Best of 2025"
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=7e786c9ab91a43ff",
+					"title": "Best of"
 				},
-				null
+				{
+					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"title": "Best of"
+				}
 			]
 		}
 	],
