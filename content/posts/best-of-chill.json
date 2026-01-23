@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-01-23T10:17:56+0000",
+	"publication_date": "2026-01-23T10:23:16+0000",
 	"title": "Best of Chill 2025",
 	"subtitle": "Happy Chill Vibes - Cover : Little Simz x Obongjayar",
 	"text_color": "inverted",
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZiTkhPPdc1huKqHs_Chronixx.jpg?auto=format,compress&rect=0,0,2560,1440&w=1024&h=576",
-					"alt": "Chronixx",
+					"url": "https://images.prismic.io/x-track-mag/Z50UeJbqstJ9-GzD_Mahalia.jpg?auto=format,compress&rect=0,0,658,658&w=1024&h=1024",
+					"alt": "Mahalia",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=format,compress&rect=0,0,1500,844&w=1024&h=576",
-					"alt": "Amaria BB",
+					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=format,compress&rect=0,0,1799,1200&w=1024&h=683",
+					"alt": "juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 683,
+					"ratio": 1.499267935578331
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=format,compress&rect=0,0,1440,1436&w=1024&h=1021",
-					"alt": "Juls",
+					"url": "https://images.prismic.io/x-track-mag/aHzeXEMqNJQqIIFy_LilaIke%CC%81.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Lila Iké",
 					"copyright": null,
 					"width": 1024,
-					"height": 1021,
-					"ratio": 1.0029382957884427
+					"height": 1280,
+					"ratio": 0.8
 				}
 			]
 		},
@@ -93,8 +93,8 @@
 					"title": "Best of Chill"
 				},
 				{
-					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=0618e26b5f0e42bc",
-					"title": "Best of Chill"
+					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=89116561d37847ed",
+					"title": "Best of Chill "
 				},
 				null
 			]
