@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-01-05T16:14:44+0000",
+	"publication_date": "2026-01-23T10:02:09+0000",
 	"title": "Feel Good",
 	"subtitle": "R&B Reggae Hip Hop Pop Afropop - Cover : Enny ",
 	"text_color": "green",
@@ -88,8 +88,14 @@
 		{
 			"template": "section-playlist",
 			"playlist": [
-				null,
-				null,
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMBSdUIznSTPX50N0fcgQpEb",
+					"title": "Feel Good"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/6YSLOvq6DKH90TaHAHw4AM?si=0e45f2d0c9214113",
+					"title": "Feel Good"
+				},
 				{
 					"url": "https://www.deezer.com/fr/playlist/5068447124",
 					"title": "Feel Good"
