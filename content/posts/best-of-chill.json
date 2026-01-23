@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2025-12-28T17:56:49+0000",
+	"publication_date": "2026-01-23T10:17:56+0000",
 	"title": "Best of Chill 2025",
 	"subtitle": "Happy Chill Vibes - Cover : Little Simz x Obongjayar",
 	"text_color": "inverted",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "James Alexander Bright + Hope Tala x Rubii x Amaria BB + Obongjayar + Little Simz x Lydia Kitto + Juls x Anaïs Cardot x Kadiata x Tay Iwar + Oklou x FKA Twigs + Snazzy +  Mahalia x Lila Iké + Boj x Olamide + Ona Dema + Joao Selva x Blundetto & +++ enjoy",
+					"text": "Facesoul + Arooj Aftab x Khruangbin + Crayon x Rhye + Michael Kiwanuka + Obongjayar + Juls x Anaïs Cardot x Kadiata + Little Simz x Lydia Kitto + Joao Selva x Blundetto + Mahalia x Lila Iké + Boj x Olamide  + Rubii x Amaria BB + Chronixx + Mortimer x Paris La Mont + Miel de Montagne & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,34 +31,21 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aDGMKidWJ-7kSg1-_Rubii.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Rubii",
+					"url": "https://images.prismic.io/x-track-mag/fc664c61-b9be-4f22-a293-47fe09355b0d_Facesoul+.jpg?auto=format,compress&rect=0,0,1960,1962&w=1024&h=1025",
+					"alt": "Facesoul ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1025,
+					"ratio": 0.9990243902439024
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aUErynNYClf9oPre_JamesAlexanderBright.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "James Alexander Bright",
+					"url": "https://images.prismic.io/x-track-mag/Z1Vx7ZbqstJ98M85_Anai%CC%88sCardot.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Anaïs Cardot",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aNmI955xUNkB1MRs_HopeTala.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
-					"alt": "Hope Tala ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
 					"alt": "Obongjayar",
@@ -66,6 +53,19 @@
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZiTkhPPdc1huKqHs_Chronixx.jpg?auto=format,compress&rect=0,0,2560,1440&w=1024&h=576",
+					"alt": "Chronixx",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/b21dccc8-95a6-49e5-afb8-21c0ccd57af6_Amaria-BB-.jpg?auto=format,compress&rect=0,0,1500,844&w=1024&h=576",
