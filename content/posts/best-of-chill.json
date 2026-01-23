@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-01-23T10:24:34+0000",
+	"publication_date": "2026-01-23T10:25:06+0000",
 	"title": "Best of Chill 2025",
 	"subtitle": "Happy Chill Vibes - Cover : Little Simz x Obongjayar",
 	"text_color": "inverted",
@@ -96,7 +96,10 @@
 					"url": "https://open.spotify.com/playlist/7i5AWqfgXI86G30l56Coff?si=89116561d37847ed",
 					"title": "Best of Chill "
 				},
-				null
+				{
+					"url": "https://www.deezer.com/fr/playlist/5281964882",
+					"title": "Best of Chill"
+				}
 			]
 		}
 	],
