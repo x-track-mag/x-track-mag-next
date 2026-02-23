@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-02-21T11:10:37+0000",
+	"publication_date": "2026-02-23T23:10:06+0000",
 	"title": "Best of - Cover : Doechii",
 	"subtitle": "Trap Soul / Afroswing / Reggae Roots / Rap",
 	"text_color": "inverted",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Doechii x SZA  + Nigy Boy + Jordan Ward + Arlo Parks + Dremo x Rakeed + Sampa The great x Mwanje + Asap Rocky x Tokisha + Fred Again x Young thug + Jada Kingdom + Armanii + Wizkid x Asake + Dua Saleh x Bon iver + Waterbaby + Valiant + Little Simz x Obongjayar & +++ Enjoy ",
+					"text": "+++ Doechii x SZA  + Nigy Boy + Asap Rocky x Tokisha + Fred Again x Young thug + Sampa The great x Mwanje + Jada Kingdom + Armanii + Jordan Ward + Arlo Parks + Dua Saleh x Bon iver + Waterbaby + Valiant + Little Simz x Obongjayar & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,20 +31,20 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aZmPBcFoBIGEgncw_JordanWard.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Jordan Ward",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aXIh3gIvOtkhB0Ob_SZA.jpeg?auto=format,compress&rect=0,0,2560,1440&w=1024&h=576",
-					"alt": "SZA",
+					"url": "https://images.prismic.io/x-track-mag/aXIh1QIvOtkhB0OR_AsapRocky.jpeg?auto=format,compress&rect=0,0,800,450&w=1024&h=576",
+					"alt": "Asap Rocky",
 					"copyright": null,
 					"width": 1024,
 					"height": 576,
 					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aZmP9cFoBIGEgnc0_Tokischa.jpeg?auto=format,compress&rect=0,0,1080,1433&w=1024&h=1359",
+					"alt": "Tokischa ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1359,
+					"ratio": 0.753495217071376
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aZmPBcFoBIGEgncx_NigyBoy.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
@@ -68,20 +68,20 @@
 					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aXIh1QIvOtkhB0OR_AsapRocky.jpeg?auto=format,compress&rect=0,0,800,450&w=1024&h=576",
-					"alt": "Asap Rocky",
+					"url": "https://images.prismic.io/x-track-mag/aZmPBcFoBIGEgncw_JordanWard.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Jordan Ward",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aXIh3gIvOtkhB0Ob_SZA.jpeg?auto=format,compress&rect=0,0,2560,1440&w=1024&h=576",
+					"alt": "SZA",
 					"copyright": null,
 					"width": 1024,
 					"height": 576,
 					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aZmP9cFoBIGEgnc0_Tokischa.jpeg?auto=format,compress&rect=0,0,1080,1433&w=1024&h=1359",
-					"alt": "Tokischa ",
-					"copyright": null,
-					"width": 1024,
-					"height": 1359,
-					"ratio": 0.753495217071376
 				}
 			]
 		},
