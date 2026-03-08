@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-02-23T23:10:06+0000",
+	"publication_date": "2026-03-08T09:52:37+0000",
 	"title": "Best of - Cover : Doechii",
 	"subtitle": "Trap Soul / Afroswing / Reggae Roots / Rap",
 	"text_color": "inverted",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Doechii x SZA  + Nigy Boy + Asap Rocky x Tokisha + Fred Again x Young thug + Sampa The great x Mwanje + Jada Kingdom + Armanii + Jordan Ward + Arlo Parks + Dua Saleh x Bon iver + Waterbaby + Valiant + Little Simz x Obongjayar & +++ Enjoy ",
+					"text": "+++ Doechii x SZA  + Baby Keem x Kendrick Lamar x Momo Boyd + Nesta x Haile + Armanii + PawPaw Rod + Jorja Smith x Havoc + Thundercat x Mac Miller + Nigy Boy + Jordan Ward + Arlo Parks + Tom Misch + Asap Rocky x Tokisha + Fred Again x Young thug + Sampa The great x Mwanje + Jada Kingdom + Armanii +  Valiant + Little Simz x Obongjayar + Lila Iké x Masicka & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aXIh1QIvOtkhB0OR_AsapRocky.jpeg?auto=format,compress&rect=0,0,800,450&w=1024&h=576",
-					"alt": "Asap Rocky",
+					"url": "https://images.prismic.io/x-track-mag/aa1ErlxvIZEnjcoO_MomoBoydxBabyKeem.jpg?auto=format,compress&rect=0,0,1080,1439&w=1024&h=1364",
+					"alt": "Momo Boyd x Baby Keem",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1364,
+					"ratio": 0.750733137829912
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aZmP9cFoBIGEgnc0_Tokischa.jpeg?auto=format,compress&rect=0,0,1080,1433&w=1024&h=1359",
-					"alt": "Tokischa ",
+					"url": "https://images.prismic.io/x-track-mag/aXIh1gIvOtkhB0OS_Armanii.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Armanii",
 					"copyright": null,
 					"width": 1024,
-					"height": 1359,
-					"ratio": 0.753495217071376
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aZmPBcFoBIGEgncx_NigyBoy.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
-					"alt": "Nigy Boy",
+					"url": "https://images.prismic.io/x-track-mag/aa1EqlxvIZEnjcoK_Nesta.jpg?auto=format,compress&rect=0,0,1080,1436&w=1024&h=1362",
+					"alt": "Nesta",
 					"copyright": null,
 					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
+					"height": 1362,
+					"ratio": 0.7518355359765051
 				}
 			]
 		},
@@ -60,20 +60,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/a4a67c66-cd1b-469a-99af-ce4295a26be4_Arlo+Parks.jpg?auto=format,compress&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/aa1ErFxvIZEnjcoM_KendrickLamar.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
+					"alt": "Kendrick Lamar",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aZmPBcFoBIGEgncw_JordanWard.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Jordan Ward",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aXIh3gIvOtkhB0Ob_SZA.jpeg?auto=format,compress&rect=0,0,2560,1440&w=1024&h=576",
@@ -82,6 +74,14 @@
 					"width": 1024,
 					"height": 576,
 					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zhz4AzjCgu4jz0RR_PawPawrod.jpg?auto=format,compress&rect=0,0,1080,1063&w=1024&h=1008",
+					"alt": "PawPaw Rod",
+					"copyright": null,
+					"width": 1024,
+					"height": 1008,
+					"ratio": 1.0158730158730158
 				}
 			]
 		},
