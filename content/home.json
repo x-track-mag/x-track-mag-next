@@ -290,19 +290,15 @@
 		{
 			"uid": "yacht-music",
 			"tags": [],
-			"publication_date": "2025-12-28T18:42:35+0000",
+			"publication_date": "2026-03-15T10:09:56+0000",
 			"title": "Yacht Music",
-			"subtitle": "The Power Of Gentle Joy - Cover : Soul II Soul",
+			"subtitle": "The Power Of Gentle Joy - Cover : Prince and the Revolution",
 			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/aVFw7HNYClf9oqey_soul-ii-soul-club-classics-vol-one.jpeg?auto=format,compress",
-				"alt": "Soul II Soul",
-				"copyright": null,
-				"width": 1280,
-				"height": 1280,
-				"ratio": 1
+			"image": null,
+			"video_loop": {
+				"name": "Prince and the Revolution - Kiss (Official Music Video).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/abaCR7bci2UF6BT6_PrinceandtheRevolution-Kiss-OfficialMusicVideo-.mp4"
 			},
-			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,

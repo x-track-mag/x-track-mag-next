@@ -1,19 +1,15 @@
 {
 	"uid": "yacht-music",
 	"tags": [],
-	"publication_date": "2025-12-28T18:42:35+0000",
+	"publication_date": "2026-03-15T10:09:56+0000",
 	"title": "Yacht Music",
-	"subtitle": "The Power Of Gentle Joy - Cover : Soul II Soul",
+	"subtitle": "The Power Of Gentle Joy - Cover : Prince and the Revolution",
 	"text_color": "inverted",
-	"image": {
-		"url": "https://images.prismic.io/x-track-mag/aVFw7HNYClf9oqey_soul-ii-soul-club-classics-vol-one.jpeg?auto=format,compress",
-		"alt": "Soul II Soul",
-		"copyright": null,
-		"width": 1280,
-		"height": 1280,
-		"ratio": 1
+	"image": null,
+	"video_loop": {
+		"name": "Prince and the Revolution - Kiss (Official Music Video).mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/abaCR7bci2UF6BT6_PrinceandtheRevolution-Kiss-OfficialMusicVideo-.mp4"
 	},
-	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
 	"internal_link": null,
@@ -23,7 +19,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "BB King + Johnny Guitar Watson + Soul II Soul + Suzanne Vega x DNA + St Germain + Sade  + Prince + Frank Ocean + Sault + Barry White x Love Unlimited Orchestra + En vogue + Color Me Bad + Digable Planets x Sara Webb + Floetry & +++ enjoy",
+					"text": "Prince and the Revolution + Sade + Sly  & the Family Stones + Daryl hall & John Oates + Grace Jones + Georges McCrae + 2Pac x Yaki Kadafi x Snoop Dogg x Nate Dogg x Fatal + Michael Jackson + Kool & The Gang + Curtis Mayfield + Lenny Kravitz + Brother to Brother + Marvin Gaye + The Brand New Heavies + Massive Attack x Tony Brian + Sinead O Connor + Urban s pecies x MC Solaar& +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -33,28 +29,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aVF5rnNYClf9oqfW_BBKing.jpg?auto=format,compress&rect=0,0,404,500&w=1024&h=1267",
-					"alt": "BB King",
-					"copyright": null,
-					"width": 1024,
-					"height": 1267,
-					"ratio": 0.8082083662194159
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aVF5qnNYClf9oqfS_Sade.jpeg?auto=format,compress&rect=0,0,1600,1484&w=1024&h=950",
+					"url": "https://images.prismic.io/x-track-mag/aNtkX55xUNkB1QAL_Sade.jpg?auto=format,compress&rect=0,0,1500,1500&w=1024&h=1024",
 					"alt": "Sade",
 					"copyright": null,
 					"width": 1024,
-					"height": 950,
-					"ratio": 1.0778947368421052
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aVF5p3NYClf9oqfR_Prince.jpg?auto=format,compress&rect=0,0,1024,768&w=1024&h=768",
-					"alt": "Prince",
+					"url": "https://images.prismic.io/x-track-mag/abaD4rbci2UF6BT__Sly%26TheFamilyStones.jpg?auto=format,compress&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Sly & The Family Stones",
 					"copyright": null,
 					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zf6g1McYqOFdyC1a_GraceJones.jpg?auto=format,compress&rect=0,1,2558,1434&w=1024&h=574",
+					"alt": "Grace Jones",
+					"copyright": null,
+					"width": 1024,
+					"height": 574,
+					"ratio": 1.78397212543554
 				}
 			]
 		},
@@ -62,28 +58,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aVF5p3NYClf9oqfQ_LoveUnlimited.jpg?auto=format,compress&rect=0,0,2287,2468&w=1024&h=1105",
-					"alt": "Love Unlimited",
-					"copyright": null,
-					"width": 1024,
-					"height": 1105,
-					"ratio": 0.9266968325791856
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aVF5rXNYClf9oqfV_JohnnyGuitarWatson.jpg?auto=format,compress&rect=0,0,1900,1900&w=1024&h=1024",
-					"alt": "Johnny Guitar Watson",
+					"url": "https://images.prismic.io/x-track-mag/abaEWLbci2UF6BUD_DarylHall%26JohnOates.jpeg?auto=format,compress&rect=0,0,600,600&w=1024&h=1024",
+					"alt": "Daryl Hall & John Oates",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZtbPQbzzk9ZrW5zY_suzannevega.jpg?auto=format,compress&rect=0,0,1000,850&w=1024&h=870",
-					"alt": "Suzanne Vega",
+					"url": "https://images.prismic.io/x-track-mag/abaE57bci2UF6BVU_SineadoConnor.jpeg?auto=format,compress&rect=0,0,736,791&w=1024&h=1101",
+					"alt": "Sinead o Connor",
 					"copyright": null,
 					"width": 1024,
-					"height": 870,
-					"ratio": 1.1770114942528735
+					"height": 1101,
+					"ratio": 0.9300635785649409
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zf6g08cYqOFdyC1Z_Lenny-Kravitz.jpg?auto=format,compress&rect=0,0,2375,3600&w=1024&h=1552",
+					"alt": "Lenny Kravitz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1552,
+					"ratio": 0.6597938144329897
 				}
 			]
 		},
