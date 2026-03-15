@@ -44,15 +44,18 @@
 		},
 		{
 			"position": 10,
-			"uid": "yacht-music"
+			"uid": "la-mode-ethique-classe-ou-classiste"
 		},
 		{
 			"position": 11,
-			"uid": "live-session-amaru"
+			"uid": "yacht-music"
 		},
 		{
-			"position": 12,
-			"uid": "la-mode-ethique-classe-ou-classiste"
+			"position": 12
+		},
+		{
+			"position": 13,
+			"uid": "live-session-amaru"
 		}
 	],
 	"selected_reads": [
@@ -95,6 +98,19 @@
 				"name": "LOOPFIN.mp4",
 				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3b7b3ef5-0d2b-4244-a60d-8e7a5ee7c115_LOOPFIN.mp4"
 			}
+		},
+		{
+			"uid": "les-apparences-trompeuses-du-pretty-privilege",
+			"title": "Les apparences trompeuses du Pretty Privilege",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/5780466e-673f-45a4-b8ce-f4836829dc61_NADIA-LEE-WEBZINE-CULTURE.jpeg?auto=compress,format",
+				"alt": null,
+				"copyright": "Nadia Lee Cohen",
+				"width": 2000,
+				"height": 1590,
+				"ratio": 1.2578616352201257
+			},
+			"video_loop": null
 		}
 	],
 	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
@@ -288,43 +304,6 @@
 			"description": "Tropical"
 		},
 		{
-			"uid": "yacht-music",
-			"tags": [],
-			"publication_date": "2026-03-15T10:09:56+0000",
-			"title": "Yacht Music",
-			"subtitle": "The Power Of Gentle Joy - Cover : Prince and the Revolution",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Prince and the Revolution - Kiss (Official Music Video).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/abaCR7bci2UF6BT6_PrinceandtheRevolution-Kiss-OfficialMusicVideo-.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Kind of Yacht Music"
-		},
-		{
-			"uid": "live-session-amaru",
-			"tags": [
-				"music",
-				"live session"
-			],
-			"publication_date": "2025-09-30T10:53:48+0000",
-			"title": "AMARU ",
-			"subtitle": "LIVE SESSION ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "IMG_3340.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "X-TRACK TEAM",
-			"internal_link": null,
-			"description": "live session amaru karma x-track mag"
-		},
-		{
 			"uid": "la-mode-ethique-classe-ou-classiste",
 			"tags": [
 				"article",
@@ -349,6 +328,23 @@
 			"description": "Mode éthique"
 		},
 		{
+			"uid": "yacht-music",
+			"tags": [],
+			"publication_date": "2026-03-15T10:09:56+0000",
+			"title": "Yacht Music",
+			"subtitle": "The Power Of Gentle Joy - Cover : Prince and the Revolution",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Prince and the Revolution - Kiss (Official Music Video).mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/abaCR7bci2UF6BT6_PrinceandtheRevolution-Kiss-OfficialMusicVideo-.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Kind of Yacht Music"
+		},
+		{
 			"uid": "comment-les-planetes-se-sont-elles-invitees-sur-nos",
 			"tags": [
 				"article"
@@ -370,6 +366,26 @@
 			"author": "Manon Pelinq",
 			"internal_link": null,
 			"description": "Il y a encore quelques années, les constellations en tout genre, c’était juste un truc vague qui gravitait au dessus de ta tête. Aujourd’hui, les planètes t’envoient des pushs. Toi même tu le sais si tu utilises des applis de type co-star. Que s’est-il passé entre temps? Comment les planètes ont débarquées sur nos écrans? "
+		},
+		{
+			"uid": "live-session-amaru",
+			"tags": [
+				"music",
+				"live session"
+			],
+			"publication_date": "2025-09-30T10:53:48+0000",
+			"title": "AMARU ",
+			"subtitle": "LIVE SESSION ",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "IMG_3340.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/3f03f90d-0edb-426e-bdda-8f84501cb164_IMG_3340.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "X-TRACK TEAM",
+			"internal_link": null,
+			"description": "live session amaru karma x-track mag"
 		},
 		{
 			"uid": "yayayayoutube-ep-1-samantha-deep",
