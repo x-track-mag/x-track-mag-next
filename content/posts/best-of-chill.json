@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-01-23T10:25:06+0000",
+	"publication_date": "2026-03-28T11:02:58+0000",
 	"title": "Best of Chill 2025",
-	"subtitle": "Happy Chill Vibes - Cover : Little Simz x Obongjayar",
+	"subtitle": "Happy Chill Vibes - Cover : Jenevieve x Jordan Ward",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Little Simz x Obongjayar.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aER5e7h8WN-LV2o0_LittleSimzxObongjayar.mp4"
+		"name": "Jenevieve - Waiting Room (feat. Jordan Ward) [Official Visualizer]_1.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ace0RZGXnQHGZEIR_Jenevieve-WaitingRoom-feat.JordanWard-%5BOfficialVisualizer%5D_1.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Facesoul + Arooj Aftab x Khruangbin + Crayon x Rhye + Michael Kiwanuka + Obongjayar + Juls x Anaïs Cardot x Kadiata + Little Simz x Lydia Kitto + Joao Selva x Blundetto + Mahalia x Lila Iké + Boj x Olamide  + Rubii x Amaria BB + Chronixx + Mortimer x Paris La Mont + Miel de Montagne & +++ enjoy",
+					"text": "Jenevieve x Jordan Ward + Doechii x SZA + Baby Keen x Kendrick Lamar x Momo Boyd + Crayon x Rhye + Obongjayar + Juls x Anaïs Cardot + Kadiata + Little Simz x Lydia Kitto + Jungle + Snazzy + Mahalia x Lila Iké + Michael Kiwanuka + Waterbabu & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,16 +31,37 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/fc664c61-b9be-4f22-a293-47fe09355b0d_Facesoul+.jpg?auto=format,compress&rect=0,0,1960,1962&w=1024&h=1025",
-					"alt": "Facesoul ",
+					"url": "https://images.prismic.io/x-track-mag/b526314b-5444-4ea5-8150-5c7c0b79a844_Doechii.+.jpg?auto=format,compress&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Doechii",
 					"copyright": null,
 					"width": 1024,
-					"height": 1025,
-					"ratio": 0.9990243902439024
+					"height": 1024,
+					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z1Vx7ZbqstJ98M85_Anai%CC%88sCardot.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Anaïs Cardot",
+					"url": "https://images.prismic.io/x-track-mag/aa1ErFxvIZEnjcoM_KendrickLamar.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
+					"alt": "Kendrick Lamar",
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aa1ErlxvIZEnjcoO_MomoBoydxBabyKeem.jpg?auto=format,compress&rect=0,0,1080,1439&w=1024&h=1364",
+					"alt": "Momo Boyd x Baby Keem",
+					"copyright": null,
+					"width": 1024,
+					"height": 1364,
+					"ratio": 0.750733137829912
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/e4349fa5-2bb2-4f4f-8e7e-e0b8edf7f8cb_Little+Simz.jpg?auto=format,compress&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": "Little Simz",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
@@ -53,27 +74,6 @@
 					"width": 1024,
 					"height": 1279,
 					"ratio": 0.800625488663018
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/Z50UeJbqstJ9-GzD_Mahalia.jpg?auto=format,compress&rect=0,0,658,658&w=1024&h=1024",
-					"alt": "Mahalia",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/1932f594-c3ff-4ef1-b650-8eda19b3720f_juls.jpg?auto=format,compress&rect=0,0,1799,1200&w=1024&h=683",
-					"alt": "juls",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aHzeXEMqNJQqIIFy_LilaIke%CC%81.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
