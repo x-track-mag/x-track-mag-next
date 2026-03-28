@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-03-08T09:52:37+0000",
-	"title": "Best of - Cover : Doechii",
+	"publication_date": "2026-03-28T10:50:17+0000",
+	"title": "Best of - Cover : Thundercat x Mac Miller",
 	"subtitle": "Trap Soul / Afroswing / Reggae Roots / Rap",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Doechii - girl, get up. (Feat. SZA).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aXIiAQIvOtkhB0Oi_Doechii-girl%2Cgetup.-Feat.SZA-.mp4"
+		"name": "Thundercat - She Knows Too Much (feat. Mac Miller) (Official Video)_2.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/acewkpGXnQHGZEH6_Thundercat-SheKnowsTooMuch-feat.MacMiller--OfficialVideo-_2.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Doechii x SZA  + Baby Keem x Kendrick Lamar x Momo Boyd + Nesta x Haile + Armanii + PawPaw Rod + Jorja Smith x Havoc + Thundercat x Mac Miller + Nigy Boy + Jordan Ward + Arlo Parks + Tom Misch + Asap Rocky x Tokisha + Fred Again x Young thug + Sampa The great x Mwanje + Jada Kingdom + Armanii +  Valiant + Little Simz x Obongjayar + Lila Iké x Masicka & +++ Enjoy ",
+					"text": "+++ Armanii x Sortie + PawPaw Rod + Thundercat x Mac Miller + Tom Mish + Arlo Parks + Juls x Tay Iwar + Asap Rocky x Tokischa + Fred Again x Young Thug  + Sampa The Great x Mwanje + Jada Kingdom + Nesta + Valiant + Little Simz x Obongjayar + Lila Iké x Masicka & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,14 +31,6 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aa1ErlxvIZEnjcoO_MomoBoydxBabyKeem.jpg?auto=format,compress&rect=0,0,1080,1439&w=1024&h=1364",
-					"alt": "Momo Boyd x Baby Keem",
-					"copyright": null,
-					"width": 1024,
-					"height": 1364,
-					"ratio": 0.750733137829912
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/aXIh1gIvOtkhB0OS_Armanii.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
 					"alt": "Armanii",
 					"copyright": null,
@@ -47,33 +39,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aa1EqlxvIZEnjcoK_Nesta.jpg?auto=format,compress&rect=0,0,1080,1436&w=1024&h=1362",
-					"alt": "Nesta",
+					"url": "https://images.prismic.io/x-track-mag/b526314b-5444-4ea5-8150-5c7c0b79a844_Doechii.+.jpg?auto=format,compress&rect=0,0,1440,1440&w=1024&h=1024",
+					"alt": "Doechii",
 					"copyright": null,
 					"width": 1024,
-					"height": 1362,
-					"ratio": 0.7518355359765051
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/aa1ErFxvIZEnjcoM_KendrickLamar.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
-					"alt": "Kendrick Lamar",
-					"copyright": null,
-					"width": 1024,
-					"height": 1365,
-					"ratio": 0.7501831501831502
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aXIh3gIvOtkhB0Ob_SZA.jpeg?auto=format,compress&rect=0,0,2560,1440&w=1024&h=576",
-					"alt": "SZA",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zhz4AzjCgu4jz0RR_PawPawrod.jpg?auto=format,compress&rect=0,0,1080,1063&w=1024&h=1008",
@@ -82,6 +53,35 @@
 					"width": 1024,
 					"height": 1008,
 					"ratio": 1.0158730158730158
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/5373e4a8-d5b8-4d16-a4bd-8beb32da0ef0_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=format,compress&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "Arlo Parks",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aZmPBcFoBIGEgncw_JordanWard.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Jordan Ward",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/fca47e99-3a54-43c7-9eed-b6a381fabe59_Jada+Kingdom.jpg?auto=format,compress&rect=0,0,1010,947&w=1024&h=960",
+					"alt": "Jada Kingdom",
+					"copyright": null,
+					"width": 1024,
+					"height": 960,
+					"ratio": 1.0666666666666667
 				}
 			]
 		},
