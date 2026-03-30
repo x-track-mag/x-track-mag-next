@@ -1,15 +1,19 @@
 {
 	"uid": "yacht-music",
 	"tags": [],
-	"publication_date": "2026-03-15T10:09:56+0000",
+	"publication_date": "2026-03-30T08:32:44+0000",
 	"title": "Yacht Music",
-	"subtitle": "The Power Of Gentle Joy - Cover : Prince and the Revolution",
+	"subtitle": "The Power Of Gentle Joy - Cover : Sade",
 	"text_color": "inverted",
-	"image": null,
-	"video_loop": {
-		"name": "Prince and the Revolution - Kiss (Official Music Video).mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/abaCR7bci2UF6BT6_PrinceandtheRevolution-Kiss-OfficialMusicVideo-.mp4"
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/acozVZGXnQHGZFW8_Sade.jpeg?auto=format,compress",
+		"alt": "Sade",
+		"copyright": null,
+		"width": 1600,
+		"height": 1484,
+		"ratio": 1.0781671159029649
 	},
+	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
 	"internal_link": null,
@@ -19,7 +23,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Prince and the Revolution + Sade + Sly  & the Family Stones + Daryl hall & John Oates + Grace Jones + Georges McCrae + 2Pac x Yaki Kadafi x Snoop Dogg x Nate Dogg x Fatal + Michael Jackson + Kool & The Gang + Curtis Mayfield + Lenny Kravitz + Brother to Brother + Marvin Gaye + The Brand New Heavies + Massive Attack x Tony Brian + Sinead O Connor + Urban s pecies x MC Solaar& +++ enjoy",
+					"text": "Queen + P.M. Dawn + Sade + Fleetwood Mac + Steely Dan + Boz Scags + Paul Simon + Santana + Lenny Kravitz + Jimi Hendrix + David Bowie + Chris Isaak + John Lee Hooker x Carlos Santana + The Neville Brothers + Michael Jackson + Daryl Hall & John Oates + Dire Straits + Angus & Julia Stones & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -29,28 +33,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aNtkX55xUNkB1QAL_Sade.jpg?auto=format,compress&rect=0,0,1500,1500&w=1024&h=1024",
+					"url": "https://images.prismic.io/x-track-mag/aco0zZGXnQHGZFXn_Jimi-Hendrix.jpg?auto=format,compress&rect=0,0,1280,960&w=1024&h=768",
+					"alt": "Jimi Hendrix",
+					"copyright": null,
+					"width": 1024,
+					"height": 768,
+					"ratio": 1.3333333333333333
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/acozVZGXnQHGZFW8_Sade.jpeg?auto=format,compress&rect=0,0,1600,1484&w=1024&h=950",
 					"alt": "Sade",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 950,
+					"ratio": 1.0778947368421052
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/abaD4rbci2UF6BT__Sly%26TheFamilyStones.jpg?auto=format,compress&rect=0,0,500,500&w=1024&h=1024",
-					"alt": "Sly & The Family Stones",
+					"url": "https://images.prismic.io/x-track-mag/aNEA_J5xUNkB08Nt_Queen.jpg?auto=format,compress&rect=0,0,999,806&w=1024&h=826",
+					"alt": "Queen",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/Zf6g1McYqOFdyC1a_GraceJones.jpg?auto=format,compress&rect=0,1,2558,1434&w=1024&h=574",
-					"alt": "Grace Jones",
-					"copyright": null,
-					"width": 1024,
-					"height": 574,
-					"ratio": 1.78397212543554
+					"height": 826,
+					"ratio": 1.2397094430992737
 				}
 			]
 		},
@@ -66,12 +70,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/abaE57bci2UF6BVU_SineadoConnor.jpeg?auto=format,compress&rect=0,0,736,791&w=1024&h=1101",
-					"alt": "Sinead o Connor",
+					"url": "https://images.prismic.io/x-track-mag/Zh8E1kaI3ufuUPXR_Angus%26JuliaStone.jpg?auto=format,compress&rect=0,0,2048,1672&w=1024&h=836",
+					"alt": "Angus & Julia Stone",
 					"copyright": null,
 					"width": 1024,
-					"height": 1101,
-					"ratio": 0.9300635785649409
+					"height": 836,
+					"ratio": 1.2248803827751196
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/Zf6g08cYqOFdyC1Z_Lenny-Kravitz.jpg?auto=format,compress&rect=0,0,2375,3600&w=1024&h=1552",
