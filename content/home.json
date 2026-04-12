@@ -10,6 +10,25 @@
 	"image": "",
 	"sections": [
 		{
+			"uid": "bestof",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-04-12T09:17:50+0000",
+			"title": "Best of - Cover : Doechii ",
+			"subtitle": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Doechii - Anxiety.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/adoQMJ1ZCF7ETG8p_Doechii-Anxiety.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop"
+		},
+		{
 			"uid": "yacht-music",
 			"tags": [],
 			"publication_date": "2026-04-12T09:17:30+0000",
@@ -48,25 +67,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Playlist R&B Reggae Hip Hop Pop Afropop"
-		},
-		{
-			"uid": "bestof",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2026-04-12T09:10:13+0000",
-			"title": "Best of - Cover : Doechii",
-			"subtitle": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop ",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Doechii - Anxiety.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/adoQMJ1ZCF7ETG8p_Doechii-Anxiety.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop"
 		},
 		{
 			"uid": "hiphoprnb",
