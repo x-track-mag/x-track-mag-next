@@ -5,66 +5,64 @@
 	"scrolling_news": [
 		"+++ ARMANII X SORTIE + NIGY BOY + DOECHII + THUNDERCAT X MAC MILLER + TOM MISCH + ARLO PARKS + JORDAN WARD + DISCLOSURE + JULS X KOJO BLACK X MINZ + JADA KINGDOM + NESTA + VALIANT + LITTLE SIMZ X OBONGJAYAR + LILA IKE X MASICKA + BAKAR & +++ ENJOY"
 	],
-	"pinned_posts": [
-		{
-			"position": 1,
-			"uid": "bestof"
-		},
-		{
-			"position": 2,
-			"uid": "yacht-music"
-		},
-		{
-			"position": 3,
-			"uid": "best-of-chill"
-		},
-		{
-			"position": 4
-		},
-		{
-			"position": 5,
-			"uid": "hiphoprnb"
-		},
-		{
-			"position": 6
-		},
-		{
-			"position": 7,
-			"uid": "feel-good"
-		},
-		{
-			"position": 8
-		},
-		{
-			"position": 9,
-			"uid": "tropical"
-		},
-		{
-			"position": 10
-		},
-		{
-			"position": 11
-		},
-		{
-			"position": 12
-		},
-		{
-			"position": 13
-		}
-	],
-	"selected_reads": [
-		{
-			"uid": "feel-good",
-			"title": "Feel Good",
-			"image": null,
-			"video_loop": {
-				"name": "ENNY - No More Naija Men.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aMlKG2GNHVfTPRdD_ENNY-NoMoreNaijaMen.mp4"
-			}
-		}
-	],
+	"pinned_posts": [],
+	"selected_reads": [],
 	"image": "",
 	"sections": [
+		{
+			"uid": "2026-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2026-04-12T08:55:15+0000",
+			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": null,
+			"description": "2026 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
+		},
+		{
+			"uid": "hiphoprnb",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-04-12T08:48:37+0000",
+			"title": "Hip Hop RnB",
+			"subtitle": "Good Old School- Cover Outkast",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Outkast  .jpg",
+				"url": "https://images.prismic.io/x-track-mag/aNe1J55xUNkB1LDu_Outkast.jpg?auto=format,compress?auto=compress,format"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Nice & Happy"
+		},
+		{
+			"uid": "best-of-chill",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-04-11T09:29:09+0000",
+			"title": "Best of Chill 2025",
+			"subtitle": "Happy Chill Vibes - Cover : Jenevieve x Jordan Ward",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Jenevieve - Waiting Room (feat. Jordan Ward) [Official Visualizer]_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ace0RZGXnQHGZEIR_Jenevieve-WaitingRoom-feat.JordanWard-%5BOfficialVisualizer%5D_1.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Happy Chill Vibes"
+		},
 		{
 			"uid": "bestof",
 			"tags": [
@@ -106,58 +104,23 @@
 			"description": "Kind of Yacht Music"
 		},
 		{
-			"uid": "best-of-chill",
+			"uid": "feel-good",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2026-04-11T09:29:09+0000",
-			"title": "Best of Chill 2025",
-			"subtitle": "Happy Chill Vibes - Cover : Jenevieve x Jordan Ward",
-			"text_color": "inverted",
+			"publication_date": "2026-01-23T10:02:09+0000",
+			"title": "Feel Good",
+			"subtitle": "R&B Reggae Hip Hop Pop Afropop - Cover : Enny ",
+			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "Jenevieve - Waiting Room (feat. Jordan Ward) [Official Visualizer]_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ace0RZGXnQHGZEIR_Jenevieve-WaitingRoom-feat.JordanWard-%5BOfficialVisualizer%5D_1.mp4"
+				"name": "ENNY - No More Naija Men.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aMlKG2GNHVfTPRdD_ENNY-NoMoreNaijaMen.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Happy Chill Vibes"
-		},
-		{
-			"uid": "2026-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2026-04-12T08:55:15+0000",
-			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": null,
-			"description": "2026 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
-		},
-		{
-			"uid": "hiphoprnb",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2026-04-12T08:48:37+0000",
-			"title": "Hip Hop RnB",
-			"subtitle": "Good Old School- Cover Outkast",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Outkast  .jpg",
-				"url": "https://images.prismic.io/x-track-mag/aNe1J55xUNkB1LDu_Outkast.jpg?auto=format,compress?auto=compress,format"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Nice & Happy"
+			"description": "Playlist R&B Reggae Hip Hop Pop Afropop"
 		},
 		{
 			"uid": "old-school-reggae",
@@ -183,23 +146,23 @@
 			"description": "Old School Reggae"
 		},
 		{
-			"uid": "feel-good",
+			"uid": "tropical",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2026-01-23T10:02:09+0000",
-			"title": "Feel Good",
-			"subtitle": "R&B Reggae Hip Hop Pop Afropop - Cover : Enny ",
+			"publication_date": "2025-09-10T08:39:14+0000",
+			"title": "Tropical",
+			"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
 			"text_color": "green",
 			"image": null,
 			"video_loop": {
-				"name": "ENNY - No More Naija Men.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aMlKG2GNHVfTPRdD_ENNY-NoMoreNaijaMen.mp4"
+				"name": "Yaya Bey - merlot and grigio (feat. Father Philis) [Official Video].mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aFgTiXfc4bHWimFo_YayaBey-merlotandgrigio-feat.FatherPhilis-%5BOfficialVideo%5D.mp4"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Playlist R&B Reggae Hip Hop Pop Afropop"
+			"description": "Tropical"
 		},
 		{
 			"uid": "in-love",
@@ -219,25 +182,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Our favorite Love & Cool Songs"
-		},
-		{
-			"uid": "tropical",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2025-09-10T08:39:14+0000",
-			"title": "Tropical",
-			"subtitle": "Sweet & Happy - Cover : Yaya Bey x Father Philis",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Yaya Bey - merlot and grigio (feat. Father Philis) [Official Video].mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aFgTiXfc4bHWimFo_YayaBey-merlotandgrigio-feat.FatherPhilis-%5BOfficialVideo%5D.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Tropical"
 		}
 	]
 }
