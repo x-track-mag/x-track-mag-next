@@ -33,6 +33,27 @@
 	"image": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "yacht-music",
+			"tags": [],
+			"publication_date": "2026-04-12T09:59:01+0000",
+			"title": "Yacht Music ",
+			"subtitle": "The Power Of Gentle Joy - Cover : Sade ",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/acozVZGXnQHGZFW8_Sade.jpeg?auto=format,compress",
+				"alt": "Sade",
+				"copyright": null,
+				"width": 1600,
+				"height": 1484,
+				"ratio": 1.0781671159029649
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Kind of Yacht Music"
+		},
+		{
 			"uid": "best-of-chill",
 			"tags": [
 				"music"
@@ -92,27 +113,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop"
-		},
-		{
-			"uid": "yacht-music",
-			"tags": [],
-			"publication_date": "2026-04-12T09:39:56+0000",
-			"title": "Yacht Music ",
-			"subtitle": "The Power Of Gentle Joy - Cover : Sade",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/acozVZGXnQHGZFW8_Sade.jpeg?auto=format,compress",
-				"alt": "Sade",
-				"copyright": null,
-				"width": 1600,
-				"height": 1484,
-				"ratio": 1.0781671159029649
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Kind of Yacht Music"
 		},
 		{
 			"uid": "yacht-music2",
