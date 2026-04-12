@@ -11,10 +11,7 @@
 	"video_loop": null,
 	"template": "6: Titre + sous-titre sur fond blanc",
 	"author": null,
-	"internal_link": {
-		"uid": "about-us",
-		"type": "page"
-	},
+	"internal_link": null,
 	"sections": [],
 	"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
 }
