@@ -10,6 +10,25 @@
 	"image": "",
 	"sections": [
 		{
+			"uid": "feel-good",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-04-12T09:16:48+0000",
+			"title": "Feel Good",
+			"subtitle": "R&B Reggae Hip Hop Pop Afropop - Cover : Enny ",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "ENNY - No More Naija Men.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aMlKG2GNHVfTPRdD_ENNY-NoMoreNaijaMen.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Playlist R&B Reggae Hip Hop Pop Afropop"
+		},
+		{
 			"uid": "bestof",
 			"tags": [
 				"music"
@@ -106,25 +125,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Kind of Yacht Music"
-		},
-		{
-			"uid": "feel-good",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2026-01-23T10:02:09+0000",
-			"title": "Feel Good",
-			"subtitle": "R&B Reggae Hip Hop Pop Afropop - Cover : Enny ",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "ENNY - No More Naija Men.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aMlKG2GNHVfTPRdD_ENNY-NoMoreNaijaMen.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Playlist R&B Reggae Hip Hop Pop Afropop"
 		},
 		{
 			"uid": "old-school-reggae",
