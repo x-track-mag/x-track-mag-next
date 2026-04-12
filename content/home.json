@@ -203,14 +203,14 @@
 			"tags": [
 				"music"
 			],
-			"publication_date": "2025-09-30T10:20:28+0000",
-			"title": "Hip Hop / Soul",
+			"publication_date": "2026-04-12T08:37:22+0000",
+			"title": "Hip Hop RnB",
 			"subtitle": "Happy Crossover - Outkast on Cover",
 			"text_color": "inverted",
 			"image": null,
 			"video_loop": {
-				"name": "Outkast - Draculas Wedding (Official Lyric Video) ft. Kelis (1).mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aNe1K55xUNkB1LDv_Outkast-DraculasWedding-OfficialLyricVideo-ft.Kelis-1-.mp4"
+				"name": "Outkast  .jpg",
+				"url": "https://images.prismic.io/x-track-mag/aNe1J55xUNkB1LDu_Outkast.jpg?auto=format,compress?auto=compress,format"
 			},
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
