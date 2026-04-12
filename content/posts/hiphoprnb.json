@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-04-12T08:48:37+0000",
+	"publication_date": "2026-04-12T09:06:43+0000",
 	"title": "Hip Hop RnB",
 	"subtitle": "Good Old School- Cover Outkast",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
-		"name": "Outkast  .jpg",
-		"url": "https://images.prismic.io/x-track-mag/aNe1J55xUNkB1LDu_Outkast.jpg?auto=format,compress?auto=compress,format"
+		"name": "Outkast.jpg",
+		"url": "https://images.prismic.io/x-track-mag/f4b5ccb4-2a45-4158-8c4a-f3e20d7c0240_Outkast.jpg?auto=format,compress?auto=compress,format"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
