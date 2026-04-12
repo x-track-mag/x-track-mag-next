@@ -1,0 +1,111 @@
+{
+	"uid": "yacht-music2",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2026-04-12T09:30:28+0000",
+	"title": "Yacht Music 2",
+	"subtitle": "Happy Old School  - Cover : Soul II Soul",
+	"text_color": "green",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/aVFw7HNYClf9oqey_soul-ii-soul-club-classics-vol-one.jpeg?auto=format,compress",
+		"alt": "Soul II Soul",
+		"copyright": null,
+		"width": 1280,
+		"height": 1280,
+		"ratio": 1
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Thundercat + Soul II Soul x Caron Wheeler + DNA x Suzan Vega + St Germain + Crayon x Partyfine x KLP x Darius +  Michael Kiwanuka x Tom Misch + Parcels + Prince + Frank Ocean + Sault + 2Pac x Yaki Kadafi x Snoop Dog x Nate Dog x Fatal + Disclosure x Al Green + Toro Y Moi + Massive Attack x Shara Nelson + Sade & +++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/089dbab1-3980-4d57-a760-2d7b4c5358dc_Thundercat.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Thundercat",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZtbPQbzzk9ZrW5zY_suzannevega.jpg?auto=format,compress&rect=0,0,1000,850&w=1024&h=870",
+					"alt": "Suzanne Vega",
+					"copyright": null,
+					"width": 1024,
+					"height": 870,
+					"ratio": 1.1770114942528735
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aVF5q3NYClf9oqfT_StGermain.jpg?auto=format,compress&rect=0,0,923,615&w=1024&h=682",
+					"alt": "St Germain",
+					"copyright": null,
+					"width": 1024,
+					"height": 682,
+					"ratio": 1.501466275659824
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/04b69712-6add-414e-a592-02bfbfea9f5a_Cleo+Sol+.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Cleo Sol / Sault",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZjJ8M0MTzAJOCeON_MichaelKiwanuka.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
+					"alt": "Michael Kiwanuka",
+					"copyright": null,
+					"width": 1024,
+					"height": 1262,
+					"ratio": 0.8114104595879557
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aNtkX55xUNkB1QAL_Sade.jpg?auto=format,compress&rect=0,0,1500,1500&w=1024&h=1024",
+					"alt": "Sade",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMC1CzGVtkqvVDwuS6EABM_A",
+					"title": "Tropical"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/4vcp9k3nl0gFzXOjhimDJq?si=b8a37617b6d144ed",
+					"title": "Tropical"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4930107344",
+					"title": "Tropical"
+				}
+			]
+		}
+	],
+	"description": "Yacht Music"
+}
