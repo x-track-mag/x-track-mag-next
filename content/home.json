@@ -10,6 +10,25 @@
 	"image": "",
 	"sections": [
 		{
+			"uid": "best-of-chill",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-04-12T09:04:46+0000",
+			"title": "Best of Chill 2026",
+			"subtitle": "Happy Chill Vibes - Cover : Jenevieve x Jordan Ward",
+			"text_color": "inverted",
+			"image": null,
+			"video_loop": {
+				"name": "Jenevieve - Waiting Room (feat. Jordan Ward) [Official Visualizer]_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ace0RZGXnQHGZEIR_Jenevieve-WaitingRoom-feat.JordanWard-%5BOfficialVisualizer%5D_1.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Happy Chill Vibes"
+		},
+		{
 			"uid": "music-brings-people-together",
 			"tags": [
 				"article"
@@ -43,25 +62,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Nice & Happy"
-		},
-		{
-			"uid": "best-of-chill",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2026-04-11T09:29:09+0000",
-			"title": "Best of Chill 2025",
-			"subtitle": "Happy Chill Vibes - Cover : Jenevieve x Jordan Ward",
-			"text_color": "inverted",
-			"image": null,
-			"video_loop": {
-				"name": "Jenevieve - Waiting Room (feat. Jordan Ward) [Official Visualizer]_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ace0RZGXnQHGZEIR_Jenevieve-WaitingRoom-feat.JordanWard-%5BOfficialVisualizer%5D_1.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Happy Chill Vibes"
 		},
 		{
 			"uid": "bestof",
