@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-04-12T10:01:00+0000",
+	"publication_date": "2026-04-12T10:05:14+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs - Video : Billie Eilish",
 	"text_color": "green",
@@ -33,7 +33,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Anaïs Cardot + 4batz + French Montana x Jeremih + Men I Trust + Hope Tala + Jvck James x Stormzy + Billie Eilish +  Galimatias + Ley soul + Rubii + Orion Sun + Wizkid + Michael Kiwanuka + Feu Chatterton + Amaria & +++ ",
+					"text": "Anaïs Cardot + James Blake + Men I Trust + Billie Eilish + Hannes x Waterbaby + Michael Kiwanuka + Arlo Parks + Sault + Feu! Chatterton + Polo & Pan x Arthur Teboul + Gabi Hartmann & +++ ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -51,12 +51,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/d6def85a-d793-46d5-9224-5d9338033a8c_4Batz.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "4Batz",
+					"url": "https://images.prismic.io/x-track-mag/1e92d44d-ec50-421b-810d-e769fac58231_James+Blake.jpg?auto=format,compress&rect=0,0,1333,1675&w=1024&h=1287",
+					"alt": "James Blake",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1287,
+					"ratio": 0.7956487956487956
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/7f975ad0-713c-4d91-976b-26483bf2bff0_Men+i+Trust.jpg?auto=format,compress&rect=0,0,770,1080&w=1024&h=1436",
@@ -72,28 +72,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZewupXUurf2G3OUU_Jeremih.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Jeremih",
+					"url": "https://images.prismic.io/x-track-mag/ZjJ8M0MTzAJOCeON_MichaelKiwanuka.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
+					"alt": "Michael Kiwanuka",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1262,
+					"ratio": 0.8114104595879557
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZpFNMR5LeNNTxHfL_OrionSun.jpg?auto=format,compress&rect=0,0,1070,1254&w=1024&h=1200",
-					"alt": "Orion Sun",
+					"url": "https://images.prismic.io/x-track-mag/5373e4a8-d5b8-4d16-a4bd-8beb32da0ef0_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=format,compress&rect=0,0,2048,1152&w=1024&h=576",
+					"alt": "Arlo Parks",
 					"copyright": null,
 					"width": 1024,
-					"height": 1200,
-					"ratio": 0.8533333333333334
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZewupHUurf2G3OUT_FrenchMontana.jpg?auto=format,compress&rect=0,0,750,750&w=1024&h=1024",
-					"alt": "French Montana",
+					"url": "https://images.prismic.io/x-track-mag/a107dda6-c166-4c8a-847c-996a278a89a4_Feu%21%21+Chatterton.jpg?auto=format,compress&rect=0,0,2048,1638&w=1024&h=819",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 819,
+					"ratio": 1.2503052503052503
 				}
 			]
 		},
