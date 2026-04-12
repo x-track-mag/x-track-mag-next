@@ -43,8 +43,7 @@
 			"position": 10
 		},
 		{
-			"position": 11,
-			"uid": "martin-parr"
+			"position": 11
 		},
 		{
 			"position": 12
@@ -55,19 +54,6 @@
 	],
 	"selected_reads": [
 		{
-			"uid": "martin-parr",
-			"title": "Martin Parr ",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": "Plage de Nice",
-				"copyright": "Martin Parr",
-				"width": 1280,
-				"height": 854,
-				"ratio": 1.4988290398126465
-			},
-			"video_loop": null
-		},
-		{
 			"uid": "feel-good",
 			"title": "Feel Good",
 			"image": null,
@@ -77,7 +63,7 @@
 			}
 		}
 	],
-	"image": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
+	"image": "",
 	"sections": [
 		{
 			"uid": "bestof",
@@ -219,6 +205,22 @@
 			"description": "Our favorite Love & Cool Songs"
 		},
 		{
+			"uid": "2025-is-the-year",
+			"tags": [
+				"article"
+			],
+			"publication_date": "2024-12-30T12:57:47+0000",
+			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
+			"subtitle": "",
+			"text_color": "white",
+			"image": null,
+			"video_loop": null,
+			"template": "6: Titre + sous-titre sur fond blanc",
+			"author": null,
+			"internal_link": null,
+			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
+		},
+		{
 			"uid": "tropical",
 			"tags": [
 				"music"
@@ -236,45 +238,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Tropical"
-		},
-		{
-			"uid": "2025-is-the-year",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2024-12-30T12:57:47+0000",
-			"title": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE ",
-			"subtitle": "",
-			"text_color": "white",
-			"image": null,
-			"video_loop": null,
-			"template": "6: Titre + sous-titre sur fond blanc",
-			"author": null,
-			"internal_link": null,
-			"description": "2025 IS THE YEAR. THE WORLD IS ABOUT TO CHANGE"
-		},
-		{
-			"uid": "martin-parr",
-			"tags": [
-				"article"
-			],
-			"publication_date": "2026-04-12T08:27:18+0000",
-			"title": "Martin Parr ",
-			"subtitle": "Un Monde à Parr ",
-			"text_color": "white",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0fb3d25d-c609-4882-a882-943845c12fdd_Martin-Parr-Plage-de-Nice-02.jpg?auto=compress,format",
-				"alt": "Plage de Nice",
-				"copyright": "Martin Parr",
-				"width": 1280,
-				"height": 854,
-				"ratio": 1.4988290398126465
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "Aphelandra Siassia",
-			"internal_link": null,
-			"description": "Un monde à Parr"
 		}
 	]
 }
