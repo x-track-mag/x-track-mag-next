@@ -33,6 +33,29 @@
 	"image": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "hiphoprnb",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-04-12T09:59:47+0000",
+			"title": "Hip Hop RnB",
+			"subtitle": "Good Old School- Cover Outkast ",
+			"text_color": "green",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/f4b5ccb4-2a45-4158-8c4a-f3e20d7c0240_Outkast.jpg?auto=format,compress",
+				"alt": "Outkast",
+				"copyright": null,
+				"width": 2016,
+				"height": 1350,
+				"ratio": 1.4933333333333334
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Nice & Happy"
+		},
+		{
 			"uid": "bestof",
 			"tags": [
 				"music"
@@ -90,29 +113,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Happy Chill Vibes"
-		},
-		{
-			"uid": "hiphoprnb",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2026-04-12T09:41:05+0000",
-			"title": "Hip Hop RnB",
-			"subtitle": "Good Old School- Cover Outkast",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/f4b5ccb4-2a45-4158-8c4a-f3e20d7c0240_Outkast.jpg?auto=format,compress",
-				"alt": "Outkast",
-				"copyright": null,
-				"width": 2016,
-				"height": 1350,
-				"ratio": 1.4933333333333334
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Nice & Happy"
 		},
 		{
 			"uid": "yacht-music2",
