@@ -33,6 +33,25 @@
 	"image": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "bestof",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-04-12T10:07:37+0000",
+			"title": "Best of - Video : Doechii",
+			"subtitle": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Doechii - Anxiety.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/adoQMJ1ZCF7ETG8p_Doechii-Anxiety.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop"
+		},
+		{
 			"uid": "yacht-music",
 			"tags": [],
 			"publication_date": "2026-04-12T10:07:18+0000",
@@ -178,25 +197,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Nice & Happy"
-		},
-		{
-			"uid": "bestof",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2026-04-12T09:59:16+0000",
-			"title": "Best of - Video : Doechii ",
-			"subtitle": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Doechii - Anxiety.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/adoQMJ1ZCF7ETG8p_Doechii-Anxiety.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop"
 		},
 		{
 			"uid": "music-brings-people-together",
