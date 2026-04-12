@@ -6,8 +6,31 @@
 		"+++ NEW SONGS EVERY DAY +++ ENJOY +++ ARMANII X SORTIE + NIGY BOY + DOECHII + THUNDERCAT X MAC MILLER + TOM MISCH + ARLO PARKS + JORDAN WARD + DISCLOSURE + JULS X KOJO BLACK X MINZ + JADA KINGDOM + NESTA + VALIANT + LITTLE SIMZ X OBONGJAYAR + LILA IKE X MASICKA + BAKAR & +++ ENJOY"
 	],
 	"pinned_posts": [],
-	"selected_reads": [],
-	"image": "",
+	"selected_reads": [
+		{
+			"uid": "old-school-reggae",
+			"title": "Reggae",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 777,
+				"ratio": 1.5444015444015444
+			},
+			"video_loop": null
+		},
+		{
+			"uid": "in-love",
+			"title": "In Love",
+			"image": null,
+			"video_loop": {
+				"name": "Billie Eilish.  .mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ZewtJHUurf2G3OUN_BillieEilish..mp4"
+			}
+		}
+	],
+	"image": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 	"sections": [
 		{
 			"uid": "hiphoprnb",
