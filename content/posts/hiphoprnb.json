@@ -1,0 +1,107 @@
+{
+	"uid": "hiphoprnb",
+	"tags": [
+		"music"
+	],
+	"publication_date": "2026-04-12T08:48:37+0000",
+	"title": "Hip Hop RnB",
+	"subtitle": "Good Old School- Cover Outkast",
+	"text_color": "inverted",
+	"image": null,
+	"video_loop": {
+		"name": "Outkast  .jpg",
+		"url": "https://images.prismic.io/x-track-mag/aNe1J55xUNkB1LDu_Outkast.jpg?auto=format,compress?auto=compress,format"
+	},
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "D'Angelo + Busta Rhymes x Erykah Badu x Mariah Carey x Flipmode Squad + Lenny Kravitz x jay Z + Outkast + Slum Village + Janet Jackson x QTip x Joni Mitchel +  Kanye West x Paul Wall x GLC + Dr Dre x Snoop Dog + Blackstreet x Dr Dre x Queen Pen + Ms Lauryn Hill + Guru x Paul Ferguson x Baby + Mos Def + Lucy Pearl + 2Pac + Dr Dre + Roger + Method Man x Mary J Blige + N.E.R.D. + Pharrell Williams x Kanye West & ++++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/8297802a-5ca6-4800-a95c-8d810360abfd_Erykah+Badu.jpg?auto=format,compress&rect=0,0,1133,715&w=1024&h=646",
+					"alt": "Erykah Badu",
+					"copyright": null,
+					"width": 1024,
+					"height": 646,
+					"ratio": 1.585139318885449
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/adtagp1ZCF7ETHYy_D%27Angelo.jpg?auto=format,compress&rect=0,1,2709,1127&w=1024&h=426",
+					"alt": "D'Angelo",
+					"copyright": null,
+					"width": 1024,
+					"height": 426,
+					"ratio": 2.403755868544601
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/672c22ee-c789-43cf-bee0-d599664ace95_Lauryn+Hill.jpg?auto=format,compress&rect=0,0,1499,1000&w=1024&h=683",
+					"alt": "Lauryn Hill",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/adtbz51ZCF7ETHY0_LennyKravitz.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Lenny Kravitz",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/Zt2RShoQrfVKl0bH_JanetJackson.jpg?auto=format,compress&rect=0,0,1024,1004&w=1024&h=1004",
+					"alt": "Janet Jackson",
+					"copyright": null,
+					"width": 1024,
+					"height": 1004,
+					"ratio": 1.0199203187250996
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/adtbX51ZCF7ETHYz_BustaRhymes.jpeg?auto=format,compress&rect=0,0,964,1200&w=1024&h=1275",
+					"alt": "Busta Rhymes",
+					"copyright": null,
+					"width": 1024,
+					"height": 1275,
+					"ratio": 0.8031372549019608
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMC1CzGVtkqvVDwuS6EABM_A",
+					"title": "Hip Hop RnB"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/18sF2iGVaxde2EZLDzXgx2?si=420b41bd69074f92",
+					"title": "Hip Hop RnB"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/4930107344",
+					"title": "Hip Hop RnB"
+				}
+			]
+		}
+	],
+	"description": "Nice & Happy"
+}

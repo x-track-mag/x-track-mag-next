@@ -24,7 +24,7 @@
 		},
 		{
 			"position": 5,
-			"uid": "hiphopsoul"
+			"uid": "hiphoprnb"
 		},
 		{
 			"position": 6,
@@ -199,11 +199,11 @@
 			"description": "L’Avenir de la Mode est-il virtuel ?"
 		},
 		{
-			"uid": "hiphopsoul",
+			"uid": "hiphoprnb",
 			"tags": [
 				"music"
 			],
-			"publication_date": "2026-04-12T08:46:56+0000",
+			"publication_date": "2026-04-12T08:48:37+0000",
 			"title": "Hip Hop RnB",
 			"subtitle": "Good Old School- Cover Outkast",
 			"text_color": "inverted",
