@@ -33,6 +33,29 @@
 	"image": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "old-school-reggae",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-04-12T10:00:37+0000",
+			"title": "Reggae",
+			"subtitle": "Old School Reggae",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
+				"alt": null,
+				"copyright": null,
+				"width": 1200,
+				"height": 777,
+				"ratio": 1.5444015444015444
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Old School Reggae"
+		},
+		{
 			"uid": "feel-good",
 			"tags": [
 				"music"
@@ -171,29 +194,6 @@
 			"author": null,
 			"internal_link": null,
 			"description": "Music Brings People Together"
-		},
-		{
-			"uid": "old-school-reggae",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2025-09-10T08:57:56+0000",
-			"title": "Reggae",
-			"subtitle": "Old School Reggae ",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
-				"alt": null,
-				"copyright": null,
-				"width": 1200,
-				"height": 777,
-				"ratio": 1.5444015444015444
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Old School Reggae"
 		},
 		{
 			"uid": "in-love",
