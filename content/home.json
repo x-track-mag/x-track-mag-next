@@ -33,6 +33,25 @@
 	"image": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "best-of-chill",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-04-12T10:07:03+0000",
+			"title": "Best of Chill ",
+			"subtitle": "Happy Chill Vibes - Video : Jenevieve x Jordan Ward",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Jenevieve - Waiting Room (feat. Jordan Ward) [Official Visualizer]_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ace0RZGXnQHGZEIR_Jenevieve-WaitingRoom-feat.JordanWard-%5BOfficialVisualizer%5D_1.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Happy Chill Vibes"
+		},
+		{
 			"uid": "yacht-music2",
 			"tags": [
 				"music"
@@ -178,25 +197,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Kind of Yacht Music"
-		},
-		{
-			"uid": "best-of-chill",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2026-04-12T09:58:02+0000",
-			"title": "Best of Chill",
-			"subtitle": "Happy Chill Vibes - Video : Jenevieve x Jordan Ward",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Jenevieve - Waiting Room (feat. Jordan Ward) [Official Visualizer]_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ace0RZGXnQHGZEIR_Jenevieve-WaitingRoom-feat.JordanWard-%5BOfficialVisualizer%5D_1.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Happy Chill Vibes"
 		},
 		{
 			"uid": "music-brings-people-together",
