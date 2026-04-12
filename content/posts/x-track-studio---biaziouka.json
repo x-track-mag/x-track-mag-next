@@ -4,9 +4,9 @@
 		"music",
 		"live session"
 	],
-	"publication_date": "2025-09-07T11:46:00+0000",
-	"title": "BIAZIOUKA",
-	"subtitle": "Live Session ",
+	"publication_date": "2026-04-12T08:26:52+0000",
+	"title": "BIAZIOUKA ",
+	"subtitle": "Live Session  ",
 	"text_color": "inverted",
 	"image": null,
 	"video_loop": {
@@ -63,8 +63,6 @@
 				}
 			],
 			"link": {
-				"height": 113,
-				"width": 200,
 				"embed_url": "https://www.youtube.com/watch?v=EzFsb9sqwzk",
 				"type": "video",
 				"version": "1.0",
@@ -77,7 +75,9 @@
 				"thumbnail_url": "https://i.ytimg.com/vi/EzFsb9sqwzk/hqdefault.jpg",
 				"thumbnail_width": 480,
 				"thumbnail_height": 360,
-				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/EzFsb9sqwzk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/EzFsb9sqwzk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+				"height": 113,
+				"width": 200
 			},
 			"ratio": "16/9",
 			"image": {
