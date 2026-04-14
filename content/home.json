@@ -35,10 +35,10 @@
 		{
 			"uid": "classiques-francais",
 			"tags": [],
-			"publication_date": "2026-04-14T09:26:26+0000",
+			"publication_date": "2026-04-14T09:27:05+0000",
 			"title": "Classiques Français",
 			"subtitle": "40s 50s 60s 70s 80s - Photo Serge Gainsbourg Jane Birkin",
-			"text_color": "inverted",
+			"text_color": "green",
 			"image": {
 				"url": "https://images.prismic.io/x-track-mag/ad4AmJ1ZCF7ETKb9_GainsbourgBirkin.jpg?auto=format,compress",
 				"alt": "Serge Gainsbourg Jane Birkin ",
