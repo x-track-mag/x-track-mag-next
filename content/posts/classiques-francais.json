@@ -1,0 +1,123 @@
+{
+	"uid": "classiques-francais",
+	"tags": [],
+	"publication_date": "2026-04-14T09:18:26+0000",
+	"title": "Classiques Français",
+	"subtitle": "40s 50s 60s 70s 80s",
+	"text_color": "inverted",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/ad4AkJ1ZCF7ETKbz_GainsbourgBirkin.jpg?auto=format,compress",
+		"alt": "Jane Birkin Serge Gainsbourg",
+		"copyright": null,
+		"width": 2829,
+		"height": 1840,
+		"ratio": 1.5375
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Josephine Baker + Georges Brassens + Marie Laforêt + Boris Vian +  Yves Montand + Charles Trenet + Jeanne Moreau + Jacques Dutronc + Pierre Vassiliu + Serge Gainsbourg x Jane Birkin + Charles Aznavour + Michel Polnareff + Léo Ferré + Brigitte Bardot + Edith Piaf + Alain Chamfort + Claude Nougaro + Anna Karina + Françoise Hardy + Alain Bashung + Patrick Coutin + Nino Ferrer + Rita Mitsouko + MC Solaar + Princess Erika + Etienne Daho + Caroline Loeb & +++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/ad4A3J1ZCF7ETKcH_JosephineBaker.jpg?auto=format,compress&rect=0,1,2390,1809&w=1024&h=775",
+					"alt": "Josephine Baker",
+					"copyright": null,
+					"width": 1024,
+					"height": 775,
+					"ratio": 1.3212903225806452
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ad4AlZ1ZCF7ETKb6_Borisvian.jpeg?auto=format,compress&rect=0,0,1199,630&w=1024&h=538",
+					"alt": "Boris vian",
+					"copyright": null,
+					"width": 1024,
+					"height": 538,
+					"ratio": 1.903345724907063
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ad4Alp1ZCF7ETKb7_Marielafore%CC%82t.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Marie laforêt",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/ad4FpJ1ZCF7ETKgp_EtienneDaho.jpg?auto=format,compress&rect=0,0,550,671&w=1024&h=1249",
+					"alt": "Etienne Daho",
+					"copyright": null,
+					"width": 1024,
+					"height": 1249,
+					"ratio": 0.8198558847077662
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ad4C751ZCF7ETKdW_BrigitteBardot.jpeg?auto=format,compress&rect=0,0,1774,2400&w=1024&h=1385",
+					"alt": null,
+					"copyright": null,
+					"width": 1024,
+					"height": 1385,
+					"ratio": 0.7393501805054151
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ad4Fpp1ZCF7ETKgr_RitaMitsouko..jpg?auto=format,compress&rect=0,0,1750,1750&w=1024&h=1024",
+					"alt": "Rita Mitsouko",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMCLRf5xPIIV4xWyihCwfHrm",
+					"title": "Classiques Français"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/0DyNqzygeziay3PCUXG4Al?si=15d8abfa60d54d35",
+					"title": "Classiques Français"
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.deezer.com/fr/playlist/4930100744",
+					"title": "Classiques Français"
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMAkv8VcW8ZKoxlQmeM1aDd7",
+					"title": "Old School Hip Hop"
+				}
+			]
+		}
+	],
+	"description": "Classiques Français"
+}
