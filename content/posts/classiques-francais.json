@@ -1,17 +1,17 @@
 {
 	"uid": "classiques-francais",
 	"tags": [],
-	"publication_date": "2026-04-14T09:18:34+0000",
+	"publication_date": "2026-04-14T09:20:27+0000",
 	"title": "Classiques Français",
 	"subtitle": "40s 50s 60s 70s 80s",
 	"text_color": "inverted",
 	"image": {
-		"url": "https://images.prismic.io/x-track-mag/ad4AkJ1ZCF7ETKbz_GainsbourgBirkin.jpg?auto=format,compress",
-		"alt": "Jane Birkin Serge Gainsbourg",
+		"url": "https://images.prismic.io/x-track-mag/ad4AmJ1ZCF7ETKb9_GainsbourgBirkin.jpg?auto=format,compress",
+		"alt": "Serge Gainsbourg Jane Birkin ",
 		"copyright": null,
-		"width": 2829,
-		"height": 1840,
-		"ratio": 1.5375
+		"width": 1282,
+		"height": 2000,
+		"ratio": 0.641
 	},
 	"video_loop": null,
 	"template": "1: Image + Titre + sous-titre + infos",
