@@ -1,7 +1,7 @@
 {
 	"uid": "classiques-francais",
 	"tags": [],
-	"publication_date": "2026-04-14T09:22:18+0000",
+	"publication_date": "2026-04-14T09:23:42+0000",
 	"title": "Classiques Français",
 	"subtitle": "40s 50s 60s 70s 80s - Cover Serge Gainsbourg Jane Birkin ",
 	"text_color": "inverted",
@@ -41,12 +41,12 @@
 					"ratio": 1.3212903225806452
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ad4AlZ1ZCF7ETKb6_Borisvian.jpeg?auto=format,compress&rect=0,0,1199,630&w=1024&h=538",
-					"alt": "Boris vian",
+					"url": "https://images.prismic.io/x-track-mag/ad4Ak51ZCF7ETKb3_GeorgesBrassens.jpg?auto=format,compress&rect=0,0,700,521&w=1024&h=762",
+					"alt": "Georges Brassens",
 					"copyright": null,
 					"width": 1024,
-					"height": 538,
-					"ratio": 1.903345724907063
+					"height": 762,
+					"ratio": 1.3438320209973753
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ad4C751ZCF7ETKdW_BrigitteBardot.jpeg?auto=format,compress&rect=0,0,1774,2400&w=1024&h=1385",
@@ -62,12 +62,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ad4FpJ1ZCF7ETKgp_EtienneDaho.jpg?auto=format,compress&rect=0,0,550,671&w=1024&h=1249",
-					"alt": "Etienne Daho",
+					"url": "https://images.prismic.io/x-track-mag/ad4AkZ1ZCF7ETKb0_JacquesDutronc.jpg?auto=format,compress&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1249,
-					"ratio": 0.8198558847077662
+					"height": 1024,
+					"ratio": 1
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/ad4Fpp1ZCF7ETKgr_RitaMitsouko..jpg?auto=format,compress&rect=0,0,1750,1750&w=1024&h=1024",
@@ -78,12 +78,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ad4AkZ1ZCF7ETKb0_JacquesDutronc.jpg?auto=format,compress&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": null,
+					"url": "https://images.prismic.io/x-track-mag/ad4FpJ1ZCF7ETKgp_EtienneDaho.jpg?auto=format,compress&rect=0,0,550,671&w=1024&h=1249",
+					"alt": "Etienne Daho",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1249,
+					"ratio": 0.8198558847077662
 				}
 			]
 		},
