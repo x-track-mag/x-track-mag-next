@@ -1,7 +1,7 @@
 {
 	"uid": "classiques-francais",
 	"tags": [],
-	"publication_date": "2026-04-14T09:20:27+0000",
+	"publication_date": "2026-04-14T09:21:10+0000",
 	"title": "Classiques Français",
 	"subtitle": "40s 50s 60s 70s 80s",
 	"text_color": "inverted",
@@ -49,12 +49,12 @@
 					"ratio": 1.903345724907063
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ad4Alp1ZCF7ETKb7_Marielafore%CC%82t.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Marie laforêt",
+					"url": "https://images.prismic.io/x-track-mag/ad4C751ZCF7ETKdW_BrigitteBardot.jpeg?auto=format,compress&rect=0,0,1774,2400&w=1024&h=1385",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1385,
+					"ratio": 0.7393501805054151
 				}
 			]
 		},
@@ -70,16 +70,16 @@
 					"ratio": 0.8198558847077662
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/ad4C751ZCF7ETKdW_BrigitteBardot.jpeg?auto=format,compress&rect=0,0,1774,2400&w=1024&h=1385",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 1385,
-					"ratio": 0.7393501805054151
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/ad4Fpp1ZCF7ETKgr_RitaMitsouko..jpg?auto=format,compress&rect=0,0,1750,1750&w=1024&h=1024",
 					"alt": "Rita Mitsouko",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ad4AkZ1ZCF7ETKb0_JacquesDutronc.jpg?auto=format,compress&rect=0,0,1200,1200&w=1024&h=1024",
+					"alt": null,
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
