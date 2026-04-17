@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-04-12T10:07:03+0000",
+	"publication_date": "2026-04-17T23:21:06+0000",
 	"title": "Best of Chill ",
-	"subtitle": "Happy Chill Vibes - Video : Jenevieve x Jordan Ward",
+	"subtitle": "Happy Chill Vibes - Video : Momo Boyd",
 	"text_color": "green",
 	"image": null,
 	"video_loop": {
-		"name": "Jenevieve - Waiting Room (feat. Jordan Ward) [Official Visualizer]_1.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/ace0RZGXnQHGZEIR_Jenevieve-WaitingRoom-feat.JordanWard-%5BOfficialVisualizer%5D_1.mp4"
+		"name": "Momo Boyd Oops.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aeK-mp1ZCF7ETU17_MomoBoydOops.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Jenevieve x Jordan Ward + Doechii x SZA + Baby Keen x Kendrick Lamar x Momo Boyd + Crayon x Rhye + Obongjayar + Juls x Anaïs Cardot x Kadiata + Little Simz x Lydia Kitto + Mahalia x Lila Iké + Michael Kiwanuka + Waterbaby & +++ enjoy",
+					"text": "Protoje x Jesse Royal + Baby Keen x Kendrick Lamar x Momo Boyd + Doechii x SZA + Jenevieve x Freddie Gibbs x Salimata +  Momo Boyd x Infinity Song + Crayon x Rhye + Obongjayar + Juls x Anaïs Cardot x Kadiata + Little Simz x Lydia Kitto + Tom Misch + Mahalia x Lila Iké + Michael Kiwanuka + Waterbaby + Jordan Ward & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -39,12 +39,12 @@
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/acj3rJGXnQHGZEtq_Crayon.jpeg?auto=format,compress&rect=0,0,1024,1024&w=1024&h=1024",
-					"alt": "Crayon  x Rhye",
+					"url": "https://images.prismic.io/x-track-mag/30726c5d-6ca9-4148-bab1-f822044ee879_Protoje.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Protoje",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/aa1ErlxvIZEnjcoO_MomoBoydxBabyKeem.jpg?auto=format,compress&rect=0,0,1080,1439&w=1024&h=1364",
@@ -68,8 +68,8 @@
 					"ratio": 0.7501831501831502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e4349fa5-2bb2-4f4f-8e7e-e0b8edf7f8cb_Little+Simz.jpg?auto=format,compress&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Little Simz",
+					"url": "https://images.prismic.io/x-track-mag/aeLAVp1ZCF7ETU2C_Jenevieve.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
+					"alt": "Jenevieve",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
