@@ -1,7 +1,7 @@
 {
 	"uid": "60s-x-70s",
 	"tags": [],
-	"publication_date": "2026-04-18T09:35:51+0000",
+	"publication_date": "2026-04-18T09:37:05+0000",
 	"title": "60's x 70's",
 	"subtitle": "Vintage Pop Rock - Cover Jimi Hendrix",
 	"text_color": "inverted",
@@ -33,28 +33,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/9e54a93d-e9e1-441f-8a17-925167bffeb7_Mos+Def.jpg?auto=compress,format&rect=0,0,820,430&w=1024&h=537",
-					"alt": "Mos Def",
+					"url": "https://images.prismic.io/x-track-mag/aeNNBp1ZCF7ETVDF_RollingStones.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Rolling Stones ",
 					"copyright": null,
 					"width": 1024,
-					"height": 537,
-					"ratio": 1.9068901303538175
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/672c22ee-c789-43cf-bee0-d599664ace95_Lauryn+Hill.jpg?auto=compress,format&rect=0,0,1499,1000&w=1024&h=683",
-					"alt": "Lauryn Hill",
-					"copyright": null,
-					"width": 1024,
-					"height": 683,
-					"ratio": 1.499267935578331
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/d770030b-3e27-4195-a6e7-42d3416edb93_Gang+Star.jpg?auto=compress,format&rect=0,0,1200,1200&w=1024&h=1024",
-					"alt": "Gang Star",
+					"url": "https://images.prismic.io/x-track-mag/aeNM-51ZCF7ETVC6_TheBeatles.jpg?auto=format,compress&rect=0,0,1920,1920&w=1024&h=1024",
+					"alt": "The Beatles",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aeNNAp1ZCF7ETVDB_Santana..jpg?auto=format,compress&rect=0,0,1600,1061&w=1024&h=679",
+					"alt": "Santana",
+					"copyright": null,
+					"width": 1024,
+					"height": 679,
+					"ratio": 1.508100147275405
 				}
 			]
 		},
@@ -62,28 +62,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/67c87d89-1d9f-4308-83ed-b56250ea1605_Dr+Dre.jpg?auto=compress,format&rect=0,0,1000,1005&w=1024&h=1029",
-					"alt": "Dr Dre",
+					"url": "https://images.prismic.io/x-track-mag/aeNNBJ1ZCF7ETVDD_FleetwoodMac.jpg?auto=format,compress&rect=0,0,1100,619&w=1024&h=576",
+					"alt": "Fleetwood Mac",
 					"copyright": null,
 					"width": 1024,
-					"height": 1029,
-					"ratio": 0.9951409135082604
+					"height": 576,
+					"ratio": 1.7777777777777777
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/efcd4cd6-476f-478d-afd8-c97f33c566db_Foxy+Brown.jpg?auto=compress,format&rect=0,0,743,570&w=1024&h=786",
-					"alt": "Foxy Brown",
+					"url": "https://images.prismic.io/x-track-mag/aeNM-p1ZCF7ETVC5_TheDoors.jpg?auto=format,compress&rect=0,0,1280,950&w=1024&h=760",
+					"alt": "The Doors",
 					"copyright": null,
 					"width": 1024,
-					"height": 786,
-					"ratio": 1.3027989821882953
+					"height": 760,
+					"ratio": 1.3473684210526315
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/89076659-ff51-491f-a058-da9daad46bfb_Snoop+Dog.jpg?auto=compress,format&rect=0,0,1260,708&w=1024&h=575",
-					"alt": "Snoop Dog",
+					"url": "https://images.prismic.io/x-track-mag/aeNM_J1ZCF7ETVC7_LedZeppelin.jpeg?auto=format,compress&rect=1,0,2399,1600&w=1024&h=683",
+					"alt": "Led Zeppelin ",
 					"copyright": null,
 					"width": 1024,
-					"height": 575,
-					"ratio": 1.7808695652173914
+					"height": 683,
+					"ratio": 1.499267935578331
 				}
 			]
 		},
