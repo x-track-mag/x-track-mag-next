@@ -33,6 +33,27 @@
 	"image": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "chill-hip-hop-from-90s",
+			"tags": [],
+			"publication_date": "2026-04-18T09:30:31+0000",
+			"title": "60's x 70's",
+			"subtitle": "Vintage Pop Rock - Photo : Jimi hendrix",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/aeNNCJ1ZCF7ETVDH_JimiHendrix..jpg?auto=format,compress",
+				"alt": "Jimi Hendrix",
+				"copyright": null,
+				"width": 4134,
+				"height": 4154,
+				"ratio": 0.9951853635050554
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Vintage Pop Rock"
+		},
+		{
 			"uid": "best-of-chill",
 			"tags": [
 				"music"
@@ -113,27 +134,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Yacht Music"
-		},
-		{
-			"uid": "classiques-francais",
-			"tags": [],
-			"publication_date": "2026-04-14T09:27:05+0000",
-			"title": "Classiques Français",
-			"subtitle": "40s 50s 60s 70s 80s - Photo Serge Gainsbourg Jane Birkin",
-			"text_color": "green",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/ad4AmJ1ZCF7ETKb9_GainsbourgBirkin.jpg?auto=format,compress",
-				"alt": "Serge Gainsbourg Jane Birkin ",
-				"copyright": null,
-				"width": 1282,
-				"height": 2000,
-				"ratio": 0.641
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Classiques Français"
 		},
 		{
 			"uid": "in-love",
