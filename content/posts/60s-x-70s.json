@@ -1,7 +1,7 @@
 {
 	"uid": "60s-x-70s",
 	"tags": [],
-	"publication_date": "2026-04-18T09:37:05+0000",
+	"publication_date": "2026-04-18T09:38:27+0000",
 	"title": "60's x 70's",
 	"subtitle": "Vintage Pop Rock - Cover Jimi Hendrix",
 	"text_color": "inverted",
@@ -91,8 +91,8 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/2M3ZgC2JMXYx4JVqf5rjgt?si=1366588660e44e1a",
-					"title": "Old School Hip Hop"
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMAm0RjKhYA6nC-f-HBFqlQQ",
+					"title": "60's x 70's"
 				}
 			]
 		},
@@ -100,8 +100,8 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://www.deezer.com/en/playlist/11619959604",
-					"title": "Old School Hip Hop"
+					"url": "https://open.spotify.com/playlist/2EKYF53H94y9zKjopxPFSo?si=c95cd9149a034b7a",
+					"title": "60's x 70's"
 				}
 			]
 		},
@@ -109,8 +109,8 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMAkv8VcW8ZKoxlQmeM1aDd7",
-					"title": "Old School Hip Hop"
+					"url": "https://www.deezer.com/fr/playlist/4985840644",
+					"title": "60's x 70's"
 				}
 			]
 		}
