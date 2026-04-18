@@ -1,0 +1,119 @@
+{
+	"uid": "vintage-pop-rock",
+	"tags": [],
+	"publication_date": "2026-04-18T09:55:23+0000",
+	"title": "60's x 70's",
+	"subtitle": "Vintage Pop Rock - Photo : Jimi Hendrix",
+	"text_color": "inverted",
+	"image": {
+		"url": "https://images.prismic.io/x-track-mag/aeNNCJ1ZCF7ETVDH_JimiHendrix..jpg?auto=format,compress",
+		"alt": "Jimi Hendrix",
+		"copyright": null,
+		"width": 4134,
+		"height": 4154,
+		"ratio": 0.9951853635050554
+	},
+	"video_loop": null,
+	"template": "1: Image + Titre + sous-titre + infos",
+	"author": "XTrack Team",
+	"internal_link": null,
+	"sections": [
+		{
+			"template": "section-full-text",
+			"text": [
+				{
+					"type": "paragraph",
+					"text": "Jimi Hendrix + America + Fleetwood Mac + Santana + Donovan + Cream + The Beatles + The Doors + Paul & Linda McCartney + Eagles + T Rex + Led Zeppelin + The Rolling Stones + Creedence Clearwater Revival + David Bowie & +++ Enjoy",
+					"spans": [],
+					"direction": "ltr"
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/aeNNBp1ZCF7ETVDF_RollingStones.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Rolling Stones ",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aeNM-51ZCF7ETVC6_TheBeatles.jpg?auto=format,compress&rect=0,0,1920,1920&w=1024&h=1024",
+					"alt": "The Beatles",
+					"copyright": null,
+					"width": 1024,
+					"height": 1024,
+					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aeNNAp1ZCF7ETVDB_Santana..jpg?auto=format,compress&rect=0,0,1600,1061&w=1024&h=679",
+					"alt": "Santana",
+					"copyright": null,
+					"width": 1024,
+					"height": 679,
+					"ratio": 1.508100147275405
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/aeNNBJ1ZCF7ETVDD_FleetwoodMac.jpg?auto=format,compress&rect=0,0,1100,619&w=1024&h=576",
+					"alt": "Fleetwood Mac",
+					"copyright": null,
+					"width": 1024,
+					"height": 576,
+					"ratio": 1.7777777777777777
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aeNM-p1ZCF7ETVC5_TheDoors.jpg?auto=format,compress&rect=0,0,1280,950&w=1024&h=760",
+					"alt": "The Doors",
+					"copyright": null,
+					"width": 1024,
+					"height": 760,
+					"ratio": 1.3473684210526315
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/aeNM_J1ZCF7ETVC7_LedZeppelin.jpeg?auto=format,compress&rect=1,0,2399,1600&w=1024&h=683",
+					"alt": "Led Zeppelin ",
+					"copyright": null,
+					"width": 1024,
+					"height": 683,
+					"ratio": 1.499267935578331
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMAm0RjKhYA6nC-f-HBFqlQQ",
+					"title": "60's x 70's"
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://open.spotify.com/playlist/2EKYF53H94y9zKjopxPFSo?si=012fdb98d50b4808",
+					"title": "60's x 70's"
+				}
+			]
+		},
+		{
+			"template": "section-playlist",
+			"playlist": [
+				{
+					"url": "https://www.deezer.com/fr/playlist/4985840644",
+					"title": "60's x 70's"
+				}
+			]
+		}
+	],
+	"description": "Vintage Pop Rock"
+}
