@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-04-17T23:22:40+0000",
+	"publication_date": "2026-04-20T07:53:06+0000",
 	"title": "Yacht Music 2 ",
 	"subtitle": "The Power Of Gentle Joy - Cover : Soul II Soul ",
 	"text_color": "green",
@@ -93,17 +93,18 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMC1CzGVtkqvVDwuS6EABM_A",
-					"title": "Tropical"
+					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMCkRPuVb2YJ4XdLQXpgsE-b",
+					"title": "Yacht Music 2"
 				},
 				{
-					"url": "https://open.spotify.com/playlist/4vcp9k3nl0gFzXOjhimDJq?si=b8a37617b6d144ed",
-					"title": "Tropical"
+					"url": "https://open.spotify.com/playlist/36wLfHJCs61Godz0ULhNwa?si=55eeacc1991547c3",
+					"title": "Yacht Music 2"
 				},
 				{
-					"url": "https://www.deezer.com/fr/playlist/4930107344",
-					"title": "Tropical"
-				}
+					"url": "https://www.deezer.com/fr/playlist/4936380104",
+					"title": "Yacht Music 2"
+				},
+				null
 			]
 		}
 	],
