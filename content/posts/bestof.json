@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-04-17T23:30:54+0000",
-	"title": "Best of - Video : Doechii ",
+	"publication_date": "2026-07-04T11:44:25+0000",
+	"title": "Best of - Video : Jorja Smith x Wizkid",
 	"subtitle": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop",
 	"text_color": "green",
 	"image": null,
 	"video_loop": {
-		"name": "Doechii - Anxiety.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/adoQMJ1ZCF7ETG8p_Doechii-Anxiety.mp4"
+		"name": "Wizkid X Jorja Smith Alive_1.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/BfC_K-YfXq_fuLDK_WizkidXJorjaSmithAlive_1.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Armanii x Sortie +  Nigy Boy + Doechii + Thundercat x Mac Miller + Tom Misch + Arlo Parks + Kceex Olamide + Jordan Ward + Disclosure + Lesley + Juls x Kojo Black x Minz + Jada Kingdom + Nesta + Valiant + Little Simz x Obongjayar + Lila Iké x Masicka + Bakar & +++ Enjoy ",
+					"text": "+++ Jorja Smith x Wizkid + Chaton + BackRoad Gee x Pa Salieu + Shensea + 808vic + J Hus + Lesley + Bella Ora + Asake + Alissia x Anderson Paak & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aXIh1gIvOtkhB0OS_Armanii.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Armanii",
+					"url": "https://images.prismic.io/x-track-mag/89452a59-be07-465e-ad3d-30019bb1d53b_Jorja+Smith.jpg?auto=format,compress&rect=0,0,1250,1750&w=1024&h=1434",
+					"alt": "Jorja Smith",
+					"copyright": null,
+					"width": 1024,
+					"height": 1434,
+					"ratio": 0.7140864714086471
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/zeZtj6DRzBo4IhFM_Chaton.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
+					"alt": "Chaton",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/b526314b-5444-4ea5-8150-5c7c0b79a844_Doechii.+.jpg?auto=format,compress&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Doechii",
+					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=format,compress&rect=0,0,1400,1400&w=1024&h=1024",
+					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/c5b4d390-28c0-4c38-ac48-0b435c9cf650_Thundercat.jpg?auto=format,compress&rect=0,0,1200,900&w=1024&h=768",
-					"alt": "Thundercat",
-					"copyright": null,
-					"width": 1024,
-					"height": 768,
-					"ratio": 1.3333333333333333
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z23eNJbqstJ982BQ_TomMisch.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Tom Misch",
+					"url": "https://images.prismic.io/x-track-mag/ZginJ8t2UUcvBSwu_Shenseea.jpg?auto=format,compress&rect=0,0,1080,1346&w=1024&h=1276",
+					"alt": "Shenseea",
+					"copyright": null,
+					"width": 1024,
+					"height": 1276,
+					"ratio": 0.8025078369905956
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/OsCGcNRqwS4ly5Q1_Alissia%2CAndersonPaak.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Alissia, Anderson Paak ",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/a4a67c66-cd1b-469a-99af-ce4295a26be4_Arlo+Parks.jpg?auto=format,compress&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
+					"url": "https://images.prismic.io/x-track-mag/POYsnJCfKxwtN3mW_BellaOra.jpg?auto=format,compress&rect=0,0,335,597&w=1024&h=1825",
+					"alt": "Bella Ora",
 					"copyright": null,
 					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/aeLCQJ1ZCF7ETU2J_KCee.jpg?auto=format,compress&rect=0,0,1080,1439&w=1024&h=1364",
-					"alt": "KCee",
-					"copyright": null,
-					"width": 1024,
-					"height": 1364,
-					"ratio": 0.750733137829912
+					"height": 1825,
+					"ratio": 0.5610958904109589
 				}
 			]
 		},
@@ -93,11 +93,11 @@
 					"title": "Best of"
 				},
 				{
-					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=7e786c9ab91a43ff",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW?si=e09b593f89d64146",
 					"title": "Best of"
 				},
 				{
-					"url": "https://www.deezer.com/fr/playlist/4099699282",
+					"url": "https://open.spotify.com/playlist/6JTBjrHT8zeNNYSDWuD4GW",
 					"title": "Best of"
 				}
 			]
