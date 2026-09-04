@@ -3,9 +3,37 @@
 	"description": "AWARE AND COLOURFUL - SHARING AND LIVING IN A CREATIVE WORLD FOR CREATIVE MINDS",
 	"keywords": "Musique indépendante, Webzine, X-TRACK",
 	"scrolling_news": [
-		"+++ BEST OF CHILL +++ BRENT FAIYAZ X TOKISCHA + THEE SINEERS X JOEY QUINONES + JUNGLE + AYRA STARR X LEON THOMAS + WYCLEF JEAN X YUSSEF DAYES X THEO CROKER X YIRI SANCHEZ X AXEL TOSCA + NUTTY O X BUGLE X LEE SAUVAGE + DESTIN CONRAD + JULS X PROJEXX X PA SALIEU + SHENSEA X DJ FRASS + JOYCE WRICE X SALIMATA + AALLIM + CHATON & +++ ENJOY\n "
+		"+++ BEST OF CHILL +++ BRENT FAIYAZ X TOKISCHA + THEE SINEERS X JOEY QUINONES + JUNGLE + AYRA STARR X LEON THOMAS + WYCLEF JEAN X YUSSEF DAYES X THEO CROKER X YIRI SANCHEZ X AXEL TOSCA + NUTTY O X BUGLE X LEE SAUVAGE + DESTIN CONRAD + JULS X PROJEXX X PA SALIEU + SHENSEA X DJ FRASS + JOYCE WRICE X SALIMATA + AALLIM + CHATON & +++ ENJOY"
 	],
-	"pinned_posts": [],
+	"pinned_posts": [
+		{
+			"position": null
+		},
+		{
+			"position": 1,
+			"uid": "best-of-chill"
+		},
+		{
+			"position": 2,
+			"uid": "yacht-music"
+		},
+		{
+			"position": 3,
+			"uid": "bestof"
+		},
+		{
+			"position": 4,
+			"uid": "vintage-pop-rock"
+		},
+		{
+			"position": 5,
+			"uid": "in-love"
+		},
+		{
+			"position": 6,
+			"uid": "yacht-music2"
+		}
+	],
 	"selected_reads": [
 		{
 			"uid": "old-school-reggae",
@@ -33,6 +61,46 @@
 	"image": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "best-of-chill",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-09-04T23:05:16+0000",
+			"title": "Best of Chill ",
+			"subtitle": "Happy Chill Vibes - Video : Thee Sineers x Joey Quinones",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Thee Sinseers - Did Ya Know (Official Music Video)_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/WpBj5HOkn8Lovdmx_TheeSinseers-DidYaKnow-OfficialMusicVideo-_1.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Happy Chill Vibes"
+		},
+		{
+			"uid": "yacht-music",
+			"tags": [],
+			"publication_date": "2026-04-17T23:45:58+0000",
+			"title": "Yacht Music ",
+			"subtitle": "The Power Of Gentle Joy - Photo : Sade ",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/acozVZGXnQHGZFW8_Sade.jpeg?auto=format,compress",
+				"alt": "Sade",
+				"copyright": null,
+				"width": 1600,
+				"height": 1484,
+				"ratio": 1.0781671159029649
+			},
+			"video_loop": null,
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Kind of Yacht Music"
+		},
+		{
 			"uid": "bestof",
 			"tags": [
 				"music"
@@ -52,23 +120,25 @@
 			"description": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop"
 		},
 		{
-			"uid": "best-of-chill",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2026-09-04T23:05:16+0000",
-			"title": "Best of Chill ",
-			"subtitle": "Happy Chill Vibes - Video : Thee Sineers x Joey Quinones",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Thee Sinseers - Did Ya Know (Official Music Video)_1.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/WpBj5HOkn8Lovdmx_TheeSinseers-DidYaKnow-OfficialMusicVideo-_1.mp4"
+			"uid": "vintage-pop-rock",
+			"tags": [],
+			"publication_date": "2026-04-18T09:55:23+0000",
+			"title": "60's x 70's",
+			"subtitle": "Vintage Pop Rock - Photo : Jimi Hendrix",
+			"text_color": "inverted",
+			"image": {
+				"url": "https://images.prismic.io/x-track-mag/aeNNCJ1ZCF7ETVDH_JimiHendrix..jpg?auto=format,compress",
+				"alt": "Jimi Hendrix",
+				"copyright": null,
+				"width": 4134,
+				"height": 4154,
+				"ratio": 0.9951853635050554
 			},
+			"video_loop": null,
 			"template": "1: Image + Titre + sous-titre + infos",
 			"author": "XTrack Team",
 			"internal_link": null,
-			"description": "Happy Chill Vibes"
+			"description": "Vintage Pop Rock"
 		},
 		{
 			"uid": "in-love",
@@ -111,48 +181,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Yacht Music"
-		},
-		{
-			"uid": "vintage-pop-rock",
-			"tags": [],
-			"publication_date": "2026-04-18T09:55:23+0000",
-			"title": "60's x 70's",
-			"subtitle": "Vintage Pop Rock - Photo : Jimi Hendrix",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/aeNNCJ1ZCF7ETVDH_JimiHendrix..jpg?auto=format,compress",
-				"alt": "Jimi Hendrix",
-				"copyright": null,
-				"width": 4134,
-				"height": 4154,
-				"ratio": 0.9951853635050554
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Vintage Pop Rock"
-		},
-		{
-			"uid": "yacht-music",
-			"tags": [],
-			"publication_date": "2026-04-17T23:45:58+0000",
-			"title": "Yacht Music ",
-			"subtitle": "The Power Of Gentle Joy - Photo : Sade ",
-			"text_color": "inverted",
-			"image": {
-				"url": "https://images.prismic.io/x-track-mag/acozVZGXnQHGZFW8_Sade.jpeg?auto=format,compress",
-				"alt": "Sade",
-				"copyright": null,
-				"width": 1600,
-				"height": 1484,
-				"ratio": 1.0781671159029649
-			},
-			"video_loop": null,
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Kind of Yacht Music"
 		},
 		{
 			"uid": "old-school-reggae",
