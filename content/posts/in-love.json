@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-04-12T10:05:14+0000",
+	"publication_date": "2026-09-04T22:31:59+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs - Video : Billie Eilish",
 	"text_color": "green",
@@ -33,7 +33,7 @@
 				},
 				{
 					"type": "paragraph",
-					"text": "Anaïs Cardot + James Blake + Men I Trust + Billie Eilish + Hannes x Waterbaby + Michael Kiwanuka + Arlo Parks + Sault + Feu! Chatterton + Polo & Pan x Arthur Teboul + Gabi Hartmann & +++ ",
+					"text": "The California Honeydrops x Dirtwire + Isaiah Falls x Mahalia + Daniale Luppi x Michael Kiwanuka + James Blake + Billie Eilish + Arlo Parks + Sault + Hannes x Waterbaby +  Men I Trust +  Gabi Hartmann + Wizkid x Anaïs Cardot + Jenevieve + Amaria & +++ ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -43,12 +43,41 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/Z1Vx7ZbqstJ98M85_Anai%CC%88sCardot.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Anaïs Cardot",
+					"url": "https://images.prismic.io/x-track-mag/7f975ad0-713c-4d91-976b-26483bf2bff0_Men+i+Trust.jpg?auto=format,compress&rect=0,0,770,1080&w=1024&h=1436",
+					"alt": "Men i Trust",
+					"copyright": null,
+					"width": 1024,
+					"height": 1436,
+					"ratio": 0.713091922005571
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/gDU0Un4Qwi38oef__TheeSinseers%26JoeyQuinones.jpg?auto=format,compress&rect=0,0,2000,2000&w=1024&h=1024",
+					"alt": "Thee Sinseers & Joey Quinones",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/ZjJ8M0MTzAJOCeON_MichaelKiwanuka.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
+					"alt": "Michael Kiwanuka",
+					"copyright": null,
+					"width": 1024,
+					"height": 1262,
+					"ratio": 0.8114104595879557
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
+				{
+					"url": "https://images.prismic.io/x-track-mag/f1c94d50-9689-4a0b-8992-9712fa684746_Waterbaby.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
+					"alt": "Waterbaby",
+					"copyright": null,
+					"width": 1024,
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/1e92d44d-ec50-421b-810d-e769fac58231_James+Blake.jpg?auto=format,compress&rect=0,0,1333,1675&w=1024&h=1287",
@@ -59,41 +88,12 @@
 					"ratio": 0.7956487956487956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/7f975ad0-713c-4d91-976b-26483bf2bff0_Men+i+Trust.jpg?auto=format,compress&rect=0,0,770,1080&w=1024&h=1436",
-					"alt": "Men i Trust",
+					"url": "https://images.prismic.io/x-track-mag/34ba99df-750b-40b7-bbbf-161d0c414383_Amaria+.jpg?auto=format,compress&rect=0,0,500,500&w=1024&h=1024",
+					"alt": "Amaria",
 					"copyright": null,
 					"width": 1024,
-					"height": 1436,
-					"ratio": 0.713091922005571
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZjJ8M0MTzAJOCeON_MichaelKiwanuka.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
-					"alt": "Michael Kiwanuka",
-					"copyright": null,
-					"width": 1024,
-					"height": 1262,
-					"ratio": 0.8114104595879557
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/5373e4a8-d5b8-4d16-a4bd-8beb32da0ef0_Arlo+Parks-Photo+Charlie+Cummings.jpg?auto=format,compress&rect=0,0,2048,1152&w=1024&h=576",
-					"alt": "Arlo Parks",
-					"copyright": null,
-					"width": 1024,
-					"height": 576,
-					"ratio": 1.7777777777777777
-				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/a107dda6-c166-4c8a-847c-996a278a89a4_Feu%21%21+Chatterton.jpg?auto=format,compress&rect=0,0,2048,1638&w=1024&h=819",
-					"alt": null,
-					"copyright": null,
-					"width": 1024,
-					"height": 819,
-					"ratio": 1.2503052503052503
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -101,15 +101,15 @@
 			"template": "section-playlist",
 			"playlist": [
 				{
-					"url": "https://open.spotify.com/playlist/6Hb1azJBSo8uiF3vOHgQyB?si=f65411f61fa94bda",
-					"title": "In Love"
-				},
-				{
-					"url": "https://www.deezer.com/us/playlist/5015008604",
-					"title": "In Love"
-				},
-				{
 					"url": "https://www.youtube.com/playlist?list=PLLJkxWPTDgMD4p9lh3ocTQ2CX7vLe9GlN",
+					"title": "In Love"
+				},
+				{
+					"url": "https://open.spotify.com/playlist/3BfugWcx08889ArKCvFfOK?si=0c27b4bee2844541",
+					"title": "In Love"
+				},
+				{
+					"url": "https://www.deezer.com/fr/playlist/5015008604",
 					"title": "In Love"
 				}
 			]
