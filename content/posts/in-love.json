@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-09-04T22:31:59+0000",
+	"publication_date": "2026-09-04T22:37:18+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs - Video : Billie Eilish",
 	"text_color": "green",
@@ -51,26 +51,13 @@
 					"ratio": 0.713091922005571
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/gDU0Un4Qwi38oef__TheeSinseers%26JoeyQuinones.jpg?auto=format,compress&rect=0,0,2000,2000&w=1024&h=1024",
-					"alt": "Thee Sinseers & Joey Quinones",
+					"url": "https://images.prismic.io/x-track-mag/DRu6GHPjEhz_gTOI_the_california_honeydrops.jpg?auto=format,compress&rect=0,0,2000,1414&w=1024&h=724",
+					"alt": "The California Honeydrops",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 724,
+					"ratio": 1.4143646408839778
 				},
-				{
-					"url": "https://images.prismic.io/x-track-mag/ZjJ8M0MTzAJOCeON_MichaelKiwanuka.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
-					"alt": "Michael Kiwanuka",
-					"copyright": null,
-					"width": 1024,
-					"height": 1262,
-					"ratio": 0.8114104595879557
-				}
-			]
-		},
-		{
-			"template": "section-gallery",
-			"gallery": [
 				{
 					"url": "https://images.prismic.io/x-track-mag/f1c94d50-9689-4a0b-8992-9712fa684746_Waterbaby.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
 					"alt": "Waterbaby",
@@ -78,14 +65,19 @@
 					"width": 1024,
 					"height": 1280,
 					"ratio": 0.8
-				},
+				}
+			]
+		},
+		{
+			"template": "section-gallery",
+			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/1e92d44d-ec50-421b-810d-e769fac58231_James+Blake.jpg?auto=format,compress&rect=0,0,1333,1675&w=1024&h=1287",
-					"alt": "James Blake",
+					"url": "https://images.prismic.io/x-track-mag/ZpFNMh5LeNNTxHfP_MichaelKiwanuka.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
+					"alt": "Michael Kiwanuka",
 					"copyright": null,
 					"width": 1024,
-					"height": 1287,
-					"ratio": 0.7956487956487956
+					"height": 1262,
+					"ratio": 0.8114104595879557
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/34ba99df-750b-40b7-bbbf-161d0c414383_Amaria+.jpg?auto=format,compress&rect=0,0,500,500&w=1024&h=1024",
@@ -94,6 +86,14 @@
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/1e92d44d-ec50-421b-810d-e769fac58231_James+Blake.jpg?auto=format,compress&rect=0,0,1333,1675&w=1024&h=1287",
+					"alt": "James Blake",
+					"copyright": null,
+					"width": 1024,
+					"height": 1287,
+					"ratio": 0.7956487956487956
 				}
 			]
 		},
