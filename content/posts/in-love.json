@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-09-04T22:37:18+0000",
+	"publication_date": "2026-09-04T22:37:39+0000",
 	"title": "In Love",
 	"subtitle": "Our favorite Love & Cool Songs - Video : Billie Eilish",
 	"text_color": "green",
@@ -72,12 +72,12 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/ZpFNMh5LeNNTxHfP_MichaelKiwanuka.jpg?auto=format,compress&rect=0,0,1080,1331&w=1024&h=1262",
-					"alt": "Michael Kiwanuka",
+					"url": "https://images.prismic.io/x-track-mag/RwXICLgv34T2W4mO_IsaiahFalls.jpg?auto=format,compress&rect=0,0,1170,1462&w=1024&h=1280",
+					"alt": "Isaiah Falls",
 					"copyright": null,
 					"width": 1024,
-					"height": 1262,
-					"ratio": 0.8114104595879557
+					"height": 1280,
+					"ratio": 0.8
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/34ba99df-750b-40b7-bbbf-161d0c414383_Amaria+.jpg?auto=format,compress&rect=0,0,500,500&w=1024&h=1024",
