@@ -3,14 +3,14 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-04-17T23:46:14+0000",
+	"publication_date": "2026-09-04T23:05:16+0000",
 	"title": "Best of Chill ",
-	"subtitle": "Happy Chill Vibes - Video : Momo Boyd ",
+	"subtitle": "Happy Chill Vibes - Video : Thee Sineers x Joey Quinones",
 	"text_color": "green",
 	"image": null,
 	"video_loop": {
-		"name": "Momo Boyd Oops.mp4",
-		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aeK-mp1ZCF7ETU17_MomoBoydOops.mp4"
+		"name": "Thee Sinseers - Did Ya Know (Official Music Video)_1.mp4",
+		"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/WpBj5HOkn8Lovdmx_TheeSinseers-DidYaKnow-OfficialMusicVideo-_1.mp4"
 	},
 	"template": "1: Image + Titre + sous-titre + infos",
 	"author": "XTrack Team",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "Protoje x Jesse Royal + Baby Keen x Kendrick Lamar x Momo Boyd + Doechii x SZA + Jenevieve x Freddie Gibbs x Salimata +  Momo Boyd x Infinity Song + Crayon x Rhye + Obongjayar + Juls x Anaïs Cardot x Kadiata + Little Simz x Lydia Kitto + Tom Misch + Mahalia x Lila Iké + Michael Kiwanuka + Waterbaby + Jordan Ward & +++ enjoy",
+					"text": "Brent Faiyaz x Tokischa + Thee Sineers x Joey Quinones + Jungle + Ayra Starr x Leon Thomas + Wyclef Jean x Yussef Dayes x Theo Croker x Yiri Sanchez x Axel Tosca +  Nutty O x Bugle x Lee Sauvage + Destin Conrad + Juls x Projexx x Pa Salieu + Shensea x DJ Frass + Joyce Wrice x Salimata + Aallim + Chaton & +++ enjoy",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -31,28 +31,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/b526314b-5444-4ea5-8150-5c7c0b79a844_Doechii.+.jpg?auto=format,compress&rect=0,0,1440,1440&w=1024&h=1024",
-					"alt": "Doechii",
+					"url": "https://images.prismic.io/x-track-mag/NDLX1djDwYNyOQFS_Tokischa.jpg?auto=format,compress&rect=0,0,1000,1000&w=1024&h=1024",
+					"alt": "Tokischa",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/30726c5d-6ca9-4148-bab1-f822044ee879_Protoje.jpg?auto=format,compress&rect=0,0,1080,1350&w=1024&h=1280",
-					"alt": "Protoje",
+					"url": "https://images.prismic.io/x-track-mag/Ee5ey6hDPbE6KUTy_BrentFaiyaz.jpg?auto=format,compress&rect=0,0,1096,1461&w=1024&h=1365",
+					"alt": "Brent Faiyaz",
 					"copyright": null,
 					"width": 1024,
-					"height": 1280,
-					"ratio": 0.8
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aa1ErlxvIZEnjcoO_MomoBoydxBabyKeem.jpg?auto=format,compress&rect=0,0,1080,1439&w=1024&h=1364",
-					"alt": "Momo Boyd x Baby Keem",
+					"url": "https://images.prismic.io/x-track-mag/v4L1nZNCeYuP5jBI_JoyceWrice.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
+					"alt": "Joyce Wrice",
 					"copyright": null,
 					"width": 1024,
-					"height": 1364,
-					"ratio": 0.750733137829912
+					"height": 1024,
+					"ratio": 1
 				}
 			]
 		},
@@ -60,28 +60,28 @@
 			"template": "section-gallery",
 			"gallery": [
 				{
-					"url": "https://images.prismic.io/x-track-mag/aa1ErFxvIZEnjcoM_KendrickLamar.jpg?auto=format,compress&rect=0,0,1080,1440&w=1024&h=1365",
-					"alt": "Kendrick Lamar",
+					"url": "https://images.prismic.io/x-track-mag/HcmEl2f39bp6P31__DestinConrad.jpg?auto=format,compress&rect=0,0,1170,1560&w=1024&h=1365",
+					"alt": "Destin Conrad",
 					"copyright": null,
 					"width": 1024,
 					"height": 1365,
 					"ratio": 0.7501831501831502
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/aeLAVp1ZCF7ETU2C_Jenevieve.jpg?auto=format,compress&rect=0,0,900,900&w=1024&h=1024",
-					"alt": "Jenevieve",
+					"url": "https://images.prismic.io/x-track-mag/7Q6Kjpi2Y7PAOnKS_LydiaKitto.jpg?auto=format,compress&rect=0,0,1024,529&w=1024&h=529",
+					"alt": "Lydia Kitto / Jungle",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 529,
+					"ratio": 1.9357277882797732
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/e8a343b5-1cd8-4c12-be1b-13fa6eba2c08_Obongjayar.jpg?auto=format,compress&rect=0,0,1080,1349&w=1024&h=1279",
-					"alt": "Obongjayar",
+					"url": "https://images.prismic.io/x-track-mag/bkY-mt42rEPQoWee_WyclefJean.jpg?auto=format,compress&rect=0,0,1170,1560&w=1024&h=1365",
+					"alt": "Wyclef Jean ",
 					"copyright": null,
 					"width": 1024,
-					"height": 1279,
-					"ratio": 0.800625488663018
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				}
 			]
 		},

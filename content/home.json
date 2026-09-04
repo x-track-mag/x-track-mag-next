@@ -33,6 +33,25 @@
 	"image": "https://images.prismic.io/x-track-mag/0170a205-9794-4f6e-ae18-d081e6ee546f_jamaica.jpg?auto=compress,format",
 	"sections": [
 		{
+			"uid": "best-of-chill",
+			"tags": [
+				"music"
+			],
+			"publication_date": "2026-09-04T23:05:16+0000",
+			"title": "Best of Chill ",
+			"subtitle": "Happy Chill Vibes - Video : Thee Sineers x Joey Quinones",
+			"text_color": "green",
+			"image": null,
+			"video_loop": {
+				"name": "Thee Sinseers - Did Ya Know (Official Music Video)_1.mp4",
+				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/WpBj5HOkn8Lovdmx_TheeSinseers-DidYaKnow-OfficialMusicVideo-_1.mp4"
+			},
+			"template": "1: Image + Titre + sous-titre + infos",
+			"author": "XTrack Team",
+			"internal_link": null,
+			"description": "Happy Chill Vibes"
+		},
+		{
 			"uid": "in-love",
 			"tags": [
 				"music"
@@ -113,25 +132,6 @@
 			"author": "XTrack Team",
 			"internal_link": null,
 			"description": "Vintage Pop Rock"
-		},
-		{
-			"uid": "best-of-chill",
-			"tags": [
-				"music"
-			],
-			"publication_date": "2026-04-17T23:46:14+0000",
-			"title": "Best of Chill ",
-			"subtitle": "Happy Chill Vibes - Video : Momo Boyd ",
-			"text_color": "green",
-			"image": null,
-			"video_loop": {
-				"name": "Momo Boyd Oops.mp4",
-				"url": "https://x-track-mag.cdn.prismic.io/x-track-mag/aeK-mp1ZCF7ETU17_MomoBoydOops.mp4"
-			},
-			"template": "1: Image + Titre + sous-titre + infos",
-			"author": "XTrack Team",
-			"internal_link": null,
-			"description": "Happy Chill Vibes"
 		},
 		{
 			"uid": "yacht-music",
