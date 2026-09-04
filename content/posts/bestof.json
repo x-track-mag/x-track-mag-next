@@ -3,7 +3,7 @@
 	"tags": [
 		"music"
 	],
-	"publication_date": "2026-07-04T11:44:25+0000",
+	"publication_date": "2026-09-04T23:12:44+0000",
 	"title": "Best of - Video : Jorja Smith x Wizkid",
 	"subtitle": "Trap Soul / Afroswing / Roots Reggae / Rap / Pop",
 	"text_color": "green",
@@ -21,7 +21,7 @@
 			"text": [
 				{
 					"type": "paragraph",
-					"text": "+++ Jorja Smith x Wizkid + Chaton + BackRoad Gee x Pa Salieu + Shensea + 808vic + J Hus + Lesley + Bella Ora + Asake + Alissia x Anderson Paak & +++ Enjoy ",
+					"text": "+++ Jorja Smith x Wizkid + Adanna Duru x Bas +  Chaton + Papa Wemba x Juls + Juls x Projexx + Hope Vocals x DJ Genious + Jungle + Leon Bridges + Tul8te + Shensea + Bella Ora + Haifa Wehbe x Saint Levant +  Benny Blanco x Bd Trickz + 808vic + Rhye + J Hus +   & +++ Enjoy ",
 					"spans": [],
 					"direction": "ltr"
 				}
@@ -39,20 +39,20 @@
 					"ratio": 0.7140864714086471
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/zeZtj6DRzBo4IhFM_Chaton.jpg?auto=format,compress&rect=0,0,640,640&w=1024&h=1024",
-					"alt": "Chaton",
-					"copyright": null,
-					"width": 1024,
-					"height": 1024,
-					"ratio": 1
-				},
-				{
 					"url": "https://images.prismic.io/x-track-mag/8512258e-1bcc-4849-a0ea-06ef7c7148eb_Wizkid+.jpg?auto=format,compress&rect=0,0,1400,1400&w=1024&h=1024",
 					"alt": "Wizkid",
 					"copyright": null,
 					"width": 1024,
 					"height": 1024,
 					"ratio": 1
+				},
+				{
+					"url": "https://images.prismic.io/x-track-mag/dVujwT6TOkjNkJSk_AdanaDuru.jpg?auto=format,compress&rect=0,0,2316,3087&w=1024&h=1365",
+					"alt": "Adana Duru",
+					"copyright": null,
+					"width": 1024,
+					"height": 1365,
+					"ratio": 0.7501831501831502
 				}
 			]
 		},
@@ -68,12 +68,12 @@
 					"ratio": 0.8025078369905956
 				},
 				{
-					"url": "https://images.prismic.io/x-track-mag/OsCGcNRqwS4ly5Q1_Alissia%2CAndersonPaak.jpg?auto=format,compress&rect=0,0,1080,1080&w=1024&h=1024",
-					"alt": "Alissia, Anderson Paak ",
+					"url": "https://images.prismic.io/x-track-mag/7686aca8-fc4c-40ef-aa56-c98de5368159_Juls.jpg?auto=format,compress&rect=0,0,1440,1436&w=1024&h=1021",
+					"alt": "Juls",
 					"copyright": null,
 					"width": 1024,
-					"height": 1024,
-					"ratio": 1
+					"height": 1021,
+					"ratio": 1.0029382957884427
 				},
 				{
 					"url": "https://images.prismic.io/x-track-mag/POYsnJCfKxwtN3mW_BellaOra.jpg?auto=format,compress&rect=0,0,335,597&w=1024&h=1825",
